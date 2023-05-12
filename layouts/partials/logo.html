@@ -1,0 +1,66 @@
+<style>
+    #logo svg,
+    #logo svg * {
+        color: #282828;
+        color: var(--MENU-SECTIONS-BG-color);
+        fill: #282828 !important;
+        fill: var(--MENU-SECTIONS-BG-color) !important;
+        opacity: .945;
+    }
+    a#logo {
+        color: #282828;
+        color: var(--MENU-SECTIONS-BG-color);
+        font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
+        font-size: 1.875rem;
+        font-weight: 300;
+        margin-top: -.8125rem;
+        max-width: 60%;
+        text-transform: uppercase;
+        width: 14.125rem;
+        white-space: nowrap;
+    }
+    a#logo:hover {
+        color: #282828;
+        color: var(--MENU-SECTIONS-BG-color);
+    }
+    #logo svg {
+        margin-bottom: -1.25rem;
+        margin-inline-start: -3.47rem;
+        width: 40.5%;
+    }
+    @media only all and (max-width: 60rem) {
+        a#logo {
+            font-size: 1.5625rem;
+            margin-top: -.1875rem;
+        }
+        #logo svg {
+            margin-bottom: -.75rem;
+            margin-inline-start: -1.47rem;
+        }
+    }
+    @media all and (-ms-high-contrast:none) {
+    {{ "/* IE11s understanding of positioning is weird at best */" | safeCSS }}
+    a#logo {
+        margin-top: -3.625rem;
+    }
+    #logo svg {
+        margin-bottom: -3.875rem;
+        margin-left: -1.47rem;
+    }
+    }
+    @media only all and (-ms-high-contrast:none) and (max-width: 60rem) {
+        #logo svg {
+            margin-left: -1.47rem;
+        }
+    }
+</style>
+<a id="logo" href="{{ partial "relLangPrettyUglyURL.hugo" (dict "to" .Site.Home) }}">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" fill="#000000" version="1.1" id="Capa_1" width="64px" height="64px" viewBox="0 0 31.87 31.87" xml:space="preserve">
+<g>
+	<g>
+		<path d="M25.407,0.535c0.004-0.196-0.103-0.377-0.272-0.471C24.962-0.03,24.752-0.02,24.59,0.089    c-1.031,0.695-2.909,2.034-4.928,3.825l0.336,4.23l-1.981-2.689c-1.892,1.873-3.74,4.093-4.979,6.504l0.24,3.016l-0.987-1.338    c-0.988,2.639-1.148,5.456,0.188,8.269l-0.971,1.771l-0.017,0.019h-1.54c-0.544,0-0.972,0.463-0.972,1.007v1.438h0.25l-2.31,4.024    c-0.261,0-0.456,0.209-0.456,0.47v0.806c0,0.25,0.171,0.43,0.421,0.43h9.227c0.25,0,0.482-0.18,0.482-0.43v-0.823    c0-0.25-0.218-0.45-0.467-0.45l-2.456-4.025h0.337v-1.438c0-0.544-0.418-1.007-0.962-1.007h-0.016V23.69l0.616-1.153    c1.57-0.204,2.925-0.733,4.104-1.503l-1.939-0.622l3.83-0.956c1.324-1.381,2.344-3.107,3.132-4.961l-2.401-0.15l3.088-1.66    C25.081,7.858,25.364,2.653,25.407,0.535z M10.706,26.962l-1.55,2.913c-0.101,0.19-0.295,0.298-0.496,0.298    c-0.089,0-0.18-0.021-0.264-0.063c-0.273-0.146-0.377-0.486-0.232-0.763l1.55-2.914c0.146-0.271,0.486-0.377,0.76-0.229    C10.748,26.35,10.852,26.688,10.706,26.962z M10.402,25.582c-0.319,0-0.578-0.258-0.578-0.577c0-0.32,0.259-0.578,0.578-0.578    c0.32,0,0.579,0.258,0.579,0.578C10.981,25.324,10.722,25.582,10.402,25.582z"/>
+	</g>
+</g>
+</svg>
+Poésieland
+</a>
