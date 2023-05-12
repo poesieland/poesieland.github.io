@@ -46,7 +46,7 @@ disableLandingPageButton = true
 # When using mulitlingual website, disable the switch language button.
 disableLanguageSwitchingButton = false
 # Hide breadcrumbs in the header and only show the current page title
-disableBreadcrumb = true
+disableBreadcrumb = false
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
 # If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
@@ -89,8 +89,8 @@ externalLinkTarget = "_blank"
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]
 
 [outputs]
-home = ["HTML", "RSS", "PRINT", "SEARCH"]
-section = ["HTML", "RSS", "PRINT"]
+home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
+section = ["HTML", "RSS"]
 page = ["HTML", "RSS", "PRINT"]
 
 [Languages]

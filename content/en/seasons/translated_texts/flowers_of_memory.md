@@ -1,5 +1,6 @@
 +++
 weight = 1
+date = 1999-01-01
 title = "Flowers of memory"
 tags = []
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
@@ -12,13 +13,13 @@ alwaysopen = true
 # If set, this will explicitly override common rules for the sorting order of a page's submenu entries
 ordersectionsby = "title"
 # The title of the page heading will be prefixed by this HTML content
-headingPre = "Date: 1999"
+headingPre = ""
 # The title of the page heading will be postfixed by this HTML content
 headingPost = ""
 # The title of the page in menu will be prefixed by this HTML content
 menuPre = ""
 # The title of the page in menu will be postfixed by this HTML content
-menuPost = " (1999)"
+menuPost = ""
 # Hide a menu entry by setting this to true
 hidden = false
 # Display name of this page modifier. If set, it will be displayed in the footer.

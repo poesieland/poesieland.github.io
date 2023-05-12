@@ -1,5 +1,6 @@
 +++
 weight = 1
+date = 1995-12-07
 title = "J'avais l'heur de m'asseoir..."
 tags = ["désir", "amour"]
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
@@ -10,9 +11,9 @@ menuTitle = ""
 # If set, this will explicitly override common rules for the expand state of a page's menu entry
 alwaysopen = true
 # If set, this will explicitly override common rules for the sorting order of a page's submenu entries
-ordersectionsby = "title"
+ordersectionsby = ""
 # The title of the page heading will be prefixed by this HTML content
-headingPre = "Date: 07.12.1995"
+headingPre = ""
 # The title of the page heading will be postfixed by this HTML content
 headingPost = ""
 # The title of the page in menu will be prefixed by this HTML content

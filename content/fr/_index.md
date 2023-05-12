@@ -8,7 +8,7 @@ Je suis française, cependant quelques poèmes sont en anglais, voire en italien
 
 Bon voyage...
 
-# Les Saisons
+## Les Saisons
 Je n'ai pas choisi ce terme par hasard. Le mot 'saison' est inclus dans tant de proverbes, expressions. L'idée générale est celle du temps, du mûrissement. J'aime particulièrement le proverbe italien : "Ogni età ha il suo frutto" ("Chaque âge a son fruit"). Ce qui est vrai dans la vie l'est encore plus dans la poésie, celle-ci étant une expression des sentiments les plus intimes. Ou peut-être une impression? Je serais ravie de connaître les vôtres..
 
 ### Oeuvres complètes en ligne

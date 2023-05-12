@@ -1,5 +1,6 @@
 +++
 weight = 1
+date = 2000-02-22
 title = "A sign"
 tags = []
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
@@ -12,7 +13,7 @@ alwaysopen = true
 # If set, this will explicitly override common rules for the sorting order of a page's submenu entries
 ordersectionsby = "title"
 # The title of the page heading will be prefixed by this HTML content
-headingPre = "Date: 02/22/2000"
+headingPre = ""
 # The title of the page heading will be postfixed by this HTML content
 headingPost = ""
 # The title of the page in menu will be prefixed by this HTML content
