@@ -36,7 +36,7 @@ Près d'une chapelle de nonnes,
 
 Mon cœur joua son menuet...
 
-
+ \
 Ce fut notre prime rencontre :
 
 L'amour s'ébauche à s'écrier.
@@ -45,7 +45,7 @@ Il effleurait souvent sa montre,
 
 Ses cheveux blonds comme un guerrier.
 
-
+ \
 Je ne voulais déjà qu'il parte,
 
 Il m'a regardée... ô moment !
@@ -54,7 +54,7 @@ Mais son amie était sa charte,
 
 Puis s'en est allé doucement...
 
-
+ \
 Hier en revenant de vacances
 
 Il me heurta comme un départ,
@@ -63,7 +63,7 @@ Ce fut l'une des seules chances :
 
 Je le retins tel un guépard.
 
-
+ \
 Le train partait mais nous restâmes,
 
 Lui sur le quai, mon cœur cendré,

@@ -48,7 +48,7 @@ Puis sans nous voir nous nous éprîmes,
 
 Je parcourais tous tes creux, cimes...
 
-
+ \
 C'était le prélude à des jeux
 
 Qui donneraient aux mâles Dieux

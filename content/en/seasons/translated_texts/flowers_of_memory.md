@@ -36,7 +36,7 @@ I do not require any prayer
 
 And I do not want even one of your tears.
 
-
+ \
 Then when your slow step lengthens
 
 You will find in scattered strands
@@ -45,7 +45,7 @@ This tenderness, which prolongs
 
 The most disconcerting of my departures.
 
-
+ \
 Dream's spring carries itself
 
 To flower our happiness again:
@@ -54,7 +54,7 @@ Let's hide with a gesture too much sorrow;
 
 At the bottom of yours vibrates my heart!
 
-
+ \
 With a remote memory you rock
 
 This unisons evanescence:
@@ -63,7 +63,7 @@ Embrace the flowers you are pouring:
 
 You know, their petals say songs!
 
-
+ \
 If you come in the next autumn
 
 Shell a rosary of hope:

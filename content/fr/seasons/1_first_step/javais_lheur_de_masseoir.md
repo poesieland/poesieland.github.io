@@ -30,7 +30,7 @@ LastModifierEmail = ""
 
 J'avais l'heur de m'asseoir...
 
-
+ \
 J'avais l'heur de m'asseoir auprès d'elle, en silence,
 
 De rassasier mes yeux, de combler mon désir,
@@ -39,7 +39,7 @@ Afin de décrypter ce qui me fait frémir
 
 Lorsque j'entrevoyais sa furtive présence.
 
-
+ \
 Sont-ce ses cheveux longs que doucement balance
 
 Un visage si beau, que rien ne fait rosir ?
@@ -48,14 +48,14 @@ L'éclat de la prunelle au parfum de plaisir ?
 
 Ou bien donc dans sa marche une harmonique danse ?
 
-
+ \
 Tandis qu'elle s'éloigne au bout du boulevard,
 
 Que la ville se lève en apprêtant son fard,
 
 Que disparaît l'éclat de son long manteau rouge,
 
-
+ \
 Je me sens soudain seul, en attendant le jour
 
 Qui pourra consoler des affres de l'amour,

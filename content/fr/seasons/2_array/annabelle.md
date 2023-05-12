@@ -36,7 +36,7 @@ S'alliaient à son teint couleur de mirabelle :
 
 Elle semblait petite et si douce sa voix.
 
-
+ \
 Sa pupille profonde en lave incandescente
 
 Etait dans la mesure en ce jeune animal
@@ -45,7 +45,7 @@ De toute sa souplesse et grâce d'innocente,
 
 Et si quelqu'un l'admire en sentiment natal
 
-
+ \
 Elle sait par sa danse et subtile grimace
 
 Dans ses secrets recoins attirer tout le corps
@@ -54,7 +54,7 @@ Pour reposer un peu le voyageur qui passe.
 
 Puis sa moustache fine effleurait sans remords
 
-
+ \
 Les membres délassés, alanguis sous le voile :
 
 De chatte de gouttière en chatte de sultan

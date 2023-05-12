@@ -36,7 +36,7 @@ Elle, encor alanguie en longue et douce plainte
 
 Ravivait dans mon cœur les doux reflets perdus.
 
-
+ \
 Ses cheveux ombrageants caressaient mon visage
 
 Et l'évocation de son corps gracieux,
@@ -45,7 +45,7 @@ L'éclat profond soudain des yeux mystérieux
 
 M'avaient laissé sans force au sable de la plage.
 
-
+ \
 De son charme captif mon rêve citadin
 
 Trouve encor en mon œil la fugitive trace
