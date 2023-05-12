@@ -114,6 +114,6 @@ page = ["HTML", "RSS", "PRINT"]
         weight = 1
 
         [[Languages.fr.menu.shortcuts]]
-        name = "<i class='fas fa-fw fa-tags'></i> Tags"
-        url = "/tags/"
-        weight = 40
+            name = "<i class='fas fa-fw fa-tags'></i> Tags"
+            url = "/tags/"
+            weight = 40
