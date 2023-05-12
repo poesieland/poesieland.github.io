@@ -14,11 +14,18 @@ On technical side, this website is up since mid-2001, but evolved for more ease 
 
 A contemporary poet, Evelina Jarosz Clark, wrote on August 4th, 2001:
 
-A poem is like a kiss.
-It begins
-In the heart,
-Quietly,
-Like a wish,
-And needs only
-One other
-To be complete.
+> A poem is like a kiss.
+> \
+> It begins
+> \
+> In the heart,
+> \
+> Quietly,
+> \
+> Like a wish,
+> \
+> And needs only
+> \
+> One other
+> \
+> To be complete.
