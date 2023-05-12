@@ -2,7 +2,7 @@
 weight = 4
 date = 1994-01-01
 title = "André"
-tags = ["désir", "amour"]
+tags = ["amour:idéal"]
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false

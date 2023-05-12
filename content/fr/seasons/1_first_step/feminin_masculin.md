@@ -2,7 +2,7 @@
 weight = 3
 date = 1996-05-25
 title = "Féminin, masculin"
-tags = ["désir", "amour"]
+tags = ["amour:femme"]
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false
