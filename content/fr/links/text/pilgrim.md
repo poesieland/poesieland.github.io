@@ -1,6 +1,8 @@
 +++
 menuTitle = "Pilgrim"
 weight = 2
+LastModifierDisplayName = "Enya - Roma Ryan"
+date = 2000-11-20
 +++
 # Pilgrim
 
@@ -20,7 +22,7 @@ you cannot change what's over
 
 but only where you go.
 
-
+ \
 One way leads to diamonds,
 
 one way leads to gold,
@@ -37,7 +39,7 @@ the road that leads to nowhere,
 
 the road that leads to you.
 
-
+ \
 Will you find the answer
 
 in all you say and do?
@@ -46,7 +48,7 @@ Will you find the answer
 
 in you?
 
-
+ \
 Each heart is a pilgrim,
 
 each one wants to know
@@ -63,10 +65,11 @@ for pilgrim it's a long way
 
 to find out who you are...
 
-
+ \
 Pilgrim, it's a long way
 
 to find out who you are...
 
-
-by Roma Ryan in Enya's "a day without rain"
+{{% notice style="primary" %}}
+Album *A day without rain*
+{{% /notice %}}

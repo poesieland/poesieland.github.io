@@ -1,5 +1,6 @@
 +++
 menuTitle = "Love is in the air"
+LastModifierDisplayName = "Baz Luhrmann"
 weight = 4
 +++
 # Love is in the air
@@ -20,7 +21,7 @@ But it's something that I must believe in
 
 And it's there when I look in your eyes
 
-
+ \
 Love is in the air
 
 In the whisper of the trees
@@ -37,7 +38,7 @@ But it's something that I must believe in
 
 And it's there when you call out my name
 
-
+ \
 Love is in the air
 
 In the rising of the sun
@@ -54,7 +55,7 @@ But you're something that I must believe in
 
 And you're there when I reach out for you
 
-
+ \
 Love is in the air
 
 Everywhere I look around
@@ -71,7 +72,7 @@ But it's something that I must believe in
 
 And it's there when I look in your eyes
 
-
+ \
 Love is in the air
 
 Love is in the air
@@ -80,5 +81,6 @@ Love is in the air
 
 Love is in the air
 
-
-("Love is in the air," in the version by Baz Luhrmann)
+{{% notice style="primary" %}}
+*Love is in the air* in the version by Baz Luhrmann
+{{% /notice %}}

@@ -1,12 +1,12 @@
 +++
 menuTitle = "Armida Arruda Gonçalves"
 weight = 1
+LastModifierDisplayName = "Armida Arruda Gonçalves"
 +++
 
-| Un très joli poème d'une artiste brésilienne qui aime écrire dans ma langue... Merci Marlene ! Malheureusement je n'ai rien pu trouver sur le web la concernant...  | A very nice poem from a Brazilian artist who loves writing in French... Thanks Marlene ! Unfortunately I did not find anything about her online...  |
-|---|---|
-
-Armida Arruda Gonçalves, (environ 80 ans - in her 80's), extrait de son ouvrage "Rêverie" - from her book "Rêverie"
+|FR | EN |
+| -- | -- |
+|Un très joli poème d'une artiste brésilienne (environ 80 ans en l'an 2000) qui aimait écrire dans ma langue... Merci Marlene ! Malheureusement je n'ai rien pu trouver sur le web la concernant...  | A very nice poem from a Brazilian artist (in hers 80's in year 2000) who loved writing in French... Thanks Marlene ! Unfortunately I did not find anything about her online...  |
 
 # Le Passage
 
@@ -45,3 +45,7 @@ Que tu n'es qu'un caillou
 Le long du chemin
 
 D'un univers sans début ni fin...
+
+{{% notice style="primary" %}}
+Extrait de son ouvrage *Rêverie* - from her book *Rêverie*
+{{% /notice %}}

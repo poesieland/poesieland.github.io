@@ -1,6 +1,6 @@
 +++
 title = "Quelques textes choisis"
-weight = 5
+weight = 1
 alwasyopen = false
 +++
 [Armida Arruda Gonçalves](goncalves)
@@ -8,21 +8,21 @@ alwasyopen = false
 Je vous laisse découvrir...
 
 ---
-[Pilgrim](pilgrim)
+[Pilgrim](pilgrim) {{% badge %}}en anglais{{% /badge %}}
 
-Chanson d'Enya, c'est aussi un poème... (en anglais)
-
----
-[Prière Hopi](hopi_prayer)
-
-Certains peuples savent mieux penser que d'autres... Si vous êtes dans la peine ce poème console. (en anglais)
+Chanson d'Enya, c'est aussi un poème...
 
 ---
-[Love is in the air](love_in_air)
+[Prière Hopi](hopi_prayer) {{% badge %}}en anglais{{% /badge %}}
 
-Chanson par Baz Luhmann (en anglais)
+Certains peuples savent mieux penser que d'autres... Si vous êtes dans la peine ce poème console.
+
+---
+[Love is in the air](love_in_air) {{% badge %}}en anglais{{% /badge %}}
+
+Chanson par Baz Luhmann
 
 ---
 [J'arrive où je suis étranger](aragon)
 
-Un poème de Louis Aragon, très beau
+Un poème de Louis Aragon...

@@ -1,5 +1,5 @@
 +++
-menuTitle = "Hopy Prayer"
+menuTitle = "Hopi Prayer"
 weight = 3
 +++
 # Hopy Prayer
