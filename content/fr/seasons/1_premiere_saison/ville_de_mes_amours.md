@@ -3,7 +3,7 @@ weight = 5
 date = 1996-06-03
 title = "Ville de mes amours"
 tags = ["amour", "ville"]
-categories = "malheureux"
+categories = "Malheureux"
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false

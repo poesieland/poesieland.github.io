@@ -88,6 +88,8 @@ externalLinkTarget = "_blank"
 
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]
 
+enableMissingTranslationPlaceholders = false
+
 [outputs]
 home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 section = ["HTML", "RSS"]
@@ -106,6 +108,7 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/en/tags/"
             weight = 40
         [[Languages.en.menu.shortcuts]]
+            identifier = "categories"
             name = "<i class='fas fa-fw fa-list'></i> Categories"
             url = "/en/categories/"
             weight = 50
@@ -122,6 +125,7 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/tags/"
             weight = 40
         [[Languages.fr.menu.shortcuts]]
+            identifier = "categories"
             name = "<i class='fas fa-fw fa-list'></i> Categories"
             url = "/categories/"
             weight = 50

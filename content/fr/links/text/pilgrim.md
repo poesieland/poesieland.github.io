@@ -1,6 +1,6 @@
 +++
 menuTitle = "Pilgrim"
-weight = 2
+weight = 5
 LastModifierDisplayName = "Enya - Roma Ryan"
 date = 2000-11-20
 +++
