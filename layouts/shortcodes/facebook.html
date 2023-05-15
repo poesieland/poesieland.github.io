@@ -1,0 +1,7 @@
+{{ if .IsNamedParams }}
+{{- $url := .Get "url" -}}
+<span style="font-size: 1rem;">
+    <a href="{{ $url }}" title="{{ $url }}"><i class="fa-brands fa-facebook"></i></a>
+</span>
+
+{{ end }}
