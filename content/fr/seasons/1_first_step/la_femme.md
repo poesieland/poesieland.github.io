@@ -2,7 +2,8 @@
 weight = 7
 date = 1994-01-01
 title = "La Femme"
-tags = ["amour:femme", "portraits"]
+tags = ["amour", "portraits"]
+categories = "femme"
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false

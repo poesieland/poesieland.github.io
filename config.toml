@@ -105,6 +105,10 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-tags'></i> Tags"
             url = "/en/tags/"
             weight = 40
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-list'></i> Categories"
+            url = "/en/categories/"
+            weight = 50
 
     [Languages.fr]
         languageName = "Français"
@@ -117,3 +121,7 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-tags'></i> Tags"
             url = "/tags/"
             weight = 40
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-list'></i> Categories"
+            url = "/categories/"
+            weight = 50
