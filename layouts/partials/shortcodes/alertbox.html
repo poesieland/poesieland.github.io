@@ -1,0 +1,13 @@
+{{- $context := .context }}
+{{- $content := .content }}
+{{- $title := .title }}
+{{- $title = trim $title " " }}
+{{- $style := .style }}
+{{- $style = trim $style " " }}
+{{- with $context -}}
+<div class="alert-box {{ if or $style }}alert-box-{{ $style }}{{ end }}">
+    <strong>{{ $title | markdownify }}</strong>
+
+    {{ $content }}
+</div>
+{{ end }}

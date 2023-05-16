@@ -1,5 +1,5 @@
 baseURL = 'http://example.org/'
-languageCode = 'en-us'
+languageCode = 'fr-FR'
 title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -112,6 +112,10 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-list'></i> Categories"
             url = "/en/categories/"
             weight = 50
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+            url = "more/credits/"
+            weight = 60
 
     [Languages.fr]
         languageName = "Français"
@@ -129,3 +133,7 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-list'></i> Categories"
             url = "/categories/"
             weight = 50
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+            url = "more/credits/"
+            weight = 60

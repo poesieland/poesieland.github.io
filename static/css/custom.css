@@ -42,3 +42,22 @@
 .flex {
     display: flex;
 }
+
+.alert-box {
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 20px;
+    background-image: linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(rgba(32, 147, 196, 0.2), rgba(32, 147, 196, 0.2));
+    background-repeat: no-repeat;
+    background-size: 4px 30px, 30px 4px, 4px 30px, 30px 4px, calc(100% - 8px) calc(100% - 8px);
+    background-position: left top, left top, right bottom, right bottom, 4px 4px;
+}
+
+.alert-box-red {
+    background-image: linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(rgb(192 14 31 / 20%), rgb(199 14 31 / 20%));
+}
+
+.alert-box p {
+    margin: 0;
+    line-height: 1.3;
+}
