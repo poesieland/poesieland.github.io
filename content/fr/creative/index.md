@@ -1,6 +1,6 @@
 +++
 title = "Pourquoi créer ?"
-weight = 2
+weight = 1
 +++
 
 ### Réflexion sur prose et vers

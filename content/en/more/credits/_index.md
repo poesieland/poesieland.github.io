@@ -4,10 +4,11 @@ title = "Credits"
 +++
 ## Contributors
 
-Special thanks to [Xarkam](https://github.com/Xarkam/) to contribute this project.
+Special thanks to [Xarkam](https://github.com/Xarkam/) for contributing to this project.
 
 ## Theme used
-[Hugo Them Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html)
+
+[Hugo Theme Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html)
 
 ## Packages and Libraries
 
@@ -32,4 +33,5 @@ Special thanks to [Xarkam](https://github.com/Xarkam/) to contribute this projec
 - [WorkSans](https://weiweihuanghuang.github.io/Work-Sans/) - Work Sans is a 9 weight typeface family based loosely on early Grotesques
 
 ## Tooling
+
 - [Hugo](https://gohugo.io/) - The static site generator of your choice
