@@ -3,7 +3,7 @@ weight = 8
 date = 1996-09-01
 title = "Un océan d'abîme"
 tags = ["amour"]
-categories = "Malheureux"
+categories = ["Malheureux"]
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false

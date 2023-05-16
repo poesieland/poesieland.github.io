@@ -1,0 +1,44 @@
+.gdoc-columns {
+    margin: 1rem 0
+}
+
+.gdoc-columns--regular>:first-child {
+    flex: 1
+}
+
+.gdoc-columns--small>:first-child {
+    flex: .35;
+    min-width: 7rem
+}
+
+.gdoc-columns--large>:first-child {
+    flex: 1.65;
+    min-width: 33rem
+}
+
+.gdoc-columns__content {
+    flex: 1 1;
+    min-width: 13.2rem;
+    padding: 0
+}
+
+.gdoc-columns .gdoc-post__anchor {
+    display: none
+}
+
+.flex-mobile-column.gdoc-columns {
+    margin: 2rem 0
+}
+
+.flex-mobile-column .gdoc-columns__content {
+    min-width: auto;
+    margin: 0
+}
+
+.flex-gap {
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+.flex {
+    display: flex;
+}

@@ -3,7 +3,7 @@ weight = 2
 date = 1996-01-10
 title = "Folie d'amour"
 tags = ["amour"]
-categories = "Femme"
+categories = ["Femme"]
 # Table of contents (toc) is enabled by default. Set this parameter to true to disable it.
 # Note: Toc is always disabled for chapter pages
 disableToc = false
