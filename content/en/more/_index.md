@@ -6,4 +6,4 @@ title = "More"
   publishResources = false
 +++
 
-{{%children containerstyle="div" style="h2" description="true" %}}
+{{% include "/content/common/credits.md" %}}

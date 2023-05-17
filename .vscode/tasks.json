@@ -8,6 +8,12 @@
             "type": "shell",
             "command": "hugo serve -D",
             "problemMatcher": []
+        },
+        {
+            "label": "Start Full Dev",
+            "type": "shell",
+            "command": "hugo serve -D --disableFastRender",
+            "problemMatcher": []
         }
     ]
 }
