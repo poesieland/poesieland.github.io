@@ -106,7 +106,6 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/en/tags/"
             weight = 40
         [[Languages.en.menu.shortcuts]]
-            identifier = "categories"
             name = "<i class='fas fa-fw fa-list'></i> Categories"
             url = "/en/categories/"
             weight = 50
@@ -118,7 +117,7 @@ page = ["HTML", "RSS", "PRINT"]
     [Languages.fr]
         languageName = "Français"
         contentDir = "content/fr"
-        title = "Poesieland"
+        title = "Poésieland"
         landingPageName = "<i class='fas fa-home'></i> Accueil"
         weight = 1
 
@@ -127,11 +126,10 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/tags/"
             weight = 40
         [[Languages.fr.menu.shortcuts]]
-            identifier = "categories"
-            name = "<i class='fas fa-fw fa-list'></i> Categories"
+            name = "<i class='fas fa-fw fa-list'></i> Catégories"
             url = "/categories/"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
+            name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
             url = "/more/credits/"
             weight = 60

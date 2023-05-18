@@ -1,3 +1,6 @@
 [Shortcuts-Title]
 other = "Plus..."
-categories = "Catégories"
+[category]
+other = "catégorie"
+[tag]
+other = "tag"
