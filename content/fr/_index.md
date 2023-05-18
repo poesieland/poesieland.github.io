@@ -34,6 +34,6 @@ Il m'est arrivé que la composition donne lieu à une concentration tellement in
 
 Cadrer les sensations en mots, les émotions en partages... J'aime l'Art, et la poésie, si modeste soit-elle, représente une infinité, dans le cycle du monde et des hommes. J'ai choisi le jeu des mots, parce que c'est ce qui me convient le mieux. J'aime également transmettre des émotions par la photographie.
 
-Pour en savoir plus sur ma relation avec la création, quelques ébauches [des mécanismes de l'inspiration](/creative), du rôle de la poésie... Cette page est d'ailleurs remise à jour de temps en temps, en fonction de mes réflexions. Eh oui, les poètes ne cessent de se poser des questions, de chercher à se comprendre !
+Pour en savoir plus sur ma relation avec la création, quelques ébauches [des mécanismes de l'inspiration](/creer), du rôle de la poésie... Cette page est d'ailleurs remise à jour de temps en temps, en fonction de mes réflexions. Eh oui, les poètes ne cessent de se poser des questions, de chercher à se comprendre !
 
 Bon voyage...
