@@ -4,7 +4,7 @@ title = "Poésieland"
 
 Bienvenue au coeur de mon "royaume poétique"...
 
-Je suis francophone, cependant quelques poèmes sont en anglais ([traduits](/en/seasons/translated_texts/) ou [originaux](/en/seasons/original_texts/)), voire en italien. [Découvrez-les](/en) au détour d'un texte...
+Je suis francophone, cependant quelques poèmes sont en anglais ([traduits](/en/translated_texts/) ou [originaux](/en/original_texts/)), voire en italien.
 
 ## Les Saisons
 

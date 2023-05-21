@@ -12,11 +12,11 @@ disableToc = false
 
 Cette phrase est volontairement provocatrice.
 
-Je ne suis pas de cet avis, des vers creux se remarquent très vite, il n'y a qu'une forme et rien qui n'entraîne le lecteur autre que le phrasé : je pense à certains auteurs français du dix-neuvième siècle qui sont décourageants à lire... des dizaines de lignes pour un poème dont une fois lu, on se demande ce qu'on en a "retenu" émotionnellement ou philosophiquement.
+Je ne suis pas de cet avis, des vers creux se remarquent très vite, il n'y a qu'une forme et rien qui n'entraîne le lecteur autre que le phrasé : je pense à certains auteurs français du dix-neuvième siècle qui sont décourageants à lire : des dizaines de lignes pour un poème dont une fois lu, on se demande ce qu'on en a "retenu" émotionnellement ou philosophiquement.
 
 En tant que poète, il y a une sorte de "devoir d'émouvoir le lecteur" qui est assez difficile à atteindre à chaque fois.
 
-Il n'est pas rare de ne pas se sentir assez inspiré et de laisser le soufflé retomber, comme si la pâte d'une poème qui prend racine en nous-même était aussi versatile... Alors, plutôt que de jeter une ébauche, ne pas écrire. Et quelquefois attendre une heure ou plusieurs jours permet à l'idée de mûrir, de devenir plus belle et plus facilement expressible.
+Il n'est pas rare de ne pas se sentir assez inspiré et de laisser le soufflé retomber, comme si la pâte d'une poème qui prend racine en nous-même était aussi versatile. Alors, plutôt que de jeter une ébauche, ne pas écrire. Et quelquefois attendre une heure ou plusieurs jours permet à l'idée de mûrir, de devenir plus belle et plus facilement expressible.
 
 Mon amie suisse Christine exprime elle aussi son désaccord d'une bien jolie façon :
 
@@ -26,7 +26,7 @@ Mon amie suisse Christine exprime elle aussi son désaccord d'une bien jolie fa�
 
 Le médium peut influencer la naissance d'un poème.
 
-Pendant longtemps je n'ai pas imaginé écrire un poème dans un éditeur de texte informatique... Puis j'ai franchi le pas. Voir ces lettres "réglementaires" sur mon écran me paralysait en quelque sorte.
+Pendant longtemps je n'ai pas imaginé écrire un poème dans un éditeur de texte informatique. Puis j'ai franchi le pas. Voir ces lettres "réglementaires" sur mon écran me paralysait en quelque sorte.
 
 Ecrire à la main, ça marche toujours mais si le poème cale ça fait mal, un immense remords d'avoir commencé et "gaspillé" des mots.
 
@@ -36,7 +36,7 @@ Dans ce cas les poèmes composés directement en braille étaient un complément
 
 Composer en braille m'a mieux permis de maîtriser le flux poétique de façon formelle (acrostiches), parce que c'est si particulier, je n'étais pas complètement "en face" de mes écrits et je devais faire un geste volontaire (retourner la feuille) pour relire ce que j'avais déjà écrit.
 
-A l'écran ou sur ma feuille de papier les lettres sont lues presque sans y penser... ou du moins une certaine "forme" reste visible, la forme de la grammaire en quelque sorte... en braille lu visuellement c'était beaucoup moins évident, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne... j'ai la maîtrise de la forme autant qu'elle me maîtrise.
+A l'écran ou sur ma feuille de papier les lettres sont lues presque sans y penser. Ou du moins une certaine "forme" reste visible, la forme de la grammaire en quelque sorte. En braille lu visuellement c'était beaucoup moins évident, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne... j'ai la maîtrise de la forme autant qu'elle me maîtrise.
 
 ## Inspiration
 
@@ -56,7 +56,7 @@ La poésie se ressource à l'amour de la vie tout simplement, et aux envies et p
 
 ## Quels rôles pour la poésie ?
 
-Je pense que les rôles essentiels de la poésie sont peu nombreux, et avant tout psychologiques : fixer ses souvenirs, aider ses propres réflexions à aboutir, être reconnu par les autres à travers l'Art, les éveiller et leur demander s'ils n'ont pas eux-mêmes envie de s'exprimer, auquel cas la découverte de leur propre expression enrichit la nôtre... et fait plaisir tout simplement. Et enfin, laisser une trace après la fin de notre vie terrestre...
+Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
 
 ### Fixer ses souvenirs
 
@@ -64,12 +64,14 @@ Comme la mémoire humaine est sélective, il peut sembler indispensable à certa
 
 ### Aider ses réflexions à aboutir
 
-L'écriture permet également de conclure une réflexion au travers de la forme plus ou moins libre du poème, mais qui demande un travail différent de la prose de roman... C'est plus subtil à travers les métaphores d'un poème. La prose est plus directe, et donc demande de moins se cacher "les mots qui font mal". Le poème permet de "grandir" tout en n'exprimant pas aux autres de façon intelligible le fond de sa pensée. N'être à nu que pour soi-même.
+L'écriture permet également de conclure une réflexion au travers de la forme plus ou moins libre du poème, mais qui demande un travail différent de la prose de roman. C'est plus subtil à travers les métaphores d'un poème. La prose est plus directe, et donc demande de moins se cacher "les mots qui font mal". Le poème permet de "grandir" tout en n'exprimant pas aux autres de façon intelligible le fond de sa pensée. N'être à nu que pour soi-même.
 
 ### Etre reconnu
 
-Le besoin de reconnaissance est essentiel à tout artiste. Si on désire partager ses textes, issus de sensations intimes, avec le plus grand nombre possible de personnes, c'est pour "survivre" à travers eux, et pour être compris par les autres. Mais est-on réellement mieux compris ? Chaque lecteur a sa propre vision d'un même concept...
+Le besoin de reconnaissance est essentiel à tout artiste. Si on désire partager ses textes, issus de sensations intimes, avec le plus grand nombre possible de personnes, c'est pour "survivre" à travers eux, et pour être compris par les autres. Mais est-on réellement mieux compris ? Chaque lecteur a sa propre vision d'un même concept.
+
+Et laisser une trace après la fin de notre vie terrestre.
 
 ### Eveiller les autres
 
-Alors c'est un besoin de faire rêver les autres, de susciter en eux l'amour de l'Art, et peut-être favoriser leur propre expression artistique. La poésie moderne n'a jamais été plus vivante que sur internet, grand espace de partage plus ou moins anonyme.
+C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de l'Art, et peut-être favoriser leur propre expression artistique. La poésie moderne n'a jamais été plus vivante que sur internet, grand espace de partage plus ou moins anonyme.

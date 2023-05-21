@@ -3,14 +3,14 @@ title = "About"
 weight = 10
 +++
 
-## Historique du site
+## Site history
 
-A part quelques changements d'hébergeur...
+- 2023: abandoning hand-made stuff, website now uses [Hugo](https://gohugo.io/) as a site building framework and [hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn) for theming. New back-office tool to generate content pages (XML to markdown)
 
-2005 : passage du standard HTML 4.01 transitional à XHTML 1.1 strict. Parallèlement, création d'un outil de back-office avec interface web.
+- 2005 : use of XHTML 1.1 strict to replace HTML 4.01 transitional. Started working on a visual back-office tool but never achieved it
 
-2004 : abandon des cadres (frames) au profit des div flottants.
+- 2004: modernization of HTML structure (floating divs)
 
-2003 : mise en place de la catégorisation des poèmes. Génération automatique des poèmes à partir d'un fichier XML et de transformation XSLT. L'appel se fait en ligne de commande.
+- 2003: XML offline generation allowed to better structure the French part
 
-2001 : ouverture du site.
+- mid-2001: site opening
