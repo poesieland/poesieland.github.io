@@ -24,6 +24,6 @@ Chanson d'Enya, c'est aussi un poème...
 Certains peuples savent mieux penser que d'autres... Si vous êtes dans la peine ce poème console.
 
 ---
-[Love is in the air](love_in_air) {{% badge %}}en anglais{{% /badge %}}
+[Love is in the air](love_is_in_the_air) {{% badge %}}en anglais{{% /badge %}}
 
 Chanson par Baz Luhmann

@@ -1,8 +1,4 @@
-+++
-menuTitle = "Hopi Prayer"
-weight = 3
-+++
-# Hopy Prayer
+# Hopi Prayer
 
 Do not stand
 

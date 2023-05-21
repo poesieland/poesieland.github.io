@@ -1,8 +1,3 @@
-+++
-menuTitle = "J'arrive où je suis étranger"
-weight = 2
-LastModifierDisplayName = "Louis Aragon"
-+++
 # J'arrive où je suis étranger
 
 Rien n'est précaire comme vivre

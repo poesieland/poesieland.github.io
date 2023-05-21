@@ -1,9 +1,3 @@
-+++
-menuTitle = "Pilgrim"
-weight = 5
-LastModifierDisplayName = "Enya - Roma Ryan"
-date = 2000-11-20
-+++
 # Pilgrim
 
 Pilgrim, how you journey
@@ -69,7 +63,3 @@ to find out who you are...
 Pilgrim, it's a long way
 
 to find out who you are...
-
-{{% notice style="primary" %}}
-Album *A day without rain*
-{{% /notice %}}

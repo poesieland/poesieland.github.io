@@ -1,8 +1,3 @@
-+++
-menuTitle = "Love is in the air"
-LastModifierDisplayName = "Baz Luhrmann"
-weight = 4
-+++
 # Love is in the air
 
 Love is in the air
@@ -80,7 +75,3 @@ Love is in the air
 Love is in the air
 
 Love is in the air
-
-{{% notice style="primary" %}}
-*Love is in the air* in the version by Baz Luhrmann
-{{% /notice %}}
