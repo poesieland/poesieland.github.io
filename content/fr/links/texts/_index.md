@@ -9,7 +9,7 @@ Un poème de Louis Aragon
 
 ---
 
-[Armida Arruda Gonçalves](goncalves)
+[Arminda De Arruda Gonçalves](goncalves)
 
 Je vous laisse découvrir...
 
