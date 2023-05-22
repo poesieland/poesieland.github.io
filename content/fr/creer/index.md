@@ -36,17 +36,17 @@ Dans ce cas les poèmes composés directement en braille étaient un complément
 
 Composer en braille m'a mieux permis de maîtriser le flux poétique de façon formelle (acrostiches), parce que c'est si particulier, je n'étais pas complètement "en face" de mes écrits et je devais faire un geste volontaire (retourner la feuille) pour relire ce que j'avais déjà écrit.
 
-A l'écran ou sur ma feuille de papier les lettres sont lues presque sans y penser. Ou du moins une certaine "forme" reste visible, la forme de la grammaire en quelque sorte. En braille lu visuellement c'était beaucoup moins évident, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne... j'ai la maîtrise de la forme autant qu'elle me maîtrise.
+A l'écran ou sur ma feuille de papier les lettres sont lues presque sans y penser. Ou du moins une certaine "forme" reste visible, la forme de la grammaire en quelque sorte. En braille lu visuellement c'était beaucoup moins évident, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne. J'ai la maîtrise de la forme autant qu'elle me maîtrise.
 
 ## Inspiration
 
-Concernant l'inspiration, il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années... alors l'émotion instantanée, suscitée par des scènes trop similaires, si elle a déjà été exprimée, ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
+Concernant l'inspiration, il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années. Alors l'émotion instantanée, suscitée par des scènes trop similaires, si elle a déjà été exprimée, ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
 
 On ne célèbre pas dix fois la même chose. Quoique, dès que le temps a passé suffisamment. Relire d'anciens poèmes me fait penser des fois qu'il y a encore des choses à dire sur un sujet donné, même si le poème redécouvert peut sembler paralysant.
 
 Cela est également dû au fait que la langue française est un espace fini. C'est une certaine limitation de la poésie, d'ailleurs, la connaissance d'un ensemble linguistique dans lequel projeter des émotions.
 
-J'ai remarqué, pendant une expérience de vie en couple (janvier 2002 à mi-2003) que la vie "réelle" et tout ce qu'apporte un être aimé, provoquaient en moi une absence de besoin d'écrire, j'avais presque l'impression que les mots étaient "trop faibles". Si j'étais alors séparée de celui que j'aimais - le temps d'une balade en contact avec la beauté du monde, ou plusieurs jours pour une raison quelconque - j'avais envie de nouveau envie de "parler aux autres" de façon intime via la poésie...
+J'ai remarqué, pendant une expérience de vie en couple (janvier 2002 à mi-2003) que la vie "réelle" et tout ce qu'apporte un être aimé, provoquaient en moi une absence de besoin d'écrire, j'avais presque l'impression que les mots étaient "trop faibles". Si j'étais alors séparée de celui que j'aimais - le temps d'une balade en contact avec la beauté du monde, ou plusieurs jours pour une raison quelconque - j'avais envie de nouveau envie de "parler aux autres" de façon intime via la poésie.
 
 Mais c'est juste que je n'étais pas dans mes années les plus épanouies, je n'avais pas grand-monde avec qui partager ma poésie.
 

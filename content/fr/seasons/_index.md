@@ -2,8 +2,13 @@
 title = "Saisons"
 weight = 2
 +++
+Les Saisons regroupent mon oeuvre complète de façon pseudo-linéaire, chacune comporte 50 poèmes. Jusqu'à la Saison 15 ils étaient cependant réarrangés pour former plus de cohérence thématique qu'en lecture linéaire.
 
-De 1994 à septembre 1996... Quand je me suis mise à écrire vers 1992, les mots se sont assemblés, alliant sonorités, certains étant même de vraies petites chansonnettes qui devaient théoriquement être appréciées par mon lapin nain ;-) Cette saison comprend mes premiers poèmes suivant strictement la versification néoclassique, apprise courant 1995, mais aussi des poèmes plus anciens et remaniés. Une Saison toute de petites touches... dans un nouveau "moule" qui l'exacerbe.
+Je n'ai pas choisi ce terme par hasard. Le mot 'saison' est inclus dans tant de proverbes, expressions. L'idée générale est celle du temps, du mûrissement.
+
+J'aime particulièrement le proverbe italien : *ogni età ha il suo frutto* (*chaque âge a son fruit*).
+
+Ce qui est vrai dans la vie l'est encore plus dans la poésie, celle-ci étant une expression des sentiments les plus intimes. Les mots choisis dévoilent et cachent tout autant.
 
 ---
 {{% children description="true" %}}

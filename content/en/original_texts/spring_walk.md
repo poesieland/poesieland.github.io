@@ -1,7 +1,7 @@
 +++
 title = "Spring walk"
 date = 2003-03-31
-weight = 10
+weight = 11
 LastModifierDisplayName = "Barbara Post"
 +++
 I walk in next district shadowed streets

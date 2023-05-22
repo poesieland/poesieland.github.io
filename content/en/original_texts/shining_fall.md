@@ -1,7 +1,7 @@
 +++
 title = "Shining Fall"
 date = 2001-09-09
-weight = 8
+weight = 9
 LastModifierDisplayName = "Barbara Post"
 +++
 Will you take my hand too,
