@@ -6,6 +6,7 @@ title = 'Poesieland'
 theme = "hugo-theme-relearn"
 paginate = 5
 defaultContentLanguage = 'fr'
+enableEmoji = true
 
 [params]
 # This controls whether submenus will be expanded (true), or collapsed (false) in the
