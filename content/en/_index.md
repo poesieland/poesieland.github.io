@@ -4,7 +4,7 @@ title = "Poesieland"
 
 Welcome to the bottom of my "poetic kingdom"
 
-Sometimes, instead of my mother tongue that is French, I wrote poems directly in English. You'll even find one original poem in Italian too.
+Sometimes, instead of my mother tongue which is French, I directly wrote poems in English. You'll even find one original poem in Italian too.
 
 In early 2000's I also found it useful to translate some French-written poems to share with a friend. But I finally think that [Google Translate](https://translate.google.com) is nowadays effective enough. So head to the [French poems](/seasons) and enjoy.
 
