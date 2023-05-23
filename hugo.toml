@@ -114,6 +114,14 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
             url = "/en/more/credits/"
             weight = 60
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fa-brands fa-github'></i> Github"
+            url = "https://github.com/postb99"
+            weight = 70
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+            url = "https://www.linkedin.com/in/barbara-post-1b323714"
+            weight = 80
 
     [Languages.fr]
         languageName = "Français"
@@ -134,3 +142,11 @@ page = ["HTML", "RSS", "PRINT"]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
             url = "/more/credits/"
             weight = 60
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fa-brands fa-github'></i> Github"
+            url = "https://github.com/postb99"
+            weight = 70
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
+            url = "https://www.linkedin.com/in/barbara-post-1b323714"
+            weight = 80
