@@ -24,9 +24,9 @@ description = ""
 # Shows a checkmark for visited pages on the menu
 showVisitedLinks = false
 # Disable search function. It will hide search bar
-disableSearch = true
+disableSearch = false
 # Disable search in hidden pages, otherwise they will be shown in search box
-disableSearchHiddenPages = true
+disableSearchHiddenPages = false
 # Disables hidden pages from showing up in the sitemap and on Google (et all), otherwise they may be indexed by search engines
 disableSeoHiddenPages = false
 # Disables hidden pages from showing up on the tags page although the tag term will be displayed even if all pages are hidden
