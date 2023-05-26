@@ -99,8 +99,9 @@ page = ["HTML", "RSS", "PRINT"]
         languageName = "English"
         contentDir = "content/en"
         title = "Poesieland"
-        landingPageName = "<i class='fas fa-home'></i> Home"
         weight = 2
+        [languages.en.params]
+            landingPageName = "<i class='fas fa-home'></i> Home"
 
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-tags'></i> Tags"
@@ -127,8 +128,9 @@ page = ["HTML", "RSS", "PRINT"]
         languageName = "Français"
         contentDir = "content/fr"
         title = "Poésieland"
-        landingPageName = "<i class='fas fa-home'></i> Accueil"
         weight = 1
+        [languages.fr.params]
+            landingPageName = "<i class='fas fa-home'></i> Accueil"
 
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-tags'></i> Mots-clés"
