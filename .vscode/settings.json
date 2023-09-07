@@ -12,5 +12,6 @@
             "other": "off"
         },
         "editor.minimap.enabled": false
-    }
+    },
+    "dotnet.defaultSolution": "back-office\\src\\PoesielandBackOffice.sln"
 }

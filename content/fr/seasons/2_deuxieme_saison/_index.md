@@ -4,7 +4,7 @@ summary = "De l'amour, des éléments naturels, des réflexions. De septembre à
 weight = 2
 +++
 
-De l'amour, des éléments naturels, des réflexions
+De l'amour, des éléments naturels, des réflexions, cette Saison est toute de petites touches.
 
 De septembre à décembre 1996
 
