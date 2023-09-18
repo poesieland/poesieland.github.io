@@ -38,16 +38,6 @@
       "path": "[[workspace]]/content"
     }
   ],
-  "frontMatter.taxonomy.tags": [
-    "amour",
-    "portraits",
-    "ville"
-  ],
-  "frontMatter.taxonomy.categories": [
-    "Femme",
-    "Idéal",
-    "Malheureux"
-  ],
   "frontMatter.content.snippets": {},
   "frontMatter.extends": [
     "./themes/hugo-theme-relearn/vscode-frontmatter/snippets.en.json"
