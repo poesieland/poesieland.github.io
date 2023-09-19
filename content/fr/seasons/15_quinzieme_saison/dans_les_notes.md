@@ -1,0 +1,38 @@
++++
+title = "Dans les notes"
+date = 2001-10-10
+weight = 42
+LastModifierDisplayName = "Barbara Post"
+tags = ["attitudes", "acrostiche"]
+categories = ["Musique, chant"]
++++
+
+Devenir voix, abîme au corps
+
+Abandonné pour suivre note,
+
+Née en lumière, interne, accords ;
+
+Souple la fibre, un cœur dénote
+
+ \
+Liberté d'un cadre parfait…
+
+Est-ce moi, je rêve, immobile
+
+Sur la gamme du temps qui fait
+
+Neige en été, nuage habile
+
+ \
+Où l'ambre douce va rosir
+
+Tous les arbres et les marées…
+
+Est-ce toi, je rêve un désir
+
+Soufflé de ces notes parées.
+
+{{% notice style="primary" %}}
+Acrostiche : Dans les notes
+{{% /notice %}}

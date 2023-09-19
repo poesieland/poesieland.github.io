@@ -1,0 +1,52 @@
++++
+title = "Tout l'amour de mon cœur"
+date = 1997-11-02
+weight = 22
+LastModifierDisplayName = "Barbara Post"
+tags = ["philosophie", "acrostiche"]
+categories = ["Enfance"]
++++
+
+Tu me souris, babilles,
+
+Ouvres grand tes pupilles.
+
+Unique comme amour,
+
+Tant de bonheur autour !
+
+Livres-moi tes menottes
+
+Aux paumes si petiotes :
+
+Mais il n'a rien écrit,
+
+O, ton doigt si petit!
+
+Un doux rêve te berce :
+
+Ronde, une dent le perce.
+
+Demain tu seras grand :
+
+Eveil tendre, charmant,
+
+Mets dans tes jeux la vie
+
+Originale envie!
+
+Naissance, a dit ton cœur,
+
+Ce fut notre bonheur.
+
+Offre une transcendance
+
+Encor dans l'innocence !
+
+Un destin dérobé...
+
+Risette d'un bébé !
+
+{{% notice style="primary" %}}
+Acrostiche : Tout l'amour de mon cœur
+{{% /notice %}}

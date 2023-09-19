@@ -1,0 +1,29 @@
++++
+title = "L'Abandon"
+date = 1999-02-05
+weight = 40
+LastModifierDisplayName = "Barbara Post"
+tags = ["amour", "acrostiche"]
+categories = ["Amour malheureux"]
++++
+
+Le cœur abandonné ne pourra plus chanter
+
+Alors le soleil bleu glacial dans sa morsure
+
+Brise le ciel , la mer et met dans la blessure
+
+Ardente un rêve ancien qui voudrait sangloter.
+
+ \
+N'entends-tu pas le souffle et la douleur du monde
+
+Dessiner sur la voûte une nouvelle nuit ?
+
+O muet, triste et sourd, expirant son ennui,
+
+N'entends-tu pas ce cœur, ombre à chaque seconde ?
+
+{{% notice style="primary" %}}
+Acrostiche : L'Abandon
+{{% /notice %}}

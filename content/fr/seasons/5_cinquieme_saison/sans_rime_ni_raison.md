@@ -1,0 +1,47 @@
++++
+title = "Sans rime ni raison"
+date = 1997-12-24
+weight = 35
+LastModifierDisplayName = "Barbara Post"
+tags = ["philosophie", "acrostiche"]
+categories = ["Etre"]
++++
+
+Sans rime ni raison
+
+Ai-je perdu la tête,
+
+Navire qui cliquète
+
+Sans aucun horizon ?
+
+ \
+Réprime ton sourire :
+
+Il n'est que ma douleur,
+
+Murmure au fond du cœur,
+
+Enfermée en délire.
+
+ \
+Nouvel et fol hiver
+
+Incendié de mes larmes,
+
+Rêves comme autant d'armes :
+
+A ce jeu chacun perd.
+
+ \
+Inoubliable asile
+
+Scellé comme un couvain :
+
+Offrir un lendemain
+
+Nu pour l'âme fragile.
+
+{{% notice style="primary" %}}
+Acrostiche : Sans rime ni raison
+{{% /notice %}}

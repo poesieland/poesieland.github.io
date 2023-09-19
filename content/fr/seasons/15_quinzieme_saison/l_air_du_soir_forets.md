@@ -1,0 +1,38 @@
++++
+title = "L'air du soir, forêts"
+date = 2001-09-16
+weight = 32
+LastModifierDisplayName = "Barbara Post"
+tags = ["nature", "acrostiche"]
+categories = ["Jardin, paysage"]
++++
+
+Dialogue de mes pas sur l'herbe,
+
+Une ombre... ce n'est qu'un lapin
+
+Suivant la lune dans sa gerbe
+
+Odorante, furtive... un pin
+
+ \
+Installe ses branches discrètes,
+
+Rêvant la neige, nuits d'hivers
+
+Furtives, de vallons et crêtes
+
+Ombrés d'une lune à l'envers.
+
+ \
+Rêves, je marche et m'abandonne,
+
+En paix, le reflet des sentiers
+
+Trace ma route qui résonne
+
+Seule, sous les arbres altiers.
+
+{{% notice style="primary" %}}
+Acrostiche : L'air du soir, forêts
+{{% /notice %}}

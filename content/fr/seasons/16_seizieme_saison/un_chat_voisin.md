@@ -1,0 +1,38 @@
++++
+title = "Un chat voisin"
+date = 2003-10-05
+weight = 17
+LastModifierDisplayName = "Barbara Post"
+tags = ["nature", "acrostiche"]
+categories = ["Animaux"]
++++
+
+Un chat si beau me rend visite,
+
+Nocturne avec des chaussons blancs,
+
+Curieux de voir où j'habite,
+
+Humble visiteur à pas lents.
+
+ \
+Ambre du regard en prélude,
+
+'Tichat, mon studio t'appartient.
+
+Venu tromper la solitude
+
+Où le dimanche nous retient.
+
+ \
+Inspiré, ton retour assemble
+
+Simplement nos besoins d'aimer.
+
+Instant magique d'être ensemble,
+
+N'es-tu qu'un chat, pour me charmer ?
+
+{{% notice style="primary" %}}
+Acrostiche : Un chat voisin
+{{% /notice %}}

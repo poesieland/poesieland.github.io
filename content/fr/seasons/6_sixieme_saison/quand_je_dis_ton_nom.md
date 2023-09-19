@@ -1,0 +1,47 @@
++++
+title = "Quand je dis ton nom"
+date = 1998-03-27
+weight = 44
+LastModifierDisplayName = "Barbara Post"
+tags = ["amour", "acrostiche"]
+categories = ["Amour malheureux"]
++++
+
+Quand je dis ton nom qui s'envole,
+
+Ultime mot de ma douleur,
+
+Ardent murmure en sa coupole
+
+Ne me répond qu'une couleur :
+
+ \
+Dispersée au vent de l'automne,
+
+Joyeuse, et pâle de souffrir
+
+Elle s'abîme, monotone,
+
+Doucement comme on va mourir.
+
+ \
+Il n'est plus de saison, vestige
+
+Saccadé d'un muet sanglot
+
+Tombé d'un printemps qui m'afflige :
+
+O je ne peux le trouver beau !
+
+ \
+Nue, écorchée en pleine page
+
+Naquit l'encre de mon feuillet,
+
+Ombre amère, lent découpage
+
+Meurtri qu'un cœur émerveillait.
+
+{{% notice style="primary" %}}
+Acrostiche : Quand je dis ton nom
+{{% /notice %}}

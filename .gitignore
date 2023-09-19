@@ -487,3 +487,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# Test files
+content/fr/seasons/*_test_saison
+content/fr/seasons/*_test_saison/*

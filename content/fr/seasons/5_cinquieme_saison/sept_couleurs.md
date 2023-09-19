@@ -1,0 +1,38 @@
++++
+title = "Sept couleurs"
+date = 1997-10-30
+weight = 27
+LastModifierDisplayName = "Barbara Post"
+tags = ["philosophie", "acrostiche"]
+categories = ["Création"]
++++
+
+Sept couleurs pour peindre ton nom;
+
+Encriers, magiques octaves,
+
+Passer des plus clairs aux plus graves,
+
+Transcender la neuve saison !
+
+ \
+Cueillir la longue nuit violine
+
+Où l'indigo berce le cœur :
+
+Ultime assaut du bleu-bonheur,
+
+L'étoile chante sa comptine.
+
+ \
+Effeuiller l'arbre d'avenir,
+
+Une chamade. Tourbillonnent
+
+Rouges, verts, jaunes qui détonnent !
+
+Sept couleurs... pour ton souvenir.
+
+{{% notice style="primary" %}}
+Acrostiche : Sept couleurs
+{{% /notice %}}

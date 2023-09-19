@@ -48,6 +48,5 @@ Entends-tu les cloches d'or
 Sonner l'âme en leur accord ?
 
 {{% notice style="primary" %}}
-
 Acrostiche double (lignes paires et impaires) : Cathédrale / de lumières
 {{% /notice %}}

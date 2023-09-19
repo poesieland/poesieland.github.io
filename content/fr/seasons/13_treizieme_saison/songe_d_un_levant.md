@@ -1,0 +1,42 @@
++++
+title = "Songe d'un levant"
+date = 1999-07-31
+weight = 42
+LastModifierDisplayName = "Barbara Post"
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+categories = ["Aube", "Espoir"]
++++
+
+Sur la douceur de mes paupières,
+
+Osant à peine ses prières
+
+Naît le soleil. Je chanterai
+
+Germé le jour d'un ciel plus vrai,
+
+Etranger, proche après l'aurore.
+
+ \
+Donnée à lui la Terre adore
+
+Une seule giration,
+
+Native, effleure passion.
+
+ \
+Levant vers l'astre mon visage
+
+En l'immobile paysage
+
+Vers lui je lance cet appel :
+
+Avant ton zénith, ivre, tel
+
+Notre berceau, guide nos rêves !
+
+Terre, Soleil, le temps s'élèvent !
+
+{{% notice style="primary" %}}
+Acrostiche : Songe d'un levant
+{{% /notice %}}

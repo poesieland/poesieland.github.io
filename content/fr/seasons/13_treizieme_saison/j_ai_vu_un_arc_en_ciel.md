@@ -1,0 +1,47 @@
++++
+title = "J'ai vu un arc-en-ciel"
+date = 1999-08-14
+weight = 31
+LastModifierDisplayName = "Barbara Post"
+tags = ["nature", "acrostiche"]
+categories = ["Ciel"]
++++
+
+J'ai vu les sept couleurs
+
+Atteindre le rivage
+
+Ivre, comme un présage
+
+Virevolte : pâleurs.
+
+ \
+Une ombre indigo voile
+
+Une ville, et les tours
+
+Naissent, drapent d'atours
+
+Arcs et temples d'étoile.
+
+ \
+Rassembler l'encre au ciel,
+
+Crayons multicolores
+
+En d'invisibles flores
+
+Nommées à l'essentiel.
+
+ \
+Croire que les mirages,
+
+Images crescendo,
+
+Emanent, perles d'eau,
+
+Le soleil : mariages.
+
+{{% notice style="primary" %}}
+Acrostiche : J'ai vu un arc-en-ciel
+{{% /notice %}}

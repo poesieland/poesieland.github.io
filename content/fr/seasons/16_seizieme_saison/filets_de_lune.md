@@ -1,0 +1,37 @@
++++
+title = "Filets de lune"
+date = 2003-01-22
+weight = 10
+LastModifierDisplayName = "Barbara Post"
+tags = ["ombres et lumières", "acrostiche"]
+categories = ["Lune"]
++++
+
+Fantastique passagère allant
+
+Irradiée à son cortège
+
+Libérer le soupir halant
+
+Etonnant style d'un arpège
+
+Terrestre. Une onde a mis
+
+Ses pas dans ceux d'harpes anciennes.
+
+ \
+Déliés, les rêves amis
+
+Egrènent de sourdes antiennes
+
+Lues par le ciel et pour le cœur.
+
+Une arabesque sur la corde
+
+Nouvelle attise astre vainqueur
+
+En son céleste ressac, horde.
+
+{{% notice style="primary" %}}
+Acrostiche : Filets de lune
+{{% /notice %}}

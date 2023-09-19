@@ -1,0 +1,43 @@
++++
+title = "Je t'offrirai"
+date = 1998-05-26
+weight = 39
+LastModifierDisplayName = "Barbara Post"
+tags = ["philosophie"]
+categories = ["Etre"]
++++
+
+Je t'offrirai des roses,
+
+Des larmes du désert
+
+Pour que nos cœurs éclosent
+
+Au murmure ocre-vert...
+
+ \
+Je t'offre l'aquarelle
+
+Des songes, des parfums
+
+Que tu vivras rebelle :
+
+Orage aux mots défunts.
+
+ \
+Je t'offrirai parure
+
+L'immensité d'amour
+
+Quand le voile, échancrure
+
+Berce l'onde du jour.
+
+ \
+Je t'offre au vent de sable
+
+Nuit, brûlante blancheur,
+
+Modèle d'incréable,
+
+De passion, bonheur !

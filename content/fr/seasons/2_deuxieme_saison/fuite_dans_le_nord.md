@@ -1,0 +1,38 @@
++++
+title = "Fuite dans le Nord"
+date = 1996-11-02
+weight = 21
+LastModifierDisplayName = "Barbara Post"
+tags = ["philosophie"]
+categories = ["Divers"]
++++
+
+Le Nord comme un hôtel
+
+Au cœur, aux portes vides,
+
+Vers la mer c'est l'appel
+
+Dans ses fuites livides.
+
+ \
+Le Nord plus loin que tout
+
+Sur les routes ouvertes,
+
+C'est là-bas jusqu'au bout
+
+Les espoirs dans leurs pertes.
+
+ \
+Le Nord, ultime fin,
+
+Sans voir le paysage,
+
+Où l'abîme défunt
+
+Tourbillonne sans âge.
+
+{{% notice style="primary" %}}
+Inspiré du film homonyme
+{{% /notice %}}
