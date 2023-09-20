@@ -12,8 +12,8 @@
           "type": "string"
         },
         {
-          "title": "summary",
-          "name": "summary",
+          "title": "date",
+          "name": "date",
           "type": "datetime"
         },
         {
@@ -22,9 +22,24 @@
           "type": "number"
         },
         {
-          "title": "disableToc",
-          "name": "disableToc",
-          "type": "datetime"
+          "title": "categories",
+          "name": "categories",
+          "type": "categories"
+        },
+        {
+          "title": "tags",
+          "name": "tags",
+          "type": "tags"
+        },
+        {
+          "title": "info",
+          "name": "info",
+          "type": "string"
+        },
+        {
+          "title": "acrostiche",
+          "name": "acrostiche",
+          "type": "string"
         }
       ]
     }
@@ -34,8 +49,8 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "content",
-      "path": "[[workspace]]/content"
+      "title": "poems",
+      "path": "[[workspace]]/content/fr/seasons"
     }
   ],
   "frontMatter.content.snippets": {},
