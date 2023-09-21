@@ -9,17 +9,32 @@
         {
           "title": "title",
           "name": "title",
-          "type": "string"
+          "type": "string",
+          "description": "poem title",
+          "required": true
         },
         {
-          "title": "date",
+          "title": "id",
+          "name": "id",
+          "type": "string",
+          "description": "normalized title + _N",
+          "required": true
+        },
+        {
+          "title": "writing date",
           "name": "date",
-          "type": "datetime"
+          "type": "datetime",
+          "required": true,
+          "dateFormat": "yyyy-MM-dd"
         },
         {
           "title": "weight",
           "name": "weight",
-          "type": "number"
+          "type": "number",
+          "required": true,
+          "min": 1,
+          "max": 50,
+          "step": 1
         },
         {
           "title": "categories",
@@ -40,6 +55,12 @@
           "title": "acrostiche",
           "name": "acrostiche",
           "type": "string"
+        },
+        {
+          "title": "LastModifierDisplayName",
+          "name": "LastModifierDisplayName",
+          "type": "string",
+          "default": "Barbara Post"
         }
       ]
     }
