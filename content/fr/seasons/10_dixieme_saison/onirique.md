@@ -3,6 +3,8 @@ title = "Onirique"
 date = 1999-02-26
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "onirique_10"
+acrostiche = "Onirique"
 tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Etre", "Ciel"]
 +++

@@ -3,6 +3,8 @@ title = "Lune meurtrière"
 date = 1997-01-23
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "lune_meurtriere_3"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

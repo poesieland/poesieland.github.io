@@ -3,6 +3,8 @@ title = "Cœurs amants"
 date = 2002-08-18
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "cours_amants_16"
+acrostiche = "Cœurs amants"
 tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
 +++

@@ -3,6 +3,8 @@ title = "Aube muraille"
 date = 1998-07-05
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "aube_muraille_7"
+acrostiche = "Aube muraille"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Aube"]
 +++

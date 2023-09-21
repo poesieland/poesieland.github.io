@@ -3,6 +3,8 @@ title = "Saisons d'envies"
 date = 1997-03-21
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "saisons_d_envies_3"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

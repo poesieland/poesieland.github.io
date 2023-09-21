@@ -3,6 +3,8 @@ title = "Mon amant"
 date = 1998-07-28
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "mon_amant_8"
+acrostiche = "Mon amant"
 tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
 +++

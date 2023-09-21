@@ -3,6 +3,8 @@ title = "Scordare..."
 date = 1999-06-06
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "scordare_12"
+acrostiche = "Scordare..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

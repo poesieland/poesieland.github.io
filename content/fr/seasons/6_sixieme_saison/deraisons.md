@@ -3,6 +3,7 @@ title = "Déraisons"
 date = 1998-03-14
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "deraisons_6"
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

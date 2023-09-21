@@ -3,6 +3,8 @@ title = "Rêve lunaire"
 date = 1999-05-28
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "reve_lunaire_12"
+acrostiche = "A la lumière de la lune"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

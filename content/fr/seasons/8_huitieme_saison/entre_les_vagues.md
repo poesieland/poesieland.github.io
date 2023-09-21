@@ -3,6 +3,8 @@ title = "Entre les vagues"
 date = 1998-09-05
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "entre_les_vagues_8"
+acrostiche = "Entre les vagues"
 tags = ["attitudes", "nature", "attitudes", "acrostiche"]
 categories = ["Sommeil", "Mer", "Musique, chant"]
 +++

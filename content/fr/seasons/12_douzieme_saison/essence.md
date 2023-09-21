@@ -3,6 +3,8 @@ title = "Essence"
 date = 1999-07-09
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "essence_12"
+doubleAcrostiche = "A la place | un double"
 tags = ["philosophie", "attitudes"]
 categories = ["Etre", "Musique, chant"]
 +++

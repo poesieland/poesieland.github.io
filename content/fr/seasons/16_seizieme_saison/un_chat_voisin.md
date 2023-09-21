@@ -3,6 +3,8 @@ title = "Un chat voisin"
 date = 2003-10-05
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "un_chat_voisin_16"
+acrostiche = "Un chat voisin"
 tags = ["nature", "acrostiche"]
 categories = ["Animaux"]
 +++

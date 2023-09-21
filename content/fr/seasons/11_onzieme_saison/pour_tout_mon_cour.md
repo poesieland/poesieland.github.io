@@ -3,6 +3,8 @@ title = "Pour tout mon cœur"
 date = 1999-05-12
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "pour_tout_mon_cour_11"
+acrostiche = "Pour tout mon cœur"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

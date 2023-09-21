@@ -3,6 +3,8 @@ title = "Si je prie"
 date = 1999-08-28
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "si_je_prie_13"
+acrostiche = "Si je prie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

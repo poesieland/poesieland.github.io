@@ -3,6 +3,8 @@ title = "Amour de vacances"
 date = 1996-08-21
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "amour_de_vacances_1"
+verseLength = 12
 tags = ["amour"]
 categories = ["Femme"]
 +++

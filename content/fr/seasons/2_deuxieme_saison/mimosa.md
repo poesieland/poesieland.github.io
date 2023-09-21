@@ -3,6 +3,8 @@ title = "Mimosa"
 date = 1996-11-20
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "mimosa_2"
+verseLength = 12
 tags = ["nature"]
 categories = ["Flore"]
 +++

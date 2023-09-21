@@ -3,6 +3,8 @@ title = "Soleil"
 date = 1999-07-22
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "soleil_12"
+acrostiche = "O sole mio"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
 +++

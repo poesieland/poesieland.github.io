@@ -3,6 +3,8 @@ title = "Verger en fleurs"
 date = 1997-02-04
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "verger_en_fleurs_3"
+verseLength = 8
 tags = ["nature"]
 categories = ["Flore"]
 +++

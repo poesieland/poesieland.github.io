@@ -3,6 +3,8 @@ title = "Miroirs de toi"
 date = 1998-08-03
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "miroirs_de_toi_8"
+acrostiche = "Miroirs de toi"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

@@ -3,6 +3,8 @@ title = "La goutte d'eau"
 date = 1996-06-10
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "la_goutte_d_eau_1"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Enfance"]
 +++

@@ -3,6 +3,8 @@ title = "Aveu"
 date = 1999-05-03
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "aveu_11"
+acrostiche = "Au détour"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

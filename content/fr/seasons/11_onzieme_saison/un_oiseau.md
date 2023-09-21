@@ -3,6 +3,8 @@ title = "Un oiseau"
 date = 1999-05-03
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "un_oiseau_11"
+acrostiche = "Un oiseau"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
 +++

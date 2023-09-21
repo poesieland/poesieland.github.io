@@ -3,6 +3,8 @@ title = "Italia"
 date = 1998-06-05
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "italia_7"
+acrostiche = "Italia"
 tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
 +++

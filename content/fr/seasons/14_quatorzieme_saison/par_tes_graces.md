@@ -3,6 +3,8 @@ title = "Par tes grâces"
 date = 1999-11-28
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "par_tes_graces_14"
+acrostiche = "Par tes grâces"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Musique, chant"]
 +++

@@ -3,6 +3,8 @@ title = "Mon lutin"
 date = 1998-07-14
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "mon_lutin_7"
+acrostiche = "Mon lutin"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

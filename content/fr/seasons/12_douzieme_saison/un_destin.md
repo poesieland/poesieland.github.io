@@ -3,6 +3,8 @@ title = "Un destin"
 date = 1999-07-17
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "un_destin_12"
+acrostiche = "A Balavoine"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Création", "Portraits"]
 +++

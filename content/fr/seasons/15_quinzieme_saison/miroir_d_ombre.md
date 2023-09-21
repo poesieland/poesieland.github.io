@@ -3,6 +3,8 @@ title = "Miroir d'ombre"
 date = 2001-09-13
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "miroir_d_ombre_15"
+acrostiche = "Miroir d'ombre"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

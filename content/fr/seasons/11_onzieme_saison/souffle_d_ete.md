@@ -3,6 +3,8 @@ title = "Souffle d'été"
 date = 1999-05-21
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "souffle_d_ete_11"
+acrostiche = "Ne rien faire, rêver..."
 tags = ["saisons", "nature", "acrostiche"]
 categories = ["Eté", "Jardin, paysage"]
 +++

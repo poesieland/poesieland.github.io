@@ -3,6 +3,8 @@ title = "Comme toi, aile"
 date = 2001-09-13
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "comme_toi_aile_15"
+acrostiche = "Comme toi, aile"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

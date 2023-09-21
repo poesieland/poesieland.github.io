@@ -3,6 +3,8 @@ title = "Solos, printemps"
 date = 2001-03-21
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "solos_printemps_14"
+acrostiche = "Solos, printemps"
 tags = ["nature", "saisons", "acrostiche"]
 categories = ["Jardin, paysage", "Printemps"]
 +++

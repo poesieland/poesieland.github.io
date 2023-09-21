@@ -3,6 +3,8 @@ title = "Mêlé"
 date = 1999-06-14
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "mele_12"
+acrostiche = "Mêlé"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

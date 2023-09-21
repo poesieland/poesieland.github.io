@@ -3,6 +3,8 @@ title = "Retrouvailles"
 date = 1996-06-29
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "retrouvailles_1"
+verseLength = 8
 tags = ["amour"]
 categories = ["Amitié"]
 +++

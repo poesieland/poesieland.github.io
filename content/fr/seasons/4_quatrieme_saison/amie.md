@@ -3,6 +3,8 @@ title = "Amie"
 date = 1997-05-11
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "amie_4"
+verseLength = 8
 tags = ["amour"]
 categories = ["Amitié"]
 +++

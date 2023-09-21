@@ -3,6 +3,8 @@ title = "Giusto te"
 date = 1999-10-02
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "giusto_te_13"
+acrostiche = "Giusto te"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

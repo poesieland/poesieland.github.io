@@ -3,6 +3,8 @@ title = "L'Absence"
 date = 1997-05-02
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "l_absence_3"
+verseLength = 8
 tags = ["philosophie", "amour"]
 categories = ["Temps", "Amitié"]
 +++

@@ -3,6 +3,8 @@ title = "Etreinte - ange"
 date = 2001-09-11
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "etreinte_ange_15"
+acrostiche = "Etreinte - ange"
 tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Toucher", "Temps"]
 +++

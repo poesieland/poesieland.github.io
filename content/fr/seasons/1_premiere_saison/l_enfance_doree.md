@@ -3,6 +3,7 @@ title = "L'enfance dorée"
 date = 1994-01-01
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "l_enfance_doree_1"
 tags = ["philosophie", "nature"]
 categories = ["Enfance", "Flore"]
 +++

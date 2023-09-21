@@ -3,6 +3,7 @@ title = "Elle vit"
 date = 1998-12-01
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "elle_vit_9"
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

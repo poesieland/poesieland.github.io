@@ -3,6 +3,8 @@ title = "La cathédrale est belle"
 date = 1999-01-24
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "la_cathedrale_est_belle_10"
+acrostiche = "La cathédrale est belle"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

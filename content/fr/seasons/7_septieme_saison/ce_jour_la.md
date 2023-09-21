@@ -3,6 +3,8 @@ title = "Ce jour-là"
 date = 1998-07-17
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "ce_jour_la_7"
+acrostiche = "Ce jour-là tu disais"
 tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Création", "Amitié"]
 +++

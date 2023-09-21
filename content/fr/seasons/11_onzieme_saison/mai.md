@@ -3,6 +3,8 @@ title = "Mai"
 date = 1999-05-01
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "mai_11"
+acrostiche = "Un an de plus"
 tags = ["nature", "saisons", "acrostiche"]
 categories = ["Flore", "Printemps"]
 +++

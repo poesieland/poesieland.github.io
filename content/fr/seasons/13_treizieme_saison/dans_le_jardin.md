@@ -3,6 +3,8 @@ title = "Dans le jardin"
 date = 1999-10-17
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "dans_le_jardin_13"
+acrostiche = "Dans le jardin"
 tags = ["nature", "saisons", "acrostiche"]
 categories = ["Jardin, paysage", "Automne"]
 +++

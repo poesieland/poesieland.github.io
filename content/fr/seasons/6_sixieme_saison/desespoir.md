@@ -3,6 +3,7 @@ title = "Désespoir"
 date = 1998-05-26
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "desespoir_6"
 tags = ["philosophie"]
 categories = ["Création"]
 +++

@@ -3,6 +3,8 @@ title = "Nostalgie"
 date = 1996-09-23
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "nostalgie_2"
+verseLength = 8
 tags = ["amour"]
 categories = ["Amitié"]
 +++

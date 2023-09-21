@@ -3,6 +3,7 @@ title = "Rêverie marine"
 date = 1995-11-01
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "reverie_marine_1"
 tags = ["nature", "philosophie"]
 categories = ["Mer", "Foi"]
 +++

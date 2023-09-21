@@ -3,6 +3,7 @@ title = "Je t'offrirai"
 date = 1998-05-26
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "je_t_offrirai_6"
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

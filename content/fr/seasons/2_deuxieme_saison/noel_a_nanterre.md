@@ -3,6 +3,8 @@ title = "Noël à Nanterre"
 date = 1996-12-23
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "noel_a_nanterre_2"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

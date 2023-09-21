@@ -3,6 +3,8 @@ title = "La Poésie"
 date = 1996-02-06
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "la_poesie_1"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Création"]
 +++

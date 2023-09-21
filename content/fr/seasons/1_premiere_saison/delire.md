@@ -3,6 +3,8 @@ title = "Délire"
 date = 1996-08-25
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "delire_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Divers"]
 +++

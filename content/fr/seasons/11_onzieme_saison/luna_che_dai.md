@@ -3,6 +3,8 @@ title = "Luna che dai"
 date = 1999-04-01
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "luna_che_dai_11"
+acrostiche = "Luna che dai"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

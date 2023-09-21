@@ -3,6 +3,8 @@ title = "A la course aux saisons"
 date = 2001-03-24
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "a_la_course_aux_saisons_14"
+acrostiche = "D'une saison l'autre"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Printemps", "Temps"]
 +++

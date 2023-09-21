@@ -3,6 +3,7 @@ title = "Poussières"
 date = 1998-04-18
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "poussieres_6"
 tags = ["philosophie", "philosophie"]
 categories = ["Enfance", "Temps"]
 +++

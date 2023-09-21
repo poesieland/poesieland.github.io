@@ -3,6 +3,8 @@ title = "Image, un sens est"
 date = 1999-08-31
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "image_un_sens_est_13"
+acrostiche = "Image, un sens est"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

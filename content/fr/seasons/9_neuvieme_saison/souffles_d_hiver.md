@@ -3,6 +3,8 @@ title = "Souffles d'hiver"
 date = 1998-12-11
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "souffles_d_hiver_9"
+acrostiche = "Souffles d'hiver"
 tags = ["saisons", "philosophie", "acrostiche", "sonnet"]
 categories = ["Hiver", "Etre"]
 +++

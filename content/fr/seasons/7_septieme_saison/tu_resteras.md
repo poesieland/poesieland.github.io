@@ -3,6 +3,8 @@ title = "Tu resteras"
 date = 1998-07-01
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "tu_resteras_7"
+acrostiche = "Tu resteras"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

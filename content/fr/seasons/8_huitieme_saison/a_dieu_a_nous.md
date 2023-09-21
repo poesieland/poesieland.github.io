@@ -3,6 +3,8 @@ title = "A Dieu, à nous"
 date = 1998-07-24
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "a_dieu_a_nous_8"
+acrostiche = "A Dieu, à nous"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

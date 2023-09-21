@@ -3,6 +3,8 @@ title = "Remède"
 date = 1996-08-28
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "remede_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Création"]
 +++

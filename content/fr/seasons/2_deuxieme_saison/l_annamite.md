@@ -3,6 +3,8 @@ title = "L'Annamite"
 date = 1996-10-09
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "l_annamite_2"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

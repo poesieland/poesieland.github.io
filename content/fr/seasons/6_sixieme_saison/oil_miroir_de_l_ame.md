@@ -3,6 +3,8 @@ title = "Œil miroir de l'âme"
 date = 1998-05-17
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "oil_miroir_de_l_ame_6"
+acrostiche = "Œil miroir de l'âme"
 tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
 +++

@@ -3,6 +3,8 @@ title = "Nocturne voie"
 date = 1999-10-02
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "nocturne_voie_13"
+acrostiche = "Nocturne"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Etre"]
 +++
@@ -25,5 +27,5 @@ Nue une reine au ciel, au vent, l'onde s'est déchirée
 Emportant un fétu vers le sombre brisant...
 
 {{% notice style="primary" %}}
-Acrostiche : Nocturne voie
+Acrostiche : Nocturne
 {{% /notice %}}

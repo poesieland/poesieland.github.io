@@ -3,6 +3,8 @@ title = "Mariée au soleil"
 date = 1999-06-12
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "mariee_au_soleil_12"
+acrostiche = "Mariée au soleil"
 tags = ["attitudes", "acrostiche", "sonnet"]
 categories = ["Musique, chant"]
 +++

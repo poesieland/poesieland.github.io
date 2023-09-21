@@ -3,6 +3,8 @@ title = "Errance"
 date = 1999-02-19
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "errance_10"
+acrostiche = "Légère"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

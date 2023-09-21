@@ -3,6 +3,8 @@ title = "Mon chat préféré"
 date = 1999-11-17
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "mon_chat_prefere_14"
+acrostiche = "Mon chat préféré"
 tags = ["nature", "acrostiche"]
 categories = ["Animaux"]
 +++

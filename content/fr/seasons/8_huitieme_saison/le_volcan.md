@@ -3,6 +3,8 @@ title = "Le volcan"
 date = 1998-08-31
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "le_volcan_8"
+acrostiche = "Le volcan"
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
 +++

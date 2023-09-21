@@ -3,6 +3,9 @@ title = "L'Amitié"
 date = 1997-02-21
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "l_amitie_3"
+acrostiche = "Amitié"
+verseLength = 6
 tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
 +++

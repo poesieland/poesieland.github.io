@@ -3,6 +3,9 @@ title = "L'Amante"
 date = 1997-08-03
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "l_amante_4"
+acrostiche = "Lune amante"
+verseLength = 6
 tags = ["amour", "ombres et lumières", "acrostiche"]
 categories = ["Romantisme", "Lune"]
 +++

@@ -3,6 +3,9 @@ title = "Demain nous serons"
 date = 1997-11-21
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "demain_nous_serons_5"
+acrostiche = "Demain nous serons"
+verseLength = 12
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

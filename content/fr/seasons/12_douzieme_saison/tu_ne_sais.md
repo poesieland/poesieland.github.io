@@ -3,6 +3,8 @@ title = "Tu ne sais"
 date = 1999-06-14
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "tu_ne_sais_12"
+acrostiche = "Tu ne sais"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Etre"]
 +++

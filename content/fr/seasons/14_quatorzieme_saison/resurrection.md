@@ -3,6 +3,8 @@ title = "Résurrection"
 date = 2000-01-02
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "resurrection_14"
+acrostiche = "Résurrection"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

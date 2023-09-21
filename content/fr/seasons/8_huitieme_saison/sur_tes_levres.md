@@ -3,6 +3,8 @@ title = "Sur tes lèvres"
 date = 1998-07-25
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "sur_tes_levres_8"
+acrostiche = "Sur tes lèvres"
 tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Toucher", "Etre"]
 +++

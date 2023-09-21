@@ -3,6 +3,7 @@ title = "L'œil de la Lune"
 date = 1998-05-10
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "l_oil_de_la_lune_6"
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

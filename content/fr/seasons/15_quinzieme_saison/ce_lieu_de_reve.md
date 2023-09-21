@@ -3,6 +3,8 @@ title = "Ce lieu de rêve"
 date = 2001-08-05
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "ce_lieu_de_reve_15"
+acrostiche = "Ce lieu de rêve"
 tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Etre", "Eau douce"]
 +++

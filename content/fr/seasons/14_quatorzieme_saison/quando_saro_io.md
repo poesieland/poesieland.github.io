@@ -3,6 +3,8 @@ title = "Quando sarò io"
 date = 2000-02-19
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "quando_saro_io_14"
+acrostiche = "Quando sarò io"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création", "Temps"]
 +++

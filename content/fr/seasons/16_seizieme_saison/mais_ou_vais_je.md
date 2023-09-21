@@ -3,6 +3,8 @@ title = "Mais où vais-je ?"
 date = 2004-01-14
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "mais_ou_vais_je_16"
+acrostiche = "Mais où vais-je ?"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

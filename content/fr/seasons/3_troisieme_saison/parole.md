@@ -3,6 +3,8 @@ title = "Parole"
 date = 1997-01-31
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "parole_3"
+verseLength = 4
 tags = ["philosophie"]
 categories = ["Création"]
 +++

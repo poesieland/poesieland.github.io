@@ -3,6 +3,8 @@ title = "Automne d'enfance"
 date = 1996-10-22
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "automne_d_enfance_2"
+verseLength = 12
 tags = ["saisons", "philosophie"]
 categories = ["Automne", "Enfance"]
 +++

@@ -3,6 +3,8 @@ title = "Neige"
 date = 1996-12-31
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "neige_2"
+verseLength = 8
 tags = ["nature"]
 categories = ["Neige"]
 +++

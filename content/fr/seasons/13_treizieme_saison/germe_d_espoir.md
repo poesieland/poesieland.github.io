@@ -3,11 +3,10 @@ title = "Germe d'espoir"
 date = 1999-08-19
 weight = 4
 LastModifierDisplayName = "Barbara Post"
-tags = [ "philosophie", "acrostiche" ]
-categories = [ "Foi" ]
-acrostiche = "Germe d'espoir"
-info = ""
 id = "germe_d_espoir_13"
+acrostiche = "Germe d'espoir"
+tags = ["philosophie", "acrostiche"]
+categories = ["Foi"]
 +++
 
 Guéris nos cœurs de la souillure

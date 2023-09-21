@@ -3,6 +3,8 @@ title = "Jeu d'enfant"
 date = 1999-06-01
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "jeu_d_enfant_12"
+acrostiche = "Jeu d'enfant"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Temps", "Enfance"]
 +++

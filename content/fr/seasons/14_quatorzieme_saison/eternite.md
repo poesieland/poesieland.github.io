@@ -3,6 +3,8 @@ title = "Eternité"
 date = 1999-12-05
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "eternite_14"
+acrostiche = "Quando Corpus"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps", "Création"]
 +++

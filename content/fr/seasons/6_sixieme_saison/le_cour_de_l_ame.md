@@ -3,6 +3,7 @@ title = "Le cœur de l'âme"
 date = 1998-05-17
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "le_cour_de_l_ame_6"
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

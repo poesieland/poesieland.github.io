@@ -3,6 +3,8 @@ title = "Une vierge"
 date = 1998-10-31
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "une_vierge_9"
+acrostiche = "Une vierge, moi"
 tags = ["amour", "acrostiche"]
 categories = ["Femme"]
 +++

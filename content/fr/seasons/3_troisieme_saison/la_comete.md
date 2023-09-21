@@ -3,6 +3,8 @@ title = "La Comète"
 date = 1997-04-01
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "la_comete_3"
+verseLength = 6
 tags = ["ombres et lumières"]
 categories = ["Nuit"]
 +++

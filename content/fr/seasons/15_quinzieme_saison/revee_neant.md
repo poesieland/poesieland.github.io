@@ -3,6 +3,8 @@ title = "Rêvée, néant"
 date = 2001-11-14
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "revee_neant_15"
+acrostiche = "Rêvée, néant"
 tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Aimé (amant)", "Révolte"]
 +++

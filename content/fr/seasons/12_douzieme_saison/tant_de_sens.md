@@ -3,6 +3,8 @@ title = "Tant de sens"
 date = 1999-06-05
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "tant_de_sens_12"
+acrostiche = "Tant de sens"
 tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Temps"]
 +++

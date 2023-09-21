@@ -3,6 +3,7 @@ title = "Souvenirs"
 date = 2001-08-25
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "souvenirs_15"
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

@@ -3,6 +3,8 @@ title = "Oh que je t'aime"
 date = 2002-08-19
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "oh_que_je_t_aime_16"
+acrostiche = "Oh que je t'aime"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

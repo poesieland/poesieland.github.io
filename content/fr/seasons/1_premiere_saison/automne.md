@@ -3,6 +3,8 @@ title = "Automne"
 date = 1996-05-11
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "automne_1"
+verseLength = 12
 tags = ["saisons"]
 categories = ["Automne"]
 +++

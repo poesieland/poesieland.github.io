@@ -3,6 +3,8 @@ title = "Si tu dors"
 date = 2002-11-24
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "si_tu_dors_16"
+acrostiche = "Si tu dors"
 tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Aimé (amant)", "Sommeil"]
 +++

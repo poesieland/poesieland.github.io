@@ -3,6 +3,8 @@ title = "Quando la vita dice"
 date = 1999-03-30
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "quando_la_vita_dice_11"
+acrostiche = "Quando la vita dice"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir", "Temps"]
 +++

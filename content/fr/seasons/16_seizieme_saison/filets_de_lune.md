@@ -3,6 +3,8 @@ title = "Filets de lune"
 date = 2003-01-22
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "filets_de_lune_16"
+acrostiche = "Filets de lune"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

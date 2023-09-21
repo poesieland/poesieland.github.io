@@ -3,6 +3,8 @@ title = "Belle volage"
 date = 1996-09-05
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "belle_volage_2"
+verseLength = 12
 tags = ["amour"]
 categories = ["Femme"]
 +++

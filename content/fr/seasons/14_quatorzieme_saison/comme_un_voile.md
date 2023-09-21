@@ -3,6 +3,8 @@ title = "Comme un voile"
 date = 2000-06-05
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "comme_un_voile_14"
+acrostiche = "Comme un voile"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Création", "Musique, chant"]
 +++

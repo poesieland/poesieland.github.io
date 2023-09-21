@@ -3,6 +3,8 @@ title = "Le théâtre, art"
 date = 2001-02-24
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "le_theatre_art_14"
+acrostiche = "Le théâtre, art"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

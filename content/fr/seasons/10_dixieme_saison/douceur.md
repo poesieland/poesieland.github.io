@@ -3,6 +3,8 @@ title = "Douceur"
 date = 1999-03-03
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "douceur_10"
+acrostiche = "Douces"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

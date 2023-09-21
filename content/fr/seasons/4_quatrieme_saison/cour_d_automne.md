@@ -3,6 +3,8 @@ title = "Cœur d'automne"
 date = 1997-09-01
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "cour_d_automne_4"
+verseLength = 5
 tags = ["saisons"]
 categories = ["Automne"]
 +++

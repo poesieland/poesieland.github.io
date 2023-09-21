@@ -3,6 +3,8 @@ title = "Jeu - éclat"
 date = 2001-08-31
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "jeu_eclat_15"
+acrostiche = "Jeu - éclat"
 tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Espoir", "Eté"]
 +++

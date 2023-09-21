@@ -3,6 +3,8 @@ title = "Entre vie et mort"
 date = 1998-07-09
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "entre_vie_et_mort_7"
+acrostiche = "Entre vie et mort"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

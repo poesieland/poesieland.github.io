@@ -3,6 +3,9 @@ title = "Attraverso il tuo cuore"
 date = 1998-02-16
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "attraverso_il_tuo_cuore_5"
+acrostiche = "Attraverso il tuo cuore"
+verseLength = 8
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

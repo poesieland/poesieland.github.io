@@ -3,6 +3,7 @@ title = "Champ passé"
 date = 2000-08-06
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "champ_passe_14"
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

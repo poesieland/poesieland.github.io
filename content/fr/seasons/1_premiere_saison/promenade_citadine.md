@@ -3,6 +3,8 @@ title = "Promenade citadine"
 date = 1996-06-22
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "promenade_citadine_1"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Ville"]
 +++

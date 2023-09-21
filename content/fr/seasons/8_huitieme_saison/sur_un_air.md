@@ -3,6 +3,8 @@ title = "Sur un air"
 date = 1998-07-20
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "sur_un_air_8"
+acrostiche = "Sur un air"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

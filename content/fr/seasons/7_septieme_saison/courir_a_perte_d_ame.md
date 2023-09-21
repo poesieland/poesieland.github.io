@@ -3,6 +3,8 @@ title = "Courir à perte d'âme"
 date = 1998-07-08
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "courir_a_perte_d_ame_7"
+acrostiche = "Courir à perte d'âme"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

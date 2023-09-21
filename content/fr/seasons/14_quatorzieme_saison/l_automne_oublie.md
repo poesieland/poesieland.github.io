@@ -3,6 +3,8 @@ title = "L'automne oublié"
 date = 2000-09-11
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "l_automne_oublie_14"
+acrostiche = "Dire à l'oublié"
 tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Temps", "Automne"]
 +++

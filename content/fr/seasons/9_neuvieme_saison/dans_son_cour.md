@@ -3,6 +3,8 @@ title = "Dans son cœur"
 date = 1998-11-13
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "dans_son_cour_9"
+acrostiche = "Dans son cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

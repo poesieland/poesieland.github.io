@@ -3,6 +3,8 @@ title = "Fin d'été, nonchalance"
 date = 1998-09-06
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "fin_d_ete_nonchalance_8"
+acrostiche = "Fin d'été, nonchalance"
 tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
 +++

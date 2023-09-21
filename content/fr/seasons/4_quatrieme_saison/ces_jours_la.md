@@ -3,6 +3,8 @@ title = "Ces jours-là"
 date = 1997-09-09
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "ces_jours_la_4"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Enfance"]
 +++

@@ -3,6 +3,8 @@ title = "Odes"
 date = 1999-06-12
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "odes_12"
+acrostiche = "Odes"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

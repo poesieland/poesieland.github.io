@@ -3,6 +3,8 @@ title = "A Toi la gloire"
 date = 1999-08-15
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "a_toi_la_gloire_13"
+acrostiche = "A Toi la gloire"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

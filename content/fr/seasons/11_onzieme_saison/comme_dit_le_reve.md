@@ -3,6 +3,8 @@ title = "Comme dit le rêve"
 date = 1999-04-09
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "comme_dit_le_reve_11"
+acrostiche = "Comme dit le rêve"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Nuit"]
 +++

@@ -3,6 +3,8 @@ title = "L'un, l'autre, moi"
 date = 1998-07-10
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "l_un_l_autre_moi_7"
+acrostiche = "L'un, l'autre, moi"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Création", "Musique, chant"]
 +++

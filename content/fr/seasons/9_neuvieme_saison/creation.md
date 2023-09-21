@@ -3,6 +3,8 @@ title = "Création"
 date = 1998-11-17
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "creation_9"
+acrostiche = "Les mots venus"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

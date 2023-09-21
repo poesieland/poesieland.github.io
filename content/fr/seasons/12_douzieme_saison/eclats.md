@@ -3,6 +3,8 @@ title = "Eclats"
 date = 1999-07-22
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "eclats_12"
+acrostiche = "Eclats"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

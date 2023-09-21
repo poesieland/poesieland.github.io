@@ -3,6 +3,7 @@ title = "Pourquoi rêver"
 date = 1998-05-24
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "pourquoi_rever_6"
 tags = ["amour"]
 categories = ["Amour malheureux"]
 +++

@@ -3,6 +3,8 @@ title = "Juin"
 date = 1997-05-30
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "juin_4"
+verseLength = 4
 tags = ["saisons"]
 categories = ["Eté"]
 +++

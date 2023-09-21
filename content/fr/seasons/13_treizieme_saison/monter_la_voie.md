@@ -3,6 +3,8 @@ title = "Monter la voie"
 date = 1999-08-29
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "monter_la_voie_13"
+acrostiche = "Monter la voie"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

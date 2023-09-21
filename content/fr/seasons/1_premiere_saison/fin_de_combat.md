@@ -3,6 +3,8 @@ title = "Fin de combat"
 date = 1994-01-01
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "fin_de_combat_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

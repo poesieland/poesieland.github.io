@@ -3,6 +3,8 @@ title = "La Pêche"
 date = 1997-08-23
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "la_peche_4"
+verseLength = 6
 tags = ["nature"]
 categories = ["Flore"]
 +++

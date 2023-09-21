@@ -3,6 +3,8 @@ title = "Vérité"
 date = 1998-07-08
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "verite_7"
+acrostiche = "Vérité"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

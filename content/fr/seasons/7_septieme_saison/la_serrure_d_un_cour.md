@@ -3,6 +3,8 @@ title = "La serrure d'un cœur"
 date = 1998-07-02
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "la_serrure_d_un_cour_7"
+acrostiche = "La clef d'un songe"
 tags = ["philosophie", "acrostiche", "sonnet"]
 categories = ["Etre"]
 +++

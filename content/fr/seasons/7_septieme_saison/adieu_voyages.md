@@ -3,6 +3,8 @@ title = "Adieu : voyages"
 date = 1998-07-07
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "adieu_voyages_7"
+acrostiche = "Adieu : voyages"
 tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
 +++

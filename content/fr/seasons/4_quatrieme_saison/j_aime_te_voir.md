@@ -3,6 +3,8 @@ title = "J'aime te voir"
 date = 1997-08-16
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "j_aime_te_voir_4"
+verseLength = 6
 tags = ["amour", "philosophie"]
 categories = ["Romantisme", "Portraits"]
 +++

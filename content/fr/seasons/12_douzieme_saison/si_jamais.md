@@ -3,6 +3,8 @@ title = "Si jamais..."
 date = 1999-06-23
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "si_jamais_12"
+acrostiche = "Si jamais..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

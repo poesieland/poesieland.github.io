@@ -3,6 +3,8 @@ title = "Tous les chemins..."
 date = 1996-10-08
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "tous_les_chemins_2"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Création"]
 +++

@@ -3,6 +3,8 @@ title = "Nostalgique de toi"
 date = 1998-03-12
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "nostalgique_de_toi_6"
+acrostiche = "Nostalgique de toi"
 tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
 +++

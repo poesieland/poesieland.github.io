@@ -3,6 +3,8 @@ title = "Mon souhait"
 date = 1998-07-20
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "mon_souhait_8"
+acrostiche = "Mon souhait"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Vivre"
 date = 1997-05-16
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "vivre_4"
+verseLength = 3
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

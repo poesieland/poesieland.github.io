@@ -3,6 +3,8 @@ title = "L'hiver déjà"
 date = 1998-10-04
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "l_hiver_deja_9"
+acrostiche = "L'hiver déjà"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Hiver", "Révolte"]
 +++

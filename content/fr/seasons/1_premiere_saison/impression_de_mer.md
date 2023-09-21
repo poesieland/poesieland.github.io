@@ -3,6 +3,8 @@ title = "Impression de mer"
 date = 1996-07-12
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "impression_de_mer_1"
+verseLength = 8
 tags = ["nature"]
 categories = ["Mer"]
 +++

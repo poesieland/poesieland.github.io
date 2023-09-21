@@ -3,6 +3,8 @@ title = "Evadée"
 date = 1999-06-12
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "evadee_12"
+acrostiche = "Evadée"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Nuit", "Etre"]
 +++

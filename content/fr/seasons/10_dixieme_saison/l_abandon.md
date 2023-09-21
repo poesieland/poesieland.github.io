@@ -3,6 +3,8 @@ title = "L'Abandon"
 date = 1999-02-05
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "l_abandon_10"
+acrostiche = "L'Abandon"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

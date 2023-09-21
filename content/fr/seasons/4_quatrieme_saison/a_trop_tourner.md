@@ -3,6 +3,9 @@ title = "A trop tourner"
 date = 1997-08-11
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "a_trop_tourner_4"
+acrostiche = "A trop tourner"
+verseLength = 8
 tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Femme", "Mouvement"]
 +++

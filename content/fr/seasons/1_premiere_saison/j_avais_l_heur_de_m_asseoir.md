@@ -3,6 +3,8 @@ title = "J'avais l'heur de m'asseoir..."
 date = 1995-12-07
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "j_avais_l_heur_de_m_asseoir_1"
+verseLength = 12
 tags = ["amour", "sonnet"]
 categories = ["Femme"]
 +++

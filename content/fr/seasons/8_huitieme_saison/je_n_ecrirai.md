@@ -3,6 +3,8 @@ title = "Je n'écrirai"
 date = 1998-07-24
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "je_n_ecrirai_8"
+acrostiche = "Je n'écrirai"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

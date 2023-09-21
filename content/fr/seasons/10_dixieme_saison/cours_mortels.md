@@ -3,6 +3,8 @@ title = "Cœurs mortels"
 date = 1999-03-29
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "cours_mortels_10"
+acrostiche = "Quando il giorno sarà nostro"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

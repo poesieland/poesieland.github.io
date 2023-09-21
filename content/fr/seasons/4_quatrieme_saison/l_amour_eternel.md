@@ -3,6 +3,8 @@ title = "L'amour... éternel"
 date = 1997-08-18
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "l_amour_eternel_4"
+verseLength = 6
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

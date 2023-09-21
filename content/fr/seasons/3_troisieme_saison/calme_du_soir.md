@@ -3,6 +3,8 @@ title = "Calme du soir"
 date = 1997-03-05
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "calme_du_soir_3"
+verseLength = 9
 tags = ["ombres et lumières"]
 categories = ["Crépuscule"]
 +++

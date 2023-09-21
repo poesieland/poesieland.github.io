@@ -3,6 +3,9 @@ title = "Autant le dire"
 date = 1997-08-03
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "autant_le_dire_4"
+acrostiche = "Autant le dire"
+verseLength = 8
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

@@ -3,6 +3,8 @@ title = "Rêver de toi"
 date = 1998-09-21
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "rever_de_toi_9"
+acrostiche = "Rêver de toi"
 tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Romantisme", "Création"]
 +++

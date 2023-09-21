@@ -3,6 +3,8 @@ title = "Le Temps Mortel"
 date = 1996-02-11
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "le_temps_mortel_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

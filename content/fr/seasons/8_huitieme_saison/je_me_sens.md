@@ -3,6 +3,8 @@ title = "Je me sens"
 date = 1998-07-21
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "je_me_sens_8"
+acrostiche = "Je me sens"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

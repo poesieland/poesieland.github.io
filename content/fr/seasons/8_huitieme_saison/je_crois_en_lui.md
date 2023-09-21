@@ -3,6 +3,8 @@ title = "Je crois en lui"
 date = 1998-09-05
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "je_crois_en_lui_8"
+acrostiche = "Je crois en lui"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

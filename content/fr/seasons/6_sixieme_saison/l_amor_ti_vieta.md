@@ -3,6 +3,8 @@ title = "L'amor ti vieta"
 date = 1998-03-29
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "l_amor_ti_vieta_6"
+acrostiche = "L'amor ti vieta"
 tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Mouvement", "Aimé (amant)"]
 +++

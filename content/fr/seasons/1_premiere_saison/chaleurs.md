@@ -3,6 +3,8 @@ title = "Chaleurs"
 date = 1996-08-10
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "chaleurs_1"
+verseLength = 12
 tags = ["nature"]
 categories = ["Animaux"]
 +++

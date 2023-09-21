@@ -3,6 +3,8 @@ title = "Pregare, la fede mia"
 date = 1999-06-17
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "pregare_la_fede_mia_12"
+acrostiche = "Pregare, la fede mia"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

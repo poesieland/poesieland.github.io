@@ -3,6 +3,8 @@ title = "Mystique"
 date = 1996-12-20
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "mystique_2"
+verseLength = 12
 tags = ["nature", "ombres et lumières"]
 categories = ["Mer", "Crépuscule"]
 +++

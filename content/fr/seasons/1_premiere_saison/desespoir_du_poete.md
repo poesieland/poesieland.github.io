@@ -3,6 +3,8 @@ title = "Désespoir du poète"
 date = 1996-07-30
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "desespoir_du_poete_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Création"]
 +++

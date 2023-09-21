@@ -3,6 +3,8 @@ title = "Ton premier succès"
 date = 1998-08-01
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "ton_premier_succes_8"
+acrostiche = "Ton premier succès"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

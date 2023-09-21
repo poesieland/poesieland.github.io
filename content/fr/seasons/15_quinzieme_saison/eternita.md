@@ -3,6 +3,8 @@ title = "Eternità"
 date = 2001-10-25
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "eternita_15"
+acrostiche = "Eternità"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Jardin, paysage", "Etre"]
 +++

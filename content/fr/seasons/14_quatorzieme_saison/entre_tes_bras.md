@@ -3,6 +3,8 @@ title = "Entre tes bras"
 date = 1999-11-21
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "entre_tes_bras_14"
+acrostiche = "Entre tes bras"
 tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement", "Musique, chant"]
 +++

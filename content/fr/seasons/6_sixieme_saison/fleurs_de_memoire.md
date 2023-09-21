@@ -3,6 +3,7 @@ title = "Fleurs de mémoire"
 date = 1998-04-21
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "fleurs_de_memoire_6"
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

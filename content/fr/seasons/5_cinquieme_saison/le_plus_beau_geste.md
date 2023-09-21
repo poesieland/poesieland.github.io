@@ -3,6 +3,8 @@ title = "Le plus beau geste"
 date = 1998-01-17
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "le_plus_beau_geste_5"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

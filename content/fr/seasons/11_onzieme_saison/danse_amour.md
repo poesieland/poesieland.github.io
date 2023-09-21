@@ -3,6 +3,8 @@ title = "Danse, amour"
 date = 1999-05-16
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "danse_amour_11"
+acrostiche = "Danse, amour"
 tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Mouvement", "Romantisme"]
 +++

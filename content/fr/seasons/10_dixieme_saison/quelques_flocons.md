@@ -3,6 +3,8 @@ title = "Quelques flocons..."
 date = 1999-02-08
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "quelques_flocons_10"
+acrostiche = "Quelques flocons..."
 tags = ["nature", "acrostiche"]
 categories = ["Neige"]
 +++

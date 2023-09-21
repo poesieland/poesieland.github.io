@@ -3,6 +3,8 @@ title = "Traces"
 date = 1999-01-09
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "traces_10"
+acrostiche = "Je n'ai pas"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

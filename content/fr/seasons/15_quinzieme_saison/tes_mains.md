@@ -3,6 +3,8 @@ title = "Tes mains"
 date = 2001-08-20
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "tes_mains_15"
+acrostiche = "Tes mains"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

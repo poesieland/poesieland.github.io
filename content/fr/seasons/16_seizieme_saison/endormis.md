@@ -3,6 +3,8 @@ title = "Endormis"
 date = 2002-03-02
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "endormis_16"
+acrostiche = "Endormis"
 tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Sommeil", "Romantisme"]
 +++

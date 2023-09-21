@@ -3,6 +3,8 @@ title = "Sur la ville"
 date = 1999-10-15
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "sur_la_ville_13"
+acrostiche = "Sur la ville"
 tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
 categories = ["Ville", "Nuit"]
 +++

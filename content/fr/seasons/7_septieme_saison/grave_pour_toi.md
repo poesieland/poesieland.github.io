@@ -3,6 +3,8 @@ title = "Gravé pour toi"
 date = 1998-07-13
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "grave_pour_toi_7"
+acrostiche = "Gravé pour toi"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

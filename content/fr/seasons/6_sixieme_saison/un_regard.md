@@ -3,6 +3,8 @@ title = "Un regard"
 date = 1998-04-26
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "un_regard_6"
+acrostiche = "Un regard"
 tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
 +++

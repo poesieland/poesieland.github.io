@@ -3,6 +3,7 @@ title = "Chemin d'octobre"
 date = 1997-10-16
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "chemin_d_octobre_5"
 tags = ["saisons"]
 categories = ["Automne"]
 +++

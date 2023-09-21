@@ -3,6 +3,8 @@ title = "Si j'ai du sable"
 date = 1998-01-02
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "si_j_ai_du_sable_5"
+verseLength = 8
 tags = ["amour", "philosophie"]
 categories = ["Amitié", "Etre"]
 +++

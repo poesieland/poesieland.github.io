@@ -3,6 +3,8 @@ title = "Confidence"
 date = 1999-04-18
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "confidence_11"
+acrostiche = "Confidence"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

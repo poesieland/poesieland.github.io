@@ -3,6 +3,8 @@ title = "La rose : secret"
 date = 1998-07-06
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "la_rose_secret_7"
+acrostiche = "La rose : secret"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Flore", "Création"]
 +++

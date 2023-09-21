@@ -3,6 +3,8 @@ title = "Un jour défunt"
 date = 1998-09-18
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "un_jour_defunt_9"
+acrostiche = "Un jour né déjà mort"
 tags = ["saisons", "nature", "acrostiche"]
 categories = ["Automne", "Flore"]
 +++

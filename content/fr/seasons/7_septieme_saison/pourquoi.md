@@ -3,6 +3,8 @@ title = "Pourquoi ?"
 date = 1998-07-18
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "pourquoi_7"
+acrostiche = "Pourquoi ?"
 tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
 +++

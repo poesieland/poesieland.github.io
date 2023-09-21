@@ -3,6 +3,8 @@ title = "Je ne sais t'oublier"
 date = 1998-05-11
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "je_ne_sais_t_oublier_6"
+acrostiche = "Je ne sais t'oublier"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

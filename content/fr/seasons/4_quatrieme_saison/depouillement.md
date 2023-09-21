@@ -3,6 +3,8 @@ title = "Dépouillement"
 date = 1997-07-22
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "depouillement_4"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

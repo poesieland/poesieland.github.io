@@ -3,6 +3,8 @@ title = "Silence : chant"
 date = 1998-11-13
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "silence_chant_9"
+acrostiche = "Silence : chant"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

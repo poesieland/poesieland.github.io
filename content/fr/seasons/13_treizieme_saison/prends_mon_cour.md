@@ -3,6 +3,8 @@ title = "Prends mon cœur"
 date = 1999-09-11
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "prends_mon_cour_13"
+acrostiche = "Prends mon cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

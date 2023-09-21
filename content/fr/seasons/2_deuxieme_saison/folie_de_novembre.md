@@ -3,6 +3,8 @@ title = "Folie de novembre"
 date = 1996-10-19
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "folie_de_novembre_2"
+verseLength = 12
 tags = ["saisons"]
 categories = ["Automne"]
 +++

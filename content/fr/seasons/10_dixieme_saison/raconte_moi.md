@@ -3,6 +3,8 @@ title = "Raconte-moi"
 date = 1999-03-20
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "raconte_moi_10"
+acrostiche = "Raconte-moi"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

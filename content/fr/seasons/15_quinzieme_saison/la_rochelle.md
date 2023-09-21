@@ -3,6 +3,7 @@ title = "La Rochelle"
 date = 2001-06-23
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "la_rochelle_15"
 tags = ["ombres et lumières", "philosophie"]
 categories = ["Ville", "Portraits"]
 +++

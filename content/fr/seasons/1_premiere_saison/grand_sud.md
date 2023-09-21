@@ -3,6 +3,8 @@ title = "Grand Sud"
 date = 1996-03-03
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "grand_sud_1"
+verseLength = 12
 tags = ["nature"]
 categories = ["Jardin, paysage"]
 +++

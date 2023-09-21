@@ -3,6 +3,8 @@ title = "L'Araignée"
 date = 1997-08-16
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "l_araignee_4"
+verseLength = 6
 tags = ["nature"]
 categories = ["Animaux"]
 +++

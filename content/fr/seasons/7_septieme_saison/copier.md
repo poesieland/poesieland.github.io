@@ -3,6 +3,8 @@ title = "Copier"
 date = 1998-07-18
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "copier_7"
+acrostiche = "Copier"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

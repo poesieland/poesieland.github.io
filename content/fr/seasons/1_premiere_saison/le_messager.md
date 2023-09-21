@@ -3,6 +3,8 @@ title = "Le messager"
 date = 1995-04-02
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "le_messager_1"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

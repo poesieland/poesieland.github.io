@@ -3,6 +3,8 @@ title = "Après la pluie"
 date = 1997-02-05
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "apres_la_pluie_3"
+verseLength = 6
 tags = ["nature"]
 categories = ["Jardin, paysage"]
 +++

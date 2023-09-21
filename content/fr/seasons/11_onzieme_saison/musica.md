@@ -3,6 +3,8 @@ title = "Musica"
 date = 1999-05-08
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "musica_11"
+acrostiche = "Musica"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

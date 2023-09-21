@@ -3,6 +3,8 @@ title = "Et ce sera..."
 date = 2001-09-21
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "et_ce_sera_15"
+acrostiche = "Et ce sera..."
 tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage"]
 +++

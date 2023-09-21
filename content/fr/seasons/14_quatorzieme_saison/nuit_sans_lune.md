@@ -3,6 +3,7 @@ title = "Nuit sans lune"
 date = 2000-12-19
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "nuit_sans_lune_14"
 tags = ["philosophie", "pantoum"]
 categories = ["Etre"]
 +++

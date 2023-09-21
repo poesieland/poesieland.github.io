@@ -3,6 +3,8 @@ title = "L'origine du sens"
 date = 1999-07-02
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "l_origine_du_sens_12"
+acrostiche = "L'origine du sens"
 tags = ["attitudes", "acrostiche", "sonnet"]
 categories = ["Musique, chant"]
 +++

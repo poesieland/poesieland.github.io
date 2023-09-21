@@ -3,6 +3,8 @@ title = "Saint"
 date = 1999-11-06
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "saint_14"
+acrostiche = "San Bocelli"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Portraits"]
 +++

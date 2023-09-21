@@ -3,6 +3,8 @@ title = "Il ne sert"
 date = 1998-06-21
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "il_ne_sert_7"
+acrostiche = "Il ne sert"
 tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
 +++

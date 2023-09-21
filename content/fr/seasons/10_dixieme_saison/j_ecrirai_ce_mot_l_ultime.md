@@ -3,6 +3,8 @@ title = "J'écrirai ce mot, l'ultime"
 date = 1999-02-15
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "j_ecrirai_ce_mot_l_ultime_10"
+doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

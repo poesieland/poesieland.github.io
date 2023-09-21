@@ -3,6 +3,8 @@ title = "Il cavalier' d'amore"
 date = 1999-06-07
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "il_cavalier_d_amore_12"
+acrostiche = "Il cavalier' d'amore"
 tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Portraits", "Aimé (amant)"]
 +++

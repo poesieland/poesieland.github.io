@@ -3,6 +3,8 @@ title = "Dentro la tua anima"
 date = 1998-04-06
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "dentro_la_tua_anima_6"
+acrostiche = "Dentro la tua anima"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Ecrire sans savoir"
 date = 1998-07-16
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "ecrire_sans_savoir_7"
+acrostiche = "Ecrire sans savoir"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

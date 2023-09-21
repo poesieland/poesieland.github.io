@@ -3,6 +3,8 @@ title = "Terre"
 date = 1999-04-27
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "terre_11"
+acrostiche = "O terra"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

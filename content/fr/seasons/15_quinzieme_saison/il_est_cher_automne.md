@@ -3,6 +3,8 @@ title = "Il est cher, automne"
 date = 2001-09-08
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "il_est_cher_automne_15"
+acrostiche = "Il est cher, automne"
 tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
 +++

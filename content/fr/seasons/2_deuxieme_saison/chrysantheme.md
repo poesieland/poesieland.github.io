@@ -3,6 +3,8 @@ title = "Chrysanthème"
 date = 1996-11-08
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "chrysantheme_2"
+verseLength = 12
 tags = ["saisons", "nature"]
 categories = ["Automne", "Flore"]
 +++

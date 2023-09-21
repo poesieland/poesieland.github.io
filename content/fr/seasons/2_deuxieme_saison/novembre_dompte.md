@@ -3,6 +3,8 @@ title = "Novembre dompté"
 date = 1996-11-03
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "novembre_dompte_2"
+verseLength = 12
 tags = ["saisons", "philosophie"]
 categories = ["Automne", "Espoir"]
 +++

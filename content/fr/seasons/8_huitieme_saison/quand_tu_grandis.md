@@ -3,6 +3,8 @@ title = "Quand tu grandis"
 date = 1998-07-31
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "quand_tu_grandis_8"
+acrostiche = "Quand tu grandis"
 tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Révolte", "Amour malheureux"]
 +++

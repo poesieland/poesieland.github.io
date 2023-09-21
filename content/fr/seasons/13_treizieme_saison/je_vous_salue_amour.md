@@ -3,6 +3,8 @@ title = "Je vous salue, amour"
 date = 1999-09-10
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "je_vous_salue_amour_13"
+acrostiche = "Je vous salue, amour"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

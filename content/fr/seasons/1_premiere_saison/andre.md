@@ -3,6 +3,8 @@ title = "André"
 date = 1994-01-01
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "andre_1"
+verseLength = 8
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

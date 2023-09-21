@@ -3,6 +3,8 @@ title = "Extase"
 date = 1997-08-02
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "extase_4"
+verseLength = 8
 tags = ["attitudes"]
 categories = ["Musique, chant"]
 +++

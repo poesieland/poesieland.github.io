@@ -3,6 +3,8 @@ title = "Bord d'horizon"
 date = 1996-10-11
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "bord_d_horizon_2"
+verseLength = 4
 tags = ["ombres et lumières"]
 categories = ["Aube", "Crépuscule"]
 +++

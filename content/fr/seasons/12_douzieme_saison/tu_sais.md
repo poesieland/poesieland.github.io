@@ -3,6 +3,8 @@ title = "Tu sais"
 date = 1999-06-09
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "tu_sais_12"
+acrostiche = "Tu sais"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

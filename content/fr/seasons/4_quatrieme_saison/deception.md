@@ -3,6 +3,8 @@ title = "Déception"
 date = 1997-09-06
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "deception_4"
+verseLength = 8
 tags = ["amour"]
 categories = ["Amour malheureux"]
 +++

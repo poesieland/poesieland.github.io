@@ -3,6 +3,8 @@ title = "Sur une barque"
 date = 1999-05-19
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "sur_une_barque_11"
+acrostiche = "Sur une barque"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Création"]
 +++

@@ -3,6 +3,8 @@ title = "D'un rêve fou"
 date = 1998-07-21
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "d_un_reve_fou_8"
+acrostiche = "D'un rêve fou"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

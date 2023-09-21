@@ -3,6 +3,8 @@ title = "Marcher : neige"
 date = 2003-01-10
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "marcher_neige_16"
+acrostiche = "Marcher : neige"
 tags = ["nature", "ombres et lumières", "acrostiche"]
 categories = ["Neige", "Ville"]
 +++

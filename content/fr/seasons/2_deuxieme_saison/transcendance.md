@@ -3,6 +3,8 @@ title = "Transcendance"
 date = 1996-11-13
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "transcendance_2"
+verseLength = 12
 tags = ["attitudes"]
 categories = ["Toucher"]
 +++

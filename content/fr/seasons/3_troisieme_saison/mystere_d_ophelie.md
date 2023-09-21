@@ -3,6 +3,8 @@ title = "Mystère d'Ophélie"
 date = 1997-03-14
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "mystere_d_ophelie_3"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

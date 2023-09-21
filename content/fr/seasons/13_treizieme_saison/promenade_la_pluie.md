@@ -3,6 +3,8 @@ title = "Promenade, la pluie"
 date = 1999-08-10
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "promenade_la_pluie_13"
+doubleAcrostiche = "Promenade | la pluie"
 tags = ["nature"]
 categories = ["Jardin, paysage"]
 +++

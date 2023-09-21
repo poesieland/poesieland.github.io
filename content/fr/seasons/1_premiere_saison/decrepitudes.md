@@ -3,6 +3,8 @@ title = "Décrépitudes"
 date = 1994-01-01
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "decrepitudes_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

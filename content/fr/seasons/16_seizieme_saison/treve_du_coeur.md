@@ -3,6 +3,8 @@ title = "Trêve du coeur"
 date = 2003-09-20
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "treve_du_coeur_16"
+acrostiche = "Trêve du coeur"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Etre"]
 +++

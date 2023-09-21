@@ -3,6 +3,8 @@ title = "La pluie sur les toits"
 date = 2001-04-14
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "la_pluie_sur_les_toits_15"
+acrostiche = "La pluie sur les toits"
 tags = ["ombres et lumières", "nature", "acrostiche"]
 categories = ["Ville", "Eau douce"]
 +++

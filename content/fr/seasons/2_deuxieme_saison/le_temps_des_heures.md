@@ -3,6 +3,8 @@ title = "Le temps des heures"
 date = 1996-11-22
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "le_temps_des_heures_2"
+verseLength = 4
 tags = ["ombres et lumières"]
 categories = ["Aube"]
 +++

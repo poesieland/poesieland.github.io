@@ -3,6 +3,7 @@ title = "Après le drame"
 date = 2001-07-26
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "apres_le_drame_15"
 tags = ["philosophie"]
 categories = ["Apprentissage"]
 +++

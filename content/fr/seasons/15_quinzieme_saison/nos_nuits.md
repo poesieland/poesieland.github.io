@@ -3,6 +3,8 @@ title = "Nos nuits"
 date = 2001-10-03
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "nos_nuits_15"
+acrostiche = "Nos nuits"
 tags = ["ombres et lumières", "ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Ville", "Nuit", "Espoir"]
 +++

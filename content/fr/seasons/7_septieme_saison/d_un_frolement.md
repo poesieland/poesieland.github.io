@@ -3,6 +3,8 @@ title = "D'un frôlement"
 date = 1998-06-03
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "d_un_frolement_7"
+acrostiche = "D'un frôlement"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

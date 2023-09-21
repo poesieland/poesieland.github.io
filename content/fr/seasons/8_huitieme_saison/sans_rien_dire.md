@@ -3,6 +3,8 @@ title = "Sans rien dire"
 date = 1998-09-04
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "sans_rien_dire_8"
+acrostiche = "Sans rien dire"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

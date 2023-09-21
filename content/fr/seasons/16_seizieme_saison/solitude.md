@@ -3,6 +3,8 @@ title = "Solitude"
 date = 2003-12-08
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "solitude_16"
+acrostiche = "Solitude"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Temps"]
 +++

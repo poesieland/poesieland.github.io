@@ -3,6 +3,8 @@ title = "Le Baiser"
 date = 1997-08-21
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "le_baiser_4"
+verseLength = 8
 tags = ["amour", "attitudes"]
 categories = ["Romantisme", "Toucher"]
 +++

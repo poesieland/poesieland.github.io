@@ -3,6 +3,8 @@ title = "Pluie indienne"
 date = 1996-10-26
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "pluie_indienne_2"
+verseLength = 6
 tags = ["philosophie", "nature"]
 categories = ["Espoir", "Eau douce"]
 +++

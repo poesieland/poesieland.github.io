@@ -3,6 +3,8 @@ title = "Débauche printanière"
 date = 1997-02-26
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "debauche_printaniere_3"
+verseLength = 12
 tags = ["saisons", "nature"]
 categories = ["Printemps", "Flore"]
 +++

@@ -3,6 +3,7 @@ title = "Chanson de lune"
 date = 1998-06-08
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "chanson_de_lune_7"
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

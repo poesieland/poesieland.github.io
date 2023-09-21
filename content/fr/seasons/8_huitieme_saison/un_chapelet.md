@@ -3,6 +3,8 @@ title = "Un chapelet"
 date = 1998-07-23
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "un_chapelet_8"
+acrostiche = "Un chapelet"
 tags = ["philosophie", "acrostiche"]
 categories = ["Divers"]
 +++

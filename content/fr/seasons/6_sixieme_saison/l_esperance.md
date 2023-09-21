@@ -3,6 +3,7 @@ title = "L'espérance"
 date = 1998-05-20
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "l_esperance_6"
 tags = ["nature", "philosophie"]
 categories = ["Animaux", "Espoir"]
 +++

@@ -3,6 +3,8 @@ title = "Soir d'été"
 date = 2001-08-10
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "soir_d_ete_15"
+acrostiche = "Soir d'été"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Ville"]
 +++

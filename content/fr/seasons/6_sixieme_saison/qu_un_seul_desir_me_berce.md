@@ -3,6 +3,8 @@ title = "Qu'un seul désir me berce"
 date = 1998-03-30
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "qu_un_seul_desir_me_berce_6"
+acrostiche = "Qu'un seul désir me berce"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

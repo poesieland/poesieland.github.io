@@ -3,6 +3,8 @@ title = "Rencontre"
 date = 1999-05-05
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "rencontre_11"
+acrostiche = "L'éclipse"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
 +++

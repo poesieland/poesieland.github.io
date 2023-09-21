@@ -3,6 +3,8 @@ title = "Solitude marine"
 date = 1997-10-01
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "solitude_marine_5"
+verseLength = 6
 tags = ["nature", "philosophie"]
 categories = ["Mer", "Temps"]
 +++

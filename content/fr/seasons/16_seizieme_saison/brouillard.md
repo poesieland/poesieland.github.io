@@ -3,6 +3,7 @@ title = "Brouillard"
 date = 2004-04-28
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "brouillard_16"
 tags = ["nature", "attitudes"]
 categories = ["Jardin, paysage", "Musique, chant"]
 +++

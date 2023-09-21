@@ -3,6 +3,7 @@ title = "Les Cerisiers d'avril"
 date = 1998-04-10
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "les_cerisiers_d_avril_6"
 tags = ["nature"]
 categories = ["Flore"]
 +++

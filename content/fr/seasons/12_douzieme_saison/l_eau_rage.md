@@ -3,6 +3,8 @@ title = "L'eau rage"
 date = 1999-06-30
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "l_eau_rage_12"
+acrostiche = "L'eau rage"
 tags = ["nature", "acrostiche"]
 categories = ["Eau douce", "Ciel"]
 +++

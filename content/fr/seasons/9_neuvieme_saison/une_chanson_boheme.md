@@ -3,6 +3,8 @@ title = "Une chanson bohème"
 date = 1998-09-30
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "une_chanson_boheme_9"
+acrostiche = "Une chanson bohème"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Hijo de la luna"
 date = 1998-07-18
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "hijo_de_la_luna_7"
+acrostiche = "Hijo de la luna"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

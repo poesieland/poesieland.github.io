@@ -3,6 +3,8 @@ title = "Passion"
 date = 1996-11-06
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "passion_2"
+verseLength = 6
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

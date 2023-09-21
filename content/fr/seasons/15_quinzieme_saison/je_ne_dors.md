@@ -3,6 +3,8 @@ title = "Je ne dors"
 date = 2001-08-18
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "je_ne_dors_15"
+acrostiche = "Je ne dors"
 tags = ["attitudes", "acrostiche"]
 categories = ["Sommeil"]
 +++

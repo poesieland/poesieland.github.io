@@ -3,6 +3,8 @@ title = "Giardino dei sogni"
 date = 1999-09-04
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "giardino_dei_sogni_13"
+doubleAcrostiche = "giardino | dei sogni"
 tags = ["nature", "philosophie", "saisons"]
 categories = ["Jardin, paysage", "Temps", "Automne"]
 +++

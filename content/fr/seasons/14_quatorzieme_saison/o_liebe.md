@@ -3,6 +3,8 @@ title = "O Liebe"
 date = 2000-01-07
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "o_liebe_14"
+acrostiche = "O Liebe"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

@@ -3,6 +3,8 @@ title = "Jugement"
 date = 1997-09-23
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "jugement_5"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Apprentissage"]
 +++

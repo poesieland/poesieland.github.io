@@ -3,6 +3,8 @@ title = "Je partirai"
 date = 1997-12-21
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "je_partirai_5"
+verseLength = 8
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

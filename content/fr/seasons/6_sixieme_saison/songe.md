@@ -3,6 +3,7 @@ title = "Songe"
 date = 1998-05-29
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "songe_6"
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

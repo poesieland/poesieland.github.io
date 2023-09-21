@@ -3,6 +3,8 @@ title = "Secret d'un cœur"
 date = 1998-09-10
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "secret_d_un_cour_8"
+acrostiche = "Secret d'un cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
 +++

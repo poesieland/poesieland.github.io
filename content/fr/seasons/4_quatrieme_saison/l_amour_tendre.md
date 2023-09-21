@@ -3,6 +3,9 @@ title = "L'amour tendre"
 date = 1997-08-10
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "l_amour_tendre_4"
+acrostiche = "L'amour tendre"
+verseLength = 6
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

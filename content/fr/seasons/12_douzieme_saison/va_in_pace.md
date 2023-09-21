@@ -3,6 +3,8 @@ title = "Va in pace"
 date = 1999-06-26
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "va_in_pace_12"
+acrostiche = "Va in pace"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Lumière, la neige"
 date = 1999-01-12
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "lumiere_la_neige_10"
+acrostiche = "Lumière, la neige"
 tags = ["nature", "acrostiche"]
 categories = ["Neige"]
 +++

@@ -3,6 +3,8 @@ title = "L'absence d'un cœur"
 date = 1998-10-18
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "l_absence_d_un_cour_9"
+acrostiche = "L'absence d'un cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

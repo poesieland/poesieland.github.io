@@ -3,6 +3,8 @@ title = "Au-delà"
 date = 1997-03-01
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "au_dela_3"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

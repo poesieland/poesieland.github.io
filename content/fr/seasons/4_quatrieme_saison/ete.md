@@ -3,6 +3,8 @@ title = "Eté"
 date = 1997-06-06
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "ete_4"
+verseLength = 8
 tags = ["saisons", "nature"]
 categories = ["Eté", "Jardin, paysage"]
 +++

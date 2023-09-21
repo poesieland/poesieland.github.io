@@ -3,6 +3,8 @@ title = "Papillons blancs"
 date = 1997-08-17
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "papillons_blancs_4"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

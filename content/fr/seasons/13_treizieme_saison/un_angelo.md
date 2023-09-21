@@ -3,6 +3,8 @@ title = "Un angelo"
 date = 1999-09-21
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "un_angelo_13"
+acrostiche = "Un angelo"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

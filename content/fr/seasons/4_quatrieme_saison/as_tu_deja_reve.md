@@ -3,6 +3,9 @@ title = "As-tu déjà rêvé ?"
 date = 1997-08-14
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "as_tu_deja_reve_4"
+acrostiche = "As-tu déjà rêvé ?"
+verseLength = 8
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

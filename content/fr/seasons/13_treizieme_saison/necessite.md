@@ -3,6 +3,8 @@ title = "Nécessité"
 date = 1999-09-06
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "necessite_13"
+acrostiche = "Quanto tempo è"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

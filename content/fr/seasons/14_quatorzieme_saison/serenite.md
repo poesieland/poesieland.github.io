@@ -3,6 +3,8 @@ title = "Sérénité"
 date = 2001-03-15
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "serenite_14"
+acrostiche = "Sérénité"
 tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage", "Ciel"]
 +++

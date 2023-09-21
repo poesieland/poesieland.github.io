@@ -3,6 +3,8 @@ title = "On ne voit bien..."
 date = 1999-07-24
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "on_ne_voit_bien_12"
+acrostiche = "On ne voit bien..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
 +++

@@ -3,6 +3,8 @@ title = "Mots : mime"
 date = 2001-08-09
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "mots_mime_15"
+acrostiche = "Mots : mime"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

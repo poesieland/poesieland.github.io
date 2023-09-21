@@ -3,6 +3,8 @@ title = "Sonnet de la nuit"
 date = 1999-02-07
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "sonnet_de_la_nuit_10"
+acrostiche = "Sonnet de la nuit"
 tags = ["ombres et lumières", "acrostiche", "sonnet"]
 categories = ["Nuit"]
 +++

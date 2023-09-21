@@ -3,6 +3,8 @@ title = "Serez-vous..."
 date = 1997-07-11
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "serez_vous_4"
+verseLength = 6
 tags = ["amour"]
 categories = ["Femme"]
 +++

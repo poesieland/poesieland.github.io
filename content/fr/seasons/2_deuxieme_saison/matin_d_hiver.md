@@ -3,6 +3,8 @@ title = "Matin d'hiver"
 date = 1996-12-07
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "matin_d_hiver_2"
+verseLength = 4
 tags = ["saisons"]
 categories = ["Hiver"]
 +++

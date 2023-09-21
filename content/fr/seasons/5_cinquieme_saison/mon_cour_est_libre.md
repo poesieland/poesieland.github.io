@@ -3,6 +3,9 @@ title = "Mon cœur est libre"
 date = 1997-12-05
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "mon_cour_est_libre_5"
+acrostiche = "Mon cœur est libre"
+verseLength = 8
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

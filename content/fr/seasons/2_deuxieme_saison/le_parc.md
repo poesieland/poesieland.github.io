@@ -3,6 +3,8 @@ title = "Le Parc"
 date = 1996-11-16
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "le_parc_2"
+verseLength = 8
 tags = ["amour", "nature"]
 categories = ["Amitié", "Jardin, paysage"]
 +++

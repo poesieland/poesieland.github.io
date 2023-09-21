@@ -3,6 +3,8 @@ title = "Lune, tu ne sais"
 date = 1999-07-01
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "lune_tu_ne_sais_12"
+acrostiche = "Lune, tu ne sais"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

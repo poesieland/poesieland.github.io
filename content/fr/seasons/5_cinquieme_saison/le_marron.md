@@ -3,6 +3,8 @@ title = "Le Marron"
 date = 1997-09-20
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "le_marron_5"
+verseLength = 6
 tags = ["nature"]
 categories = ["Flore"]
 +++

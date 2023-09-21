@@ -3,6 +3,8 @@ title = "Libérer la vie"
 date = 1998-07-26
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "liberer_la_vie_8"
+acrostiche = "Libérer la vie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

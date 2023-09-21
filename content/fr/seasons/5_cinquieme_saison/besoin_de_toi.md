@@ -3,6 +3,8 @@ title = "Besoin de toi"
 date = 1998-02-15
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "besoin_de_toi_5"
+verseLength = 8
 tags = ["attitudes", "amour"]
 categories = ["Toucher", "Aimé (amant)"]
 +++

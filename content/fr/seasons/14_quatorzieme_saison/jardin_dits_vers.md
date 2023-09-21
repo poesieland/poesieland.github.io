@@ -3,6 +3,8 @@ title = "Jardin, dits vers"
 date = 2000-12-28
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "jardin_dits_vers_14"
+acrostiche = "Jardin, dits vers"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Hiver", "Temps"]
 +++

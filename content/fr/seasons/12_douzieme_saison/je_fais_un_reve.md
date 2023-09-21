@@ -3,6 +3,8 @@ title = "Je fais un rêve"
 date = 1999-06-01
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "je_fais_un_reve_12"
+acrostiche = "Je fais un rêve"
 tags = ["attitudes", "acrostiche"]
 categories = ["Sommeil"]
 +++

@@ -3,6 +3,8 @@ title = "Déchaîné"
 date = 1999-02-09
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "dechaine_10"
+acrostiche = "Déchaîné"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

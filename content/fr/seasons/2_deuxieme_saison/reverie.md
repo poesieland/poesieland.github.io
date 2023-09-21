@@ -3,6 +3,8 @@ title = "Rêverie"
 date = 1996-10-02
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "reverie_2"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

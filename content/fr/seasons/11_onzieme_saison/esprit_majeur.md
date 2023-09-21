@@ -3,6 +3,8 @@ title = "Esprit majeur"
 date = 1999-05-05
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "esprit_majeur_11"
+acrostiche = "Esprit majeur"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

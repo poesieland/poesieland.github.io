@@ -3,6 +3,8 @@ title = "Le ciel s'est tu"
 date = 1999-05-07
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "le_ciel_s_est_tu_11"
+acrostiche = "Le ciel s'est tu"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Crépuscule"]
 +++

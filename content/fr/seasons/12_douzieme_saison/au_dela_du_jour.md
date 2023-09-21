@@ -3,6 +3,8 @@ title = "Au-delà du jour"
 date = 1999-07-06
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "au_dela_du_jour_12"
+acrostiche = "Adios artisto"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Création", "Musique, chant"]
 +++

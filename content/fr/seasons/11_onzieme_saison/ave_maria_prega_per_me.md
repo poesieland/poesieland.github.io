@@ -3,6 +3,8 @@ title = "Ave Maria prega per me"
 date = 1999-05-17
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "ave_maria_prega_per_me_11"
+acrostiche = "Ave Maria prega per me"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

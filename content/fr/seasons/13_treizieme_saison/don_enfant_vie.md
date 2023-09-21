@@ -3,6 +3,8 @@ title = "Don, enfant, vie"
 date = 1999-08-29
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "don_enfant_vie_13"
+acrostiche = "Don, enfant, vie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage", "Espoir"]
 +++

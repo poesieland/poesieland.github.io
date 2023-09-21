@@ -3,6 +3,8 @@ title = "A la fenêtre"
 date = 1999-09-27
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "a_la_fenetre_13"
+acrostiche = "A la fenêtre"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Ville", "Portraits"]
 +++

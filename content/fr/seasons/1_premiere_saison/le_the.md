@@ -3,6 +3,8 @@ title = "Le Thé"
 date = 1996-06-17
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "le_the_1"
+verseLength = 12
 tags = ["nature"]
 categories = ["Flore"]
 +++

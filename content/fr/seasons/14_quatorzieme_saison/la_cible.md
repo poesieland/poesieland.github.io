@@ -3,6 +3,7 @@ title = "La cible"
 date = 2000-04-04
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "la_cible_14"
 tags = ["nature"]
 categories = ["Ciel"]
 +++

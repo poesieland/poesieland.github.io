@@ -3,6 +3,8 @@ title = "Offre-moi des roses"
 date = 1998-09-12
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "offre_moi_des_roses_8"
+acrostiche = "Offre-moi des roses"
 tags = ["amour", "nature", "acrostiche"]
 categories = ["Aimé (amant)", "Flore"]
 +++

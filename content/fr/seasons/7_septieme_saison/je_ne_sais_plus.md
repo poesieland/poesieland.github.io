@@ -3,6 +3,8 @@ title = "Je ne sais plus"
 date = 1998-07-12
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "je_ne_sais_plus_7"
+acrostiche = "Je ne sais plus"
 tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Etre"]
 +++

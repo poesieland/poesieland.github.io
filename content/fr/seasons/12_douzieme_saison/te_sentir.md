@@ -3,6 +3,8 @@ title = "Te sentir"
 date = 1999-07-22
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "te_sentir_12"
+acrostiche = "Te sentir"
 tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Aimé (amant)", "Toucher"]
 +++

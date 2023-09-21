@@ -3,6 +3,8 @@ title = "Amour, thème : éveils"
 date = 1999-03-16
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "amour_theme_eveils_10"
+acrostiche = "Amour, thème : éveils"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

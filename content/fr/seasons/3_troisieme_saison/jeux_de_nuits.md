@@ -3,6 +3,8 @@ title = "Jeux de nuits"
 date = 1997-03-16
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "jeux_de_nuits_3"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Nuit", "Lune"]
 +++

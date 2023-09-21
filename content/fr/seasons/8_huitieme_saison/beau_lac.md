@@ -3,6 +3,8 @@ title = "Beau lac"
 date = 1998-07-22
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "beau_lac_8"
+acrostiche = "Beau lac, miroir, dis..."
 tags = ["nature", "acrostiche"]
 categories = ["Eau douce"]
 +++

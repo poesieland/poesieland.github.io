@@ -3,6 +3,8 @@ title = "Canto dell'anima"
 date = 1999-09-19
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "canto_dell_anima_13"
+acrostiche = "Canto dell'anima"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Musique, chant"]
 +++

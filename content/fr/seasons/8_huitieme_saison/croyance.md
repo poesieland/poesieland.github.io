@@ -3,6 +3,8 @@ title = "Croyance"
 date = 1998-07-28
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "croyance_8"
+acrostiche = "Con te partirò"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

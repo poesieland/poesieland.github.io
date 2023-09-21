@@ -3,6 +3,8 @@ title = "Un rêve d'été"
 date = 1999-04-27
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "un_reve_d_ete_11"
+acrostiche = "Un rêve d'été"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

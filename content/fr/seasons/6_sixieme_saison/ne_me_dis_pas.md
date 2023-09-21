@@ -3,6 +3,8 @@ title = "Ne me dis pas"
 date = 1998-04-27
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "ne_me_dis_pas_6"
+acrostiche = "Ne me dis pas"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

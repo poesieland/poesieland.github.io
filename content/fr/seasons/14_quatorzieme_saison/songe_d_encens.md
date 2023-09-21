@@ -3,6 +3,8 @@ title = "Songe d'encens"
 date = 2000-01-23
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "songe_d_encens_14"
+acrostiche = "Songe d'encens"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

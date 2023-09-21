@@ -3,6 +3,8 @@ title = "Don du soir"
 date = 1999-11-05
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "don_du_soir_13"
+acrostiche = "Arcobaleno preghier'"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Portraits"]
 +++

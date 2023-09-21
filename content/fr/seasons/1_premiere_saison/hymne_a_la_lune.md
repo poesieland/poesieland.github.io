@@ -3,6 +3,8 @@ title = "Hymne à la lune"
 date = 1996-06-20
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "hymne_a_la_lune_1"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

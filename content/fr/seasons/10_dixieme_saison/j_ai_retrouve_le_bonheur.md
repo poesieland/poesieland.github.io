@@ -3,6 +3,8 @@ title = "J'ai retrouvé le bonheur"
 date = 1999-02-16
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "j_ai_retrouve_le_bonheur_10"
+doubleAcrostiche = "J'ai retrouvé | le bonheur"
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

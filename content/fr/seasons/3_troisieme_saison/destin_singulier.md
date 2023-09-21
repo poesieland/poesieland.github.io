@@ -3,6 +3,8 @@ title = "Destin singulier"
 date = 1997-02-01
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "destin_singulier_3"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

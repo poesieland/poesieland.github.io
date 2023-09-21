@@ -3,6 +3,8 @@ title = "Mélodie"
 date = 1997-04-05
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "melodie_3"
+verseLength = 5
 tags = ["attitudes"]
 categories = ["Musique, chant"]
 +++

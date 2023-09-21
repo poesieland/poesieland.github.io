@@ -3,6 +3,7 @@ title = "Refaire le monde"
 date = 1998-05-04
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "refaire_le_monde_6"
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Un rêve au-delà"
 date = 1998-12-26
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "un_reve_au_dela_9"
+acrostiche = "Un rêve au-delà"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Nuit", "Temps"]
 +++

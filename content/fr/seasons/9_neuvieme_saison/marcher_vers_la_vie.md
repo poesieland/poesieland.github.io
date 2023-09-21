@@ -3,6 +3,8 @@ title = "Marcher vers la vie"
 date = 1998-11-10
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "marcher_vers_la_vie_9"
+acrostiche = "Marcher vers la vie"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Espoir", "Foi"]
 +++

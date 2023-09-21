@@ -3,6 +3,8 @@ title = "Désert"
 date = 1996-07-03
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "desert_1"
+verseLength = 12
 tags = ["nature"]
 categories = ["Jardin, paysage"]
 +++

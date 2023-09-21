@@ -3,6 +3,8 @@ title = "Rêve, eden"
 date = 1999-02-22
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "reve_eden_10"
+acrostiche = "Rêve, eden"
 tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage"]
 +++

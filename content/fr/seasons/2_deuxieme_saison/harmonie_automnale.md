@@ -3,6 +3,8 @@ title = "Harmonie automnale"
 date = 1996-09-15
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "harmonie_automnale_2"
+verseLength = 12
 tags = ["saisons"]
 categories = ["Automne"]
 +++

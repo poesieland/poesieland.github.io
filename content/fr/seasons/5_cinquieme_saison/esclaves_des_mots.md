@@ -3,6 +3,8 @@ title = "Esclaves des mots"
 date = 1997-10-06
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "esclaves_des_mots_5"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

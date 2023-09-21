@@ -3,6 +3,7 @@ title = "Quête de sens"
 date = 1998-05-28
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "quete_de_sens_6"
 tags = ["philosophie"]
 categories = ["Création"]
 +++

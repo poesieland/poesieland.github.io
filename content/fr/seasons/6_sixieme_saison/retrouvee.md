@@ -3,6 +3,7 @@ title = "Retrouvée"
 date = 1998-05-18
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "retrouvee_6"
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

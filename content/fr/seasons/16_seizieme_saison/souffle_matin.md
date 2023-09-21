@@ -3,6 +3,8 @@ title = "Souffle : matin"
 date = 2003-01-21
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "souffle_matin_16"
+acrostiche = "Souffle : matin"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Aube"]
 +++

@@ -3,6 +3,8 @@ title = "Vivere nell'arte"
 date = 1998-11-01
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "vivere_nell_arte_9"
+acrostiche = "Vivere nell'arte"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

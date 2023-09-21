@@ -3,6 +3,8 @@ title = "Le ciel sait"
 date = 1999-08-16
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "le_ciel_sait_13"
+acrostiche = "Le ciel sait"
 tags = ["nature", "ombres et lumières", "acrostiche"]
 categories = ["Ciel", "Crépuscule"]
 +++

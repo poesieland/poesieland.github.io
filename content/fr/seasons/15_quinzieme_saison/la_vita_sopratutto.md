@@ -3,6 +3,8 @@ title = "La vita sopratutto"
 date = 2001-10-08
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "la_vita_sopratutto_15"
+acrostiche = "La vita sopratutto"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

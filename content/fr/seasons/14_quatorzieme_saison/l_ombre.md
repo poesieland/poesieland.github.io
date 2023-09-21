@@ -3,6 +3,8 @@ title = "L'ombre"
 date = 2000-01-07
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "l_ombre_14"
+acrostiche = "L'ombre"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

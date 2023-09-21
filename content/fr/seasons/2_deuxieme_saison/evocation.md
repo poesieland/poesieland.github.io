@@ -3,6 +3,8 @@ title = "Evocation"
 date = 1996-09-19
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "evocation_2"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

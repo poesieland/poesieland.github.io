@@ -3,6 +3,8 @@ title = "La mer : feu"
 date = 1999-03-04
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "la_mer_feu_10"
+acrostiche = "La mer : feu"
 tags = ["nature", "acrostiche"]
 categories = ["Mer"]
 +++

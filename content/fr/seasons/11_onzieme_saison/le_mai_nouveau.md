@@ -3,6 +3,8 @@ title = "Le mai nouveau"
 date = 1999-04-30
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "le_mai_nouveau_11"
+acrostiche = "Le mai nouveau"
 tags = ["nature", "saisons", "acrostiche"]
 categories = ["Flore", "Printemps"]
 +++

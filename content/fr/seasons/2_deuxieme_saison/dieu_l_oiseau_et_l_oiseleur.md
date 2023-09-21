@@ -3,6 +3,8 @@ title = "Dieu, l'oiseau et l'oiseleur"
 date = 1996-09-10
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "dieu_l_oiseau_et_l_oiseleur_2"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

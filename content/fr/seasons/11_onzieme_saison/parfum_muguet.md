@@ -3,6 +3,8 @@ title = "Parfum muguet"
 date = 1999-05-01
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "parfum_muguet_11"
+acrostiche = "Parfum muguet"
 tags = ["nature", "acrostiche"]
 categories = ["Flore"]
 +++

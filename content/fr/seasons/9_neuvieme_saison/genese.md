@@ -3,6 +3,8 @@ title = "Genèse"
 date = 1998-11-11
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "genese_9"
+acrostiche = "Ailleurs, sérénité"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Création"]
 +++

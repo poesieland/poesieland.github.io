@@ -3,6 +3,8 @@ title = "Miroirs, mirages"
 date = 1999-03-20
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "miroirs_mirages_10"
+doubleAcrostiche = "Miroirs | mirages"
 tags = ["philosophie", "ombres et lumières"]
 categories = ["Création", "Crépuscule"]
 +++

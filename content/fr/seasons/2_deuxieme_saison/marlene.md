@@ -3,6 +3,8 @@ title = "Marlène"
 date = 1996-09-30
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "marlene_2"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

@@ -3,6 +3,8 @@ title = "Se bastasse la vita"
 date = 1998-11-08
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "se_bastasse_la_vita_9"
+acrostiche = "Se bastasse la vita"
 tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Etre"]
 +++

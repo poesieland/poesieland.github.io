@@ -3,6 +3,8 @@ title = "Aube de la nuit"
 date = 1999-07-17
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "aube_de_la_nuit_12"
+acrostiche = "Aube de la nuit"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Crépuscule"]
 +++

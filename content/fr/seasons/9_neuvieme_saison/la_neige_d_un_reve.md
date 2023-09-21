@@ -3,6 +3,8 @@ title = "La neige d'un rêve"
 date = 1998-12-02
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "la_neige_d_un_reve_9"
+acrostiche = "La neige d'un rêve"
 tags = ["philosophie", "acrostiche", "sonnet"]
 categories = ["Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Dieu, mon Sauveur !"
 date = 1999-04-17
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "dieu_mon_sauveur_11"
+acrostiche = "Dieu, mon Sauveur !"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

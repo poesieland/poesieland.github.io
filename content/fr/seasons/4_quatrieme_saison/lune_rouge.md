@@ -3,6 +3,8 @@ title = "Lune rouge"
 date = 1997-08-19
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "lune_rouge_4"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

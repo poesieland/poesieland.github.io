@@ -3,6 +3,8 @@ title = "Mélancolie"
 date = 1998-07-18
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "melancolie_7"
+acrostiche = "Mélancolie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

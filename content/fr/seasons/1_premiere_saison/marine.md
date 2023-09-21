@@ -3,6 +3,8 @@ title = "Marine"
 date = 1996-06-16
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "marine_1"
+verseLength = 12
 tags = ["nature", "philosophie"]
 categories = ["Mer", "Portraits"]
 +++

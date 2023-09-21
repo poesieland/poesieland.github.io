@@ -3,6 +3,8 @@ title = "Stabat Mater"
 date = 1999-07-02
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "stabat_mater_12"
+acrostiche = "Vera fede"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Portraits"]
 +++

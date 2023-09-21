@@ -3,6 +3,8 @@ title = "Oseras-tu ?"
 date = 1999-01-30
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "oseras_tu_10"
+acrostiche = "Oseras-tu ?"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

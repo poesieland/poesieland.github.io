@@ -3,6 +3,8 @@ title = "La neve del sogno"
 date = 1999-04-14
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "la_neve_del_sogno_11"
+acrostiche = "La neve del sogno"
 tags = ["nature", "philosophie", "acrostiche", "sonnet"]
 categories = ["Neige", "Etre"]
 +++

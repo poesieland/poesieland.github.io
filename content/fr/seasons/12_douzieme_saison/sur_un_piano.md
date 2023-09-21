@@ -3,6 +3,8 @@ title = "Sur un piano"
 date = 1999-06-12
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "sur_un_piano_12"
+acrostiche = "Sur un piano"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

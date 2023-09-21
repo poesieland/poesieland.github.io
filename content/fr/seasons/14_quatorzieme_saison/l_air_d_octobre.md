@@ -3,6 +3,8 @@ title = "L'air d'octobre"
 date = 2000-10-15
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "l_air_d_octobre_14"
+acrostiche = "L'air d'octobre"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Temps"]
 +++

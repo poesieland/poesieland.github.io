@@ -3,6 +3,8 @@ title = "Mirages"
 date = 1997-01-13
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "mirages_3"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

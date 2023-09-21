@@ -3,6 +3,8 @@ title = "Quando il soffio"
 date = 1999-09-16
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "quando_il_soffio_13"
+acrostiche = "Quando il soffio"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre", "Création"]
 +++

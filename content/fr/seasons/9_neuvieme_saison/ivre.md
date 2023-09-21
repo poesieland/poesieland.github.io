@@ -3,6 +3,8 @@ title = "Ivre"
 date = 1998-09-20
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "ivre_9"
+acrostiche = "Ivre"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

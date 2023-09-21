@@ -3,6 +3,7 @@ title = "Postface"
 date = 1998-08-05
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "postface_8"
 tags = ["philosophie"]
 categories = ["Création"]
 +++

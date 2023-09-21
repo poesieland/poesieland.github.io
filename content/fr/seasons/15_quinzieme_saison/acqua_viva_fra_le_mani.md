@@ -3,6 +3,8 @@ title = "Acqua viva fra le mani"
 date = 2001-10-10
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "acqua_viva_fra_le_mani_15"
+acrostiche = "Acqua viva fra le mani"
 tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Espoir", "Eau douce"]
 +++

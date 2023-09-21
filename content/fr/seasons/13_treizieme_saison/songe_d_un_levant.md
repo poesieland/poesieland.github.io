@@ -3,6 +3,8 @@ title = "Songe d'un levant"
 date = 1999-07-31
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "songe_d_un_levant_13"
+acrostiche = "Songe d'un levant"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Aube", "Espoir"]
 +++

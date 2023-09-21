@@ -3,6 +3,7 @@ title = "Matin d'automne"
 date = 1997-09-15
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "matin_d_automne_5"
 tags = ["saisons"]
 categories = ["Automne"]
 +++

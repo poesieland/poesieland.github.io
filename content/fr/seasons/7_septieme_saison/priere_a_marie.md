@@ -3,6 +3,8 @@ title = "Prière à Marie"
 date = 1998-07-11
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "priere_a_marie_7"
+acrostiche = "Prière à Marie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

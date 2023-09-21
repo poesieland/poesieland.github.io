@@ -3,6 +3,8 @@ title = "Le brouillard"
 date = 1999-08-04
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "le_brouillard_13"
+acrostiche = "Le brouillard"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
 +++

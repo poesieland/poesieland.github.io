@@ -3,6 +3,8 @@ title = "Soleil levant"
 date = 1997-02-07
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "soleil_levant_3"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Aube"]
 +++

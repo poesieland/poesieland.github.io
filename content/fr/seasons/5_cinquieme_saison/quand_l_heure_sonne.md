@@ -3,6 +3,9 @@ title = "Quand l'heure sonne"
 date = 1998-03-01
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "quand_l_heure_sonne_5"
+acrostiche = "Quand l'heure sonne"
+verseLength = 10
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

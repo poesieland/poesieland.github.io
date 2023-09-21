@@ -3,6 +3,7 @@ title = "L'automne est venu"
 date = 1997-10-26
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "l_automne_est_venu_5"
 tags = ["saisons"]
 categories = ["Automne"]
 +++

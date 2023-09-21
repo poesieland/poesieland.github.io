@@ -3,6 +3,7 @@ title = "Révélation"
 date = 1998-05-19
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "revelation_6"
 tags = ["philosophie"]
 categories = ["Création"]
 +++

@@ -3,6 +3,8 @@ title = "Minimal"
 date = 1997-02-13
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "minimal_3"
+verseLength = 3
 tags = ["philosophie"]
 categories = ["Divers"]
 +++

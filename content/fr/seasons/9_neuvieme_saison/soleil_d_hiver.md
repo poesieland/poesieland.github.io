@@ -3,6 +3,8 @@ title = "Soleil d'hiver"
 date = 1998-11-22
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "soleil_d_hiver_9"
+acrostiche = "Soleil d'hiver"
 tags = ["saisons", "attitudes", "acrostiche"]
 categories = ["Hiver", "Musique, chant"]
 +++

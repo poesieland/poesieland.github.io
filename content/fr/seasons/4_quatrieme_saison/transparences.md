@@ -3,6 +3,8 @@ title = "Transparences"
 date = 1997-07-07
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "transparences_4"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

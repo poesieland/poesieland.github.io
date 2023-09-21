@@ -3,6 +3,8 @@ title = "Qu'as-tu marqué ?"
 date = 1998-03-22
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "qu_as_tu_marque_6"
+acrostiche = "Qu'as-tu marqué ?"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

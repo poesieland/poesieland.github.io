@@ -3,6 +3,8 @@ title = "Je t'oublierai"
 date = 1999-08-23
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "je_t_oublierai_13"
+acrostiche = "Je t'oublierai"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

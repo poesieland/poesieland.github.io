@@ -3,6 +3,8 @@ title = "Cathédrale de lumières"
 date = 1999-02-16
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "cathedrale_de_lumieres_10"
+doubleAcrostiche = "Cathédrale | de lumières"
 tags = ["philosophie"]
 categories = ["Foi"]
 +++

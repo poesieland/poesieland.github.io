@@ -3,6 +3,8 @@ title = "Germination"
 date = 1997-01-15
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "germination_3"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

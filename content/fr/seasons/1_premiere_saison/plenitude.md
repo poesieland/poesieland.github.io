@@ -3,6 +3,8 @@ title = "Plénitude"
 date = 1994-01-01
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "plenitude_1"
+verseLength = 12
 tags = ["attitudes"]
 categories = ["Musique, chant"]
 +++

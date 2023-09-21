@@ -3,6 +3,8 @@ title = "Rêve bleu"
 date = 1999-02-26
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "reve_bleu_10"
+acrostiche = "Rêve bleu"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel", "Mer"]
 +++

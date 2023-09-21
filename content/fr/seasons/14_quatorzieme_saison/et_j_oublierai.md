@@ -3,6 +3,8 @@ title = "Et j'oublierai"
 date = 2000-06-26
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "et_j_oublierai_14"
+acrostiche = "Et j'oublierai"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Canto, pioggia"
 date = 1999-06-20
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "canto_pioggia_12"
+acrostiche = "Canto, pioggia"
 tags = ["nature", "acrostiche"]
 categories = ["Eau douce", "Jardin, paysage"]
 +++

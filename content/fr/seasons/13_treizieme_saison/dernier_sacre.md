@@ -3,6 +3,8 @@ title = "Dernier sacre"
 date = 1999-08-31
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "dernier_sacre_13"
+acrostiche = "Dernier sacre"
 tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Temps", "Portraits"]
 +++

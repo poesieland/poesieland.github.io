@@ -3,6 +3,8 @@ title = "Ave Maria non morro"
 date = 1999-03-04
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "ave_maria_non_morro_10"
+acrostiche = "Ave Maria non morro"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

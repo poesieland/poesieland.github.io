@@ -3,6 +3,8 @@ title = "Je ne crois pas..."
 date = 1998-07-29
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "je_ne_crois_pas_8"
+acrostiche = "Je ne crois pas..."
 tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Apprentissage", "Amour malheureux"]
 +++

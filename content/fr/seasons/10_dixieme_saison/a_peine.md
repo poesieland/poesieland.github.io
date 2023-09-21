@@ -3,6 +3,8 @@ title = "A peine"
 date = 1999-02-01
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "a_peine_10"
+acrostiche = "A peine"
 tags = ["attitudes", "acrostiche"]
 categories = ["Sommeil"]
 +++

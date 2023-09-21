@@ -3,6 +3,9 @@ title = "Noël est amour"
 date = 1997-12-11
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "noel_est_amour_5"
+acrostiche = "Noël est amour"
+verseLength = 8
 tags = ["amour", "saisons", "acrostiche"]
 categories = ["Amitié", "Hiver"]
 +++

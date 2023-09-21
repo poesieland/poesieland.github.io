@@ -3,6 +3,8 @@ title = "Donne-moi ton cœur"
 date = 1998-10-26
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "donne_moi_ton_cour_9"
+acrostiche = "Donne-moi ton cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

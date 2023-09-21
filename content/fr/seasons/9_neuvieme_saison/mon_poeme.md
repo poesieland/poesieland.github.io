@@ -3,6 +3,8 @@ title = "Mon poème"
 date = 1998-11-13
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "mon_poeme_9"
+acrostiche = "Mon poème"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

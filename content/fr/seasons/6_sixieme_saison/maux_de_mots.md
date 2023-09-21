@@ -3,6 +3,7 @@ title = "Maux de mots"
 date = 1998-05-07
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "maux_de_mots_6"
 tags = ["philosophie"]
 categories = ["Apprentissage"]
 +++

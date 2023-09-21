@@ -3,6 +3,8 @@ title = "Paresse"
 date = 1997-05-03
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "paresse_4"
+verseLength = 8
 tags = ["saisons"]
 categories = ["Eté"]
 +++

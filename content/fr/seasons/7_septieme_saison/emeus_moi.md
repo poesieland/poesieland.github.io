@@ -3,6 +3,8 @@ title = "Emeus-moi"
 date = 1998-07-15
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "emeus_moi_7"
+acrostiche = "Emeus-moi"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

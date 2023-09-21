@@ -3,6 +3,8 @@ title = "Senteurs troublées des clématites..."
 date = 1996-06-07
 weight = 13
 LastModifierDisplayName = "Barbara Post"
+id = "senteurs_troublees_des_clematites_1"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Enfance"]
 +++

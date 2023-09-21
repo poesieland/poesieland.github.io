@@ -3,6 +3,8 @@ title = "La saison"
 date = 1998-09-26
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "la_saison_9"
+acrostiche = "La saison"
 tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
 +++

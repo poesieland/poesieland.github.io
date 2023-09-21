@@ -3,6 +3,8 @@ title = "L'amor è breve sogno"
 date = 1998-07-05
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "l_amor_e_breve_sogno_7"
+acrostiche = "L'amor è breve sogno"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

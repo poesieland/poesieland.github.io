@@ -3,6 +3,8 @@ title = "L'air du soir, forêts"
 date = 2001-09-16
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "l_air_du_soir_forets_15"
+acrostiche = "L'air du soir, forêts"
 tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage"]
 +++

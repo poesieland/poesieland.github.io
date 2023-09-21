@@ -3,6 +3,8 @@ title = "Coucher de soleil"
 date = 1996-11-28
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "coucher_de_soleil_2"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Crépuscule"]
 +++

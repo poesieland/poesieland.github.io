@@ -3,6 +3,9 @@ title = "Je sais t'aimer"
 date = 1997-08-15
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "je_sais_t_aimer_4"
+acrostiche = "Je sais t'aimer"
+verseLength = 6
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

@@ -3,6 +3,8 @@ title = "Souvenir de bonheur"
 date = 1997-12-17
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "souvenir_de_bonheur_5"
+verseLength = 6
 tags = ["amour", "philosophie"]
 categories = ["Amitié", "Espoir"]
 +++

@@ -3,6 +3,8 @@ title = "Adressée à toi"
 date = 1998-07-16
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "adressee_a_toi_7"
+acrostiche = "Adressée à toi"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

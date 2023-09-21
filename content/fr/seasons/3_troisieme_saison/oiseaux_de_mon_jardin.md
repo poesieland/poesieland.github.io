@@ -3,6 +3,8 @@ title = "Oiseaux de mon jardin"
 date = 1997-01-16
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "oiseaux_de_mon_jardin_3"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

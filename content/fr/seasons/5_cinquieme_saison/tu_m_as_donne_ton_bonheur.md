@@ -3,6 +3,9 @@ title = "Tu m'as donné ton bonheur"
 date = 1998-02-22
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "tu_m_as_donne_ton_bonheur_5"
+acrostiche = "Tu m'as donné ton bonheur"
+verseLength = 7
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

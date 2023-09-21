@@ -3,6 +3,8 @@ title = "Correspondance"
 date = 1999-05-04
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "correspondance_11"
+acrostiche = "Correspondance"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

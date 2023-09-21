@@ -3,6 +3,8 @@ title = "C'est un Dieu..."
 date = 1999-11-10
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "c_est_un_dieu_14"
+acrostiche = "C'est un Dieu..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi", "Espoir"]
 +++

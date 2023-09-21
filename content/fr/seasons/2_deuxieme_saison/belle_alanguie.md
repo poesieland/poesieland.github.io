@@ -3,6 +3,8 @@ title = "Belle alanguie"
 date = 1996-09-20
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "belle_alanguie_2"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Portraits"]
 +++

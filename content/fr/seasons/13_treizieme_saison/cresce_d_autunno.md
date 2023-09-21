@@ -3,6 +3,8 @@ title = "Cresce d'autunno"
 date = 1999-09-21
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "cresce_d_autunno_13"
+acrostiche = "Cresce d'autunno"
 tags = ["saisons", "nature", "philosophie", "acrostiche"]
 categories = ["Automne", "Mer", "Foi"]
 +++

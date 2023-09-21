@@ -3,6 +3,8 @@ title = "Soleil du matin"
 date = 1997-07-23
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "soleil_du_matin_4"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Aube"]
 +++

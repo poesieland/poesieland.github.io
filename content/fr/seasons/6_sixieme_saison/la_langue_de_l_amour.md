@@ -3,6 +3,8 @@ title = "La langue de l'amour"
 date = 1998-05-13
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "la_langue_de_l_amour_6"
+acrostiche = "La langue de l'amour"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

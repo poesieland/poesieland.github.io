@@ -3,6 +3,8 @@ title = "Farfalle d'ottobre"
 date = 1998-10-18
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "farfalle_d_ottobre_9"
+acrostiche = "Farfalle d'ottobre"
 tags = ["saisons", "nature", "philosophie", "acrostiche"]
 categories = ["Automne", "Animaux", "Etre"]
 +++

@@ -3,6 +3,8 @@ title = "Come un prim'amor"
 date = 1999-06-30
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "come_un_prim_amor_12"
+acrostiche = "Come un prim'amor"
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
 +++

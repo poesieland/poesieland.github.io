@@ -3,6 +3,8 @@ title = "Saisons terrestres"
 date = 1997-02-15
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "saisons_terrestres_3"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

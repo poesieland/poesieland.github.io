@@ -3,6 +3,8 @@ title = "Les Corbeaux"
 date = 1996-10-06
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "les_corbeaux_2"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

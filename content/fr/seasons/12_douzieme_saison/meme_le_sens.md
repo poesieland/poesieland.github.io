@@ -3,6 +3,8 @@ title = "Même le sens"
 date = 1999-07-24
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "meme_le_sens_12"
+acrostiche = "Même le sens"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

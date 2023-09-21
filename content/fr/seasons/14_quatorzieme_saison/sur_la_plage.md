@@ -3,6 +3,8 @@ title = "Sur la plage"
 date = 2001-02-22
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "sur_la_plage_14"
+acrostiche = "Sur la plage"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

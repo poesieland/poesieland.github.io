@@ -3,6 +3,8 @@ title = "Le Danseur"
 date = 1997-08-29
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "le_danseur_4"
+verseLength = 8
 tags = ["attitudes"]
 categories = ["Mouvement"]
 +++

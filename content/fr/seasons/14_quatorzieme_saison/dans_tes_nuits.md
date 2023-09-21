@@ -3,6 +3,8 @@ title = "Dans tes nuits"
 date = 1999-12-08
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "dans_tes_nuits_14"
+acrostiche = "Dans tes nuits"
 tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Amitié", "Etre"]
 +++

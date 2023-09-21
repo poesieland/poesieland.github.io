@@ -3,6 +3,8 @@ title = "La Lune"
 date = 1997-04-09
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "la_lune_3"
+verseLength = 5
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

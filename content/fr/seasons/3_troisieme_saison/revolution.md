@@ -3,6 +3,8 @@ title = "Révolution"
 date = 1997-03-16
 weight = 34
 LastModifierDisplayName = "Barbara Post"
+id = "revolution_3"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

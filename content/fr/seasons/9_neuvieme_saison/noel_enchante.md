@@ -3,6 +3,8 @@ title = "Noël enchanté"
 date = 1998-12-16
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "noel_enchante_9"
+acrostiche = "Noël enchanté"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

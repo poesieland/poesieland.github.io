@@ -3,6 +3,8 @@ title = "Matin de printemps"
 date = 1997-01-27
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "matin_de_printemps_3"
+verseLength = 8
 tags = ["saisons"]
 categories = ["Printemps"]
 +++

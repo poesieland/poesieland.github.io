@@ -3,6 +3,8 @@ title = "Vrai sens"
 date = 1999-05-08
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "vrai_sens_11"
+acrostiche = "Vrai sens"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
 +++

@@ -3,6 +3,8 @@ title = "Le peintre dit..."
 date = 1998-08-14
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "le_peintre_dit_8"
+acrostiche = "Le peintre dit..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

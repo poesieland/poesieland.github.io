@@ -3,6 +3,8 @@ title = "Le Grand départ"
 date = 1997-09-13
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "le_grand_depart_4"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

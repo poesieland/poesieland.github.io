@@ -3,6 +3,8 @@ title = "Infinir, s'unir"
 date = 1999-05-13
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "infinir_s_unir_11"
+acrostiche = "Infinir, s'unir"
 tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Mouvement", "Romantisme"]
 +++

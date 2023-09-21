@@ -3,6 +3,8 @@ title = "Fantasia"
 date = 1999-08-30
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "fantasia_13"
+acrostiche = "Fantasia"
 tags = ["attitudes", "acrostiche"]
 categories = ["Sommeil"]
 +++

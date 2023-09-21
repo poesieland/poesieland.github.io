@@ -3,6 +3,8 @@ title = "Baïkal"
 date = 2000-01-04
 weight = 15
 LastModifierDisplayName = "Barbara Post"
+id = "baikal_14"
+acrostiche = "Baïkal"
 tags = ["nature", "acrostiche"]
 categories = ["Eau douce"]
 +++

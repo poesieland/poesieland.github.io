@@ -3,6 +3,8 @@ title = "Aube d'un poème"
 date = 1998-11-19
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "aube_d_un_poeme_9"
+acrostiche = "Aube d'un poème"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

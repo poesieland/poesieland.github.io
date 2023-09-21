@@ -3,6 +3,8 @@ title = "Résonances de l'âme"
 date = 1998-10-20
 weight = 31
 LastModifierDisplayName = "Barbara Post"
+id = "resonances_de_l_ame_9"
+acrostiche = "Résonances de l'âme"
 tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
 +++

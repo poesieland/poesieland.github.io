@@ -3,6 +3,8 @@ title = "Vanité"
 date = 1994-01-01
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "vanite_1"
+verseLength = 12
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

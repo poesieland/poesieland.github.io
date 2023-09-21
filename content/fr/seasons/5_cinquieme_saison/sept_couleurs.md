@@ -3,6 +3,9 @@ title = "Sept couleurs"
 date = 1997-10-30
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "sept_couleurs_5"
+acrostiche = "Sept couleurs"
+verseLength = 8
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

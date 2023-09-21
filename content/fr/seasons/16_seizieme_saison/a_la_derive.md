@@ -3,6 +3,8 @@ title = "A la dérive"
 date = 2003-01-27
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "a_la_derive_16"
+acrostiche = "A la dérive, moi"
 tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
 +++

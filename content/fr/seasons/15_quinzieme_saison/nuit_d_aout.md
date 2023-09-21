@@ -3,6 +3,7 @@ title = "Nuit d'août"
 date = 2001-08-26
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "nuit_d_aout_15"
 tags = ["saisons", "ombres et lumières", "ombres et lumières"]
 categories = ["Eté", "Ville", "Nuit"]
 +++

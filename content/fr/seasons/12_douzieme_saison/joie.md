@@ -3,6 +3,8 @@ title = "Joie"
 date = 1999-07-25
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "joie_12"
+acrostiche = "Joie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

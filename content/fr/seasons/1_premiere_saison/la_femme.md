@@ -3,6 +3,8 @@ title = "La Femme"
 date = 1994-01-01
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "la_femme_1"
+verseLength = 6
 tags = ["amour", "philosophie"]
 categories = ["Femme", "Portraits"]
 +++

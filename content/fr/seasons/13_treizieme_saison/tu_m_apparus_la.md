@@ -3,6 +3,8 @@ title = "Tu m'apparus là"
 date = 1999-08-15
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "tu_m_apparus_la_13"
+acrostiche = "Tu m'apparus là"
 tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
 +++

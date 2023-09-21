@@ -3,6 +3,7 @@ title = "Un au revoir"
 date = 2004-04-26
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "un_au_revoir_16"
 tags = ["ombres et lumières", "philosophie"]
 categories = ["Ville", "Temps"]
 +++

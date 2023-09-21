@@ -3,6 +3,8 @@ title = "Les lumières de la ville"
 date = 1999-08-18
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "les_lumieres_de_la_ville_13"
+acrostiche = "Les lumières de la ville"
 tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
 categories = ["Ville", "Nuit"]
 +++

@@ -3,6 +3,8 @@ title = "Née ainsi"
 date = 1999-05-04
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "nee_ainsi_11"
+acrostiche = "Née ainsi"
 tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage", "Flore"]
 +++

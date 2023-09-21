@@ -3,6 +3,8 @@ title = "Parfum"
 date = 1999-05-10
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "parfum_11"
+acrostiche = "Le parfum du soir"
 tags = ["ombres et lumières", "nature", "acrostiche"]
 categories = ["Crépuscule", "Flore"]
 +++

@@ -3,6 +3,7 @@ title = "Si tu pouvais"
 date = 1999-03-03
 weight = 45
 LastModifierDisplayName = "Barbara Post"
+id = "si_tu_pouvais_10"
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

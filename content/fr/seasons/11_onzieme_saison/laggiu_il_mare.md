@@ -3,6 +3,8 @@ title = "Laggiù il mare"
 date = 1999-04-18
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "laggiu_il_mare_11"
+acrostiche = "Laggiù il mare"
 tags = ["nature", "acrostiche"]
 categories = ["Mer"]
 +++

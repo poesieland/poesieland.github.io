@@ -3,6 +3,8 @@ title = "Le moindre mot"
 date = 1998-06-30
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "le_moindre_mot_7"
+acrostiche = "Le moindre mot"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

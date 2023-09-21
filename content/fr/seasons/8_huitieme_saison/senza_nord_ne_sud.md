@@ -3,6 +3,8 @@ title = "Senza nord nè sud"
 date = 1998-08-26
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "senza_nord_ne_sud_8"
+acrostiche = "Senza nord nè sud"
 tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Etre", "Mer"]
 +++

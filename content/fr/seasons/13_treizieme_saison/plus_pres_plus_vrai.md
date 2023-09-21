@@ -3,6 +3,8 @@ title = "Plus près, plus vrai"
 date = 1999-09-07
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "plus_pres_plus_vrai_13"
+acrostiche = "Plus près, plus vrai"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

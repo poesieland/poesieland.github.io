@@ -3,6 +3,8 @@ title = "Bonheur"
 date = 1997-09-19
 weight = 24
 LastModifierDisplayName = "Barbara Post"
+id = "bonheur_5"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

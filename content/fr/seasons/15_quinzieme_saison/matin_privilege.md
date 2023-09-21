@@ -3,6 +3,8 @@ title = "Matin privilège"
 date = 2001-08-22
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "matin_privilege_15"
+acrostiche = "Matin privilège"
 tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Temps", "Flore"]
 +++

@@ -3,6 +3,8 @@ title = "Sinfonia corsa"
 date = 1996-10-17
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "sinfonia_corsa_2"
+verseLength = 12
 tags = ["philosophie", "sonnet"]
 categories = ["Révolte"]
 +++

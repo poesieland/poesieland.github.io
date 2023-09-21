@@ -3,6 +3,8 @@ title = "Balade du soir"
 date = 2000-08-15
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "balade_du_soir_14"
+acrostiche = "Balade du soir"
 tags = ["nature", "ombres et lumières", "acrostiche"]
 categories = ["Jardin, paysage", "Nuit"]
 +++

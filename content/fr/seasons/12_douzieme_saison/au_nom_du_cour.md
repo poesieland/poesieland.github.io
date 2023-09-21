@@ -3,6 +3,8 @@ title = "Au nom du cœur"
 date = 1999-05-30
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "au_nom_du_cour_12"
+acrostiche = "Au nom du cœur"
 tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
 +++

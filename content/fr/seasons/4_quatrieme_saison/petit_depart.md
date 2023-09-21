@@ -3,6 +3,8 @@ title = "Petit départ"
 date = 1997-08-31
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "petit_depart_4"
+verseLength = 6
 tags = ["nature"]
 categories = ["Eau douce"]
 +++

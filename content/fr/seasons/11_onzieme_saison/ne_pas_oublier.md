@@ -3,6 +3,8 @@ title = "Ne pas oublier"
 date = 1999-05-03
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "ne_pas_oublier_11"
+acrostiche = "Ne pas oublier"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

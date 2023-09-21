@@ -3,6 +3,9 @@ title = "Tout l'amour de mon cœur"
 date = 1997-11-02
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "tout_l_amour_de_mon_cour_5"
+acrostiche = "Tout l'amour de mon cœur"
+verseLength = 6
 tags = ["philosophie", "acrostiche"]
 categories = ["Enfance"]
 +++

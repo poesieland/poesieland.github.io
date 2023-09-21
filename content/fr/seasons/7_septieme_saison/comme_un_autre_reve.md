@@ -3,6 +3,8 @@ title = "Comme un autre rêve"
 date = 1998-07-15
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "comme_un_autre_reve_7"
+acrostiche = "Comme un autre rêve"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Etre"]
 +++

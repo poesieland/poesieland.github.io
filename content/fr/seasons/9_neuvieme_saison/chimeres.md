@@ -3,6 +3,8 @@ title = "Chimères"
 date = 1998-09-25
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "chimeres_9"
+acrostiche = "Chimères"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

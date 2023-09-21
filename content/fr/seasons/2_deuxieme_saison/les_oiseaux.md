@@ -3,6 +3,8 @@ title = "Les Oiseaux"
 date = 1996-12-09
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "les_oiseaux_2"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

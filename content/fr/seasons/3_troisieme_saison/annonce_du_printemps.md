@@ -3,6 +3,8 @@ title = "Annonce du printemps"
 date = 1997-01-21
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "annonce_du_printemps_3"
+verseLength = 6
 tags = ["saisons"]
 categories = ["Printemps"]
 +++

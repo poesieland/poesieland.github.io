@@ -3,6 +3,8 @@ title = "Voyage d'hiver"
 date = 1996-12-06
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "voyage_d_hiver_2"
+verseLength = 6
 tags = ["saisons"]
 categories = ["Hiver"]
 +++

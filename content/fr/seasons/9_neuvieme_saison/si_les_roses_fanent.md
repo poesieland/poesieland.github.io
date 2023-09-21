@@ -3,6 +3,8 @@ title = "Si les roses fanent"
 date = 1998-11-25
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "si_les_roses_fanent_9"
+acrostiche = "Si les roses fanent"
 tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Flore", "Foi"]
 +++

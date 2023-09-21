@@ -3,6 +3,8 @@ title = "Demain l'automne"
 date = 1998-09-22
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "demain_l_automne_9"
+acrostiche = "Demain l'automne"
 tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
 +++

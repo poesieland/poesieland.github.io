@@ -3,6 +3,8 @@ title = "Ballet du ciel"
 date = 2001-06-20
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "ballet_du_ciel_15"
+acrostiche = "Ballet du ciel"
 tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
 +++

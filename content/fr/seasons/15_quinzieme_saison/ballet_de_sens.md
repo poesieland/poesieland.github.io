@@ -3,6 +3,8 @@ title = "Ballet de sens"
 date = 2001-11-10
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "ballet_de_sens_15"
+acrostiche = "Ballet de sens"
 tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Toucher", "Romantisme"]
 +++

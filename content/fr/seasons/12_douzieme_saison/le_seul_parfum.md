@@ -3,6 +3,8 @@ title = "Le seul parfum"
 date = 1999-06-07
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "le_seul_parfum_12"
+acrostiche = "Le seul parfum"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

@@ -3,6 +3,8 @@ title = "Il faro"
 date = 1999-01-15
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "il_faro_10"
+acrostiche = "Il faro"
 tags = ["nature", "acrostiche"]
 categories = ["Mer"]
 +++

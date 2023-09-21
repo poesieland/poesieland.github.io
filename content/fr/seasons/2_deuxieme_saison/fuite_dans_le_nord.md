@@ -3,6 +3,8 @@ title = "Fuite dans le Nord"
 date = 1996-11-02
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "fuite_dans_le_nord_2"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Divers"]
 +++

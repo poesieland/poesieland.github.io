@@ -3,6 +3,8 @@ title = "Voici l'automne"
 date = 1997-09-03
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "voici_l_automne_4"
+verseLength = 6
 tags = ["saisons"]
 categories = ["Automne"]
 +++

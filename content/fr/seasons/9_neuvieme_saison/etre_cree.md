@@ -3,6 +3,8 @@ title = "Etre créé"
 date = 1998-11-26
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "etre_cree_9"
+acrostiche = "Etre créé"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

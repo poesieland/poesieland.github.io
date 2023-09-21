@@ -3,6 +3,8 @@ title = "Rêves"
 date = 1997-11-25
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "reves_5"
+verseLength = 6
 tags = ["nature"]
 categories = ["Ciel"]
 +++

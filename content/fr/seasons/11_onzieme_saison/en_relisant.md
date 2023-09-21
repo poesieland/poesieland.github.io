@@ -3,6 +3,8 @@ title = "En relisant..."
 date = 1999-05-01
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "en_relisant_11"
+acrostiche = "En relisant..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

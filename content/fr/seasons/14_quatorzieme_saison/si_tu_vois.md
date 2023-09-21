@@ -3,6 +3,8 @@ title = "Si tu vois"
 date = 2000-08-29
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "si_tu_vois_14"
+acrostiche = "Si tu vois"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

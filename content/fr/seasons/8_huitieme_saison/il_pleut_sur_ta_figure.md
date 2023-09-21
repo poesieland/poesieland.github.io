@@ -3,6 +3,8 @@ title = "Il pleut sur ta figure..."
 date = 1998-07-27
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "il_pleut_sur_ta_figure_8"
+acrostiche = "Il pleut sur ta figure..."
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

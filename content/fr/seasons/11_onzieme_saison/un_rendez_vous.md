@@ -3,6 +3,8 @@ title = "Un rendez-vous"
 date = 1999-05-21
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "un_rendez_vous_11"
+acrostiche = "Un rendez-vous"
 tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
 +++

@@ -3,6 +3,8 @@ title = "Derrière l'ombre"
 date = 1998-05-31
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "derriere_l_ombre_6"
+acrostiche = "Derrière l'ombre"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

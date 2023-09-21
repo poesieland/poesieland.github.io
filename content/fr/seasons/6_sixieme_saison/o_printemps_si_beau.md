@@ -3,6 +3,8 @@ title = "O Printemps si beau"
 date = 1998-04-12
 weight = 11
 LastModifierDisplayName = "Barbara Post"
+id = "o_printemps_si_beau_6"
+acrostiche = "O Printemps si beau"
 tags = ["saisons", "acrostiche"]
 categories = ["Printemps"]
 +++

@@ -3,6 +3,8 @@ title = "L'ultime roi"
 date = 2001-10-21
 weight = 44
 LastModifierDisplayName = "Barbara Post"
+id = "l_ultime_roi_15"
+acrostiche = "L'ultime roi"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

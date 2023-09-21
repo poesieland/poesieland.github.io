@@ -3,6 +3,8 @@ title = "L'encre tracée"
 date = 1998-07-11
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "l_encre_tracee_7"
+acrostiche = "L'encre tracée"
 tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
 +++

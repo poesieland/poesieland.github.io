@@ -3,6 +3,8 @@ title = "Je me languis de toi"
 date = 2003-02-01
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "je_me_languis_de_toi_16"
+acrostiche = "Je me languis de toi"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

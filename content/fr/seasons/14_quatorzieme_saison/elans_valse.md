@@ -3,6 +3,8 @@ title = "Elans, valse"
 date = 2001-03-19
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "elans_valse_14"
+acrostiche = "Elans, valse"
 tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
 +++

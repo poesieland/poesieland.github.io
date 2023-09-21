@@ -3,6 +3,8 @@ title = "Une chanson triste"
 date = 1999-04-13
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "une_chanson_triste_11"
+acrostiche = "Une chanson triste"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

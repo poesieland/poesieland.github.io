@@ -3,6 +3,8 @@ title = "Je t'attendrai"
 date = 1998-10-19
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "je_t_attendrai_9"
+acrostiche = "Je t'attendrai"
 tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Romantisme", "Création"]
 +++

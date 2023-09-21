@@ -3,6 +3,8 @@ title = "Je me souviens"
 date = 1999-05-23
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "je_me_souviens_12"
+acrostiche = "Je me souviens"
 tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Temps", "Hiver"]
 +++

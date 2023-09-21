@@ -3,6 +3,8 @@ title = "Le Pic-Vert"
 date = 1997-09-29
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "le_pic_vert_5"
+verseLength = 8
 tags = ["nature"]
 categories = ["Animaux"]
 +++

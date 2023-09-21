@@ -3,6 +3,8 @@ title = "D'aimer l'envie"
 date = 1998-06-07
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "d_aimer_l_envie_7"
+acrostiche = "D'aimer l'envie"
 tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Amour malheureux", "Création"]
 +++

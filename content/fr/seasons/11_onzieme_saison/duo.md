@@ -3,6 +3,8 @@ title = "Duo"
 date = 1999-05-10
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "duo_11"
+acrostiche = "Rien n'a changé"
 tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant", "Mouvement"]
 +++

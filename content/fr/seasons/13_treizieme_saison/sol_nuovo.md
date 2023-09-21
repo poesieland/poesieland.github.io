@@ -3,6 +3,8 @@ title = "Sol' nuovo"
 date = 1999-09-08
 weight = 21
 LastModifierDisplayName = "Barbara Post"
+id = "sol_nuovo_13"
+acrostiche = "Sol' nuovo"
 tags = ["nature", "acrostiche"]
 categories = ["Mer"]
 +++

@@ -3,6 +3,8 @@ title = "Les embruns du cœur"
 date = 1997-11-21
 weight = 19
 LastModifierDisplayName = "Barbara Post"
+id = "les_embruns_du_cour_5"
+verseLength = 6
 tags = ["amour"]
 categories = ["Romantisme"]
 +++

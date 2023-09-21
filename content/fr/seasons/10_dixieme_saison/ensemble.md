@@ -3,6 +3,8 @@ title = "Ensemble"
 date = 1999-03-07
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "ensemble_10"
+acrostiche = "Ensemble"
 tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Romantisme", "Musique, chant"]
 +++

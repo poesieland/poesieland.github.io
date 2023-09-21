@@ -3,6 +3,8 @@ title = "Lune, tu danses"
 date = 1999-02-10
 weight = 22
 LastModifierDisplayName = "Barbara Post"
+id = "lune_tu_danses_10"
+acrostiche = "Lune, tu danses"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

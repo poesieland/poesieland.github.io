@@ -3,6 +3,8 @@ title = "Amitié d'enfance"
 date = 1996-08-23
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "amitie_d_enfance_1"
+verseLength = 8
 tags = ["amour", "philosophie"]
 categories = ["Amitié", "Enfance"]
 +++

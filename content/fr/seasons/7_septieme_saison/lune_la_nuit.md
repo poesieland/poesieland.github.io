@@ -3,6 +3,8 @@ title = "Lune, la nuit"
 date = 1998-07-08
 weight = 43
 LastModifierDisplayName = "Barbara Post"
+id = "lune_la_nuit_7"
+acrostiche = "Lune, la nuit"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

@@ -3,6 +3,7 @@ title = "Chanson"
 date = 1998-05-27
 weight = 41
 LastModifierDisplayName = "Barbara Post"
+id = "chanson_6"
 tags = ["attitudes"]
 categories = ["Musique, chant"]
 +++

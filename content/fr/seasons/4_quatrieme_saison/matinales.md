@@ -3,6 +3,8 @@ title = "Matinales"
 date = 1997-08-25
 weight = 40
 LastModifierDisplayName = "Barbara Post"
+id = "matinales_4"
+verseLength = 6
 tags = ["ombres et lumières", "philosophie"]
 categories = ["Aube", "Etre"]
 +++

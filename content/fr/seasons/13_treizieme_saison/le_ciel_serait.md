@@ -3,6 +3,8 @@ title = "Le ciel serait"
 date = 1999-10-24
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "le_ciel_serait_13"
+acrostiche = "Le ciel serait"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

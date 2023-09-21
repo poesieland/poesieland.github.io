@@ -3,6 +3,8 @@ title = "Retour à l'innocence"
 date = 1996-02-19
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "retour_a_l_innocence_1"
+verseLength = 6
 tags = ["nature", "philosophie"]
 categories = ["Neige", "Enfance"]
 +++

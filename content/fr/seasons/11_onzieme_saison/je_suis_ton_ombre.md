@@ -3,6 +3,8 @@ title = "Je suis ton ombre"
 date = 1999-04-19
 weight = 35
 LastModifierDisplayName = "Barbara Post"
+id = "je_suis_ton_ombre_11"
+acrostiche = "Je suis ton ombre"
 tags = ["philosophie", "acrostiche"]
 categories = ["Divers"]
 +++

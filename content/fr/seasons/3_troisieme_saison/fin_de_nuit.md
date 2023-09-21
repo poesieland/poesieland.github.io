@@ -3,6 +3,8 @@ title = "Fin de nuit"
 date = 1997-02-12
 weight = 10
 LastModifierDisplayName = "Barbara Post"
+id = "fin_de_nuit_3"
+verseLength = 8
 tags = ["ombres et lumières", "philosophie"]
 categories = ["Nuit", "Création"]
 +++

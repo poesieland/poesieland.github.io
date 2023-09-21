@@ -3,6 +3,8 @@ title = "Le Chant de l'Oiseau"
 date = 1997-02-22
 weight = 42
 LastModifierDisplayName = "Barbara Post"
+id = "le_chant_de_l_oiseau_3"
+verseLength = 12
 tags = ["nature"]
 categories = ["Animaux"]
 +++

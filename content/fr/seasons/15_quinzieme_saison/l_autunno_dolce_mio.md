@@ -3,6 +3,8 @@ title = "L'autunno, dolce mio"
 date = 2001-10-02
 weight = 38
 LastModifierDisplayName = "Barbara Post"
+id = "l_autunno_dolce_mio_15"
+acrostiche = "L'autunno, dolce mio"
 tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Etre"]
 +++

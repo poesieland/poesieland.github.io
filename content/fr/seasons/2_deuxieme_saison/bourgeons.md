@@ -3,6 +3,8 @@ title = "Bourgeons"
 date = 1996-10-13
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "bourgeons_2"
+verseLength = 12
 tags = ["saisons", "nature"]
 categories = ["Automne", "Flore"]
 +++

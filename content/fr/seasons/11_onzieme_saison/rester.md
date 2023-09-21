@@ -3,6 +3,8 @@ title = "Rester"
 date = 1999-04-01
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "rester_11"
+acrostiche = "Tu sei bello"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

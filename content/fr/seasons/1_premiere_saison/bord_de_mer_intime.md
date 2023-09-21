@@ -3,6 +3,8 @@ title = "Bord de mer intime"
 date = 1996-07-09
 weight = 25
 LastModifierDisplayName = "Barbara Post"
+id = "bord_de_mer_intime_1"
+verseLength = 12
 tags = ["nature"]
 categories = ["Mer"]
 +++

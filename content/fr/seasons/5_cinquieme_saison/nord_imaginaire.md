@@ -3,6 +3,7 @@ title = "Nord imaginaire"
 date = 1997-12-02
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "nord_imaginaire_5"
 tags = ["saisons"]
 categories = ["Hiver"]
 +++

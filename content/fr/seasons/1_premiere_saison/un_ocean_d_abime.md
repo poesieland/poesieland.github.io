@@ -3,6 +3,8 @@ title = "Un océan d'abîme"
 date = 1996-09-01
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "un_ocean_d_abime_1"
+verseLength = 12
 tags = ["amour"]
 categories = ["Amour malheureux"]
 +++

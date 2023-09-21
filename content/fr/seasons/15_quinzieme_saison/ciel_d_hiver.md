@@ -3,6 +3,8 @@ title = "Ciel d'hiver"
 date = 2001-12-24
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "ciel_d_hiver_15"
+acrostiche = "Ciel"
 tags = ["nature", "saisons", "acrostiche"]
 categories = ["Ciel", "Hiver"]
 +++

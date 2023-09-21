@@ -3,6 +3,8 @@ title = "Toi qu'on nomme..."
 date = 1998-07-30
 weight = 17
 LastModifierDisplayName = "Barbara Post"
+id = "toi_qu_on_nomme_8"
+acrostiche = "Toi qu'on nomme..."
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

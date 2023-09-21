@@ -3,6 +3,7 @@ title = "Trente ans"
 date = 2001-07-14
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "trente_ans_15"
 tags = ["philosophie", "pantoum"]
 categories = ["Etre"]
 +++

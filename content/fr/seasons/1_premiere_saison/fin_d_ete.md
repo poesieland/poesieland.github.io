@@ -3,6 +3,8 @@ title = "Fin d'été"
 date = 1996-08-18
 weight = 37
 LastModifierDisplayName = "Barbara Post"
+id = "fin_d_ete_1"
+verseLength = 12
 tags = ["saisons"]
 categories = ["Automne"]
 +++

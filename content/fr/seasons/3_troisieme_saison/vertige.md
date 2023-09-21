@@ -3,6 +3,8 @@ title = "Vertige"
 date = 1997-01-19
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "vertige_3"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Temps"]
 +++

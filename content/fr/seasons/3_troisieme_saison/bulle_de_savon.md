@@ -3,6 +3,8 @@ title = "Bulle de savon"
 date = 1997-03-06
 weight = 47
 LastModifierDisplayName = "Barbara Post"
+id = "bulle_de_savon_3"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Enfance"]
 +++

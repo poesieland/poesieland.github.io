@@ -3,6 +3,8 @@ title = "J'inventerai ma vie"
 date = 1998-07-07
 weight = 26
 LastModifierDisplayName = "Barbara Post"
+id = "j_inventerai_ma_vie_7"
+acrostiche = "J'inventerai ma vie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

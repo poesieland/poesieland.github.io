@@ -3,6 +3,8 @@ title = "L'Amour à mort"
 date = 1997-06-22
 weight = 12
 LastModifierDisplayName = "Barbara Post"
+id = "l_amour_a_mort_4"
+verseLength = 8
 tags = ["amour", "nature"]
 categories = ["Romantisme", "Flore"]
 +++

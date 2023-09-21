@@ -3,6 +3,8 @@ title = "Lune joue"
 date = 2001-10-02
 weight = 39
 LastModifierDisplayName = "Barbara Post"
+id = "lune_joue_15"
+acrostiche = "Lune joue"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
 +++

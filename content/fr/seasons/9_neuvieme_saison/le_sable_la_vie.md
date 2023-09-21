@@ -3,6 +3,8 @@ title = "Le sable, la vie"
 date = 1998-10-10
 weight = 30
 LastModifierDisplayName = "Barbara Post"
+id = "le_sable_la_vie_9"
+acrostiche = "Le sable, la vie"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

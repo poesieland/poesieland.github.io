@@ -3,6 +3,9 @@ title = "La Rose"
 date = 1998-03-05
 weight = 20
 LastModifierDisplayName = "Barbara Post"
+id = "la_rose_5"
+acrostiche = "Manger le coeur d'un Eros"
+verseLength = 7
 tags = ["nature", "acrostiche"]
 categories = ["Flore"]
 +++

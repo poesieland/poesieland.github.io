@@ -3,6 +3,8 @@ title = "Chanter sans mot"
 date = 1999-08-20
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "chanter_sans_mot_13"
+acrostiche = "Chanter sans mot"
 tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Création", "Musique, chant"]
 +++

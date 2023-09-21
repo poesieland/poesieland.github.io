@@ -3,6 +3,8 @@ title = "Fils d'automne"
 date = 1998-03-24
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "fils_d_automne_6"
+acrostiche = "Fils d'automne"
 tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
 +++

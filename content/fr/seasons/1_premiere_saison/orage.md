@@ -3,6 +3,8 @@ title = "Orage"
 date = 1996-05-17
 weight = 33
 LastModifierDisplayName = "Barbara Post"
+id = "orage_1"
+verseLength = 8
 tags = ["nature", "sonnet"]
 categories = ["Ciel"]
 +++

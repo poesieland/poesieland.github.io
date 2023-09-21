@@ -3,6 +3,8 @@ title = "Eveil"
 date = 1998-01-03
 weight = 1
 LastModifierDisplayName = "Barbara Post"
+id = "eveil_5"
+verseLength = 6
 tags = ["attitudes"]
 categories = ["Toucher"]
 +++

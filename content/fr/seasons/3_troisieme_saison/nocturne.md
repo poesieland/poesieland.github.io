@@ -3,6 +3,8 @@ title = "Nocturne"
 date = 1997-01-04
 weight = 3
 LastModifierDisplayName = "Barbara Post"
+id = "nocturne_3"
+verseLength = 8
 tags = ["ombres et lumières"]
 categories = ["Lune"]
 +++

@@ -3,6 +3,8 @@ title = "Eclipse"
 date = 1996-10-12
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "eclipse_2"
+verseLength = 12
 tags = ["ombres et lumières", "sonnet"]
 categories = ["Lune"]
 +++

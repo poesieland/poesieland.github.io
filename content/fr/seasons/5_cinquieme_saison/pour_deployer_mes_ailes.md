@@ -3,6 +3,9 @@ title = "Pour déployer mes ailes"
 date = 1997-12-28
 weight = 36
 LastModifierDisplayName = "Barbara Post"
+id = "pour_deployer_mes_ailes_5"
+acrostiche = "Pour déployer mes ailes"
+verseLength = 6
 tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
 +++

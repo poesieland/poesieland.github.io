@@ -3,6 +3,8 @@ title = "Dans ton cœur, Dieu"
 date = 1998-07-21
 weight = 48
 LastModifierDisplayName = "Barbara Post"
+id = "dans_ton_cour_dieu_8"
+acrostiche = "Dans ton cœur, Dieu"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

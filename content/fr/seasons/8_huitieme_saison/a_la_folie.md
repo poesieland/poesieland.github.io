@@ -3,6 +3,8 @@ title = "A la folie"
 date = 1998-07-27
 weight = 5
 LastModifierDisplayName = "Barbara Post"
+id = "a_la_folie_8"
+acrostiche = "A la folie"
 tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
 +++

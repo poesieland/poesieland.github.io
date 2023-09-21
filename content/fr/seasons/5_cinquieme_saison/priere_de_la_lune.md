@@ -3,6 +3,8 @@ title = "Prière de la Lune"
 date = 1998-02-26
 weight = 49
 LastModifierDisplayName = "Barbara Post"
+id = "priere_de_la_lune_5"
+acrostiche = "Hijo de la luna"
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Révolte"]
 +++

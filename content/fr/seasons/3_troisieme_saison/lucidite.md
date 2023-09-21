@@ -3,6 +3,8 @@ title = "Lucidité"
 date = 1997-02-14
 weight = 27
 LastModifierDisplayName = "Barbara Post"
+id = "lucidite_3"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Espoir"]
 +++

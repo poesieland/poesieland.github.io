@@ -3,6 +3,8 @@ title = "Folie d'amour"
 date = 1996-01-10
 weight = 2
 LastModifierDisplayName = "Barbara Post"
+id = "folie_d_amour_1"
+verseLength = 12
 tags = ["amour"]
 categories = ["Femme"]
 +++

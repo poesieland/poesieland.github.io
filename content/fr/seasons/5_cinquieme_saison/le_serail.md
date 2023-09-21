@@ -3,6 +3,8 @@ title = "Le Sérail"
 date = 1997-10-20
 weight = 32
 LastModifierDisplayName = "Barbara Post"
+id = "le_serail_5"
+verseLength = 6
 tags = ["philosophie", "nature"]
 categories = ["Portraits", "Flore"]
 +++

@@ -3,6 +3,8 @@ title = "Désir de mer"
 date = 1996-07-13
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "desir_de_mer_1"
+verseLength = 12
 tags = ["nature", "amour"]
 categories = ["Mer", "Femme"]
 +++

@@ -3,6 +3,8 @@ title = "Ecrire"
 date = 1997-09-24
 weight = 29
 LastModifierDisplayName = "Barbara Post"
+id = "ecrire_5"
+verseLength = 6
 tags = ["philosophie"]
 categories = ["Création"]
 +++

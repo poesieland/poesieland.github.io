@@ -3,6 +3,8 @@ title = "Destins"
 date = 1997-01-16
 weight = 28
 LastModifierDisplayName = "Barbara Post"
+id = "destins_3"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Révolte"]
 +++

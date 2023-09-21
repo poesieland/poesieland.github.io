@@ -3,6 +3,8 @@ title = "J'irai par ce chemin"
 date = 1999-09-08
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "j_irai_par_ce_chemin_13"
+acrostiche = "J'irai par ce chemin"
 tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
 +++

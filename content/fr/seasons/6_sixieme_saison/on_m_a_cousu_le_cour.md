@@ -3,6 +3,8 @@ title = "On m'a cousu le cœur"
 date = 1998-04-05
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "on_m_a_cousu_le_cour_6"
+acrostiche = "On m'a cousu le cœur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

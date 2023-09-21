@@ -3,6 +3,8 @@ title = "Bientôt l'automne"
 date = 1997-08-20
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "bientot_l_automne_4"
+verseLength = 8
 tags = ["saisons"]
 categories = ["Automne"]
 +++

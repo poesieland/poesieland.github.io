@@ -3,6 +3,8 @@ title = "Elle coule, musique"
 date = 1998-07-02
 weight = 46
 LastModifierDisplayName = "Barbara Post"
+id = "elle_coule_musique_7"
+acrostiche = "Elle coule, musique"
 tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
 +++

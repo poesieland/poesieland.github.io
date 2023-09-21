@@ -3,6 +3,8 @@ title = "Le prisme du cœur"
 date = 1998-02-10
 weight = 7
 LastModifierDisplayName = "Barbara Post"
+id = "le_prisme_du_cour_5"
+verseLength = 8
 tags = ["philosophie"]
 categories = ["Etre"]
 +++

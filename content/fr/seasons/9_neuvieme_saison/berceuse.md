@@ -3,6 +3,8 @@ title = "Berceuse"
 date = 1998-09-19
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "berceuse_9"
+acrostiche = "Tu sens..."
 tags = ["attitudes", "attitudes", "acrostiche"]
 categories = ["Musique, chant", "Sommeil"]
 +++

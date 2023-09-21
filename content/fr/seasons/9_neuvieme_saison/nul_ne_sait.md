@@ -3,6 +3,8 @@ title = "Nul ne sait"
 date = 1998-10-02
 weight = 8
 LastModifierDisplayName = "Barbara Post"
+id = "nul_ne_sait_9"
+acrostiche = "Non lo nessun saprà"
 tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
 +++

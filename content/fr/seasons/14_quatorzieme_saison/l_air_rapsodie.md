@@ -3,6 +3,8 @@ title = "L'air : rapsodie"
 date = 2000-04-24
 weight = 16
 LastModifierDisplayName = "Barbara Post"
+id = "l_air_rapsodie_14"
+acrostiche = "L'air : rapsodie"
 tags = ["nature", "saisons", "philosophie", "acrostiche"]
 categories = ["Jardin, paysage", "Printemps", "Temps"]
 +++

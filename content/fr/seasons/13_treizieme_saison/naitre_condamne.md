@@ -3,6 +3,8 @@ title = "Naître condamné"
 date = 1999-09-11
 weight = 9
 LastModifierDisplayName = "Barbara Post"
+id = "naitre_condamne_13"
+acrostiche = "Naître condamné"
 tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
 +++

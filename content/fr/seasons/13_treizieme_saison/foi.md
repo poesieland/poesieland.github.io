@@ -3,6 +3,8 @@ title = "Foi"
 date = 1999-10-29
 weight = 50
 LastModifierDisplayName = "Barbara Post"
+id = "foi_13"
+acrostiche = "Unico resterà"
 tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
 +++

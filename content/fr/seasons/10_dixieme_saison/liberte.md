@@ -3,6 +3,8 @@ title = "Liberté"
 date = 1999-03-03
 weight = 18
 LastModifierDisplayName = "Barbara Post"
+id = "liberte_10"
+acrostiche = "A fleur"
 tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
 +++

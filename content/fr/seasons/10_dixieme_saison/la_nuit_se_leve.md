@@ -3,6 +3,8 @@ title = "La nuit se lève"
 date = 1999-01-26
 weight = 23
 LastModifierDisplayName = "Barbara Post"
+id = "la_nuit_se_leve_10"
+acrostiche = "La nuit se lève"
 tags = ["ombres et lumières", "acrostiche"]
 categories = ["Crépuscule"]
 +++
