@@ -7,6 +7,15 @@ tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage"]
 +++
 
+La forêt bruisse, et calme l'onde
+
+Amène un souffle d'airs moussus,
+
+Irisés : lune d'autre monde
+
+Rêve de champignons pansus.
+
+ \
 Dialogue de mes pas sur l'herbe,
 
 Une ombre... ce n'est qu'un lapin
