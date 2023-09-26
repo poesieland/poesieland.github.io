@@ -1,11 +1,11 @@
 +++
 title = "Bêtise"
+id = "betise_6"
 date = 1998-05-18
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "betise_6"
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sous le ciel bas dans un rictus

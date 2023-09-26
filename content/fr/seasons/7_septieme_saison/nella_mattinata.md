@@ -1,12 +1,12 @@
 +++
 title = "Nella mattinata"
+id = "nella_mattinata_7"
 date = 1998-07-01
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "nella_mattinata_7"
-acrostiche = "Nella mattinata"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Nella mattinata"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Née à l'aurore d'un matin

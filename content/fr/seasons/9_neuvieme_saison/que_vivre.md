@@ -1,12 +1,12 @@
 +++
 title = "Que vivre"
+id = "que_vivre_9"
 date = 1998-12-16
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "que_vivre_9"
-acrostiche = "Que vivre"
-tags = ["philosophie", "ombres et lumières", "acrostiche"]
 categories = ["Espoir", "Nuit"]
+tags = ["philosophie", "ombres et lumières", "acrostiche"]
+acrostiche = "Que vivre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Qui cueille fleur offense chaque étoile :

@@ -1,12 +1,12 @@
 +++
 title = "Prière à Marie"
+id = "priere_a_marie_7"
 date = 1998-07-11
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "priere_a_marie_7"
-acrostiche = "Prière à Marie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Prière à Marie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Prière entre mes doigts, éclose à l'espérance,

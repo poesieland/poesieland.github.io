@@ -1,12 +1,12 @@
 +++
 title = "L'ombre"
+id = "l_ombre_14"
 date = 2000-01-07
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "l_ombre_14"
-acrostiche = "L'ombre"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "L'ombre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'ancienne lumière à ce rêve a cédé

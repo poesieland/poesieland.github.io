@@ -1,12 +1,12 @@
 +++
 title = "Evocation"
+id = "evocation_2"
 date = 1996-09-19
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "evocation_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ta chevelure en feu m'emporte à la dérive

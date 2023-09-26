@@ -1,12 +1,12 @@
 +++
 title = "Raconte-moi"
+id = "raconte_moi_10"
 date = 1999-03-20
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "raconte_moi_10"
-acrostiche = "Raconte-moi"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Raconte-moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Raconte à mon cœur ton rêve vrai, sincère,

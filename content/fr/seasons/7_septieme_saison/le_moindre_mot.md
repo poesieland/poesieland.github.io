@@ -1,12 +1,12 @@
 +++
 title = "Le moindre mot"
+id = "le_moindre_mot_7"
 date = 1998-06-30
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "le_moindre_mot_7"
-acrostiche = "Le moindre mot"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le moindre mot"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le moindre mot s'envole

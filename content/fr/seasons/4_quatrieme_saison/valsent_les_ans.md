@@ -1,12 +1,12 @@
 +++
 title = "Valsent les ans"
+id = "valsent_les_ans_4"
 date = 1997-09-08
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "valsent_les_ans_4"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Aux espoirs d'hier valsent les ans

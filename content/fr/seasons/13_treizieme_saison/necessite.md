@@ -1,12 +1,13 @@
 +++
 title = "Nécessité"
+id = "necessite_13"
 date = 1999-09-06
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "necessite_13"
-acrostiche = "Quanto tempo è"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+info = '"Il y a tant de temps" en italien.'
+acrostiche = "Quanto tempo è"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand je ne saurai plus si vivre

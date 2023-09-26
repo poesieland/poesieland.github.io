@@ -1,12 +1,12 @@
 +++
 title = "Jugement"
+id = "jugement_5"
 date = 1997-09-23
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "jugement_5"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ce n'est qu'une chanson

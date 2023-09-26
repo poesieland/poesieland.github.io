@@ -1,12 +1,12 @@
 +++
 title = "Le temps passé"
+id = "le_temps_passe_3"
 date = 1997-01-03
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "le_temps_passe_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au sablier de l'immobile,

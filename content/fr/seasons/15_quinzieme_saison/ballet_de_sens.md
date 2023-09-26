@@ -1,12 +1,12 @@
 +++
 title = "Ballet de sens"
+id = "ballet_de_sens_15"
 date = 2001-11-10
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "ballet_de_sens_15"
-acrostiche = "Ballet de sens"
-tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Toucher", "Romantisme"]
+tags = ["attitudes", "amour", "acrostiche"]
+acrostiche = "Ballet de sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Baisers du bout des lèvres

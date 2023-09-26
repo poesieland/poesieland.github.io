@@ -1,12 +1,12 @@
 +++
 title = "Hijo de la luna"
+id = "hijo_de_la_luna_7"
 date = 1998-07-18
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "hijo_de_la_luna_7"
-acrostiche = "Hijo de la luna"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Hijo de la luna"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Humble, couleur du soleil,

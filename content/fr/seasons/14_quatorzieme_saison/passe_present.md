@@ -1,12 +1,12 @@
 +++
 title = "Passé - présent"
+id = "passe_present_14"
 date = 2000-04-01
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "passe_present_14"
-doubleAcrostiche = "Passé | présent"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie", "doubleAcrostiche"]
+doubleAcrostiche = "Passé | présent"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Par les milliers d'années

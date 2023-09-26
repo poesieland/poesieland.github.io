@@ -1,12 +1,12 @@
 +++
 title = "Oiseaux de mon jardin"
+id = "oiseaux_de_mon_jardin_3"
 date = 1997-01-16
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "oiseaux_de_mon_jardin_3"
-verseLength = 8
-tags = ["nature"]
 categories = ["Animaux"]
+tags = ["nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Cueillir des oiseaux aux buissons,

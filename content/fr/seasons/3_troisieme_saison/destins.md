@@ -1,12 +1,12 @@
 +++
 title = "Destins"
+id = "destins_3"
 date = 1997-01-16
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "destins_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Leur œil triste me faisait signe,

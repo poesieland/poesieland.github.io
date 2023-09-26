@@ -1,12 +1,12 @@
 +++
 title = "L'Adieu"
+id = "l_adieu_3"
 date = 1997-05-10
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "l_adieu_3"
-verseLength = 6
-tags = ["ombres et lumières"]
 categories = ["Nuit"]
+tags = ["ombres et lumières"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comète de l'amour,

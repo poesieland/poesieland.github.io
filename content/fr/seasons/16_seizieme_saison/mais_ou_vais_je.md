@@ -1,12 +1,12 @@
 +++
 title = "Mais où vais-je ?"
+id = "mais_ou_vais_je_16"
 date = 2004-01-14
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "mais_ou_vais_je_16"
-acrostiche = "Mais où vais-je ?"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mais où vais-je ?"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mes désirs ont craqué d'un bouquet crissant, sec,

@@ -1,12 +1,12 @@
 +++
 title = "Sans rien dire"
+id = "sans_rien_dire_8"
 date = 1998-09-04
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "sans_rien_dire_8"
-acrostiche = "Sans rien dire"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Sans rien dire"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sans ressusciter l'oublié

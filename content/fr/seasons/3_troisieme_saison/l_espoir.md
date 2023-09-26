@@ -1,12 +1,12 @@
 +++
 title = "L'espoir"
+id = "l_espoir_3"
 date = 1997-02-28
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "l_espoir_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Excusez-moi donc : je rêvais

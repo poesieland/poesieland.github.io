@@ -1,11 +1,11 @@
 +++
 title = "Si tu pouvais"
+id = "si_tu_pouvais_10"
 date = 1999-03-03
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "si_tu_pouvais_10"
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Si tu pouvais me dire

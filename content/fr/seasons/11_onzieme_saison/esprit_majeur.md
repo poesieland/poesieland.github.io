@@ -1,12 +1,12 @@
 +++
 title = "Esprit majeur"
+id = "esprit_majeur_11"
 date = 1999-05-05
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "esprit_majeur_11"
-acrostiche = "Esprit majeur"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Esprit majeur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Epris de l'art, le bel canto

@@ -1,12 +1,12 @@
 +++
 title = "Je ne crois pas..."
+id = "je_ne_crois_pas_8"
 date = 1998-07-29
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "je_ne_crois_pas_8"
-acrostiche = "Je ne crois pas..."
-tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Apprentissage", "Amour malheureux"]
+tags = ["philosophie", "amour", "acrostiche"]
+acrostiche = "Je ne crois pas..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je ne crois pas dans le hasard,

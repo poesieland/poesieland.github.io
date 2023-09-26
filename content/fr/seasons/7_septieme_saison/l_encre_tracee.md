@@ -1,12 +1,12 @@
 +++
 title = "L'encre tracée"
+id = "l_encre_tracee_7"
 date = 1998-07-11
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "l_encre_tracee_7"
-acrostiche = "L'encre tracée"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "L'encre tracée"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'encre des mots s'étale

@@ -1,12 +1,12 @@
 +++
 title = "Au nom du cœur"
+id = "au_nom_du_cour_12"
 date = 1999-05-30
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "au_nom_du_cour_12"
-acrostiche = "Au nom du cœur"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Au nom du cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au nom du cœur je vous arrête :

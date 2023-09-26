@@ -1,12 +1,13 @@
 +++
 title = "L'amor è breve sogno"
+id = "l_amor_e_breve_sogno_7"
 date = 1998-07-05
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "l_amor_e_breve_sogno_7"
-acrostiche = "L'amor è breve sogno"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+info = 'D'après la chanson d'Emma Shapplin'
+acrostiche = "L'amor è breve sogno"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'amour est aussi bref qu'un songe,

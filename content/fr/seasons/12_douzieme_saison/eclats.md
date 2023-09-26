@@ -1,12 +1,12 @@
 +++
 title = "Eclats"
+id = "eclats_12"
 date = 1999-07-22
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "eclats_12"
-acrostiche = "Eclats"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Eclats"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Eclaté vers l'espace un Verbe galvaudé

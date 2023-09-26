@@ -1,13 +1,13 @@
 +++
 title = "Autant le dire"
+id = "autant_le_dire_4"
 date = 1997-08-03
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "autant_le_dire_4"
+categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
 acrostiche = "Autant le dire"
 verseLength = 8
-tags = ["amour", "acrostiche"]
-categories = ["Amour malheureux"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Aucun printemps n'est comme l'autre,

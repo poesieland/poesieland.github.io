@@ -1,12 +1,12 @@
 +++
 title = "Ces jours-là"
+id = "ces_jours_la_4"
 date = 1997-09-09
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "ces_jours_la_4"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Enfance"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand l'automne s'embrume

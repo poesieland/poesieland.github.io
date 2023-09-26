@@ -1,12 +1,12 @@
 +++
 title = "Un soir triste"
+id = "un_soir_triste_16"
 date = 2004-01-17
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "un_soir_triste_16"
-acrostiche = "Un soir triste"
-tags = ["philosophie", "ombres et lumières", "ombres et lumières", "acrostiche"]
 categories = ["Temps", "Nuit", "Ville"]
+tags = ["philosophie", "ombres et lumières", "ombres et lumières", "acrostiche"]
+acrostiche = "Un soir triste"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un chat miaulait, lointain, gourmandé par son maître,

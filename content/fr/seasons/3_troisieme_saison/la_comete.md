@@ -1,12 +1,12 @@
 +++
 title = "La Comète"
+id = "la_comete_3"
 date = 1997-04-01
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "la_comete_3"
-verseLength = 6
-tags = ["ombres et lumières"]
 categories = ["Nuit"]
+tags = ["ombres et lumières"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tournoyer dans le ciel

@@ -1,11 +1,11 @@
 +++
 title = "Champ passé"
+id = "champ_passe_14"
 date = 2000-08-06
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "champ_passe_14"
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne arrivera plus tard

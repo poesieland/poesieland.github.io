@@ -1,12 +1,12 @@
 +++
 title = "Passé vibrant"
+id = "passe_vibrant_2"
 date = 1996-10-07
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "passe_vibrant_2"
-verseLength = 6
-tags = ["amour"]
 categories = ["Amitié"]
+tags = ["amour"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme un pèlerinage

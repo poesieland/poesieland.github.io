@@ -1,12 +1,12 @@
 +++
 title = "Illusion"
+id = "illusion_1"
 date = 1995-10-01
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "illusion_1"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'ennui ronge nos âmes,

@@ -1,12 +1,13 @@
 +++
 title = "La Femme"
+id = "la_femme_1"
 date = 1994-01-01
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "la_femme_1"
-verseLength = 6
-tags = ["amour", "philosophie"]
 categories = ["Femme", "Portraits"]
+tags = ["amour", "philosophie"]
+info = 'Reprise en 1995/1996 d'un poème de 1994'
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un bel accord tacite

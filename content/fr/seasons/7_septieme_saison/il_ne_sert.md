@@ -1,12 +1,12 @@
 +++
 title = "Il ne sert"
+id = "il_ne_sert_7"
 date = 1998-06-21
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "il_ne_sert_7"
-acrostiche = "Il ne sert"
-tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Il ne sert"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il ne sert à rien de rêver

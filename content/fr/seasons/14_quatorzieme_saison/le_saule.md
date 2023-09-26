@@ -1,11 +1,12 @@
 +++
 title = "Le saule"
+id = "le_saule_14"
 date = 2001-02-03
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "le_saule_14"
-tags = ["philosophie", "nature", "pantoum"]
 categories = ["Etre", "Flore"]
+tags = ["philosophie", "nature", "pantoum"]
+type = "pantoum"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Belle, a-t-elle donné son âme,

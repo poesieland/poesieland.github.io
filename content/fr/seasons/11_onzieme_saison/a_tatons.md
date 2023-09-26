@@ -1,12 +1,12 @@
 +++
 title = "A tâtons"
+id = "a_tatons_11"
 date = 1999-04-20
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "a_tatons_11"
-acrostiche = "A tâtons"
-tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Toucher", "Musique, chant", "Romantisme"]
+tags = ["attitudes", "amour", "acrostiche"]
+acrostiche = "A tâtons"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A tâtons ta main m'éveille

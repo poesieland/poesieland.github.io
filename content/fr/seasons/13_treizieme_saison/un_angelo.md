@@ -1,12 +1,12 @@
 +++
 title = "Un angelo"
+id = "un_angelo_13"
 date = 1999-09-21
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "un_angelo_13"
-acrostiche = "Un angelo"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Un angelo"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un ange est apparu,

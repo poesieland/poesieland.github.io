@@ -1,12 +1,12 @@
 +++
 title = "Méditation"
+id = "meditation_15"
 date = 2001-04-30
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "meditation_15"
-acrostiche = "Méditation"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Méditation"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Molles ailes, violons

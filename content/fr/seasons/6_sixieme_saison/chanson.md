@@ -1,11 +1,11 @@
 +++
 title = "Chanson"
+id = "chanson_6"
 date = 1998-05-27
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "chanson_6"
-tags = ["attitudes"]
 categories = ["Musique, chant"]
+tags = ["attitudes"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Jubilé d'immense clameur

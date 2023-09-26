@@ -1,12 +1,12 @@
 +++
 title = "Au-delà"
+id = "au_dela_9"
 date = 1998-11-06
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "au_dela_9"
-acrostiche = "Mourir c'est beau"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mourir c'est beau"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mourir, c'est comme vivre et traverser l'espace

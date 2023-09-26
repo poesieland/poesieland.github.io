@@ -1,12 +1,12 @@
 +++
 title = "Par toi"
+id = "par_toi_15"
 date = 2001-09-24
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "par_toi_15"
-acrostiche = "Par toi"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Aube", "Espoir"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Par toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Poussé par l'au-delà, le bonheur papillon

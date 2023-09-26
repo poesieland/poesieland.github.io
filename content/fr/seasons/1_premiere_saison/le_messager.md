@@ -1,12 +1,12 @@
 +++
 title = "Le messager"
+id = "le_messager_1"
 date = 1995-04-02
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "le_messager_1"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le cœur et l'esprit libre,

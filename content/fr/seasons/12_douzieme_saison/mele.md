@@ -1,12 +1,12 @@
 +++
 title = "Mêlé"
+id = "mele_12"
 date = 1999-06-14
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "mele_12"
-acrostiche = "Mêlé"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Mêlé"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mêler le chant du violon

@@ -1,11 +1,11 @@
 +++
 title = "Elément"
+id = "element_14"
 date = 2000-05-14
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "element_14"
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand dix mille ans plus tard

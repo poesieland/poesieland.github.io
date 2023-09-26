@@ -1,12 +1,12 @@
 +++
 title = "Genèse"
+id = "genese_9"
 date = 1998-11-11
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "genese_9"
-acrostiche = "Ailleurs, sérénité"
-tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Création"]
+tags = ["philosophie", "philosophie", "acrostiche"]
+acrostiche = "Ailleurs, sérénité"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ailleurs sans lumière ni mots,

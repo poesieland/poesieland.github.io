@@ -1,12 +1,12 @@
 +++
 title = "Le fleuve"
+id = "le_fleuve_9"
 date = 1998-09-28
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "le_fleuve_9"
-acrostiche = "A la recherche"
-tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Création", "Eau douce"]
+tags = ["philosophie", "nature", "acrostiche"]
+acrostiche = "A la recherche"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A la recherche d'un sourire

@@ -1,12 +1,12 @@
 +++
 title = "Portrait"
+id = "portrait_3"
 date = 1997-03-12
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "portrait_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans ton sourire les montagnes

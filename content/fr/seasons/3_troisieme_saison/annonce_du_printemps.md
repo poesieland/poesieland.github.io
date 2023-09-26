@@ -1,12 +1,12 @@
 +++
 title = "Annonce du printemps"
+id = "annonce_du_printemps_3"
 date = 1997-01-21
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "annonce_du_printemps_3"
-verseLength = 6
-tags = ["saisons"]
 categories = ["Printemps"]
+tags = ["saisons"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Friselis printaniers

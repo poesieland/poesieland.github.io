@@ -1,11 +1,11 @@
 +++
 title = "Tu m'as appris"
+id = "tu_m_as_appris_6"
 date = 1998-05-12
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "tu_m_as_appris_6"
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu m'as appris à déchiffrer

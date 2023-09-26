@@ -1,12 +1,12 @@
 +++
 title = "Images"
+id = "images_11"
 date = 1999-04-26
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "images_11"
-acrostiche = "Images"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Images"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Image reflétée au-delà du tempo

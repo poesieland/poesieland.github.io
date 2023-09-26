@@ -1,12 +1,12 @@
 +++
 title = "Je me languis de toi"
+id = "je_me_languis_de_toi_16"
 date = 2003-02-01
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "je_me_languis_de_toi_16"
-acrostiche = "Je me languis de toi"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Je me languis de toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je n'ai l'idée, aimé, que de languir,

@@ -1,12 +1,12 @@
 +++
 title = "Amour de vacances"
+id = "amour_de_vacances_1"
 date = 1996-08-21
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "amour_de_vacances_1"
-verseLength = 12
-tags = ["amour"]
 categories = ["Femme"]
+tags = ["amour"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Et l'amour et l'amante, un instant confondus

@@ -1,12 +1,12 @@
 +++
 title = "L'ivresse douce"
+id = "l_ivresse_douce_4"
 date = 1997-09-04
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "l_ivresse_douce_4"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Fléchissement d'essence

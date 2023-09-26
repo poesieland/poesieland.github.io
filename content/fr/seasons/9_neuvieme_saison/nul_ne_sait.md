@@ -1,12 +1,13 @@
 +++
 title = "Nul ne sait"
+id = "nul_ne_sait_9"
 date = 1998-10-02
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "nul_ne_sait_9"
-acrostiche = "Non lo nessun saprà"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+info = '"Nul ne le saura" en italien.'
+acrostiche = "Non lo nessun saprà"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nul ne sait ce qu'il aime

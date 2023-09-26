@@ -1,12 +1,12 @@
 +++
 title = "Va in pace"
+id = "va_in_pace_12"
 date = 1999-06-26
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "va_in_pace_12"
-acrostiche = "Va in pace"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Va in pace"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Va, quand vers le silence

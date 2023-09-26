@@ -1,12 +1,13 @@
 +++
 title = "Non amor più"
+id = "non_amor_piu_13"
 date = 1999-08-24
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "non_amor_piu_13"
-acrostiche = "Non amor più"
-tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Temps", "Flore"]
+tags = ["philosophie", "nature", "acrostiche"]
+info = '"Plus d'amour" en italien.'
+acrostiche = "Non amor più"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ne cherche pas ce qui te manque:

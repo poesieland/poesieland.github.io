@@ -1,12 +1,12 @@
 +++
 title = "Parole"
+id = "parole_3"
 date = 1997-01-31
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "parole_3"
-verseLength = 4
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lueurs fantômes,

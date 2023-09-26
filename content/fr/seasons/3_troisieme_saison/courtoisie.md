@@ -1,12 +1,12 @@
 +++
 title = "Courtoisie"
+id = "courtoisie_3"
 date = 1997-02-24
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "courtoisie_3"
-verseLength = 6
-tags = ["amour"]
 categories = ["Femme"]
+tags = ["amour"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le présent seul à vous

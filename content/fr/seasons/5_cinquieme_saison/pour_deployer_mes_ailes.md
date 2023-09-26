@@ -1,13 +1,13 @@
 +++
 title = "Pour déployer mes ailes"
+id = "pour_deployer_mes_ailes_5"
 date = 1997-12-28
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "pour_deployer_mes_ailes_5"
+categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Pour déployer mes ailes"
 verseLength = 6
-tags = ["philosophie", "acrostiche"]
-categories = ["Apprentissage"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pour déployer mes ailes,

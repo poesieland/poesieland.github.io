@@ -1,12 +1,12 @@
 +++
 title = "Sur un air"
+id = "sur_un_air_8"
 date = 1998-07-20
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "sur_un_air_8"
-acrostiche = "Sur un air"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Sur un air"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur un air bleu, sur un air blanc

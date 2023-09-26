@@ -1,12 +1,12 @@
 +++
 title = "On retourne"
+id = "on_retourne_12"
 date = 1999-05-26
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "on_retourne_12"
-acrostiche = "On retourne"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "On retourne"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On revient sans vouloir, et pourtant, et toujours,

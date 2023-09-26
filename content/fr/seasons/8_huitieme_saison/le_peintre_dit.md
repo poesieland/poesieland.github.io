@@ -1,12 +1,12 @@
 +++
 title = "Le peintre dit..."
+id = "le_peintre_dit_8"
 date = 1998-08-14
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "le_peintre_dit_8"
-acrostiche = "Le peintre dit..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le peintre dit..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le peintre dit : tout l'univers

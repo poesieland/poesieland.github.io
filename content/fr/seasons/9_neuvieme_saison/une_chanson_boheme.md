@@ -1,12 +1,12 @@
 +++
 title = "Une chanson bohème"
+id = "une_chanson_boheme_9"
 date = 1998-09-30
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "une_chanson_boheme_9"
-acrostiche = "Une chanson bohème"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Une chanson bohème"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une idée en mon cœur

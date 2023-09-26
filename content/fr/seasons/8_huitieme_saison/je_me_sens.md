@@ -1,12 +1,12 @@
 +++
 title = "Je me sens"
+id = "je_me_sens_8"
 date = 1998-07-21
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "je_me_sens_8"
-acrostiche = "Je me sens"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Je me sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je me sens vive, me sens pâle

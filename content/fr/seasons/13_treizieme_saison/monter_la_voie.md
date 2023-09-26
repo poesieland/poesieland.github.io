@@ -1,12 +1,12 @@
 +++
 title = "Monter la voie"
+id = "monter_la_voie_13"
 date = 1999-08-29
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "monter_la_voie_13"
-acrostiche = "Monter la voie"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Monter la voie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Monter plus haut que l'âme

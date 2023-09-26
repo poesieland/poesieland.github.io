@@ -1,12 +1,12 @@
 +++
 title = "Lune joue"
+id = "lune_joue_15"
 date = 2001-10-02
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "lune_joue_15"
-acrostiche = "Lune joue"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
+tags = ["ombres et lumières", "acrostiche"]
+acrostiche = "Lune joue"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lune au ciel crénelé,

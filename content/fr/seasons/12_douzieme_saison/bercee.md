@@ -1,12 +1,12 @@
 +++
 title = "Bercée"
+id = "bercee_12"
 date = 1999-06-12
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "bercee_12"
-acrostiche = "Bercée"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Nuit"]
+tags = ["ombres et lumières", "acrostiche"]
+acrostiche = "Bercée"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Brisé, le reflet de cette lune blanche

@@ -1,12 +1,13 @@
 +++
 title = "Plénitude"
+id = "plenitude_1"
 date = 1994-01-01
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "plenitude_1"
-verseLength = 12
-tags = ["attitudes"]
 categories = ["Musique, chant"]
+tags = ["attitudes"]
+info = 'Reprise en 1995/1996 d'un poème de 1994'
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Douce flûte de Pan, notre âme s'abandonne

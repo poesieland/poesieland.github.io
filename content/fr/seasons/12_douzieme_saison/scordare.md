@@ -1,12 +1,13 @@
 +++
 title = "Scordare..."
+id = "scordare_12"
 date = 1999-06-06
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "scordare_12"
-acrostiche = "Scordare..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+info = '"Oublier", en italien.'
+acrostiche = "Scordare..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sans souvenir, le temps

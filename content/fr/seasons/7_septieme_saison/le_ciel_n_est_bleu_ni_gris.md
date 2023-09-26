@@ -1,12 +1,12 @@
 +++
 title = "Le ciel n'est bleu ni gris..."
+id = "le_ciel_n_est_bleu_ni_gris_7"
 date = 1998-07-05
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "le_ciel_n_est_bleu_ni_gris_7"
-acrostiche = "Le ciel n'est bleu ni gris..."
-tags = ["philosophie", "ombres et lumières", "nature", "acrostiche"]
 categories = ["Création", "Lune", "Ciel"]
+tags = ["philosophie", "ombres et lumières", "nature", "acrostiche"]
+acrostiche = "Le ciel n'est bleu ni gris..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel n'est bleu ni gris, il n'a pas su choisir

@@ -1,11 +1,11 @@
 +++
 title = "Un au revoir"
+id = "un_au_revoir_16"
 date = 2004-04-26
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "un_au_revoir_16"
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Ville", "Temps"]
+tags = ["ombres et lumières", "philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Douceur du soir, Paris tu

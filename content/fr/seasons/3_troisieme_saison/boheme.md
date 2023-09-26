@@ -1,12 +1,12 @@
 +++
 title = "Bohème"
+id = "boheme_3"
 date = 1997-02-21
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "boheme_3"
-verseLength = 2
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 2
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au gré

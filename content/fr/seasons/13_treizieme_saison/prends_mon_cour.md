@@ -1,12 +1,12 @@
 +++
 title = "Prends mon cœur"
+id = "prends_mon_cour_13"
 date = 1999-09-11
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "prends_mon_cour_13"
-acrostiche = "Prends mon cœur"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Prends mon cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Prends mon cœur dans le tien, prends mon cœur dans ta main,

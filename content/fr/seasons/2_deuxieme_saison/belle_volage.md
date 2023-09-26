@@ -1,12 +1,12 @@
 +++
 title = "Belle volage"
+id = "belle_volage_2"
 date = 1996-09-05
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "belle_volage_2"
-verseLength = 12
-tags = ["amour"]
 categories = ["Femme"]
+tags = ["amour"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Que j'ai de l'embrasser la formidable envie,

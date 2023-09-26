@@ -1,12 +1,13 @@
 +++
 title = "Eclipse"
+id = "eclipse_2"
 date = 1996-10-12
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "eclipse_2"
-verseLength = 12
-tags = ["ombres et lumières", "sonnet"]
 categories = ["Lune"]
+tags = ["ombres et lumières", "sonnet"]
+type = "sonnet"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En fragment souverain, petit morceau de gypse

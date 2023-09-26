@@ -1,12 +1,12 @@
 +++
 title = "L'orage du cœur"
+id = "l_orage_du_cour_5"
 date = 1998-01-04
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "l_orage_du_cour_5"
-verseLength = 12
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mais ce que j'attendais, c'est l'orage du cœur

@@ -1,12 +1,12 @@
 +++
 title = "La goutte d'eau"
+id = "la_goutte_d_eau_1"
 date = 1996-06-10
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "la_goutte_d_eau_1"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Enfance"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je pensais qu'était passé l'âge

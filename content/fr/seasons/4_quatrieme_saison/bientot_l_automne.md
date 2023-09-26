@@ -1,12 +1,12 @@
 +++
 title = "Bientôt l'automne"
+id = "bientot_l_automne_4"
 date = 1997-08-20
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "bientot_l_automne_4"
-verseLength = 8
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 C'est dans mon cœur bientôt l'automne :

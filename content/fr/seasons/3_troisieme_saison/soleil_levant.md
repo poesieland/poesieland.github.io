@@ -1,12 +1,12 @@
 +++
 title = "Soleil levant"
+id = "soleil_levant_3"
 date = 1997-02-07
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "soleil_levant_3"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Aube"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans la longue rumeur de ville

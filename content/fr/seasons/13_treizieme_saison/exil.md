@@ -1,12 +1,12 @@
 +++
 title = "Exil"
+id = "exil_13"
 date = 1999-08-27
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "exil_13"
-acrostiche = "Core 'ngrato"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Core 'ngrato"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 ... Car il n'est de soleil pour bercer la cité;

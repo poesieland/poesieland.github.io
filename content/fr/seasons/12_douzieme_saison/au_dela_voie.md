@@ -1,12 +1,12 @@
 +++
 title = "Au-delà : voie"
+id = "au_dela_voie_12"
 date = 1999-06-19
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "au_dela_voie_12"
-acrostiche = "Au-delà : voie"
-tags = ["philosophie", "ombres et lumières", "acrostiche"]
 categories = ["Etre", "Nuit"]
+tags = ["philosophie", "ombres et lumières", "acrostiche"]
+acrostiche = "Au-delà : voie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au-delà de toutes les nuits le temps de l'existence

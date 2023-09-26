@@ -1,12 +1,12 @@
 +++
 title = "Ville de mes amours"
+id = "ville_de_mes_amours_1"
 date = 1996-06-13
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "ville_de_mes_amours_1"
-verseLength = 8
-tags = ["amour", "ombres et lumières"]
 categories = ["Amour malheureux", "Ville"]
+tags = ["amour", "ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Spectateur infini du monde de la ville

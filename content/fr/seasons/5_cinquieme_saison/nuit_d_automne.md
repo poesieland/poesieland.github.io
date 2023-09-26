@@ -1,11 +1,11 @@
 +++
 title = "Nuit d'automne"
+id = "nuit_d_automne_5"
 date = 1997-11-02
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "nuit_d_automne_5"
-tags = ["ombres et lumières"]
 categories = ["Nuit"]
+tags = ["ombres et lumières"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Clarté pâle d'étoiles

@@ -1,11 +1,11 @@
 +++
 title = "Fragilité"
+id = "fragilite_10"
 date = 1999-03-24
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "fragilite_10"
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'espérance est si fragile

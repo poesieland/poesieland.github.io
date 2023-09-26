@@ -1,12 +1,12 @@
 +++
 title = "Retrouvailles"
+id = "retrouvailles_1"
 date = 1996-06-29
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "retrouvailles_1"
-verseLength = 8
-tags = ["amour"]
 categories = ["Amitié"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il pleut dans mon cœur et sur terre

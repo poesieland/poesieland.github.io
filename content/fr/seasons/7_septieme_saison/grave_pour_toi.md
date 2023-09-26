@@ -1,12 +1,12 @@
 +++
 title = "Gravé pour toi"
+id = "grave_pour_toi_7"
 date = 1998-07-13
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "grave_pour_toi_7"
-acrostiche = "Gravé pour toi"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Gravé pour toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Gravé pour toi, pour toujours dans mes veines,

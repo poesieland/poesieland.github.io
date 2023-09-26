@@ -1,12 +1,13 @@
 +++
 title = "Giardino dei sogni"
+id = "giardino_dei_sogni_13"
 date = 1999-09-04
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "giardino_dei_sogni_13"
-doubleAcrostiche = "giardino | dei sogni"
-tags = ["nature", "philosophie", "saisons"]
 categories = ["Jardin, paysage", "Temps", "Automne"]
+tags = ["nature", "philosophie", "saisons", "doubleAcrostiche"]
+info = '"Jardin des songes" en italien.'
+doubleAcrostiche = "giardino | dei sogni"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Grisé du temps par l'ombre de septembre

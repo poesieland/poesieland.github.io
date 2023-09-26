@@ -1,12 +1,12 @@
 +++
 title = "Matin de printemps"
+id = "matin_de_printemps_3"
 date = 1997-01-27
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "matin_de_printemps_3"
-verseLength = 8
-tags = ["saisons"]
 categories = ["Printemps"]
+tags = ["saisons"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme un oiseau sur une branche,

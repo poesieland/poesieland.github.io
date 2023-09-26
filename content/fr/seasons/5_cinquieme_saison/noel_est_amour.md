@@ -1,13 +1,13 @@
 +++
 title = "Noël est amour"
+id = "noel_est_amour_5"
 date = 1997-12-11
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "noel_est_amour_5"
+categories = ["Amitié", "Hiver"]
+tags = ["amour", "saisons", "acrostiche"]
 acrostiche = "Noël est amour"
 verseLength = 8
-tags = ["amour", "saisons", "acrostiche"]
-categories = ["Amitié", "Hiver"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nativité, l'espoir du monde

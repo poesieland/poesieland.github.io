@@ -1,12 +1,13 @@
 +++
 title = "Sol' nuovo"
+id = "sol_nuovo_13"
 date = 1999-09-08
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "sol_nuovo_13"
-acrostiche = "Sol' nuovo"
-tags = ["nature", "acrostiche"]
 categories = ["Mer"]
+tags = ["nature", "acrostiche"]
+info = '"Soleil nouveau" en italien.'
+acrostiche = "Sol' nuovo"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur un inconnu rivage

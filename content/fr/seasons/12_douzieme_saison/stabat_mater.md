@@ -1,12 +1,13 @@
 +++
 title = "Stabat Mater"
+id = "stabat_mater_12"
 date = 1999-07-02
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "stabat_mater_12"
-acrostiche = "Vera fede"
-tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Portraits"]
+tags = ["philosophie", "philosophie", "acrostiche"]
+info = '"Vera fede" : "Vraie foi" en italien.'
+acrostiche = "Vera fede"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vraie, en éclats transpercés par la grâce,

@@ -1,12 +1,12 @@
 +++
 title = "Sur la terre, là"
+id = "sur_la_terre_la_15"
 date = 2001-07-27
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "sur_la_terre_la_15"
-acrostiche = "Sur la terre, là"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Crépuscule", "Etre"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Sur la terre, là"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Suave, rose, au-delà des nuages

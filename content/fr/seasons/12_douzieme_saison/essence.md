@@ -1,12 +1,12 @@
 +++
 title = "Essence"
+id = "essence_12"
 date = 1999-07-09
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "essence_12"
-doubleAcrostiche = "A la place | un double"
-tags = ["philosophie", "attitudes"]
 categories = ["Etre", "Musique, chant"]
+tags = ["philosophie", "attitudes", "doubleAcrostiche"]
+doubleAcrostiche = "A la place | un double"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A la place du cœur une étoile immortelle :

@@ -1,12 +1,13 @@
 +++
 title = "Cœurs mortels"
+id = "cours_mortels_10"
 date = 1999-03-29
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "cours_mortels_10"
-acrostiche = "Quando il giorno sarà nostro"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = '"Quando il giorno sarà nostro" : "Quand le jour sera nôtre" en italien.'
+acrostiche = "Quando il giorno sarà nostro"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand le soleil se lèvera

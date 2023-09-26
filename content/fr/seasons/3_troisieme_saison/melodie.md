@@ -1,12 +1,12 @@
 +++
 title = "Mélodie"
+id = "melodie_3"
 date = 1997-04-05
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "melodie_3"
-verseLength = 5
-tags = ["attitudes"]
 categories = ["Musique, chant"]
+tags = ["attitudes"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'âme s'illumine :

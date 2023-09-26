@@ -1,12 +1,12 @@
 +++
 title = "Harmonie"
+id = "harmonie_11"
 date = 1999-04-29
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "harmonie_11"
-acrostiche = "Harmonie"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Création"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Harmonie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Hanté d'un souffle pur le chant qui s'abandonne

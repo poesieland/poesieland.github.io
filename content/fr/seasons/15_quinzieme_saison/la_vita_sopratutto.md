@@ -1,12 +1,13 @@
 +++
 title = "La vita sopratutto"
+id = "la_vita_sopratutto_15"
 date = 2001-10-08
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "la_vita_sopratutto_15"
-acrostiche = "La vita sopratutto"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+info = '"La vie par-dessus tout" en italien.'
+acrostiche = "La vita sopratutto"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La vie, accord en adagio

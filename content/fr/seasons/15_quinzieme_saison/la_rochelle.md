@@ -1,11 +1,11 @@
 +++
 title = "La Rochelle"
+id = "la_rochelle_15"
 date = 2001-06-23
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "la_rochelle_15"
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Ville", "Portraits"]
+tags = ["ombres et lumières", "philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La cité m'interpelle:

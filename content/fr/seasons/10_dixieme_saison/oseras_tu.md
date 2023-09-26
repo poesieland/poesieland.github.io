@@ -1,12 +1,12 @@
 +++
 title = "Oseras-tu ?"
+id = "oseras_tu_10"
 date = 1999-01-30
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "oseras_tu_10"
-acrostiche = "Oseras-tu ?"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Oseras-tu ?"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Oseras-tu dire au monde qui pleure

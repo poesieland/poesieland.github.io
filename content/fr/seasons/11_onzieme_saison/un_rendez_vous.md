@@ -1,12 +1,12 @@
 +++
 title = "Un rendez-vous"
+id = "un_rendez_vous_11"
 date = 1999-05-21
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "un_rendez_vous_11"
-acrostiche = "Un rendez-vous"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Un rendez-vous"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une étoile sur la veste

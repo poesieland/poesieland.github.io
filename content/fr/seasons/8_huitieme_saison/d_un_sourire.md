@@ -1,12 +1,12 @@
 +++
 title = "D'un sourire"
+id = "d_un_sourire_8"
 date = 1998-07-28
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "d_un_sourire_8"
-acrostiche = "D'un sourire"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "D'un sourire"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 D'un sourire tu m'as séduite,

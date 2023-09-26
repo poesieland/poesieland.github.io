@@ -1,12 +1,12 @@
 +++
 title = "Dans les notes"
+id = "dans_les_notes_15"
 date = 2001-10-10
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "dans_les_notes_15"
-acrostiche = "Dans les notes"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Dans les notes"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Devenir voix, abîme au corps

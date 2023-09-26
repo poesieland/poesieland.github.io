@@ -1,12 +1,12 @@
 +++
 title = "Danse"
+id = "danse_11"
 date = 1999-05-10
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "danse_11"
-acrostiche = "Jour joli"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Jour joli"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Jetée au vent la voix s'envole

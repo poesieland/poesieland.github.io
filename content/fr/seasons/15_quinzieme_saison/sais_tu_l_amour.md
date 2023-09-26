@@ -1,12 +1,12 @@
 +++
 title = "Sais-tu l'amour..."
+id = "sais_tu_l_amour_15"
 date = 2001-09-07
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "sais_tu_l_amour_15"
-acrostiche = "Sais-tu l'amour..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Sais-tu l'amour..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sais-tu si tous ces nuages

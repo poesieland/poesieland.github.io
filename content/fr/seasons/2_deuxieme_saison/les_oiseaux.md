@@ -1,12 +1,12 @@
 +++
 title = "Les Oiseaux"
+id = "les_oiseaux_2"
 date = 1996-12-09
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "les_oiseaux_2"
-verseLength = 8
-tags = ["nature"]
 categories = ["Animaux"]
+tags = ["nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les oiseaux ont toujours deux ailes

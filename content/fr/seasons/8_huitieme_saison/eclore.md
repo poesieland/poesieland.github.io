@@ -1,12 +1,12 @@
 +++
 title = "Eclore"
+id = "eclore_8"
 date = 1998-09-16
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "eclore_8"
-acrostiche = "Eclora toi"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Eclora toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Eclore à l'ombre de fragrance

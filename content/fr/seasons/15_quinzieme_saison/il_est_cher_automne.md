@@ -1,12 +1,12 @@
 +++
 title = "Il est cher, automne"
+id = "il_est_cher_automne_15"
 date = 2001-09-08
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "il_est_cher_automne_15"
-acrostiche = "Il est cher, automne"
-tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
+tags = ["saisons", "acrostiche"]
+acrostiche = "Il est cher, automne"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il pleut, tout doux, et c'est déjà l'automne,

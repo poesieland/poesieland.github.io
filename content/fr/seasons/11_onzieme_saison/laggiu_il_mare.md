@@ -1,12 +1,13 @@
 +++
 title = "Laggiù il mare"
+id = "laggiu_il_mare_11"
 date = 1999-04-18
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "laggiu_il_mare_11"
-acrostiche = "Laggiù il mare"
-tags = ["nature", "acrostiche"]
 categories = ["Mer"]
+tags = ["nature", "acrostiche"]
+info = '"Là-bas la mer" en italien.'
+acrostiche = "Laggiù il mare"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La pluie est tombée en tocsin

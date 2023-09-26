@@ -1,12 +1,12 @@
 +++
 title = "Le brouillard"
+id = "le_brouillard_13"
 date = 1999-08-04
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "le_brouillard_13"
-acrostiche = "Le brouillard"
-tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
+tags = ["nature", "acrostiche"]
+acrostiche = "Le brouillard"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le goût du brouillard

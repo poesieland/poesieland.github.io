@@ -1,12 +1,12 @@
 +++
 title = "Silence : chant"
+id = "silence_chant_9"
 date = 1998-11-13
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "silence_chant_9"
-acrostiche = "Silence : chant"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Silence : chant"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Si lent, ce mouvement

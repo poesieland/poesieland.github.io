@@ -1,11 +1,11 @@
 +++
 title = "Vision"
+id = "vision_14"
 date = 2000-09-14
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "vision_14"
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune bleue en son ciel blanc,

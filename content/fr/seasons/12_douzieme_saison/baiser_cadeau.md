@@ -1,12 +1,12 @@
 +++
 title = "Baiser, cadeau"
+id = "baiser_cadeau_12"
 date = 1999-06-06
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "baiser_cadeau_12"
-acrostiche = "Baiser, cadeau"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Romantisme", "Toucher"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Baiser, cadeau"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Brillant sur mes lèvres,

@@ -1,12 +1,12 @@
 +++
 title = "Esclaves des mots"
+id = "esclaves_des_mots_5"
 date = 1997-10-06
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "esclaves_des_mots_5"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Te souviens-tu de ce poème

@@ -1,12 +1,12 @@
 +++
 title = "Rêve bleu"
+id = "reve_bleu_10"
 date = 1999-02-26
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "reve_bleu_10"
-acrostiche = "Rêve bleu"
-tags = ["nature", "acrostiche"]
 categories = ["Ciel", "Mer"]
+tags = ["nature", "acrostiche"]
+acrostiche = "Rêve bleu"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Rêve bleu : le ciel se confond,

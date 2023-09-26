@@ -1,12 +1,13 @@
 +++
 title = "Douce chatte"
+id = "douce_chatte_1"
 date = 1996-08-05
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "douce_chatte_1"
-verseLength = 12
-tags = ["nature"]
 categories = ["Animaux"]
+tags = ["nature"]
+info = 'La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella'
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ton nom vient de Sicile en ton poil doux et noir,

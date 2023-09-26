@@ -1,13 +1,13 @@
 +++
 title = "La fièvre de t'aimer"
+id = "la_fievre_de_t_aimer_5"
 date = 1997-12-25
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "la_fievre_de_t_aimer_5"
+categories = ["Femme"]
+tags = ["amour", "acrostiche"]
 acrostiche = "La fièvre de t'aimer"
 verseLength = 6
-tags = ["amour", "acrostiche"]
-categories = ["Femme"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La fièvre de t'aimer,

@@ -1,12 +1,12 @@
 +++
 title = "Amitié"
+id = "amitie_2"
 date = 1996-12-13
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "amitie_2"
-verseLength = 4
-tags = ["amour"]
 categories = ["Amitié"]
+tags = ["amour"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme une étoile

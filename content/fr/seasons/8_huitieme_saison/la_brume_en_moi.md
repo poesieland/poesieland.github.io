@@ -1,12 +1,12 @@
 +++
 title = "La brume en moi"
+id = "la_brume_en_moi_8"
 date = 1998-08-31
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "la_brume_en_moi_8"
-acrostiche = "La brume en moi"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "La brume en moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La folle brume

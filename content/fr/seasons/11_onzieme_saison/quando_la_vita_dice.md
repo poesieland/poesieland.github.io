@@ -1,12 +1,13 @@
 +++
 title = "Quando la vita dice"
+id = "quando_la_vita_dice_11"
 date = 1999-03-30
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "quando_la_vita_dice_11"
-acrostiche = "Quando la vita dice"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir", "Temps"]
+tags = ["philosophie", "acrostiche"]
+info = '"Quand la vie dit..." en italien.'
+acrostiche = "Quando la vita dice"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand tu devins universel,

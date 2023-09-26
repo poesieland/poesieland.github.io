@@ -1,13 +1,13 @@
 +++
 title = "Una spina nel cuore"
+id = "una_spina_nel_cuore_5"
 date = 1998-01-21
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "una_spina_nel_cuore_5"
+categories = ["Amour malheureux", "Flore"]
+tags = ["amour", "nature", "acrostiche"]
 acrostiche = "Una spina nel cuore"
 verseLength = 7
-tags = ["amour", "nature", "acrostiche"]
-categories = ["Amour malheureux", "Flore"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une épine dans le cœur

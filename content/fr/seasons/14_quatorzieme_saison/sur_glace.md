@@ -1,12 +1,12 @@
 +++
 title = "Sur glace"
+id = "sur_glace_14"
 date = 2001-03-24
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "sur_glace_14"
-acrostiche = "Sur glace"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Sur glace"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Souples, les corps dansent au lac

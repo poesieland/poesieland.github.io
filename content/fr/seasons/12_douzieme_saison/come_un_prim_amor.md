@@ -1,12 +1,13 @@
 +++
 title = "Come un prim'amor"
+id = "come_un_prim_amor_12"
 date = 1999-06-30
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "come_un_prim_amor_12"
-acrostiche = "Come un prim'amor"
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+info = '"Comme un premier amour" en italien.'
+acrostiche = "Come un prim'amor"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ce fut comme un amour

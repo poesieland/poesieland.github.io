@@ -1,12 +1,12 @@
 +++
 title = "Le masque"
+id = "le_masque_9"
 date = 1998-10-24
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "le_masque_9"
-acrostiche = "Le masque"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Le masque"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le masque au doux mystère offrait votre visage,

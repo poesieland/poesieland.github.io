@@ -1,12 +1,13 @@
 +++
 title = "Je ne sais rien"
+id = "je_ne_sais_rien_13"
 date = 1999-08-24
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "je_ne_sais_rien_13"
-acrostiche = "Je ne sais rien"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+info = 'Un jeu de mot suggère "memoriam éveil".'
+acrostiche = "Je ne sais rien"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai reconnu ta voix et mon cœur n'a battu

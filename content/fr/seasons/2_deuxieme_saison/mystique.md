@@ -1,12 +1,12 @@
 +++
 title = "Mystique"
+id = "mystique_2"
 date = 1996-12-20
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "mystique_2"
-verseLength = 12
-tags = ["nature", "ombres et lumières"]
 categories = ["Mer", "Crépuscule"]
+tags = ["nature", "ombres et lumières"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je suis comme un oiseau le temps d'une prière,

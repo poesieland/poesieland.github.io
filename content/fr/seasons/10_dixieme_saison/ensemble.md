@@ -1,12 +1,12 @@
 +++
 title = "Ensemble"
+id = "ensemble_10"
 date = 1999-03-07
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "ensemble_10"
-acrostiche = "Ensemble"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Romantisme", "Musique, chant"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Ensemble"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Etre avec toi, tout près...

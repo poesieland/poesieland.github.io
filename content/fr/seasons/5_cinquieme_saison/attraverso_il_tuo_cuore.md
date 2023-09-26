@@ -1,13 +1,13 @@
 +++
 title = "Attraverso il tuo cuore"
+id = "attraverso_il_tuo_cuore_5"
 date = 1998-02-16
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "attraverso_il_tuo_cuore_5"
+categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Attraverso il tuo cuore"
 verseLength = 8
-tags = ["philosophie", "acrostiche"]
-categories = ["Espoir"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A travers ton cœur j'ai mené

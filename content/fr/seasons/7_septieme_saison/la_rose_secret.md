@@ -1,12 +1,12 @@
 +++
 title = "La rose : secret"
+id = "la_rose_secret_7"
 date = 1998-07-06
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "la_rose_secret_7"
-acrostiche = "La rose : secret"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Flore", "Création"]
+tags = ["nature", "philosophie", "acrostiche"]
+acrostiche = "La rose : secret"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La rose sur la table en pétales qui tremblent

@@ -1,12 +1,12 @@
 +++
 title = "Tu ne sais"
+id = "tu_ne_sais_12"
 date = 1999-06-14
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "tu_ne_sais_12"
-acrostiche = "Tu ne sais"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Etre"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Tu ne sais"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tressés sous la lune les mots

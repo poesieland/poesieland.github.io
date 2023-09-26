@@ -1,12 +1,12 @@
 +++
 title = "Liberté"
+id = "liberte_10"
 date = 1999-03-03
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "liberte_10"
-acrostiche = "A fleur"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "A fleur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A fleur de cœur l'ombre pétale,

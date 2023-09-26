@@ -1,12 +1,13 @@
 +++
 title = "J'avais l'heur de m'asseoir..."
+id = "j_avais_l_heur_de_m_asseoir_1"
 date = 1995-12-07
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "j_avais_l_heur_de_m_asseoir_1"
-verseLength = 12
-tags = ["amour", "sonnet"]
 categories = ["Femme"]
+tags = ["amour", "sonnet"]
+type = "sonnet"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'avais l'heur de m'asseoir auprès d'elle, en silence,

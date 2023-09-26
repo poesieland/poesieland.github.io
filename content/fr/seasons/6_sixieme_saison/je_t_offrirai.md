@@ -1,11 +1,11 @@
 +++
 title = "Je t'offrirai"
+id = "je_t_offrirai_6"
 date = 1998-05-26
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "je_t_offrirai_6"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je t'offrirai des roses,

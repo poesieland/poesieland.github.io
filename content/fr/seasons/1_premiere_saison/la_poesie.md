@@ -1,12 +1,12 @@
 +++
 title = "La Poésie"
+id = "la_poesie_1"
 date = 1996-02-06
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "la_poesie_1"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pourquoi chanter les vers ?

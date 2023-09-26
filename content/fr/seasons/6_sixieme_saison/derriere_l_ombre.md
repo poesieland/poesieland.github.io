@@ -1,12 +1,12 @@
 +++
 title = "Derrière l'ombre"
+id = "derriere_l_ombre_6"
 date = 1998-05-31
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "derriere_l_ombre_6"
-acrostiche = "Derrière l'ombre"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Derrière l'ombre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Derrière l'ombre claire

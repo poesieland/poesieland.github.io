@@ -1,12 +1,12 @@
 +++
 title = "A la mer, au ciel"
+id = "a_la_mer_au_ciel_7"
 date = 1998-07-10
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "a_la_mer_au_ciel_7"
-acrostiche = "A la mer, au ciel"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "A la mer, au ciel"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A la mer en musique insensée

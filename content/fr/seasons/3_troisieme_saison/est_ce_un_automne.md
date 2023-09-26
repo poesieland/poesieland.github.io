@@ -1,12 +1,12 @@
 +++
 title = "Est-ce un automne..."
+id = "est_ce_un_automne_3"
 date = 1997-04-27
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "est_ce_un_automne_3"
-verseLength = 8
-tags = ["saisons", "philosophie"]
 categories = ["Automne", "Temps"]
+tags = ["saisons", "philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Est-ce un automne, est-ce un printemps

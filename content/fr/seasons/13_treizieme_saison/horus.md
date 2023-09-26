@@ -1,12 +1,13 @@
 +++
 title = "Horus"
+id = "horus_13"
 date = 1999-10-13
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "horus_13"
-acrostiche = "L'amor e tu"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Animaux", "Flore", "Foi"]
+tags = ["nature", "philosophie", "acrostiche"]
+info = '"L'amour et toi", en portuguais, reprise du titre d'une chanson.'
+acrostiche = "L'amor e tu"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Là, tu ne sais pas encor,

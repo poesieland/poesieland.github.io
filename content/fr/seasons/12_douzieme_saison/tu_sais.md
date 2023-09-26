@@ -1,12 +1,12 @@
 +++
 title = "Tu sais"
+id = "tu_sais_12"
 date = 1999-06-09
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "tu_sais_12"
-acrostiche = "Tu sais"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Tu sais"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tous les mots que l'on pourrait dire

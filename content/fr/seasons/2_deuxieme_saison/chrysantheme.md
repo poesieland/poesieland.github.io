@@ -1,12 +1,12 @@
 +++
 title = "Chrysanthème"
+id = "chrysantheme_2"
 date = 1996-11-08
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "chrysantheme_2"
-verseLength = 12
-tags = ["saisons", "nature"]
 categories = ["Automne", "Flore"]
+tags = ["saisons", "nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Finissant, mon automne au cœur de chrysanthème

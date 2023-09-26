@@ -1,12 +1,12 @@
 +++
 title = "Saisons d'envies"
+id = "saisons_d_envies_3"
 date = 1997-03-21
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "saisons_d_envies_3"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une impression vive

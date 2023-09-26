@@ -1,12 +1,12 @@
 +++
 title = "Passion"
+id = "passion_2"
 date = 1996-11-06
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "passion_2"
-verseLength = 6
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 C'était comme un appel :

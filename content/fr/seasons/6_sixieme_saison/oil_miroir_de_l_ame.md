@@ -1,12 +1,12 @@
 +++
 title = "Œil miroir de l'âme"
+id = "oil_miroir_de_l_ame_6"
 date = 1998-05-17
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "oil_miroir_de_l_ame_6"
-acrostiche = "Œil miroir de l'âme"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Œil miroir de l'âme"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ouverts, fermés, quelle importance ?

@@ -1,12 +1,12 @@
 +++
 title = "Couleurs"
+id = "couleurs_2"
 date = 1996-09-01
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "couleurs_2"
-verseLength = 8
-tags = ["nature"]
 categories = ["Jardin, paysage"]
+tags = ["nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nuages bleus, nuages verts,

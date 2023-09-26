@@ -1,12 +1,12 @@
 +++
 title = "Si je prie"
+id = "si_je_prie_13"
 date = 1999-08-28
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "si_je_prie_13"
-acrostiche = "Si je prie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Si je prie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sans regretter ce qu'on ne fera plus,

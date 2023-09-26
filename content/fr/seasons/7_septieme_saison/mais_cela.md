@@ -1,12 +1,12 @@
 +++
 title = "Mais cela..."
+id = "mais_cela_7"
 date = 1998-07-08
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "mais_cela_7"
-acrostiche = "Mais cela..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mais cela..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mes yeux m'ont pardonné d'avoir vu tant des choses,

@@ -1,12 +1,12 @@
 +++
 title = "Aveu"
+id = "aveu_11"
 date = 1999-05-03
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "aveu_11"
-acrostiche = "Au détour"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Au détour"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au détour d'une phrase

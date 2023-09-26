@@ -1,12 +1,12 @@
 +++
 title = "L'air"
+id = "l_air_12"
 date = 1999-06-14
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "l_air_12"
-acrostiche = "L'air"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "L'air"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le violon sifflote en ses bras, dénudé,

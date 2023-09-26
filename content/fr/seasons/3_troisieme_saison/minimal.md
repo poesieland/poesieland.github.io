@@ -1,12 +1,12 @@
 +++
 title = "Minimal"
+id = "minimal_3"
 date = 1997-02-13
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "minimal_3"
-verseLength = 3
-tags = ["philosophie"]
 categories = ["Divers"]
+tags = ["philosophie"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nuit sans bords

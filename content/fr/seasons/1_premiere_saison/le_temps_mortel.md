@@ -1,12 +1,12 @@
 +++
 title = "Le Temps Mortel"
+id = "le_temps_mortel_1"
 date = 1996-02-11
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "le_temps_mortel_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sous la lame du temps, invincible bourreau,

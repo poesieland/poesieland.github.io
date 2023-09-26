@@ -1,12 +1,12 @@
 +++
 title = "En chaque être"
+id = "en_chaque_etre_9"
 date = 1998-10-30
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "en_chaque_etre_9"
-acrostiche = "En chaque être"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "En chaque être"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En chaque être une étoile,

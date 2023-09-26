@@ -1,12 +1,13 @@
 +++
 title = "Se bastasse la vita"
+id = "se_bastasse_la_vita_9"
 date = 1998-11-08
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "se_bastasse_la_vita_9"
-acrostiche = "Se bastasse la vita"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Etre"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+info = '"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.'
+acrostiche = "Se bastasse la vita"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 S'il suffisait d'une chanson,

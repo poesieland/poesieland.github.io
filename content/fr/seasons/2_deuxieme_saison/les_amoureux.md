@@ -1,12 +1,12 @@
 +++
 title = "Les Amoureux"
+id = "les_amoureux_2"
 date = 1996-11-07
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "les_amoureux_2"
-verseLength = 12
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vous êtes-vous livrés à ce jeu drolatique,

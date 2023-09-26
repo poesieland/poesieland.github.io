@@ -1,13 +1,13 @@
 +++
 title = "Sans rime ni raison"
+id = "sans_rime_ni_raison_5"
 date = 1997-12-24
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "sans_rime_ni_raison_5"
+categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Sans rime ni raison"
 verseLength = 6
-tags = ["philosophie", "acrostiche"]
-categories = ["Etre"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sans rime ni raison

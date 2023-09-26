@@ -1,13 +1,13 @@
 +++
 title = "Tout l'amour de mon cœur"
+id = "tout_l_amour_de_mon_cour_5"
 date = 1997-11-02
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "tout_l_amour_de_mon_cour_5"
+categories = ["Enfance"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Tout l'amour de mon cœur"
 verseLength = 6
-tags = ["philosophie", "acrostiche"]
-categories = ["Enfance"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu me souris, babilles,

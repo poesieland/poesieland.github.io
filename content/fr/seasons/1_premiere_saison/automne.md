@@ -1,12 +1,12 @@
 +++
 title = "Automne"
+id = "automne_1"
 date = 1996-05-11
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "automne_1"
-verseLength = 12
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 O pourquoi donc en mai songé-je au sombre automne,

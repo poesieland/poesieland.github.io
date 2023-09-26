@@ -1,12 +1,12 @@
 +++
 title = "Le Parc"
+id = "le_parc_2"
 date = 1996-11-16
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "le_parc_2"
-verseLength = 8
-tags = ["amour", "nature"]
 categories = ["Amitié", "Jardin, paysage"]
+tags = ["amour", "nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nous nous aimâmes en silence

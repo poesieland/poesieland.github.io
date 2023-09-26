@@ -1,12 +1,12 @@
 +++
 title = "Le ciel et nous"
+id = "le_ciel_et_nous_16"
 date = 2004-02-01
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "le_ciel_et_nous_16"
-acrostiche = "Le ciel et nous"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps", "Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le ciel et nous"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel tout clair en cette nuit

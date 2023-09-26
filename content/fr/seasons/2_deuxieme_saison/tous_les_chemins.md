@@ -1,12 +1,12 @@
 +++
 title = "Tous les chemins..."
+id = "tous_les_chemins_2"
 date = 1996-10-08
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "tous_les_chemins_2"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Chaque chemin mène à ma Muse

@@ -1,12 +1,12 @@
 +++
 title = "Au bord du sens"
+id = "au_bord_du_sens_9"
 date = 1998-11-01
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "au_bord_du_sens_9"
-acrostiche = "Au bord du sens ivre"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Au bord du sens ivre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au bord du miroir

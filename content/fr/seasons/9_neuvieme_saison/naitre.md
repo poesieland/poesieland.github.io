@@ -1,12 +1,12 @@
 +++
 title = "Naître"
+id = "naitre_9"
 date = 1998-10-25
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "naitre_9"
-acrostiche = "Naître"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Création"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Naître"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Naître, nouvelle Eve,

@@ -1,12 +1,12 @@
 +++
 title = "L'Amoureuse"
+id = "l_amoureuse_3"
 date = 1997-02-21
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "l_amoureuse_3"
-verseLength = 4
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dis, mon cœur,

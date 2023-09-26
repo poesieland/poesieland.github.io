@@ -1,12 +1,12 @@
 +++
 title = "A Toi la gloire"
+id = "a_toi_la_gloire_13"
 date = 1999-08-15
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "a_toi_la_gloire_13"
-acrostiche = "A Toi la gloire"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "A Toi la gloire"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Accueille un pécheur en ton sein, Sainte Mère !

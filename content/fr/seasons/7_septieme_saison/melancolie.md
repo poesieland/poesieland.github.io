@@ -1,12 +1,12 @@
 +++
 title = "Mélancolie"
+id = "melancolie_7"
 date = 1998-07-18
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "melancolie_7"
-acrostiche = "Mélancolie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mélancolie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mélancolie, où seul je vois

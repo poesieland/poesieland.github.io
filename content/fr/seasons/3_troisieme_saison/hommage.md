@@ -1,12 +1,12 @@
 +++
 title = "Hommage"
+id = "hommage_3"
 date = 1997-03-07
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "hommage_3"
-verseLength = 12
-tags = ["philosophie", "philosophie"]
 categories = ["Portraits", "Apprentissage"]
+tags = ["philosophie", "philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ta présence enchantée et ta salle de classe

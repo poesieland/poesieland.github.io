@@ -1,12 +1,13 @@
 +++
 title = "Bleu, blanc, larmes"
+id = "bleu_blanc_larmes_1"
 date = 1994-01-01
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "bleu_blanc_larmes_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+info = 'Reprise en 1995/1996 d'un poème de 1994'
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le muezzin appelle et chacun s'agenouille :

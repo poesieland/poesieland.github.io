@@ -1,12 +1,12 @@
 +++
 title = "Miroirs, mirages"
+id = "miroirs_mirages_10"
 date = 1999-03-20
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "miroirs_mirages_10"
-doubleAcrostiche = "Miroirs | mirages"
-tags = ["philosophie", "ombres et lumières"]
 categories = ["Création", "Crépuscule"]
+tags = ["philosophie", "ombres et lumières", "doubleAcrostiche"]
+doubleAcrostiche = "Miroirs | mirages"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Miroirs, les rimes qui s'enchantent

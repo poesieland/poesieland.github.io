@@ -1,12 +1,12 @@
 +++
 title = "Céleste optique"
+id = "celeste_optique_5"
 date = 1997-10-01
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "celeste_optique_5"
-verseLength = 7
-tags = ["nature"]
 categories = ["Ciel"]
+tags = ["nature"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Photographie invisible

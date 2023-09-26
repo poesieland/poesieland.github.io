@@ -1,12 +1,12 @@
 +++
 title = "Paresse"
+id = "paresse_4"
 date = 1997-05-03
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "paresse_4"
-verseLength = 8
-tags = ["saisons"]
 categories = ["Eté"]
+tags = ["saisons"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'ombre fraîche qui s'émerveille

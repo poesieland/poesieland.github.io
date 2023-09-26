@@ -1,12 +1,12 @@
 +++
 title = "Miroir de mes rêves"
+id = "miroir_de_mes_reves_16"
 date = 2003-09-28
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "miroir_de_mes_reves_16"
-acrostiche = "Miroir de mes rêves"
-tags = ["ombres et lumières", "nature", "acrostiche"]
 categories = ["Nuit", "Eau douce"]
+tags = ["ombres et lumières", "nature", "acrostiche"]
+acrostiche = "Miroir de mes rêves"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Miroir, aux cent visages, étoiles

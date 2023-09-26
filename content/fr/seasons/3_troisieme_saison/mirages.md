@@ -1,12 +1,12 @@
 +++
 title = "Mirages"
+id = "mirages_3"
 date = 1997-01-13
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "mirages_3"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon prénom feule comme un grincement de porte

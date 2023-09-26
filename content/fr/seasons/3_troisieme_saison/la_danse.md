@@ -1,12 +1,12 @@
 +++
 title = "La Danse"
+id = "la_danse_3"
 date = 1997-01-18
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "la_danse_3"
-verseLength = 8
-tags = ["amour", "attitudes"]
 categories = ["Femme", "Mouvement"]
+tags = ["amour", "attitudes"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Juste une valse, gente dame,

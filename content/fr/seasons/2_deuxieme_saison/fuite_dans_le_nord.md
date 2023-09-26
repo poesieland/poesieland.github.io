@@ -1,12 +1,13 @@
 +++
 title = "Fuite dans le Nord"
+id = "fuite_dans_le_nord_2"
 date = 1996-11-02
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "fuite_dans_le_nord_2"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Divers"]
+tags = ["philosophie"]
+info = 'Inspiré du film homonyme'
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le Nord comme un hôtel

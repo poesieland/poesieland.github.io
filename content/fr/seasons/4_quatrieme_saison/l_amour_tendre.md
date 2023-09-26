@@ -1,13 +1,13 @@
 +++
 title = "L'amour tendre"
+id = "l_amour_tendre_4"
 date = 1997-08-10
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "l_amour_tendre_4"
+categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
 acrostiche = "L'amour tendre"
 verseLength = 6
-tags = ["amour", "acrostiche"]
-categories = ["Romantisme"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel est plein d'étoiles

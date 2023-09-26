@@ -1,12 +1,12 @@
 +++
 title = "Destin singulier"
+id = "destin_singulier_3"
 date = 1997-02-01
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "destin_singulier_3"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nouara l'Algérienne

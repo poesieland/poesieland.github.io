@@ -1,12 +1,12 @@
 +++
 title = "Demain l'automne"
+id = "demain_l_automne_9"
 date = 1998-09-22
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "demain_l_automne_9"
-acrostiche = "Demain l'automne"
-tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
+tags = ["saisons", "acrostiche"]
+acrostiche = "Demain l'automne"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Demain l'automne emporte au vent tous les blasphèmes,

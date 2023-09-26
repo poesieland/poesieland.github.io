@@ -1,12 +1,12 @@
 +++
 title = "Papillons blancs"
+id = "papillons_blancs_4"
 date = 1997-08-17
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "papillons_blancs_4"
-verseLength = 8
-tags = ["nature"]
 categories = ["Animaux"]
+tags = ["nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les papillons, plumes d'oiseaux

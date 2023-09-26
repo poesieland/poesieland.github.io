@@ -1,12 +1,12 @@
 +++
 title = "L'hiver déjà"
+id = "l_hiver_deja_9"
 date = 1998-10-04
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "l_hiver_deja_9"
-acrostiche = "L'hiver déjà"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Hiver", "Révolte"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "L'hiver déjà"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel est triste et bas comme une chanson grise,

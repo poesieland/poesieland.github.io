@@ -1,12 +1,12 @@
 +++
 title = "Quand le destin dit..."
+id = "quand_le_destin_dit_8"
 date = 1998-09-07
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "quand_le_destin_dit_8"
-acrostiche = "Quand le destin dit..."
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Amour malheureux", "Création"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "Quand le destin dit..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand le destin dit d'un regard

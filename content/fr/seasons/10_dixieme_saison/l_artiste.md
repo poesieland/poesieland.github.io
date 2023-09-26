@@ -1,12 +1,12 @@
 +++
 title = "L'artiste"
+id = "l_artiste_10"
 date = 1999-02-27
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "l_artiste_10"
-acrostiche = "L'artiste"
-tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Création", "Mouvement"]
+tags = ["philosophie", "attitudes", "acrostiche"]
+acrostiche = "L'artiste"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le souffle vibre, exauce au ciel

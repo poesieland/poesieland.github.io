@@ -1,12 +1,12 @@
 +++
 title = "Et ce sera..."
+id = "et_ce_sera_15"
 date = 2001-09-21
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "et_ce_sera_15"
-acrostiche = "Et ce sera..."
-tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage"]
+tags = ["nature", "acrostiche"]
+acrostiche = "Et ce sera..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Emmène-moi dans les champs pâles,

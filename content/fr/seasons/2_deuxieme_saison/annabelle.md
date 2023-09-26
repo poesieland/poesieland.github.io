@@ -1,12 +1,12 @@
 +++
 title = "Annabelle"
+id = "annabelle_2"
 date = 1996-09-24
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "annabelle_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un air de petit chat, c'était tout Annabelle,

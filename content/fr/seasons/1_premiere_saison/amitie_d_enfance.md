@@ -1,12 +1,12 @@
 +++
 title = "Amitié d'enfance"
+id = "amitie_d_enfance_1"
 date = 1996-08-23
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "amitie_d_enfance_1"
-verseLength = 8
-tags = ["amour", "philosophie"]
 categories = ["Amitié", "Enfance"]
+tags = ["amour", "philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Que n'es-tu là, ma belle amie

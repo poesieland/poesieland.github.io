@@ -1,12 +1,12 @@
 +++
 title = "Valse du temps"
+id = "valse_du_temps_6"
 date = 1998-06-01
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "valse_du_temps_6"
-acrostiche = "Valse du temps"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Valse du temps"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Valse du temps vole aquarelles

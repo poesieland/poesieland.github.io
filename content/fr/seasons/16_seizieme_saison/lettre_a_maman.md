@@ -1,11 +1,11 @@
 +++
 title = "Lettre à maman"
+id = "lettre_a_maman_16"
 date = 2002-10-30
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "lettre_a_maman_16"
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Si tu savais, maman, modèle,

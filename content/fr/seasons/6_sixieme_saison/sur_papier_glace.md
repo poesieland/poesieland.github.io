@@ -1,12 +1,12 @@
 +++
 title = "Sur papier glacé"
+id = "sur_papier_glace_6"
 date = 1998-03-17
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "sur_papier_glace_6"
-acrostiche = "Sur papier glacé"
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Amitié", "Portraits"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "Sur papier glacé"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur papier glacé tu souris

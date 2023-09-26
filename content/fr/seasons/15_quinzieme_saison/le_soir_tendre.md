@@ -1,12 +1,12 @@
 +++
 title = "Le soir tendre"
+id = "le_soir_tendre_15"
 date = 2001-08-20
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "le_soir_tendre_15"
-acrostiche = "Le soir tendre"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le soir tendre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le soir me dit : trop frêle

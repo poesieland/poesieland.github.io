@@ -1,13 +1,13 @@
 +++
 title = "Mais ai-je su le dire ?"
+id = "mais_ai_je_su_le_dire_4"
 date = 1997-09-12
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "mais_ai_je_su_le_dire_4"
+categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
 acrostiche = "Mais ai-je su le dire ?"
 verseLength = 6
-tags = ["amour", "acrostiche"]
-categories = ["Aimé (amant)"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mais ai-je su le dire

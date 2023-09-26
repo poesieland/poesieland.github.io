@@ -1,12 +1,12 @@
 +++
 title = "Enfance lorraine"
+id = "enfance_lorraine_1"
 date = 1996-06-11
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "enfance_lorraine_1"
-verseLength = 12
-tags = ["philosophie", "nature"]
 categories = ["Enfance", "Flore"]
+tags = ["philosophie", "nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 O forêt mon amour, tes arbres mes châteaux

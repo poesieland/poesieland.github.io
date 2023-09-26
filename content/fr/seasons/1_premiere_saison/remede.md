@@ -1,12 +1,12 @@
 +++
 title = "Remède"
+id = "remede_1"
 date = 1996-08-28
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "remede_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le poète oublieux que sa Muse délaisse

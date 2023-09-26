@@ -1,12 +1,12 @@
 +++
 title = "Dans son cœur"
+id = "dans_son_cour_9"
 date = 1998-11-13
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "dans_son_cour_9"
-acrostiche = "Dans son cœur"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Dans son cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans un corps d'homme un cœur de femme

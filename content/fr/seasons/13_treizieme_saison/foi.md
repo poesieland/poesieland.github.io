@@ -1,12 +1,13 @@
 +++
 title = "Foi"
+id = "foi_13"
 date = 1999-10-29
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "foi_13"
-acrostiche = "Unico resterà"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+info = '"Unico resterà" : "Unique restera" en italien.'
+acrostiche = "Unico resterà"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Unique ton cœur bat, le mien

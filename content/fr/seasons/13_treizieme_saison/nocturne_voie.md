@@ -1,12 +1,12 @@
 +++
 title = "Nocturne voie"
+id = "nocturne_voie_13"
 date = 1999-10-02
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "nocturne_voie_13"
-acrostiche = "Nocturne"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Etre"]
+tags = ["nature", "philosophie", "acrostiche"]
+acrostiche = "Nocturne"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 N'entends-tu pas le chant de la mer oubliée

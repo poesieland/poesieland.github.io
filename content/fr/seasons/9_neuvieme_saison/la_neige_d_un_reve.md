@@ -1,12 +1,13 @@
 +++
 title = "La neige d'un rêve"
+id = "la_neige_d_un_reve_9"
 date = 1998-12-02
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "la_neige_d_un_reve_9"
-acrostiche = "La neige d'un rêve"
-tags = ["philosophie", "acrostiche", "sonnet"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "La neige d'un rêve"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La neige est froide, et ses cristaux déposent

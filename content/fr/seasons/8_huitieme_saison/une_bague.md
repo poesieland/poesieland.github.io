@@ -1,12 +1,12 @@
 +++
 title = "Une bague"
+id = "une_bague_8"
 date = 1998-09-12
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "une_bague_8"
-acrostiche = "Une bague"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Une bague"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une bague à ton doigt brillait, vive, frivole,

@@ -1,12 +1,12 @@
 +++
 title = "Jeu blanc"
+id = "jeu_blanc_10"
 date = 1999-02-08
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "jeu_blanc_10"
-acrostiche = "Jeu blanc"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Jeu blanc"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je laisserai la neige ensevelir l'amour

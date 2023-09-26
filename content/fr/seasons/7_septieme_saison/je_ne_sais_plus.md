@@ -1,12 +1,12 @@
 +++
 title = "Je ne sais plus"
+id = "je_ne_sais_plus_7"
 date = 1998-07-12
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "je_ne_sais_plus_7"
-acrostiche = "Je ne sais plus"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Etre"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Je ne sais plus"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je ne sais plus rire ou rêver,

@@ -1,12 +1,12 @@
 +++
 title = "Adieu : voyages"
+id = "adieu_voyages_7"
 date = 1998-07-07
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "adieu_voyages_7"
-acrostiche = "Adieu : voyages"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Adieu : voyages"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Adieu beau voyageur : le rêve

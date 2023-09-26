@@ -1,12 +1,12 @@
 +++
 title = "Je suis ton ombre"
+id = "je_suis_ton_ombre_11"
 date = 1999-04-19
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "je_suis_ton_ombre_11"
-acrostiche = "Je suis ton ombre"
-tags = ["philosophie", "acrostiche"]
 categories = ["Divers"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Je suis ton ombre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'obéis à chaque désir

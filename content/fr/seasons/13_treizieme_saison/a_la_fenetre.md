@@ -1,12 +1,12 @@
 +++
 title = "A la fenêtre"
+id = "a_la_fenetre_13"
 date = 1999-09-27
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "a_la_fenetre_13"
-acrostiche = "A la fenêtre"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Ville", "Portraits"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "A la fenêtre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Assise à la fenêtre Est, une jeune fille,

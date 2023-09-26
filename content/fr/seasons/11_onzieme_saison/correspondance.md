@@ -1,12 +1,12 @@
 +++
 title = "Correspondance"
+id = "correspondance_11"
 date = 1999-05-04
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "correspondance_11"
-acrostiche = "Correspondance"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Correspondance"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Carnet du temps

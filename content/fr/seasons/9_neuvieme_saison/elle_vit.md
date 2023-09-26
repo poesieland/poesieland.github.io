@@ -1,11 +1,11 @@
 +++
 title = "Elle vit"
+id = "elle_vit_9"
 date = 1998-12-01
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "elle_vit_9"
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Elle donne la vie,

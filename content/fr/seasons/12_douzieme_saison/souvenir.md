@@ -1,12 +1,12 @@
 +++
 title = "Souvenir"
+id = "souvenir_12"
 date = 1999-06-10
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "souvenir_12"
-acrostiche = "Souvenir"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Souvenir"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur l'ombre des mots, le vertige, néant

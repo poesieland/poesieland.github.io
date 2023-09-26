@@ -1,12 +1,13 @@
 +++
 title = "Canto dell'anima"
+id = "canto_dell_anima_13"
 date = 1999-09-19
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "canto_dell_anima_13"
-acrostiche = "Canto dell'anima"
-tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Musique, chant"]
+tags = ["philosophie", "attitudes", "acrostiche"]
+info = '"Chant de l'âme" en italien.'
+acrostiche = "Canto dell'anima"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comment viendrai-je enfin pour chanter tes louanges ?

@@ -1,12 +1,12 @@
 +++
 title = "Le théâtre, art"
+id = "le_theatre_art_14"
 date = 2001-02-24
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "le_theatre_art_14"
-acrostiche = "Le théâtre, art"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le théâtre, art"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les notes filent, d'ans sublimés en romance

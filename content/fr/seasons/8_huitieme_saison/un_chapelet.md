@@ -1,12 +1,12 @@
 +++
 title = "Un chapelet"
+id = "un_chapelet_8"
 date = 1998-07-23
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "un_chapelet_8"
-acrostiche = "Un chapelet"
-tags = ["philosophie", "acrostiche"]
 categories = ["Divers"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Un chapelet"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un chapelet de verre en toi pour moi

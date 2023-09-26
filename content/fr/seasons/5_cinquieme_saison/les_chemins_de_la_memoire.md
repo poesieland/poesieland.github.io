@@ -1,12 +1,12 @@
 +++
 title = "Les chemins de la mémoire"
+id = "les_chemins_de_la_memoire_5"
 date = 1998-01-12
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "les_chemins_de_la_memoire_5"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Temps", "Apprentissage"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur les chemins de la mémoire

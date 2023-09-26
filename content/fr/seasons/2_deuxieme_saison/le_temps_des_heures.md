@@ -1,12 +1,12 @@
 +++
 title = "Le temps des heures"
+id = "le_temps_des_heures_2"
 date = 1996-11-22
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "le_temps_des_heures_2"
-verseLength = 4
-tags = ["ombres et lumières"]
 categories = ["Aube"]
+tags = ["ombres et lumières"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le jour se lève,

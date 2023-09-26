@@ -1,12 +1,12 @@
 +++
 title = "Une vierge"
+id = "une_vierge_9"
 date = 1998-10-31
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "une_vierge_9"
-acrostiche = "Une vierge, moi"
-tags = ["amour", "acrostiche"]
 categories = ["Femme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Une vierge, moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une vierge a rêvé que l'onde du ruisseau

@@ -1,12 +1,12 @@
 +++
 title = "Retour à l'innocence"
+id = "retour_a_l_innocence_1"
 date = 1996-02-19
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "retour_a_l_innocence_1"
-verseLength = 6
-tags = ["nature", "philosophie"]
 categories = ["Neige", "Enfance"]
+tags = ["nature", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tantôt de gros flocons

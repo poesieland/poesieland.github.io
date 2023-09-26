@@ -1,13 +1,13 @@
 +++
 title = "J'ai trop rêvé de toi"
+id = "j_ai_trop_reve_de_toi_5"
 date = 1998-01-20
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "j_ai_trop_reve_de_toi_5"
+categories = ["Amour malheureux", "Création"]
+tags = ["amour", "philosophie", "acrostiche"]
 acrostiche = "J'ai trop rêvé de toi"
 verseLength = 8
-tags = ["amour", "philosophie", "acrostiche"]
-categories = ["Amour malheureux", "Création"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai trop rêvé de ce bonheur

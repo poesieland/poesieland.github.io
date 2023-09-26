@@ -1,12 +1,12 @@
 +++
 title = "Je partirai"
+id = "je_partirai_5"
 date = 1997-12-21
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "je_partirai_5"
-verseLength = 8
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je partirai dans une danse

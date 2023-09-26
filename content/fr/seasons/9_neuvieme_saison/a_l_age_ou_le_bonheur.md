@@ -1,12 +1,12 @@
 +++
 title = "A l'âge où le bonheur..."
+id = "a_l_age_ou_le_bonheur_9"
 date = 1998-12-13
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "a_l_age_ou_le_bonheur_9"
-acrostiche = "A l'âge où le bonheur..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "A l'âge où le bonheur..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A l'âge où le bonheur est un oiseau sans ailes

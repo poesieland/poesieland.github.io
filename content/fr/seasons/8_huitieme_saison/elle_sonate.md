@@ -1,12 +1,12 @@
 +++
 title = "Elle : sonate"
+id = "elle_sonate_8"
 date = 1998-09-05
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "elle_sonate_8"
-acrostiche = "Elle : sonate"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Elle : sonate"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Elle s'écoute d'un murmure,

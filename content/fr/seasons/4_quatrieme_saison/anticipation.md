@@ -1,12 +1,12 @@
 +++
 title = "Anticipation"
+id = "anticipation_4"
 date = 1997-05-10
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "anticipation_4"
-verseLength = 6
-tags = ["saisons", "amour"]
 categories = ["Eté", "Amitié"]
+tags = ["saisons", "amour"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En sa candeur native :

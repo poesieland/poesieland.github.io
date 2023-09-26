@@ -1,12 +1,12 @@
 +++
 title = "J'attends l'amour"
+id = "j_attends_l_amour_7"
 date = 1998-07-07
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "j_attends_l_amour_7"
-acrostiche = "J'attends l'amour"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "J'attends l'amour"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'attends l'amour offert d'un geste

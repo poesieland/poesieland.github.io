@@ -1,12 +1,12 @@
 +++
 title = "L'eau rage"
+id = "l_eau_rage_12"
 date = 1999-06-30
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "l_eau_rage_12"
-acrostiche = "L'eau rage"
-tags = ["nature", "acrostiche"]
 categories = ["Eau douce", "Ciel"]
+tags = ["nature", "acrostiche"]
+acrostiche = "L'eau rage"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'orage à traits rageurs peint le ciel d'un feu noir,

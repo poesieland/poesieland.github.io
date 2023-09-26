@@ -1,12 +1,12 @@
 +++
 title = "Chant des possédés"
+id = "chant_des_possedes_13"
 date = 1999-08-30
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "chant_des_possedes_13"
-acrostiche = "Chant des possédés"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Chant des possédés"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme une feuille à ton arbre

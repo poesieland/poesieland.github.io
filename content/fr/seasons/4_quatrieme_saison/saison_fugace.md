@@ -1,12 +1,12 @@
 +++
 title = "Saison fugace"
+id = "saison_fugace_4"
 date = 1997-08-05
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "saison_fugace_4"
-verseLength = 8
-tags = ["saisons", "philosophie"]
 categories = ["Automne", "Temps"]
+tags = ["saisons", "philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Toute saison trop tôt venue

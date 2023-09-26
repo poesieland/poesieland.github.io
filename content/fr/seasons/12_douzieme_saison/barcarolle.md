@@ -1,12 +1,12 @@
 +++
 title = "Barcarolle"
+id = "barcarolle_12"
 date = 1999-06-28
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "barcarolle_12"
-acrostiche = "Barcarolle"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Barcarolle"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Bercée en la gondole, une perche, une rame

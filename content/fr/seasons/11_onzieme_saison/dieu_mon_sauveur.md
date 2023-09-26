@@ -1,12 +1,12 @@
 +++
 title = "Dieu, mon Sauveur !"
+id = "dieu_mon_sauveur_11"
 date = 1999-04-17
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "dieu_mon_sauveur_11"
-acrostiche = "Dieu, mon Sauveur !"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Dieu, mon Sauveur !"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dieu né dans l'ombre d'un midi

@@ -1,12 +1,12 @@
 +++
 title = "Je crois en lui"
+id = "je_crois_en_lui_8"
 date = 1998-09-05
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "je_crois_en_lui_8"
-acrostiche = "Je crois en lui"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Je crois en lui"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je crois en celui qui viendra

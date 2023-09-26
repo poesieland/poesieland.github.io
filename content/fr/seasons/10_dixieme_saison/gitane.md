@@ -1,12 +1,12 @@
 +++
 title = "Gitane"
+id = "gitane_10"
 date = 1999-01-28
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "gitane_10"
-acrostiche = "Laisse les mots chanter"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Laisse les mots chanter"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Laisse les mots chanter

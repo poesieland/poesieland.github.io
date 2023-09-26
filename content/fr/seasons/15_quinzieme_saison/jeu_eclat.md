@@ -1,12 +1,12 @@
 +++
 title = "Jeu - éclat"
+id = "jeu_eclat_15"
 date = 2001-08-31
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "jeu_eclat_15"
-acrostiche = "Jeu - éclat"
-tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Espoir", "Eté"]
+tags = ["philosophie", "saisons", "acrostiche"]
+acrostiche = "Jeu - éclat"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je m'en suis allée et toi

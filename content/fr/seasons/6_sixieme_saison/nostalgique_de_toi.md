@@ -1,12 +1,12 @@
 +++
 title = "Nostalgique de toi"
+id = "nostalgique_de_toi_6"
 date = 1998-03-12
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "nostalgique_de_toi_6"
-acrostiche = "Nostalgique de toi"
-tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Nostalgique de toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nostalgique de toi comme un parfum s'embrume;

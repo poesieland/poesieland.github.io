@@ -1,12 +1,12 @@
 +++
 title = "Etre créé"
+id = "etre_cree_9"
 date = 1998-11-26
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "etre_cree_9"
-acrostiche = "Etre créé"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Etre créé"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Etre et créer l'espace,

@@ -1,12 +1,12 @@
 +++
 title = "Une aube bleue"
+id = "une_aube_bleue_10"
 date = 1999-03-03
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "une_aube_bleue_10"
-acrostiche = "Une aube bleue"
-tags = ["attitudes", "nature", "acrostiche"]
 categories = ["Musique, chant", "Jardin, paysage"]
+tags = ["attitudes", "nature", "acrostiche"]
+acrostiche = "Une aube bleue"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un autre souffle me réveille

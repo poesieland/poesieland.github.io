@@ -1,12 +1,13 @@
 +++
 title = "Cantique de vie"
+id = "cantique_de_vie_11"
 date = 1999-04-16
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "cantique_de_vie_11"
-acrostiche = "Il tuo cantico da la vita"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = '"Il tuo cantico da la vita" : "Ton cantique donne la vie" en italien.'
+acrostiche = "Il tuo cantico da la vita"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Invite prémonitoire :

@@ -1,12 +1,12 @@
 +++
 title = "Traces"
+id = "traces_10"
 date = 1999-01-09
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "traces_10"
-acrostiche = "Je n'ai pas"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Je n'ai pas"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je n'ai pas de mots pour exprimer les choses,

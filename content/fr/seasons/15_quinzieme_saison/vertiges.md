@@ -1,12 +1,12 @@
 +++
 title = "Vertiges"
+id = "vertiges_15"
 date = 2001-07-02
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "vertiges_15"
-acrostiche = "Vertiges"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Vertiges"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vertiges, passerelle alors

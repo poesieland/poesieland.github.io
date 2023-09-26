@@ -1,12 +1,12 @@
 +++
 title = "Méditation"
+id = "meditation_3"
 date = 1997-02-10
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "meditation_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Etre lézard contre la pierre,

@@ -1,12 +1,12 @@
 +++
 title = "Tes mains"
+id = "tes_mains_10"
 date = 1999-03-25
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "tes_mains_10"
-acrostiche = "Tes mains"
-tags = ["attitudes", "acrostiche"]
 categories = ["Toucher"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Tes mains"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tes mains qui prennent, qui déposent,

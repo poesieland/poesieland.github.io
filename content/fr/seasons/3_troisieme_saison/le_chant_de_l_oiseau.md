@@ -1,12 +1,12 @@
 +++
 title = "Le Chant de l'Oiseau"
+id = "le_chant_de_l_oiseau_3"
 date = 1997-02-22
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "le_chant_de_l_oiseau_3"
-verseLength = 12
-tags = ["nature"]
 categories = ["Animaux"]
+tags = ["nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un merle ce matin chantait tout son espoir :

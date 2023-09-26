@@ -1,12 +1,13 @@
 +++
 title = "L'Autunno"
+id = "l_autunno_13"
 date = 1999-08-01
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "l_autunno_13"
-acrostiche = "L'Autunno"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+info = '"L'automne" en italien.'
+acrostiche = "L'Autunno"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lorsque le sanglier emportera tes rêves

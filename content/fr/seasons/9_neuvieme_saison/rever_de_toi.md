@@ -1,12 +1,12 @@
 +++
 title = "Rêver de toi"
+id = "rever_de_toi_9"
 date = 1998-09-21
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "rever_de_toi_9"
-acrostiche = "Rêver de toi"
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Romantisme", "Création"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "Rêver de toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Rêver que l'âme que tu frôles

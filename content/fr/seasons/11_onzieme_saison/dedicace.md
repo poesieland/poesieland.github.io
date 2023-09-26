@@ -1,12 +1,12 @@
 +++
 title = "Dédicace"
+id = "dedicace_11"
 date = 1999-05-20
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "dedicace_11"
-acrostiche = "Dédicace"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Dédicace"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dédiée au théâtre, une belle

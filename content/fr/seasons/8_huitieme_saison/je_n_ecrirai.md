@@ -1,12 +1,12 @@
 +++
 title = "Je n'écrirai"
+id = "je_n_ecrirai_8"
 date = 1998-07-24
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "je_n_ecrirai_8"
-acrostiche = "Je n'écrirai"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Je n'écrirai"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je n'écrirai plus de poème

@@ -1,12 +1,12 @@
 +++
 title = "Trêve du coeur"
+id = "treve_du_coeur_16"
 date = 2003-09-20
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "treve_du_coeur_16"
-acrostiche = "Trêve du coeur"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Etre"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "Trêve du coeur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tombent les feuilles, impassibles

@@ -1,12 +1,13 @@
 +++
 title = "Una pagina si torna"
+id = "una_pagina_si_torna_11"
 date = 1999-04-03
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "una_pagina_si_torna_11"
-acrostiche = "Una pagina si torna"
-tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Temps", "Amour malheureux"]
+tags = ["philosophie", "amour", "acrostiche"]
+info = '"Une page se tourne" en italien.'
+acrostiche = "Una pagina si torna"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un sourire qui ne veut plus rien me dire

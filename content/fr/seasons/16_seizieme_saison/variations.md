@@ -1,11 +1,11 @@
 +++
 title = "Variations"
+id = "variations_16"
 date = 2004-05-07
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "variations_16"
-tags = ["philosophie", "nature"]
 categories = ["Etre", "Ciel", "Mer"]
+tags = ["philosophie", "nature"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au bout du train c'est la mer

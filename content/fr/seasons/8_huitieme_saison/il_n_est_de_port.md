@@ -1,12 +1,12 @@
 +++
 title = "Il n'est de port"
+id = "il_n_est_de_port_8"
 date = 1998-08-24
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "il_n_est_de_port_8"
-acrostiche = "Il n'est de port"
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Il n'est de port"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il n'est de port pour accoster :

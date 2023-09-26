@@ -1,12 +1,12 @@
 +++
 title = "Comme j'aimais"
+id = "comme_j_aimais_14"
 date = 2001-01-04
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "comme_j_aimais_14"
-acrostiche = "Comme j'aimais"
-tags = ["nature", "saisons", "amour", "acrostiche"]
 categories = ["Flore", "Printemps", "Romantisme"]
+tags = ["nature", "saisons", "amour", "acrostiche"]
+acrostiche = "Comme j'aimais"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme j'aimais d'un rêve le doux frémissement

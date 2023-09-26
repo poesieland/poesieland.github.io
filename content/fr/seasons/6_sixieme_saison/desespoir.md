@@ -1,11 +1,11 @@
 +++
 title = "Désespoir"
+id = "desespoir_6"
 date = 1998-05-26
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "desespoir_6"
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu ne peux voir ce qu'on ne sait pas dire,

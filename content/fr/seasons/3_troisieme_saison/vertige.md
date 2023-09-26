@@ -1,12 +1,12 @@
 +++
 title = "Vertige"
+id = "vertige_3"
 date = 1997-01-19
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "vertige_3"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon souvenir se brouille

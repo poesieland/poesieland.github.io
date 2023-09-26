@@ -1,12 +1,13 @@
 +++
 title = "Alma, libera te"
+id = "alma_libera_te_15"
 date = 2001-06-13
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "alma_libera_te_15"
-acrostiche = "Alma, libera te"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Crépuscule", "Foi"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+info = '"Ame, libère-toi" en italien.'
+acrostiche = "Alma, libera te"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Âme libre, envole un songe :

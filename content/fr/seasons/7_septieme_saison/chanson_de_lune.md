@@ -1,11 +1,11 @@
 +++
 title = "Chanson de lune"
+id = "chanson_de_lune_7"
 date = 1998-06-08
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "chanson_de_lune_7"
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lune ronde noctambule,

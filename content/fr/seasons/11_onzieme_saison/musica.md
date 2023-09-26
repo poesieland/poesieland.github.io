@@ -1,12 +1,12 @@
 +++
 title = "Musica"
+id = "musica_11"
 date = 1999-05-08
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "musica_11"
-acrostiche = "Musica"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Musica"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mauve l'océan de violons

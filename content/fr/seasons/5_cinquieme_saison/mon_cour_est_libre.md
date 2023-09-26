@@ -1,13 +1,13 @@
 +++
 title = "Mon cœur est libre"
+id = "mon_cour_est_libre_5"
 date = 1997-12-05
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "mon_cour_est_libre_5"
+categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
 acrostiche = "Mon cœur est libre"
 verseLength = 8
-tags = ["amour", "acrostiche"]
-categories = ["Romantisme"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon cœur est libre de t'aimer

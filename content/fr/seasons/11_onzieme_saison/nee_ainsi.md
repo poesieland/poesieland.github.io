@@ -1,12 +1,12 @@
 +++
 title = "Née ainsi"
+id = "nee_ainsi_11"
 date = 1999-05-04
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "nee_ainsi_11"
-acrostiche = "Née ainsi"
-tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage", "Flore"]
+tags = ["nature", "acrostiche"]
+acrostiche = "Née ainsi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Nouvelle, étrange, la clarté

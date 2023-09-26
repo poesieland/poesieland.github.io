@@ -1,12 +1,12 @@
 +++
 title = "Entre vie et mort"
+id = "entre_vie_et_mort_7"
 date = 1998-07-09
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "entre_vie_et_mort_7"
-acrostiche = "Entre vie et mort"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Entre vie et mort"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Entre la vie et la mort

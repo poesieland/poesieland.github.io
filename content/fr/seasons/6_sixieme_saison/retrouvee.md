@@ -1,11 +1,11 @@
 +++
 title = "Retrouvée"
+id = "retrouvee_6"
 date = 1998-05-18
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "retrouvee_6"
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu m'as croisée en un éclair,

@@ -1,12 +1,12 @@
 +++
 title = "Italia"
+id = "italia_7"
 date = 1998-06-05
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "italia_7"
-acrostiche = "Italia"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Italia"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Irréel destin, cœur charmé de promenade

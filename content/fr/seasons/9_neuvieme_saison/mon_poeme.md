@@ -1,12 +1,12 @@
 +++
 title = "Mon poème"
+id = "mon_poeme_9"
 date = 1998-11-13
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "mon_poeme_9"
-acrostiche = "Mon poème"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mon poème"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon poème c'est étrange

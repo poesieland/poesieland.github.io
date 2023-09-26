@@ -1,12 +1,12 @@
 +++
 title = "Jeu d'enfant"
+id = "jeu_d_enfant_12"
 date = 1999-06-01
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "jeu_d_enfant_12"
-acrostiche = "Jeu d'enfant"
-tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Temps", "Enfance"]
+tags = ["philosophie", "philosophie", "acrostiche"]
+acrostiche = "Jeu d'enfant"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'irai décrocher la lune,

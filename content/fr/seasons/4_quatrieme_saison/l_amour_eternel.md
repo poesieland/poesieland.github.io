@@ -1,12 +1,12 @@
 +++
 title = "L'amour... éternel"
+id = "l_amour_eternel_4"
 date = 1997-08-18
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "l_amour_eternel_4"
-verseLength = 6
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Depuis un an je t'aime

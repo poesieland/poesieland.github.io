@@ -1,12 +1,12 @@
 +++
 title = "L'Octobre"
+id = "l_octobre_13"
 date = 1999-10-05
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "l_octobre_13"
-acrostiche = "L'Octobre"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Espoir"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "L'Octobre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne ourle sa lèvre en d'infinis baisers,

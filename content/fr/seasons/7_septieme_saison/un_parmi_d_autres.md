@@ -1,12 +1,12 @@
 +++
 title = "Un parmi d'autres"
+id = "un_parmi_d_autres_7"
 date = 1998-07-06
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "un_parmi_d_autres_7"
-acrostiche = "Un parmi d'autres"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Un parmi d'autres"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un parmi d'autres, découvert :

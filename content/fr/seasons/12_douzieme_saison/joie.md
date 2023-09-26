@@ -1,12 +1,12 @@
 +++
 title = "Joie"
+id = "joie_12"
 date = 1999-07-25
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "joie_12"
-acrostiche = "Joie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Joie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je t'ai souri, le jour bohème

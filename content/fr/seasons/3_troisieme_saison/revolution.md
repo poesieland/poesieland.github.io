@@ -1,12 +1,12 @@
 +++
 title = "Révolution"
+id = "revolution_3"
 date = 1997-03-16
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "revolution_3"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Homme, ne vois-tu pas qu'après la multitude

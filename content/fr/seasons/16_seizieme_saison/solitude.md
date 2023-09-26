@@ -1,12 +1,12 @@
 +++
 title = "Solitude"
+id = "solitude_16"
 date = 2003-12-08
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "solitude_16"
-acrostiche = "Solitude"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Temps"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Solitude"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur le sol des traces de lune

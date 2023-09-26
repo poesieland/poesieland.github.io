@@ -1,12 +1,12 @@
 +++
 title = "Fin de combat"
+id = "fin_de_combat_1"
 date = 1994-01-01
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "fin_de_combat_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Grande exaltation ! Saveur bien douce-amère

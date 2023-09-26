@@ -1,12 +1,12 @@
 +++
 title = "Belle alanguie"
+id = "belle_alanguie_2"
 date = 1996-09-20
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "belle_alanguie_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pas un son, pas un mot, ni battement de cil,

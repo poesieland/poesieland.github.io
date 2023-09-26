@@ -1,12 +1,12 @@
 +++
 title = "Douceur"
+id = "douceur_10"
 date = 1999-03-03
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "douceur_10"
-acrostiche = "Douces"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Douces"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Douces, les musique s'élèvent

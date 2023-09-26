@@ -1,12 +1,12 @@
 +++
 title = "Lever d'un jour"
+id = "lever_d_un_jour_9"
 date = 1998-11-15
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "lever_d_un_jour_9"
-acrostiche = "Lever d'un jour"
-tags = ["ombres et lumières", "nature", "attitudes", "acrostiche"]
 categories = ["Aube", "Mer", "Musique, chant"]
+tags = ["ombres et lumières", "nature", "attitudes", "acrostiche"]
+acrostiche = "Lever d'un jour"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Là-bas sur l'océan s'élèvent les prières

@@ -1,12 +1,12 @@
 +++
 title = "Comme dit le rêve"
+id = "comme_dit_le_reve_11"
 date = 1999-04-09
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "comme_dit_le_reve_11"
-acrostiche = "Comme dit le rêve"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Nuit"]
+tags = ["ombres et lumières", "acrostiche"]
+acrostiche = "Comme dit le rêve"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme dirait le rêve où Sirius honorée

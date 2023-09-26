@@ -1,11 +1,11 @@
 +++
 title = "Refaire le monde"
+id = "refaire_le_monde_6"
 date = 1998-05-04
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "refaire_le_monde_6"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A l'aube on a refait le monde,

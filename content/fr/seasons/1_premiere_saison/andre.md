@@ -1,12 +1,13 @@
 +++
 title = "André"
+id = "andre_1"
 date = 1994-01-01
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "andre_1"
-verseLength = 8
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+info = 'Reprise en 1995/1996 d'un poème de 1994'
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En brume des matins d'automnes,

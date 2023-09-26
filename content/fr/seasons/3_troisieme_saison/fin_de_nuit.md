@@ -1,12 +1,12 @@
 +++
 title = "Fin de nuit"
+id = "fin_de_nuit_3"
 date = 1997-02-12
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "fin_de_nuit_3"
-verseLength = 8
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Nuit", "Création"]
+tags = ["ombres et lumières", "philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dehors il pleut, larmes d'enfant

@@ -1,13 +1,13 @@
 +++
 title = "Sept couleurs"
+id = "sept_couleurs_5"
 date = 1997-10-30
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "sept_couleurs_5"
+categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Sept couleurs"
 verseLength = 8
-tags = ["philosophie", "acrostiche"]
-categories = ["Création"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sept couleurs pour peindre ton nom;

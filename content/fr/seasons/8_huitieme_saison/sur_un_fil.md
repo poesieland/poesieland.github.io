@@ -1,12 +1,12 @@
 +++
 title = "Sur un fil"
+id = "sur_un_fil_8"
 date = 1998-08-12
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "sur_un_fil_8"
-acrostiche = "Sur un fil"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Sur un fil"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur un fil un funambule,

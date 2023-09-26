@@ -1,12 +1,12 @@
 +++
 title = "Peur de la nuit"
+id = "peur_de_la_nuit_10"
 date = 1999-02-14
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "peur_de_la_nuit_10"
-acrostiche = "Peur de la nuit"
-tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Peur de la nuit"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pour la fin du millénaire

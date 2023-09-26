@@ -1,12 +1,12 @@
 +++
 title = "J'ai perdu ton image"
+id = "j_ai_perdu_ton_image_9"
 date = 1998-12-05
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "j_ai_perdu_ton_image_9"
-acrostiche = "J'ai perdu ton image"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "J'ai perdu ton image"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai perdu ton image

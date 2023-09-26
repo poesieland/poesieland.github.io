@@ -1,12 +1,12 @@
 +++
 title = "Mon amant"
+id = "mon_amant_8"
 date = 1998-07-28
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "mon_amant_8"
-acrostiche = "Mon amant"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Mon amant"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon amant, berce musique

@@ -1,12 +1,12 @@
 +++
 title = "Nostalgie"
+id = "nostalgie_2"
 date = 1996-09-23
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "nostalgie_2"
-verseLength = 8
-tags = ["amour"]
 categories = ["Amitié"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 C'était bien tout un univers

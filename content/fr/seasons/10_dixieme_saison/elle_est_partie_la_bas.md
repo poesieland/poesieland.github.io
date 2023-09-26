@@ -1,12 +1,12 @@
 +++
 title = "Elle est partie là-bas"
+id = "elle_est_partie_la_bas_10"
 date = 1999-01-27
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "elle_est_partie_la_bas_10"
-acrostiche = "Elle est partie là-bas"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Elle est partie là-bas"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Elle a rejoint le Créateur,

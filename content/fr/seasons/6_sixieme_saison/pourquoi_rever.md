@@ -1,11 +1,11 @@
 +++
 title = "Pourquoi rêver"
+id = "pourquoi_rever_6"
 date = 1998-05-24
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "pourquoi_rever_6"
-tags = ["amour"]
 categories = ["Amour malheureux"]
+tags = ["amour"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pourquoi rêver tant de faux rêves,

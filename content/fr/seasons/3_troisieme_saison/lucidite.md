@@ -1,12 +1,12 @@
 +++
 title = "Lucidité"
+id = "lucidite_3"
 date = 1997-02-14
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "lucidite_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel gémit, mon cœur se plombe,

@@ -1,12 +1,12 @@
 +++
 title = "Au bord d'un lac"
+id = "au_bord_d_un_lac_7"
 date = 1998-07-03
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "au_bord_d_un_lac_7"
-acrostiche = "Au bord d'un lac"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Eau douce", "Etre"]
+tags = ["nature", "philosophie", "acrostiche"]
+acrostiche = "Au bord d'un lac"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au bord d'un lac où l'on s'aimait

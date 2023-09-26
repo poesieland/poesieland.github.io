@@ -1,12 +1,12 @@
 +++
 title = "Vrai sens"
+id = "vrai_sens_11"
 date = 1999-05-08
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "vrai_sens_11"
-acrostiche = "Vrai sens"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Vrai sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vois-tu comme un spectacle

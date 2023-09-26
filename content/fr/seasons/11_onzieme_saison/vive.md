@@ -1,12 +1,12 @@
 +++
 title = "Vive"
+id = "vive_11"
 date = 1999-05-19
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "vive_11"
-acrostiche = "Vive"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Espoir"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Vive"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vois cette vie : en son ivresse

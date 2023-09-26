@@ -1,12 +1,12 @@
 +++
 title = "Chercher"
+id = "chercher_4"
 date = 1997-08-23
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "chercher_4"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Chercher la tiédeur de la lune,

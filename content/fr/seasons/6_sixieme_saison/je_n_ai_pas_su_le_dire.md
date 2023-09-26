@@ -1,12 +1,12 @@
 +++
 title = "Je n'ai pas su le dire"
+id = "je_n_ai_pas_su_le_dire_6"
 date = 1998-04-03
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "je_n_ai_pas_su_le_dire_6"
-acrostiche = "Je n'ai pas su le dire"
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Je n'ai pas su le dire"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je n'ai pas su le dire aux pleurs du firmament

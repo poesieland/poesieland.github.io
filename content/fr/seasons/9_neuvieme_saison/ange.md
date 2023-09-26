@@ -1,12 +1,12 @@
 +++
 title = "Ange"
+id = "ange_9"
 date = 1998-11-11
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "ange_9"
-acrostiche = "Ange"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Ange"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ailé pour caresser nos peines,

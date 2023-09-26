@@ -1,12 +1,12 @@
 +++
 title = "Délire"
+id = "delire_1"
 date = 1996-08-25
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "delire_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Divers"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 O fièvre insidieuse, et lente, tu me braves :

@@ -1,12 +1,12 @@
 +++
 title = "Nocturne"
+id = "nocturne_3"
 date = 1997-01-04
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "nocturne_3"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 C'est dans ma chambre ou sur le ciel

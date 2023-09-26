@@ -1,12 +1,13 @@
 +++
 title = "Il cavalier' d'amore"
+id = "il_cavalier_d_amore_12"
 date = 1999-06-07
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "il_cavalier_d_amore_12"
-acrostiche = "Il cavalier' d'amore"
-tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Portraits", "Aimé (amant)"]
+tags = ["philosophie", "amour", "acrostiche"]
+info = '"Le chevalier d'amour" en italien.'
+acrostiche = "Il cavalier' d'amore"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il galope, droit, fier, sur son grand cheval bai;

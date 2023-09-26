@@ -1,12 +1,12 @@
 +++
 title = "Ombres et lumières"
+id = "ombres_et_lumieres_15"
 date = 2001-07-26
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "ombres_et_lumieres_15"
-acrostiche = "Ombres et lumières"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Ombres et lumières"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Origine du monde, âme, l'évanescence

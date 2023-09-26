@@ -1,12 +1,12 @@
 +++
 title = "Errance"
+id = "errance_10"
 date = 1999-02-19
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "errance_10"
-acrostiche = "Légère"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Légère"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Légère comme une plume

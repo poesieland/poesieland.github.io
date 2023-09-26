@@ -1,12 +1,13 @@
 +++
 title = "Senza nord nè sud"
+id = "senza_nord_ne_sud_8"
 date = 1998-08-26
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "senza_nord_ne_sud_8"
-acrostiche = "Senza nord nè sud"
-tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Etre", "Mer"]
+tags = ["philosophie", "nature", "acrostiche"]
+info = '"Sans nord ni sud" en italien.'
+acrostiche = "Senza nord nè sud"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sans nord ni sud, boussole folle,

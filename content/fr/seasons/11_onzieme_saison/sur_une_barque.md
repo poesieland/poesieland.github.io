@@ -1,12 +1,12 @@
 +++
 title = "Sur une barque"
+id = "sur_une_barque_11"
 date = 1999-05-19
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "sur_une_barque_11"
-acrostiche = "Sur une barque"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Création"]
+tags = ["nature", "philosophie", "acrostiche"]
+acrostiche = "Sur une barque"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Songe, cette heure heureuse

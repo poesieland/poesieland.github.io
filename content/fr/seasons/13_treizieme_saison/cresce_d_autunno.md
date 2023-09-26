@@ -1,12 +1,14 @@
 +++
 title = "Cresce d'autunno"
+id = "cresce_d_autunno_13"
 date = 1999-09-21
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "cresce_d_autunno_13"
-acrostiche = "Cresce d'autunno"
-tags = ["saisons", "nature", "philosophie", "acrostiche"]
 categories = ["Automne", "Mer", "Foi"]
+tags = ["saisons", "nature", "philosophie", "acrostiche"]
+info = '"Croix d'automne" en italien. La correspondance entre les mots de l'acrostiche et
+                le contenu des paragraphes est inversée.'
+acrostiche = "Cresce d'autunno"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme l'automne embrasse aux ailes qui s'envolent

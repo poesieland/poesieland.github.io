@@ -1,12 +1,12 @@
 +++
 title = "Entre les vagues"
+id = "entre_les_vagues_8"
 date = 1998-09-05
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "entre_les_vagues_8"
-acrostiche = "Entre les vagues"
-tags = ["attitudes", "nature", "attitudes", "acrostiche"]
 categories = ["Sommeil", "Mer", "Musique, chant"]
+tags = ["attitudes", "nature", "attitudes", "acrostiche"]
+acrostiche = "Entre les vagues"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Entre le rêve et le sommeil,

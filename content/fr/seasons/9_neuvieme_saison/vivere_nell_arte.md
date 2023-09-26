@@ -1,12 +1,13 @@
 +++
 title = "Vivere nell'arte"
+id = "vivere_nell_arte_9"
 date = 1998-11-01
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "vivere_nell_arte_9"
-acrostiche = "Vivere nell'arte"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+info = '"Vivre dans l'art"... ou à travers l'art'
+acrostiche = "Vivere nell'arte"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Vivre, c'est aimer dans l'art,

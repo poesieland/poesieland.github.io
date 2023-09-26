@@ -1,12 +1,12 @@
 +++
 title = "Folie de novembre"
+id = "folie_de_novembre_2"
 date = 1996-10-19
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "folie_de_novembre_2"
-verseLength = 12
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lumière inestimable, ô ma saison d'amour,

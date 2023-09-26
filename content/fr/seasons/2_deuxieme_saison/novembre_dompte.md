@@ -1,12 +1,12 @@
 +++
 title = "Novembre dompté"
+id = "novembre_dompte_2"
 date = 1996-11-03
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "novembre_dompte_2"
-verseLength = 12
-tags = ["saisons", "philosophie"]
 categories = ["Automne", "Espoir"]
+tags = ["saisons", "philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne et ses couleurs comme un charme d'adieu :

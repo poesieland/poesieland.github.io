@@ -1,12 +1,12 @@
 +++
 title = "Mystère d'Ophélie"
+id = "mystere_d_ophelie_3"
 date = 1997-03-14
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "mystere_d_ophelie_3"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un mystère rêveur

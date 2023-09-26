@@ -1,12 +1,12 @@
 +++
 title = "Souvenir de bonheur"
+id = "souvenir_de_bonheur_5"
 date = 1997-12-17
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "souvenir_de_bonheur_5"
-verseLength = 6
-tags = ["amour", "philosophie"]
 categories = ["Amitié", "Espoir"]
+tags = ["amour", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Bonheur en souvenir :

@@ -1,12 +1,12 @@
 +++
 title = "Elans, valse"
+id = "elans_valse_14"
 date = 2001-03-19
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "elans_valse_14"
-acrostiche = "Elans, valse"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Elans, valse"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Elans frôlés, emportés, tout charmés

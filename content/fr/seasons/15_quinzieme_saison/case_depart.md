@@ -1,12 +1,12 @@
 +++
 title = "Case départ"
+id = "case_depart_15"
 date = 2001-10-11
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "case_depart_15"
-acrostiche = "Case départ"
-tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Temps", "Automne"]
+tags = ["philosophie", "saisons", "acrostiche"]
+acrostiche = "Case départ"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme l'octobre lit novembre,

@@ -1,12 +1,12 @@
 +++
 title = "Sphère, une larme"
+id = "sphere_une_larme_7"
 date = 1998-07-09
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "sphere_une_larme_7"
-acrostiche = "Sphère, une larme"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Sphère, une larme"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sphère magnifique, sublime,

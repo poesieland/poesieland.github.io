@@ -1,12 +1,12 @@
 +++
 title = "Oh que je t'aime"
+id = "oh_que_je_t_aime_16"
 date = 2002-08-19
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "oh_que_je_t_aime_16"
-acrostiche = "Oh que je t'aime"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Oh que je t'aime"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Oui, mon âme à toi, toute, aube de ces rivages,

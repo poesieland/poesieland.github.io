@@ -1,12 +1,12 @@
 +++
 title = "Cœurs amants"
+id = "cours_amants_16"
 date = 2002-08-18
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "cours_amants_16"
-acrostiche = "Cœurs amants"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Cœurs amants"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme tu t'en vas, beau, je sais que tu reviens;

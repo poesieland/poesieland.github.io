@@ -1,12 +1,12 @@
 +++
 title = "Mon souhait"
+id = "mon_souhait_8"
 date = 1998-07-20
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "mon_souhait_8"
-acrostiche = "Mon souhait"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Mon souhait"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Menant mes pas vers la fontaine

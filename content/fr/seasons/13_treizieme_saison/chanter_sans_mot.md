@@ -1,12 +1,12 @@
 +++
 title = "Chanter sans mot"
+id = "chanter_sans_mot_13"
 date = 1999-08-20
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "chanter_sans_mot_13"
-acrostiche = "Chanter sans mot"
-tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Création", "Musique, chant"]
+tags = ["philosophie", "attitudes", "acrostiche"]
+acrostiche = "Chanter sans mot"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Chanter sans mot: je veux, l'écho

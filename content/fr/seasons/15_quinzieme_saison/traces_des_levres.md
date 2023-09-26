@@ -1,12 +1,12 @@
 +++
 title = "Traces des lèvres"
+id = "traces_des_levres_15"
 date = 2001-11-10
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "traces_des_levres_15"
-acrostiche = "Traces des lèvres"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Aimé (amant)", "Toucher"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Traces des lèvres"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Touchez douceur, émoi nouveau chaste rend

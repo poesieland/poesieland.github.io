@@ -1,11 +1,11 @@
 +++
 title = "Fleurs de mémoire"
+id = "fleurs_de_memoire_6"
 date = 1998-04-21
 weight = 26
-LastModifierDisplayName = "Barbara Post"
-id = "fleurs_de_memoire_6"
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au dernier rang du cimetière

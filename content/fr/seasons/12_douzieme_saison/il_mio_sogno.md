@@ -1,12 +1,12 @@
 +++
 title = "Il mio sogno"
+id = "il_mio_sogno_12"
 date = 1999-06-14
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "il_mio_sogno_12"
-acrostiche = "Il mio sogno"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Il mio sogno"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il ne me reste qu'un seul rêve

@@ -1,12 +1,12 @@
 +++
 title = "Féminin, masculin"
+id = "feminin_masculin_1"
 date = 1996-05-25
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "feminin_masculin_1"
-verseLength = 8
-tags = ["amour"]
 categories = ["Femme"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ce n'est guère par goût saphique

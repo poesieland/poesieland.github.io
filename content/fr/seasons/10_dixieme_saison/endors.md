@@ -1,12 +1,12 @@
 +++
 title = "Endors"
+id = "endors_10"
 date = 1999-02-11
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "endors_10"
-acrostiche = "Endors"
-tags = ["attitudes", "acrostiche"]
 categories = ["Sommeil"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Endors"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Emu, quand la nuit prendra sa part de rêve

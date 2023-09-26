@@ -1,12 +1,13 @@
 +++
 title = "Souffles d'hiver"
+id = "souffles_d_hiver_9"
 date = 1998-12-11
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "souffles_d_hiver_9"
-acrostiche = "Souffles d'hiver"
-tags = ["saisons", "philosophie", "acrostiche", "sonnet"]
 categories = ["Hiver", "Etre"]
+tags = ["saisons", "philosophie", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "Souffles d'hiver"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Souffles d'hiver rêvés sur les doigts transparents,

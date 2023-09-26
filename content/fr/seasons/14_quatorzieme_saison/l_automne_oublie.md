@@ -1,12 +1,12 @@
 +++
 title = "L'automne oublié"
+id = "l_automne_oublie_14"
 date = 2000-09-11
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "l_automne_oublie_14"
-acrostiche = "Dire à l'oublié"
-tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Temps", "Automne"]
+tags = ["philosophie", "saisons", "acrostiche"]
+acrostiche = "Dire à l'oublié"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Doucement ces heures fanées étiolent leurs senteurs,

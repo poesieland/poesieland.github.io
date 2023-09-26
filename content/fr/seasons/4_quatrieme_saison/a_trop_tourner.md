@@ -1,13 +1,13 @@
 +++
 title = "A trop tourner"
+id = "a_trop_tourner_4"
 date = 1997-08-11
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "a_trop_tourner_4"
+categories = ["Femme", "Mouvement"]
+tags = ["amour", "attitudes", "acrostiche"]
 acrostiche = "A trop tourner"
 verseLength = 8
-tags = ["amour", "attitudes", "acrostiche"]
-categories = ["Femme", "Mouvement"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A trop tourner le cœur défaille,

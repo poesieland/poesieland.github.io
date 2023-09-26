@@ -1,12 +1,12 @@
 +++
 title = "Esquisse"
+id = "esquisse_8"
 date = 1998-08-11
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "esquisse_8"
-acrostiche = "Esquisse"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Esquisse"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Esquisse d'un sourire

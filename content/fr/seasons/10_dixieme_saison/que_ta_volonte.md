@@ -1,12 +1,12 @@
 +++
 title = "Que ta volonté"
+id = "que_ta_volonte_10"
 date = 1998-12-30
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "que_ta_volonte_10"
-acrostiche = "Que ta volonté"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Que ta volonté"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Que ta volonté soit mienne,

@@ -1,12 +1,12 @@
 +++
 title = "Te sentir"
+id = "te_sentir_12"
 date = 1999-07-22
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "te_sentir_12"
-acrostiche = "Te sentir"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Aimé (amant)", "Toucher"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Te sentir"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Te toucher, te sentir, sur ma peau, dans mes rêves,

@@ -1,12 +1,12 @@
 +++
 title = "Qu'as-tu marqué ?"
+id = "qu_as_tu_marque_6"
 date = 1998-03-22
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "qu_as_tu_marque_6"
-acrostiche = "Qu'as-tu marqué ?"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Qu'as-tu marqué ?"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Qu'as-tu marqué sur cette page ?

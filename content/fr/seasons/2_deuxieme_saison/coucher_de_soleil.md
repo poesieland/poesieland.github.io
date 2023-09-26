@@ -1,12 +1,12 @@
 +++
 title = "Coucher de soleil"
+id = "coucher_de_soleil_2"
 date = 1996-11-28
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "coucher_de_soleil_2"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Crépuscule"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ancien soleil, mon crève-cœur,

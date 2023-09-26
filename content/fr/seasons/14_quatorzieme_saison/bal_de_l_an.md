@@ -1,12 +1,12 @@
 +++
 title = "Bal de l'an"
+id = "bal_de_l_an_14"
 date = 2000-12-28
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "bal_de_l_an_14"
-acrostiche = "Bal de l'an"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Bal de l'an"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Blessant la nuit, ces douze coups

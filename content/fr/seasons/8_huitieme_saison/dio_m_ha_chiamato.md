@@ -1,12 +1,13 @@
 +++
 title = "Dio m'ha chiamato"
+id = "dio_m_ha_chiamato_8"
 date = 1998-08-19
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "dio_m_ha_chiamato_8"
-acrostiche = "Dio m'ha chiamato"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = '"Dieu m'a appelée" en italien.'
+acrostiche = "Dio m'ha chiamato"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dieu m'a livré sa parole,

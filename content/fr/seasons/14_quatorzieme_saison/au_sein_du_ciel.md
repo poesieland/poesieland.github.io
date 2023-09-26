@@ -1,12 +1,13 @@
 +++
 title = "Au sein du ciel"
+id = "au_sein_du_ciel_14"
 date = 2001-03-16
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "au_sein_du_ciel_14"
-acrostiche = "Au sein du ciel"
-tags = ["nature", "acrostiche"]
 categories = ["Ciel"]
+tags = ["nature", "acrostiche"]
+info = 'Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m.'
+acrostiche = "Au sein du ciel"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au plat ciel dénudé

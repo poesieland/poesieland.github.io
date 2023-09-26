@@ -1,12 +1,12 @@
 +++
 title = "L'Abandon"
+id = "l_abandon_10"
 date = 1999-02-05
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "l_abandon_10"
-acrostiche = "L'Abandon"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+acrostiche = "L'Abandon"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le cœur abandonné ne pourra plus chanter

@@ -1,12 +1,12 @@
 +++
 title = "En paillettes"
+id = "en_paillettes_16"
 date = 2002-11-03
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "en_paillettes_16"
-acrostiche = "En paillettes"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "En paillettes"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ivresse de douleurs, et je prie, ô je prie

@@ -1,12 +1,13 @@
 +++
 title = "Ave Maria prega per me"
+id = "ave_maria_prega_per_me_11"
 date = 1999-05-17
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "ave_maria_prega_per_me_11"
-acrostiche = "Ave Maria prega per me"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = '"Ave Maria prie pour moi", d'après une chanson de Pavaroti'
+acrostiche = "Ave Maria prega per me"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Agenouillée une âme prie

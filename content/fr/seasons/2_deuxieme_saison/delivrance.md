@@ -1,12 +1,12 @@
 +++
 title = "Délivrance"
+id = "delivrance_2"
 date = 1996-10-03
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "delivrance_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme un bateau perdu sur une mer étrange,

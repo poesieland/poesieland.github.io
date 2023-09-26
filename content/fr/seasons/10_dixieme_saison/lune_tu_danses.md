@@ -1,12 +1,12 @@
 +++
 title = "Lune, tu danses"
+id = "lune_tu_danses_10"
 date = 1999-02-10
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "lune_tu_danses_10"
-acrostiche = "Lune, tu danses"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
+tags = ["ombres et lumières", "acrostiche"]
+acrostiche = "Lune, tu danses"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Légère, tu danses,

@@ -1,12 +1,12 @@
 +++
 title = "Sur l'océan : revivre"
+id = "sur_l_ocean_revivre_10"
 date = 1999-01-03
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "sur_l_ocean_revivre_10"
-acrostiche = "Sur l'océan : revivre"
-tags = ["nature", "philosophie", "acrostiche"]
 categories = ["Mer", "Espoir"]
+tags = ["nature", "philosophie", "acrostiche"]
+acrostiche = "Sur l'océan : revivre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur les océans de l'espoir

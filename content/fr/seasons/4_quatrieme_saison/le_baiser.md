@@ -1,12 +1,12 @@
 +++
 title = "Le Baiser"
+id = "le_baiser_4"
 date = 1997-08-21
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "le_baiser_4"
-verseLength = 8
-tags = ["amour", "attitudes"]
 categories = ["Romantisme", "Toucher"]
+tags = ["amour", "attitudes"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Bouche qui s'ourle, se réveille,

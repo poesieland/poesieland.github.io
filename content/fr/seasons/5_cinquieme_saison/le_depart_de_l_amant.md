@@ -1,12 +1,12 @@
 +++
 title = "Le Départ de l'Amant"
+id = "le_depart_de_l_amant_5"
 date = 1998-01-19
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "le_depart_de_l_amant_5"
-verseLength = 8
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Avant de partir retiens-nous :

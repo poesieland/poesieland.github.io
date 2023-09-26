@@ -1,12 +1,12 @@
 +++
 title = "Le volcan"
+id = "le_volcan_8"
 date = 1998-08-31
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "le_volcan_8"
-acrostiche = "Le volcan"
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Le volcan"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le volcan sous la lune endormi comme étoile

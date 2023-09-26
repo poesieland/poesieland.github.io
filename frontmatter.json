@@ -7,28 +7,28 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "title",
+          "title": "Title",
           "name": "title",
           "type": "string",
           "description": "poem title",
           "required": true
         },
         {
-          "title": "id",
+          "title": "ID",
           "name": "id",
           "type": "string",
           "description": "normalized title + _N",
           "required": true
         },
         {
-          "title": "writing date",
+          "title": "Writing date",
           "name": "date",
           "type": "datetime",
           "required": true,
           "dateFormat": "yyyy-MM-dd"
         },
         {
-          "title": "weight",
+          "title": "Weight",
           "name": "weight",
           "type": "number",
           "required": true,
@@ -37,24 +37,43 @@
           "step": 1
         },
         {
-          "title": "categories",
+          "title": "Categories",
           "name": "categories",
           "type": "categories"
         },
         {
-          "title": "tags",
+          "title": "Tags",
           "name": "tags",
           "type": "tags"
         },
         {
-          "title": "info",
+          "title": "Additional description",
           "name": "info",
           "type": "string"
         },
         {
-          "title": "acrostiche",
+          "title": "Type (sonnet, pantoum...)",
+          "name": "type",
+          "type": "string"
+        },
+        {
+          "title": "Acrostiche (also add acrostiche tag)",
           "name": "acrostiche",
           "type": "string"
+        },
+        {
+          "title": "Double acrostiche, with | separator (also add doubleAcrostiche tag)",
+          "name": "doubleAcrostiche",
+          "type": "string"
+        },
+        {
+          "title": "Verse length",
+          "name": "verseLength",
+          "type": "number",
+          "required": false,
+          "min": 0,
+          "max": 14,
+          "step": 1
         },
         {
           "title": "LastModifierDisplayName",

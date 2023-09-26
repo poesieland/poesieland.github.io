@@ -1,12 +1,12 @@
 +++
 title = "Neige"
+id = "neige_2"
 date = 1996-12-31
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "neige_2"
-verseLength = 8
-tags = ["nature"]
 categories = ["Neige"]
+tags = ["nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il avait neigé ce matin.

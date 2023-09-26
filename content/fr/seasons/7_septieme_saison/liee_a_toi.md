@@ -1,12 +1,12 @@
 +++
 title = "Liée à toi"
+id = "liee_a_toi_7"
 date = 1998-07-17
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "liee_a_toi_7"
-acrostiche = "Liée à toi"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Liée à toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Liée à toi par l'ombre et la lumière,

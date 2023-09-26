@@ -1,12 +1,12 @@
 +++
 title = "Dans ton cœur"
+id = "dans_ton_cour_7"
 date = 1998-07-13
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "dans_ton_cour_7"
-acrostiche = "Dans ton cœur"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Dans ton cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans ton cœur tendre, embrasse, étreins le mien

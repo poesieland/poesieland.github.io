@@ -1,12 +1,12 @@
 +++
 title = "Dernier sacre"
+id = "dernier_sacre_13"
 date = 1999-08-31
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "dernier_sacre_13"
-acrostiche = "Dernier sacre"
-tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Temps", "Portraits"]
+tags = ["philosophie", "philosophie", "acrostiche"]
+acrostiche = "Dernier sacre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Désormais sans bonheur le dernier roi s'éteint,

@@ -1,12 +1,12 @@
 +++
 title = "J'ai rêvé de toi"
+id = "j_ai_reve_de_toi_9"
 date = 1998-10-23
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "j_ai_reve_de_toi_9"
-acrostiche = "J'ai rêvé de toi"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "J'ai rêvé de toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai rêvé sans comprendre,

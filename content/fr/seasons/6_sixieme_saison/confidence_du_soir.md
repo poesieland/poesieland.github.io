@@ -1,11 +1,11 @@
 +++
 title = "Confidence du soir"
+id = "confidence_du_soir_6"
 date = 1998-05-12
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "confidence_du_soir_6"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lorsque ainsi se transmue en chaque effleurement

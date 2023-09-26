@@ -1,12 +1,12 @@
 +++
 title = "Marine"
+id = "marine_1"
 date = 1996-06-16
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "marine_1"
-verseLength = 12
-tags = ["nature", "philosophie"]
 categories = ["Mer", "Portraits"]
+tags = ["nature", "philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Marine enchanteresse, un nom comme la mer,

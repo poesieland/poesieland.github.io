@@ -1,12 +1,12 @@
 +++
 title = "Marlène"
+id = "marlene_2"
 date = 1996-09-30
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "marlene_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Es-tu blonde, es-tu brune ? Oui mais ton nom Marlène,

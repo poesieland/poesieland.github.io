@@ -1,11 +1,11 @@
 +++
 title = "Poussières"
+id = "poussieres_6"
 date = 1998-04-18
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "poussieres_6"
-tags = ["philosophie", "philosophie"]
 categories = ["Enfance", "Temps"]
+tags = ["philosophie", "philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On a repeint jaune

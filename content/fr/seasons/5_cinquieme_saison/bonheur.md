@@ -1,12 +1,12 @@
 +++
 title = "Bonheur"
+id = "bonheur_5"
 date = 1997-09-19
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "bonheur_5"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai déchiré ton cœur

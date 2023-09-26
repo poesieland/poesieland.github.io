@@ -1,12 +1,12 @@
 +++
 title = "L'or de la lune bleue"
+id = "l_or_de_la_lune_bleue_14"
 date = 1999-12-12
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "l_or_de_la_lune_bleue_14"
-acrostiche = "L'or de la lune bleue"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
+tags = ["ombres et lumières", "acrostiche"]
+acrostiche = "L'or de la lune bleue"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La nuit qui me réveille

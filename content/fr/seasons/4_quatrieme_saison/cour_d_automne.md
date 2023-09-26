@@ -1,12 +1,12 @@
 +++
 title = "Cœur d'automne"
+id = "cour_d_automne_4"
 date = 1997-09-01
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "cour_d_automne_4"
-verseLength = 5
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne au long cours

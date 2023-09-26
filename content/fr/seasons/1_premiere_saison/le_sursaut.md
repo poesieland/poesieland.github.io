@@ -1,12 +1,12 @@
 +++
 title = "Le Sursaut"
+id = "le_sursaut_1"
 date = 1994-01-01
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "le_sursaut_1"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ruines fumantes et décombres

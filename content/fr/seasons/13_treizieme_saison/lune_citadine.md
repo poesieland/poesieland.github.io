@@ -1,12 +1,12 @@
 +++
 title = "Lune citadine"
+id = "lune_citadine_13"
 date = 1999-08-26
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "lune_citadine_13"
-acrostiche = "Lune citadine"
-tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
 categories = ["Lune", "Ville"]
+tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
+acrostiche = "Lune citadine"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune a perdu son chemin,

@@ -1,12 +1,12 @@
 +++
 title = "Rêverie"
+id = "reverie_2"
 date = 1996-10-02
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "reverie_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme un accablement la sirène se tut

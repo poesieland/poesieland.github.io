@@ -1,12 +1,12 @@
 +++
 title = "Par amour"
+id = "par_amour_5"
 date = 1998-02-05
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "par_amour_5"
-verseLength = 8
-tags = ["amour"]
 categories = ["Romantisme"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les fleurs que je t'avais jetées

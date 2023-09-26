@@ -1,12 +1,12 @@
 +++
 title = "Eveil"
+id = "eveil_5"
 date = 1998-01-03
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "eveil_5"
-verseLength = 6
-tags = ["attitudes"]
 categories = ["Toucher"]
+tags = ["attitudes"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mes doigts mis en éveil

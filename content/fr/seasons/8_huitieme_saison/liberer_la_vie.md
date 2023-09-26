@@ -1,12 +1,12 @@
 +++
 title = "Libérer la vie"
+id = "liberer_la_vie_8"
 date = 1998-07-26
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "liberer_la_vie_8"
-acrostiche = "Libérer la vie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Libérer la vie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Libérer la vie au corps,

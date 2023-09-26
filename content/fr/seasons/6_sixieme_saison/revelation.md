@@ -1,11 +1,11 @@
 +++
 title = "Révélation"
+id = "revelation_6"
 date = 1998-05-19
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "revelation_6"
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Hier j'écrivais pour la première fois

@@ -1,11 +1,11 @@
 +++
 title = "En mai"
+id = "en_mai_6"
 date = 1998-05-01
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "en_mai_6"
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En mai dis-moi toujours le rêve et l'amitié,

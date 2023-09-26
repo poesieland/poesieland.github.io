@@ -1,12 +1,12 @@
 +++
 title = "L'Infernale obscure"
+id = "l_infernale_obscure_4"
 date = 1997-08-16
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "l_infernale_obscure_4"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 De la plus haute tour

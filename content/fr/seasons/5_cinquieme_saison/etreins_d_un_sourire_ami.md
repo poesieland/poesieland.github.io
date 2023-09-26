@@ -1,13 +1,13 @@
 +++
 title = "Etreins d'un sourire, ami"
+id = "etreins_d_un_sourire_ami_5"
 date = 1998-01-25
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "etreins_d_un_sourire_ami_5"
+categories = ["Romantisme", "Musique, chant"]
+tags = ["amour", "attitudes", "acrostiche"]
 acrostiche = "Etreins d'un sourire, ami"
 verseLength = 8
-tags = ["amour", "attitudes", "acrostiche"]
-categories = ["Romantisme", "Musique, chant"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Etreins-moi d'un sourire, amour,

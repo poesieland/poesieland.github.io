@@ -1,12 +1,12 @@
 +++
 title = "On m'a cousu le cœur"
+id = "on_m_a_cousu_le_cour_6"
 date = 1998-04-05
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "on_m_a_cousu_le_cour_6"
-acrostiche = "On m'a cousu le cœur"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "On m'a cousu le cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On m'a cousu les lèvres,

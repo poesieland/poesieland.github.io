@@ -1,11 +1,13 @@
 +++
 title = "Trente ans"
+id = "trente_ans_15"
 date = 2001-07-14
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "trente_ans_15"
-tags = ["philosophie", "pantoum"]
 categories = ["Etre"]
+tags = ["philosophie", "pantoum"]
+info = 'Composé pour une amie'
+type = "pantoum"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Voici bien venu l'an, voilà nombre des sages:

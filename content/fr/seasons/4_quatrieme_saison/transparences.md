@@ -1,12 +1,12 @@
 +++
 title = "Transparences"
+id = "transparences_4"
 date = 1997-07-07
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "transparences_4"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le cœur berce d'envies

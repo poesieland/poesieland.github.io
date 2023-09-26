@@ -1,12 +1,14 @@
 +++
 title = "La neve del sogno"
+id = "la_neve_del_sogno_11"
 date = 1999-04-14
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "la_neve_del_sogno_11"
-acrostiche = "La neve del sogno"
-tags = ["nature", "philosophie", "acrostiche", "sonnet"]
 categories = ["Neige", "Etre"]
+tags = ["nature", "philosophie", "acrostiche", "sonnet"]
+info = '"La neve del sogno" : "La neige du rêve" en italien.'
+type = "sonnet"
+acrostiche = "La neve del sogno"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La neige dicte au monde un mouvement sans faille

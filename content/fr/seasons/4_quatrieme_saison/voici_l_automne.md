@@ -1,12 +1,12 @@
 +++
 title = "Voici l'automne"
+id = "voici_l_automne_4"
 date = 1997-09-03
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "voici_l_automne_4"
-verseLength = 6
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Voici venir l'automne

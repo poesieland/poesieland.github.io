@@ -1,12 +1,12 @@
 +++
 title = "La saison"
+id = "la_saison_9"
 date = 1998-09-26
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "la_saison_9"
-acrostiche = "La saison"
-tags = ["saisons", "acrostiche"]
 categories = ["Automne"]
+tags = ["saisons", "acrostiche"]
+acrostiche = "La saison"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne en orphelin qui s'est trompé d'adresse

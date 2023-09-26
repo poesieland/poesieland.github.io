@@ -1,12 +1,12 @@
 +++
 title = "A d'autres"
+id = "a_d_autres_12"
 date = 1999-06-09
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "a_d_autres_12"
-acrostiche = "A d'autres"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "A d'autres"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A d'autres tu donnas ton rêve plus profond

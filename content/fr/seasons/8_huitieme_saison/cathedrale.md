@@ -1,12 +1,12 @@
 +++
 title = "Cathédrale"
+id = "cathedrale_8"
 date = 1998-09-01
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "cathedrale_8"
-acrostiche = "Cathédrale"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Cathédrale"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Croire et prier sous ton dôme,

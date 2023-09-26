@@ -1,12 +1,12 @@
 +++
 title = "L'Amour à mort"
+id = "l_amour_a_mort_4"
 date = 1997-06-22
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "l_amour_a_mort_4"
-verseLength = 8
-tags = ["amour", "nature"]
 categories = ["Romantisme", "Flore"]
+tags = ["amour", "nature"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sont-ce les roses du bonheur

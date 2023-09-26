@@ -1,12 +1,12 @@
 +++
 title = "Tu n'as pas de visage"
+id = "tu_n_as_pas_de_visage_6"
 date = 1998-05-30
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "tu_n_as_pas_de_visage_6"
-acrostiche = "Tu n'as pas de visage"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Tu n'as pas de visage"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu n'as pas de visage à l'ombre dérobée,

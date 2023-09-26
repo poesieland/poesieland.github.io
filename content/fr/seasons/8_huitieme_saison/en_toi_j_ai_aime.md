@@ -1,12 +1,12 @@
 +++
 title = "En toi j'ai aimé"
+id = "en_toi_j_ai_aime_8"
 date = 1998-09-01
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "en_toi_j_ai_aime_8"
-acrostiche = "En toi j'ai aimé"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "En toi j'ai aimé"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En toi j'ai retrouvé ce rêve

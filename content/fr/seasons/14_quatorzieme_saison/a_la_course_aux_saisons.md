@@ -1,12 +1,12 @@
 +++
 title = "A la course aux saisons"
+id = "a_la_course_aux_saisons_14"
 date = 2001-03-24
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "a_la_course_aux_saisons_14"
-acrostiche = "D'une saison l'autre"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Printemps", "Temps"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "D'une saison l'autre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dès que vient le printemps, oh je rêve aux hivers,

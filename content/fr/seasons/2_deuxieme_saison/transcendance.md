@@ -1,12 +1,12 @@
 +++
 title = "Transcendance"
+id = "transcendance_2"
 date = 1996-11-13
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "transcendance_2"
-verseLength = 12
-tags = ["attitudes"]
 categories = ["Toucher"]
+tags = ["attitudes"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ta forme se révèle en étrange harmonie

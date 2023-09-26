@@ -1,12 +1,12 @@
 +++
 title = "Je t'offre"
+id = "je_t_offre_14"
 date = 1999-12-02
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "je_t_offre_14"
-acrostiche = "Je t'offre"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Je t'offre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je veux donner l'amour

@@ -1,12 +1,12 @@
 +++
 title = "Dépouillement"
+id = "depouillement_4"
 date = 1997-07-22
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "depouillement_4"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Effacer la couleur,

@@ -1,12 +1,12 @@
 +++
 title = "Rêve"
+id = "reve_4"
 date = 1997-09-11
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "reve_4"
-verseLength = 6
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Lune", "Espoir"]
+tags = ["ombres et lumières", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 D'un rêve-souvenir

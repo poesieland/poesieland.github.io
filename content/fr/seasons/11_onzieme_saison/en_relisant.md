@@ -1,12 +1,12 @@
 +++
 title = "En relisant..."
+id = "en_relisant_11"
 date = 1999-05-01
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "en_relisant_11"
-acrostiche = "En relisant..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "En relisant..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En relisant d'anciennes pages

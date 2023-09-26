@@ -1,12 +1,12 @@
 +++
 title = "Pour tout mon cœur"
+id = "pour_tout_mon_cour_11"
 date = 1999-05-12
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "pour_tout_mon_cour_11"
-acrostiche = "Pour tout mon cœur"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Pour tout mon cœur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Près de toi la musique, un souffle me réveille

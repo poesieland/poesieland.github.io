@@ -1,12 +1,12 @@
 +++
 title = "Au-delà : voyage"
+id = "au_dela_voyage_11"
 date = 1999-05-07
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "au_dela_voyage_11"
-acrostiche = "Au-delà : voyage"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Au-delà : voyage"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au-delà des mirages

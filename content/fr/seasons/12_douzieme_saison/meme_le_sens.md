@@ -1,12 +1,12 @@
 +++
 title = "Même le sens"
+id = "meme_le_sens_12"
 date = 1999-07-24
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "meme_le_sens_12"
-acrostiche = "Même le sens"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Même le sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Même les mots qu'on ne sait dire

@@ -1,12 +1,13 @@
 +++
 title = "Orage"
+id = "orage_1"
 date = 1996-05-17
 weight = 33
-LastModifierDisplayName = "Barbara Post"
-id = "orage_1"
-verseLength = 8
-tags = ["nature", "sonnet"]
 categories = ["Ciel"]
+tags = ["nature", "sonnet"]
+type = "sonnet"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Immobile en sevrage, attend

@@ -1,11 +1,11 @@
 +++
 title = "Ne m'oubliez"
+id = "ne_m_oubliez_14"
 date = 2000-04-16
 weight = 3
-LastModifierDisplayName = "Barbara Post"
-id = "ne_m_oubliez_14"
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ne m'oubliez jamais même si ça vous coûte,

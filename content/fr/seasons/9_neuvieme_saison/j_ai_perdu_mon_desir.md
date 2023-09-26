@@ -1,12 +1,12 @@
 +++
 title = "J'ai perdu mon désir"
+id = "j_ai_perdu_mon_desir_9"
 date = 1998-12-06
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "j_ai_perdu_mon_desir_9"
-acrostiche = "J'ai perdu mon désir"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "J'ai perdu mon désir"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai perdu mon désir

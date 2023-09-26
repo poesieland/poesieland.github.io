@@ -1,12 +1,12 @@
 +++
 title = "Si tu dors"
+id = "si_tu_dors_16"
 date = 2002-11-24
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "si_tu_dors_16"
-acrostiche = "Si tu dors"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Aimé (amant)", "Sommeil"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Si tu dors"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Si tu dors, ô je te regarde,

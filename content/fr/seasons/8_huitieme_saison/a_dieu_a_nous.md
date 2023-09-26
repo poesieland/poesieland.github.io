@@ -1,12 +1,12 @@
 +++
 title = "A Dieu, à nous"
+id = "a_dieu_a_nous_8"
 date = 1998-07-24
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "a_dieu_a_nous_8"
-acrostiche = "A Dieu, à nous"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "A Dieu, à nous"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A Dieu le berceau vide a tu sa mélodie

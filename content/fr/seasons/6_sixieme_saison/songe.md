@@ -1,11 +1,11 @@
 +++
 title = "Songe"
+id = "songe_6"
 date = 1998-05-29
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "songe_6"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tes mains n'ont pas bercé mon âme,

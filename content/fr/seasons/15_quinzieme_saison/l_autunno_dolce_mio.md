@@ -1,12 +1,12 @@
 +++
 title = "L'autunno, dolce mio"
+id = "l_autunno_dolce_mio_15"
 date = 2001-10-02
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "l_autunno_dolce_mio_15"
-acrostiche = "L'autunno, dolce mio"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Automne", "Etre"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "L'autunno, dolce mio"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne au parfum de printemps

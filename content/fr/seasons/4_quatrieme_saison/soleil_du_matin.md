@@ -1,12 +1,12 @@
 +++
 title = "Soleil du matin"
+id = "soleil_du_matin_4"
 date = 1997-07-23
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "soleil_du_matin_4"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Aube"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Cueillir le soleil au lever,

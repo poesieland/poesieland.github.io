@@ -1,12 +1,12 @@
 +++
 title = "Le Thé"
+id = "le_the_1"
 date = 1996-06-17
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "le_the_1"
-verseLength = 12
-tags = ["nature"]
 categories = ["Flore"]
+tags = ["nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le thé, saveur suprême et force radieuse

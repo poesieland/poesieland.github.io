@@ -1,12 +1,12 @@
 +++
 title = "Miroirs de toi"
+id = "miroirs_de_toi_8"
 date = 1998-08-03
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "miroirs_de_toi_8"
-acrostiche = "Miroirs de toi"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Miroirs de toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon souvenir flou se brisa,

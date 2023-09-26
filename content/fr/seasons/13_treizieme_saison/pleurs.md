@@ -1,12 +1,12 @@
 +++
 title = "Pleurs"
+id = "pleurs_13"
 date = 1999-08-23
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "pleurs_13"
-acrostiche = "Pleurs"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Pleurs"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pleurer comme une petite fille

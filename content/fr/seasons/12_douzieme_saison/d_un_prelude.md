@@ -1,12 +1,12 @@
 +++
 title = "D'un prélude"
+id = "d_un_prelude_12"
 date = 1999-06-02
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "d_un_prelude_12"
-acrostiche = "D'un prélude"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Création"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "D'un prélude"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Doux, le prélude toujours

@@ -1,12 +1,12 @@
 +++
 title = "Amant d'hier, de demain"
+id = "amant_d_hier_de_demain_7"
 date = 1998-07-14
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "amant_d_hier_de_demain_7"
-acrostiche = "Amant d'hier, de demain"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Amant d'hier, de demain"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au revoir sans me retourner,

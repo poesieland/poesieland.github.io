@@ -1,12 +1,12 @@
 +++
 title = "A ce rêve"
+id = "a_ce_reve_7"
 date = 1998-07-18
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "a_ce_reve_7"
-acrostiche = "A ce rêve tu dis"
-tags = ["philosophie", "amour", "acrostiche"]
 categories = ["Espoir", "Romantisme"]
+tags = ["philosophie", "amour", "acrostiche"]
+acrostiche = "A ce rêve tu dis"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 A ce rêve, dis : éclore !

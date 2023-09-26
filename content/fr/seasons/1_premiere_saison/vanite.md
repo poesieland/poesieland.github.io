@@ -1,12 +1,12 @@
 +++
 title = "Vanité"
+id = "vanite_1"
 date = 1994-01-01
 weight = 47
-LastModifierDisplayName = "Barbara Post"
-id = "vanite_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand les monstres d'orgueil aux tragiques visages

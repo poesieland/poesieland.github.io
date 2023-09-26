@@ -1,12 +1,12 @@
 +++
 title = "Si jamais..."
+id = "si_jamais_12"
 date = 1999-06-23
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "si_jamais_12"
-acrostiche = "Si jamais..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Si jamais..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Souviens-toi : le temps, l'espace nous séparent,

@@ -1,12 +1,13 @@
 +++
 title = "Don du soir"
+id = "don_du_soir_13"
 date = 1999-11-05
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "don_du_soir_13"
-acrostiche = "Arcobaleno preghier'"
-tags = ["philosophie", "philosophie", "acrostiche"]
 categories = ["Foi", "Portraits"]
+tags = ["philosophie", "philosophie", "acrostiche"]
+info = '"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson d'A. Bocelli : "Ave Maria no morro".'
+acrostiche = "Arcobaleno preghier'"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au ciel tout incendié le couchant qui s'emplit

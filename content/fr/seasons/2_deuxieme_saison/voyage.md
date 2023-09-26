@@ -1,12 +1,12 @@
 +++
 title = "Voyage"
+id = "voyage_2"
 date = 1996-12-30
 weight = 50
-LastModifierDisplayName = "Barbara Post"
-id = "voyage_2"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Paris, Paris, ville lumière,

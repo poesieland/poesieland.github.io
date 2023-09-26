@@ -1,12 +1,12 @@
 +++
 title = "Tu m'apparus là"
+id = "tu_m_apparus_la_13"
 date = 1999-08-15
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "tu_m_apparus_la_13"
-acrostiche = "Tu m'apparus là"
-tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Tu m'apparus là"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu m'apparus comme on s'approche

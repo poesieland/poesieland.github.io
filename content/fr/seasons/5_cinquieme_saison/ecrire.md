@@ -1,12 +1,12 @@
 +++
 title = "Ecrire"
+id = "ecrire_5"
 date = 1997-09-24
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "ecrire_5"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ecrire de mes doigts

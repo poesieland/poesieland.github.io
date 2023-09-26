@@ -1,11 +1,11 @@
 +++
 title = "Quête de sens"
+id = "quete_de_sens_6"
 date = 1998-05-28
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "quete_de_sens_6"
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je passe d'une langue à l'autre

@@ -1,11 +1,11 @@
 +++
 title = "Dans l'aurore"
+id = "dans_l_aurore_7"
 date = 1998-06-20
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "dans_l_aurore_7"
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans l'aurore fragile

@@ -1,12 +1,12 @@
 +++
 title = "Fils d'automne"
+id = "fils_d_automne_6"
 date = 1998-03-24
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "fils_d_automne_6"
-acrostiche = "Fils d'automne"
-tags = ["philosophie", "acrostiche"]
 categories = ["Portraits"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Fils d'automne"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Fils d'automne ton cœur naquit

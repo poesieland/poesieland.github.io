@@ -1,12 +1,12 @@
 +++
 title = "Bourgeons"
+id = "bourgeons_2"
 date = 1996-10-13
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "bourgeons_2"
-verseLength = 12
-tags = ["saisons", "nature"]
 categories = ["Automne", "Flore"]
+tags = ["saisons", "nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Petits bourgeons menus qui passerez l'hiver,

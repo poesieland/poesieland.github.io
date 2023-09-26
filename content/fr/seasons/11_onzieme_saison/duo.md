@@ -1,12 +1,12 @@
 +++
 title = "Duo"
+id = "duo_11"
 date = 1999-05-10
 weight = 30
-LastModifierDisplayName = "Barbara Post"
-id = "duo_11"
-acrostiche = "Rien n'a changé"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant", "Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Rien n'a changé"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Rien n'a changé, tu sais

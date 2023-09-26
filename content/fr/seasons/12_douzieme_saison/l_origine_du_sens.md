@@ -1,12 +1,13 @@
 +++
 title = "L'origine du sens"
+id = "l_origine_du_sens_12"
 date = 1999-07-02
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "l_origine_du_sens_12"
-acrostiche = "L'origine du sens"
-tags = ["attitudes", "acrostiche", "sonnet"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "L'origine du sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Laissant l'ombre portée au-delà du sensible

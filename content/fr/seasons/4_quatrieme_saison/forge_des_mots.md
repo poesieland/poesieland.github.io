@@ -1,13 +1,13 @@
 +++
 title = "Forge des mots"
+id = "forge_des_mots_4"
 date = 1997-09-03
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "forge_des_mots_4"
+categories = ["Création", "Musique, chant"]
+tags = ["philosophie", "attitudes", "acrostiche"]
 acrostiche = "La musique des mots"
 verseLength = 6
-tags = ["philosophie", "attitudes", "acrostiche"]
-categories = ["Création", "Musique, chant"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La musique des mots,

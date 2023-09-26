@@ -1,12 +1,12 @@
 +++
 title = "Septembre"
+id = "septembre_2"
 date = 1996-09-04
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "septembre_2"
-verseLength = 12
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Septembre qui s'amène emporte mon image,

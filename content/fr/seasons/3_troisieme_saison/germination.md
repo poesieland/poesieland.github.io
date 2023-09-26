@@ -1,12 +1,12 @@
 +++
 title = "Germination"
+id = "germination_3"
 date = 1997-01-15
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "germination_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Attendre dans l'œil du cyclone,

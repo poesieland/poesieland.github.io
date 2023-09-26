@@ -1,12 +1,12 @@
 +++
 title = "Prière"
+id = "priere_10"
 date = 1999-02-17
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "priere_10"
-acrostiche = "Ave Maria"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Ave Maria"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Avant que je m'en aille

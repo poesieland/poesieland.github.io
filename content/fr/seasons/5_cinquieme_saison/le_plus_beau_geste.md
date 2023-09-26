@@ -1,12 +1,12 @@
 +++
 title = "Le plus beau geste"
+id = "le_plus_beau_geste_5"
 date = 1998-01-17
 weight = 13
-LastModifierDisplayName = "Barbara Post"
-id = "le_plus_beau_geste_5"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le plus beau geste c'est donner,

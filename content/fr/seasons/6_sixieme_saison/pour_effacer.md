@@ -1,11 +1,11 @@
 +++
 title = "Pour effacer"
+id = "pour_effacer_6"
 date = 1998-04-07
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "pour_effacer_6"
-tags = ["philosophie"]
 categories = ["Espoir"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pour effacer tes pas

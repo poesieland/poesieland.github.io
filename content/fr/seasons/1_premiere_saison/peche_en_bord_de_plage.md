@@ -1,12 +1,12 @@
 +++
 title = "Pêche en bord de plage"
+id = "peche_en_bord_de_plage_1"
 date = 1996-07-12
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "peche_en_bord_de_plage_1"
-verseLength = 12
-tags = ["nature"]
 categories = ["Mer"]
+tags = ["nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ainsi qu'un fol navire écumant les récifs,

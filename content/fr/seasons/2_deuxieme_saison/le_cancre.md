@@ -1,12 +1,12 @@
 +++
 title = "Le cancre"
+id = "le_cancre_2"
 date = 1996-09-13
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "le_cancre_2"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Portraits"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Plisse ton front fiévreux creusé de mille rides,

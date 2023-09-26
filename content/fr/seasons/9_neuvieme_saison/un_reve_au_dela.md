@@ -1,12 +1,12 @@
 +++
 title = "Un rêve au-delà"
+id = "un_reve_au_dela_9"
 date = 1998-12-26
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "un_reve_au_dela_9"
-acrostiche = "Un rêve au-delà"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Nuit", "Temps"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Un rêve au-delà"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un rêve au-delà, sidéral,

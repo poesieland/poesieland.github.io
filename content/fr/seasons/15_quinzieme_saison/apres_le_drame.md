@@ -1,11 +1,12 @@
 +++
 title = "Après le drame"
+id = "apres_le_drame_15"
 date = 2001-07-26
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "apres_le_drame_15"
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+info = 'En mémoire des 113 victimes du crash du Concorde du 25.07.2000.'
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Toutes les femmes sont en noir,

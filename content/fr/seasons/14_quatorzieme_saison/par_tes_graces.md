@@ -1,12 +1,12 @@
 +++
 title = "Par tes grâces"
+id = "par_tes_graces_14"
 date = 1999-11-28
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "par_tes_graces_14"
-acrostiche = "Par tes grâces"
-tags = ["philosophie", "attitudes", "acrostiche"]
 categories = ["Foi", "Musique, chant"]
+tags = ["philosophie", "attitudes", "acrostiche"]
+acrostiche = "Par tes grâces"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Plus près de Dieu par ton visage

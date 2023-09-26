@@ -1,12 +1,12 @@
 +++
 title = "J'ai troqué le bonheur"
+id = "j_ai_troque_le_bonheur_5"
 date = 1998-01-28
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "j_ai_troque_le_bonheur_5"
-verseLength = 6
-tags = ["philosophie"]
 categories = ["Apprentissage"]
+tags = ["philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai troqué le bonheur

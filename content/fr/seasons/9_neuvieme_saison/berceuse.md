@@ -1,12 +1,12 @@
 +++
 title = "Berceuse"
+id = "berceuse_9"
 date = 1998-09-19
 weight = 18
-LastModifierDisplayName = "Barbara Post"
-id = "berceuse_9"
-acrostiche = "Tu sens..."
-tags = ["attitudes", "attitudes", "acrostiche"]
 categories = ["Musique, chant", "Sommeil"]
+tags = ["attitudes", "attitudes", "acrostiche"]
+acrostiche = "Tu sens..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu sens comme cette douceur

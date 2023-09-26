@@ -1,12 +1,12 @@
 +++
 title = "Tant de sens"
+id = "tant_de_sens_12"
 date = 1999-06-05
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "tant_de_sens_12"
-acrostiche = "Tant de sens"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Musique, chant", "Temps"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Tant de sens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu sais : les choses les plus belles

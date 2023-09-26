@@ -1,12 +1,13 @@
 +++
 title = "La serrure d'un cœur"
+id = "la_serrure_d_un_cour_7"
 date = 1998-07-02
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "la_serrure_d_un_cour_7"
-acrostiche = "La clef d'un songe"
-tags = ["philosophie", "acrostiche", "sonnet"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "La clef d'un songe"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La clef d'un songe enfui me laissait infidèle

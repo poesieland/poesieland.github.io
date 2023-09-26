@@ -1,12 +1,13 @@
 +++
 title = "Mariée au soleil"
+id = "mariee_au_soleil_12"
 date = 1999-06-12
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "mariee_au_soleil_12"
-acrostiche = "Mariée au soleil"
-tags = ["attitudes", "acrostiche", "sonnet"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "Mariée au soleil"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mes battements plus forts

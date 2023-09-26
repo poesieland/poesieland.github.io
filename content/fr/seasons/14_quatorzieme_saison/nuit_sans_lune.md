@@ -1,11 +1,12 @@
 +++
 title = "Nuit sans lune"
+id = "nuit_sans_lune_14"
 date = 2000-12-19
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "nuit_sans_lune_14"
-tags = ["philosophie", "pantoum"]
 categories = ["Etre"]
+tags = ["philosophie", "pantoum"]
+type = "pantoum"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Par une nuit sans lune ô nuit sans lune au ciel !

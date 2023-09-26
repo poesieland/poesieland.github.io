@@ -1,12 +1,12 @@
 +++
 title = "Viens, amant"
+id = "viens_amant_14"
 date = 2001-01-30
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "viens_amant_14"
-acrostiche = "Viens en moi"
-tags = ["amour", "attitudes", "acrostiche"]
 categories = ["Romantisme", "Toucher"]
+tags = ["amour", "attitudes", "acrostiche"]
+acrostiche = "Viens en moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Viens bel amant, d'un cœur floral

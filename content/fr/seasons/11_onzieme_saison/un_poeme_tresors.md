@@ -1,12 +1,12 @@
 +++
 title = "Un poème : trésors"
+id = "un_poeme_tresors_11"
 date = 1999-04-30
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "un_poeme_tresors_11"
-acrostiche = "Un poème : trésors"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Un poème : trésors"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un poème, quelques vers

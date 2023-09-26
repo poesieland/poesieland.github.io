@@ -1,12 +1,12 @@
 +++
 title = "Un regard"
+id = "un_regard_6"
 date = 1998-04-26
 weight = 28
-LastModifierDisplayName = "Barbara Post"
-id = "un_regard_6"
-acrostiche = "Un regard"
-tags = ["amour", "acrostiche"]
 categories = ["Amitié"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Un regard"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un soir de juin, je n'ai pas oublié :

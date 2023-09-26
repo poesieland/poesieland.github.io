@@ -1,12 +1,12 @@
 +++
 title = "Mimosa"
+id = "mimosa_2"
 date = 1996-11-20
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "mimosa_2"
-verseLength = 12
-tags = ["nature"]
 categories = ["Flore"]
+tags = ["nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Embaume mon jardin jusqu'à la Canebière,

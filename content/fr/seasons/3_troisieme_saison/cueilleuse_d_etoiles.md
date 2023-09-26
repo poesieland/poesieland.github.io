@@ -1,12 +1,12 @@
 +++
 title = "Cueilleuse d'étoiles"
+id = "cueilleuse_d_etoiles_3"
 date = 1997-02-09
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "cueilleuse_d_etoiles_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Son âme tendre savait vivre

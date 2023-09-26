@@ -1,12 +1,12 @@
 +++
 title = "Je me souviens"
+id = "je_me_souviens_12"
 date = 1999-05-23
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "je_me_souviens_12"
-acrostiche = "Je me souviens"
-tags = ["philosophie", "saisons", "acrostiche"]
 categories = ["Temps", "Hiver"]
+tags = ["philosophie", "saisons", "acrostiche"]
+acrostiche = "Je me souviens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je me souviens des jours d'hivers,

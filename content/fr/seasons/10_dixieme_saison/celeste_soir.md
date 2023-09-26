@@ -1,12 +1,12 @@
 +++
 title = "Céleste soir"
+id = "celeste_soir_10"
 date = 1999-02-21
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "celeste_soir_10"
-acrostiche = "Le ciel du soir"
-tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
 categories = ["Crépuscule", "Ville"]
+tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
+acrostiche = "Le ciel du soir"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel était clair tout à l'heure,

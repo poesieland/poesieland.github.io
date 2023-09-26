@@ -1,12 +1,13 @@
 +++
 title = "Pregare, la fede mia"
+id = "pregare_la_fede_mia_12"
 date = 1999-06-17
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "pregare_la_fede_mia_12"
-acrostiche = "Pregare, la fede mia"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = '"Prier, ma foi" en italien.'
+acrostiche = "Pregare, la fede mia"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Prier, croire en ce sens, en ce lieu, l'éternelle

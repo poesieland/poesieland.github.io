@@ -1,13 +1,13 @@
 +++
 title = "Rêve d'automne"
+id = "reve_d_automne_4"
 date = 1997-08-13
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "reve_d_automne_4"
+categories = ["Automne"]
+tags = ["saisons", "acrostiche"]
 acrostiche = "Les rêves doux"
 verseLength = 8
-tags = ["saisons", "acrostiche"]
-categories = ["Automne"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les rêves doux sont les plus beaux

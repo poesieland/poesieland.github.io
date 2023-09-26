@@ -1,12 +1,13 @@
 +++
 title = "Luna che dai"
+id = "luna_che_dai_11"
 date = 1999-04-01
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "luna_che_dai_11"
-acrostiche = "Luna che dai"
-tags = ["ombres et lumières", "acrostiche"]
 categories = ["Lune"]
+tags = ["ombres et lumières", "acrostiche"]
+info = '"Luna che dai" : "Lune que tu donnes" en italien.'
+acrostiche = "Luna che dai"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune que tu donnes :

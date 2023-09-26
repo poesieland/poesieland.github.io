@@ -1,12 +1,12 @@
 +++
 title = "Jardin, dits vers"
+id = "jardin_dits_vers_14"
 date = 2000-12-28
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "jardin_dits_vers_14"
-acrostiche = "Jardin, dits vers"
-tags = ["saisons", "philosophie", "acrostiche"]
 categories = ["Hiver", "Temps"]
+tags = ["saisons", "philosophie", "acrostiche"]
+acrostiche = "Jardin, dits vers"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Jetées sur les chemins sans ombre, ternes,

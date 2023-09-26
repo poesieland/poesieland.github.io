@@ -1,13 +1,13 @@
 +++
 title = "Quand l'heure sonne"
+id = "quand_l_heure_sonne_5"
 date = 1998-03-01
 weight = 14
-LastModifierDisplayName = "Barbara Post"
-id = "quand_l_heure_sonne_5"
+categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
 acrostiche = "Quand l'heure sonne"
 verseLength = 10
-tags = ["philosophie", "acrostiche"]
-categories = ["Temps"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand l'heure sonne au carillon de l'âme

@@ -1,12 +1,12 @@
 +++
 title = "Promenade citadine"
+id = "promenade_citadine_1"
 date = 1996-06-22
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "promenade_citadine_1"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Ville"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans ma ville au bord du canal

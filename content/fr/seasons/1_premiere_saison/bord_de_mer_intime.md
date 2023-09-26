@@ -1,12 +1,12 @@
 +++
 title = "Bord de mer intime"
+id = "bord_de_mer_intime_1"
 date = 1996-07-09
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "bord_de_mer_intime_1"
-verseLength = 12
-tags = ["nature"]
 categories = ["Mer"]
+tags = ["nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un souvenir marin m'emplissait tout à l'heure,

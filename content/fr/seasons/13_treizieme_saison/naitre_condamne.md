@@ -1,12 +1,12 @@
 +++
 title = "Naître condamné"
+id = "naitre_condamne_13"
 date = 1999-09-11
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "naitre_condamne_13"
-acrostiche = "Naître condamné"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Naître condamné"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ne demande jamais : "pour qui sonne le glas ?"

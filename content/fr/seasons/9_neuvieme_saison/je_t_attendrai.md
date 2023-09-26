@@ -1,12 +1,12 @@
 +++
 title = "Je t'attendrai"
+id = "je_t_attendrai_9"
 date = 1998-10-19
 weight = 42
-LastModifierDisplayName = "Barbara Post"
-id = "je_t_attendrai_9"
-acrostiche = "Je t'attendrai"
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Romantisme", "Création"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "Je t'attendrai"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je n'attends qu'un regard; un non-dit plus suave

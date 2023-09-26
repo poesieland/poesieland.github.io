@@ -1,12 +1,12 @@
 +++
 title = "D'aimer l'envie"
+id = "d_aimer_l_envie_7"
 date = 1998-06-07
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "d_aimer_l_envie_7"
-acrostiche = "D'aimer l'envie"
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Amour malheureux", "Création"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "D'aimer l'envie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 D'aimer l'envie : écrire au cœur,

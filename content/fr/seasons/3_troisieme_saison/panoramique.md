@@ -1,12 +1,12 @@
 +++
 title = "Panoramique"
+id = "panoramique_3"
 date = 1997-03-18
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "panoramique_3"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Nuit"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel est comme un paravent

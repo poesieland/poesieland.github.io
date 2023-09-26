@@ -1,12 +1,13 @@
 +++
 title = "Quando sarò io"
+id = "quando_saro_io_14"
 date = 2000-02-19
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "quando_saro_io_14"
-acrostiche = "Quando sarò io"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création", "Temps"]
+tags = ["philosophie", "acrostiche"]
+info = '"Quand je serai (moi)" en italien.'
+acrostiche = "Quando sarò io"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand la neige aura bercé le vent de mer

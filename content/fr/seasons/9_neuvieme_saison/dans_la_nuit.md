@@ -1,12 +1,12 @@
 +++
 title = "Dans la nuit"
+id = "dans_la_nuit_9"
 date = 1998-12-21
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "dans_la_nuit_9"
-acrostiche = "Dans la nuit"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Nuit", "Temps"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Dans la nuit"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dans la nuit cristalline entendais-tu la stèle

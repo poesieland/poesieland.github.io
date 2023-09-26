@@ -1,11 +1,11 @@
 +++
 title = "Je rêve"
+id = "je_reve_10"
 date = 1999-02-18
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "je_reve_10"
-tags = ["philosophie", "ombres et lumières"]
 categories = ["Etre", "Aube"]
+tags = ["philosophie", "ombres et lumières"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je rêve sans réfléchir

@@ -1,12 +1,12 @@
 +++
 title = "Déception"
+id = "deception_4"
 date = 1997-09-06
 weight = 22
-LastModifierDisplayName = "Barbara Post"
-id = "deception_4"
-verseLength = 8
-tags = ["amour"]
 categories = ["Amour malheureux"]
+tags = ["amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai pris ton cœur pour un mirage :

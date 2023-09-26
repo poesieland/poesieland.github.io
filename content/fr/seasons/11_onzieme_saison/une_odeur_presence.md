@@ -1,12 +1,12 @@
 +++
 title = "Une odeur : présence"
+id = "une_odeur_presence_11"
 date = 1999-04-23
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "une_odeur_presence_11"
-acrostiche = "Une odeur : présence"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Une odeur : présence"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Une odeur de pluie

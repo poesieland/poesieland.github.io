@@ -1,12 +1,12 @@
 +++
 title = "Croyance"
+id = "croyance_8"
 date = 1998-07-28
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "croyance_8"
-acrostiche = "Con te partirò"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Con te partirò"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ce que l'on croyait vif comme encre indélébile

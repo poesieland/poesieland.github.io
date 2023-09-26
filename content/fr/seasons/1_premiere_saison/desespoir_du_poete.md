@@ -1,12 +1,12 @@
 +++
 title = "Désespoir du poète"
+id = "desespoir_du_poete_1"
 date = 1996-07-30
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "desespoir_du_poete_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 O malheureux poète, ô cœur infortuné

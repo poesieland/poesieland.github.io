@@ -1,12 +1,12 @@
 +++
 title = "Lune meurtrière"
+id = "lune_meurtriere_3"
 date = 1997-01-23
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "lune_meurtriere_3"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune lueur d'incendie

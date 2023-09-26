@@ -1,12 +1,12 @@
 +++
 title = "Don, enfant, vie"
+id = "don_enfant_vie_13"
 date = 1999-08-29
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "don_enfant_vie_13"
-acrostiche = "Don, enfant, vie"
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage", "Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Don, enfant, vie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Donner à son enfant les sourires du monde,

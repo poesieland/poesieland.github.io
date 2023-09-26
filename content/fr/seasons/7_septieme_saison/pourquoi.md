@@ -1,12 +1,12 @@
 +++
 title = "Pourquoi ?"
+id = "pourquoi_7"
 date = 1998-07-18
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "pourquoi_7"
-acrostiche = "Pourquoi ?"
-tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Pourquoi ?"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Pourquoi dire oui, non, peut-être,

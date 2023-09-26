@@ -1,12 +1,12 @@
 +++
 title = "Tu resteras"
+id = "tu_resteras_7"
 date = 1998-07-01
 weight = 12
-LastModifierDisplayName = "Barbara Post"
-id = "tu_resteras_7"
-acrostiche = "Tu resteras"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Tu resteras"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu resteras timbre ténor

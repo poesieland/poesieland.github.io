@@ -1,12 +1,12 @@
 +++
 title = "Dentro la tua anima"
+id = "dentro_la_tua_anima_6"
 date = 1998-04-06
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "dentro_la_tua_anima_6"
-acrostiche = "Dentro la tua anima"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Dentro la tua anima"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dis-moi qu'au berceau de ton âme

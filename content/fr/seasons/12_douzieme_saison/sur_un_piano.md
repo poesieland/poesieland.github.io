@@ -1,12 +1,12 @@
 +++
 title = "Sur un piano"
+id = "sur_un_piano_12"
 date = 1999-06-12
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "sur_un_piano_12"
-acrostiche = "Sur un piano"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Sur un piano"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur un piano tu joues,

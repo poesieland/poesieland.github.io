@@ -1,12 +1,12 @@
 +++
 title = "Guerre"
+id = "guerre_11"
 date = 1999-05-03
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "guerre_11"
-acrostiche = "Même ciel"
-tags = ["philosophie", "acrostiche"]
 categories = ["Révolte"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Même ciel"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Marcher sur une âme

@@ -1,12 +1,12 @@
 +++
 title = "Besoin de toi"
+id = "besoin_de_toi_5"
 date = 1998-02-15
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "besoin_de_toi_5"
-verseLength = 8
-tags = ["attitudes", "amour"]
 categories = ["Toucher", "Aimé (amant)"]
+tags = ["attitudes", "amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On n'a pas besoin de couleurs

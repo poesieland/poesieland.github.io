@@ -1,12 +1,12 @@
 +++
 title = "Sous le sureau"
+id = "sous_le_sureau_3"
 date = 1997-01-07
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "sous_le_sureau_3"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Enfance"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Qui n'a jamais aimé l'école

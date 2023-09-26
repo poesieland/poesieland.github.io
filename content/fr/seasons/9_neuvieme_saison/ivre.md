@@ -1,12 +1,12 @@
 +++
 title = "Ivre"
+id = "ivre_9"
 date = 1998-09-20
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "ivre_9"
-acrostiche = "Ivre"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Ivre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ivre chanson chantée à chœur,

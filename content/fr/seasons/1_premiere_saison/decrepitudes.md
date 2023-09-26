@@ -1,12 +1,12 @@
 +++
 title = "Décrépitudes"
+id = "decrepitudes_1"
 date = 1994-01-01
 weight = 45
-LastModifierDisplayName = "Barbara Post"
-id = "decrepitudes_1"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Même si l'on voulut que n'adviennent ces faits,

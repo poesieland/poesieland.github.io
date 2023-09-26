@@ -1,12 +1,12 @@
 +++
 title = "N'être à jamais"
+id = "n_etre_a_jamais_10"
 date = 1998-01-01
 weight = 20
-LastModifierDisplayName = "Barbara Post"
-id = "n_etre_a_jamais_10"
-acrostiche = "N'être à jamais"
-tags = ["nature", "acrostiche"]
 categories = ["Flore"]
+tags = ["nature", "acrostiche"]
+acrostiche = "N'être à jamais"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Naître à jamais, tombeau cristal,

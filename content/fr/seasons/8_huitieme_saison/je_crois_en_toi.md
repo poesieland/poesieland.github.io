@@ -1,12 +1,12 @@
 +++
 title = "Je crois en toi"
+id = "je_crois_en_toi_8"
 date = 1998-07-23
 weight = 10
-LastModifierDisplayName = "Barbara Post"
-id = "je_crois_en_toi_8"
-acrostiche = "Je crois en toi"
-tags = ["amour", "acrostiche"]
 categories = ["Aimé (amant)"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Je crois en toi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je crois en toi, l'amant, l'unique,

@@ -1,12 +1,12 @@
 +++
 title = "Prière de la Lune"
+id = "priere_de_la_lune_5"
 date = 1998-02-26
 weight = 49
-LastModifierDisplayName = "Barbara Post"
-id = "priere_de_la_lune_5"
-acrostiche = "Hijo de la luna"
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
 categories = ["Lune", "Révolte"]
+tags = ["ombres et lumières", "philosophie", "acrostiche"]
+acrostiche = "Hijo de la luna"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Humble sur l'océan miroir de sa prière

@@ -1,12 +1,12 @@
 +++
 title = "Entre tes bras"
+id = "entre_tes_bras_14"
 date = 1999-11-21
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "entre_tes_bras_14"
-acrostiche = "Entre tes bras"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement", "Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Entre tes bras"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Emmène-moi, ce monde étrange

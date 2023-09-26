@@ -1,12 +1,12 @@
 +++
 title = "Lune rouge"
+id = "lune_rouge_4"
 date = 1997-08-19
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "lune_rouge_4"
-verseLength = 8
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune est rouge et le ciel bleu,

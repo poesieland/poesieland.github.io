@@ -1,12 +1,12 @@
 +++
 title = "Sur le stade d'aimer"
+id = "sur_le_stade_d_aimer_7"
 date = 1998-07-04
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "sur_le_stade_d_aimer_7"
-acrostiche = "Sur le stade d'aimer"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Sur le stade d'aimer"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur le grand stade de mon cœur

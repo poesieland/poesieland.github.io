@@ -1,12 +1,13 @@
 +++
 title = "Sérénité"
+id = "serenite_14"
 date = 2001-03-15
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "serenite_14"
-acrostiche = "Sérénité"
-tags = ["nature", "acrostiche"]
 categories = ["Jardin, paysage", "Ciel"]
+tags = ["nature", "acrostiche"]
+info = 'Les Alpes...'
+acrostiche = "Sérénité"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Silence murmuré, blanc mont

@@ -1,12 +1,12 @@
 +++
 title = "Octobre"
+id = "octobre_2"
 date = 1996-10-01
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "octobre_2"
-verseLength = 12
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Octobre qui s'avance emporte mon espoir

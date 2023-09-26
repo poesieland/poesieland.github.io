@@ -1,12 +1,12 @@
 +++
 title = "Pluie indienne"
+id = "pluie_indienne_2"
 date = 1996-10-26
 weight = 44
-LastModifierDisplayName = "Barbara Post"
-id = "pluie_indienne_2"
-verseLength = 6
-tags = ["philosophie", "nature"]
 categories = ["Espoir", "Eau douce"]
+tags = ["philosophie", "nature"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il pleut. Petit bonheur.

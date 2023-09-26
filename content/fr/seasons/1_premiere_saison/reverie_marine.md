@@ -1,11 +1,12 @@
 +++
 title = "Rêverie marine"
+id = "reverie_marine_1"
 date = 1995-11-01
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "reverie_marine_1"
-tags = ["nature", "philosophie"]
 categories = ["Mer", "Foi"]
+tags = ["nature", "philosophie"]
+info = 'Un des rares poèmes en prose...'
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ressac immortel

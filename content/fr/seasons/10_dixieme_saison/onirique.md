@@ -1,12 +1,12 @@
 +++
 title = "Onirique"
+id = "onirique_10"
 date = 1999-02-26
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "onirique_10"
-acrostiche = "Onirique"
-tags = ["philosophie", "nature", "acrostiche"]
 categories = ["Etre", "Ciel"]
+tags = ["philosophie", "nature", "acrostiche"]
+acrostiche = "Onirique"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Onirique, à l'origine d'un monde,

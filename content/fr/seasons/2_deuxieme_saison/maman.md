@@ -1,12 +1,13 @@
 +++
 title = "Maman"
+id = "maman_2"
 date = 1996-09-04
 weight = 9
-LastModifierDisplayName = "Barbara Post"
-id = "maman_2"
-verseLength = 12
-tags = ["philosophie", "philosophie", "sonnet"]
 categories = ["Portraits", "Enfance"]
+tags = ["philosophie", "philosophie", "sonnet"]
+type = "sonnet"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ma mère comme un ange au sourire si bon

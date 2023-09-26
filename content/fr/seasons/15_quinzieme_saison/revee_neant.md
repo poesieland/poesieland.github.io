@@ -1,12 +1,12 @@
 +++
 title = "Rêvée, néant"
+id = "revee_neant_15"
 date = 2001-11-14
 weight = 48
-LastModifierDisplayName = "Barbara Post"
-id = "revee_neant_15"
-acrostiche = "Rêvée, néant"
-tags = ["amour", "philosophie", "acrostiche"]
 categories = ["Aimé (amant)", "Révolte"]
+tags = ["amour", "philosophie", "acrostiche"]
+acrostiche = "Rêvée, néant"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Reprends ton cœur, je vais me rendormir,

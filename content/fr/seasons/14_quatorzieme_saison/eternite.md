@@ -1,12 +1,12 @@
 +++
 title = "Eternité"
+id = "eternite_14"
 date = 1999-12-05
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "eternite_14"
-acrostiche = "Quando Corpus"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps", "Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Quando Corpus"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand plus loin que la nuit que berce le rivage

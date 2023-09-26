@@ -1,12 +1,12 @@
 +++
 title = "Marie, prie pour moi"
+id = "marie_prie_pour_moi_10"
 date = 1999-01-04
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "marie_prie_pour_moi_10"
-acrostiche = "Marie, prie pour moi"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Marie, prie pour moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Madone aux yeux de verre, à la robe de plâtre

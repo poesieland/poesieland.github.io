@@ -1,12 +1,12 @@
 +++
 title = "Début septembre"
+id = "debut_septembre_4"
 date = 1997-09-07
 weight = 5
-LastModifierDisplayName = "Barbara Post"
-id = "debut_septembre_4"
-verseLength = 6
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La fin d'été se cambre :

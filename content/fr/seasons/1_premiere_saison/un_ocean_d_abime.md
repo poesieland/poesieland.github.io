@@ -1,12 +1,12 @@
 +++
 title = "Un océan d'abîme"
+id = "un_ocean_d_abime_1"
 date = 1996-09-01
 weight = 8
-LastModifierDisplayName = "Barbara Post"
-id = "un_ocean_d_abime_1"
-verseLength = 12
-tags = ["amour"]
 categories = ["Amour malheureux"]
+tags = ["amour"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Il pleure dans mon cœur comme il pleut sur ton corps

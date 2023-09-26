@@ -1,12 +1,12 @@
 +++
 title = "Aube d'un poème"
+id = "aube_d_un_poeme_9"
 date = 1998-11-19
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "aube_d_un_poeme_9"
-acrostiche = "Aube d'un poème"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Aube d'un poème"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Alors pensé, crée, vivant à peine en germe,

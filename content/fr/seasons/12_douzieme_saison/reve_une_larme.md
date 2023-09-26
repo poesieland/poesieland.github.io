@@ -1,12 +1,12 @@
 +++
 title = "Rêve, une larme"
+id = "reve_une_larme_12"
 date = 1999-06-06
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "reve_une_larme_12"
-acrostiche = "Rêve, une larme"
-tags = ["amour", "acrostiche"]
 categories = ["Amour malheureux"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Rêve, une larme"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Rêve dit les accents

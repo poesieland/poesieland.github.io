@@ -1,12 +1,12 @@
 +++
 title = "Danse, amour"
+id = "danse_amour_11"
 date = 1999-05-16
 weight = 11
-LastModifierDisplayName = "Barbara Post"
-id = "danse_amour_11"
-acrostiche = "Danse, amour"
-tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Mouvement", "Romantisme"]
+tags = ["attitudes", "amour", "acrostiche"]
+acrostiche = "Danse, amour"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Danse lascive, un corps

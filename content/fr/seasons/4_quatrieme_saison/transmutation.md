@@ -1,12 +1,12 @@
 +++
 title = "Transmutation"
+id = "transmutation_4"
 date = 1997-08-20
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "transmutation_4"
-verseLength = 6
-tags = ["nature", "philosophie"]
 categories = ["Jardin, paysage", "Etre"]
+tags = ["nature", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Et tous les mots d'amour

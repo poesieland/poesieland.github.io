@@ -1,12 +1,12 @@
 +++
 title = "Composé d'un secret"
+id = "compose_d_un_secret_6"
 date = 1998-04-26
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "compose_d_un_secret_6"
-acrostiche = "Composé d'un secret"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Composé d'un secret"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Composé d'un secret,

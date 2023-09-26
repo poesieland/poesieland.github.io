@@ -1,12 +1,12 @@
 +++
 title = "Débauche printanière"
+id = "debauche_printaniere_3"
 date = 1997-02-26
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "debauche_printaniere_3"
-verseLength = 12
-tags = ["saisons", "nature"]
 categories = ["Printemps", "Flore"]
+tags = ["saisons", "nature"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Perce-neige, crocus, et bientôt les tulipes,

@@ -1,12 +1,13 @@
 +++
 title = "Quando il soffio"
+id = "quando_il_soffio_13"
 date = 1999-09-16
 weight = 39
-LastModifierDisplayName = "Barbara Post"
-id = "quando_il_soffio_13"
-acrostiche = "Quando il soffio"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre", "Création"]
+tags = ["philosophie", "acrostiche"]
+info = '"Quand le souffle" en italien.'
+acrostiche = "Quando il soffio"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand le souffle du vent transfigure le monde

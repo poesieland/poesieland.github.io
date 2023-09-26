@@ -1,12 +1,12 @@
 +++
 title = "Matinales"
+id = "matinales_4"
 date = 1997-08-25
 weight = 40
-LastModifierDisplayName = "Barbara Post"
-id = "matinales_4"
-verseLength = 6
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Aube", "Etre"]
+tags = ["ombres et lumières", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand un avion trace

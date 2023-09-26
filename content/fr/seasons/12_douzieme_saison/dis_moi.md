@@ -1,12 +1,12 @@
 +++
 title = "Dis-moi"
+id = "dis_moi_12"
 date = 1999-06-09
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "dis_moi_12"
-acrostiche = "Dis-moi"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Dis-moi"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Dis-moi le cœur et l'aventure

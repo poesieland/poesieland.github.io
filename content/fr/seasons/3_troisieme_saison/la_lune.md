@@ -1,12 +1,12 @@
 +++
 title = "La Lune"
+id = "la_lune_3"
 date = 1997-04-09
 weight = 4
-LastModifierDisplayName = "Barbara Post"
-id = "la_lune_3"
-verseLength = 5
-tags = ["ombres et lumières"]
 categories = ["Lune"]
+tags = ["ombres et lumières"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lune de nacelle,

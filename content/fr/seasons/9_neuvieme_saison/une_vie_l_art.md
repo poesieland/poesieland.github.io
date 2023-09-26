@@ -1,12 +1,12 @@
 +++
 title = "Une vie : l'art"
+id = "une_vie_l_art_9"
 date = 1998-11-07
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "une_vie_l_art_9"
-acrostiche = "Une vie : l'art"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Une vie : l'art"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un matin l'ombre dit : que la lumière soit !

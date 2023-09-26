@@ -1,12 +1,13 @@
 +++
 title = "Ave Maria non morro"
+id = "ave_maria_non_morro_10"
 date = 1999-03-04
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "ave_maria_non_morro_10"
-acrostiche = "Ave Maria non morro"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+info = 'D'après une chanson homonyme'
+acrostiche = "Ave Maria non morro"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ave Maria sur la tombe où les roses

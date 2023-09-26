@@ -1,12 +1,13 @@
 +++
 title = "Sinfonia corsa"
+id = "sinfonia_corsa_2"
 date = 1996-10-17
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "sinfonia_corsa_2"
-verseLength = 12
-tags = ["philosophie", "sonnet"]
 categories = ["Révolte"]
+tags = ["philosophie", "sonnet"]
+type = "sonnet"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au cœur de l'île verte aux montagnes altières

@@ -1,12 +1,14 @@
 +++
 title = "J'écrirai ce mot, l'ultime"
+id = "j_ecrirai_ce_mot_l_ultime_10"
 date = 1999-02-15
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "j_ecrirai_ce_mot_l_ultime_10"
-doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie", "doubleAcrostiche"]
+info = 'Inspiré par la
+                comédie musicale "Notre-Dame de Paris")'
+doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je laisserai les mots s'écrire,

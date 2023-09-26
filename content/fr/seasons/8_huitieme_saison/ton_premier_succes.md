@@ -1,12 +1,12 @@
 +++
 title = "Ton premier succès"
+id = "ton_premier_succes_8"
 date = 1998-08-01
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "ton_premier_succes_8"
-acrostiche = "Ton premier succès"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Ton premier succès"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ton premier succès fut le mien,

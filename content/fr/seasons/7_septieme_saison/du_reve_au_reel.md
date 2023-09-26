@@ -1,12 +1,12 @@
 +++
 title = "Du rêve au réel"
+id = "du_reve_au_reel_7"
 date = 1998-07-10
 weight = 27
-LastModifierDisplayName = "Barbara Post"
-id = "du_reve_au_reel_7"
-acrostiche = "Du rêve au réel"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Du rêve au réel"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Du rêve au réel je l'écris,

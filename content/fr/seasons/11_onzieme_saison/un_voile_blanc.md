@@ -1,12 +1,12 @@
 +++
 title = "Un voile blanc"
+id = "un_voile_blanc_11"
 date = 1999-04-24
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "un_voile_blanc_11"
-acrostiche = "Un voile blanc"
-tags = ["philosophie", "acrostiche"]
 categories = ["Foi"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Un voile blanc"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un voile, horizon sur l'écume légère

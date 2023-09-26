@@ -1,12 +1,12 @@
 +++
 title = "Harmonie automnale"
+id = "harmonie_automnale_2"
 date = 1996-09-15
 weight = 15
-LastModifierDisplayName = "Barbara Post"
-id = "harmonie_automnale_2"
-verseLength = 12
-tags = ["saisons"]
 categories = ["Automne"]
+tags = ["saisons"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 L'automne et son feuillage attirent le mystère,

@@ -1,12 +1,13 @@
 +++
 title = "Rester"
+id = "rester_11"
 date = 1999-04-01
 weight = 2
-LastModifierDisplayName = "Barbara Post"
-id = "rester_11"
-acrostiche = "Tu sei bello"
-tags = ["philosophie", "acrostiche"]
 categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+info = '"Tu sei bello" : "Tu es beau" en italien.'
+acrostiche = "Tu sei bello"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Trop de choses auront changé

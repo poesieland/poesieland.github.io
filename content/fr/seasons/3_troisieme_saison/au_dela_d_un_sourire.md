@@ -1,13 +1,14 @@
 +++
 title = "Au-delà d'un sourire"
+id = "au_dela_d_un_sourire_3"
 date = 1997-04-03
 weight = 17
-LastModifierDisplayName = "Barbara Post"
-id = "au_dela_d_un_sourire_3"
+categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+info = 'Premier acrostiche...'
 acrostiche = "Au-delà d'un sourire"
 verseLength = 8
-tags = ["amour", "acrostiche"]
-categories = ["Romantisme"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Accrocherez-vous à mon cœur

@@ -1,12 +1,12 @@
 +++
 title = "Comme toi, aile"
+id = "comme_toi_aile_15"
 date = 2001-09-13
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "comme_toi_aile_15"
-acrostiche = "Comme toi, aile"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Comme toi, aile"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Caresse-moi de tes respirs,

@@ -1,12 +1,12 @@
 +++
 title = "L'ombre de novembre"
+id = "l_ombre_de_novembre_14"
 date = 2000-11-11
 weight = 6
-LastModifierDisplayName = "Barbara Post"
-id = "l_ombre_de_novembre_14"
-doubleAcrostiche = "L'ombre de | novembre"
-tags = ["philosophie", "saisons"]
 categories = ["Temps", "Automne"]
+tags = ["philosophie", "saisons", "doubleAcrostiche"]
+doubleAcrostiche = "L'ombre de | novembre"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le ciel rosit le soir si pâle:

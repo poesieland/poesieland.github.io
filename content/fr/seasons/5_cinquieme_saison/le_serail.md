@@ -1,12 +1,12 @@
 +++
 title = "Le Sérail"
+id = "le_serail_5"
 date = 1997-10-20
 weight = 32
-LastModifierDisplayName = "Barbara Post"
-id = "le_serail_5"
-verseLength = 6
-tags = ["philosophie", "nature"]
 categories = ["Portraits", "Flore"]
+tags = ["philosophie", "nature"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les roses du désert

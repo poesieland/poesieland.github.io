@@ -1,11 +1,12 @@
 +++
 title = "Postface"
+id = "postface_8"
 date = 1998-08-05
 weight = 21
-LastModifierDisplayName = "Barbara Post"
-id = "postface_8"
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+info = 'Dernier poème de mon recueil "En six lettres : t'aimer".'
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Avant de partir sans un signe,

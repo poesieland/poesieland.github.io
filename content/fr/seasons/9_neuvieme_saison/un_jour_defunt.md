@@ -1,12 +1,12 @@
 +++
 title = "Un jour défunt"
+id = "un_jour_defunt_9"
 date = 1998-09-18
 weight = 7
-LastModifierDisplayName = "Barbara Post"
-id = "un_jour_defunt_9"
-acrostiche = "Un jour né déjà mort"
-tags = ["saisons", "nature", "acrostiche"]
 categories = ["Automne", "Flore"]
+tags = ["saisons", "nature", "acrostiche"]
+acrostiche = "Un jour né déjà mort"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un jour naissait l'esprit d'un souffle,

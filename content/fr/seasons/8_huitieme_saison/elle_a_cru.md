@@ -1,12 +1,12 @@
 +++
 title = "Elle a cru"
+id = "elle_a_cru_8"
 date = 1998-09-03
 weight = 36
-LastModifierDisplayName = "Barbara Post"
-id = "elle_a_cru_8"
-acrostiche = "Elle a cru"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+acrostiche = "Elle a cru"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Elle croyait que pour aimer

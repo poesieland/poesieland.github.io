@@ -1,12 +1,12 @@
 +++
 title = "Poésie, statue"
+id = "poesie_statue_13"
 date = 1999-07-26
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "poesie_statue_13"
-doubleAcrostiche = "Poésie | Statue"
-tags = ["philosophie"]
 categories = ["Temps"]
+tags = ["philosophie", "doubleAcrostiche"]
+doubleAcrostiche = "Poésie | Statue"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Puisse le marbre de Carrare

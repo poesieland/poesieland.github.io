@@ -1,13 +1,14 @@
 +++
 title = "Demain nous serons"
+id = "demain_nous_serons_5"
 date = 1997-11-21
 weight = 23
-LastModifierDisplayName = "Barbara Post"
-id = "demain_nous_serons_5"
+categories = ["Temps"]
+tags = ["philosophie", "acrostiche"]
+info = 'Dédié à mon neuveu Louis'
 acrostiche = "Demain nous serons"
 verseLength = 12
-tags = ["philosophie", "acrostiche"]
-categories = ["Temps"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Demain tu seras grand, demain je serai vieille,

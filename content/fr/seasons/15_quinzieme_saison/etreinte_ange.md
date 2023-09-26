@@ -1,12 +1,12 @@
 +++
 title = "Etreinte - ange"
+id = "etreinte_ange_15"
 date = 2001-09-11
 weight = 29
-LastModifierDisplayName = "Barbara Post"
-id = "etreinte_ange_15"
-acrostiche = "Etreinte - ange"
-tags = ["attitudes", "philosophie", "acrostiche"]
 categories = ["Toucher", "Temps"]
+tags = ["attitudes", "philosophie", "acrostiche"]
+acrostiche = "Etreinte - ange"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 En ce jour triste mes doigts frôlent

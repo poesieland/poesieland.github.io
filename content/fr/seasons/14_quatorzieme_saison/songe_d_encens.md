@@ -1,12 +1,12 @@
 +++
 title = "Songe d'encens"
+id = "songe_d_encens_14"
 date = 2000-01-23
 weight = 46
-LastModifierDisplayName = "Barbara Post"
-id = "songe_d_encens_14"
-acrostiche = "Songe d'encens"
-tags = ["philosophie", "acrostiche"]
 categories = ["Espoir"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Songe d'encens"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur le ciel noir la lune lève

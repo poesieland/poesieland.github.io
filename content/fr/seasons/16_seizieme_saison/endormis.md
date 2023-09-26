@@ -1,12 +1,12 @@
 +++
 title = "Endormis"
+id = "endormis_16"
 date = 2002-03-02
 weight = 1
-LastModifierDisplayName = "Barbara Post"
-id = "endormis_16"
-acrostiche = "Endormis"
-tags = ["attitudes", "amour", "acrostiche"]
 categories = ["Sommeil", "Romantisme"]
+tags = ["attitudes", "amour", "acrostiche"]
+acrostiche = "Endormis"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Endormie en tes bras, au paradis, sommeil

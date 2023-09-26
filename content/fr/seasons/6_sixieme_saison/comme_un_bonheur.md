@@ -1,12 +1,12 @@
 +++
 title = "Comme un bonheur"
+id = "comme_un_bonheur_6"
 date = 1998-05-17
 weight = 37
-LastModifierDisplayName = "Barbara Post"
-id = "comme_un_bonheur_6"
-acrostiche = "Comme un bonheur"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Comme un bonheur"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Comme un bonheur au tien promis,

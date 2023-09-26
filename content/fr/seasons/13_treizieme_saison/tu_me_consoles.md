@@ -1,12 +1,12 @@
 +++
 title = "Tu me consoles"
+id = "tu_me_consoles_13"
 date = 1999-08-17
 weight = 34
-LastModifierDisplayName = "Barbara Post"
-id = "tu_me_consoles_13"
-acrostiche = "Tu me consoles"
-tags = ["attitudes", "acrostiche"]
 categories = ["Musique, chant"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Tu me consoles"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Tu suggères un sens quand la vie abandonne

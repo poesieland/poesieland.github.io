@@ -1,12 +1,12 @@
 +++
 title = "Odes"
+id = "odes_12"
 date = 1999-06-12
 weight = 43
-LastModifierDisplayName = "Barbara Post"
-id = "odes_12"
-acrostiche = "Odes"
-tags = ["philosophie", "acrostiche"]
 categories = ["Création"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Odes"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 O je repense encore à ce soir : la nuit noire

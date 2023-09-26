@@ -1,12 +1,12 @@
 +++
 title = "On ne voit bien..."
+id = "on_ne_voit_bien_12"
 date = 1999-07-24
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "on_ne_voit_bien_12"
-acrostiche = "On ne voit bien..."
-tags = ["philosophie", "acrostiche"]
 categories = ["Apprentissage"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "On ne voit bien..."
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On ne voit bien qu'avec son cœur,

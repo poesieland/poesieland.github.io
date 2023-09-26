@@ -1,12 +1,12 @@
 +++
 title = "Tardance"
+id = "tardance_1"
 date = 1996-08-02
 weight = 41
-LastModifierDisplayName = "Barbara Post"
-id = "tardance_1"
-verseLength = 8
-tags = ["philosophie"]
 categories = ["Création"]
+tags = ["philosophie"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Je ne sais pas ce qu'est la vie,

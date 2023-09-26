@@ -1,12 +1,12 @@
 +++
 title = "Au-delà"
+id = "au_dela_3"
 date = 1997-03-01
 weight = 31
-LastModifierDisplayName = "Barbara Post"
-id = "au_dela_3"
-verseLength = 12
-tags = ["philosophie"]
 categories = ["Etre"]
+tags = ["philosophie"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Au-delà des lointains j'irai me perdre un jour,

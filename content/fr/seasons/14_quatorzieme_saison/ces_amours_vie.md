@@ -1,12 +1,12 @@
 +++
 title = "Ces amours, vie"
+id = "ces_amours_vie_14"
 date = 2001-03-13
 weight = 38
-LastModifierDisplayName = "Barbara Post"
-id = "ces_amours_vie_14"
-acrostiche = "Ces amours, vie"
-tags = ["attitudes", "acrostiche"]
 categories = ["Mouvement"]
+tags = ["attitudes", "acrostiche"]
+acrostiche = "Ces amours, vie"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Ces amours-là qui s'en viennent

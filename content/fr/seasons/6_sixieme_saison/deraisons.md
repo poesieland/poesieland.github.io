@@ -1,11 +1,11 @@
 +++
 title = "Déraisons"
+id = "deraisons_6"
 date = 1998-03-14
 weight = 16
-LastModifierDisplayName = "Barbara Post"
-id = "deraisons_6"
-tags = ["philosophie"]
 categories = ["Révolte"]
+tags = ["philosophie"]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Même si le ciel gris

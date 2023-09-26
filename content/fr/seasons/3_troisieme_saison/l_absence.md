@@ -1,12 +1,12 @@
 +++
 title = "L'Absence"
+id = "l_absence_3"
 date = 1997-05-02
 weight = 19
-LastModifierDisplayName = "Barbara Post"
-id = "l_absence_3"
-verseLength = 8
-tags = ["philosophie", "amour"]
 categories = ["Temps", "Amitié"]
+tags = ["philosophie", "amour"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Les sols que tes pieds ont foulés

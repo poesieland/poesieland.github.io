@@ -1,12 +1,12 @@
 +++
 title = "Vérité"
+id = "verite_7"
 date = 1998-07-08
 weight = 25
-LastModifierDisplayName = "Barbara Post"
-id = "verite_7"
-acrostiche = "Vérité"
-tags = ["philosophie", "acrostiche"]
 categories = ["Etre"]
+tags = ["philosophie", "acrostiche"]
+acrostiche = "Vérité"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Voir l'ombre d'un sourire, entendre le non-dit,

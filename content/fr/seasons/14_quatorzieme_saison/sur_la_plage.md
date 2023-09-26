@@ -1,12 +1,13 @@
 +++
 title = "Sur la plage"
+id = "sur_la_plage_14"
 date = 2001-02-22
 weight = 24
-LastModifierDisplayName = "Barbara Post"
-id = "sur_la_plage_14"
-acrostiche = "Sur la plage"
-tags = ["amour", "acrostiche"]
 categories = ["Romantisme"]
+tags = ["amour", "acrostiche"]
+info = 'D'après un rêve'
+acrostiche = "Sur la plage"
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Sur cette plage nos deux rires

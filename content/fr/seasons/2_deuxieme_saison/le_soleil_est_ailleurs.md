@@ -1,12 +1,12 @@
 +++
 title = "Le soleil est ailleurs"
+id = "le_soleil_est_ailleurs_2"
 date = 1996-11-30
 weight = 35
-LastModifierDisplayName = "Barbara Post"
-id = "le_soleil_est_ailleurs_2"
-verseLength = 6
-tags = ["ombres et lumières", "philosophie"]
 categories = ["Crépuscule", "Révolte"]
+tags = ["ombres et lumières", "philosophie"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Le soleil est ailleurs,
