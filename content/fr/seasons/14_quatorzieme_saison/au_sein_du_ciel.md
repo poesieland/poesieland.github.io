@@ -5,7 +5,7 @@ date = 2001-03-16
 weight = 10
 categories = ["Ciel"]
 tags = ["nature", "acrostiche"]
-info = 'Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m.'
+info = "Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m."
 acrostiche = "Au sein du ciel"
 LastModifierDisplayName = "Barbara Post"
 +++

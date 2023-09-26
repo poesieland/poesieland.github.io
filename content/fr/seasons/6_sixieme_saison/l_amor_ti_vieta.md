@@ -5,7 +5,7 @@ date = 1998-03-29
 weight = 31
 categories = ["Mouvement", "Aimé (amant)"]
 tags = ["attitudes", "amour", "acrostiche"]
-info = 'D'après l'extrait d'air d'opéra homonyme'
+info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
 LastModifierDisplayName = "Barbara Post"
 +++

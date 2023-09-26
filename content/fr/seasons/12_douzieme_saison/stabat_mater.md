@@ -5,7 +5,7 @@ date = 1999-07-02
 weight = 19
 categories = ["Foi", "Portraits"]
 tags = ["philosophie", "philosophie", "acrostiche"]
-info = '"Vera fede" : "Vraie foi" en italien.'
+info = "Vraie foi, en italien."
 acrostiche = "Vera fede"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -28,7 +28,7 @@ Dit tout le sens, en ce si doux visage...
 Ecoute encore, ô, ce chagrin profond !
 
 {{% notice style="primary" %}}
-\"Vera fede\" : \"Vraie foi\" en italien.
+Vraie foi, en italien.
 
 Acrostiche : Vera fede
 {{% /notice %}}

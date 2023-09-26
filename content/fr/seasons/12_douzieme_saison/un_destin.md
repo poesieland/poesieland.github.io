@@ -5,7 +5,7 @@ date = 1999-07-17
 weight = 20
 categories = ["Création", "Portraits"]
 tags = ["philosophie", "philosophie", "acrostiche"]
-info = 'En hommage au chanteur Balavoine.'
+info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"
 LastModifierDisplayName = "Barbara Post"
 +++

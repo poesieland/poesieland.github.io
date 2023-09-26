@@ -5,7 +5,7 @@ date = 1996-08-05
 weight = 36
 categories = ["Animaux"]
 tags = ["nature"]
-info = 'La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella'
+info = "La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -5,7 +5,7 @@ date = 2001-02-22
 weight = 24
 categories = ["Romantisme"]
 tags = ["amour", "acrostiche"]
-info = 'D'après un rêve'
+info = "D'après un rêve"
 acrostiche = "Sur la plage"
 LastModifierDisplayName = "Barbara Post"
 +++

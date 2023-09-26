@@ -5,7 +5,7 @@ date = 2001-10-21
 weight = 44
 categories = ["Etre"]
 tags = ["philosophie", "acrostiche"]
-info = 'D'après la chanson d'A. Bocelli : "L'ultimo re".'
+info = "D'après la chanson d'A. Bocelli : L'ultimo re."
 acrostiche = "L'ultime roi"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -28,7 +28,7 @@ La reine au sceau sublime,
 Ame que tu perdis.
 
 {{% notice style="primary" %}}
-D'après la chanson d'A. Bocelli : \"L'ultimo re\".
+D'après la chanson d'A. Bocelli : L'ultimo re.
 
 Acrostiche : L'ultime roi
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 2000-04-24
 weight = 16
 categories = ["Jardin, paysage", "Printemps", "Temps"]
 tags = ["nature", "saisons", "philosophie", "acrostiche"]
-info = 'D'après le parc de Choisy, Paris.'
+info = "D'après le parc de Choisy, Paris."
 acrostiche = "L'air : rapsodie"
 LastModifierDisplayName = "Barbara Post"
 +++

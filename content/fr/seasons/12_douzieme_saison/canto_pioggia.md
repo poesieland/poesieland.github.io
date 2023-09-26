@@ -5,7 +5,7 @@ date = 1999-06-20
 weight = 47
 categories = ["Eau douce", "Jardin, paysage"]
 tags = ["nature", "acrostiche"]
-info = '"Chant, pluie" en italien.'
+info = "Chant, pluie, en italien."
 acrostiche = "Canto, pioggia"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -36,7 +36,7 @@ Immense, ouvre la voie : un nuage décore
 Au diamant ravivé le sourire en ses rais.
 
 {{% notice style="primary" %}}
-\"Chant, pluie\" en italien.
+Chant, pluie, en italien.
 
 Acrostiche : Canto, pioggia
 {{% /notice %}}

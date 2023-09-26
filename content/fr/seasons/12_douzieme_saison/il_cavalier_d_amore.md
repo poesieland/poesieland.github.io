@@ -5,7 +5,7 @@ date = 1999-06-07
 weight = 5
 categories = ["Portraits", "Aimé (amant)"]
 tags = ["philosophie", "amour", "acrostiche"]
-info = '"Le chevalier d'amour" en italien.'
+info = "Le chevalier d'amour, en italien."
 acrostiche = "Il cavalier' d'amore"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Rassemble l'avenir, et pour te remercier,
 Elue à ton bras tendre, un baiser, un voyage...
 
 {{% notice style="primary" %}}
-\"Le chevalier d'amour\" en italien.
+Le chevalier d'amour, en italien.
 
 Acrostiche : Il cavalier' d'amore
 {{% /notice %}}

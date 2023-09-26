@@ -5,7 +5,7 @@ date = 1998-07-05
 weight = 8
 categories = ["Amour malheureux"]
 tags = ["amour", "acrostiche"]
-info = 'D'après la chanson d'Emma Shapplin'
+info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
 LastModifierDisplayName = "Barbara Post"
 +++

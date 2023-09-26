@@ -5,7 +5,7 @@ date = 1999-11-05
 weight = 30
 categories = ["Foi", "Portraits"]
 tags = ["philosophie", "philosophie", "acrostiche"]
-info = '"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson d'A. Bocelli : "Ave Maria no morro".'
+info = "Arc-en-ciel prière, en italien. Inspiré en partie par une chanson d'A. Bocelli : Ave Maria no morro."
 acrostiche = "Arcobaleno preghier'"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -47,7 +47,7 @@ Eternité, le don du Seigneur car tout l'or
 Rassemblé sur la Terre est au Ciel un décor.
 
 {{% notice style="primary" %}}
-\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson d'A. Bocelli : \"Ave Maria no morro\".
+Arc-en-ciel prière, en italien. Inspiré en partie par une chanson d'A. Bocelli : Ave Maria no morro.
 
 Acrostiche : Arcobaleno preghier'
 {{% /notice %}}

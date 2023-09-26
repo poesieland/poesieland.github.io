@@ -5,7 +5,7 @@ date = 1999-05-17
 weight = 31
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = '"Ave Maria prie pour moi", d'après une chanson de Pavaroti'
+info = '"Ave Maria prie pour moi", chanson homonyme de Pavarotti'
 acrostiche = "Ave Maria prega per me"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -51,7 +51,7 @@ Mirages nuptiaux, l'âme élève
 Ensuite ce calme sans trêve...
 
 {{% notice style="primary" %}}
-\"Ave Maria prie pour moi\", d'après une chanson de Pavaroti
+\"Ave Maria prie pour moi\", chanson homonyme de Pavarotti
 
 Acrostiche : Ave Maria prega per me
 {{% /notice %}}

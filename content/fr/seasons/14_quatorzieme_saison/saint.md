@@ -5,7 +5,7 @@ date = 1999-11-06
 weight = 1
 categories = ["Foi", "Portraits"]
 tags = ["philosophie", "philosophie", "acrostiche"]
-info = 'Sublimation religieuse de la vocation du chanteur Andrea Bocelli.'
+info = "Sublimation religieuse de la vocation du chanteur Andrea Bocelli."
 acrostiche = "San Bocelli"
 LastModifierDisplayName = "Barbara Post"
 +++

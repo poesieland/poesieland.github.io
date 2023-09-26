@@ -5,7 +5,7 @@ date = 2001-09-13
 weight = 30
 categories = ["Etre"]
 tags = ["philosophie", "acrostiche"]
-info = 'En mémoire des attentats du 11.09.2001'
+info = "En mémoire des attentats du 11.09.2001"
 acrostiche = "Miroir d'ombre"
 LastModifierDisplayName = "Barbara Post"
 +++

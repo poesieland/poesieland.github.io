@@ -5,7 +5,7 @@ date = 1999-03-04
 weight = 6
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = 'D'après une chanson homonyme'
+info = "D'après une chanson homonyme"
 acrostiche = "Ave Maria non morro"
 LastModifierDisplayName = "Barbara Post"
 +++

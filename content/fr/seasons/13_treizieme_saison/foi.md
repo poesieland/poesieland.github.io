@@ -5,7 +5,7 @@ date = 1999-10-29
 weight = 50
 categories = ["Aimé (amant)"]
 tags = ["amour", "acrostiche"]
-info = '"Unico resterà" : "Unique restera" en italien.'
+info = "Unique restera, en italien."
 acrostiche = "Unico resterà"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,7 +37,7 @@ Rêve, l'au-delà, ta couronne,
 Aura montré nos pas touchants.
 
 {{% notice style="primary" %}}
-\"Unico resterà\" : \"Unique restera\" en italien.
+Unique restera, en italien.
 
 Acrostiche : Unico resterà
 {{% /notice %}}

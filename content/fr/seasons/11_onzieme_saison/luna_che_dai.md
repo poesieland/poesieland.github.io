@@ -5,7 +5,7 @@ date = 1999-04-01
 weight = 15
 categories = ["Lune"]
 tags = ["ombres et lumières", "acrostiche"]
-info = '"Luna che dai" : "Lune que tu donnes" en italien.'
+info = "Lune que tu donnes, en italien."
 acrostiche = "Luna che dai"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -33,7 +33,7 @@ Au ciel s'endort le monde
 Illuminé sur l'onde !
 
 {{% notice style="primary" %}}
-\"Luna che dai\" : \"Lune que tu donnes\" en italien.
+Lune que tu donnes, en italien.
 
 Acrostiche : Luna che dai
 {{% /notice %}}

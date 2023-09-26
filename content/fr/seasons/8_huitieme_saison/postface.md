@@ -5,7 +5,7 @@ date = 1998-08-05
 weight = 21
 categories = ["Création"]
 tags = ["philosophie"]
-info = 'Dernier poème de mon recueil "En six lettres : t'aimer".'
+info = "Dernier poème de mon recueil En six lettres : t'aimer."
 LastModifierDisplayName = "Barbara Post"
 +++
 
@@ -36,5 +36,5 @@ Eteins-toi doux, sans amertume,
 A l'ombre où l'ombre se défait.
 
 {{% notice style="primary" %}}
-Dernier poème de mon recueil \"En six lettres : t'aimer\".
+Dernier poème de mon recueil En six lettres : t'aimer.
 {{% /notice %}}

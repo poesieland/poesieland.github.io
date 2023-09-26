@@ -5,7 +5,7 @@ date = 1996-11-02
 weight = 21
 categories = ["Divers"]
 tags = ["philosophie"]
-info = 'Inspiré du film homonyme'
+info = "Inspiré du film homonyme"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -5,7 +5,7 @@ date = 2001-07-14
 weight = 12
 categories = ["Etre"]
 tags = ["philosophie", "pantoum"]
-info = 'Composé pour une amie'
+info = "Composé pour une amie"
 type = "pantoum"
 LastModifierDisplayName = "Barbara Post"
 +++

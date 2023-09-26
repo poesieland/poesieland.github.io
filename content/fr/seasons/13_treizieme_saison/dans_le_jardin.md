@@ -5,7 +5,7 @@ date = 1999-10-17
 weight = 27
 categories = ["Jardin, paysage", "Automne"]
 tags = ["nature", "saisons", "acrostiche"]
-info = 'Le parc Kellerman, à Paris.'
+info = "Le parc Kellerman, à Paris."
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
 +++

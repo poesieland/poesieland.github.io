@@ -5,7 +5,7 @@ date = 1994-01-01
 weight = 7
 categories = ["Femme", "Portraits"]
 tags = ["amour", "philosophie"]
-info = 'Reprise en 1995/1996 d'un poème de 1994'
+info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

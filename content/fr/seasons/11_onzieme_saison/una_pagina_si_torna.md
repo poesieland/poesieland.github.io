@@ -5,7 +5,7 @@ date = 1999-04-03
 weight = 13
 categories = ["Temps", "Amour malheureux"]
 tags = ["philosophie", "amour", "acrostiche"]
-info = '"Une page se tourne" en italien.'
+info = "Une page se tourne, en italien."
 acrostiche = "Una pagina si torna"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Nécrose de l'âme au rocher du non-être
 Adieu ! Tu ne sais que je ne te revois !
 
 {{% notice style="primary" %}}
-\"Une page se tourne\" en italien.
+Une page se tourne, en italien.
 
 Acrostiche : Una pagina si torna
 {{% /notice %}}

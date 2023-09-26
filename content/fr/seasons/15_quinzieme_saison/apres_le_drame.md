@@ -5,7 +5,7 @@ date = 2001-07-26
 weight = 1
 categories = ["Apprentissage"]
 tags = ["philosophie"]
-info = 'En mémoire des 113 victimes du crash du Concorde du 25.07.2000.'
+info = "En mémoire des 113 victimes du crash du Concorde du 25.07.2000."
 LastModifierDisplayName = "Barbara Post"
 +++
 
