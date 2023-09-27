@@ -5,7 +5,7 @@ date = 1999-04-14
 weight = 18
 categories = ["Neige", "Etre"]
 tags = ["nature", "philosophie", "acrostiche", "sonnet"]
-info = "La neige du rêve, en italien."
+info = "\"La neige du rêve\", en italien."
 type = "sonnet"
 acrostiche = "La neve del sogno"
 LastModifierDisplayName = "Barbara Post"
@@ -43,7 +43,7 @@ Neige d'un rêve, un corps jeté par les rivages
 Où s'éveille l'accent d'une âme enfin renée.
 
 {{% notice style="primary" %}}
-La neige du rêve, en italien.
+\"La neige du rêve\", en italien.
 
 Acrostiche : La neve del sogno
 {{% /notice %}}

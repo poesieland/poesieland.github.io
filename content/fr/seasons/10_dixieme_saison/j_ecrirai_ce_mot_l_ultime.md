@@ -5,7 +5,7 @@ date = 1999-02-15
 weight = 15
 categories = ["Révolte"]
 tags = ["philosophie", "doubleAcrostiche"]
-info = 'Inspiré par la comédie musicale "Notre-Dame de Paris"'
+info = "Inspiré par la comédie musicale \"Notre-Dame de Paris\""
 doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
 LastModifierDisplayName = "Barbara Post"
 +++

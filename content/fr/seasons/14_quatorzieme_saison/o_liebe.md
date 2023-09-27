@@ -5,7 +5,7 @@ date = 2000-01-07
 weight = 44
 categories = ["Musique, chant"]
 tags = ["attitudes", "acrostiche"]
-info = '"O Amour" en allemand.'
+info = "\"O Amour\" en allemand."
 acrostiche = "O Liebe"
 LastModifierDisplayName = "Barbara Post"
 +++

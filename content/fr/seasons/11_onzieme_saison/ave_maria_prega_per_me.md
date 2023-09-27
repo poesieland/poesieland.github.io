@@ -5,7 +5,7 @@ date = 1999-05-17
 weight = 31
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = '"Ave Maria prie pour moi", chanson homonyme de Pavarotti'
+info = "\"Ave Maria prie pour moi\", chanson homonyme de Pavarotti"
 acrostiche = "Ave Maria prega per me"
 LastModifierDisplayName = "Barbara Post"
 +++

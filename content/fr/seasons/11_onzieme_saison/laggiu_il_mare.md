@@ -5,7 +5,7 @@ date = 1999-04-18
 weight = 37
 categories = ["Mer"]
 tags = ["nature", "acrostiche"]
-info = "Là-bas la mer, en italien."
+info = "\"Là-bas la mer\", en italien."
 acrostiche = "Laggiù il mare"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -35,7 +35,7 @@ Renaît, miroitement pastel
 En moi la mer toujours danseuse...
 
 {{% notice style="primary" %}}
-Là-bas la mer, en italien.
+\"Là-bas la mer\", en italien.
 
 Acrostiche : Laggiù il mare
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 1999-09-16
 weight = 39
 categories = ["Etre", "Création"]
 tags = ["philosophie", "acrostiche"]
-info = "Quand le souffle, en italien."
+info = "\"Quand le souffle\", en italien."
 acrostiche = "Quando il soffio"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -39,7 +39,7 @@ Insensible et léger, charmant... Mais tu m'aimes
 Ordinairement par les jours et les nuits mêmes.
 
 {{% notice style="primary" %}}
-Quand le souffle, en italien.
+\"Quand le souffle\", en italien.
 
 Acrostiche : Quando il soffio
 {{% /notice %}}

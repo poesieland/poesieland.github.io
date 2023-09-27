@@ -5,7 +5,7 @@ date = 1999-09-21
 weight = 22
 categories = ["Automne", "Mer", "Foi"]
 tags = ["saisons", "nature", "philosophie", "acrostiche"]
-info = "Croix d'automne, en italien. La correspondance entre les mots de l'acrostiche et le contenu des paragraphes est inversée."
+info = "\"Croix d'automne\", en italien. La correspondance entre les mots de l'acrostiche et le contenu des paragraphes est inversée."
 acrostiche = "Cresce d'autunno"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -40,7 +40,7 @@ Nu, quand l'oiseau de mer hurle au vent dominant :
 O marins, sans prier ! Que le salut vous touche !".
 
 {{% notice style="primary" %}}
-Croix d'automne, en italien. La correspondance entre les mots de l'acrostiche et le contenu des paragraphes est inversée.
+\"Croix d'automne\", en italien. La correspondance entre les mots de l'acrostiche et le contenu des paragraphes est inversée.
 
 Acrostiche : Cresce d'autunno
 {{% /notice %}}

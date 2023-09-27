@@ -5,7 +5,7 @@ date = 1998-10-18
 weight = 4
 categories = ["Automne", "Animaux", "Etre"]
 tags = ["saisons", "nature", "philosophie", "acrostiche"]
-info = "Papillons d'octobre, en italien."
+info = "\"Papillons d'octobre\", en italien."
 acrostiche = "Farfalle d'ottobre"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -44,7 +44,7 @@ Rêvez-vous qu'au-delà de l'ombre-précipice
 En nos âmes l'étoile éclaire un ciel désert ?
 
 {{% notice style="primary" %}}
-Papillons d'octobre, en italien.
+\"Papillons d'octobre\", en italien.
 
 Acrostiche : Farfalle d'ottobre
 {{% /notice %}}

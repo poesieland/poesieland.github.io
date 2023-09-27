@@ -5,7 +5,7 @@ date = 1999-09-04
 weight = 20
 categories = ["Jardin, paysage", "Temps", "Automne"]
 tags = ["nature", "philosophie", "saisons", "doubleAcrostiche"]
-info = "Jardin des songes, en italien."
+info = "\"Jardin des songes\", en italien."
 doubleAcrostiche = "giardino | dei sogni"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -43,7 +43,7 @@ O ce lieu dit : amours qui ne se cueillent
 Imitent verts, et bleu, rose, marron.
 
 {{% notice style="primary" %}}
-Jardin des songes, en italien.
+\"Jardin des songes\", en italien.
 
 Acrostiche double (lignes paires et impaires) : giardino / dei sogni
 {{% /notice %}}

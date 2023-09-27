@@ -5,7 +5,7 @@ date = 1999-09-06
 weight = 49
 categories = ["Création"]
 tags = ["philosophie", "acrostiche"]
-info = "Il y a tant de temps, en italien."
+info = "\"Il y a tant de temps\", en italien."
 acrostiche = "Quanto tempo è"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,7 +37,7 @@ Ou sans plus goût chérir
 Erreurs venant de l'incréable.
 
 {{% notice style="primary" %}}
-Il y a tant de temps, en italien.
+\"Il y a tant de temps\", en italien.
 
 Acrostiche : Quanto tempo è
 {{% /notice %}}

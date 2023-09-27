@@ -5,7 +5,7 @@ date = 1999-07-06
 weight = 33
 categories = ["Création", "Musique, chant"]
 tags = ["philosophie", "attitudes", "acrostiche"]
-info = 'En mémoire de Rodrigo, grand artiste. "Adios artisto".'
+info = "En mémoire de Rodrigo, grand artiste. \"Adios artisto\"."
 acrostiche = "Adios artisto"
 LastModifierDisplayName = "Barbara Post"
 +++

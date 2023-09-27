@@ -5,7 +5,7 @@ date = 1999-03-30
 weight = 1
 categories = ["Espoir", "Temps"]
 tags = ["philosophie", "acrostiche"]
-info = "Quand la vie dit, en italien."
+info = "\"Quand la vie dit\", en italien."
 acrostiche = "Quando la vita dice"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Colore quand tombe le jour
 Eternité vive, féconde !
 
 {{% notice style="primary" %}}
-Quand la vie dit, en italien.
+\"Quand la vie dit\", en italien.
 
 Acrostiche : Quando la vita dice
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 1999-08-24
 weight = 36
 categories = ["Temps"]
 tags = ["philosophie", "acrostiche"]
-info = 'Un jeu de mot suggère "memoriam éveil".'
+info = "Un jeu de mot suggère \"memoriam éveil\"."
 acrostiche = "Je ne sais rien"
 LastModifierDisplayName = "Barbara Post"
 +++

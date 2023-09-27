@@ -5,7 +5,7 @@ date = 2001-10-08
 weight = 41
 categories = ["Etre"]
 tags = ["philosophie", "acrostiche"]
-info = "La vie par-dessus tout, en italien."
+info = "\"La vie par-dessus tout\", en italien."
 acrostiche = "La vita sopratutto"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Tempo connu, d'autres décors
 Ouvriront lendemains dociles.
 
 {{% notice style="primary" %}}
-La vie par-dessus tout, en italien.
+\"La vie par-dessus tout\", en italien.
 
 Acrostiche : La vita sopratutto
 {{% /notice %}}

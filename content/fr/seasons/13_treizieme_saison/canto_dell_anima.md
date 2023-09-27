@@ -5,7 +5,7 @@ date = 1999-09-19
 weight = 10
 categories = ["Foi", "Musique, chant"]
 tags = ["philosophie", "attitudes", "acrostiche"]
-info = "Chant de l'âme, en italien."
+info = "\"Chant de l'âme\", en italien."
 acrostiche = "Canto dell'anima"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -41,7 +41,7 @@ Message plus fidèle à l'étoile, lumière...
 Anima dans l'éclat élevé de prière.
 
 {{% notice style="primary" %}}
-Chant de l'âme, en italien.
+\"Chant de l'âme\", en italien.
 
 Acrostiche : Canto dell'anima
 {{% /notice %}}

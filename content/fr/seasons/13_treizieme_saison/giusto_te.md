@@ -5,7 +5,7 @@ date = 1999-10-02
 weight = 12
 categories = ["Création"]
 tags = ["philosophie", "acrostiche"]
-info = "Juste toi, en italien."
+info = "\"Juste toi\", en italien."
 acrostiche = "Giusto te"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -28,7 +28,7 @@ Tellement fort je revivrai
 En l'éternité cantatrice !
 
 {{% notice style="primary" %}}
-Juste toi, en italien.
+\"Juste toi\", en italien.
 
 Acrostiche : Giusto te
 {{% /notice %}}

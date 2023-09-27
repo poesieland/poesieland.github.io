@@ -5,7 +5,7 @@ date = 1999-06-17
 weight = 16
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = "Prier, ma foi, en italien."
+info = "\"Prier, ma foi\", en italien."
 acrostiche = "Pregare, la fede mia"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Irradie, éclairé, l'une puis l'autre roche,
 Eclate le chant pur, symphonique saveur...
 
 {{% notice style="primary" %}}
-Prier, ma foi, en italien.
+\"Prier, ma foi\", en italien.
 
 Acrostiche : Pregare, la fede mia
 {{% /notice %}}

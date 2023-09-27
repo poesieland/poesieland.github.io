@@ -5,7 +5,7 @@ date = 1999-10-13
 weight = 25
 categories = ["Animaux", "Flore", "Foi"]
 tags = ["nature", "philosophie", "acrostiche"]
-info = "L'amour et toi, en portuguais, reprise du titre d'une chanson."
+info = "\"L'amour et toi\", en portuguais, reprise du titre d'une chanson."
 acrostiche = "L'amor e tu"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -28,7 +28,7 @@ Trace d'un parfum, l'ibis
 Unique cueille l'essence.
 
 {{% notice style="primary" %}}
-L'amour et toi, en portuguais, reprise du titre d'une chanson.
+\"L'amour et toi\", en portuguais, reprise du titre d'une chanson.
 
 Acrostiche : L'amor e tu
 {{% /notice %}}

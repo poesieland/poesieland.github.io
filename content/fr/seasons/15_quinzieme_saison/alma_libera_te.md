@@ -5,7 +5,7 @@ date = 2001-06-13
 weight = 7
 categories = ["Crépuscule", "Foi"]
 tags = ["ombres et lumières", "philosophie", "acrostiche"]
-info = "Ame, libère-toi, en italien."
+info = "\"Ame, libère-toi\", en italien."
 acrostiche = "Alma, libera te"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,7 +37,7 @@ Trait d'ineffable lumière
 En rêve, pas seulement.
 
 {{% notice style="primary" %}}
-Ame, libère-toi, en italien.
+\"Ame, libère-toi\", en italien.
 
 Acrostiche : Alma, libera te
 {{% /notice %}}
