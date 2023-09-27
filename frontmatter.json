@@ -7,10 +7,9 @@
       "previewPath": null,
       "fields": [
         {
-          "title": "Title",
+          "title": "Poem title",
           "name": "title",
           "type": "string",
-          "description": "poem title",
           "required": true
         },
         {
@@ -37,9 +36,397 @@
           "step": 1
         },
         {
+          "name": "divider",
+          "type": "divider"
+        },
+        {
           "title": "Categories",
           "name": "categories",
           "type": "categories"
+        },
+        {
+          "title": "Ensure tag \"amour\" is present",
+          "name": "ensureTagAmour",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Femme",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"amour\" is present",
+          "name": "ensureTagAmour2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Romantisme",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"amour\" is present",
+          "name": "ensureTagAmour3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Amour malheureux",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"amour\" is present",
+          "name": "ensureTagAmour4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Amitié",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"amour\" is present",
+          "name": "ensureTagAmour5",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Aimé (amant)",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"ombres et lumières\" is present",
+          "name": "ensureTagOmbres",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Ville",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"ombres et lumières\" is present",
+          "name": "ensureTagOmbres2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Lune",
+            "caseSensitive": false
+          }
+        },{
+          "title": "Ensure tag \"ombres et lumières\" is present",
+          "name": "ensureTagOmbres3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Aube",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"ombres et lumières\" is present",
+          "name": "ensureTagOmbres4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Crépuscule",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"ombres et lumières\" is present",
+          "name": "ensureTagOmbres5",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Nuit",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Portraits",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Espoir",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Création",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Enfance",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie5",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Foi",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie6",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Révolte",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie7",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Divers",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie8",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Temps",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie9",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Etre",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie10",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Apprentissage",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Neige",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Flore",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Jardin, paysage",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Animaux",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature5",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Mer",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature6",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Ciel",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature7",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Eau douce",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"attitudes\" is present",
+          "name": "ensureTagAttitudes",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Musique, chant",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"attitudes\" is present",
+          "name": "ensureTagAttitudes2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Mouvement",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"attitudes\" is present",
+          "name": "ensureTagAttitudes3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Toucher",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"attitudes\" is present",
+          "name": "ensureTagAttitudes4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Sommeil",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"saisons\" is present",
+          "name": "ensureTagSaisons",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Automne",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"saisons\" is present",
+          "name": "ensureTagSaisons2",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Hiver",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"saisons\" is present",
+          "name": "ensureTagSaisons3",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Printemps",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"saisons\" is present",
+          "name": "ensureTagSaisons4",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Eté",
+            "caseSensitive": false
+          }
         },
         {
           "title": "Tags",
@@ -47,14 +434,19 @@
           "type": "tags"
         },
         {
+          "name": "divider",
+          "type": "divider"
+        },
+        {
           "title": "Additional description",
           "name": "info",
           "type": "string"
         },
         {
-          "title": "Type (sonnet, pantoum...)",
+          "title": "Type",
           "name": "type",
-          "type": "string"
+          "type": "choice",
+          "choices": ["", "sonnet", "pantoum"]
         },
         {
           "title": "Acrostiche (also add acrostiche tag)",
@@ -79,7 +471,8 @@
           "title": "LastModifierDisplayName",
           "name": "LastModifierDisplayName",
           "type": "string",
-          "default": "Barbara Post"
+          "default": "Barbara Post",
+          "required": true
         }
       ]
     }
