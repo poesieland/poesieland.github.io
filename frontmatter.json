@@ -5,6 +5,7 @@
       "name": "default",
       "pageBundle": false,
       "previewPath": null,
+      "filePrefix": "",
       "fields": [
         {
           "title": "Poem title",
@@ -120,7 +121,8 @@
             "value": "Lune",
             "caseSensitive": false
           }
-        },{
+        },
+        {
           "title": "Ensure tag \"ombres et lumières\" is present",
           "name": "ensureTagOmbres3",
           "type": "heading",
@@ -446,7 +448,11 @@
           "title": "Type",
           "name": "type",
           "type": "choice",
-          "choices": ["", "sonnet", "pantoum"]
+          "choices": [
+            "",
+            "sonnet",
+            "pantoum"
+          ]
         },
         {
           "title": "Acrostiche (also add acrostiche tag)",
