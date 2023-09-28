@@ -5,7 +5,7 @@ date = 1999-07-06
 weight = 33
 categories = ["Création", "Musique, chant"]
 tags = ["philosophie", "attitudes", "acrostiche"]
-info = "En mémoire de Rodrigo, grand artiste. \"Adios artisto\"."
+info = "En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999)."
 acrostiche = "Adios artisto"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,7 +37,7 @@ Trouve l'éclat, jardin rosé,
 Offert en musique fragile.
 
 {{% notice style="primary" %}}
-En mémoire de Rodrigo, grand artiste. \"Adios artisto\".
+En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999).
 
 Acrostiche : Adios artisto
 {{% /notice %}}

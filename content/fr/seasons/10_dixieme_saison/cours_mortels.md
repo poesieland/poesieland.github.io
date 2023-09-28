@@ -5,7 +5,7 @@ date = 1999-03-29
 weight = 50
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Quand le jour sera nôtre\", en italien."
+info = "\"Quand le jour sera nôtre\" en italien."
 acrostiche = "Quando il giorno sarà nostro"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -64,7 +64,7 @@ Ressent les signes plus discrets
 Offerts d'invisible prière.
 
 {{% notice style="primary" %}}
-\"Quand le jour sera nôtre\", en italien.
+\"Quand le jour sera nôtre\" en italien.
 
 Acrostiche : Quando il giorno sarà nostro
 {{% /notice %}}

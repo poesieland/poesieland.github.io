@@ -5,7 +5,7 @@ date = 1999-08-24
 weight = 37
 categories = ["Temps", "Flore"]
 tags = ["philosophie", "nature", "acrostiche"]
-info = "\"Plus d'amour\", en italien."
+info = "\"(Il n'y a) plus d'amour\" en italien."
 acrostiche = "Non amor più"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -31,7 +31,7 @@ Inventoriés n'ont plus richesse:
 Un parfum fané sans détresse.
 
 {{% notice style="primary" %}}
-\"Plus d'amour\", en italien.
+\"(Il n'y a) plus d'amour\" en italien.
 
 Acrostiche : Non amor più
 {{% /notice %}}

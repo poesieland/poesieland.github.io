@@ -5,7 +5,7 @@ date = 1999-08-01
 weight = 13
 categories = ["Temps"]
 tags = ["philosophie", "acrostiche"]
-info = "\"L'automne\", en italien."
+info = "\"L'automne\" en italien."
 acrostiche = "L'Autunno"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -27,7 +27,7 @@ nouer l'essence au ciel et l'arbre au paysage...
 Oraison blême, un chant du soleil dévoré.
 
 {{% notice style="primary" %}}
-\"L'automne\", en italien.
+\"L'automne\" en italien.
 
 Acrostiche : L'Autunno
 {{% /notice %}}

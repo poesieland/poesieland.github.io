@@ -5,7 +5,7 @@ date = 2001-07-14
 weight = 12
 categories = ["Etre"]
 tags = ["philosophie", "pantoum"]
-info = "Composé pour une amie"
+info = "Composé pour une amie."
 type = "pantoum"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,5 +37,5 @@ Immensité du cœur, au-delà sans égard:
 Voici bien venu l'an, voilà nombre des sages.
 
 {{% notice style="primary" %}}
-Composé pour une amie
+Composé pour une amie.
 {{% /notice %}}

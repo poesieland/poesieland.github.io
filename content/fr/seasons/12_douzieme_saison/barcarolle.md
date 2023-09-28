@@ -5,6 +5,7 @@ date = 1999-06-28
 weight = 32
 categories = ["Musique, chant"]
 tags = ["attitudes", "acrostiche"]
+info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -30,5 +31,7 @@ La rive : l'ombre nue effleure et ravit brise,
 Etreinte d'or, paillette au ventre de Venise...
 
 {{% notice style="primary" %}}
+Inspiré par l'air homonyme d'Offenbach.
+
 Acrostiche : Barcarolle
 {{% /notice %}}

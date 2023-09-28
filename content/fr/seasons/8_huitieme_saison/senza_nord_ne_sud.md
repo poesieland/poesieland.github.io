@@ -5,7 +5,7 @@ date = 1998-08-26
 weight = 23
 categories = ["Etre", "Mer"]
 tags = ["philosophie", "nature", "acrostiche"]
-info = "\"Sans nord ni sud\", en italien."
+info = "\"Sans nord ni sud\" en italien."
 acrostiche = "Senza nord nè sud"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -39,7 +39,7 @@ Ultimes les coups de semonce,
 désirs cardinaux sans réponse...
 
 {{% notice style="primary" %}}
-\"Sans nord ni sud\", en italien.
+\"Sans nord ni sud\" en italien.
 
 Acrostiche : Senza nord nè sud
 {{% /notice %}}

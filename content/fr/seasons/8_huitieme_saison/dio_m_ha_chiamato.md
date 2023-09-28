@@ -5,7 +5,7 @@ date = 1998-08-19
 weight = 49
 categories = ["Foi"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Dieu m'a appelée\", en italien."
+info = "\"Dieu m'a appelée\" en italien."
 acrostiche = "Dio m'ha chiamato"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -39,7 +39,7 @@ Terre et cieux lorsque s'élance
 Oratorio d'existence !
 
 {{% notice style="primary" %}}
-\"Dieu m'a appelée\", en italien.
+\"Dieu m'a appelée\" en italien.
 
 Acrostiche : Dio m'ha chiamato
 {{% /notice %}}

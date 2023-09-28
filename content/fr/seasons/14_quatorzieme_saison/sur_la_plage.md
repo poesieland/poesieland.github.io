@@ -5,7 +5,7 @@ date = 2001-02-22
 weight = 24
 categories = ["Romantisme"]
 tags = ["amour", "acrostiche"]
-info = "D'après un rêve"
+info = "D'après un rêve."
 acrostiche = "Sur la plage"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -31,7 +31,7 @@ Grisé du vent vif sur la grève,
 Etreinte avant de partir, brève.
 
 {{% notice style="primary" %}}
-D'après un rêve
+D'après un rêve.
 
 Acrostiche : Sur la plage
 {{% /notice %}}

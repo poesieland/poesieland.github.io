@@ -5,7 +5,7 @@ date = 1999-06-30
 weight = 11
 categories = ["Apprentissage"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Comme un premier amour\", en italien."
+info = "\"Comme un premier amour\" en italien."
 acrostiche = "Come un prim'amor"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -42,7 +42,7 @@ Ombre d'un temps ancien
 Retrouve, autre, le sien...
 
 {{% notice style="primary" %}}
-\"Comme un premier amour\", en italien.
+\"Comme un premier amour\" en italien.
 
 Acrostiche : Come un prim'amor
 {{% /notice %}}

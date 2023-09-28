@@ -5,7 +5,7 @@ date = 1998-10-02
 weight = 8
 categories = ["Etre"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Nul ne le saura\", en italien."
+info = "\"Nul ne le saura\" en italien."
 acrostiche = "Non lo nessun saprà"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,7 +46,7 @@ Réécrivent le livre
 Aux amours délient cieux.
 
 {{% notice style="primary" %}}
-\"Nul ne le saura\", en italien.
+\"Nul ne le saura\" en italien.
 
 Acrostiche : Non lo nessun saprà
 {{% /notice %}}

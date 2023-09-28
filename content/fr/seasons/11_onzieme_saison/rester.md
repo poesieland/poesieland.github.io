@@ -5,7 +5,7 @@ date = 1999-04-01
 weight = 2
 categories = ["Temps"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Tu es beau\", en italien."
+info = "\"Tu es beau\" en italien."
 acrostiche = "Tu sei bello"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -31,7 +31,7 @@ Lancées au vent, les cheveux gris...
 Ombre, le ciel, tu me souris.
 
 {{% notice style="primary" %}}
-\"Tu es beau\", en italien.
+\"Tu es beau\" en italien.
 
 Acrostiche : Tu sei bello
 {{% /notice %}}

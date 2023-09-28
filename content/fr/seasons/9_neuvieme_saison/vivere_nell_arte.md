@@ -5,7 +5,7 @@ date = 1998-11-01
 weight = 24
 categories = ["Création"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Vivre dans l'art\", en italien."
+info = "\"Vivre dans l'art\" en italien."
 acrostiche = "Vivere nell'arte"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -41,7 +41,7 @@ Triste et beau des cœurs humains,
 Exister, les lendemains...
 
 {{% notice style="primary" %}}
-\"Vivre dans l'art\", en italien.
+\"Vivre dans l'art\" en italien.
 
 Acrostiche : Vivere nell'arte
 {{% /notice %}}

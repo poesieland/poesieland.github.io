@@ -5,7 +5,7 @@ date = 1999-06-06
 weight = 27
 categories = ["Temps"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Oublier\", en italien."
+info = "\"Oublier\" en italien."
 acrostiche = "Scordare..."
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -27,7 +27,7 @@ retrouver, qui créa
 entre deux fois ma vie...
 
 {{% notice style="primary" %}}
-\"Oublier\", en italien.
+\"Oublier\" en italien.
 
 Acrostiche : Scordare...
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 1999-09-08
 weight = 21
 categories = ["Mer"]
 tags = ["nature", "acrostiche"]
-info = "\"Soleil nouveau\", en italien."
+info = "\"Soleil nouveau\" en italien."
 acrostiche = "Sol' nuovo"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -28,7 +28,7 @@ Vers ce sable, cette flore;
 O terra incognita !
 
 {{% notice style="primary" %}}
-\"Soleil nouveau\", en italien.
+\"Soleil nouveau\" en italien.
 
 Acrostiche : Sol' nuovo
 {{% /notice %}}

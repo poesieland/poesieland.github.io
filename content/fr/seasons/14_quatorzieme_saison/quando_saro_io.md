@@ -5,7 +5,7 @@ date = 2000-02-19
 weight = 2
 categories = ["Création", "Temps"]
 tags = ["philosophie", "acrostiche"]
-info = "\"Quand je serai (moi)\", en italien."
+info = "\"Quand je serai (moi)\" en italien."
 acrostiche = "Quando sarò io"
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,7 +37,7 @@ Intime, l'art vrai ne ment au souvenir,
 Or le temps venu dit ce dernier poème.
 
 {{% notice style="primary" %}}
-\"Quand je serai (moi)\", en italien.
+\"Quand je serai (moi)\" en italien.
 
 Acrostiche : Quando sarò io
 {{% /notice %}}
