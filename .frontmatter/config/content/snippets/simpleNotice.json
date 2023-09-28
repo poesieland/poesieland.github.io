@@ -1,0 +1,17 @@
+{
+  "description": "Displays a notice with primary style set",
+  "body": [
+    "{{% notice style=\"primary\" %}}",
+    "[[&content]]",
+    "{{% /notice %}}"
+  ],
+  "fields": [
+    {
+      "name": "content",
+      "title": "content",
+      "type": "string",
+      "single": true,
+      "default": ""
+    }
+  ]
+}
