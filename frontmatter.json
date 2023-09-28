@@ -455,14 +455,16 @@
           ]
         },
         {
-          "title": "Acrostiche (also add acrostiche tag)",
+          "title": "Acrostiche",
           "name": "acrostiche",
-          "type": "string"
+          "type": "string",
+          "description": "Don't forget to add acrostiche tag and mention acrostiche in notice"
         },
         {
-          "title": "Double acrostiche, with | separator (also add doubleAcrostiche tag)",
+          "title": "Double acrostiche, with | separator",
           "name": "doubleAcrostiche",
-          "type": "string"
+          "type": "string",
+          "description": "Don't forget to add doubleAcrostiche tag and mention double acrostiche in notice"
         },
         {
           "title": "Verse length",
