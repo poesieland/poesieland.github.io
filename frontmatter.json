@@ -561,7 +561,7 @@
   "frontMatter.dashboard.content.card.fields.title": "title",
   "frontMatter.dashboard.content.card.fields.state": false,
   "frontMatter.dashboard.content.card.fields.description": "info",
-  "frontMatter.content.hideFm": true,
+  "frontMatter.content.hideFm": false,
   "frontMatter.content.hideFmMessage": "Use the editor panel to make front matter changes",
   "frontMatter.taxonomy.seoContentLength": -1,
   "frontMatter.taxonomy.seoDescriptionLength": -1,

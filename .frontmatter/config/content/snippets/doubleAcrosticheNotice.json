@@ -1,0 +1,24 @@
+{
+  "description": "Displays a notice with primary style set",
+  "body": [
+    "{{% notice style=\"primary\" %}}",
+    "Acrostiche double (lignes paires et impaires) : [[&firstContent]] / [[&secondContent]]",
+    "{{% /notice %}}"
+  ],
+  "fields": [
+    {
+      "name": "firstContent",
+      "title": "first",
+      "type": "string",
+      "single": true,
+      "default": ""
+    },
+    {
+      "name": "secondContent",
+      "title": "second",
+      "type": "string",
+      "single": true,
+      "default": ""
+    }
+  ]
+}
