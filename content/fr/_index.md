@@ -7,6 +7,12 @@ disableToc = true
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](/seasons).
 
+{{% notice title="Derniers poèmes ajoutés" style="info" color="" icon="" %}}
+[Dernier voyage, écrit le 02.07.2004](/seasons/16_seizieme_saison/dernier_voyage/)
+
+[Inaccompli, écrit le 23.06.2004](/seasons/16_seizieme_saison/inaccompli/)
+{{% /notice %}}
+
 Je suis francophone, cependant quelques poèmes sont [originellement dans une autre langue](/en/original_texts/), en anglais sauf un.
 
 Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un peu un caprice de jeunesse, sans regret.

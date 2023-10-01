@@ -491,3 +491,6 @@ FodyWeavers.xsd
 # Test files
 content/fr/seasons/*_test_saison
 content/fr/seasons/*_test_saison/*
+
+# Hugo published site by "hugo" command
+public/
