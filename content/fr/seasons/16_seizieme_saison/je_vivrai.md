@@ -44,7 +44,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
   - philosophie
-info: ""
+info: Les états d'âme d'une catherinette
 type: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -85,3 +85,9 @@ Beauté du monde, au coeur
 De moi le temps n'a prise
 
 Sur l'esprit du bonheur.
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Les états d'âme d'une catherinette"}]} -->
+{{% notice style="primary" %}}
+Les états d'âme d'une catherinette
+{{% /notice %}}
+<!-- FM:Snippet:End -->

@@ -8,7 +8,7 @@ disableToc = true
 
 ## Historique du site
 
-- 2023: abandon de l'amateurisme, le site utilise maintenant le framework de construction de site statique *Hugo* et le thème *hugo-theme-relearn* (voir [Crédits](../more/credits/)). Nouvel outil back-office pour génération des pages de contenu (XML vers markdown)
+- 2023: abandon de l'amateurisme, le site utilise maintenant le framework de construction de site statique *Hugo* et le thème *hugo-theme-relearn* (voir [Crédits](../more/credits/)). Nouvel outil back-office pour génération des pages de contenu (XML vers markdown). Ouverture du nouveau site le 1er octobre et mise en ligne progressive des poèmes rédigés depuis 2004.
 
 - 2005 : passage du standard HTML 4.01 transitional à XHTML 1.1 strict. Parallèlement, création d'un outil de back-office avec interface web, jamais achevé
 
