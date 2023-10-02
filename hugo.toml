@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'http://poesieland.free.fr/'
 languageCode = 'fr-FR'
 title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
@@ -7,6 +7,11 @@ theme = "hugo-theme-relearn"
 paginate = 5
 defaultContentLanguage = 'fr'
 enableEmoji = true
+removePathAccents = true
+cleanDestinationDir = true
+
+[build]
+buildStats = false
 
 [params]
 # This controls whether submenus will be expanded (true), or collapsed (false) in the
