@@ -8,6 +8,15 @@
       "filePrefix": "",
       "fields": [
         {
+          "title": "Weight",
+          "name": "weight",
+          "type": "number",
+          "required": true,
+          "min": 1,
+          "max": 50,
+          "step": 1
+        },
+        {
           "title": "Poem title",
           "name": "title",
           "type": "string",
@@ -26,15 +35,6 @@
           "type": "datetime",
           "required": true,
           "dateFormat": "yyyy-MM-dd"
-        },
-        {
-          "title": "Weight",
-          "name": "weight",
-          "type": "number",
-          "required": true,
-          "min": 1,
-          "max": 50,
-          "step": 1
         },
         {
           "name": "divider",
