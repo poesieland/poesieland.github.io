@@ -13,7 +13,7 @@ Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne r
 
 Je suis francophone, cependant quelques poèmes sont [originellement dans une autre langue](/en/original_texts/), en anglais sauf un.
 
-Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un peu un caprice de jeunesse, sans regret.
+Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un peu un caprice de jeunesse, mais aussi un besoin de reconnaissance.
 
 ## Ecrire et partager
 
