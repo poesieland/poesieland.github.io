@@ -5,8 +5,9 @@ id: par_omission_16
 date: 2004-08-10
 divider: ""
 categories:
-  - Eté
   - Automne
+  - Eté
+  - Temps
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -44,6 +45,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
   - saisons
+  - philosophie
 info: ""
 type: ""
 acrostiche: ""

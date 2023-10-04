@@ -46,12 +46,19 @@ info: ""
 type: ""
 acrostiche: ""
 doubleAcrostiche: ""
-verseLength: 6
+verseLength: 8
 LastModifierDisplayName: Barbara Post
 ---
-Derrière toi, prends garde,
-Invisible regarde
-Sournois, cet homme-là,
-Près de la fille, et là...
-Ardente absence vise
-Refrain
+Derrière toi, sans bruit, prends garde,
+
+Invisible l'homme regarde
+
+Svelte, la fille à petits pas.
+
+Prédateur... Voici son repas.
+
+Ardente absence, un coeur qu'on brise,
+
+Remue en la douleur qui vise
+
+Une famille.
