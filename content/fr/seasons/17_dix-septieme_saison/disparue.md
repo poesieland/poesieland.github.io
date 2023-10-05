@@ -1,11 +1,12 @@
 ---
 draft: true
-weight: 0
+weight: 99
 title: Disparue
 id: disparue_17
-date: 2023-10-03
+date: 2023-10-05
 divider: ""
-categories: []
+categories:
+  - Révolte
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -41,10 +42,12 @@ ensureTagSaisons: ""
 ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
-tags: []
+tags:
+  - philosophie
+  - acrostiche
 info: ""
 type: ""
-acrostiche: ""
+acrostiche: Disparue
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
@@ -57,8 +60,16 @@ Svelte, la fille à petits pas.
 
 Prédateur... Voici son repas.
 
-Ardente absence, un coeur qu'on brise,
+Ardente absence, elle se fige,
 
-Remue en la douleur qui vise
+Respire une douleur, vestige.
 
-Une famille.
+Une famille a tout perdu,
+
+Et murmure un espoir ténu.
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
+{{% notice style="primary" %}}
+Acrostiche : Disparue
+{{% /notice %}}
+<!-- FM:Snippet:End -->
