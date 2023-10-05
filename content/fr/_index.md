@@ -7,7 +7,7 @@ disableToc = true
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](/seasons).
 
-{{% notice title="Derniers poèmes ajoutés" style="note" color="" icon="" %}}
+{{% notice title="Cinq derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "last_poems.md" true %}}
 {{% /notice %}}
 
