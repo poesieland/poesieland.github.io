@@ -7,6 +7,7 @@ divider: ""
 categories:
   - Jardin, paysage
   - Temps
+  - Flore
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""

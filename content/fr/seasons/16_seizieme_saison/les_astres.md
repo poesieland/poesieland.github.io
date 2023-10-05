@@ -41,7 +41,8 @@ ensureTagSaisons: ""
 ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
-tags: []
+tags:
+  - nature
 info: ""
 type: ""
 acrostiche: ""

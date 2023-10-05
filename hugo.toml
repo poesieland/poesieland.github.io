@@ -113,7 +113,7 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/en/tags/"
             weight = 40
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-list'></i> Categories"
+            name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
             url = "/en/categories/"
             weight = 50
         [[Languages.en.menu.shortcuts]]
@@ -142,7 +142,7 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/tags/"
             weight = 40
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-list'></i> Catégories"
+            name = "<i class='fas fa-fw fa-layer-group'></i> Catégories"
             url = "/categories/"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
