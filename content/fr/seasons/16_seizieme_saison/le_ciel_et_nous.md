@@ -17,8 +17,7 @@ Cri d'être un homme, être une femme
 
 Indispensable ? Au fil d'ennui
 
-
-
+ \
 Entrelaçons nos jours semblables.
 
 Le temps n'a rien bâti de grand,
@@ -27,8 +26,7 @@ Espace à pas comptés, parent
 
 Triste de rêves infaisables.
 
-
-
+ \
 Nous nous sommes dit... presque rien.
 
 Oui, c'est avouer l'amertume

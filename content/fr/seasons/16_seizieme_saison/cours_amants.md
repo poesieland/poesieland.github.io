@@ -17,16 +17,16 @@ Etoilé de mon rêve et j'écoute les liens
 
 Ultimes de la pluie étrenner de leur moire
 
+ \
 Richesse de ce monde attisé à l'absent.
 
 Souffles de ton parfum dans la chambre déserte.
-
-
 
 Aimé, ce sont trois nuits que le soleil décent
 
 Mirera de ses flots à l'aube découverte.
 
+ \
 Aimée ô toute à toi dès l'instant du retour,
 
 Nouvelle, je saurai plaire encor plus, à l'âme.

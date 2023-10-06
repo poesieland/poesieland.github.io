@@ -554,8 +554,8 @@
       "path": "[[workspace]]/content/fr/seasons/16_seizieme_saison"
     },
     {
-      "title": "17_dix-septieme_saison",
-      "path": "[[workspace]]/content/fr/seasons/17_dix-septieme_saison"
+      "title": "17_dix_septieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/17_dix_septieme_saison"
     }
   ],
   "frontMatter.dashboard.content.card.fields.title": "title",

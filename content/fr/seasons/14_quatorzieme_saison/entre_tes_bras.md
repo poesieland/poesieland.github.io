@@ -12,13 +12,10 @@ LastModifierDisplayName = "Barbara Post"
 Emmène-moi, ce monde étrange
 
 N'a pas de ciel, pas d'avenir;
-                
 
 Tous les silences à venir
-                
 
 Rêvent le temps qu'un jour dérange,
-                
 
 Entre tes bras le temps d'un bal.
 

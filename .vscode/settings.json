@@ -21,6 +21,7 @@
         "!**/vendor",
         "!**/.git",
         "!**/themes",
-        "!**/public"
+        "!**/public",
+        "!**/back-office"
     ]
 }

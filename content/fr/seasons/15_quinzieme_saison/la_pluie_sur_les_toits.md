@@ -10,10 +10,8 @@ LastModifierDisplayName = "Barbara Post"
 +++
 
 La pluie éteint tous les sourires
-                
 
 Aux ombres grises qui désirent
-                
 
  \
 Plâner sur les toits des cités.

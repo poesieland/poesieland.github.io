@@ -1,12 +1,14 @@
 +++
 title = "Seizième Saison : Plus loin"
-summary = "Sur un air de fin, puis un renouveau. De mars 2002 à ..."
+summary = "Très autobiographique, cette Saison mêle plusieurs amours puis retrouve un nouveau souffle après un changement de lieu de vie. De mars 2002 à octobre 2004"
 weight = 16
 +++
 
-Une Saison commencée sur un air de fin, à travers les touches d'un amour qui n'en était plus vraiment un. Puis un renouveau un an après, cet épisode terminé.
+Une Saison très autobiographique. Mêlant plusieurs amours. Tendant vers l'abstraction, avec des jeux de mots poussés, dans un duel avec une amie poète.
 
-De mars 2002 à ...
+      Heureusement, la vie n'est pas statique. Quitter Paris pour Bordeaux m'a fait retrouver une nouvelle inspiration.
+
+De mars 2002 à octobre 2004
 
 ---
 {{% children  %}}
