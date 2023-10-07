@@ -42,8 +42,9 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - saisons
     - pantoun
+    - saisons
+    - "2023"
 info: ""
 type: pantoun
 acrostiche: ""

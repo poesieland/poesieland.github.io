@@ -42,8 +42,9 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-  - philosophie
   - acrostiche
+  - philosophie
+  - "2023"
 info: ""
 type: ""
 acrostiche: Disparue

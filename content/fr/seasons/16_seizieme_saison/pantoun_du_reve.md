@@ -5,7 +5,7 @@ id: pantoum_du_reve_16
 date: 2004-10-12
 divider: ""
 categories:
-    - Temps
+  - Temps
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,8 +42,7 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - pantoum
-    - philosophie
+  - philosophie
 info: ""
 type: pantoum
 acrostiche: ""
