@@ -4,7 +4,7 @@ id = "les_raies_leopard_4"
 date = 1997-09-12
 weight = 48
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

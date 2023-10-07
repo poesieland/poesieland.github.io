@@ -4,7 +4,7 @@ id = "nuit_4"
 date = 1997-08-19
 weight = 42
 categories = ["Lune"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "champ_passe_14"
 date = 2000-08-06
 weight = 17
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

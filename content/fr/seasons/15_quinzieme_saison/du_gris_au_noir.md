@@ -4,7 +4,7 @@ id = "du_gris_au_noir_15"
 date = 2001-09-21
 weight = 34
 categories = ["Automne", "Ville", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "ombres et lumières", "acrostiche"]
+tags = ["saisons", "ombres et lumières", "ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Du gris au noir"
 LastModifierDisplayName = "Barbara Post"
 +++

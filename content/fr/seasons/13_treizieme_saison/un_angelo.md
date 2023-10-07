@@ -4,7 +4,7 @@ id = "un_angelo_13"
 date = 1999-09-21
 weight = 11
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un angelo"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "je_reve_10"
 date = 1999-02-18
 weight = 16
 categories = ["Etre", "Aube"]
-tags = ["philosophie", "ombres et lumières"]
+tags = ["philosophie", "ombres et lumières", "1999"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

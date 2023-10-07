@@ -4,7 +4,7 @@ id = "ton_premier_succes_8"
 date = 1998-08-01
 weight = 19
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ton premier succès"
 LastModifierDisplayName = "Barbara Post"
 +++

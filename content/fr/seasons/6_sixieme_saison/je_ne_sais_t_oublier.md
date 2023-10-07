@@ -4,7 +4,7 @@ id = "je_ne_sais_t_oublier_6"
 date = 1998-05-11
 weight = 45
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je ne sais t'oublier"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "quand_le_destin_dit_8"
 date = 1998-09-07
 weight = 38
 categories = ["Amour malheureux", "Création"]
-tags = ["amour", "philosophie", "acrostiche"]
+tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "Quand le destin dit..."
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "elle_sonate_8"
 date = 1998-09-05
 weight = 32
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Elle : sonate"
 LastModifierDisplayName = "Barbara Post"
 +++

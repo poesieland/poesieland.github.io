@@ -4,7 +4,7 @@ id = "reve_4"
 date = 1997-09-11
 weight = 33
 categories = ["Lune", "Espoir"]
-tags = ["ombres et lumières", "philosophie"]
+tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

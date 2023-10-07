@@ -4,7 +4,7 @@ id = "le_depart_de_l_amant_5"
 date = 1998-01-19
 weight = 3
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1998"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

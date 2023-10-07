@@ -4,7 +4,7 @@ id = "impression_de_mer_1"
 date = 1996-07-12
 weight = 26
 categories = ["Mer"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

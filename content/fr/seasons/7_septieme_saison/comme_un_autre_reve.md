@@ -4,7 +4,7 @@ id = "comme_un_autre_reve_7"
 date = 1998-07-15
 weight = 20
 categories = ["Mer", "Etre"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Comme un autre rêve"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "lune_citadine_13"
 date = 1999-08-26
 weight = 18
 categories = ["Lune", "Ville"]
-tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune citadine"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "l_automne_est_venu_5"
 date = 1997-10-26
 weight = 45
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "endors_10"
 date = 1999-02-11
 weight = 13
 categories = ["Sommeil"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Endors"
 LastModifierDisplayName = "Barbara Post"
 +++

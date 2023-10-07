@@ -4,7 +4,7 @@ id = "italia_7"
 date = 1998-06-05
 weight = 38
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Italia"
 LastModifierDisplayName = "Barbara Post"
 +++

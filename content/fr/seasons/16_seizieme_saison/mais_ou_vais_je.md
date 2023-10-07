@@ -4,7 +4,7 @@ id = "mais_ou_vais_je_16"
 date = 2004-01-14
 weight = 20
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2004", "acrostiche"]
 acrostiche = "Mais où vais-je ?"
 LastModifierDisplayName = "Barbara Post"
 +++

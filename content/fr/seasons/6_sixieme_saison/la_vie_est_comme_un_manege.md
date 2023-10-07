@@ -4,7 +4,7 @@ id = "la_vie_est_comme_un_manege_6"
 date = 1998-03-26
 weight = 10
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "La vie est comme un manège"
 LastModifierDisplayName = "Barbara Post"
 +++

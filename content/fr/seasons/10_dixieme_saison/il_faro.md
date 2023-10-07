@@ -4,7 +4,7 @@ id = "il_faro_10"
 date = 1999-01-15
 weight = 10
 categories = ["Mer"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Il faro"
 LastModifierDisplayName = "Barbara Post"
 +++

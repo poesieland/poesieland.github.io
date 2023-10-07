@@ -4,7 +4,7 @@ id = "mots_mime_15"
 date = 2001-08-09
 weight = 18
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Mots : mime"
 LastModifierDisplayName = "Barbara Post"
 +++

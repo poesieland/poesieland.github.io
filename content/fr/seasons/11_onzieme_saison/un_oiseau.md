@@ -4,7 +4,7 @@ id = "un_oiseau_11"
 date = 1999-05-03
 weight = 47
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Un oiseau"
 LastModifierDisplayName = "Barbara Post"
 +++

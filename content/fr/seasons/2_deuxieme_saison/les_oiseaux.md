@@ -4,7 +4,7 @@ id = "les_oiseaux_2"
 date = 1996-12-09
 weight = 47
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

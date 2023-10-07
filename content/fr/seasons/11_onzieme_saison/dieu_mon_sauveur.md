@@ -4,7 +4,7 @@ id = "dieu_mon_sauveur_11"
 date = 1999-04-17
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Dieu, mon Sauveur !"
 LastModifierDisplayName = "Barbara Post"
 +++

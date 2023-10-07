@@ -4,7 +4,7 @@ id = "elans_valse_14"
 date = 2001-03-19
 weight = 39
 categories = ["Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Elans, valse"
 LastModifierDisplayName = "Barbara Post"
 +++

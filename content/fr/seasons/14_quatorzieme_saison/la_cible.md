@@ -4,7 +4,7 @@ id = "la_cible_14"
 date = 2000-04-04
 weight = 47
 categories = ["Ciel"]
-tags = ["nature"]
+tags = ["nature", "2000"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

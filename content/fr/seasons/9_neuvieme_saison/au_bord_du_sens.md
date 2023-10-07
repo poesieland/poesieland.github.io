@@ -4,7 +4,7 @@ id = "au_bord_du_sens_9"
 date = 1998-11-01
 weight = 22
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Au bord du sens ivre"
 LastModifierDisplayName = "Barbara Post"
 +++

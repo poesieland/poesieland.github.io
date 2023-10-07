@@ -4,7 +4,7 @@ id = "lettre_a_maman_16"
 date = 2002-10-30
 weight = 5
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "2002"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

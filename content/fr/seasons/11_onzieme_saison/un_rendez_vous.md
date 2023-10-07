@@ -4,7 +4,7 @@ id = "un_rendez_vous_11"
 date = 1999-05-21
 weight = 12
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Un rendez-vous"
 LastModifierDisplayName = "Barbara Post"
 +++

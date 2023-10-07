@@ -4,7 +4,7 @@ id = "dans_son_cour_9"
 date = 1998-11-13
 weight = 49
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dans son cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

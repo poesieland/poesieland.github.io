@@ -4,7 +4,7 @@ id = "secret_d_un_cour_8"
 date = 1998-09-10
 weight = 39
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Secret d'un cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

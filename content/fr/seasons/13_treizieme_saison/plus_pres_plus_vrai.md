@@ -4,7 +4,7 @@ id = "plus_pres_plus_vrai_13"
 date = 1999-09-07
 weight = 38
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Plus près, plus vrai"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "matin_celeste_5"
 date = 1997-12-16
 weight = 42
 categories = ["Aube"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "tu_n_as_pas_de_visage_6"
 date = 1998-05-30
 weight = 49
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Tu n'as pas de visage"
 LastModifierDisplayName = "Barbara Post"
 +++

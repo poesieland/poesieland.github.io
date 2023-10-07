@@ -4,7 +4,7 @@ id = "d_aimer_l_envie_7"
 date = 1998-06-07
 weight = 9
 categories = ["Amour malheureux", "Création"]
-tags = ["amour", "philosophie", "acrostiche"]
+tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "D'aimer l'envie"
 LastModifierDisplayName = "Barbara Post"
 +++

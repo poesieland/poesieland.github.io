@@ -4,7 +4,7 @@ id = "fin_d_ete_1"
 date = 1996-08-18
 weight = 37
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "tu_ne_sais_12"
 date = 1999-06-14
 weight = 10
 categories = ["Lune", "Etre"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tu ne sais"
 LastModifierDisplayName = "Barbara Post"
 +++

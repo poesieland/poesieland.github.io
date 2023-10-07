@@ -4,7 +4,7 @@ id = "j_aime_te_voir_4"
 date = 1997-08-16
 weight = 15
 categories = ["Romantisme", "Portraits"]
-tags = ["amour", "philosophie"]
+tags = ["amour", "philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

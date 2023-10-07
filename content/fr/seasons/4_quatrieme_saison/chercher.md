@@ -4,7 +4,7 @@ id = "chercher_4"
 date = 1997-08-23
 weight = 44
 categories = ["Lune"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

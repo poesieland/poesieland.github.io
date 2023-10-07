@@ -4,7 +4,7 @@ id = "d_un_prelude_12"
 date = 1999-06-02
 weight = 14
 categories = ["Musique, chant", "Création"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "D'un prélude"
 LastModifierDisplayName = "Barbara Post"
 +++

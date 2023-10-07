@@ -4,7 +4,7 @@ id = "octobre_2"
 date = 1996-10-01
 weight = 17
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

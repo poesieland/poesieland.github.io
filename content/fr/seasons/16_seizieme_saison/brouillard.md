@@ -4,7 +4,7 @@ id = "brouillard_16"
 date = 2004-04-28
 weight = 28
 categories = ["Jardin, paysage", "Musique, chant"]
-tags = ["nature", "attitudes"]
+tags = ["nature", "attitudes", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

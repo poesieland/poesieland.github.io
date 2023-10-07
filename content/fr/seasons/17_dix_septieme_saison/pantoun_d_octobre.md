@@ -1,11 +1,11 @@
 ---
-weight: 49
-title: Disparue
-id: disparue_17
-date: 2023-10-05
+weight: 50
+title: Pantoun d'octobre
+id: pantoun_d_octobre_17
+date: 2023-10-07
 divider: ""
 categories:
-  - Révolte
+    - Automne
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,33 +42,64 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-  - philosophie
-  - acrostiche
+    - saisons
+    - pantoun
 info: ""
-type: ""
-acrostiche: Disparue
+type: pantoun
+acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
 ---
-Derrière toi, sans bruit, prends garde,
+L'ombre est longue et mélancolique,
 
-Invisible l'homme regarde
+L'automne enfile son gilet.
 
-Svelte, la fille à petits pas.
+Dans un climat dichotomique
 
-Prédateur... Voici son repas.
+Je ne sais plus quelle heure il est.
 
-Ardente absence, elle se fige,
+ \
+L'automne enfile son gilet
 
-Respire une douleur, vestige.
+Tout en nuance fantastique,
 
-Une famille a tout perdu,
+Je ne sais plus quelle heure il est,
 
-Et murmure un espoir ténu.
+Le monde se meurt, dystopique.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
-{{% notice style="primary" %}}
-Acrostiche : Disparue
-{{% /notice %}}
-<!-- FM:Snippet:End -->
+ \
+Tout en nuance fantastique
+
+Les feuilles dansent feu follet.
+
+Le monde se meurt, dystopique,
+
+Un coeur ne sait, pris au collet.
+
+ \
+Les feuilles dansent feu follet,
+
+Le vent déroule sa musique.
+
+Un coeur ne sait, pris au collet
+
+S'il abandonne jour épique.
+
+ \
+Le vent déroule sa musique,
+
+Rire sorcière en son chalet,
+
+S'il abandonne jour épique
+
+Le néant lance son filet.
+
+ \
+Rire sorcière en son chalet,
+
+Octobre passe, magnifique.
+
+Le néant lance son filet,
+
+L'ombre est longue et mélancolique.

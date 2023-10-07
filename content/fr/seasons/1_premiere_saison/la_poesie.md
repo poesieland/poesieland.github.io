@@ -4,7 +4,7 @@ id = "la_poesie_1"
 date = 1996-02-06
 weight = 11
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "il_est_cher_automne_15"
 date = 2001-09-08
 weight = 28
 categories = ["Automne"]
-tags = ["saisons", "acrostiche"]
+tags = ["saisons", "2001", "acrostiche"]
 acrostiche = "Il est cher, automne"
 LastModifierDisplayName = "Barbara Post"
 +++

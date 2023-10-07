@@ -4,7 +4,7 @@ id = "beau_lac_8"
 date = 1998-07-22
 weight = 27
 categories = ["Eau douce"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Beau lac, miroir, dis..."
 LastModifierDisplayName = "Barbara Post"
 +++

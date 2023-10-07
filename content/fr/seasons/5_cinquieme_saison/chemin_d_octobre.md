@@ -4,7 +4,7 @@ id = "chemin_d_octobre_5"
 date = 1997-10-16
 weight = 44
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

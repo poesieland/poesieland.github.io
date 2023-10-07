@@ -4,7 +4,7 @@ id = "matin_privilege_15"
 date = 2001-08-22
 weight = 23
 categories = ["Temps", "Flore"]
-tags = ["philosophie", "nature", "acrostiche"]
+tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Matin privilège"
 LastModifierDisplayName = "Barbara Post"
 +++

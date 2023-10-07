@@ -4,7 +4,7 @@ id = "celeste_optique_5"
 date = 1997-10-01
 weight = 25
 categories = ["Ciel"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post"
 +++

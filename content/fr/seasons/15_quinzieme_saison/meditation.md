@@ -4,7 +4,7 @@ id = "meditation_15"
 date = 2001-04-30
 weight = 4
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Méditation"
 LastModifierDisplayName = "Barbara Post"
 +++

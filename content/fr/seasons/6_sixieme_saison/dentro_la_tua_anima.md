@@ -4,7 +4,7 @@ id = "dentro_la_tua_anima_6"
 date = 1998-04-06
 weight = 24
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dentro la tua anima"
 LastModifierDisplayName = "Barbara Post"
 +++

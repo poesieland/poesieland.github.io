@@ -4,7 +4,7 @@ id = "vol_de_papillon_5"
 date = 1998-01-01
 weight = 39
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1998"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

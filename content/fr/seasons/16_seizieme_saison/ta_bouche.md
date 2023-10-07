@@ -4,7 +4,7 @@ id = "ta_bouche_16"
 date = 2002-08-19
 weight = 4
 categories = ["Toucher", "Aimé (amant)"]
-tags = ["attitudes", "amour", "acrostiche"]
+tags = ["attitudes", "amour", "2002", "acrostiche"]
 acrostiche = "Ta bouche"
 LastModifierDisplayName = "Barbara Post"
 +++

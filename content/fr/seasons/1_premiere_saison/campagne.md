@@ -4,7 +4,7 @@ id = "campagne_1"
 date = 1996-04-16
 weight = 32
 categories = ["Jardin, paysage"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

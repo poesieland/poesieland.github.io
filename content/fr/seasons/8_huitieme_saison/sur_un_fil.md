@@ -4,7 +4,7 @@ id = "sur_un_fil_8"
 date = 1998-08-12
 weight = 46
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sur un fil"
 LastModifierDisplayName = "Barbara Post"
 +++

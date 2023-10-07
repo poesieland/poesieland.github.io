@@ -4,7 +4,7 @@ id = "je_n_ai_pas_su_le_dire_6"
 date = 1998-04-03
 weight = 3
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je n'ai pas su le dire"
 LastModifierDisplayName = "Barbara Post"
 +++

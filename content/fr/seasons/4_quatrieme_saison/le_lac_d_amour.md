@@ -4,7 +4,7 @@ id = "le_lac_d_amour_4"
 date = 1997-08-25
 weight = 50
 categories = ["Eau douce", "Femme"]
-tags = ["nature", "amour"]
+tags = ["nature", "amour", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "songe_d_encens_14"
 date = 2000-01-23
 weight = 46
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Songe d'encens"
 LastModifierDisplayName = "Barbara Post"
 +++

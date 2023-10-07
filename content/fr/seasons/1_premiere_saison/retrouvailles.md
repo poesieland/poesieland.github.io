@@ -4,7 +4,7 @@ id = "retrouvailles_1"
 date = 1996-06-29
 weight = 9
 categories = ["Amitié"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

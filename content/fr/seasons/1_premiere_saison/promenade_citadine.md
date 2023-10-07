@@ -4,7 +4,7 @@ id = "promenade_citadine_1"
 date = 1996-06-22
 weight = 35
 categories = ["Ville"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

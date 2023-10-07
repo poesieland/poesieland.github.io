@@ -4,7 +4,7 @@ id = "je_fais_un_reve_12"
 date = 1999-06-01
 weight = 37
 categories = ["Sommeil"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Je fais un rêve"
 LastModifierDisplayName = "Barbara Post"
 +++

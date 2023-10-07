@@ -4,7 +4,7 @@ id = "sous_le_sureau_3"
 date = 1997-01-07
 weight = 25
 categories = ["Enfance"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

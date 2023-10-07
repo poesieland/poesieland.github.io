@@ -4,7 +4,7 @@ id = "onirique_10"
 date = 1999-02-26
 weight = 31
 categories = ["Etre", "Ciel"]
-tags = ["philosophie", "nature", "acrostiche"]
+tags = ["philosophie", "nature", "1999", "acrostiche"]
 acrostiche = "Onirique"
 LastModifierDisplayName = "Barbara Post"
 +++

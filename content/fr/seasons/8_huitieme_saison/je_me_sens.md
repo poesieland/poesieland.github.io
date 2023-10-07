@@ -4,7 +4,7 @@ id = "je_me_sens_8"
 date = 1998-07-21
 weight = 3
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je me sens"
 LastModifierDisplayName = "Barbara Post"
 +++

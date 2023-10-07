@@ -4,7 +4,7 @@ id = "le_ciel_n_est_bleu_ni_gris_7"
 date = 1998-07-05
 weight = 42
 categories = ["Création", "Lune", "Ciel"]
-tags = ["philosophie", "ombres et lumières", "nature", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "nature", "1998", "acrostiche"]
 acrostiche = "Le ciel n'est bleu ni gris..."
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "les_amoureux_2"
 date = 1996-11-07
 weight = 7
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

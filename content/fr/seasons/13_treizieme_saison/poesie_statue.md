@@ -4,7 +4,7 @@ id = "poesie_statue_13"
 date = 1999-07-26
 weight = 41
 categories = ["Temps"]
-tags = ["philosophie", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Poésie | Statue"
 LastModifierDisplayName = "Barbara Post"
 +++

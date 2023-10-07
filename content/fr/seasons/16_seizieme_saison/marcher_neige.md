@@ -4,7 +4,7 @@ id = "marcher_neige_16"
 date = 2003-01-10
 weight = 8
 categories = ["Neige", "Ville"]
-tags = ["nature", "ombres et lumières", "acrostiche"]
+tags = ["nature", "ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Marcher : neige"
 LastModifierDisplayName = "Barbara Post"
 +++

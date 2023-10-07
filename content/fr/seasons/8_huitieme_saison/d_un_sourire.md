@@ -4,7 +4,7 @@ id = "d_un_sourire_8"
 date = 1998-07-28
 weight = 6
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "D'un sourire"
 LastModifierDisplayName = "Barbara Post"
 +++

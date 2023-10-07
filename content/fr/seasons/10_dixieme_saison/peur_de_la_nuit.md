@@ -4,7 +4,7 @@ id = "peur_de_la_nuit_10"
 date = 1999-02-14
 weight = 14
 categories = ["Révolte"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Peur de la nuit"
 LastModifierDisplayName = "Barbara Post"
 +++

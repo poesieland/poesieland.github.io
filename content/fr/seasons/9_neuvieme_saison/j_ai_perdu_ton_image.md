@@ -4,7 +4,7 @@ id = "j_ai_perdu_ton_image_9"
 date = 1998-12-05
 weight = 34
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'ai perdu ton image"
 LastModifierDisplayName = "Barbara Post"
 +++

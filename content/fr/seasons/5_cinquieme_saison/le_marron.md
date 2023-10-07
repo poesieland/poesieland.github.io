@@ -4,7 +4,7 @@ id = "le_marron_5"
 date = 1997-09-20
 weight = 37
 categories = ["Flore"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

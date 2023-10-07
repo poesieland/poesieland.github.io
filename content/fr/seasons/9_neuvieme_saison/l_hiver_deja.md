@@ -4,7 +4,7 @@ id = "l_hiver_deja_9"
 date = 1998-10-04
 weight = 2
 categories = ["Hiver", "Révolte"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "1998", "acrostiche"]
 acrostiche = "L'hiver déjà"
 LastModifierDisplayName = "Barbara Post"
 +++

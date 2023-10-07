@@ -4,7 +4,7 @@ id = "si_les_roses_fanent_9"
 date = 1998-11-25
 weight = 6
 categories = ["Flore", "Foi"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Si les roses fanent"
 LastModifierDisplayName = "Barbara Post"
 +++

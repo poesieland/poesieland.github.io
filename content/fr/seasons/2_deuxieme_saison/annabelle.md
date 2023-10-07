@@ -4,7 +4,7 @@ id = "annabelle_2"
 date = 1996-09-24
 weight = 2
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

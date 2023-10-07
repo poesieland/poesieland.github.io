@@ -4,7 +4,7 @@ id = "dessin_13"
 date = 1999-11-01
 weight = 29
 categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "Dessin"
 LastModifierDisplayName = "Barbara Post"
 +++

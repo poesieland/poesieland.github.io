@@ -4,7 +4,7 @@ id = "a_la_course_aux_saisons_14"
 date = 2001-03-24
 weight = 50
 categories = ["Printemps", "Temps"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "D'une saison l'autre"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "aube_muraille_7"
 date = 1998-07-05
 weight = 29
 categories = ["Aube"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Aube muraille"
 LastModifierDisplayName = "Barbara Post"
 +++

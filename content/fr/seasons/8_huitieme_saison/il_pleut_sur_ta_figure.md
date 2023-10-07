@@ -4,7 +4,7 @@ id = "il_pleut_sur_ta_figure_8"
 date = 1998-07-27
 weight = 14
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Il pleut sur ta figure..."
 LastModifierDisplayName = "Barbara Post"
 +++

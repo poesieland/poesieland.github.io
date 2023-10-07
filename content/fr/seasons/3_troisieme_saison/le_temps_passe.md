@@ -4,7 +4,7 @@ id = "le_temps_passe_3"
 date = 1997-01-03
 weight = 24
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

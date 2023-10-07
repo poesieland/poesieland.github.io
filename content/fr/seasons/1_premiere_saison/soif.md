@@ -4,7 +4,7 @@ id = "soif_1"
 date = 1996-07-31
 weight = 40
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

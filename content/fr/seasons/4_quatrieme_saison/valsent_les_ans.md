@@ -4,7 +4,7 @@ id = "valsent_les_ans_4"
 date = 1997-09-08
 weight = 35
 categories = ["Apprentissage", "Enfance"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "la_rochelle_15"
 date = 2001-06-23
 weight = 9
 categories = ["Ville", "Portraits"]
-tags = ["ombres et lumières", "philosophie"]
+tags = ["ombres et lumières", "philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "du_reve_au_reel_7"
 date = 1998-07-10
 weight = 27
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Du rêve au réel"
 LastModifierDisplayName = "Barbara Post"
 +++

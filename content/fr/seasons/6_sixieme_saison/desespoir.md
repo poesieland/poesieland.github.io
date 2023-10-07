@@ -4,7 +4,7 @@ id = "desespoir_6"
 date = 1998-05-26
 weight = 48
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

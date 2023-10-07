@@ -4,7 +4,7 @@ id = "l_octobre_13"
 date = 1999-10-05
 weight = 40
 categories = ["Automne", "Espoir"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "L'Octobre"
 LastModifierDisplayName = "Barbara Post"
 +++

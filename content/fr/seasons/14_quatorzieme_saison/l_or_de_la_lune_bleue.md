@@ -4,7 +4,7 @@ id = "l_or_de_la_lune_bleue_14"
 date = 1999-12-12
 weight = 43
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "L'or de la lune bleue"
 LastModifierDisplayName = "Barbara Post"
 +++

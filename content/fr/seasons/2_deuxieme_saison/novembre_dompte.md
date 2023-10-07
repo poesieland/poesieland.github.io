@@ -4,7 +4,7 @@ id = "novembre_dompte_2"
 date = 1996-11-03
 weight = 22
 categories = ["Automne", "Espoir"]
-tags = ["saisons", "philosophie"]
+tags = ["saisons", "philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

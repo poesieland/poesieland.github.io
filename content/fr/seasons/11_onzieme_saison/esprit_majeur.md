@@ -4,7 +4,7 @@ id = "esprit_majeur_11"
 date = 1999-05-05
 weight = 26
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Esprit majeur"
 LastModifierDisplayName = "Barbara Post"
 +++

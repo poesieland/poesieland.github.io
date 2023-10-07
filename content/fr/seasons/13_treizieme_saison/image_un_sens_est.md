@@ -4,7 +4,7 @@ id = "image_un_sens_est_13"
 date = 1999-08-31
 weight = 6
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Image, un sens est"
 LastModifierDisplayName = "Barbara Post"
 +++

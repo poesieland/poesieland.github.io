@@ -4,7 +4,7 @@ id = "un_chat_voisin_16"
 date = 2003-10-05
 weight = 17
 categories = ["Animaux"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2003", "acrostiche"]
 acrostiche = "Un chat voisin"
 LastModifierDisplayName = "Barbara Post"
 +++

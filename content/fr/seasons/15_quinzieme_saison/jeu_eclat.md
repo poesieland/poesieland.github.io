@@ -4,7 +4,7 @@ id = "jeu_eclat_15"
 date = 2001-08-31
 weight = 26
 categories = ["Espoir", "Eté"]
-tags = ["philosophie", "saisons", "acrostiche"]
+tags = ["philosophie", "saisons", "2001", "acrostiche"]
 acrostiche = "Jeu - éclat"
 LastModifierDisplayName = "Barbara Post"
 +++

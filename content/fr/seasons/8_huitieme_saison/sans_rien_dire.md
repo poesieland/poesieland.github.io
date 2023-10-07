@@ -4,7 +4,7 @@ id = "sans_rien_dire_8"
 date = 1998-09-04
 weight = 42
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sans rien dire"
 LastModifierDisplayName = "Barbara Post"
 +++

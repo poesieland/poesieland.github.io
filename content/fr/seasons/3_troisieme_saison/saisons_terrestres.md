@@ -4,7 +4,7 @@ id = "saisons_terrestres_3"
 date = 1997-02-15
 weight = 26
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

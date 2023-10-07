@@ -4,7 +4,7 @@ id = "le_jardin_de_mes_parents_16"
 date = 2003-03-14
 weight = 14
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2003", "acrostiche"]
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
 +++

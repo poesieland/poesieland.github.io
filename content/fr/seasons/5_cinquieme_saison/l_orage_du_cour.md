@@ -4,7 +4,7 @@ id = "l_orage_du_cour_5"
 date = 1998-01-04
 weight = 2
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1998"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

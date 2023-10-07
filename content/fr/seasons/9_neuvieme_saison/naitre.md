@@ -4,7 +4,7 @@ id = "naitre_9"
 date = 1998-10-25
 weight = 21
 categories = ["Musique, chant", "Création"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Naître"
 LastModifierDisplayName = "Barbara Post"
 +++

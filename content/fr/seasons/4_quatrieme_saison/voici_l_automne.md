@@ -4,7 +4,7 @@ id = "voici_l_automne_4"
 date = 1997-09-03
 weight = 9
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

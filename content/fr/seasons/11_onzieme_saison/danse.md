@@ -4,7 +4,7 @@ id = "danse_11"
 date = 1999-05-10
 weight = 29
 categories = ["Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Jour joli"
 LastModifierDisplayName = "Barbara Post"
 +++

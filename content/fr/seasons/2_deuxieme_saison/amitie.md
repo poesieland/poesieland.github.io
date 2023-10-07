@@ -4,7 +4,7 @@ id = "amitie_2"
 date = 1996-12-13
 weight = 10
 categories = ["Amitié"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "treve_du_coeur_16"
 date = 2003-09-20
 weight = 15
 categories = ["Automne", "Etre"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "2003", "acrostiche"]
 acrostiche = "Trêve du coeur"
 LastModifierDisplayName = "Barbara Post"
 +++

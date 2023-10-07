@@ -4,7 +4,7 @@ id = "le_fleuve_9"
 date = 1998-09-28
 weight = 29
 categories = ["Création", "Eau douce"]
-tags = ["philosophie", "nature", "acrostiche"]
+tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "A la recherche"
 LastModifierDisplayName = "Barbara Post"
 +++

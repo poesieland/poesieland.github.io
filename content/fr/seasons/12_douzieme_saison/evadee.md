@@ -4,7 +4,7 @@ id = "evadee_12"
 date = 1999-06-12
 weight = 44
 categories = ["Nuit", "Etre"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Evadée"
 LastModifierDisplayName = "Barbara Post"
 +++

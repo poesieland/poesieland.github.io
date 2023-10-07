@@ -4,7 +4,7 @@ id = "amant_d_hier_de_demain_7"
 date = 1998-07-14
 weight = 18
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Amant d'hier, de demain"
 LastModifierDisplayName = "Barbara Post"
 +++

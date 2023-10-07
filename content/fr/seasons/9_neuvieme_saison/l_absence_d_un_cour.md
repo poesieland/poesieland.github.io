@@ -4,7 +4,7 @@ id = "l_absence_d_un_cour_9"
 date = 1998-10-18
 weight = 43
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "L'absence d'un cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "tes_mains_15"
 date = 2001-08-20
 weight = 21
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Tes mains"
 LastModifierDisplayName = "Barbara Post"
 +++

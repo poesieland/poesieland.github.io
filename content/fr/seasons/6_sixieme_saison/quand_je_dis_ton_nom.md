@@ -4,7 +4,7 @@ id = "quand_je_dis_ton_nom_6"
 date = 1998-03-27
 weight = 44
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Quand je dis ton nom"
 LastModifierDisplayName = "Barbara Post"
 +++

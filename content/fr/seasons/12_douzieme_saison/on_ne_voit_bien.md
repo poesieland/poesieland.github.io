@@ -4,7 +4,7 @@ id = "on_ne_voit_bien_12"
 date = 1999-07-24
 weight = 24
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "On ne voit bien..."
 LastModifierDisplayName = "Barbara Post"
 +++

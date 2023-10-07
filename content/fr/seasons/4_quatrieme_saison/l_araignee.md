@@ -4,7 +4,7 @@ id = "l_araignee_4"
 date = 1997-08-16
 weight = 45
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

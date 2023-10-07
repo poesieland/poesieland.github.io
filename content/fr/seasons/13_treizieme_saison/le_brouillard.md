@@ -4,7 +4,7 @@ id = "le_brouillard_13"
 date = 1999-08-04
 weight = 14
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Le brouillard"
 LastModifierDisplayName = "Barbara Post"
 +++

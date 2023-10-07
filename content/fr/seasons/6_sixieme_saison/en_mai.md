@@ -4,7 +4,7 @@ id = "en_mai_6"
 date = 1998-05-01
 weight = 35
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "verite_7"
 date = 1998-07-08
 weight = 25
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Vérité"
 LastModifierDisplayName = "Barbara Post"
 +++

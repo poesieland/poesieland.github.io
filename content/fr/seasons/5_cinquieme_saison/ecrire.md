@@ -4,7 +4,7 @@ id = "ecrire_5"
 date = 1997-09-24
 weight = 29
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

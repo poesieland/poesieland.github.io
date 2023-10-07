@@ -4,7 +4,7 @@ id = "l_oil_de_la_lune_6"
 date = 1998-05-10
 weight = 15
 categories = ["Lune"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

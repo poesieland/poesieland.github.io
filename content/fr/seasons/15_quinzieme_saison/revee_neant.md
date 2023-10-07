@@ -4,7 +4,7 @@ id = "revee_neant_15"
 date = 2001-11-14
 weight = 48
 categories = ["Aimé (amant)", "Révolte"]
-tags = ["amour", "philosophie", "acrostiche"]
+tags = ["amour", "philosophie", "2001", "acrostiche"]
 acrostiche = "Rêvée, néant"
 LastModifierDisplayName = "Barbara Post"
 +++

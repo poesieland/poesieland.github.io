@@ -4,7 +4,7 @@ id = "mimosa_2"
 date = 1996-11-20
 weight = 29
 categories = ["Flore"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

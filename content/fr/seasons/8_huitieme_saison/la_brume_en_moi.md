@@ -4,7 +4,7 @@ id = "la_brume_en_moi_8"
 date = 1998-08-31
 weight = 24
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "La brume en moi"
 LastModifierDisplayName = "Barbara Post"
 +++

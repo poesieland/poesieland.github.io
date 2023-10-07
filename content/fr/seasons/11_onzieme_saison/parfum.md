@@ -4,7 +4,7 @@ id = "parfum_11"
 date = 1999-05-10
 weight = 49
 categories = ["Crépuscule", "Flore"]
-tags = ["ombres et lumières", "nature", "acrostiche"]
+tags = ["ombres et lumières", "nature", "1999", "acrostiche"]
 acrostiche = "Le parfum du soir"
 LastModifierDisplayName = "Barbara Post"
 +++

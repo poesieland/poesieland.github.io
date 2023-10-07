@@ -4,7 +4,7 @@ id = "grand_sud_1"
 date = 1996-03-03
 weight = 31
 categories = ["Jardin, paysage"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

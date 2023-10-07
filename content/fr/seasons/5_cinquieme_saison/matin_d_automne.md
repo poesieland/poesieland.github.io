@@ -4,7 +4,7 @@ id = "matin_d_automne_5"
 date = 1997-09-15
 weight = 43
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

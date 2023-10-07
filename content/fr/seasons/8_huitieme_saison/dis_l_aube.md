@@ -4,7 +4,7 @@ id = "dis_l_aube_8"
 date = 1998-08-28
 weight = 29
 categories = ["Crépuscule", "Musique, chant"]
-tags = ["ombres et lumières", "attitudes", "acrostiche"]
+tags = ["ombres et lumières", "attitudes", "1998", "acrostiche"]
 acrostiche = "Dis l'aube au crépuscule"
 LastModifierDisplayName = "Barbara Post"
 +++

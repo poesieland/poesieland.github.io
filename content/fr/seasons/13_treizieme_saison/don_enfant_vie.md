@@ -4,7 +4,7 @@ id = "don_enfant_vie_13"
 date = 1999-08-29
 weight = 43
 categories = ["Apprentissage", "Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Don, enfant, vie"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "variations_16"
 date = 2004-05-07
 weight = 30
 categories = ["Etre", "Ciel", "Mer"]
-tags = ["philosophie", "nature"]
+tags = ["philosophie", "nature", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

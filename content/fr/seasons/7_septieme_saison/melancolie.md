@@ -4,7 +4,7 @@ id = "melancolie_7"
 date = 1998-07-18
 weight = 45
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mélancolie"
 LastModifierDisplayName = "Barbara Post"
 +++

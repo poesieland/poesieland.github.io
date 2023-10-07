@@ -4,7 +4,7 @@ id = "jeu_d_enfant_12"
 date = 1999-06-01
 weight = 39
 categories = ["Temps", "Enfance"]
-tags = ["philosophie", "philosophie", "acrostiche"]
+tags = ["philosophie", "philosophie", "1999", "acrostiche"]
 acrostiche = "Jeu d'enfant"
 LastModifierDisplayName = "Barbara Post"
 +++

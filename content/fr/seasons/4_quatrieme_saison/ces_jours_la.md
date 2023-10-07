@@ -4,7 +4,7 @@ id = "ces_jours_la_4"
 date = 1997-09-09
 weight = 36
 categories = ["Enfance"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

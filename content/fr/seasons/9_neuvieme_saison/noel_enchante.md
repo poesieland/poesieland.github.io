@@ -4,7 +4,7 @@ id = "noel_enchante_9"
 date = 1998-12-16
 weight = 27
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Noël enchanté"
 LastModifierDisplayName = "Barbara Post"
 +++

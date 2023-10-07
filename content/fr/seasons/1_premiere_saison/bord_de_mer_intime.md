@@ -4,7 +4,7 @@ id = "bord_de_mer_intime_1"
 date = 1996-07-09
 weight = 25
 categories = ["Mer"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

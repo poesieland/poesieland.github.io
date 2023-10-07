@@ -4,7 +4,7 @@ id = "a_peine_10"
 date = 1999-02-01
 weight = 12
 categories = ["Sommeil"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "A peine"
 LastModifierDisplayName = "Barbara Post"
 +++

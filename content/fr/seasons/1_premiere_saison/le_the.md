@@ -4,7 +4,7 @@ id = "le_the_1"
 date = 1996-06-17
 weight = 34
 categories = ["Flore"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

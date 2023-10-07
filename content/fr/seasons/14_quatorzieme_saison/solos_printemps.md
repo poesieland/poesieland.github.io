@@ -4,7 +4,7 @@ id = "solos_printemps_14"
 date = 2001-03-21
 weight = 11
 categories = ["Jardin, paysage", "Printemps"]
-tags = ["nature", "saisons", "acrostiche"]
+tags = ["nature", "saisons", "2001", "acrostiche"]
 acrostiche = "Solos, printemps"
 LastModifierDisplayName = "Barbara Post"
 +++

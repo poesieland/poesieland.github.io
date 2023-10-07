@@ -4,7 +4,7 @@ id = "comme_dit_le_reve_11"
 date = 1999-04-09
 weight = 16
 categories = ["Nuit"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Comme dit le rêve"
 LastModifierDisplayName = "Barbara Post"
 +++

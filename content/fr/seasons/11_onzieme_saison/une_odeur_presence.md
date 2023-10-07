@@ -4,7 +4,7 @@ id = "une_odeur_presence_11"
 date = 1999-04-23
 weight = 7
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Une odeur : présence"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "o_printemps_si_beau_6"
 date = 1998-04-12
 weight = 11
 categories = ["Printemps"]
-tags = ["saisons", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "O Printemps si beau"
 LastModifierDisplayName = "Barbara Post"
 +++

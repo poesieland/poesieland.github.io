@@ -4,7 +4,7 @@ id = "revelation_6"
 date = 1998-05-19
 weight = 5
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "je_ne_sais_9"
 date = 1998-11-14
 weight = 10
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je ne sais"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "valse_du_temps_6"
 date = 1998-06-01
 weight = 12
 categories = ["Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Valse du temps"
 LastModifierDisplayName = "Barbara Post"
 +++

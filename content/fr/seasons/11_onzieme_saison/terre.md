@@ -4,7 +4,7 @@ id = "terre_11"
 date = 1999-04-27
 weight = 21
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "O terra"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "le_moindre_mot_7"
 date = 1998-06-30
 weight = 24
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le moindre mot"
 LastModifierDisplayName = "Barbara Post"
 +++

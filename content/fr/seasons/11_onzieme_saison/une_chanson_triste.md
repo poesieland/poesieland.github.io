@@ -4,7 +4,7 @@ id = "une_chanson_triste_11"
 date = 1999-04-13
 weight = 17
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Une chanson triste"
 LastModifierDisplayName = "Barbara Post"
 +++

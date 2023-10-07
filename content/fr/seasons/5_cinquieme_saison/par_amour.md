@@ -4,7 +4,7 @@ id = "par_amour_5"
 date = 1998-02-05
 weight = 6
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1998"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

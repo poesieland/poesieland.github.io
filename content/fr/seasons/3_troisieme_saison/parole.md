@@ -4,7 +4,7 @@ id = "parole_3"
 date = 1997-01-31
 weight = 50
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

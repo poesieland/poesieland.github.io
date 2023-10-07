@@ -4,7 +4,7 @@ id = "prends_mon_cour_13"
 date = 1999-09-11
 weight = 8
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Prends mon cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

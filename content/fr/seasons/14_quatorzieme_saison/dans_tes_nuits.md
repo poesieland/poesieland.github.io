@@ -4,7 +4,7 @@ id = "dans_tes_nuits_14"
 date = 1999-12-08
 weight = 42
 categories = ["Amitié", "Etre"]
-tags = ["amour", "philosophie", "acrostiche"]
+tags = ["amour", "philosophie", "1999", "acrostiche"]
 acrostiche = "Dans tes nuits"
 LastModifierDisplayName = "Barbara Post"
 +++

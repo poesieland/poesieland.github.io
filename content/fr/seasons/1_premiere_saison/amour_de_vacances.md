@@ -4,7 +4,7 @@ id = "amour_de_vacances_1"
 date = 1996-08-21
 weight = 6
 categories = ["Femme"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

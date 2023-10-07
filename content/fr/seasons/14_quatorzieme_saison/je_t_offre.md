@@ -4,7 +4,7 @@ id = "je_t_offre_14"
 date = 1999-12-02
 weight = 29
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Je t'offre"
 LastModifierDisplayName = "Barbara Post"
 +++

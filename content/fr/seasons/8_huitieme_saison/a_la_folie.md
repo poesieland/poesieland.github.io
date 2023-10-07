@@ -4,7 +4,7 @@ id = "a_la_folie_8"
 date = 1998-07-27
 weight = 5
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "A la folie"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "le_temps_des_heures_2"
 date = 1996-11-22
 weight = 33
 categories = ["Aube"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1996"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

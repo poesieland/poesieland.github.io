@@ -4,7 +4,7 @@ id = "eveil_5"
 date = 1998-01-03
 weight = 1
 categories = ["Toucher"]
-tags = ["attitudes"]
+tags = ["attitudes", "1998"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

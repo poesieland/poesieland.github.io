@@ -1,6 +1,6 @@
 ---
 weight: 50
-title: Pantoum du rêve
+title: Pantoun du rêve
 id: pantoum_du_reve_16
 date: 2004-10-12
 divider: ""

@@ -448,10 +448,11 @@
           "title": "Type",
           "name": "type",
           "type": "choice",
+          "description": "Don't forget to add the chosent type tag",
           "choices": [
             "",
             "sonnet",
-            "pantoum"
+            "pantoun"
           ]
         },
         {

@@ -4,7 +4,7 @@ id = "compose_d_un_secret_6"
 date = 1998-04-26
 weight = 21
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Composé d'un secret"
 LastModifierDisplayName = "Barbara Post"
 +++

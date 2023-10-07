@@ -4,7 +4,7 @@ id = "comme_un_voile_14"
 date = 2000-06-05
 weight = 33
 categories = ["Création", "Musique, chant"]
-tags = ["philosophie", "attitudes", "acrostiche"]
+tags = ["philosophie", "attitudes", "2000", "acrostiche"]
 acrostiche = "Comme un voile"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "transparences_4"
 date = 1997-07-07
 weight = 23
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

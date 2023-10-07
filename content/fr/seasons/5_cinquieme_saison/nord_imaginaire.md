@@ -4,7 +4,7 @@ id = "nord_imaginaire_5"
 date = 1997-12-02
 weight = 50
 categories = ["Hiver"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

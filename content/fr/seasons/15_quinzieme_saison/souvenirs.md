@@ -4,7 +4,7 @@ id = "souvenirs_15"
 date = 2001-08-25
 weight = 24
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

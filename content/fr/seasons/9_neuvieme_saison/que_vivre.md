@@ -4,7 +4,7 @@ id = "que_vivre_9"
 date = 1998-12-16
 weight = 38
 categories = ["Espoir", "Nuit"]
-tags = ["philosophie", "ombres et lumières", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Que vivre"
 LastModifierDisplayName = "Barbara Post"
 +++

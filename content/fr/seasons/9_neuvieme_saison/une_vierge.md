@@ -4,7 +4,7 @@ id = "une_vierge_9"
 date = 1998-10-31
 weight = 47
 categories = ["Femme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Une vierge, moi"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "j_endors_10"
 date = 1999-02-19
 weight = 28
 categories = ["Nuit"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "J'endors, Vénus"
 LastModifierDisplayName = "Barbara Post"
 +++

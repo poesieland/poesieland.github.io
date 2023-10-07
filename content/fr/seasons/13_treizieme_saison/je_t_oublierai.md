@@ -4,7 +4,7 @@ id = "je_t_oublierai_13"
 date = 1999-08-23
 weight = 35
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je t'oublierai"
 LastModifierDisplayName = "Barbara Post"
 +++

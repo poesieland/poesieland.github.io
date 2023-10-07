@@ -4,7 +4,7 @@ id = "le_cancre_2"
 date = 1996-09-13
 weight = 41
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

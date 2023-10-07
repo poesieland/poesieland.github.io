@@ -4,7 +4,7 @@ id = "ecrire_sans_savoir_7"
 date = 1998-07-16
 weight = 33
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ecrire sans savoir"
 LastModifierDisplayName = "Barbara Post"
 +++

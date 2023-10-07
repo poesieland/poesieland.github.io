@@ -4,7 +4,7 @@ id = "ne_pas_oublier_11"
 date = 1999-05-03
 weight = 23
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Ne pas oublier"
 LastModifierDisplayName = "Barbara Post"
 +++

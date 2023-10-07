@@ -4,7 +4,7 @@ id = "adieu_voyages_7"
 date = 1998-07-07
 weight = 13
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Adieu : voyages"
 LastModifierDisplayName = "Barbara Post"
 +++

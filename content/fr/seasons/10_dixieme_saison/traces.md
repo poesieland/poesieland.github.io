@@ -4,7 +4,7 @@ id = "traces_10"
 date = 1999-01-09
 weight = 9
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je n'ai pas"
 LastModifierDisplayName = "Barbara Post"
 +++

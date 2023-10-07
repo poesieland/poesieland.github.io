@@ -4,7 +4,7 @@ id = "evocation_2"
 date = 1996-09-19
 weight = 1
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

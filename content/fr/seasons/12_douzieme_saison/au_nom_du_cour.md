@@ -4,7 +4,7 @@ id = "au_nom_du_cour_12"
 date = 1999-05-30
 weight = 1
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Au nom du cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

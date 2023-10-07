@@ -4,7 +4,7 @@ id = "passion_2"
 date = 1996-11-06
 weight = 4
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

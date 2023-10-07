@@ -4,7 +4,7 @@ id = "l_orage_4"
 date = 1997-05-18
 weight = 38
 categories = ["Ciel"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

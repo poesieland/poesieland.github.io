@@ -4,7 +4,7 @@ id = "joie_12"
 date = 1999-07-25
 weight = 50
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Joie"
 LastModifierDisplayName = "Barbara Post"
 +++

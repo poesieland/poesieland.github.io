@@ -4,7 +4,7 @@ id = "une_etoile_5"
 date = 1998-01-11
 weight = 47
 categories = ["Nuit"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

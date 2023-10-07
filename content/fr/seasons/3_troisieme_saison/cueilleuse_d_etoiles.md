@@ -4,7 +4,7 @@ id = "cueilleuse_d_etoiles_3"
 date = 1997-02-09
 weight = 12
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

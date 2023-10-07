@@ -4,7 +4,7 @@ id = "d_un_reve_fou_8"
 date = 1998-07-21
 weight = 2
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "D'un rêve fou"
 LastModifierDisplayName = "Barbara Post"
 +++

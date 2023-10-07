@@ -4,7 +4,7 @@ id = "la_saison_9"
 date = 1998-09-26
 weight = 3
 categories = ["Automne"]
-tags = ["saisons", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "La saison"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "element_14"
 date = 2000-05-14
 weight = 48
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

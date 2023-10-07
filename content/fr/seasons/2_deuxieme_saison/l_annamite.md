@@ -4,7 +4,7 @@ id = "l_annamite_2"
 date = 1996-10-09
 weight = 5
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

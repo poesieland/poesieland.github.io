@@ -4,7 +4,7 @@ id = "belle_volage_2"
 date = 1996-09-05
 weight = 3
 categories = ["Femme"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

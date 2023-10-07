@@ -4,7 +4,7 @@ id = "le_ciel_et_nous_16"
 date = 2004-02-01
 weight = 22
 categories = ["Temps", "Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2004", "acrostiche"]
 acrostiche = "Le ciel et nous"
 LastModifierDisplayName = "Barbara Post"
 +++

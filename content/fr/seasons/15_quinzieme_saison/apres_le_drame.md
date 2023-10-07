@@ -4,7 +4,7 @@ id = "apres_le_drame_15"
 date = 2001-07-26
 weight = 1
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "2001"]
 info = "En mémoire des 113 victimes du crash du Concorde du 25.07.2000."
 LastModifierDisplayName = "Barbara Post"
 +++

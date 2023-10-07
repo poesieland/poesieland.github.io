@@ -4,7 +4,7 @@ id = "le_souffle_vif_10"
 date = 1999-01-18
 weight = 27
 categories = ["Neige", "Hiver"]
-tags = ["nature", "saisons", "acrostiche"]
+tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Le souffle vif"
 LastModifierDisplayName = "Barbara Post"
 +++

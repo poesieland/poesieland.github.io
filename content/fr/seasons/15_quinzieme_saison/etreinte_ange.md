@@ -4,7 +4,7 @@ id = "etreinte_ange_15"
 date = 2001-09-11
 weight = 29
 categories = ["Toucher", "Temps"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "2001", "acrostiche"]
 acrostiche = "Etreinte - ange"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "guerre_11"
 date = 1999-05-03
 weight = 36
 categories = ["Révolte"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Même ciel"
 LastModifierDisplayName = "Barbara Post"
 +++

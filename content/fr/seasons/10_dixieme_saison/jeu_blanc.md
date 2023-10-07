@@ -4,7 +4,7 @@ id = "jeu_blanc_10"
 date = 1999-02-08
 weight = 41
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Jeu blanc"
 LastModifierDisplayName = "Barbara Post"
 +++

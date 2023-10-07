@@ -4,7 +4,7 @@ id = "reve_bleu_10"
 date = 1999-02-26
 weight = 32
 categories = ["Ciel", "Mer"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Rêve bleu"
 LastModifierDisplayName = "Barbara Post"
 +++

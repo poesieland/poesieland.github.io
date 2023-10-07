@@ -4,7 +4,7 @@ id = "debut_d_orage_2"
 date = 1996-11-27
 weight = 36
 categories = ["Ciel"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

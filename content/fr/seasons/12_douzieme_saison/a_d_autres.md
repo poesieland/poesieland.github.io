@@ -4,7 +4,7 @@ id = "a_d_autres_12"
 date = 1999-06-09
 weight = 6
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "A d'autres"
 LastModifierDisplayName = "Barbara Post"
 +++

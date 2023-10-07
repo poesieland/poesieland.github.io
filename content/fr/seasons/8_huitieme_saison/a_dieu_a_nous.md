@@ -4,7 +4,7 @@ id = "a_dieu_a_nous_8"
 date = 1998-07-24
 weight = 13
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "A Dieu, à nous"
 LastModifierDisplayName = "Barbara Post"
 +++

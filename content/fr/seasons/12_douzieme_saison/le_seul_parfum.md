@@ -4,7 +4,7 @@ id = "le_seul_parfum_12"
 date = 1999-06-07
 weight = 4
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Le seul parfum"
 LastModifierDisplayName = "Barbara Post"
 +++

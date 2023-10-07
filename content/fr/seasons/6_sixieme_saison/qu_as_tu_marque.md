@@ -4,7 +4,7 @@ id = "qu_as_tu_marque_6"
 date = 1998-03-22
 weight = 18
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Qu'as-tu marqué ?"
 LastModifierDisplayName = "Barbara Post"
 +++

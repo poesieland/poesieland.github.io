@@ -4,7 +4,7 @@ id = "une_chanson_boheme_9"
 date = 1998-09-30
 weight = 20
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Une chanson bohème"
 LastModifierDisplayName = "Barbara Post"
 +++

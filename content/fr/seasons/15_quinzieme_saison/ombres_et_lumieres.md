@@ -4,7 +4,7 @@ id = "ombres_et_lumieres_15"
 date = 2001-07-26
 weight = 14
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Ombres et lumières"
 LastModifierDisplayName = "Barbara Post"
 +++

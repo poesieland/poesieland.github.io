@@ -4,7 +4,7 @@ id = "papillons_blancs_4"
 date = 1997-08-17
 weight = 46
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

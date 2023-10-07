@@ -4,7 +4,7 @@ id = "offre_moi_des_roses_8"
 date = 1998-09-12
 weight = 41
 categories = ["Aimé (amant)", "Flore"]
-tags = ["amour", "nature", "acrostiche"]
+tags = ["amour", "nature", "1998", "acrostiche"]
 acrostiche = "Offre-moi des roses"
 LastModifierDisplayName = "Barbara Post"
 +++

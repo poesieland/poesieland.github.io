@@ -4,7 +4,7 @@ id = "eternita_15"
 date = 2001-10-25
 weight = 45
 categories = ["Jardin, paysage", "Etre"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "2001", "acrostiche"]
 acrostiche = "Eternità"
 LastModifierDisplayName = "Barbara Post"
 +++

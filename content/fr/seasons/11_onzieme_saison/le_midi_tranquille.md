@@ -4,7 +4,7 @@ id = "le_midi_tranquille_11"
 date = 1999-04-26
 weight = 40
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Le midi tranquille"
 LastModifierDisplayName = "Barbara Post"
 +++

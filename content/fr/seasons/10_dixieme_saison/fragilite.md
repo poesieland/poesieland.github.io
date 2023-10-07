@@ -4,7 +4,7 @@ id = "fragilite_10"
 date = 1999-03-24
 weight = 19
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1999"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

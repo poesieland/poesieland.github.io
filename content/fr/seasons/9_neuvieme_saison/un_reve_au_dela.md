@@ -4,7 +4,7 @@ id = "un_reve_au_dela_9"
 date = 1998-12-26
 weight = 40
 categories = ["Nuit", "Temps"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Un rêve au-delà"
 LastModifierDisplayName = "Barbara Post"
 +++

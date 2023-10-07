@@ -4,7 +4,7 @@ id = "marlene_2"
 date = 1996-09-30
 weight = 8
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

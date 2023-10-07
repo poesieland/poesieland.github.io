@@ -4,7 +4,7 @@ id = "correspondance_11"
 date = 1999-05-04
 weight = 24
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Correspondance"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "au_dela_9"
 date = 1998-11-06
 weight = 33
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mourir c'est beau"
 LastModifierDisplayName = "Barbara Post"
 +++

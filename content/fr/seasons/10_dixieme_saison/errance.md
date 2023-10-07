@@ -4,7 +4,7 @@ id = "errance_10"
 date = 1999-02-19
 weight = 17
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Légère"
 LastModifierDisplayName = "Barbara Post"
 +++

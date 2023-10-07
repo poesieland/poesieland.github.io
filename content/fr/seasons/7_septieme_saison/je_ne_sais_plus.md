@@ -4,7 +4,7 @@ id = "je_ne_sais_plus_7"
 date = 1998-07-12
 weight = 47
 categories = ["Musique, chant", "Etre"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Je ne sais plus"
 LastModifierDisplayName = "Barbara Post"
 +++

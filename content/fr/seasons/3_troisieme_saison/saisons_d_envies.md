@@ -4,7 +4,7 @@ id = "saisons_d_envies_3"
 date = 1997-03-21
 weight = 32
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

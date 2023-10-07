@@ -4,7 +4,7 @@ id = "mystere_d_ophelie_3"
 date = 1997-03-14
 weight = 16
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

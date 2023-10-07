@@ -4,7 +4,7 @@ id = "il_mio_sogno_12"
 date = 1999-06-14
 weight = 9
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Il mio sogno"
 LastModifierDisplayName = "Barbara Post"
 +++

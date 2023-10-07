@@ -4,7 +4,7 @@ id = "ange_9"
 date = 1998-11-11
 weight = 16
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ange"
 LastModifierDisplayName = "Barbara Post"
 +++

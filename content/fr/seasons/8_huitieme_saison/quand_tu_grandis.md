@@ -4,7 +4,7 @@ id = "quand_tu_grandis_8"
 date = 1998-07-31
 weight = 18
 categories = ["Révolte", "Amour malheureux"]
-tags = ["philosophie", "amour", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Quand tu grandis"
 LastModifierDisplayName = "Barbara Post"
 +++

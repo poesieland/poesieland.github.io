@@ -4,7 +4,7 @@ id = "lucidite_3"
 date = 1997-02-14
 weight = 27
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

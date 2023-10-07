@@ -4,7 +4,7 @@ id = "ces_amours_vie_14"
 date = 2001-03-13
 weight = 38
 categories = ["Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Ces amours, vie"
 LastModifierDisplayName = "Barbara Post"
 +++

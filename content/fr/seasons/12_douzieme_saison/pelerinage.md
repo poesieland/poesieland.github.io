@@ -4,7 +4,7 @@ id = "pelerinage_12"
 date = 1999-05-26
 weight = 13
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Bijou sacre unions"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "elle_coule_musique_7"
 date = 1998-07-02
 weight = 46
 categories = ["Révolte"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Elle coule, musique"
 LastModifierDisplayName = "Barbara Post"
 +++

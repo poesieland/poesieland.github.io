@@ -4,7 +4,7 @@ id = "hijo_de_la_luna_7"
 date = 1998-07-18
 weight = 22
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Hijo de la luna"
 LastModifierDisplayName = "Barbara Post"
 +++

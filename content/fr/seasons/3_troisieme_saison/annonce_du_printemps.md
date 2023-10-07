@@ -4,7 +4,7 @@ id = "annonce_du_printemps_3"
 date = 1997-01-21
 weight = 38
 categories = ["Printemps"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

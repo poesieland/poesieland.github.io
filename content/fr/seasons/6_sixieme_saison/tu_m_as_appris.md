@@ -4,7 +4,7 @@ id = "tu_m_as_appris_6"
 date = 1998-05-12
 weight = 9
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

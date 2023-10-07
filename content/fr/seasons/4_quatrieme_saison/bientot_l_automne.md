@@ -4,7 +4,7 @@ id = "bientot_l_automne_4"
 date = 1997-08-20
 weight = 7
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

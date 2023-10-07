@@ -4,7 +4,7 @@ id = "au_dela_voie_12"
 date = 1999-06-19
 weight = 29
 categories = ["Etre", "Nuit"]
-tags = ["philosophie", "ombres et lumières", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Au-delà : voie"
 LastModifierDisplayName = "Barbara Post"
 +++

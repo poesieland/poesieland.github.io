@@ -4,7 +4,7 @@ id = "poussieres_6"
 date = 1998-04-18
 weight = 13
 categories = ["Enfance", "Temps"]
-tags = ["philosophie", "philosophie"]
+tags = ["philosophie", "philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

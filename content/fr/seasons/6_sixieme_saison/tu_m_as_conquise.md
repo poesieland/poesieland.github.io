@@ -4,7 +4,7 @@ id = "tu_m_as_conquise_6"
 date = 1998-05-18
 weight = 25
 categories = ["Amitié"]
-tags = ["amour"]
+tags = ["amour", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

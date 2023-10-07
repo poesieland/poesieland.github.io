@@ -4,7 +4,7 @@ id = "solo_14"
 date = 2001-02-24
 weight = 25
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Solo"
 LastModifierDisplayName = "Barbara Post"
 +++

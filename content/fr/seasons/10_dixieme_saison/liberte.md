@@ -4,7 +4,7 @@ id = "liberte_10"
 date = 1999-03-03
 weight = 18
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "A fleur"
 LastModifierDisplayName = "Barbara Post"
 +++

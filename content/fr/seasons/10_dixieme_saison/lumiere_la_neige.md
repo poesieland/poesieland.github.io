@@ -4,7 +4,7 @@ id = "lumiere_la_neige_10"
 date = 1999-01-12
 weight = 25
 categories = ["Neige"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Lumière, la neige"
 LastModifierDisplayName = "Barbara Post"
 +++

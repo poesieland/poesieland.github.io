@@ -4,7 +4,7 @@ id = "esclaves_des_mots_5"
 date = 1997-10-06
 weight = 30
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

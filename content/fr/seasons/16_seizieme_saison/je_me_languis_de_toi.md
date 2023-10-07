@@ -4,7 +4,7 @@ id = "je_me_languis_de_toi_16"
 date = 2003-02-01
 weight = 12
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "2003", "acrostiche"]
 acrostiche = "Je me languis de toi"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "silence_chant_9"
 date = 1998-11-13
 weight = 23
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Silence : chant"
 LastModifierDisplayName = "Barbara Post"
 +++

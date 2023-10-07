@@ -4,7 +4,7 @@ id = "le_soleil_est_ailleurs_2"
 date = 1996-11-30
 weight = 35
 categories = ["Crépuscule", "Révolte"]
-tags = ["ombres et lumières", "philosophie"]
+tags = ["ombres et lumières", "philosophie", "1996"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

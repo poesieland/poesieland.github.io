@@ -4,7 +4,7 @@ id = "adressee_a_toi_7"
 date = 1998-07-16
 weight = 5
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Adressée à toi"
 LastModifierDisplayName = "Barbara Post"
 +++

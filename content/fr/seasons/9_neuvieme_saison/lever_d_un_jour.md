@@ -4,7 +4,7 @@ id = "lever_d_un_jour_9"
 date = 1998-11-15
 weight = 12
 categories = ["Aube", "Mer", "Musique, chant"]
-tags = ["ombres et lumières", "nature", "attitudes", "acrostiche"]
+tags = ["ombres et lumières", "nature", "attitudes", "1998", "acrostiche"]
 acrostiche = "Lever d'un jour"
 LastModifierDisplayName = "Barbara Post"
 +++

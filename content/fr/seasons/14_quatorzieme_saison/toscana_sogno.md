@@ -4,7 +4,7 @@ id = "toscana_sogno_14"
 date = 2001-02-22
 weight = 23
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Toscana - Sogno"
 LastModifierDisplayName = "Barbara Post"
 +++

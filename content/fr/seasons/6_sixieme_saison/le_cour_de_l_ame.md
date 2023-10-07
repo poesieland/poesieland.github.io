@@ -4,7 +4,7 @@ id = "le_cour_de_l_ame_6"
 date = 1998-05-17
 weight = 23
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

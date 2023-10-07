@@ -4,7 +4,7 @@ id = "soleil_12"
 date = 1999-07-22
 weight = 22
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "O sole mio"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "liee_a_toi_7"
 date = 1998-07-17
 weight = 21
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Liée à toi"
 LastModifierDisplayName = "Barbara Post"
 +++

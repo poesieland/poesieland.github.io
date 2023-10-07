@@ -4,7 +4,7 @@ id = "jardin_1"
 date = 1996-06-28
 weight = 19
 categories = ["Jardin, paysage", "Flore"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

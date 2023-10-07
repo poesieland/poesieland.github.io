@@ -4,7 +4,7 @@ id = "noel_a_nanterre_2"
 date = 1996-12-23
 weight = 25
 categories = ["Portraits"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "betise_6"
 date = 1998-05-18
 weight = 8
 categories = ["Révolte"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

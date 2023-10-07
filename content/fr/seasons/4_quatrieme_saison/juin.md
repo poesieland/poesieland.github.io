@@ -4,7 +4,7 @@ id = "juin_4"
 date = 1997-05-30
 weight = 3
 categories = ["Eté"]
-tags = ["saisons"]
+tags = ["saisons", "1997"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

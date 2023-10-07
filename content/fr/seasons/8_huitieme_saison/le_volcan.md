@@ -4,7 +4,7 @@ id = "le_volcan_8"
 date = 1998-08-31
 weight = 25
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le volcan"
 LastModifierDisplayName = "Barbara Post"
 +++

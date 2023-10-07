@@ -4,7 +4,7 @@ id = "je_me_souviens_12"
 date = 1999-05-23
 weight = 25
 categories = ["Temps", "Hiver"]
-tags = ["philosophie", "saisons", "acrostiche"]
+tags = ["philosophie", "saisons", "1999", "acrostiche"]
 acrostiche = "Je me souviens"
 LastModifierDisplayName = "Barbara Post"
 +++

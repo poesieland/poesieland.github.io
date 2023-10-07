@@ -4,7 +4,7 @@ id = "le_printemps_s_approche_16"
 date = 2003-02-26
 weight = 13
 categories = ["Printemps", "Jardin, paysage"]
-tags = ["saisons", "nature", "acrostiche"]
+tags = ["saisons", "nature", "2003", "acrostiche"]
 acrostiche = "Le printemps s'approche"
 LastModifierDisplayName = "Barbara Post"
 +++

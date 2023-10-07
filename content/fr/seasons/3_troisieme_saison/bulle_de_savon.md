@@ -4,7 +4,7 @@ id = "bulle_de_savon_3"
 date = 1997-03-06
 weight = 47
 categories = ["Enfance"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

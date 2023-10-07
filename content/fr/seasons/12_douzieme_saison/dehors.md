@@ -4,7 +4,7 @@ id = "dehors_12"
 date = 1999-06-01
 weight = 38
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Dehors"
 LastModifierDisplayName = "Barbara Post"
 +++

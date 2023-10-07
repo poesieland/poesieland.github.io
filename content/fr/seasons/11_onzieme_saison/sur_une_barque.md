@@ -4,7 +4,7 @@ id = "sur_une_barque_11"
 date = 1999-05-19
 weight = 39
 categories = ["Mer", "Création"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Sur une barque"
 LastModifierDisplayName = "Barbara Post"
 +++

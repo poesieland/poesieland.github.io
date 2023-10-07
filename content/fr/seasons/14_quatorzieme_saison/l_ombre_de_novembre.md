@@ -4,7 +4,7 @@ id = "l_ombre_de_novembre_14"
 date = 2000-11-11
 weight = 6
 categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "doubleAcrostiche"]
+tags = ["philosophie", "saisons", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "L'ombre de | novembre"
 LastModifierDisplayName = "Barbara Post"
 +++

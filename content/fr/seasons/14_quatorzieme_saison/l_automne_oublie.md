@@ -4,7 +4,7 @@ id = "l_automne_oublie_14"
 date = 2000-09-11
 weight = 34
 categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "acrostiche"]
+tags = ["philosophie", "saisons", "2000", "acrostiche"]
 acrostiche = "Dire à l'oublié"
 LastModifierDisplayName = "Barbara Post"
 +++

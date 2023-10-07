@@ -4,7 +4,7 @@ id = "le_peintre_dit_8"
 date = 1998-08-14
 weight = 26
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le peintre dit..."
 LastModifierDisplayName = "Barbara Post"
 +++

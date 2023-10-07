@@ -4,7 +4,7 @@ id = "sur_le_stade_d_aimer_7"
 date = 1998-07-04
 weight = 1
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Sur le stade d'aimer"
 LastModifierDisplayName = "Barbara Post"
 +++

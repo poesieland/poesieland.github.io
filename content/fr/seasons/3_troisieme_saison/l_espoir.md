@@ -4,7 +4,7 @@ id = "l_espoir_3"
 date = 1997-02-28
 weight = 30
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

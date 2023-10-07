@@ -4,7 +4,7 @@ id = "resonances_de_l_ame_9"
 date = 1998-10-20
 weight = 31
 categories = ["Révolte"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Résonances de l'âme"
 LastModifierDisplayName = "Barbara Post"
 +++

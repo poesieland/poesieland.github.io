@@ -4,7 +4,7 @@ id = "folie_de_novembre_2"
 date = 1996-10-19
 weight = 19
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

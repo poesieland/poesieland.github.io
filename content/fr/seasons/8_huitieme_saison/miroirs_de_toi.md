@@ -4,7 +4,7 @@ id = "miroirs_de_toi_8"
 date = 1998-08-03
 weight = 20
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Miroirs de toi"
 LastModifierDisplayName = "Barbara Post"
 +++

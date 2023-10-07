@@ -4,7 +4,7 @@ id = "le_danseur_4"
 date = 1997-08-29
 weight = 31
 categories = ["Mouvement"]
-tags = ["attitudes"]
+tags = ["attitudes", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

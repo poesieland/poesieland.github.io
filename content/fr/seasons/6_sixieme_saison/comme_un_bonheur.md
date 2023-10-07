@@ -4,7 +4,7 @@ id = "comme_un_bonheur_6"
 date = 1998-05-17
 weight = 37
 categories = ["Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Comme un bonheur"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "l_un_l_autre_moi_7"
 date = 1998-07-10
 weight = 50
 categories = ["Création", "Musique, chant"]
-tags = ["philosophie", "attitudes", "acrostiche"]
+tags = ["philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'un, l'autre, moi"
 LastModifierDisplayName = "Barbara Post"
 +++

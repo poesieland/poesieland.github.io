@@ -4,7 +4,7 @@ id = "pourquoi_7"
 date = 1998-07-18
 weight = 44
 categories = ["Révolte"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Pourquoi ?"
 LastModifierDisplayName = "Barbara Post"
 +++

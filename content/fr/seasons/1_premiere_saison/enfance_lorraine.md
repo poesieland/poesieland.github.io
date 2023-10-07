@@ -4,7 +4,7 @@ id = "enfance_lorraine_1"
 date = 1996-06-11
 weight = 15
 categories = ["Enfance", "Flore"]
-tags = ["philosophie", "nature"]
+tags = ["philosophie", "nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

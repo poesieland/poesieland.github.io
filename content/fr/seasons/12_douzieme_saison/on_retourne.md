@@ -4,7 +4,7 @@ id = "on_retourne_12"
 date = 1999-05-26
 weight = 26
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "On retourne"
 LastModifierDisplayName = "Barbara Post"
 +++

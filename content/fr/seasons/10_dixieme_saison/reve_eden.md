@@ -4,7 +4,7 @@ id = "reve_eden_10"
 date = 1999-02-22
 weight = 30
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Rêve, eden"
 LastModifierDisplayName = "Barbara Post"
 +++

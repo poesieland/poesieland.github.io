@@ -4,7 +4,7 @@ id = "songe_d_un_levant_13"
 date = 1999-07-31
 weight = 42
 categories = ["Aube", "Espoir"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Songe d'un levant"
 LastModifierDisplayName = "Barbara Post"
 +++

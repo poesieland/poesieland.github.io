@@ -4,7 +4,7 @@ id = "le_parc_2"
 date = 1996-11-16
 weight = 11
 categories = ["Amitié", "Jardin, paysage"]
-tags = ["amour", "nature"]
+tags = ["amour", "nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

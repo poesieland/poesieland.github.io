@@ -4,7 +4,7 @@ id = "postface_8"
 date = 1998-08-05
 weight = 21
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 info = "Dernier poème de mon recueil En six lettres : t'aimer."
 LastModifierDisplayName = "Barbara Post"
 +++

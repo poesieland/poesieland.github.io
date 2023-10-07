@@ -4,7 +4,7 @@ id = "decrepitudes_1"
 date = 1994-01-01
 weight = 45
 categories = ["Révolte"]
-tags = ["philosophie"]
+tags = ["philosophie", "1994"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "mon_souhait_8"
 date = 1998-07-20
 weight = 9
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mon souhait"
 LastModifierDisplayName = "Barbara Post"
 +++

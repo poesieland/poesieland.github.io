@@ -4,7 +4,7 @@ id = "le_soir_tendre_15"
 date = 2001-08-20
 weight = 22
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Le soir tendre"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "si_tu_pouvais_10"
 date = 1999-03-03
 weight = 45
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1999"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

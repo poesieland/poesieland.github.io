@@ -4,7 +4,7 @@ id = "nostalgique_de_toi_6"
 date = 1998-03-12
 weight = 42
 categories = ["Amitié"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Nostalgique de toi"
 LastModifierDisplayName = "Barbara Post"
 +++

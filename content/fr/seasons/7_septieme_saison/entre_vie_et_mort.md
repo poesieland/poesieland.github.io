@@ -4,7 +4,7 @@ id = "entre_vie_et_mort_7"
 date = 1998-07-09
 weight = 15
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Entre vie et mort"
 LastModifierDisplayName = "Barbara Post"
 +++

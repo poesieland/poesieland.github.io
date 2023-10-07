@@ -4,7 +4,7 @@ id = "tardance_1"
 date = 1996-08-02
 weight = 41
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

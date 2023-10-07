@@ -4,7 +4,7 @@ id = "lune_tu_danses_10"
 date = 1999-02-10
 weight = 22
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune, tu danses"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "j_inventerai_ma_vie_7"
 date = 1998-07-07
 weight = 26
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'inventerai ma vie"
 LastModifierDisplayName = "Barbara Post"
 +++

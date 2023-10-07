@@ -4,7 +4,7 @@ id = "tu_m_apparus_la_13"
 date = 1999-08-15
 weight = 32
 categories = ["Amitié"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Tu m'apparus là"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "solitude_16"
 date = 2003-12-08
 weight = 19
 categories = ["Lune", "Temps"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2003", "acrostiche"]
 acrostiche = "Solitude"
 LastModifierDisplayName = "Barbara Post"
 +++

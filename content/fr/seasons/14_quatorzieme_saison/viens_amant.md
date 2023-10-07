@@ -4,7 +4,7 @@ id = "viens_amant_14"
 date = 2001-01-30
 weight = 36
 categories = ["Romantisme", "Toucher"]
-tags = ["amour", "attitudes", "acrostiche"]
+tags = ["amour", "attitudes", "2001", "acrostiche"]
 acrostiche = "Viens en moi"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "infinir_s_unir_11"
 date = 1999-05-13
 weight = 10
 categories = ["Mouvement", "Romantisme"]
-tags = ["attitudes", "amour", "acrostiche"]
+tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "Infinir, s'unir"
 LastModifierDisplayName = "Barbara Post"
 +++

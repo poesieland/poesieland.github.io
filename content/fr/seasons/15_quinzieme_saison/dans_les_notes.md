@@ -4,7 +4,7 @@ id = "dans_les_notes_15"
 date = 2001-10-10
 weight = 42
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Dans les notes"
 LastModifierDisplayName = "Barbara Post"
 +++

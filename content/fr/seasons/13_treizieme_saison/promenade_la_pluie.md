@@ -4,7 +4,7 @@ id = "promenade_la_pluie_13"
 date = 1999-08-10
 weight = 15
 categories = ["Jardin, paysage"]
-tags = ["nature", "doubleAcrostiche"]
+tags = ["nature", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Promenade | la pluie"
 LastModifierDisplayName = "Barbara Post"
 +++

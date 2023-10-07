@@ -4,7 +4,7 @@ id = "reverie_2"
 date = 1996-10-02
 weight = 38
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

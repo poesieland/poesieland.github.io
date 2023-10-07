@@ -4,7 +4,7 @@ id = "l_autunno_dolce_mio_15"
 date = 2001-10-02
 weight = 38
 categories = ["Automne", "Etre"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "L'autunno, dolce mio"
 LastModifierDisplayName = "Barbara Post"
 +++

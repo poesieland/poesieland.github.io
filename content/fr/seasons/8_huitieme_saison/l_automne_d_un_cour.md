@@ -4,7 +4,7 @@ id = "l_automne_d_un_cour_8"
 date = 1998-08-30
 weight = 34
 categories = ["Automne", "Temps", "Musique, chant"]
-tags = ["saisons", "philosophie", "attitudes", "acrostiche"]
+tags = ["saisons", "philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'automne d'un cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

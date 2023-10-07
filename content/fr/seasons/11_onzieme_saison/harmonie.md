@@ -4,7 +4,7 @@ id = "harmonie_11"
 date = 1999-04-29
 weight = 34
 categories = ["Musique, chant", "Création"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Harmonie"
 LastModifierDisplayName = "Barbara Post"
 +++

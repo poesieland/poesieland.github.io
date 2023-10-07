@@ -4,7 +4,7 @@ id = "nella_mattinata_7"
 date = 1998-07-01
 weight = 11
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Nella mattinata"
 LastModifierDisplayName = "Barbara Post"
 +++

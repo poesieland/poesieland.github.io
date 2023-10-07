@@ -4,7 +4,7 @@ id = "grave_pour_toi_7"
 date = 1998-07-13
 weight = 16
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Gravé pour toi"
 LastModifierDisplayName = "Barbara Post"
 +++

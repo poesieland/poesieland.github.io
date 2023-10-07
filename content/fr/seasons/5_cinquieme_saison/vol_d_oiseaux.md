@@ -4,7 +4,7 @@ id = "vol_d_oiseaux_5"
 date = 1997-11-06
 weight = 41
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

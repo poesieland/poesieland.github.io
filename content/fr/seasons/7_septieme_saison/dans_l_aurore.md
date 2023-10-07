@@ -4,7 +4,7 @@ id = "dans_l_aurore_7"
 date = 1998-06-20
 weight = 39
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

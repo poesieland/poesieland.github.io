@@ -4,7 +4,7 @@ id = "impression_1"
 date = 1996-06-08
 weight = 17
 categories = ["Jardin, paysage"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

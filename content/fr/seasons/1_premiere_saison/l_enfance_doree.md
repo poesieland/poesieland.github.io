@@ -4,7 +4,7 @@ id = "l_enfance_doree_1"
 date = 1994-01-01
 weight = 16
 categories = ["Enfance", "Flore"]
-tags = ["philosophie", "nature"]
+tags = ["philosophie", "nature", "1994"]
 info = "Reprise en 1996 d'un poème de 1994"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "meme_le_sens_12"
 date = 1999-07-24
 weight = 23
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Même le sens"
 LastModifierDisplayName = "Barbara Post"
 +++

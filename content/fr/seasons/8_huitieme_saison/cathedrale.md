@@ -4,7 +4,7 @@ id = "cathedrale_8"
 date = 1998-09-01
 weight = 50
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Cathédrale"
 LastModifierDisplayName = "Barbara Post"
 +++

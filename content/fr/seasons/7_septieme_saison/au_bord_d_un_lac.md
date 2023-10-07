@@ -4,7 +4,7 @@ id = "au_bord_d_un_lac_7"
 date = 1998-07-03
 weight = 40
 categories = ["Eau douce", "Etre"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Au bord d'un lac"
 LastModifierDisplayName = "Barbara Post"
 +++

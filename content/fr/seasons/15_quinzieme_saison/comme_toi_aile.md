@@ -4,7 +4,7 @@ id = "comme_toi_aile_15"
 date = 2001-09-13
 weight = 31
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Comme toi, aile"
 LastModifierDisplayName = "Barbara Post"
 +++

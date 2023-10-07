@@ -4,7 +4,7 @@ id = "le_dernier_rendez_vous_6"
 date = 1998-04-15
 weight = 14
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

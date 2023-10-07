@@ -4,7 +4,7 @@ id = "endormis_16"
 date = 2002-03-02
 weight = 1
 categories = ["Sommeil", "Romantisme"]
-tags = ["attitudes", "amour", "acrostiche"]
+tags = ["attitudes", "amour", "2002", "acrostiche"]
 acrostiche = "Endormis"
 LastModifierDisplayName = "Barbara Post"
 +++

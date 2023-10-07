@@ -4,7 +4,7 @@ id = "vivre_4"
 date = 1997-05-16
 weight = 34
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 3
 LastModifierDisplayName = "Barbara Post"
 +++

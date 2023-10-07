@@ -4,7 +4,7 @@ id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34
 categories = ["Flore"]
-tags = ["nature"]
+tags = ["nature", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

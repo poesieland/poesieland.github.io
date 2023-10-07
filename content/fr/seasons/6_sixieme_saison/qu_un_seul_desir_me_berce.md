@@ -4,7 +4,7 @@ id = "qu_un_seul_desir_me_berce_6"
 date = 1998-03-30
 weight = 32
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Qu'un seul désir me berce"
 LastModifierDisplayName = "Barbara Post"
 +++

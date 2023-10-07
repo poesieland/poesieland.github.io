@@ -4,7 +4,7 @@ id = "le_theatre_art_14"
 date = 2001-02-24
 weight = 26
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Le théâtre, art"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "boheme_3"
 date = 1997-02-21
 weight = 14
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 2
 LastModifierDisplayName = "Barbara Post"
 +++

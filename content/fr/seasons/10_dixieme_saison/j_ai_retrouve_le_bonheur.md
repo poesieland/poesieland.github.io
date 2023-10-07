@@ -4,7 +4,7 @@ id = "j_ai_retrouve_le_bonheur_10"
 date = 1999-02-16
 weight = 43
 categories = ["Espoir"]
-tags = ["philosophie", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "J'ai retrouvé | le bonheur"
 LastModifierDisplayName = "Barbara Post"
 +++

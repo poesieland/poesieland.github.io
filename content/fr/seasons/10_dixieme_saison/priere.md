@@ -4,7 +4,7 @@ id = "priere_10"
 date = 1999-02-17
 weight = 5
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Ave Maria"
 LastModifierDisplayName = "Barbara Post"
 +++

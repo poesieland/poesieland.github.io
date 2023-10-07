@@ -4,7 +4,7 @@ id = "songes_de_l_ame_15"
 date = 2001-09-29
 weight = 36
 categories = ["Nuit", "Ville"]
-tags = ["ombres et lumières", "ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Songes de l'âme"
 LastModifierDisplayName = "Barbara Post"
 +++

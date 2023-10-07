@@ -4,9 +4,9 @@ id = "trente_ans_15"
 date = 2001-07-14
 weight = 12
 categories = ["Etre"]
-tags = ["philosophie", "pantoum"]
+tags = ["philosophie", "2001", "pantoun"]
 info = "Composé pour une amie."
-type = "pantoum"
+type = "pantoun"
 LastModifierDisplayName = "Barbara Post"
 +++
 

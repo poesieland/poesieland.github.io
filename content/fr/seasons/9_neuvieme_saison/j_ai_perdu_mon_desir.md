@@ -4,7 +4,7 @@ id = "j_ai_perdu_mon_desir_9"
 date = 1998-12-06
 weight = 35
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'ai perdu mon désir"
 LastModifierDisplayName = "Barbara Post"
 +++

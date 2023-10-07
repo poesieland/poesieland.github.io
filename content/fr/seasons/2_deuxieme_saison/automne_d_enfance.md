@@ -4,7 +4,7 @@ id = "automne_d_enfance_2"
 date = 1996-10-22
 weight = 16
 categories = ["Automne", "Enfance"]
-tags = ["saisons", "philosophie"]
+tags = ["saisons", "philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

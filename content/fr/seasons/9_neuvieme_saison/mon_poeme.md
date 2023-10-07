@@ -4,7 +4,7 @@ id = "mon_poeme_9"
 date = 1998-11-13
 weight = 9
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mon poème"
 LastModifierDisplayName = "Barbara Post"
 +++

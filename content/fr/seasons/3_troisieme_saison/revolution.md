@@ -4,7 +4,7 @@ id = "revolution_3"
 date = 1997-03-16
 weight = 34
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "l_amoureuse_3"
 date = 1997-02-21
 weight = 13
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1997"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

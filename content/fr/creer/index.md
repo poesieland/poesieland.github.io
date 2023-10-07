@@ -2,6 +2,7 @@
 title = "Pourquoi créer ?"
 weight = 1
 disableToc = false
+date = 2023-10-07
 +++
 
 ## Réflexion sur prose et vers
@@ -24,21 +25,21 @@ Mon amie suisse Christine exprime elle aussi son désaccord d'une bien jolie fa�
 >
 >Le poème est pour moi une démarche beaucoup plus intimiste, et généralement elle s'achève par une improvisation musicale que je préfère laisser filer dès que je l'ai exécutée. Ca devient donc une sorte de méditation, voire de prière, en musique, parce que les mots, tout à coup, parlent trop, parlent faux, disent ce que je ne veux pas dire, parlent quand je ne veux pas, quand je ne peux pas, quand ce n'est plus cela qui compte, parce que mon âme a autre chose à exprimer. C'est difficilement explicable...
 
-## Le médium
+## Contraintes
 
-Le médium peut influencer la naissance d'un poème.
+Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidement est venue la notion de cadrage. Découvrir les nombreuses contraintes de la versification classique m'a fait clairement pencher vers la versification néo-classique. Cependant, je ne trouve pas directement de règles établies en regardant sur internet. Les points d'attention qu'on m'a enseignés sont la diérèse, l'évitement du hiatus. Et bien sûr le genre, le nombre et la richesse des rimes. Ce qui m'a fait investir dans un dictionaire des rimes, toujours intéressant.
 
-Pendant longtemps je n'ai pas imaginé écrire un poème dans un éditeur de texte informatique. Puis j'ai franchi le pas. Voir ces lettres "réglementaires" sur mon écran me paralysait en quelque sorte. Et j'ai dépassé cet obstacle.
+Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème.
 
-Ecrire à la main, ça marche toujours mais si le poème cale ça fait mal, un immense remords d'avoir commencé et "gaspillé" des assemblages précis de mots sans avoir atteint un objectif créatif.
+Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](/seasons/16_seizieme_saison/variations/).
 
-En revanche, avec un médium que j'ai utilisé de temps en temps pendant quelques années, la tablette braille, si le poème venait, il était souvent très beau car j'avais plus de temps pour réfléchir et c'était en fait impossible de faire une rature. Une amie non-voyante et poète m'avait prêté cette tablette de 1995 à 2002.
+Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation en terme de chute pour le sonnet ou de double thème pour le pantoun.
 
-Dans ce cas les poèmes composés directement en braille étaient un complément à la lecture orale qui magnifie encore plus le poème. Donc parfois avant de composer je me disais "cette-fois ci elle pourra le lire aussi", ou bien je lui écrivais un mot personnel devant la télé, et un poème diffus jusqu'alors était prêt à naître.
+A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable Baudelaire. J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés (mais pas forcément blâmables).
 
-Composer en braille m'a mieux permis de maîtriser le flux poétique de façon formelle parce que c'est si particulier, je n'étais pas complètement "en face" de mes écrits et je devais faire un geste volontaire (retourner la feuille) pour relire ce que j'avais déjà écrit. J'ai même osé ainsi me lancer dans la contrainte supplémentaire que représente l'acrostiche.
+[Vers mes sonnets](/tags/sonnet)
 
-En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
+[Vers mes pantouns](/tags/pantoun)
 
 ## Inspiration
 
@@ -58,24 +59,20 @@ Bien des années plus tard, les enfants une fois adolescents, j'ai un nouvel aud
 
 La poésie se ressource à l'amour de la vie tout simplement, et aux envies et projections qu'on fait.
 
-## Quels rôles pour la poésie ?
+## Le médium
 
-Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
+Le médium peut influencer la naissance d'un poème.
 
-### Fixer ses souvenirs
+Pendant longtemps je n'ai pas imaginé écrire un poème dans un éditeur de texte informatique. Puis j'ai franchi le pas. Voir ces lettres "réglementaires" sur mon écran me paralysait en quelque sorte. Et j'ai dépassé cet obstacle.
 
-Comme la mémoire humaine est sélective, il peut sembler indispensable à certaines personnes de fixer des souvenirs de façon différente d'une représentation textuelle prosaïque et objective, ou d'une photographie, ou d'une représentation mentale. Cette dernière est la plus susceptible d'être altérée avec le temps. Il y a un côté paradoxal à subjectiver ainsi les souvenirs sélectionnés, afin d'être sûr de ne pas les oublier.
+Ecrire à la main, ça marche toujours mais si le poème cale ça fait mal, un immense remords d'avoir commencé et "gaspillé" des assemblages précis de mots sans avoir atteint un objectif créatif.
 
-### Aider ses réflexions à aboutir
+En revanche, avec un médium que j'ai utilisé de temps en temps pendant quelques années, la tablette braille, si le poème venait, il était souvent très beau car j'avais plus de temps pour réfléchir et c'était en fait impossible de faire une rature. Une amie non-voyante et poète m'avait prêté cette tablette de 1995 à 2002.
 
-L'écriture permet également de conclure une réflexion au travers de la forme plus ou moins libre du poème, mais qui demande un travail différent de la prose de roman. C'est plus subtil à travers les métaphores d'un poème. Le poème permet de "grandir" tout en n'exprimant pas aux autres de façon intelligible le fond de sa pensée. N'être à nu que pour soi-même.
+Dans ce cas les poèmes composés directement en braille étaient un complément à la lecture orale qui magnifie encore plus le poème. Donc parfois avant de composer je me disais "cette-fois ci elle pourra le lire aussi", ou bien je lui écrivais un mot personnel devant la télé, et un poème diffus jusqu'alors était prêt à naître.
 
-### Etre reconnu
+Composer en braille m'a mieux permis de maîtriser le flux poétique de façon formelle parce que c'est si particulier, je n'étais pas complètement "en face" de mes écrits et je devais faire un geste volontaire (retourner la feuille) pour relire ce que j'avais déjà écrit. J'ai même osé ainsi me lancer dans la contrainte supplémentaire que représente l'acrostiche.
 
-Le besoin de reconnaissance est essentiel à tout artiste. Si on désire partager ses textes, issus de sensations intimes, avec le plus grand nombre possible de personnes, c'est pour "survivre" à travers eux, et pour être compris par les autres. Mais est-on réellement mieux compris ? Chaque lecteur a sa propre vision d'un même concept.
+En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
 
-Et laisser une trace après la fin de notre vie terrestre.
-
-### Eveiller les autres
-
-C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de l'Art, et peut-être favoriser leur propre expression artistique. La poésie moderne n'a jamais été plus vivante que sur internet, grand espace de partage plus ou moins anonyme.
+Dernière mise à jour : 07.10.2023

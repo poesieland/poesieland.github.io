@@ -4,7 +4,7 @@ id = "par_toi_15"
 date = 2001-09-24
 weight = 35
 categories = ["Aube", "Espoir"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Par toi"
 LastModifierDisplayName = "Barbara Post"
 +++

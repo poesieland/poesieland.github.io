@@ -4,7 +4,7 @@ id = "vertiges_15"
 date = 2001-07-02
 weight = 11
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Vertiges"
 LastModifierDisplayName = "Barbara Post"
 +++

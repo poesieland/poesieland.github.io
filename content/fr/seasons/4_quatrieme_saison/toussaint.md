@@ -4,7 +4,7 @@ id = "toussaint_4"
 date = 1997-09-07
 weight = 10
 categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie"]
+tags = ["saisons", "philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

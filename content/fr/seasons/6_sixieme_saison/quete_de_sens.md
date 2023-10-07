@@ -4,7 +4,7 @@ id = "quete_de_sens_6"
 date = 1998-05-28
 weight = 1
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

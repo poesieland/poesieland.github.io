@@ -4,7 +4,7 @@ id = "esquisse_8"
 date = 1998-08-11
 weight = 45
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Esquisse"
 LastModifierDisplayName = "Barbara Post"
 +++

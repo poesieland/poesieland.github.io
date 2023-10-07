@@ -4,7 +4,7 @@ id = "la_colombe_8"
 date = 1998-08-10
 weight = 44
 categories = ["Animaux", "Espoir"]
-tags = ["nature", "philosophie", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "La colombe s'envole"
 LastModifierDisplayName = "Barbara Post"
 +++

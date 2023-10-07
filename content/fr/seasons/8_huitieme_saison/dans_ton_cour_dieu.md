@@ -4,7 +4,7 @@ id = "dans_ton_cour_dieu_8"
 date = 1998-07-21
 weight = 48
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dans ton cœur, Dieu"
 LastModifierDisplayName = "Barbara Post"
 +++

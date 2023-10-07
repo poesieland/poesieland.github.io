@@ -4,7 +4,7 @@ id = "fin_d_ete_nonchalance_8"
 date = 1998-09-06
 weight = 33
 categories = ["Automne"]
-tags = ["saisons", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "Fin d'été, nonchalance"
 LastModifierDisplayName = "Barbara Post"
 +++

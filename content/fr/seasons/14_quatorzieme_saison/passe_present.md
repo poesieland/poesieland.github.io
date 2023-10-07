@@ -4,7 +4,7 @@ id = "passe_present_14"
 date = 2000-04-01
 weight = 32
 categories = ["Etre"]
-tags = ["philosophie", "doubleAcrostiche"]
+tags = ["philosophie", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "Passé | présent"
 LastModifierDisplayName = "Barbara Post"
 +++

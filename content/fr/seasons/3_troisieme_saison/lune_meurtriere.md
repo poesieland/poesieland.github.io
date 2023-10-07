@@ -4,7 +4,7 @@ id = "lune_meurtriere_3"
 date = 1997-01-23
 weight = 9
 categories = ["Lune"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "donne_moi_ton_cour_9"
 date = 1998-10-26
 weight = 46
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Donne-moi ton cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

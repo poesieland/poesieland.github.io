@@ -4,7 +4,7 @@ id = "reverie_marine_1"
 date = 1995-11-01
 weight = 29
 categories = ["Mer", "Foi"]
-tags = ["nature", "philosophie"]
+tags = ["nature", "philosophie", "1995"]
 info = "Un des rares poèmes en prose..."
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "la_lande_2"
 date = 1996-12-02
 weight = 49
 categories = ["Jardin, paysage"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "raconte_moi_10"
 date = 1999-03-20
 weight = 48
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Raconte-moi"
 LastModifierDisplayName = "Barbara Post"
 +++

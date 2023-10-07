@@ -4,7 +4,7 @@ id = "quelques_flocons_10"
 date = 1999-02-08
 weight = 26
 categories = ["Neige"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Quelques flocons..."
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "esprit_du_printemps_16"
 date = 2004-03-21
 weight = 23
 categories = ["Printemps", "Flore"]
-tags = ["saisons", "nature", "acrostiche"]
+tags = ["saisons", "nature", "2004", "acrostiche"]
 acrostiche = "Esprit du printemps"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "demain_l_automne_9"
 date = 1998-09-22
 weight = 1
 categories = ["Automne"]
-tags = ["saisons", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "Demain l'automne"
 LastModifierDisplayName = "Barbara Post"
 +++

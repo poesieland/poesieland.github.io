@@ -4,7 +4,7 @@ id = "ensemble_10"
 date = 1999-03-07
 weight = 46
 categories = ["Romantisme", "Musique, chant"]
-tags = ["amour", "attitudes", "acrostiche"]
+tags = ["amour", "attitudes", "1999", "acrostiche"]
 acrostiche = "Ensemble"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "cours_amants_16"
 date = 2002-08-18
 weight = 2
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "2002", "acrostiche"]
 acrostiche = "Cœurs amants"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "l_amour_a_mort_4"
 date = 1997-06-22
 weight = 12
 categories = ["Romantisme", "Flore"]
-tags = ["amour", "nature"]
+tags = ["amour", "nature", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

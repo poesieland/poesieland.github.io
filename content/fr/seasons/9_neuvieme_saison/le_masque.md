@@ -4,7 +4,7 @@ id = "le_masque_9"
 date = 1998-10-24
 weight = 45
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Le masque"
 LastModifierDisplayName = "Barbara Post"
 +++

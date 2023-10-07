@@ -4,7 +4,7 @@ id = "l_absence_3"
 date = 1997-05-02
 weight = 19
 categories = ["Temps", "Amitié"]
-tags = ["philosophie", "amour"]
+tags = ["philosophie", "amour", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

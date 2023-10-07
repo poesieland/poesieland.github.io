@@ -4,7 +4,7 @@ id = "oil_miroir_de_l_ame_6"
 date = 1998-05-17
 weight = 20
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Œil miroir de l'âme"
 LastModifierDisplayName = "Barbara Post"
 +++

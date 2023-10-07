@@ -4,7 +4,7 @@ id = "va_in_pace_12"
 date = 1999-06-26
 weight = 31
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Va in pace"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "chant_des_possedes_13"
 date = 1999-08-30
 weight = 44
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Chant des possédés"
 LastModifierDisplayName = "Barbara Post"
 +++

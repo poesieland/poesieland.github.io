@@ -4,7 +4,7 @@ id = "voyage_2"
 date = 1996-12-30
 weight = 50
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

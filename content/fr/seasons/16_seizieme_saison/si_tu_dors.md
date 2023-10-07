@@ -4,7 +4,7 @@ id = "si_tu_dors_16"
 date = 2002-11-24
 weight = 7
 categories = ["Aimé (amant)", "Sommeil"]
-tags = ["amour", "attitudes", "acrostiche"]
+tags = ["amour", "attitudes", "2002", "acrostiche"]
 acrostiche = "Si tu dors"
 LastModifierDisplayName = "Barbara Post"
 +++

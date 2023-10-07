@@ -4,7 +4,7 @@ id = "l_air_d_octobre_14"
 date = 2000-10-15
 weight = 5
 categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "2000", "acrostiche"]
 acrostiche = "L'air d'octobre"
 LastModifierDisplayName = "Barbara Post"
 +++

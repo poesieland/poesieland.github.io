@@ -4,7 +4,7 @@ id = "le_sable_la_vie_9"
 date = 1998-10-10
 weight = 30
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le sable, la vie"
 LastModifierDisplayName = "Barbara Post"
 +++

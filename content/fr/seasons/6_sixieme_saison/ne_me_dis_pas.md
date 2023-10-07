@@ -4,7 +4,7 @@ id = "ne_me_dis_pas_6"
 date = 1998-04-27
 weight = 29
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ne me dis pas"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "et_ce_sera_15"
 date = 2001-09-21
 weight = 33
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Et ce sera..."
 LastModifierDisplayName = "Barbara Post"
 +++

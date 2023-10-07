@@ -4,7 +4,7 @@ id = "pleurs_13"
 date = 1999-08-23
 weight = 16
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Pleurs"
 LastModifierDisplayName = "Barbara Post"
 +++

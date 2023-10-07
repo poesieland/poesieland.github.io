@@ -4,7 +4,7 @@ id = "et_j_oublierai_14"
 date = 2000-06-26
 weight = 4
 categories = ["Lune", "Etre"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2000", "acrostiche"]
 acrostiche = "Et j'oublierai"
 LastModifierDisplayName = "Barbara Post"
 +++

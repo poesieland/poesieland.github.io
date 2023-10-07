@@ -4,7 +4,7 @@ id = "marie_prie_pour_moi_10"
 date = 1999-01-04
 weight = 2
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Marie, prie pour moi"
 LastModifierDisplayName = "Barbara Post"
 +++

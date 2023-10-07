@@ -4,7 +4,7 @@ id = "je_crois_en_toi_8"
 date = 1998-07-23
 weight = 10
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je crois en toi"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "j_ai_vu_un_arc_en_ciel_13"
 date = 1999-08-14
 weight = 31
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "J'ai vu un arc-en-ciel"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "je_crois_en_lui_8"
 date = 1998-09-05
 weight = 37
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je crois en lui"
 LastModifierDisplayName = "Barbara Post"
 +++

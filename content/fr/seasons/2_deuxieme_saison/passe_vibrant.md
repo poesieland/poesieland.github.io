@@ -4,7 +4,7 @@ id = "passe_vibrant_2"
 date = 1996-10-07
 weight = 13
 categories = ["Amitié"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

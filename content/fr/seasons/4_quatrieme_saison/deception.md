@@ -4,7 +4,7 @@ id = "deception_4"
 date = 1997-09-06
 weight = 22
 categories = ["Amour malheureux"]
-tags = ["amour"]
+tags = ["amour", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

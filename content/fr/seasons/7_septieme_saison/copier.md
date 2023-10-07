@@ -4,7 +4,7 @@ id = "copier_7"
 date = 1998-07-18
 weight = 35
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Copier"
 LastModifierDisplayName = "Barbara Post"
 +++

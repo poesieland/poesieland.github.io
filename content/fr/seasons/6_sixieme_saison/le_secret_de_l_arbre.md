@@ -4,7 +4,7 @@ id = "le_secret_de_l_arbre_6"
 date = 1998-05-24
 weight = 40
 categories = ["Flore"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Le secret de l'arbre"
 LastModifierDisplayName = "Barbara Post"
 +++

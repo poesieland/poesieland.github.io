@@ -4,7 +4,7 @@ id = "elle_a_cru_8"
 date = 1998-09-03
 weight = 36
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Elle a cru"
 LastModifierDisplayName = "Barbara Post"
 +++

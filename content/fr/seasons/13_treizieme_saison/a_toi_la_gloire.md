@@ -4,7 +4,7 @@ id = "a_toi_la_gloire_13"
 date = 1999-08-15
 weight = 1
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "A Toi la gloire"
 LastModifierDisplayName = "Barbara Post"
 +++

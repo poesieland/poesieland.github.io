@@ -4,7 +4,7 @@ id = "melodie_3"
 date = 1997-04-05
 weight = 48
 categories = ["Musique, chant"]
-tags = ["attitudes"]
+tags = ["attitudes", "1997"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post"
 +++

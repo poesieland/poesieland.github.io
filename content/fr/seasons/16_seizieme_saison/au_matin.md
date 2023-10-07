@@ -4,7 +4,7 @@ id = "au_matin_16"
 date = 2004-04-26
 weight = 25
 categories = ["Aube"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

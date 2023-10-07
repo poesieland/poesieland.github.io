@@ -4,7 +4,7 @@ id = "ravissement_lorrain_3"
 date = 1997-01-28
 weight = 46
 categories = ["Jardin, paysage", "Enfance"]
-tags = ["nature", "philosophie"]
+tags = ["nature", "philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

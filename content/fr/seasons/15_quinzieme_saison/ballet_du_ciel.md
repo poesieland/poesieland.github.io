@@ -4,7 +4,7 @@ id = "ballet_du_ciel_15"
 date = 2001-06-20
 weight = 6
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Ballet du ciel"
 LastModifierDisplayName = "Barbara Post"
 +++

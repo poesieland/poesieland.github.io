@@ -4,7 +4,7 @@ id = "gitane_10"
 date = 1999-01-28
 weight = 8
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Laisse les mots chanter"
 LastModifierDisplayName = "Barbara Post"
 +++

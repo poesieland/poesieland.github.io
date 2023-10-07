@@ -4,7 +4,7 @@ id = "harmonie_automnale_2"
 date = 1996-09-15
 weight = 15
 categories = ["Automne"]
-tags = ["saisons"]
+tags = ["saisons", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

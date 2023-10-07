@@ -4,7 +4,7 @@ id = "bourgeons_2"
 date = 1996-10-13
 weight = 18
 categories = ["Automne", "Flore"]
-tags = ["saisons", "nature"]
+tags = ["saisons", "nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

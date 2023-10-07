@@ -4,7 +4,7 @@ id = "remede_1"
 date = 1996-08-28
 weight = 44
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

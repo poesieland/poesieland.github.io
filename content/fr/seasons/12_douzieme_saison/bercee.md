@@ -4,7 +4,7 @@ id = "bercee_12"
 date = 1999-06-12
 weight = 42
 categories = ["Nuit"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Bercée"
 LastModifierDisplayName = "Barbara Post"
 +++

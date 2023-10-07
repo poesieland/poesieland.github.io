@@ -4,7 +4,7 @@ id = "au_parc_15"
 date = 2001-05-20
 weight = 5
 categories = ["Jardin, paysage", "Eté"]
-tags = ["nature", "saisons"]
+tags = ["nature", "saisons", "2001"]
 info = "le parc de Choisy, Paris."
 LastModifierDisplayName = "Barbara Post"
 +++

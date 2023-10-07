@@ -4,7 +4,7 @@ id = "jardin_dits_vers_14"
 date = 2000-12-28
 weight = 22
 categories = ["Hiver", "Temps"]
-tags = ["saisons", "philosophie", "acrostiche"]
+tags = ["saisons", "philosophie", "2000", "acrostiche"]
 acrostiche = "Jardin, dits vers"
 LastModifierDisplayName = "Barbara Post"
 +++

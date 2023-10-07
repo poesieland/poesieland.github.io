@@ -4,7 +4,7 @@ id = "j_ai_reve_de_toi_9"
 date = 1998-10-23
 weight = 44
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "J'ai rêvé de toi"
 LastModifierDisplayName = "Barbara Post"
 +++

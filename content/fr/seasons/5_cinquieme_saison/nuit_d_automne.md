@@ -4,7 +4,7 @@ id = "nuit_d_automne_5"
 date = 1997-11-02
 weight = 46
 categories = ["Nuit"]
-tags = ["ombres et lumières"]
+tags = ["ombres et lumières", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

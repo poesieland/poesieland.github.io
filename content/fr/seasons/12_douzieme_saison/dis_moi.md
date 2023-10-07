@@ -4,7 +4,7 @@ id = "dis_moi_12"
 date = 1999-06-09
 weight = 7
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Dis-moi"
 LastModifierDisplayName = "Barbara Post"
 +++

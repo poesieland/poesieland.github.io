@@ -4,8 +4,8 @@ id = "nuit_sans_lune_14"
 date = 2000-12-19
 weight = 49
 categories = ["Etre"]
-tags = ["philosophie", "pantoum"]
-type = "pantoum"
+tags = ["philosophie", "2000", "pantoun"]
+type = "pantoun"
 LastModifierDisplayName = "Barbara Post"
 +++
 

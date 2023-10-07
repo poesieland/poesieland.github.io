@@ -4,7 +4,7 @@ id = "eternite_14"
 date = 1999-12-05
 weight = 41
 categories = ["Temps", "Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Quando Corpus"
 LastModifierDisplayName = "Barbara Post"
 +++

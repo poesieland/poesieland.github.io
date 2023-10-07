@@ -4,7 +4,7 @@ id = "si_jamais_12"
 date = 1999-06-23
 weight = 30
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Si jamais..."
 LastModifierDisplayName = "Barbara Post"
 +++

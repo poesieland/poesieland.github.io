@@ -4,7 +4,7 @@ id = "je_ne_crois_pas_8"
 date = 1998-07-29
 weight = 16
 categories = ["Apprentissage", "Amour malheureux"]
-tags = ["philosophie", "amour", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Je ne crois pas..."
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "case_depart_15"
 date = 2001-10-11
 weight = 43
 categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "acrostiche"]
+tags = ["philosophie", "saisons", "2001", "acrostiche"]
 acrostiche = "Case départ"
 LastModifierDisplayName = "Barbara Post"
 +++

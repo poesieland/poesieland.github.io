@@ -4,7 +4,7 @@ id = "lune_la_nuit_7"
 date = 1998-07-08
 weight = 43
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Lune, la nuit"
 LastModifierDisplayName = "Barbara Post"
 +++

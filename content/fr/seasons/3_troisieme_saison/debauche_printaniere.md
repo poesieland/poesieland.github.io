@@ -4,7 +4,7 @@ id = "debauche_printaniere_3"
 date = 1997-02-26
 weight = 39
 categories = ["Printemps", "Flore"]
-tags = ["saisons", "nature"]
+tags = ["saisons", "nature", "1997"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

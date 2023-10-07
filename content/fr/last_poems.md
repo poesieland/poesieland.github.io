@@ -1,5 +1,7 @@
 Dans la [Dix-septième saison](/seasons/17_dix_septieme_saison/) en cours d'ajout actuellement (il y en a plus que cinq mais tous les poèmes de 2004 sont enfin en ligne) :
 
+[Pantoun d'octobre, écrit le 07.10.2023](/seasons/17_dix_septieme_saison/pantoun_d_octobre/)
+
 [Perte d'enfance, écrit le 21.12.2004](/seasons/17_dix_septieme_saison/perte_d_enfance/)
 
 [Solstice d'hiver, écrit le 20.12.2004](/seasons/17_dix_septieme_saison/solstice_d_hiver/)
@@ -24,6 +26,6 @@ Dans la [Dix-septième saison](/seasons/17_dix_septieme_saison/) en cours d'ajou
 
 Dans la [Seizième saison](/seasons/16_seizieme_saison/) :
 
-[Pantoum du rêve, écrit le 12.10.2004](/seasons/16_seizieme_saison/pantoum_du_reve/)
+[Pantoun du rêve, écrit le 12.10.2004](/seasons/16_seizieme_saison/pantoun_du_reve/)
 
 [L'accident, écrit le 11.10.2004](/seasons/16_seizieme_saison/l_accident/)

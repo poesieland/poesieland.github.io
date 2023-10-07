@@ -4,7 +4,7 @@ id = "une_bague_8"
 date = 1998-09-12
 weight = 40
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Une bague"
 LastModifierDisplayName = "Barbara Post"
 +++

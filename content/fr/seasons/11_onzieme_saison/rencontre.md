@@ -4,7 +4,7 @@ id = "rencontre_11"
 date = 1999-05-05
 weight = 43
 categories = ["Ciel"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "1999", "acrostiche"]
 acrostiche = "L'éclipse"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "sais_tu_l_amour_15"
 date = 2001-09-07
 weight = 27
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Sais-tu l'amour..."
 LastModifierDisplayName = "Barbara Post"
 +++

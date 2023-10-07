@@ -4,7 +4,7 @@ id = "les_embruns_du_cour_5"
 date = 1997-11-21
 weight = 19
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

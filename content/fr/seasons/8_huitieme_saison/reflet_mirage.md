@@ -4,7 +4,7 @@ id = "reflet_mirage_8"
 date = 1998-08-24
 weight = 28
 categories = ["Création", "Ciel"]
-tags = ["philosophie", "nature", "acrostiche"]
+tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "Reflet : mirage"
 LastModifierDisplayName = "Barbara Post"
 +++

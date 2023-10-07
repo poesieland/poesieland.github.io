@@ -4,7 +4,7 @@ id = "sur_la_terre_la_15"
 date = 2001-07-27
 weight = 15
 categories = ["Crépuscule", "Etre"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Sur la terre, là"
 LastModifierDisplayName = "Barbara Post"
 +++

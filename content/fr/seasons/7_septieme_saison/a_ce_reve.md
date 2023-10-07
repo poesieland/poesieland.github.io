@@ -4,7 +4,7 @@ id = "a_ce_reve_7"
 date = 1998-07-18
 weight = 23
 categories = ["Espoir", "Romantisme"]
-tags = ["philosophie", "amour", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "A ce rêve tu dis"
 LastModifierDisplayName = "Barbara Post"
 +++

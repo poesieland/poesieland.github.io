@@ -4,7 +4,7 @@ id = "chaleurs_1"
 date = 1996-08-10
 weight = 22
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

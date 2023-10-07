@@ -4,7 +4,7 @@ id = "en_chaque_etre_9"
 date = 1998-10-30
 weight = 32
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "En chaque être"
 LastModifierDisplayName = "Barbara Post"
 +++

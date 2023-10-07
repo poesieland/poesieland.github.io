@@ -4,7 +4,7 @@ id = "illusion_1"
 date = 1995-10-01
 weight = 48
 categories = ["Révolte"]
-tags = ["philosophie"]
+tags = ["philosophie", "1995"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

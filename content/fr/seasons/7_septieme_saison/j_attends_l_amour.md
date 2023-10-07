@@ -4,7 +4,7 @@ id = "j_attends_l_amour_7"
 date = 1998-07-07
 weight = 10
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "J'attends l'amour"
 LastModifierDisplayName = "Barbara Post"
 +++

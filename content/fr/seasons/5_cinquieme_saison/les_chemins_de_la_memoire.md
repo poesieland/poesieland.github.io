@@ -4,7 +4,7 @@ id = "les_chemins_de_la_memoire_5"
 date = 1998-01-12
 weight = 28
 categories = ["Temps", "Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

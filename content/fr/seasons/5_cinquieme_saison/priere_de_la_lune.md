@@ -4,7 +4,7 @@ id = "priere_de_la_lune_5"
 date = 1998-02-26
 weight = 49
 categories = ["Lune", "Révolte"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Hijo de la luna"
 LastModifierDisplayName = "Barbara Post"
 +++

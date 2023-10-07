@@ -4,7 +4,7 @@ id = "tu_me_consoles_13"
 date = 1999-08-17
 weight = 34
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Tu me consoles"
 LastModifierDisplayName = "Barbara Post"
 +++

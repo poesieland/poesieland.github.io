@@ -4,7 +4,7 @@ id = "nostalgie_2"
 date = 1996-09-23
 weight = 12
 categories = ["Amitié"]
-tags = ["amour"]
+tags = ["amour", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

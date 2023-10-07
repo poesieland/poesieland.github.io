@@ -4,7 +4,7 @@ id = "l_esperance_6"
 date = 1998-05-20
 weight = 6
 categories = ["Animaux", "Espoir"]
-tags = ["nature", "philosophie"]
+tags = ["nature", "philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

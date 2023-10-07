@@ -4,7 +4,7 @@ id = "filets_de_lune_16"
 date = 2003-01-22
 weight = 10
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Filets de lune"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "que_ta_volonte_10"
 date = 1998-12-30
 weight = 38
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Que ta volonté"
 LastModifierDisplayName = "Barbara Post"
 +++

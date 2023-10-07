@@ -4,7 +4,7 @@ id = "un_poeme_tresors_11"
 date = 1999-04-30
 weight = 25
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un poème : trésors"
 LastModifierDisplayName = "Barbara Post"
 +++

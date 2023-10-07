@@ -4,7 +4,7 @@ id = "soleil_d_hiver_9"
 date = 1998-11-22
 weight = 5
 categories = ["Hiver", "Musique, chant"]
-tags = ["saisons", "attitudes", "acrostiche"]
+tags = ["saisons", "attitudes", "1998", "acrostiche"]
 acrostiche = "Soleil d'hiver"
 LastModifierDisplayName = "Barbara Post"
 +++

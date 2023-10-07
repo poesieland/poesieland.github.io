@@ -4,7 +4,7 @@ id = "chimeres_9"
 date = 1998-09-25
 weight = 28
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Chimères"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "depouillement_4"
 date = 1997-07-22
 weight = 25
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

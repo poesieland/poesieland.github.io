@@ -4,7 +4,7 @@ id = "duo_11"
 date = 1999-05-10
 weight = 30
 categories = ["Musique, chant", "Mouvement"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Rien n'a changé"
 LastModifierDisplayName = "Barbara Post"
 +++

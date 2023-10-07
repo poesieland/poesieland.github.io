@@ -4,7 +4,7 @@ id = "le_pic_vert_5"
 date = 1997-09-29
 weight = 38
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

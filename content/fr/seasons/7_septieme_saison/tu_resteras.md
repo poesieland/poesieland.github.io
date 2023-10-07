@@ -4,7 +4,7 @@ id = "tu_resteras_7"
 date = 1998-07-01
 weight = 12
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Tu resteras"
 LastModifierDisplayName = "Barbara Post"
 +++

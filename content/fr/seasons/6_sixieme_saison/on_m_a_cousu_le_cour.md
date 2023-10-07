@@ -4,7 +4,7 @@ id = "on_m_a_cousu_le_cour_6"
 date = 1998-04-05
 weight = 4
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "On m'a cousu le cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

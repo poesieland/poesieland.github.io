@@ -4,7 +4,7 @@ id = "douceur_10"
 date = 1999-03-03
 weight = 33
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Douces"
 LastModifierDisplayName = "Barbara Post"
 +++

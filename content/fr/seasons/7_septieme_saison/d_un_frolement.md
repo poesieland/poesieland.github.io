@@ -4,7 +4,7 @@ id = "d_un_frolement_7"
 date = 1998-06-03
 weight = 3
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "D'un frôlement"
 LastModifierDisplayName = "Barbara Post"
 +++

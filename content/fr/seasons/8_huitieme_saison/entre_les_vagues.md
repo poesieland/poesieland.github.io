@@ -4,7 +4,7 @@ id = "entre_les_vagues_8"
 date = 1998-09-05
 weight = 31
 categories = ["Sommeil", "Mer", "Musique, chant"]
-tags = ["attitudes", "nature", "attitudes", "acrostiche"]
+tags = ["attitudes", "nature", "attitudes", "1998", "acrostiche"]
 acrostiche = "Entre les vagues"
 LastModifierDisplayName = "Barbara Post"
 +++

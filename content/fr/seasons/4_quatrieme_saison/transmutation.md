@@ -4,7 +4,7 @@ id = "transmutation_4"
 date = 1997-08-20
 weight = 43
 categories = ["Jardin, paysage", "Etre"]
-tags = ["nature", "philosophie"]
+tags = ["nature", "philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

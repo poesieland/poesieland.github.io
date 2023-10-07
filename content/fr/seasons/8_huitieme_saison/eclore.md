@@ -4,7 +4,7 @@ id = "eclore_8"
 date = 1998-09-16
 weight = 47
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Eclora toi"
 LastModifierDisplayName = "Barbara Post"
 +++

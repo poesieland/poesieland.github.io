@@ -4,7 +4,7 @@ id = "la_voilure_de_la_voyance_2"
 date = 1996-09-09
 weight = 40
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

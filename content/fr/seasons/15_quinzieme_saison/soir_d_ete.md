@@ -4,7 +4,7 @@ id = "soir_d_ete_15"
 date = 2001-08-10
 weight = 19
 categories = ["Ville"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Soir d'été"
 LastModifierDisplayName = "Barbara Post"
 +++

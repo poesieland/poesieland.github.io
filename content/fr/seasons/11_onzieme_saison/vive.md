@@ -4,7 +4,7 @@ id = "vive_11"
 date = 1999-05-19
 weight = 32
 categories = ["Musique, chant", "Espoir"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Vive"
 LastModifierDisplayName = "Barbara Post"
 +++

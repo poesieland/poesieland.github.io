@@ -4,7 +4,7 @@ id = "lune_tu_ne_sais_12"
 date = 1999-07-01
 weight = 17
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune, tu ne sais"
 LastModifierDisplayName = "Barbara Post"
 +++

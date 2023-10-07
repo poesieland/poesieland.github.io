@@ -4,7 +4,7 @@ id = "orchestration_6"
 date = 1998-05-02
 weight = 36
 categories = ["Musique, chant"]
-tags = ["attitudes"]
+tags = ["attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

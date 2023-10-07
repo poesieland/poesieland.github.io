@@ -4,7 +4,7 @@ id = "j_ai_troque_le_bonheur_5"
 date = 1998-01-28
 weight = 34
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

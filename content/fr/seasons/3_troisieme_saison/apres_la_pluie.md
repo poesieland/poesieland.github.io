@@ -4,7 +4,7 @@ id = "apres_la_pluie_3"
 date = 1997-02-05
 weight = 45
 categories = ["Jardin, paysage"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "monter_la_voie_13"
 date = 1999-08-29
 weight = 5
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Monter la voie"
 LastModifierDisplayName = "Barbara Post"
 +++

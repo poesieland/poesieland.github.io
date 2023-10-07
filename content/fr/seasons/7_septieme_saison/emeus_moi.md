@@ -4,7 +4,7 @@ id = "emeus_moi_7"
 date = 1998-07-15
 weight = 2
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Emeus-moi"
 LastModifierDisplayName = "Barbara Post"
 +++

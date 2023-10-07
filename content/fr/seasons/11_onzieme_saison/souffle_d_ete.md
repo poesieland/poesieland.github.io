@@ -4,7 +4,7 @@ id = "souffle_d_ete_11"
 date = 1999-05-21
 weight = 41
 categories = ["Eté", "Jardin, paysage"]
-tags = ["saisons", "nature", "acrostiche"]
+tags = ["saisons", "nature", "1999", "acrostiche"]
 acrostiche = "Ne rien faire, rêver..."
 LastModifierDisplayName = "Barbara Post"
 +++

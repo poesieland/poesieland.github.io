@@ -4,7 +4,7 @@ id = "l_abandon_10"
 date = 1999-02-05
 weight = 40
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "L'Abandon"
 LastModifierDisplayName = "Barbara Post"
 +++

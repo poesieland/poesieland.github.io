@@ -4,7 +4,7 @@ id = "naitre_condamne_13"
 date = 1999-09-11
 weight = 9
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Naître condamné"
 LastModifierDisplayName = "Barbara Post"
 +++

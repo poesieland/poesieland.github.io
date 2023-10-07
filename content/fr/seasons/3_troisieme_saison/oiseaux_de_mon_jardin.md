@@ -4,7 +4,7 @@ id = "oiseaux_de_mon_jardin_3"
 date = 1997-01-16
 weight = 41
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

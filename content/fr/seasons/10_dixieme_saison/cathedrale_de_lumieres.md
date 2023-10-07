@@ -4,7 +4,7 @@ id = "cathedrale_de_lumieres_10"
 date = 1999-02-16
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Cathédrale | de lumières"
 LastModifierDisplayName = "Barbara Post"
 +++

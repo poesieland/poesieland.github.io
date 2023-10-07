@@ -4,7 +4,7 @@ id = "confidence_11"
 date = 1999-04-18
 weight = 5
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Confidence"
 LastModifierDisplayName = "Barbara Post"
 +++

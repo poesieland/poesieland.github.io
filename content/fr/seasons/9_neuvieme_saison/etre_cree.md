@@ -4,7 +4,7 @@ id = "etre_cree_9"
 date = 1998-11-26
 weight = 17
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Etre créé"
 LastModifierDisplayName = "Barbara Post"
 +++

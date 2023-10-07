@@ -4,7 +4,7 @@ id = "c_est_un_dieu_14"
 date = 1999-11-10
 weight = 12
 categories = ["Foi", "Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "C'est un Dieu..."
 LastModifierDisplayName = "Barbara Post"
 +++

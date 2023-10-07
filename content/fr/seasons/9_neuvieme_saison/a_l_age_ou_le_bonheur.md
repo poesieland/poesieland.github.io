@@ -4,7 +4,7 @@ id = "a_l_age_ou_le_bonheur_9"
 date = 1998-12-13
 weight = 37
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "A l'âge où le bonheur..."
 LastModifierDisplayName = "Barbara Post"
 +++

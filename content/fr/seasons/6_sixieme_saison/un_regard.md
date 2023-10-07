@@ -4,7 +4,7 @@ id = "un_regard_6"
 date = 1998-04-26
 weight = 28
 categories = ["Amitié"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Un regard"
 LastModifierDisplayName = "Barbara Post"
 +++

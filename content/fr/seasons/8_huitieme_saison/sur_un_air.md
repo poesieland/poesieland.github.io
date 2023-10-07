@@ -4,7 +4,7 @@ id = "sur_un_air_8"
 date = 1998-07-20
 weight = 1
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Sur un air"
 LastModifierDisplayName = "Barbara Post"
 +++

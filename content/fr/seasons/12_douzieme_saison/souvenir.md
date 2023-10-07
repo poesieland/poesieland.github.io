@@ -4,7 +4,7 @@ id = "souvenir_12"
 date = 1999-06-10
 weight = 28
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Souvenir"
 LastModifierDisplayName = "Barbara Post"
 +++

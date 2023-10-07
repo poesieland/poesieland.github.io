@@ -4,7 +4,7 @@ id = "passage_2"
 date = 1996-10-16
 weight = 20
 categories = ["Flore", "Automne"]
-tags = ["nature", "saisons"]
+tags = ["nature", "saisons", "1996"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

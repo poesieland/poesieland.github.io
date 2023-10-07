@@ -4,7 +4,7 @@ id = "si_je_prie_13"
 date = 1999-08-28
 weight = 2
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Si je prie"
 LastModifierDisplayName = "Barbara Post"
 +++

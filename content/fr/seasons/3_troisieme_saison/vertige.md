@@ -4,7 +4,7 @@ id = "vertige_3"
 date = 1997-01-19
 weight = 29
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

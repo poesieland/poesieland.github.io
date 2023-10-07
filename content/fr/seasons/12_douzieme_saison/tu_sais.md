@@ -4,7 +4,7 @@ id = "tu_sais_12"
 date = 1999-06-09
 weight = 8
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Tu sais"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "le_ciel_15"
 date = 2001-04-09
 weight = 2
 categories = ["Etre", "Ciel"]
-tags = ["philosophie", "nature"]
+tags = ["philosophie", "nature", "2001"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

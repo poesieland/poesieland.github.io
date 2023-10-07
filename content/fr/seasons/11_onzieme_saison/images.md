@@ -4,7 +4,7 @@ id = "images_11"
 date = 1999-04-26
 weight = 19
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Images"
 LastModifierDisplayName = "Barbara Post"
 +++

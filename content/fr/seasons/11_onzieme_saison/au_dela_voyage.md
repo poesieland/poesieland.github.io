@@ -4,7 +4,7 @@ id = "au_dela_voyage_11"
 date = 1999-05-07
 weight = 8
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Au-delà : voyage"
 LastModifierDisplayName = "Barbara Post"
 +++

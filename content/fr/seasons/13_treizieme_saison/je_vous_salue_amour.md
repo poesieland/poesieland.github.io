@@ -4,7 +4,7 @@ id = "je_vous_salue_amour_13"
 date = 1999-09-10
 weight = 3
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je vous salue, amour"
 LastModifierDisplayName = "Barbara Post"
 +++

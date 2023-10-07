@@ -4,7 +4,7 @@ id = "monts_image_14"
 date = 2001-03-10
 weight = 8
 categories = ["Jardin, paysage"]
-tags = ["nature", "acrostiche"]
+tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Monts : image"
 LastModifierDisplayName = "Barbara Post"
 +++

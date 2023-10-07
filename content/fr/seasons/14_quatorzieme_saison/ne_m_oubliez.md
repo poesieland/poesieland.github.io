@@ -4,7 +4,7 @@ id = "ne_m_oubliez_14"
 date = 2000-04-16
 weight = 3
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "miroirs_mirages_10"
 date = 1999-03-20
 weight = 37
 categories = ["Création", "Crépuscule"]
-tags = ["philosophie", "ombres et lumières", "doubleAcrostiche"]
+tags = ["philosophie", "ombres et lumières", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Miroirs | mirages"
 LastModifierDisplayName = "Barbara Post"
 +++

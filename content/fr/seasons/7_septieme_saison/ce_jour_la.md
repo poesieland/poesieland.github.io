@@ -4,7 +4,7 @@ id = "ce_jour_la_7"
 date = 1998-07-17
 weight = 7
 categories = ["Création", "Amitié"]
-tags = ["philosophie", "amour", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Ce jour-là tu disais"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "delivrance_2"
 date = 1996-10-03
 weight = 39
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

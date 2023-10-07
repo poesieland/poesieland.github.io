@@ -4,7 +4,7 @@ id = "vrai_sens_11"
 date = 1999-05-08
 weight = 27
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Vrai sens"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "reve_une_larme_12"
 date = 1999-06-06
 weight = 2
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Rêve, une larme"
 LastModifierDisplayName = "Barbara Post"
 +++

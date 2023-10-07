@@ -4,7 +4,7 @@ id = "je_t_offrirai_6"
 date = 1998-05-26
 weight = 39
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

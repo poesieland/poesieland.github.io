@@ -4,7 +4,7 @@ id = "elle_est_partie_la_bas_10"
 date = 1999-01-27
 weight = 7
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Elle est partie là-bas"
 LastModifierDisplayName = "Barbara Post"
 +++

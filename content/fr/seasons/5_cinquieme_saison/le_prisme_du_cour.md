@@ -4,7 +4,7 @@ id = "le_prisme_du_cour_5"
 date = 1998-02-10
 weight = 7
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

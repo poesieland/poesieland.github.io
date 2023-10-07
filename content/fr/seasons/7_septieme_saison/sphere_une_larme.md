@@ -4,7 +4,7 @@ id = "sphere_une_larme_7"
 date = 1998-07-09
 weight = 48
 categories = ["Portraits"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sphère, une larme"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "le_sursaut_1"
 date = 1994-01-01
 weight = 49
 categories = ["Révolte"]
-tags = ["philosophie"]
+tags = ["philosophie", "1994"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

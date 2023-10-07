@@ -4,7 +4,7 @@ id = "dedicace_11"
 date = 1999-05-20
 weight = 33
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Dédicace"
 LastModifierDisplayName = "Barbara Post"
 +++

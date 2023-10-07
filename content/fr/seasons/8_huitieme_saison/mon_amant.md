@@ -4,7 +4,7 @@ id = "mon_amant_8"
 date = 1998-07-28
 weight = 7
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Mon amant"
 LastModifierDisplayName = "Barbara Post"
 +++

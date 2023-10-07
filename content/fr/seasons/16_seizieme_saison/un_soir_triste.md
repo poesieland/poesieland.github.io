@@ -4,7 +4,7 @@ id = "un_soir_triste_16"
 date = 2004-01-17
 weight = 21
 categories = ["Temps", "Nuit", "Ville"]
-tags = ["philosophie", "ombres et lumières", "ombres et lumières", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "ombres et lumières", "2004", "acrostiche"]
 acrostiche = "Un soir triste"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "lune_d_une_nuit_14"
 date = 2000-11-11
 weight = 21
 categories = ["Lune"]
-tags = ["ombres et lumières", "acrostiche"]
+tags = ["ombres et lumières", "2000", "acrostiche"]
 acrostiche = "Amie de la nuit, lune"
 LastModifierDisplayName = "Barbara Post"
 +++

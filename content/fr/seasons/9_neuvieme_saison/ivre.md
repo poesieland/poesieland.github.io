@@ -4,7 +4,7 @@ id = "ivre_9"
 date = 1998-09-20
 weight = 19
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Ivre"
 LastModifierDisplayName = "Barbara Post"
 +++

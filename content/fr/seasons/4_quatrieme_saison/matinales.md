@@ -4,7 +4,7 @@ id = "matinales_4"
 date = 1997-08-25
 weight = 40
 categories = ["Aube", "Etre"]
-tags = ["ombres et lumières", "philosophie"]
+tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

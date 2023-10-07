@@ -4,7 +4,7 @@ id = "impasse_16"
 date = 2004-04-26
 weight = 27
 categories = ["Création", "Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,7 +4,7 @@ id = "mais_cela_7"
 date = 1998-07-08
 weight = 32
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mais cela..."
 LastModifierDisplayName = "Barbara Post"
 +++

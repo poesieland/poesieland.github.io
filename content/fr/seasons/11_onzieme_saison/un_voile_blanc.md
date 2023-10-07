@@ -4,7 +4,7 @@ id = "un_voile_blanc_11"
 date = 1999-04-24
 weight = 38
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un voile blanc"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "toi_qu_on_nomme_8"
 date = 1998-07-30
 weight = 17
 categories = ["Etre"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Toi qu'on nomme..."
 LastModifierDisplayName = "Barbara Post"
 +++

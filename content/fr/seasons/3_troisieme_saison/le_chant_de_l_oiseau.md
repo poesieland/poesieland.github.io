@@ -4,7 +4,7 @@ id = "le_chant_de_l_oiseau_3"
 date = 1997-02-22
 weight = 42
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "le_mai_nouveau_11"
 date = 1999-04-30
 weight = 44
 categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "acrostiche"]
+tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Le mai nouveau"
 LastModifierDisplayName = "Barbara Post"
 +++

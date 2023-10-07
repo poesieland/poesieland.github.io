@@ -4,7 +4,7 @@ id = "ciel_d_hiver_15"
 date = 2001-12-24
 weight = 50
 categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "acrostiche"]
+tags = ["nature", "saisons", "2001", "acrostiche"]
 acrostiche = "Ciel"
 LastModifierDisplayName = "Barbara Post"
 +++

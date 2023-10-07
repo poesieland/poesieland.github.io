@@ -4,7 +4,7 @@ id = "bal_de_l_an_14"
 date = 2000-12-28
 weight = 7
 categories = ["Temps"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Bal de l'an"
 LastModifierDisplayName = "Barbara Post"
 +++

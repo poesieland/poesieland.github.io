@@ -4,7 +4,7 @@ id = "baiser_cadeau_12"
 date = 1999-06-06
 weight = 3
 categories = ["Romantisme", "Toucher"]
-tags = ["amour", "attitudes", "acrostiche"]
+tags = ["amour", "attitudes", "1999", "acrostiche"]
 acrostiche = "Baiser, cadeau"
 LastModifierDisplayName = "Barbara Post"
 +++

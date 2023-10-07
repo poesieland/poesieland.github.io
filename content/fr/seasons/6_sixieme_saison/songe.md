@@ -4,7 +4,7 @@ id = "songe_6"
 date = 1998-05-29
 weight = 46
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

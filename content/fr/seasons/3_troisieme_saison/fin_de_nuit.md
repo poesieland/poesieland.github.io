@@ -4,7 +4,7 @@ id = "fin_de_nuit_3"
 date = 1997-02-12
 weight = 10
 categories = ["Nuit", "Création"]
-tags = ["ombres et lumières", "philosophie"]
+tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

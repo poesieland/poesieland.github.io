@@ -4,7 +4,7 @@ id = "essence_12"
 date = 1999-07-09
 weight = 34
 categories = ["Etre", "Musique, chant"]
-tags = ["philosophie", "attitudes", "doubleAcrostiche"]
+tags = ["philosophie", "attitudes", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "A la place | un double"
 LastModifierDisplayName = "Barbara Post"
 +++

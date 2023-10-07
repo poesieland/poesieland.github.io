@@ -4,7 +4,7 @@ id = "cycle_15"
 date = 2001-06-17
 weight = 8
 categories = ["Temps"]
-tags = ["philosophie"]
+tags = ["philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -4,8 +4,8 @@ id = "le_saule_14"
 date = 2001-02-03
 weight = 37
 categories = ["Etre", "Flore"]
-tags = ["philosophie", "nature", "pantoum"]
-type = "pantoum"
+tags = ["philosophie", "nature", "2001", "pantoun"]
+type = "pantoun"
 LastModifierDisplayName = "Barbara Post"
 +++
 

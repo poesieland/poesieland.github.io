@@ -4,7 +4,7 @@ id = "tant_de_sens_12"
 date = 1999-06-05
 weight = 15
 categories = ["Musique, chant", "Temps"]
-tags = ["attitudes", "philosophie", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tant de sens"
 LastModifierDisplayName = "Barbara Post"
 +++

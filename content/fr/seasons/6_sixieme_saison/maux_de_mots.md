@@ -4,7 +4,7 @@ id = "maux_de_mots_6"
 date = 1998-05-07
 weight = 2
 categories = ["Apprentissage"]
-tags = ["philosophie"]
+tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

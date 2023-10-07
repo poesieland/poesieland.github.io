@@ -4,7 +4,7 @@ id = "chrysantheme_2"
 date = 1996-11-08
 weight = 37
 categories = ["Automne", "Flore"]
-tags = ["saisons", "nature"]
+tags = ["saisons", "nature", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

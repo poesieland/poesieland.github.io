@@ -4,7 +4,7 @@ id = "ouragan_1"
 date = 1996-07-03
 weight = 24
 categories = ["Mouvement"]
-tags = ["attitudes"]
+tags = ["attitudes", "1996"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

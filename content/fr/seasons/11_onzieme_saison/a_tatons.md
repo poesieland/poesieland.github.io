@@ -4,7 +4,7 @@ id = "a_tatons_11"
 date = 1999-04-20
 weight = 6
 categories = ["Toucher", "Musique, chant", "Romantisme"]
-tags = ["attitudes", "amour", "acrostiche"]
+tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "A tâtons"
 LastModifierDisplayName = "Barbara Post"
 +++

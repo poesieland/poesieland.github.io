@@ -4,7 +4,7 @@ id = "je_n_ecrirai_8"
 date = 1998-07-24
 weight = 12
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je n'écrirai"
 LastModifierDisplayName = "Barbara Post"
 +++

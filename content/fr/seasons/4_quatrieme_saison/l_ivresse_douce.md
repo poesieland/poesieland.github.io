@@ -4,7 +4,7 @@ id = "l_ivresse_douce_4"
 date = 1997-09-04
 weight = 30
 categories = ["Création"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

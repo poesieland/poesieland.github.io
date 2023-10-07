@@ -4,7 +4,7 @@ id = "traces_des_levres_15"
 date = 2001-11-10
 weight = 47
 categories = ["Aimé (amant)", "Toucher"]
-tags = ["amour", "attitudes", "acrostiche"]
+tags = ["amour", "attitudes", "2001", "acrostiche"]
 acrostiche = "Traces des lèvres"
 LastModifierDisplayName = "Barbara Post"
 +++

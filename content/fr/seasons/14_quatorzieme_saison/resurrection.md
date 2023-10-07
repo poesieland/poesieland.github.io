@@ -4,7 +4,7 @@ id = "resurrection_14"
 date = 2000-01-02
 weight = 30
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Résurrection"
 LastModifierDisplayName = "Barbara Post"
 +++

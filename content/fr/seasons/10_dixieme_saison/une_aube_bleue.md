@@ -4,7 +4,7 @@ id = "une_aube_bleue_10"
 date = 1999-03-03
 weight = 34
 categories = ["Musique, chant", "Jardin, paysage"]
-tags = ["attitudes", "nature", "acrostiche"]
+tags = ["attitudes", "nature", "1999", "acrostiche"]
 acrostiche = "Une aube bleue"
 LastModifierDisplayName = "Barbara Post"
 +++

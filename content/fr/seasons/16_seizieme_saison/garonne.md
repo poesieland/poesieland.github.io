@@ -4,7 +4,7 @@ id = "garonne_16"
 date = 2004-04-24
 weight = 24
 categories = ["Eau douce"]
-tags = ["nature"]
+tags = ["nature", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

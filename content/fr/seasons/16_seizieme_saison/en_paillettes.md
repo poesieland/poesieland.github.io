@@ -4,7 +4,7 @@ id = "en_paillettes_16"
 date = 2002-11-03
 weight = 6
 categories = ["Aimé (amant)"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "2002", "acrostiche"]
 acrostiche = "En paillettes"
 LastModifierDisplayName = "Barbara Post"
 +++

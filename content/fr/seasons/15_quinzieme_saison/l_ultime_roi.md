@@ -4,7 +4,7 @@ id = "l_ultime_roi_15"
 date = 2001-10-21
 weight = 44
 categories = ["Etre"]
-tags = ["philosophie"]
+tags = ["philosophie", "2001"]
 info = "D'après la chanson d'Andrea Bocelli \"L'ultimo re\"."
 LastModifierDisplayName = "Barbara Post"
 +++

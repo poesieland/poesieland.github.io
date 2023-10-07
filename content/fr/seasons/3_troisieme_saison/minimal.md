@@ -4,7 +4,7 @@ id = "minimal_3"
 date = 1997-02-13
 weight = 49
 categories = ["Divers"]
-tags = ["philosophie"]
+tags = ["philosophie", "1997"]
 verseLength = 3
 LastModifierDisplayName = "Barbara Post"
 +++

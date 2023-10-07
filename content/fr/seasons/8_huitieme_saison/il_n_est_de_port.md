@@ -4,7 +4,7 @@ id = "il_n_est_de_port_8"
 date = 1998-08-24
 weight = 22
 categories = ["Apprentissage"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Il n'est de port"
 LastModifierDisplayName = "Barbara Post"
 +++

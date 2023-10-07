@@ -4,7 +4,7 @@ id = "pour_tout_mon_cour_11"
 date = 1999-05-12
 weight = 9
 categories = ["Musique, chant"]
-tags = ["attitudes", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Pour tout mon cœur"
 LastModifierDisplayName = "Barbara Post"
 +++

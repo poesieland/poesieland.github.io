@@ -4,7 +4,7 @@ id = "oh_que_je_t_aime_16"
 date = 2002-08-19
 weight = 3
 categories = ["Espoir"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2002", "acrostiche"]
 acrostiche = "Oh que je t'aime"
 LastModifierDisplayName = "Barbara Post"
 +++

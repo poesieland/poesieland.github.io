@@ -4,7 +4,7 @@ id = "aube_d_un_poeme_9"
 date = 1998-11-19
 weight = 11
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Aube d'un poème"
 LastModifierDisplayName = "Barbara Post"
 +++

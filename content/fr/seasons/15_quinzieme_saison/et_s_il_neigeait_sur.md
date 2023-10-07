@@ -4,7 +4,7 @@ id = "et_s_il_neigeait_sur_15"
 date = 2001-12-24
 weight = 49
 categories = ["Romantisme", "Neige"]
-tags = ["amour", "nature", "acrostiche"]
+tags = ["amour", "nature", "2001", "acrostiche"]
 acrostiche = "Et s'il neigeait sur..."
 LastModifierDisplayName = "Barbara Post"
 +++

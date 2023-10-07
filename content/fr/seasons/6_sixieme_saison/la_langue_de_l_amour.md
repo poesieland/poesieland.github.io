@@ -4,7 +4,7 @@ id = "la_langue_de_l_amour_6"
 date = 1998-05-13
 weight = 38
 categories = ["Romantisme"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "La langue de l'amour"
 LastModifierDisplayName = "Barbara Post"
 +++

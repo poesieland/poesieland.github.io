@@ -4,7 +4,7 @@ id = "jeter_l_ancre_de_ton_depart_7"
 date = 1998-07-08
 weight = 14
 categories = ["Amour malheureux", "Mer"]
-tags = ["amour", "nature", "acrostiche"]
+tags = ["amour", "nature", "1998", "acrostiche"]
 acrostiche = "Jeter l'ancre de ton départ..."
 LastModifierDisplayName = "Barbara Post"
 +++

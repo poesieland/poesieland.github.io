@@ -4,7 +4,7 @@ id = "odes_12"
 date = 1999-06-12
 weight = 43
 categories = ["Création"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Odes"
 LastModifierDisplayName = "Barbara Post"
 +++

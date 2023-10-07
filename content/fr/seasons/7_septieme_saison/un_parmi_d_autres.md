@@ -4,7 +4,7 @@ id = "un_parmi_d_autres_7"
 date = 1998-07-06
 weight = 6
 categories = ["Amour malheureux"]
-tags = ["amour", "acrostiche"]
+tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Un parmi d'autres"
 LastModifierDisplayName = "Barbara Post"
 +++

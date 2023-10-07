@@ -4,7 +4,7 @@ id = "je_partirai_5"
 date = 1997-12-21
 weight = 15
 categories = ["Romantisme"]
-tags = ["amour"]
+tags = ["amour", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

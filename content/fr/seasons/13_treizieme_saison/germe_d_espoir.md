@@ -4,7 +4,7 @@ id = "germe_d_espoir_13"
 date = 1999-08-19
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Germe d'espoir"
 LastModifierDisplayName = "Barbara Post"
 +++

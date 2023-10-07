@@ -4,7 +4,7 @@ id = "myriades_5"
 date = 1997-10-28
 weight = 40
 categories = ["Animaux", "Automne"]
-tags = ["nature", "saisons"]
+tags = ["nature", "saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

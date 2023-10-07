@@ -4,7 +4,7 @@ id = "mai_11"
 date = 1999-05-01
 weight = 45
 categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "acrostiche"]
+tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Un an de plus"
 LastModifierDisplayName = "Barbara Post"
 +++

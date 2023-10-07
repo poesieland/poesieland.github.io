@@ -4,7 +4,7 @@ id = "si_tu_vois_14"
 date = 2000-08-29
 weight = 19
 categories = ["Foi"]
-tags = ["philosophie", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Si tu vois"
 LastModifierDisplayName = "Barbara Post"
 +++

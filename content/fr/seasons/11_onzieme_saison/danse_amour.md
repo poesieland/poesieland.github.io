@@ -4,7 +4,7 @@ id = "danse_amour_11"
 date = 1999-05-16
 weight = 11
 categories = ["Mouvement", "Romantisme"]
-tags = ["attitudes", "amour", "acrostiche"]
+tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "Danse, amour"
 LastModifierDisplayName = "Barbara Post"
 +++

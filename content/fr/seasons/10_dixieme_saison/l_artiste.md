@@ -4,7 +4,7 @@ id = "l_artiste_10"
 date = 1999-02-27
 weight = 44
 categories = ["Création", "Mouvement"]
-tags = ["philosophie", "attitudes", "acrostiche"]
+tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "L'artiste"
 LastModifierDisplayName = "Barbara Post"
 +++

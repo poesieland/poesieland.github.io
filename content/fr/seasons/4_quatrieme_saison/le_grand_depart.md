@@ -4,7 +4,7 @@ id = "le_grand_depart_4"
 date = 1997-09-13
 weight = 49
 categories = ["Animaux"]
-tags = ["nature"]
+tags = ["nature", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

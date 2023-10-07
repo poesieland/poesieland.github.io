@@ -4,7 +4,7 @@ id = "le_messager_1"
 date = 1995-04-02
 weight = 10
 categories = ["Espoir"]
-tags = ["philosophie"]
+tags = ["philosophie", "1995"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

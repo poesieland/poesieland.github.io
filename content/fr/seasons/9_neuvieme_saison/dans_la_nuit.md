@@ -4,7 +4,7 @@ id = "dans_la_nuit_9"
 date = 1998-12-21
 weight = 39
 categories = ["Nuit", "Temps"]
-tags = ["ombres et lumières", "philosophie", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Dans la nuit"
 LastModifierDisplayName = "Barbara Post"
 +++

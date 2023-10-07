@@ -4,7 +4,7 @@ id = "hivernales_5"
 date = 1998-02-01
 weight = 48
 categories = ["Hiver"]
-tags = ["saisons"]
+tags = ["saisons", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++
 
