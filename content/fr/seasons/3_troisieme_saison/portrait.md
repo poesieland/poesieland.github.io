@@ -3,8 +3,8 @@ title = "Portrait"
 id = "portrait_3"
 date = 1997-03-12
 weight = 18
-categories = ["Portraits"]
-tags = ["philosophie", "1997"]
+categories = ["Portraits", "Printemps"]
+tags = ["philosophie", "saisons", "1997"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

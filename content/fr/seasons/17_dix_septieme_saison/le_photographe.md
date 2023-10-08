@@ -1,11 +1,12 @@
 ---
-weight: 50
-title: Disparue
-id: disparue_17
-date: 2023-10-05
+weight: 48
+title: Le photographe
+id: le_photographe_17
+date: 2023-09-24
 divider: ""
 categories:
-  - Révolte
+    - Portraits
+    - Création
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,34 +43,37 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-  - acrostiche
-  - philosophie
-  - "2023"
+    - philosophie
+    - "2023"
 info: ""
 type: ""
-acrostiche: Disparue
+acrostiche: ""
 doubleAcrostiche: ""
-verseLength: 8
+verseLength: 0
 LastModifierDisplayName: Barbara Post
 ---
-Derrière toi, sans bruit, prends garde,
+Mon ami photographe
 
-Invisible l'homme regarde
+Tu racontes si bien
 
-Svelte, la fille à petits pas.
+Souvenir qu'on agraphe :
 
-Prédateur... Voici son repas.
+L'émotion vient !
 
-Ardente absence, elle se fige,
+ \
+Chance de ta présence
 
-Respire une douleur, vestige.
+Au bon moment : sujet
 
-Une famille a tout perdu,
+Grâcieux qui se lance,
 
-Et murmure un espoir ténu.
+Et capturé d'un jet !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
-{{% notice style="primary" %}}
-Acrostiche : Disparue
-{{% /notice %}}
-<!-- FM:Snippet:End -->
+ \
+Et d'autres jours prunelle
+
+Juge, soigne, refait,
+
+Puis de la ribambelle
+
+Un seul cadre parfait !

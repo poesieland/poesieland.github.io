@@ -1,11 +1,11 @@
 ---
-weight: 50
-title: Disparue
-id: disparue_17
-date: 2023-10-05
+weight: 46
+title: Mi-mai
+id: mi_mai_17
+date: 2023-05-11
 divider: ""
 categories:
-  - Révolte
+    - Printemps
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,34 +42,46 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-  - acrostiche
-  - philosophie
-  - "2023"
+    - "2023"
+    - saisons
 info: ""
 type: ""
-acrostiche: Disparue
+acrostiche: ""
 doubleAcrostiche: ""
-verseLength: 8
+verseLength: 6
 LastModifierDisplayName: Barbara Post
 ---
-Derrière toi, sans bruit, prends garde,
+Parce que tu revians
 
-Invisible l'homme regarde
+Avec un temps de pause
 
-Svelte, la fille à petits pas.
+Je découvre ces riens
 
-Prédateur... Voici son repas.
+A la nuée éclose :
 
-Ardente absence, elle se fige,
+ \
+Tout redevient plus doux
 
-Respire une douleur, vestige.
+En senteurs qui repoussent
 
-Une famille a tout perdu,
+Et quand il a plu, d'où
 
-Et murmure un espoir ténu.
+Chantent aussi les mousses ?
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
-{{% notice style="primary" %}}
-Acrostiche : Disparue
-{{% /notice %}}
-<!-- FM:Snippet:End -->
+ \
+Tout se pare plus beau
+
+Aux promesse d'ombrelles
+
+Croassait un corbeau
+
+A ses amours nouvelles.
+
+ \
+Parce qu'une saison
+
+A mon coeur toujours tendre
+
+Effleure un horizon :
+
+L'été peut bien attendre !

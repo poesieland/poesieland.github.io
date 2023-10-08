@@ -34,7 +34,8 @@
           "name": "date",
           "type": "datetime",
           "required": true,
-          "dateFormat": "yyyy-MM-dd"
+          "dateFormat": "yyyy-MM-dd",
+          "description": "Don't forget to add the year in tags"
         },
         {
           "name": "divider",
@@ -448,7 +449,7 @@
           "title": "Type",
           "name": "type",
           "type": "choice",
-          "description": "Don't forget to add the chosent type tag",
+          "description": "Don't forget to add the chosen type tag",
           "choices": [
             "",
             "sonnet",
@@ -557,6 +558,10 @@
     {
       "title": "17_dix_septieme_saison",
       "path": "[[workspace]]/content/fr/seasons/17_dix_septieme_saison"
+    },
+    {
+      "title": "18_dix_huitieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/18_dix_huitieme_saison"
     }
   ],
   "frontMatter.dashboard.content.card.fields.title": "title",

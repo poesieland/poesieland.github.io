@@ -1,8 +1,8 @@
 ---
-weight: 50
-title: Pantoun d'octobre
-id: pantoun_d_octobre_17
-date: 2023-10-07
+weight: 47
+title: Emotion d'automne
+id: emotion_d_automne_17
+date: 2023-08-30
 divider: ""
 categories:
     - Automne
@@ -42,65 +42,37 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - pantoun
-    - saisons
     - "2023"
+    - saisons
 info: ""
-type: pantoun
+type: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
 ---
-L'ombre est longue et mélancolique,
+Le revoici ! Blues automnal
 
-L'automne enfile son gilet.
+Tel un boa, rôde et capture
 
-Dans un climat dichotomique
+Le souffle lent de la nature,
 
-Je ne sais plus quelle heure il est.
-
- \
-L'automne enfile son gilet
-
-Tout en nuance fantastique,
-
-Je ne sais plus quelle heure il est,
-
-Le monde se meurt, dystopique.
+Et danse, à l'aigre chant vénal.
 
  \
-Tout en nuance fantastique
+Avant l'odeur, c'est la lumière
 
-Les feuilles dansent feu follet.
+Doucement différente au coeur,
 
-Le monde se meurt, dystopique,
+Dodelinant de son marqueur
 
-Un coeur ne sait, pris au collet.
-
- \
-Les feuilles dansent feu follet,
-
-Le vent déroule sa musique.
-
-Un coeur ne sait, pris au collet
-
-S'il abandonne jour épique.
+Un espace où viendra chimère.
 
  \
-Le vent déroule sa musique,
+Je voulais vaincre cet émoi
 
-Rire sorcière en son chalet,
+Mais il ondule et me submerge,
 
-S'il abandonne jour épique
+Puis entre un arbre et l'autre berge
 
-Le néant lance son filet.
-
- \
-Rire sorcière en son chalet,
-
-Octobre passe, magnifique.
-
-Le néant lance son filet,
-
-L'ombre est longue et mélancolique.
+L'automne pleure et rit de moi.

@@ -1,11 +1,12 @@
 ---
-weight: 50
-title: Disparue
-id: disparue_17
-date: 2023-10-05
+weight: 49
+title: Présent d'automne
+id: present_d_automne_17
+date: 2023-09-30
 divider: ""
 categories:
-  - Révolte
+    - Automne
+    - Enfance
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,34 +43,38 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-  - acrostiche
-  - philosophie
-  - "2023"
+    - "2023"
+    - saisons
+    - philosophie
 info: ""
 type: ""
-acrostiche: Disparue
+acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
 ---
-Derrière toi, sans bruit, prends garde,
+Et puis soudain l'automne est là,
 
-Invisible l'homme regarde
+Couleurs et brumes mélangées,
 
-Svelte, la fille à petits pas.
+L'enfant se réveilla, héla :
 
-Prédateur... Voici son repas.
+Feuilles, odeurs... pourquoi changées ?
 
-Ardente absence, elle se fige,
+ \
+Mon innocence a toujours cours
 
-Respire une douleur, vestige.
+Quand le rêve lance chamade,
 
-Une famille a tout perdu,
+L'ombre sur les jardions et cours
 
-Et murmure un espoir ténu.
+Chasse soleil d'une tirade.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
-{{% notice style="primary" %}}
-Acrostiche : Disparue
-{{% /notice %}}
-<!-- FM:Snippet:End -->
+ \
+C'est mon enfance et mon présent,
+
+C'est inépuisable, l'automne
+
+Transforme l'heure en la brisant
+
+D'un murmure doux qui chantonne.
