@@ -97,7 +97,7 @@ enableMissingTranslationPlaceholders = false
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
     name = "Chartjs"
-    location = "footer"
+    location = "header"
 
 [outputs]
 home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]

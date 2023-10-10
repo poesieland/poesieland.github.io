@@ -5,9 +5,8 @@
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
 {{- with $page }}
-<div>
-  <canvas id="{{ $id}}">
-  </canvas>
+<div style="width:{{ $width }}">
+  <canvas id="{{ $id }}"></canvas>
 </div>
 <script type="module" src="{{ $jsFile }}"></script>
 {{- .Store.Set "hasChartjs" true }}
