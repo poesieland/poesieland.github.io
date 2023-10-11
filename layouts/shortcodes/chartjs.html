@@ -1,0 +1,7 @@
+{{- partial "shortcodes/chartjs.html" (dict
+  "page" .Page
+  "content" .Inner
+  "width"   (.Get "width")
+  "id"   (.Get "id")
+  "jsFile"   (.Get "jsFile")
+) }}
