@@ -1,4 +1,11 @@
 +++
-title = "Graph"
+title = "Sample graphs"
+weight = 3
 +++
-{{< chartjs id="acquisitions" width="80%" jsFile="sample.js" />}}
+## Sample pie chart
+
+{{< chartjs id="samplePie" width="80%" jsFile="sample-pie.js" />}}
+
+## Sample bar chart
+
+{{< chartjs id="sampleBar" width="80%" jsFile="sample-bar.js" />}}
