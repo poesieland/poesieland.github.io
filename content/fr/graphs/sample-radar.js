@@ -1,4 +1,6 @@
 
+import { addRadarChart } from './add-chart.js'
+
 (async function () {
     const data = [
         { label: '1', value: 2 },
@@ -15,32 +17,5 @@
         { label: '12', value: 20 }
     ];
 
-    new Chart(
-        document.getElementById('sampleRadar'),
-        {
-            type: 'radar',
-            data: {
-                labels: data.map(row => row.label),
-                datasets: [
-                    {
-                        label: 'My chart',
-                        data: data.map(row => row.value),
-                        backgroundColor: 'rgba(54, 162, 235, 0.2)',
-                        borderColor: 'rgb(54, 162, 235)',
-                        pointBackgroundColor: 'rgb(54, 162, 235)',
-                        pointBorderColor: '#fff',
-                        pointHoverBackgroundColor: '#fff',
-                        pointHoverBorderColor: 'rgb(54, 162, 235)'
-                    }
-                ]
-            },
-            options: {
-                elements: {
-                  line: {
-                    borderWidth: 1
-                  }
-                }
-              }
-        }
-    );
+    addRadarChart('sampleRadar', 'My radar chart', data);
 })();
