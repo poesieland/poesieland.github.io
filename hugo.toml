@@ -146,6 +146,10 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/categories/"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fa fas fa-feather-pointed'></i> Poèmes écrits en anglais"
+            url = "/en/original_texts/"
+            weight = 55
+        [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
             url = "/more/credits/"
             weight = 60
