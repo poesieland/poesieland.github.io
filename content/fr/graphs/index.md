@@ -9,3 +9,7 @@ weight = 3
 ## Sample bar chart
 
 {{< chartjs id="sampleBar" width="80%" jsFile="sample-bar.js" />}}
+
+## Sample radar chart
+
+{{< chartjs id="sampleRadar" width="80%" jsFile="sample-radar.js" />}}

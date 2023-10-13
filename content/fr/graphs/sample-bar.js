@@ -21,7 +21,7 @@
         options: {
           datasets: {
             bar: {
-              backgroundColor: 'rgb(75, 192, 192, 0.2)'
+              backgroundColor: 'rgba(54, 162, 235, 0.2)'
             }
           }
         }
