@@ -4,6 +4,8 @@ Les poèmes de 2005 à 2022 sont en cours d'ajout.
 
 **Derniers ajouts 2023:**
 
+[Bataille, écrit le 16.10.2023](/seasons/18_dix_huitieme_saison/bataille/)
+
 [Sérénité, écrit le 13.10.2023](/seasons/18_dix_huitieme_saison/serenite/)
 
 [Aube féérique, écrit le 11.10.2023](/seasons/18_dix_huitieme_saison/aube_feerique/)
@@ -12,9 +14,9 @@ Les poèmes de 2005 à 2022 sont en cours d'ajout.
 
 [Pantoun d'octobre, écrit le 07.10.2023](/seasons/18_dix_huitieme_saison/pantoun_d_octobre/)
 
-[Disparue, écrit le 05.10.2023](/seasons/17_dix_septieme_saison/disparue/)
-
 **Derniers ajouts 2004/2005 :**
+
+[Lundi matin, écrit le 14.02.2005](/seasons/17_dix_septieme_saison/lundi_matin/)
 
 [Hiver en ville, écrit le 31.01.2005](/seasons/17_dix_septieme_saison/hiver_en_ville/)
 
@@ -23,5 +25,3 @@ Les poèmes de 2005 à 2022 sont en cours d'ajout.
 [Neige, écrit le 24.01.2005](/seasons/17_dix_septieme_saison/neige/)
 
 [Givre, écrit le 04.01.2005](/seasons/17_dix_septieme_saison/givre/)
-
-[Perte d'enfance, écrit le 21.12.2004](/seasons/17_dix_septieme_saison/perte_d_enfance/)
