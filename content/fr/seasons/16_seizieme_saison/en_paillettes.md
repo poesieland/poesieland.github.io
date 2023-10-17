@@ -3,17 +3,26 @@ title = "En paillettes"
 id = "en_paillettes_16"
 date = 2002-11-03
 weight = 6
-categories = ["Aimé (amant)"]
+categories = ["Aimé (amant)", "Amour malheureux"]
 tags = ["amour", "2002", "acrostiche"]
 acrostiche = "En paillettes"
 LastModifierDisplayName = "Barbara Post"
 +++
 
+En paillettes de verre, éclats de carrelage
+
+Nacrés au coeur d'azur, je vois mon songe amer.
+
+Poussés par un vent pâle en ombres sur la plage,
+
+Ardents, charbons de mots noyés jusqu'à la mer.
+
+ \
 Ivresse de douleurs, et je prie, ô je prie
 
 L'aimé de pardonner le mal en moi, qui part,
 
-L'inconscience folle, ô je t'aime, m'écrie.
+L'inconscience folle... ô je t'aime, m'écrie.
 
 Et le vent de novembre effacera, rempart,
 
