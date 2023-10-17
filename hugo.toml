@@ -117,6 +117,10 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/en/categories/"
             weight = 50
         [[Languages.en.menu.shortcuts]]
+            name = "<i class='fa fas fa-feather-pointed'></i> My French poems"
+            url = "../fr/"
+            weight = 55
+        [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
             url = "/en/more/credits/"
             weight = 60
@@ -146,8 +150,8 @@ page = ["HTML", "RSS", "PRINT"]
             url = "/categories/"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fa fas fa-feather-pointed'></i> Poèmes écrits en anglais"
-            url = "/en/original_texts/"
+            name = "<i class='fa fas fa-feather-pointed'></i> Mes poèmes anglophones"
+            url = "../en/"
             weight = 55
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"

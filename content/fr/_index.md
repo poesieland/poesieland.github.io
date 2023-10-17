@@ -1,6 +1,6 @@
 +++
 title = "Poésieland"
-date = 2023-10-07
+archetype = "home"
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](/seasons).
