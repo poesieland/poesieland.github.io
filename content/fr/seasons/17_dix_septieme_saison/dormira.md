@@ -46,6 +46,7 @@ ensureTagSaisons4: ""
 tags:
     - philosophie
     - saisons
+    - "2004"
 info: ""
 type: ""
 acrostiche: ""

@@ -42,8 +42,8 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - "2023"
     - philosophie
+    - "2005"
 info: ""
 type: ""
 acrostiche: ""

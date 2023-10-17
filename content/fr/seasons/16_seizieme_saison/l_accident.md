@@ -45,6 +45,7 @@ ensureTagSaisons4: ""
 tags:
     - nature
     - philosophie
+    - "2004"
 info: ""
 type: sonnet
 acrostiche: ""

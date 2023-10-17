@@ -43,6 +43,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
   - amour
+  - "2004"
 info: ""
 type: ""
 acrostiche: ""

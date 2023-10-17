@@ -46,6 +46,7 @@ ensureTagSaisons4: ""
 tags:
     - nature
     - saisons
+    - "2004"
 info: ""
 type: ""
 acrostiche: ""

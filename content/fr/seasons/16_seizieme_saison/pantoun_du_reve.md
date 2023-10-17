@@ -42,9 +42,11 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
+  - pantoun
   - philosophie
+  - "2004"
 info: ""
-type: pantoum
+type: pantoun
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

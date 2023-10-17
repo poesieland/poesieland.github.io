@@ -44,9 +44,10 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
+  - nature
   - ombres et lumières
   - saisons
-  - nature
+  - "2004"
 info: ""
 type: ""
 acrostiche: ""

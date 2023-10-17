@@ -43,8 +43,9 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - saisons
     - ombres et lumières
+    - saisons
+    - "2004"
 info: ""
 type: ""
 acrostiche: ""

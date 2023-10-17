@@ -46,6 +46,7 @@ tags:
     - "2023"
     - amour
     - nature
+    - pantoun
 info: ""
 type: pantoun
 acrostiche: ""
