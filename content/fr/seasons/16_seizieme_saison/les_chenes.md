@@ -44,9 +44,10 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
+  - doubleAcrostiche
   - nature
   - philosophie
-  - doubleAcrostiche
+  - "2004"
 info: ""
 type: ""
 acrostiche: ""

@@ -44,6 +44,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
   - philosophie
+  - "2004"
 info: Les états d'âme d'une catherinette
 type: ""
 acrostiche: ""
