@@ -1,56 +1,14 @@
----
-weight: 3
-title: Aube féérique
-id: aube_feerique_18
-date: 2023-10-11
-divider: ""
-categories:
-    - Aube
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2023"
-    - ombres et lumières
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Aube féérique"
+id = "aube_feerique_18"
+date = 2023-10-11
+weight = 1
+categories = ["Aube"]
+tags = ["ombres et lumières", "2023"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Encore un jour qui m'éblouit
 
 De rose, de miel et d'ambre,

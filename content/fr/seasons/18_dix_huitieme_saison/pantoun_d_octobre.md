@@ -1,57 +1,15 @@
----
-weight: 1
-title: Pantoun d'octobre
-id: pantoun_d_octobre_18
-date: 2023-10-07
-divider: ""
-categories:
-    - Automne
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - pantoun
-    - saisons
-    - "2023"
-info: ""
-type: pantoun
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Pantoun d'octobre"
+id = "pantoun_d_octobre_18"
+date = 2023-10-07
+weight = 4
+categories = ["Automne"]
+tags = ["saisons", "2023", "pantoun"]
+type = "pantoun"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 L'ombre est longue et mélancolique,
 
 L'automne enfile son gilet.

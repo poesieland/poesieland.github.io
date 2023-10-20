@@ -4,7 +4,7 @@ id = "hommage_3"
 date = 1997-03-07
 weight = 21
 categories = ["Portraits", "Apprentissage"]
-tags = ["philosophie", "philosophie", "1997"]
+tags = ["philosophie", "1997"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

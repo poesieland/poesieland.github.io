@@ -4,7 +4,7 @@ id = "sur_la_ville_13"
 date = 1999-10-15
 weight = 26
 categories = ["Ville", "Nuit"]
-tags = ["ombres et lumières", "ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Sur la ville"
 LastModifierDisplayName = "Barbara Post"
 +++

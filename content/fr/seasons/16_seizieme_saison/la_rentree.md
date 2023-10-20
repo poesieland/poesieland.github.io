@@ -1,59 +1,14 @@
----
-weight: 43
-title: La rentrée
-id: la_rentree_16
-date: 2004-08-18
-divider: ""
-categories:
-  - Enfance
-  - Temps
-  - Automne
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-  - philosophie
-  - saisons
-  - "2004"
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "La rentrée"
+id = "la_rentree_16"
+date = 2004-08-18
+weight = 40
+categories = ["Enfance", "Temps", "Automne"]
+tags = ["philosophie", "saisons", "2004"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Bientôt le jour des écoliers :
 
 Les rires, peines, les cartables.

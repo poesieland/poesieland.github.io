@@ -4,7 +4,7 @@ id = "nos_nuits_15"
 date = 2001-10-03
 weight = 40
 categories = ["Ville", "Nuit", "Espoir"]
-tags = ["ombres et lumières", "ombres et lumières", "philosophie", "2001", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Nos nuits"
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -1,56 +1,14 @@
----
-weight: 4
-title: Sérénité
-id: serenite_18
-date: 2023-10-13
-divider: ""
-categories:
-    - Temps
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - philosophie
-    - "2023"
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 6
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sérénité"
+id = "serenite_18"
+date = 2023-10-13
+weight = 5
+categories = ["Temps"]
+tags = ["philosophie", "2023"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Quand j'avais la vingtaine
 
 Je rêvais d'absolu

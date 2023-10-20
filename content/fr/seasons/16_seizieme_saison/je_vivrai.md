@@ -1,57 +1,15 @@
----
-title: Je vivrai
-id: je_vivrai_16
-date: 2004-05-26
-weight: 33
-divider: ""
-categories:
-  - Temps
-  - Espoir
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-  - philosophie
-  - "2004"
-info: Les états d'âme d'une catherinette
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 6
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Je vivrai"
+id = "je_vivrai_16"
+date = 2004-05-26
+weight = 39
+categories = ["Temps", "Espoir"]
+tags = ["philosophie", "2004"]
+info = "Les états d'âme d'une catherinette"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Futurs anniversaires,
 
 Je ne veux vous fêter !
@@ -88,7 +46,7 @@ De moi le temps n'a prise
 Sur l'esprit du bonheur.
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Les états d'âme d'une catherinette"}]} -->
+
 {{% notice style="primary" %}}
 Les états d'âme d'une catherinette
 {{% /notice %}}
-<!-- FM:Snippet:End -->

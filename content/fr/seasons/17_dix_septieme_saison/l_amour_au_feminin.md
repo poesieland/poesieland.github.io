@@ -1,56 +1,14 @@
----
-weight: 12
-title: L'amour au féminin
-id: l_amour_au_feminin_17
-date: 2005-01-25
-divider: ""
-categories:
-    - Espoir
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - philosophie
-    - "2005"
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 6
-LastModifierDisplayName: Barbara Post
----
++++
+title = "L'amour au féminin"
+id = "l_amour_au_feminin_17"
+date = 2005-01-25
+weight = 12
+categories = ["Espoir"]
+tags = ["philosophie", "2005"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Tout l'amour d'une mère
 
 Je l'entends dans ta voix,

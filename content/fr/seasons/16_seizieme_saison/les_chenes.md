@@ -1,60 +1,15 @@
----
-title: Les chênes
-id: les_chenes_16
-date: 2004-05-26
-weight: 32
-divider: ""
-categories:
-  - Jardin, paysage
-  - Temps
-  - Flore
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-  - doubleAcrostiche
-  - nature
-  - philosophie
-  - "2004"
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: Chênes | destin
-verseLength: 7
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Les chênes"
+id = "les_chenes_16"
+date = 2004-05-26
+weight = 42
+categories = ["Jardin, paysage", "Flore", "Temps"]
+tags = ["nature", "philosophie", "2004", "doubleAcrostiche"]
+doubleAcrostiche = "Chênes | destin"
+verseLength = 7
+LastModifierDisplayName = "Barbara Post"
++++
+
 Chênes verts comme nos vies
 
 Dressez secrète rondeur
@@ -80,7 +35,7 @@ Souffle léger berce image,
 Noie éther, espoir, d'un ton.
 
 <!-- FM:Snippet:Start data:{"id":"simpleNotice","fields":[{"name":"content","value":"Acrostiche double : Chênes - destin"}]} -->
+
 {{% notice style="primary" %}}
 Acrostiche double (lignes paires et impaires) : Chênes / destin
 {{% /notice %}}
-<!-- FM:Snippet:End -->

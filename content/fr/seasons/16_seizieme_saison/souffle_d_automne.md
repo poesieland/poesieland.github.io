@@ -1,62 +1,14 @@
----
-weight: 46
-title: Souffle d'automne
-id: souffle_d_automne_16
-date: 2004-08-24
-divider: ""
-categories:
-  - Aube
-  - Etre
-  - Jardin, paysage
-  - Automne
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-  - nature
-  - ombres et lumières
-  - philosophie
-  - saisons
-  - "2004"
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 12
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Souffle d'automne"
+id = "souffle_d_automne_16"
+date = 2004-08-24
+weight = 49
+categories = ["Aube", "Etre", "Jardin, paysage", "Automne"]
+tags = ["ombres et lumières", "philosophie", "nature", "saisons", "2004"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sur le bleu presque noir de mes matins d'automne
 
 Je dévore le rêve et l'art d'un jour naissant :
