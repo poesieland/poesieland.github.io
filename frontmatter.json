@@ -35,7 +35,7 @@
           "type": "datetime",
           "required": true,
           "dateFormat": "yyyy-MM-dd",
-          "description": "Don't forget to add the year in tags"
+          "description": "Don't forget to add the writing year in tags"
         },
         {
           "name": "divider",
@@ -434,7 +434,8 @@
         {
           "title": "Tags",
           "name": "tags",
-          "type": "tags"
+          "type": "tags",
+          "description": "Don't forget to add the writing year in tags"
         },
         {
           "name": "divider",

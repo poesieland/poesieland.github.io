@@ -2,7 +2,7 @@
 title = "Elévation"
 id = "elevation_16"
 date = 2004-05-19
-weight = 36
+weight = 31
 categories = ["Foi"]
 tags = ["philosophie", "2004"]
 verseLength = 6

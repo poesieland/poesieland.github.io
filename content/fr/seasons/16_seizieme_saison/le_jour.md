@@ -2,7 +2,7 @@
 title = "Le jour"
 id = "le_jour_16"
 date = 2004-10-04
-weight = 43
+weight = 48
 categories = ["Aube", "Etre", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2004"]
 verseLength = 8

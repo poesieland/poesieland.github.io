@@ -2,7 +2,7 @@
 title = "La rentrée"
 id = "la_rentree_16"
 date = 2004-08-18
-weight = 40
+weight = 43
 categories = ["Enfance", "Temps", "Automne"]
 tags = ["philosophie", "saisons", "2004"]
 verseLength = 8

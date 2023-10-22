@@ -2,12 +2,12 @@
 title = "Ode à l'amour"
 id = "ode_a_l_amour_18"
 date = 2023-10-10
-weight = 3
-categories = ["Romantisme"]
-tags = ["amour", "2023", "acrostiche"]
+categories = [ "Romantisme" ]
+tags = [ "amour", "2023", "acrostiche" ]
 acrostiche = "L'amor ti vieta"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+weight = 2
 +++
 
 L'amour ne t'interdit que de ne pas aimer,

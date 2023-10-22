@@ -2,7 +2,7 @@
 title = "Pantoun du rêve"
 id = "pantoun_du_reve_16"
 date = 2004-10-12
-weight = 46
+weight = 50
 categories = ["Temps"]
 tags = ["philosophie", "2004", "pantoun"]
 type = "pantoun"

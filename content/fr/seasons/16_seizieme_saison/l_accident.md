@@ -2,7 +2,7 @@
 title = "L'accident"
 id = "l_accident_16"
 date = 2004-10-11
-weight = 44
+weight = 49
 categories = ["Animaux", "Révolte"]
 tags = ["nature", "philosophie", "2004", "sonnet"]
 type = "sonnet"

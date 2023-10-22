@@ -2,7 +2,7 @@
 title = "Souffle d'automne"
 id = "souffle_d_automne_16"
 date = 2004-08-24
-weight = 49
+weight = 46
 categories = ["Aube", "Etre", "Jardin, paysage", "Automne"]
 tags = ["ombres et lumières", "philosophie", "nature", "saisons", "2004"]
 verseLength = 12

@@ -2,7 +2,7 @@
 title = "Dernier voyage"
 id = "dernier_voyage_16"
 date = 2004-07-02
-weight = 35
+weight = 40
 categories = ["Etre"]
 tags = ["philosophie", "2004"]
 verseLength = 0

@@ -2,7 +2,7 @@
 title = "Air de nuit"
 id = "air_de_nuit_17"
 date = 2004-11-02
-weight = 1
+weight = 4
 categories = ["Apprentissage", "Nuit", "Crépuscule"]
 tags = ["philosophie", "ombres et lumières", "2004"]
 verseLength = 6

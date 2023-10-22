@@ -2,7 +2,7 @@
 title = "Foi du poète"
 id = "foi_du_poete_17"
 date = 2004-10-26
-weight = 6
+weight = 2
 categories = ["Espoir", "Création"]
 tags = ["philosophie", "2004"]
 verseLength = 7

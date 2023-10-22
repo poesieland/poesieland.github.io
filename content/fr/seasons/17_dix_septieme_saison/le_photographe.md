@@ -2,7 +2,7 @@
 title = "Le photographe"
 id = "le_photographe_17"
 date = 2023-09-24
-weight = 10
+weight = 48
 categories = ["Portraits", "Création"]
 tags = ["philosophie", "2023"]
 verseLength = 0

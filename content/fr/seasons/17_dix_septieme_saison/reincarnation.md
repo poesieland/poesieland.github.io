@@ -2,7 +2,7 @@
 title = "Réincarnation"
 id = "reincarnation_17"
 date = 2004-11-07
-weight = 17
+weight = 5
 categories = ["Espoir", "Foi"]
 tags = ["philosophie", "2004"]
 verseLength = 10

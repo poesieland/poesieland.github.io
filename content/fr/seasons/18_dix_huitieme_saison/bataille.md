@@ -2,7 +2,7 @@
 title = "Bataille"
 id = "bataille_18"
 date = 2023-10-16
-weight = 2
+weight = 5
 categories = ["Romantisme", "Animaux"]
 tags = ["amour", "nature", "2023", "pantoun"]
 type = "pantoun"

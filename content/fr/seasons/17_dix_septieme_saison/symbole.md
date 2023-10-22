@@ -2,7 +2,7 @@
 title = "Symbole"
 id = "symbole_17"
 date = 2004-10-25
-weight = 19
+weight = 1
 categories = ["Nuit", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2004"]
 verseLength = 6

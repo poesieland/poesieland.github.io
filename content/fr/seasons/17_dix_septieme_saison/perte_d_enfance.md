@@ -2,7 +2,7 @@
 title = "Perte d'enfance"
 id = "perte_d_enfance_17"
 date = 2004-12-21
-weight = 15
+weight = 9
 categories = ["Enfance", "Apprentissage"]
 tags = ["philosophie", "2004"]
 verseLength = 8

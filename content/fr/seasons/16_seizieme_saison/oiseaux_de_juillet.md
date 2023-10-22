@@ -2,7 +2,7 @@
 title = "Oiseaux de juillet"
 id = "oiseaux_de_juillet_16"
 date = 2004-07-16
-weight = 45
+weight = 41
 categories = ["Animaux", "Eté"]
 tags = ["nature", "saisons", "2004"]
 verseLength = 8

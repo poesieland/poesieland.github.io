@@ -2,7 +2,7 @@
 title = "Solstice d'hiver"
 id = "solstice_d_hiver_17"
 date = 2004-12-20
-weight = 18
+weight = 8
 categories = ["Hiver", "Crépuscule"]
 tags = ["saisons", "ombres et lumières", "2004"]
 verseLength = 12

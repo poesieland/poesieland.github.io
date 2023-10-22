@@ -2,7 +2,7 @@
 title = "Sérénité"
 id = "serenite_18"
 date = 2023-10-13
-weight = 5
+weight = 4
 categories = ["Temps"]
 tags = ["philosophie", "2023"]
 verseLength = 6

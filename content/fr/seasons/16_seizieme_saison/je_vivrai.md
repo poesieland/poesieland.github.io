@@ -2,7 +2,7 @@
 title = "Je vivrai"
 id = "je_vivrai_16"
 date = 2004-05-26
-weight = 39
+weight = 33
 categories = ["Temps", "Espoir"]
 tags = ["philosophie", "2004"]
 info = "Les états d'âme d'une catherinette"

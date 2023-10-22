@@ -2,7 +2,7 @@
 title = "Images d'hiver"
 id = "images_d_hiver_17"
 date = 2004-11-23
-weight = 9
+weight = 6
 categories = ["Hiver", "Neige", "Jardin, paysage"]
 tags = ["saisons", "nature", "2004"]
 verseLength = 8

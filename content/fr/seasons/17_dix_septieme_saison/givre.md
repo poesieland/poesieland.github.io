@@ -5,7 +5,7 @@ date = 2005-01-04
 weight = 7
 categories = ["Hiver"]
 tags = ["saisons", "2005"]
-verseLength = 12
+verseLength = 10
 LastModifierDisplayName = "Barbara Post"
 +++
 

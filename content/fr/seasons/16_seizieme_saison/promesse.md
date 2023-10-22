@@ -2,7 +2,7 @@
 title = "Promesse"
 id = "promesse_16"
 date = 2004-06-07
-weight = 48
+weight = 37
 categories = ["Romantisme"]
 tags = ["amour", "2004"]
 verseLength = 7

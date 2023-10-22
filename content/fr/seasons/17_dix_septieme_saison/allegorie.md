@@ -2,7 +2,7 @@
 title = "Allégorie"
 id = "allegorie_17"
 date = 2004-12-14
-weight = 2
+weight = 7
 categories = ["Aube", "Foi"]
 tags = ["ombres et lumières", "philosophie", "2004", "acrostiche"]
 acrostiche = "Aube d'un coeur"

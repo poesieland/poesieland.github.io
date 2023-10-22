@@ -2,7 +2,7 @@
 title = "Les chênes"
 id = "les_chenes_16"
 date = 2004-05-26
-weight = 42
+weight = 32
 categories = ["Jardin, paysage", "Flore", "Temps"]
 tags = ["nature", "philosophie", "2004", "doubleAcrostiche"]
 doubleAcrostiche = "Chênes | destin"

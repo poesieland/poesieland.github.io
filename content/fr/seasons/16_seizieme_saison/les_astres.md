@@ -2,7 +2,7 @@
 title = "Les astres"
 id = "les_astres_16"
 date = 2004-06-08
-weight = 41
+weight = 38
 categories = ["Ciel"]
 tags = ["nature", "2004"]
 verseLength = 9

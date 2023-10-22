@@ -2,7 +2,7 @@
 title = "Traces d'automne"
 id = "traces_d_automne_16"
 date = 2004-09-29
-weight = 31
+weight = 47
 categories = ["Automne", "Nuit", "Temps", "Etre"]
 tags = ["saisons", "ombres et lumières", "philosophie", "2004"]
 verseLength = 5

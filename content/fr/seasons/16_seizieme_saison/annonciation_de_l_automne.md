@@ -2,7 +2,7 @@
 title = "Annonciation de l'automne"
 id = "annonciation_de_l_automne_16"
 date = 2004-08-17
-weight = 33
+weight = 44
 categories = ["Aube", "Automne", "Jardin, paysage"]
 tags = ["ombres et lumières", "saisons", "nature", "2004"]
 verseLength = 7

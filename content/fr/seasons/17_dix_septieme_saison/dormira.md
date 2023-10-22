@@ -2,7 +2,7 @@
 title = "Dormira"
 id = "dormira_17"
 date = 2004-10-29
-weight = 4
+weight = 3
 categories = ["Automne", "Hiver", "Espoir"]
 tags = ["saisons", "philosophie", "2004"]
 verseLength = 8
