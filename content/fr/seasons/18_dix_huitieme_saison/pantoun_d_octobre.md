@@ -2,12 +2,12 @@
 title = "Pantoun d'octobre"
 id = "pantoun_d_octobre_18"
 date = 2023-10-07
-categories = [ "Automne" ]
-tags = [ "saisons", "2023", "pantoun" ]
+weight = 1
+categories = ["Automne"]
+tags = ["saisons", "2023", "pantoun"]
 type = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
-weight = 1
 +++
 
 L'ombre est longue et mélancolique,

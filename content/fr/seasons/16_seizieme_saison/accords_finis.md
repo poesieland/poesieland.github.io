@@ -3,8 +3,8 @@ title = "Accords finis"
 id = "accords_finis_16"
 date = 2004-06-01
 weight = 36
-categories = [ "Création" ]
-tags = [ "philosophie", "2004" ]
+categories = ["Création"]
+tags = ["philosophie", "2004"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

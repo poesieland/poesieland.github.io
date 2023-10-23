@@ -36,8 +36,6 @@ Un vieil homme prie, il berce
 
 Rêves immortels en toi.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Aube d'un coeur"}]} -->
-
 {{% notice style="primary" %}}
 Acrostiche : Aube d'un coeur
 {{% /notice %}}

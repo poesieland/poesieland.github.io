@@ -2,12 +2,12 @@
 title = "Ode à l'amour"
 id = "ode_a_l_amour_18"
 date = 2023-10-10
-categories = [ "Romantisme" ]
-tags = [ "amour", "2023", "acrostiche" ]
+weight = 2
+categories = ["Romantisme"]
+tags = ["amour", "2023", "acrostiche"]
 acrostiche = "L'amor ti vieta"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
-weight = 2
 +++
 
 L'amour ne t'interdit que de ne pas aimer,
@@ -35,8 +35,6 @@ En notre vie abonde une quête éternelle,
 Transcendant chaque mot de notre ritournelle
 
 A nous d'un glorieux lendemain résolu.
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : l'amor ti vieta"}]} -->
 
 {{% notice style="primary" %}}
 Acrostiche : L'amor ti vieta

@@ -2,7 +2,7 @@
 title = "Par omission"
 id = "par_omission_16"
 date = 2004-08-10
-weight = 47
+weight = 42
 categories = ["Automne", "Eté", "Temps"]
 tags = ["saisons", "philosophie", "2004"]
 verseLength = 6

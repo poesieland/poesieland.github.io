@@ -2,7 +2,7 @@
 title = "Givre"
 id = "givre_17"
 date = 2005-01-04
-weight = 7
+weight = 10
 categories = ["Hiver"]
 tags = ["saisons", "2005"]
 verseLength = 10

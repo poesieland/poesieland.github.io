@@ -34,5 +34,3 @@ Un vague paradis de troncs tordus et d'affres.
  Emmène un voyageur ; il ne revient demain.
 
  Une branche balance, insensible, sa quête.
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Un regret mis en poème"}]} -->
