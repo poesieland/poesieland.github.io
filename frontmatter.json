@@ -563,6 +563,10 @@
     {
       "title": "18_dix_huitieme_saison",
       "path": "[[workspace]]/content/fr/seasons/18_dix_huitieme_saison"
+    },
+    {
+      "title": "en_original_texts",
+      "path": "[[workspace]]/content/en/original_texts"
     }
   ],
   "frontMatter.dashboard.content.card.fields.title": "title",

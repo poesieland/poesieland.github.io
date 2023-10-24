@@ -3,10 +3,11 @@ title = "Un chapelet"
 id = "un_chapelet_8"
 date = 1998-07-23
 weight = 11
-categories = ["Divers"]
-tags = ["philosophie", "1998", "acrostiche"]
+categories = [ "Musique, chant" ]
+tags = [ "1998", "acrostiche", "attitudes" ]
 acrostiche = "Un chapelet"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Un chapelet de verre en toi pour moi
