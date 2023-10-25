@@ -1,6 +1,7 @@
 +++
 title = "Sample graphs"
-weight = 3
+weight = 100
+draft = true
 +++
 ## Sample pie chart
 
