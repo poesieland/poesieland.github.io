@@ -1,0 +1,12 @@
+{{- $content := .content }}
+{{- $page := .page }}
+{{- $width := .width | default "80%" }}
+{{- $id := .id | default "mychart" }}
+{{- $jsFile := .jsFile | default "myJsfile" }}
+{{- with $page }}
+<div style="width:{{ $width }}">
+  <canvas id="{{ $id }}"></canvas>
+</div>
+<script type="module" src="{{ $jsFile }}"></script>
+{{- .Store.Set "hasChartjs" true }}
+{{- end }}

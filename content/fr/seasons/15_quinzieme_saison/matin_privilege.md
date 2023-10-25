@@ -8,7 +8,17 @@ tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Matin privilège"
 LastModifierDisplayName = "Barbara Post"
 +++
+Marcher dans le matin, sonore
 
+Allure, un frais soleil honore
+
+Tiges et feuilles froissées d'or ;
+
+Irisée, une nuit s'endort,
+
+Nuptial est ce matin de grâce.
+
+ \
 Perles de sourires, la race
 
 Rieuse, humaine, vit d'instants.

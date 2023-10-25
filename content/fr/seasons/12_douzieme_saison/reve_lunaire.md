@@ -5,7 +5,6 @@ date = 1999-05-28
 weight = 36
 categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
-acrostiche = "A la lumière de la lune"
 LastModifierDisplayName = "Barbara Post"
 +++
 
@@ -19,9 +18,7 @@ Larme douce, la nuit, je ris.
 
 Un mirage : surnaturelle
 
-Maison, le ciel te fit si belle,
-
-Illuminée, ô l'éternelle
+Maison, le ciel te fit si belle.
 
 Rêveuse, étreins sur le lavoir
 
@@ -35,14 +32,10 @@ Livrer son chant, sa peur, sa fin ?
 
 A son appel, astre-couffin
 
-Libère-le de ses douleurs !
+Ensorcelle, lune magique,
 
-Une berceuse sans couleurs
+Naîs quand ton accent romantique
 
-Naît quand ton accent romantique
+Le libère de ses douleurs
 
-Ensorcelle, lune magique.
-
-{{% notice style="primary" %}}
-Acrostiche : A la lumière de la lune
-{{% /notice %}}
+D'une berceuse sans couleurs.

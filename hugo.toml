@@ -94,6 +94,11 @@ externalLinkTarget = "_blank"
 themeVariantAuto = [ "relearn-light", "relearn-dark" ]
 enableMissingTranslationPlaceholders = false
 
+[params.relearn.dependencies]
+  [params.relearn.dependencies.chartjs]
+    name = "Chartjs"
+    location = "header"
+
 [outputs]
 home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
 section = ["HTML", "RSS"]
