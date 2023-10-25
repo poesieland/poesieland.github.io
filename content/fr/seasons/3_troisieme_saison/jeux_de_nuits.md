@@ -6,7 +6,7 @@ weight = 8
 categories = ["Nuit", "Lune"]
 tags = ["ombres et lumières", "1997"]
 info = "Vers variable : 8, 6, 4, 2"
-verseLength = 8, 6, 4, 2
+verseLength = -1
 LastModifierDisplayName = "Barbara Post"
 +++
 

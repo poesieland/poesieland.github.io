@@ -6,7 +6,7 @@ weight = 19
 categories = ["Temps", "Amitié"]
 tags = ["philosophie", "amour", "1997"]
 info = "Vers variable : 8, 5"
-verseLength = 8, 5
+verseLength = -1
 LastModifierDisplayName = "Barbara Post"
 +++
 

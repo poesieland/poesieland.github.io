@@ -474,9 +474,10 @@
           "name": "verseLength",
           "type": "number",
           "required": false,
-          "min": 0,
+          "min": -1,
           "max": 14,
-          "step": 1
+          "step": 1,
+          "description": "Put -1 here when variable length and add 'Vers variable : ' + comma-separated values in info. Repeat info in notice."
         },
         {
           "title": "LastModifierDisplayName",
