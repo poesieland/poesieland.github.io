@@ -5,7 +5,8 @@ date = 1997-05-02
 weight = 19
 categories = ["Temps", "Amitié"]
 tags = ["philosophie", "amour", "1997"]
-verseLength = 8
+info = "Vers variable : 8, 5"
+verseLength = 8, 5
 LastModifierDisplayName = "Barbara Post"
 +++
 
@@ -52,3 +53,7 @@ Un ultime songe,
 Et ta tendresse fait surseoir
 
 Le temps qui nous ronge...
+
+{{% notice style="primary" %}}
+Vers variable : 8, 5
+{{% /notice %}}
