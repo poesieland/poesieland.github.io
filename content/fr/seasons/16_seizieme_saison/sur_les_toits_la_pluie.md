@@ -1,56 +1,15 @@
----
-title: Sur les toits la pluie
-id: sur_les_toits_la_pluie_16
-date: 2004-05-31
-weight: 35
-divider: ""
-categories:
-  - Eau douce
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-  - acrostiche
-  - nature
-info: ""
-type: ""
-acrostiche: Sur les toits la pluie
-doubleAcrostiche: ""
-verseLength: 6
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sur les toits la pluie"
+id = "sur_les_toits_la_pluie_16"
+date = 2004-05-31
+weight = 35
+categories = ["Eau douce"]
+tags = ["nature", "2004", "acrostiche"]
+acrostiche = "Sur les toits la pluie"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sur les toits l'onde grise
 
 Ultime ondée éprise,
@@ -86,3 +45,7 @@ Unis ciel, âme dans
 Incrustations de gouttes.
 
 Eternités se voûtent.
+
+{{% notice style="primary" %}}
+Acrostiche : Sur les toits la pluie
+{{% /notice %}}

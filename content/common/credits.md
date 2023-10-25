@@ -4,7 +4,7 @@ Special thanks to [Xarkam](https://github.com/Xarkam/) for contributing to this 
 
 ## Theme used
 
-[Hugo Theme Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html)
+[Hugo Theme Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html). Special thanks to [McShelby](https://github.com/McShelby/) for maintaining and improving this project.
 
 ## Packages and Libraries
 

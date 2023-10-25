@@ -4,7 +4,7 @@ id = "marcher_vers_la_vie_9"
 date = 1998-11-10
 weight = 14
 categories = ["Espoir", "Foi"]
-tags = ["philosophie", "philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Marcher vers la vie"
 LastModifierDisplayName = "Barbara Post"
 +++

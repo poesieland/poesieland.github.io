@@ -5,7 +5,8 @@ date = 1997-03-16
 weight = 8
 categories = ["Nuit", "Lune"]
 tags = ["ombres et lumières", "1997"]
-verseLength = 8
+info = "Vers variable : 8, 6, 4, 2"
+verseLength = 8, 6, 4, 2
 LastModifierDisplayName = "Barbara Post"
 +++
 
@@ -34,3 +35,7 @@ D'un long galop qui tremble
 Qui me ressemble
 
 S'enfuit.
+
+{{% notice style="primary" %}}
+Vers variable : 8, 6, 4, 2
+{{% /notice %}}

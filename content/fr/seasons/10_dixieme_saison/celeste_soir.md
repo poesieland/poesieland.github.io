@@ -4,7 +4,7 @@ id = "celeste_soir_10"
 date = 1999-02-21
 weight = 29
 categories = ["Crépuscule", "Ville"]
-tags = ["ombres et lumières", "ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel du soir"
 LastModifierDisplayName = "Barbara Post"
 +++

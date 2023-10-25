@@ -4,7 +4,7 @@ id = "nuit_d_aout_15"
 date = 2001-08-26
 weight = 25
 categories = ["Eté", "Ville", "Nuit"]
-tags = ["saisons", "ombres et lumières", "ombres et lumières", "2001"]
+tags = ["saisons", "ombres et lumières", "2001"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

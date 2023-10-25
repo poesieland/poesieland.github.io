@@ -1,31 +1,27 @@
 Dans la [Dix-septième saison](/seasons/17_dix_septieme_saison/) :
 
-Les poèmes de 2005 à 2022 vont être ajoutés prochainement.
+Les poèmes de 2005 à 2022 sont en cours d'ajout.
 
 **Derniers ajouts 2023:**
 
-[Pantoun d'octobre, écrit le 07.10.2023](/seasons/18_dix_huitieme_saison/pantoun_d_octobre/)
+[La maison de famille, écrit le 24.10.2023](/seasons/18_dix_huitieme_saison/la_maison_de_famille/)
 
-[Disparue, écrit le 05.10.2023](/seasons/17_dix_septieme_saison/disparue/)
+[Les rats, écrit le 22.10.2023](/seasons/18_dix_huitieme_saison/les_rats/)
 
-[Présent d'automne, écrit le 30.09.2023](/seasons/17_dix_septieme_saison/present_d_automne/)
+[Bataille, écrit le 16.10.2023](/seasons/18_dix_huitieme_saison/bataille/)
 
-[Le photographe, écrit le 24.09.2023](/seasons/17_dix_septieme_saison/le_photographe/)
+[Sérénité, écrit le 13.10.2023](/seasons/18_dix_huitieme_saison/serenite/)
 
-[Emotion d'automne, écrit le 30.08.2023](/seasons/17_dix_septieme_saison/emotion_d_automne/)
+[Aube féérique, écrit le 11.10.2023](/seasons/18_dix_huitieme_saison/aube_feerique/)
 
-[Mi-mai, écrit le 11.05.2023](/seasons/17_dix_septieme_saison/mi_mai/)
+**Derniers ajouts 2005 :**
 
-**Derniers ajouts 2004 :**
+[Le chant des vents, écrit le 11.04.2005](/seasons/17_dix_septieme_saison/le_chant_des_vents/)
 
-[Perte d'enfance, écrit le 21.12.2004](/seasons/17_dix_septieme_saison/perte_d_enfance/)
+[To the inner, écrit le 04.04.2005](/en/original_texts/to_the_inner)
 
-[Solstice d'hiver, écrit le 20.12.2004](/seasons/17_dix_septieme_saison/solstice_d_hiver/)
+[Printemps matinal, écrit le 15.03.2005](/seasons/17_dix_septieme_saison/printemps_matinal/)
 
-[Allégorie, écrit le 14.12.2004](/seasons/17_dix_septieme_saison/allegorie/)
+[Arbre sacré, écrit le 14.03.2005](/seasons/17_dix_septieme_saison/arbre_sacre/)
 
-[I walked, écrit le 06.12.2004](/en/original_texts/i_walked/)
-
-[Images d'hiver, écrit le 23.11.2004](/seasons/17_dix_septieme_saison/images_d_hiver/)
-
-[Réincarnation, écrit le 07.11.2004](/seasons/17_dix_septieme_saison/reincarnation/)
+[Amorce, écrit le 14.03.2005](/seasons/17_dix_septieme_saison/amorce/)
