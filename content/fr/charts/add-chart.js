@@ -1,16 +1,6 @@
-let defaultOptions = {
-    scales: {
-        x: {
-          stacked: true,
-        },
-        y: {
-          stacked: true
-        }
-      }
-}
-
 const addChart = (chartId, chartType, chartLabels, datas, options) => {
-    var datasets = [
+
+     var datasets = [
         {
             label: chartLabels[0],
             data: datas[0].map(row => row.value),
@@ -18,11 +8,22 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
         }
     ];
 
-    if (datas.length == 2) {
+    if (datas.length > 1) {
+        datasets[0].stack = 'stack 0'
         datasets.push({
             label: chartLabels[1],
             data: datas[1].map(row => row.value),
-            backgroundColor: datas[1].map(row => row.color ?? 'rgba(72, 149, 239, 1)')
+            backgroundColor: datas[1].map(row => row.color ?? 'rgba(72, 149, 239, 1)'),
+            stack: 'stack 0'
+        })
+    };
+
+    if (datas.length == 3) {
+        datasets.push({
+            label: chartLabels[2],
+            data: datas[2].map(row => row.value),
+            backgroundColor: datas[2].map(row => row.color ?? 'rgba(67, 97, 238, 1)'),
+            stack: 'stack 0'
         })
     };
 
@@ -34,7 +35,7 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
                 labels: datas[0].map(row => row.label),
                 datasets: datasets,
             },
-            options: Object.assign(defaultOptions, options)
+            options: options
         }
     );
 };
