@@ -31,7 +31,7 @@ Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidemen
 
 Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème.
 
-Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](/seasons/16_seizieme_saison/variations/).
+Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](../seasons/16_seizieme_saison/variations/).
 
 Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation en terme de chute pour le sonnet ou de double thème pour le pantoun.
 

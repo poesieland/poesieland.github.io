@@ -3,7 +3,7 @@ title = "Poésieland"
 archetype = "home"
 +++
 
-Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](/seasons).
+Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](seasons).
 
 {{% notice title="Cinq derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "last_poems.md" true %}}
@@ -25,7 +25,7 @@ Il m'est arrivé que la composition donne lieu à une concentration tellement in
 
 Ecrire de la poésie, c'est une façon de cadrer les sensations en mots, les émotions en partages. J'aime l'Art, et la poésie, si modeste soit-elle, représente une infinité, dans le cycle du monde et des hommes. J'ai choisi le jeu des mots, parce que c'est ce qui me convient le mieux. J'aime également transmettre des émotions par la photographie.
 
-Pour en savoir plus sur ma [relation avec la création](/creer).
+Pour en savoir plus sur ma [relation avec la création](creer).
 
 ## Quels rôles pour la poésie ?
 

@@ -23,7 +23,7 @@ alwaysopen = false
 # See the config.toml file from this documentation site to have an example.
 editURL = ""
 # Author of the site, will be used in meta information
-author = "Barbara Post"
+author.name = "Barbara Post"
 # Description of the site, will be used in meta information
 description = ""
 # Shows a checkmark for visited pages on the menu
@@ -113,14 +113,6 @@ page = ["HTML", "RSS", "PRINT"]
         [languages.en.params]
             landingPageName = "<i class='fas fa-home'></i> Home"
 
-        [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-tags'></i> Tags"
-            url = "/en/tags/"
-            weight = 40
-        [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
-            url = "/en/categories/"
-            weight = 50
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> My French poems"
             url = "../fr/"
