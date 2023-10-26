@@ -17,5 +17,5 @@ import { addRadarChart } from './add-chart.js'
         { label: '12', value: 20 }
     ];
 
-    addRadarChart('sampleRadar', 'My radar chart', data);
+    addRadarChart('sampleRadar', ['My radar chart'], [data]);
 })();

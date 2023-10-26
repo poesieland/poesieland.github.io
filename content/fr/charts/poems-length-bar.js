@@ -16,5 +16,5 @@ import { addBarChart } from './add-chart.js'
     { label: '26', value: 1 },
     { label: '28', value: 3 },
   ];
-    addBarChart('poemLengthBar', 'Nombre de vers par poème', data)
+    addBarChart('poemLengthBar', ['Poèmes', 'XX'], [data])
 })();

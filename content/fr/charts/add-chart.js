@@ -1,29 +1,50 @@
-const addChart = (chartId, chartType, chartLabel, data, options) => {
+let defaultOptions = {
+    scales: {
+        x: {
+          stacked: true,
+        },
+        y: {
+          stacked: true
+        }
+      }
+}
+
+const addChart = (chartId, chartType, chartLabels, datas, options) => {
+    var datasets = [
+        {
+            label: chartLabels[0],
+            data: datas[0].map(row => row.value),
+            backgroundColor: datas[0].map(row => row.color ?? 'rgba(76, 201, 240, 1)')
+        }
+    ];
+
+    if (datas.length == 2) {
+        datasets.push({
+            label: chartLabels[1],
+            data: datas[1].map(row => row.value),
+            backgroundColor: datas[1].map(row => row.color ?? 'rgba(72, 149, 239, 1)')
+        })
+    };
+
     new Chart(
         document.getElementById(chartId),
         {
             type: chartType,
             data: {
-                labels: data.map(row => row.label),
-                datasets: [
-                    {
-                        label: chartLabel,
-                        data: data.map(row => row.value),
-                        backgroundColor: data.map(row => row.color ?? 'rgba(54, 162, 235, 0.2)')
-                    }
-                ],
+                labels: datas[0].map(row => row.label),
+                datasets: datasets,
             },
-            options: options
+            options: Object.assign(defaultOptions, options)
         }
     );
 };
 
-const addPieChart = (chartId, data) => { addChart(chartId, 'pie', '', data, {}); };
+const addPieChart = (chartId, datas) => { addChart(chartId, 'pie', [''], datas, {}); };
 
-const addBarChart = (chartId, chartLabel, data) => { addChart(chartId, 'bar', chartLabel, data, {}); };
+const addBarChart = (chartId, chartLabels, datas) => { addChart(chartId, 'bar', chartLabels, datas, {}); };
 
-const addRadarChart = (chartId, chartLabel, data) => {
-    addChart(chartId, 'radar', chartLabel, data, {
+const addRadarChart = (chartId, chartLabels, datas) => {
+    addChart(chartId, 'radar', chartLabels, datas, {
         backgroundColor: 'rgba(54, 162, 235, 0.2)',
         borderColor: 'rgb(54, 162, 235)',
         pointBackgroundColor: 'rgb(54, 162, 235)',

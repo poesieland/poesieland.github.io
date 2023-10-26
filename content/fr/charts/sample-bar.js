@@ -7,5 +7,5 @@ import { addBarChart } from './add-chart.js'
     { label: '6', value: 20 },
   ];
 
-  addBarChart('sampleBar', 'My bar chart', data)
+  addBarChart('sampleBar', ['My bar chart'], [data])
 })();

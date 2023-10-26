@@ -124,3 +124,7 @@ a#logo {
     --MENU-WIDTH-M: 20rem;
     --MENU-WIDTH-L: 20rem;
 }
+
+.chartjs-wrapper {
+    background-color: white;
+}

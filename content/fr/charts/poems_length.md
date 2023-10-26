@@ -1,6 +1,6 @@
 +++
 title = "Nombre de vers par poème"
-weight = 1
+weight = 2
 +++
 Souvent, les poèmes organisés en quatrains dominent.
 Les sonnets, très minoritaires, comptent 14 vers. Les autres poèmes sont composés de rimes suivies.
