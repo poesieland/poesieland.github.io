@@ -4,9 +4,9 @@ title = "Poesieland"
 
 Welcome to the bottom of my "poetic kingdom".
 
-In early 2000's I sometimes felt inspired enough to craft [poems in English](original_texts), rather my mother tongue French. But the feelings are of the same kind, philosophy, a bit of tenderness, looking at my past.
+In early 2000's I sometimes felt inspired enough to craft [poems in English](./original_texts), rather my mother tongue French. But the feelings are of the same kind, philosophy, a bit of tenderness, looking at my past.
 
-There is even a [single poem written in Italian](original_texts/shalom_veor).
+There is even a [single poem written in Italian](./original_texts/shalom_veor).
 
 Head to the [French poems](/seasons) and enjoy them helping yourself with [Google Translate](https://translate.google.com).
 

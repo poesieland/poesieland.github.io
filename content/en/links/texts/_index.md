@@ -3,27 +3,27 @@ title = "Chosen texts"
 weight = 1
 alwaysopen = false
 +++
-[J'arrive où je suis étranger](aragon) {{% badge %}}in French :flag_fr:{{% /badge %}}
+[J'arrive où je suis étranger](./aragon) {{% badge %}}in French :flag_fr:{{% /badge %}}
 
 A poem from well-known Louis Aragon
 
 ---
 
-[Arminda De Arruda Gonçalves](goncalves) {{% badge %}}in French :flag_fr:{{% /badge %}}
+[Arminda De Arruda Gonçalves](./goncalves) {{% badge %}}in French :flag_fr:{{% /badge %}}
 
 Let's discover it
 
 ---
-[Pilgrim](pilgrim)
+[Pilgrim](./pilgrim)
 
 Enya's so poetic lyrics
 
 ---
-[Hopi Prayer](hopi_prayer)
+[Hopi Prayer](./hopi_prayer)
 
 Some people know better how to comfort and give hope
 
 ---
-[Love is in the air](love_is_in_the_air)
+[Love is in the air](./love_is_in_the_air)
 
 Lyrics by Baz Luhmann
