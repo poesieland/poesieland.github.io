@@ -35,7 +35,7 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
                 labels: datas[0].map(row => row.label),
                 datasets: datasets,
             },
-            options: options
+            options: Object.assign(options, {responsive: true})
         }
     );
 };

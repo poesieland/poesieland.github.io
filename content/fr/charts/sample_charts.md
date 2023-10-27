@@ -5,16 +5,16 @@ draft = true
 +++
 ## Sample pie chart
 
-{{< chartjs id="samplePie" width="80%" jsFile="../sample-pie.js" />}}
+{{< chartjs id="samplePie" width="100%" jsFile="../sample-pie.js" />}}
 
 ## Sample bar chart
 
-{{< chartjs id="sampleBar" width="80%" jsFile="../sample-bar.js" />}}
+{{< chartjs id="sampleBar" width="100%" jsFile="../sample-bar.js" />}}
 
 ## Sample stacked bar chart
 
-{{< chartjs id="sampleStackedBar" width="80%" jsFile="../sample-stacked-bar.js" />}}
+{{< chartjs id="sampleStackedBar" width="100%" jsFile="../sample-stacked-bar.js" />}}
 
 ## Sample radar chart
 
-{{< chartjs id="sampleRadar" width="80%" jsFile="../sample-radar.js" />}}
+{{< chartjs id="sampleRadar" width="100%" jsFile="../sample-radar.js" />}}

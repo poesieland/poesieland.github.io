@@ -8,4 +8,4 @@ Les sonnets, très minoritaires, comptent 14 vers.
 
 Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
-{{< chartjs id="poemLengthBar" width="80%" jsFile="../poems-length-bar.js" />}}
+{{< chartjs id="poemLengthBar" width="100%" jsFile="../poems-length-bar.js" />}}

@@ -4,7 +4,7 @@
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
 {{- with $page }}
-<div class="chartjs-wrapper" style="width:{{ $width }}">
+<div class="chartjs-wrapper" style="position:relative;width:{{ $width }}">
   <canvas id="{{ $id }}"></canvas>
 </div>
 <script type="module" src="{{ $jsFile }}"></script>
