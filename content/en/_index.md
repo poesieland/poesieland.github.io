@@ -1,5 +1,6 @@
 +++
 title = "Poesieland"
+archetype = "home"
 +++
 
 Welcome to the bottom of my "poetic kingdom".
@@ -8,7 +9,7 @@ In early 2000's I sometimes felt inspired enough to craft [poems in English](./o
 
 There is even a [single poem written in Italian](./original_texts/shalom_veor).
 
-Head to the [French poems](/seasons) and enjoy them helping yourself with [Google Translate](https://translate.google.com).
+Head to the [French poems](/fr/seasons) and enjoy them helping yourself with [Google Translate](https://translate.google.com).
 
 When you visit them, you may wonder why I divided my poetic art into "Seasons". The word isn't innocent, it lets you think of your own life, its never straight line. Each coming year gives you renewed joys and feelings.
 
