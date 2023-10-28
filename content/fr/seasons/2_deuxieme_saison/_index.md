@@ -10,3 +10,6 @@ De septembre à décembre 1996
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season2Pie" width="50%" jsFile="../../charts/season-2-pie.js" />}}

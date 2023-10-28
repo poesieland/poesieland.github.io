@@ -4,7 +4,7 @@
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
 {{- with $page }}
-<div class="chartjs-wrapper" style="position:relative;width:{{ $width }}">
+<div class="chartjs-wrapper" style="position:relative;width:{{ $width }};margin-left:calc((100% - {{ $width }})/2);margin-right:auto;">
   <canvas id="{{ $id }}"></canvas>
 </div>
 <script type="module" src="{{ $jsFile }}"></script>

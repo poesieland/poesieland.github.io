@@ -35,12 +35,12 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
                 labels: datas[0].map(row => row.label),
                 datasets: datasets,
             },
-            options: Object.assign(options, {responsive: true})
+            options: Object.assign({responsive: true}, options)
         }
     );
 };
 
-const addPieChart = (chartId, datas) => { addChart(chartId, 'pie', [''], datas, {}); };
+const addPieChart = (chartId, datas, title) => { addChart(chartId, 'pie', [''], datas, {plugins: {title: { display: true, text: title }}}); };
 
 const addBarChart = (chartId, chartLabels, datas) => { addChart(chartId, 'bar', chartLabels, datas, {}); };
 

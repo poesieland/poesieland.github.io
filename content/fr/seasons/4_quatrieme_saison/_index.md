@@ -8,3 +8,6 @@ De mai à septembre 1997
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season4Pie" width="50%" jsFile="../../charts/season-4-pie.js" />}}

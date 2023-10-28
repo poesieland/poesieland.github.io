@@ -10,3 +10,6 @@ De mai à juillet 1999
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season12Pie" width="50%" jsFile="../../charts/season-12-pie.js" />}}

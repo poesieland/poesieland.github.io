@@ -10,3 +10,6 @@ De mars à mai 1999
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season11Pie" width="50%" jsFile="../../charts/season-11-pie.js" />}}

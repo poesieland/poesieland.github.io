@@ -10,3 +10,6 @@ De septembre 1997 à mars 1998
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season5Pie" width="50%" jsFile="../../charts/season-5-pie.js" />}}

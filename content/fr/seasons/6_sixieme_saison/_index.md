@@ -10,3 +10,6 @@ De mars à juin 1998
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season6Pie" width="50%" jsFile="../../charts/season-6-pie.js" />}}

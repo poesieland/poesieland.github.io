@@ -10,3 +10,6 @@ De juillet à novembre 1999
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season13Pie" width="50%" jsFile="../../charts/season-13-pie.js" />}}

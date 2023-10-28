@@ -10,3 +10,6 @@ De janvier à mai 1997
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season3Pie" width="50%" jsFile="../../charts/season-3-pie.js" />}}

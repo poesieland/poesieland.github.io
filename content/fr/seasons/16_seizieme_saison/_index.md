@@ -12,3 +12,6 @@ De mars 2002 à octobre 2004
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season16Pie" width="50%" jsFile="../../charts/season-16-pie.js" />}}

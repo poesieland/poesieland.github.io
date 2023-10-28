@@ -7,6 +7,6 @@ import { addPieChart} from './add-chart.js'
     { label: 'yellow', color: 'rgb(255, 205, 86)', value: 100 },
   ];
 
-  addPieChart('samplePie', [data]);
+  addPieChart('samplePie', [data], 'My pie chart');
 
 })();

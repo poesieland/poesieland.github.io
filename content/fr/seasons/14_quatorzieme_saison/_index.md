@@ -10,3 +10,6 @@ De novembre 1999 à mars 2001
 
 ---
 {{% children  %}}
+
+---
+{{< chartjs id="season14Pie" width="50%" jsFile="../../charts/season-14-pie.js" />}}
