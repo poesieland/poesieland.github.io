@@ -1,10 +1,10 @@
 +++
 title = "Deuxième Saison : Tableaux"
-summary = "De l'amour, des éléments naturels, des réflexions. De septembre à décembre 1996"
+summary = "Se laisser guider par l'automne et les éléments naturels ainsi que l'envie de dresser quelques portraits. De septembre à décembre 1996"
 weight = 2
 +++
 
-De l'amour, des éléments naturels, des réflexions, cette Saison est toute de petites touches.
+Une Saison toute de petites touches : l'inspiration guidée par l'automne, l'envie de dresser quelques portraits, également l'amitié, le crépuscule et la flore.
 
 De septembre à décembre 1996
 
