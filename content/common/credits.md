@@ -27,7 +27,8 @@ Special thanks to [Xarkam](https://github.com/Xarkam/) for contributing to this 
 - [Perfect Scrollbar](https://perfectscrollbar.com) - A minimalistic but perfect custom scrollbar plugin
 - [SwaggerUI](https://github.com/swagger-api/swagger-ui) - Generate beautiful documentation from a Swagger-compliant API
 - [WorkSans](https://weiweihuanghuang.github.io/Work-Sans/) - Work Sans is a 9 weight typeface family based loosely on early Grotesques
+- [Chart.js](https://www.chartjs.org) - A popular highly customizable charting library
 
 ## Tooling
 
-- [Hugo](https://gohugo.io/) - The static site generator of your choice
+- [Hugo](https://gohugo.io/) - Static site generator
