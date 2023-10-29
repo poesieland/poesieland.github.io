@@ -4,7 +4,7 @@ summary = "La poésie est toujours aussi belle à mon coeur. D'octobre 2023 à c
 weight = 18
 +++
 
-
+Retravailler en profondeur sur ce site web m'a donné une nouvelle impulsion, tout en ayant une approche plus analytique. Toujours tellement à raconter.
 
 D'octobre 2023 à ce jour
 

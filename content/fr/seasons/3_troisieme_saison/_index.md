@@ -1,10 +1,10 @@
 +++
 title = "Troisième Saison : Vivace"
-summary = "Ces quelques mois presque exaltés, avant de connaître d'autres bonheurs. De janvier à mai 1997"
+summary = "Ces quelques mois philosophiquement presque exaltés, avant de connaître d'autres bonheurs. De janvier à mai 1997"
 weight = 3
 +++
 
-Ces quelques mois presque exaltés, avant de connaître d'autres bonheurs.
+Ces quelques mois presque exaltés, sur les thèmes du temps et de la nuit principalement, avec également le printemps, l'être et les portraits.
 
 De janvier à mai 1997
 

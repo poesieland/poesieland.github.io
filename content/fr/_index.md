@@ -17,7 +17,11 @@ Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour pla
 
 Depuis des années, les sensations précédant la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par un stimuli d'au moins un sens, et l'impression que quelque chose est en germe. Que je dois l'écrire pour le partager.
 
-S'il ne naît pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtra probablement jamais. Cela arrive lorsque je suis trop occupée par la vie quotidienne. J'ai observé que j'arrive à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je note un vers ou deux directement, mais pas plus !
+S'il ne naît pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtra probablement jamais. Cela arrive lorsque je suis trop occupée par la vie quotidienne.
+
+J'ai observé que j'arrive à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je note un vers ou deux directement, mais pas plus !
+
+Cependant, ce qui était vrai il y a 20 ans l'est moins, ma démarche est plus analytique, j'arrive à désormais mémoriser le contexte de l'inspiration, composé des 5 sens et de la voix intérieure. Ecrire le poème prendra peut-être un peu plus de temps parce que je porte plus d'attention au choix des mots mais sera fidèle à l'inspiration initiale. C'est aussi de retravailler sur ce site web après 15 ans sans y toucher qui m'a fait redécouvrir les magnifiques poèmes pas encore numériques, et a ravivé la créativité. Une belle pensée circule sous énormément de formes et affirme : la créativité, c'est comme un muscle, ça se cultive !
 
 De temps à autres le processus de maturation prend plusieurs jours, ou plusieurs mois, et le résultat n'est pas prévisible, en terme de "beauté brute". C'est dans ce cas plus une méditation qu'un "éclat".
 
@@ -34,6 +38,8 @@ Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
 ### Fixer ses souvenirs
 
 Comme la mémoire humaine est sélective, il peut sembler indispensable à certaines personnes de fixer des souvenirs de façon différente d'une représentation textuelle prosaïque et objective, ou d'une photographie, ou d'une représentation mentale. Cette dernière est la plus susceptible d'être altérée avec le temps. Il y a un côté paradoxal à subjectiver ainsi les souvenirs sélectionnés, afin d'être sûr de ne pas les oublier.
+
+Maintenant, ce site est aussi devenu un lieu où je peux exposer mon autobiographie, au fil des notes en bas des poèmes ou des pages dédiées spécialement à l'analyse de contenu.
 
 ### Aider ses réflexions à aboutir
 
@@ -52,3 +58,5 @@ C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de 
 Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
+
+Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 29.10.2023

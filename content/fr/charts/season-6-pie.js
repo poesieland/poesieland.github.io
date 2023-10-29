@@ -18,7 +18,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Animaux', value: 2, color: 'rgb(30, 47, 35)' },
     { label: 'Musique, chant', value: 2, color: 'rgb(63, 193, 192)' },
     { label: 'Mouvement', value: 3, color: 'rgb(4, 166, 194)' },
-    { label: 'Printemps', value: 1, color: 'rgb(179, 51, 233)' },
+    { label: 'Printemps', value: 1, color: 'rgb(255, 182, 39)' },
   ];
   addPieChart('season6Pie', [data], 'Sixième Saison : Sur le chemin - De mars à juin 1998');
 })();

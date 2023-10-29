@@ -1,10 +1,11 @@
 +++
 title = "Sixième Saison : Sur le chemin"
-summary = "En cherchant sa voie, avec un long regard vers un amour déçu passé. De mars à juin 1998"
+summary = "Entre philosophie pour chercher sa voie, et long regard vers un amour déçu passé. De mars à juin 1998"
 weight = 6
 +++
 
-En cherchant sa voie, avec un long regard vers un amour déçu passé.
+En cherchant sa voie, la philosophie interroge massivement l'être, la création, dresse des portraits et n'oublie pas l'espoir,
+      tandis que les évocations se partagent entre un amour déçu passé et l'amitié salvatrice.
 
 De mars à juin 1998
 

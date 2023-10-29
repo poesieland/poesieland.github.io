@@ -1,10 +1,10 @@
 +++
 title = "Cinquième Saison : Espaces de vie"
-summary = "Multiples bonheurs. De septembre 1997 à mars 1998"
+summary = "Amour et philosophie décrivent de multiples bonheurs. De septembre 1997 à mars 1998"
 weight = 5
 +++
 
-Multiples bonheurs.
+Romantisme, être, mais aussi temps, apprentissage et automne.
 
 De septembre 1997 à mars 1998
 

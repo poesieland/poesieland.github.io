@@ -4,7 +4,7 @@ summary = "A la recherche de nouvelles inspirations. De septembre à décembre 1
 weight = 9
 +++
 
-A la recherche de nouvelles inspirations.
+A la recherche de nouvelles inspirations, l'amour prenant bien moins de place. Toujours la création, l'être, l'art musical, mais également l'espoir.
 
 De septembre à décembre 1998
 

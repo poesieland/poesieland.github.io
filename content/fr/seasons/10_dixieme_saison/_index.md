@@ -1,10 +1,10 @@
 +++
 title = "Dixième Saison : Pensées"
-summary = "Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, de philosophie et de recherche de la foi et de l'amour. De janvier à mars 1999"
+summary = "Pensées oniriques ou plus réelles, cette Saison trouve un équilibre en abordant de nombreux thèmes, philosophie, nature, ombres et lumières. De janvier à mars 1999"
 weight = 10
 +++
 
-Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, de philosophie et de recherche de la foi et de l'amour.
+Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, en explorant la foi, l'être, l'espoir, ainsi que des éléments plus concrets comme l'art musical, la mer, la neige.
 
 De janvier à mars 1999
 

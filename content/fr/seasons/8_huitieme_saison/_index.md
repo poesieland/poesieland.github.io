@@ -4,7 +4,7 @@ summary = "La fin d'un amour, mais également une période de doute, et quelques
 weight = 8
 +++
 
-La fin d'un amour, mais également une période de doute, et quelques "diamants".
+Toujours l'exploration de l'être, de la création, de l'art musical pour exprimer mes doutes, et la fin d'un amour partagée entre malheur, romantisme et amant.
 
 De juillet à septembre 1998
 

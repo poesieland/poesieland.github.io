@@ -1,10 +1,10 @@
 +++
 title = "Dix-septième Saison : Traversées"
-summary = "Vers la maturité, cette saison aura duré. D'octobre 2004 à octobre 2023"
+summary = "Cette si longue Saison, équilbrée philosophiquement, est aussi celle qui évoque le plus les quatre saisons de toutes mes Saisons. D'octobre 2004 à octobre 2023"
 weight = 17
 +++
 
-Une si longue saison à dominante philosophique.
+Cette si longue Saison, équilbrée philosophiquement, est aussi celle qui évoque le plus les quatre saisons de toutes mes Saisons.
 
 D'octobre 2004 à octobre 2023
 

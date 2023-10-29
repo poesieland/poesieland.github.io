@@ -4,7 +4,7 @@ summary = "Rares, mais précieux, les moments de cette Saison très variée. De 
 weight = 14
 +++
 
-Rares, mais précieux, les moments de cette Saison très variée.
+Rares, mais précieux, les moments de cette Saison très variée : le temps toujours, les jardins et paysages, l'art musical, l'être.
 
 De novembre 1999 à mars 2001
 

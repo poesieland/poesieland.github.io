@@ -1,6 +1,6 @@
 +++
 title = "Première Saison : Premiers élans"
-summary = "Mes premiers poèmes suivant strictement la versification néoclassique, mais aussi des poèmes plus anciens et remaniés. De 1994 à septembre 1996"
+summary = "Mes premiers poèmes suivant strictement la versification néoclassique, mais aussi des poèmes plus anciens et remaniés. Philosophie et nature. De 1994 à septembre 1996"
 weight = 1
 +++
 

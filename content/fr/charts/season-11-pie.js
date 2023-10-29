@@ -23,7 +23,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Musique, chant', value: 11, color: 'rgb(63, 193, 192)' },
     { label: 'Mouvement', value: 4, color: 'rgb(4, 166, 194)' },
     { label: 'Toucher', value: 1, color: 'rgb(15, 128, 170)' },
-    { label: 'Printemps', value: 2, color: 'rgb(179, 51, 233)' },
+    { label: 'Printemps', value: 2, color: 'rgb(255, 182, 39)' },
     { label: 'Eté', value: 1, color: 'rgb(255, 149, 5)' },
   ];
   addPieChart('season11Pie', [data], 'Onzième Saison : Perceptible - De mars à mai 1999');

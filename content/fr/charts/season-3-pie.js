@@ -21,7 +21,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Animaux', value: 3, color: 'rgb(30, 47, 35)' },
     { label: 'Musique, chant', value: 1, color: 'rgb(63, 193, 192)' },
     { label: 'Mouvement', value: 1, color: 'rgb(4, 166, 194)' },
-    { label: 'Printemps', value: 4, color: 'rgb(179, 51, 233)' },
+    { label: 'Printemps', value: 4, color: 'rgb(255, 182, 39)' },
     { label: 'Automne', value: 1, color: 'rgb(226, 113, 29)' },
   ];
   addPieChart('season3Pie', [data], 'Troisième Saison : Vivace - De janvier à mai 1997');

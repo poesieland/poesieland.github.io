@@ -20,7 +20,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Jardin, paysage', value: 2, color: 'rgb(74, 214, 109)' },
     { label: 'Eau douce', value: 3, color: 'rgb(37, 162, 68)' },
     { label: 'Musique, chant', value: 1, color: 'rgb(63, 193, 192)' },
-    { label: 'Printemps', value: 4, color: 'rgb(179, 51, 233)' },
+    { label: 'Printemps', value: 4, color: 'rgb(255, 182, 39)' },
     { label: 'Automne', value: 3, color: 'rgb(226, 113, 29)' },
     { label: 'Hiver', value: 5, color: 'rgb(204, 88, 3)' },
   ];

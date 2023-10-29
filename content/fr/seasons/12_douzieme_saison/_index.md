@@ -1,10 +1,10 @@
 +++
 title = "Douzième Saison : Tempo piano"
-summary = "Quelques accords plus vifs, quelques rêves plus doux. De mai à juillet 1999"
+summary = "Quelques accords plus vifs, musique et chant toujours présents, quelques rêves plus doux, philosophiquement. De mai à juillet 1999"
 weight = 12
 +++
 
-Quelques accords plus vifs, quelques rêves plus doux.
+La musique et le chant s'expriment toujours, s'accordant avec temps, être et création.
 
 De mai à juillet 1999
 

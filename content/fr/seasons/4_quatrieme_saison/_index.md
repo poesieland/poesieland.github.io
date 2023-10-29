@@ -1,10 +1,10 @@
 +++
 title = "Quatrième Saison : Rêves"
-summary = "De mai à septembre 1997"
+summary = "Une Saison riche, où se mêlent amour, philosophie, nature et saisons. De mai à septembre 1997"
 weight = 4
 +++
 
-De mai à septembre 1997
+Une Saison riche d'un essor romantique, célébration de l'automne et également de la lune.  De mai à septembre 1997
 
 ---
 {{% children  %}}

@@ -1,10 +1,10 @@
 +++
 title = "Onzième Saison : Perceptible"
-summary = "Toute d'éclats, cette Saison de printemps. De mars à mai 1999"
+summary = "Toute d'éclats, partagée entre philosophie, attitudes musicales et nature, cette Saison de printemps. De mars à mai 1999"
 weight = 11
 +++
 
-Toute d'éclats, cette Saison de printemps.
+La musique et le chant s'expriment, le temps s'évoque, la flore s'éveille. Une Saison très en phase avec le printemps.
 
 De mars à mai 1999
 

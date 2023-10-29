@@ -26,7 +26,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Musique, chant', value: 1, color: 'rgb(63, 193, 192)' },
     { label: 'Toucher', value: 1, color: 'rgb(15, 128, 170)' },
     { label: 'Sommeil', value: 2, color: 'rgb(29, 78, 137)' },
-    { label: 'Printemps', value: 3, color: 'rgb(179, 51, 233)' },
+    { label: 'Printemps', value: 3, color: 'rgb(255, 182, 39)' },
     { label: 'Eté', value: 3, color: 'rgb(255, 149, 5)' },
     { label: 'Automne', value: 7, color: 'rgb(226, 113, 29)' },
   ];

@@ -1,5 +1,7 @@
 **Derniers ajouts 2023:**
 
+[Le pendule, écrit le 29.10.2023](./seasons/18_dix_huitieme_saison/le_pendule/)
+
 [Quintessence automnale, écrit le 28.10.2023](./seasons/18_dix_huitieme_saison/quintessence_automnale/)
 
 [La maison de famille, écrit le 24.10.2023](./seasons/18_dix_huitieme_saison/la_maison_de_famille/)
@@ -7,8 +9,6 @@
 [Les rats, écrit le 22.10.2023](./seasons/18_dix_huitieme_saison/les_rats/)
 
 [Bataille, écrit le 16.10.2023](./seasons/18_dix_huitieme_saison/bataille/)
-
-[Sérénité, écrit le 13.10.2023](./seasons/18_dix_huitieme_saison/serenite/)
 
 **Derniers ajouts 2005 :**
 
