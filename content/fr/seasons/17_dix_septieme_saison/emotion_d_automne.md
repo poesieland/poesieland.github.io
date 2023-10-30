@@ -2,7 +2,7 @@
 title = "Emotion d'automne"
 id = "emotion_d_automne_17"
 date = 2023-08-30
-weight = 47
+weight = 26
 categories = ["Automne"]
 tags = ["saisons", "2023"]
 verseLength = 8

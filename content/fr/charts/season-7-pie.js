@@ -18,7 +18,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Eau douce', value: 1, color: 'rgb(37, 162, 68)' },
     { label: 'Ciel', value: 1, color: 'rgb(26, 116, 49)' },
     { label: 'Mer', value: 2, color: 'rgb(16, 69, 29)' },
-    { label: 'Musique, chant', value: 6, color: 'rgb(63, 193, 192)' },
+    { label: 'Musique et chant', value: 6, color: 'rgb(63, 193, 192)' },
   ];
   addPieChart('season7Pie', [data], 'Septième Saison : Croire - Juin et juillet 1998');
 })();

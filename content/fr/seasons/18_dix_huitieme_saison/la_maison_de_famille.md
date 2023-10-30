@@ -1,56 +1,14 @@
----
-weight: 7
-title: La maison de famille
-id: la_maison_de_famille_18
-date: 2023-10-24
-divider: ""
-categories:
-    - Portraits
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2023"
-    - philosophie
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "La maison de famille"
+id = "la_maison_de_famille_18"
+date = 2023-10-24
+weight = 7
+categories = ["Portraits"]
+tags = ["philosophie", "2023"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Reims ! Ici Reims ! disait le train.
 
 En arrivant près du parc sale

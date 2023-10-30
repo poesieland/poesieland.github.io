@@ -21,7 +21,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Ciel', value: 2, color: 'rgb(26, 116, 49)' },
     { label: 'Mer', value: 1, color: 'rgb(16, 69, 29)' },
     { label: 'Animaux', value: 4, color: 'rgb(30, 47, 35)' },
-    { label: 'Musique, chant', value: 1, color: 'rgb(63, 193, 192)' },
+    { label: 'Musique et chant', value: 1, color: 'rgb(63, 193, 192)' },
     { label: 'Toucher', value: 2, color: 'rgb(15, 128, 170)' },
     { label: 'Automne', value: 4, color: 'rgb(226, 113, 29)' },
     { label: 'Hiver', value: 3, color: 'rgb(204, 88, 3)' },

@@ -3,7 +3,7 @@ title = "Adagio"
 id = "adagio_7"
 date = 1998-06-27
 weight = 37
-categories = ["Musique, chant"]
+categories = ["Musique et chant"]
 tags = ["attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -4,7 +4,7 @@ id = "reve_lunaire_12"
 date = 1999-05-28
 weight = 36
 categories = ["Lune"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999"]
 LastModifierDisplayName = "Barbara Post"
 +++
 

@@ -16,7 +16,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Eau douce', value: 1, color: 'rgb(37, 162, 68)' },
     { label: 'Mer', value: 1, color: 'rgb(16, 69, 29)' },
     { label: 'Animaux', value: 1, color: 'rgb(30, 47, 35)' },
-    { label: 'Musique, chant', value: 7, color: 'rgb(63, 193, 192)' },
+    { label: 'Musique et chant', value: 7, color: 'rgb(63, 193, 192)' },
     { label: 'Sommeil', value: 1, color: 'rgb(29, 78, 137)' },
     { label: 'Automne', value: 4, color: 'rgb(226, 113, 29)' },
     { label: 'Hiver', value: 3, color: 'rgb(204, 88, 3)' },

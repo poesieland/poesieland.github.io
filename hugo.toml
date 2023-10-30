@@ -100,9 +100,9 @@ enableMissingTranslationPlaceholders = false
     location = "header"
 
 [outputs]
-home = ["HTML", "RSS", "SEARCH", "SEARCHPAGE"]
-section = ["HTML", "RSS"]
-page = ["HTML", "RSS", "PRINT"]
+home = ["HTML", "SEARCH", "SEARCHPAGE"]
+section = ["HTML"]
+page = ["HTML", "PRINT"]
 
 [Languages]
     [Languages.en]

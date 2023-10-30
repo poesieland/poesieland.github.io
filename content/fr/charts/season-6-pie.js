@@ -16,7 +16,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Révolte', value: 2, color: 'rgb(61, 0, 102)' },
     { label: 'Flore', value: 2, color: 'rgb(146, 230, 167)' },
     { label: 'Animaux', value: 2, color: 'rgb(30, 47, 35)' },
-    { label: 'Musique, chant', value: 2, color: 'rgb(63, 193, 192)' },
+    { label: 'Musique et chant', value: 2, color: 'rgb(63, 193, 192)' },
     { label: 'Mouvement', value: 3, color: 'rgb(4, 166, 194)' },
     { label: 'Printemps', value: 1, color: 'rgb(255, 182, 39)' },
   ];

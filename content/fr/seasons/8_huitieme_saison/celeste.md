@@ -3,7 +3,7 @@ title = "Céleste"
 id = "celeste_8"
 date = 1998-09-03
 weight = 30
-categories = ["Nuit", "Musique, chant"]
+categories = ["Nuit", "Musique et chant"]
 tags = ["ombres et lumières", "attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
 +++

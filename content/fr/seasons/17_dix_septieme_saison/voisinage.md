@@ -1,58 +1,15 @@
----
-weight: 24
-title: Voisinage
-id: voisinage_17
-date: 2005-08-20
-divider: ""
-categories:
-    - Ville
-    - Etre
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2005"
-    - ombres et lumières
-    - philosophie
-info: A Bordeaux
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Voisinage"
+id = "voisinage_17"
+date = 2005-08-20
+weight = 24
+categories = ["Ville", "Etre"]
+tags = ["ombres et lumières", "philosophie", "2005"]
+info = "A Bordeaux"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Dans ma cuisine ça ronronne
 
 Mais âme qui vive on n'y voit :
@@ -88,8 +45,6 @@ Sur les murs des maisons résonne
 
 Le pas de l'été qui se rend.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Souvenir de Bordeaux"}]} -->
 {{% notice style="primary" %}}
 A Bordeaux
 {{% /notice %}}
-<!-- FM:Snippet:End -->

@@ -1,59 +1,15 @@
----
-weight: 21
-title: Sur un air, souffles
-id: sur_un_air_souffles_17
-date: 2005-05-22
-divider: ""
-categories:
-    - Musique, chant
-    - Eau douce
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2005"
-    - acrostiche
-    - attitudes
-    - nature
-info: ""
-type: ""
-acrostiche: Sur un air, souffles
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sur un air, souffles"
+id = "sur_un_air_souffles_17"
+date = 2005-05-22
+weight = 21
+categories = ["Musique et chant", "Eau douce"]
+tags = ["attitudes", "nature", "2005", "acrostiche"]
+acrostiche = "Sur un air, souffles"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sur un air d'opéra la pluie
 
 Unit la voix du ciel au coeur
@@ -86,8 +42,6 @@ Elle est belle ma ville, élance
 
 Ses airs sur un passé bâtard.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Sur un air, souffles"}]} -->
 {{% notice style="primary" %}}
 Acrostiche : Sur un air, souffles
 {{% /notice %}}
-<!-- FM:Snippet:End -->

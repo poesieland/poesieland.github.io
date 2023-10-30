@@ -3,7 +3,7 @@ title = "Ame de mai"
 id = "ame_de_mai_16"
 date = 2004-05-02
 weight = 29
-categories = ["Jardin, paysage", "Printemps"]
+categories = ["Jardin et paysage", "Printemps"]
 tags = ["nature", "saisons", "2004"]
 LastModifierDisplayName = "Barbara Post"
 +++

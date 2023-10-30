@@ -1,57 +1,15 @@
----
-weight: 9
-title: Le pendule
-id: le_pendule_18
-date: 2023-10-29
-divider: ""
-categories:
-    - Temps
-    - Création
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2023"
-    - philosophie
-info: "En reprenant un beau vers d'un mauvais poème de 1994 : \"au bout de son long fil battait un vieux pendule\""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 12
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le pendule"
+id = "le_pendule_18"
+date = 2023-10-29
+weight = 9
+categories = ["Temps", "Création"]
+tags = ["philosophie", "2023"]
+info = "En reprenant un beau vers d'un mauvais poème de 1994 : \"au bout de son long fil battait un vieux pendule\" et en développant enfin l'idée associée"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Au bout d'un long filin balançait un pendule,
 
 Acéré, ton esprit sur le fil du rasoir
@@ -78,8 +36,6 @@ La vague qui se brouille et seconde univers,
 
 Tourne, berce à mon coeur gratitude ineffable.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"En reprenant un beau vers d'un mauvais poème de 1994 : \"au bout de son long fil battait un vieux pendule\""}]} -->
 {{% notice style="primary" %}}
-En reprenant un beau vers d'un mauvais poème de 1994 : "au bout de son long fil battait un vieux pendule"
+En reprenant un beau vers d'un mauvais poème de 1994 : \"au bout de son long fil battait un vieux pendule\" et en développant enfin l'idée associée
 {{% /notice %}}
-<!-- FM:Snippet:End -->

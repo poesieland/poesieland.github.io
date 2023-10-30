@@ -16,11 +16,11 @@ import { addPieChart } from './add-chart.js'
     { label: 'Révolte', value: 6, color: 'rgb(61, 0, 102)' },
     { label: 'Neige', value: 1, color: 'rgb(183, 239, 197)' },
     { label: 'Flore', value: 4, color: 'rgb(146, 230, 167)' },
-    { label: 'Jardin, paysage', value: 5, color: 'rgb(74, 214, 109)' },
+    { label: 'Jardin et paysage', value: 5, color: 'rgb(74, 214, 109)' },
     { label: 'Ciel', value: 1, color: 'rgb(26, 116, 49)' },
     { label: 'Mer', value: 6, color: 'rgb(16, 69, 29)' },
     { label: 'Animaux', value: 2, color: 'rgb(30, 47, 35)' },
-    { label: 'Musique, chant', value: 1, color: 'rgb(63, 193, 192)' },
+    { label: 'Musique et chant', value: 1, color: 'rgb(63, 193, 192)' },
     { label: 'Mouvement', value: 1, color: 'rgb(4, 166, 194)' },
     { label: 'Automne', value: 2, color: 'rgb(226, 113, 29)' },
   ];

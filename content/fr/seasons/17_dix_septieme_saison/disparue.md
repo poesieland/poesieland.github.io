@@ -2,7 +2,7 @@
 title = "Disparue"
 id = "disparue_17"
 date = 2023-10-05
-weight = 50
+weight = 29
 categories = ["Révolte"]
 tags = ["philosophie", "2023", "acrostiche"]
 acrostiche = "Disparue"
@@ -25,8 +25,6 @@ Respire une douleur, vestige.
 Une famille a tout perdu,
 
 Et murmure un espoir ténu.
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : disparue"}]} -->
 
 {{% notice style="primary" %}}
 Acrostiche : Disparue

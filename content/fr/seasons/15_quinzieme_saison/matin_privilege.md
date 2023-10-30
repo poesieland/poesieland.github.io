@@ -8,6 +8,7 @@ tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Matin privilège"
 LastModifierDisplayName = "Barbara Post"
 +++
+
 Marcher dans le matin, sonore
 
 Allure, un frais soleil honore
