@@ -17,6 +17,5 @@ import { addRadarChart } from './add-chart.js'
         { label: '12', value: 20 }
     ];
 
-    addRadarChart('sampleRadar', ['My radar chart'], [data]);
-
+    addRadarChart('sampleRadarCustomColor', ['My colored radar chart'], [data], 'rgba(226, 113, 29, 1)', 'rgba(226, 113, 29, 0.5)');
 })();

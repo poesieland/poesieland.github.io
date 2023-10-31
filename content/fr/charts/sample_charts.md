@@ -18,3 +18,7 @@ draft = true
 ## Sample radar chart
 
 {{< chartjs id="sampleRadar" width="100%" jsFile="../sample-radar.js" />}}
+
+## Sample radar custom color chart
+
+{{< chartjs id="sampleRadarCustomColor" width="100%" jsFile="../sample-radar-custom-color.js" />}}
