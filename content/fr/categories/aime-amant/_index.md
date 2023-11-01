@@ -1,5 +1,5 @@
 +++
-title = "Aimé... amant"
+title = "Aimé (amant)"
 +++
 
-Plus fort que le romantisme, l'être aimé.
+Plus fort que le [romantisme](../romantisme), l'être aimé.
