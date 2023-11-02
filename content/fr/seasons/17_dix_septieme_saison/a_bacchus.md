@@ -44,6 +44,7 @@ ensureTagSaisons4: ""
 tags:
     - "2005"
     - philosophie
+    - sonnet
 info: Reprise d'un poème-chanson de 1994
 type: sonnet
 acrostiche: ""

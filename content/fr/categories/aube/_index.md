@@ -2,4 +2,4 @@
 title = "Aube"
 +++
 
-Ce moment magique où le jour renaît.
+Ce moment magique où la nuit se change en jour.
