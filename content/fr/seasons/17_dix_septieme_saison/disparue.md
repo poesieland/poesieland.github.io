@@ -2,7 +2,7 @@
 title = "Disparue"
 id = "disparue_17"
 date = 2023-10-05
-weight = 29
+weight = 50
 categories = ["Révolte"]
 tags = ["philosophie", "2023", "acrostiche"]
 acrostiche = "Disparue"
