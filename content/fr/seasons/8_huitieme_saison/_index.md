@@ -12,4 +12,4 @@ De juillet à septembre 1998
 {{% children  %}}
 
 ---
-{{< chartjs id="season8Pie" width="50%" jsFile="../../charts/season-8-pie.js" />}}
+{{< chartjs id="season8Pie" width="75%" jsFile="../../charts/season-8-pie.js" />}}

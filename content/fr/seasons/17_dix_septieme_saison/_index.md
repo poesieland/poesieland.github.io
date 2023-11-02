@@ -12,4 +12,4 @@ D'octobre 2004 à octobre 2023
 {{% children  %}}
 
 ---
-{{< chartjs id="season17Pie" width="50%" jsFile="../../charts/season-17-pie.js" />}}
+{{< chartjs id="season17Pie" width="75%" jsFile="../../charts/season-17-pie.js" />}}

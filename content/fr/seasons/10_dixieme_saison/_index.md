@@ -12,4 +12,4 @@ De janvier à mars 1999
 {{% children  %}}
 
 ---
-{{< chartjs id="season10Pie" width="50%" jsFile="../../charts/season-10-pie.js" />}}
+{{< chartjs id="season10Pie" width="75%" jsFile="../../charts/season-10-pie.js" />}}

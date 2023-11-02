@@ -15,4 +15,4 @@ De 1994 à septembre 1996
 {{% children  %}}
 
 ---
-{{< chartjs id="season1Pie" width="50%" jsFile="../../charts/season-1-pie.js" />}}
+{{< chartjs id="season1Pie" width="75%" jsFile="../../charts/season-1-pie.js" />}}

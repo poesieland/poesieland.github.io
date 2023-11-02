@@ -1,6 +1,6 @@
 const addChart = (chartId, chartType, chartLabels, datas, options) => {
 
-     var datasets = [
+    var datasets = [
         {
             label: chartLabels[0],
             data: datas[0].map(row => row.value),
@@ -35,12 +35,12 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
                 labels: datas[0].map(row => row.label),
                 datasets: datasets,
             },
-            options: Object.assign({responsive: true}, options)
+            options: Object.assign({ responsive: true }, options)
         }
     );
 };
 
-const addPieChart = (chartId, datas, title) => { addChart(chartId, 'pie', [''], datas, {plugins: {title: { display: true, text: title }}}); };
+const addPieChart = (chartId, datas, title) => { addChart(chartId, 'pie', [''], datas, { plugins: { title: { display: true, text: title } } }); };
 
 const addBarChart = (chartId, chartLabels, datas) => { addChart(chartId, 'bar', chartLabels, datas, {}); };
 
@@ -55,6 +55,13 @@ const addRadarChart = (chartId, chartLabels, datas, border, background) => {
         elements: {
             line: {
                 borderWidth: 1
+            }
+        },
+        scales: {
+            r: {
+                ticks: {
+                    stepSize: 1
+                }
             }
         }
     });
