@@ -1,6 +1,6 @@
 +++
 title = "A quoi ressemble chaque Saison ?"
-weight = 3
+weight = 1
 +++
 {{< chartjs id="season1Pie" width="100%" jsFile="../season-1-pie.js" />}}
 

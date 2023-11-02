@@ -1,6 +1,6 @@
 +++
-title = "Nombre de vers par poème"
-weight = 2
+title = "Longueur des poèmes"
+weight = 3
 +++
 Les poèmes organisés en quatrains sont majoritaires.
 
