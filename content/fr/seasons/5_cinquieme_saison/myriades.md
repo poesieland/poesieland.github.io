@@ -6,6 +6,7 @@ weight = 40
 categories = ["Animaux", "Automne"]
 tags = ["nature", "saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Quand les oiseaux en myriade
@@ -21,9 +22,9 @@ Au-dessus de nos toits s'étagent
 
 Les étoiles d'oiseaux rêveurs,
 
-Mouvements doux de lents partages
+Mouvements doux de lents partages,
 
-Des parfums des derniers bonheurs.
+Parfums des derniers bonheurs.
 
  \
 Avant que l'hiver ne vous prenne

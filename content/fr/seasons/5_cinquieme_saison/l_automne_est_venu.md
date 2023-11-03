@@ -6,6 +6,7 @@ weight = 45
 categories = ["Automne"]
 tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'automne est venu comme un songe

@@ -5,8 +5,9 @@ date = 1995-11-01
 weight = 29
 categories = ["Mer", "Foi"]
 tags = ["nature", "philosophie", "1995"]
-info = "Un des rares poèmes en prose..."
+info = "Vers variable : poème en prose"
 LastModifierDisplayName = "Barbara Post"
+verseLength = -1
 +++
 
 Le ressac immortel

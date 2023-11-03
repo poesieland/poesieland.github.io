@@ -6,6 +6,7 @@ weight = 50
 categories = ["Hiver"]
 tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dans le grand Nord, autre savane,

@@ -7,6 +7,7 @@ categories = ["Enfance", "Flore"]
 tags = ["philosophie", "nature", "1994"]
 info = "Reprise en 1996 d'un poème de 1994"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Les bois d'un si beau vert me semblaient éloignés :

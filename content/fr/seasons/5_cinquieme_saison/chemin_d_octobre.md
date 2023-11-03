@@ -6,6 +6,7 @@ weight = 44
 categories = ["Automne"]
 tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Marcher dans les pas de l'automne :

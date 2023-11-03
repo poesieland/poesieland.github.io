@@ -6,6 +6,7 @@ weight = 48
 categories = ["Hiver"]
 tags = ["saisons", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'hiver a mis ses doigts de givre

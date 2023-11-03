@@ -6,6 +6,7 @@ weight = 43
 categories = ["Automne"]
 tags = ["saisons", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Une rose engourdie

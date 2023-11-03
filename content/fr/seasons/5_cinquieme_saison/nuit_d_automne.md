@@ -6,6 +6,7 @@ weight = 46
 categories = ["Nuit"]
 tags = ["ombres et lumières", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Clarté pâle d'étoiles

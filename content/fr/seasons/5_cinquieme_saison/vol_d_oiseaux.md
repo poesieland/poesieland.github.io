@@ -6,6 +6,7 @@ weight = 41
 categories = ["Animaux"]
 tags = ["nature", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Oiseaux : typographie

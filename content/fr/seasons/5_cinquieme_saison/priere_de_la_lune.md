@@ -7,6 +7,7 @@ categories = ["Lune", "Révolte"]
 tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Hijo de la luna"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Humble sur l'océan miroir de sa prière

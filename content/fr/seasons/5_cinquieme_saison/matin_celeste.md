@@ -6,6 +6,7 @@ weight = 42
 categories = ["Aube"]
 tags = ["ombres et lumières", "1997"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le ciel est bleu marine
