@@ -9,7 +9,7 @@ verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
 
-Parce que tu revians
+Parce que tu reviens
 
 Avec un temps de pause
 
