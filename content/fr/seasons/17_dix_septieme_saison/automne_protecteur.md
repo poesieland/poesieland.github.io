@@ -4,7 +4,8 @@ title: Automne protecteur
 id: automne_protecteur_17
 date: 2009-09-30
 divider: ""
-categories: []
+categories:
+    - Automne
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -40,7 +41,9 @@ ensureTagSaisons: ""
 ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
-tags: []
+tags:
+    - saisons
+    - "2009"
 info: ""
 type: ""
 acrostiche: ""

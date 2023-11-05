@@ -43,6 +43,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
     - nature
+    - "2016"
 info: Pour célébrer un joli anniversaire de ma maman
 type: sonnet
 acrostiche: ""

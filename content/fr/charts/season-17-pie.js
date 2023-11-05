@@ -25,7 +25,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(29, 78, 137, 1)' },
     { label: 'Printemps', value: 4, color: 'rgba(255, 182, 39, 1)' },
-    { label: 'Automne', value: 6, color: 'rgba(226, 113, 29, 1)' },
+    { label: 'Automne', value: 7, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 6, color: 'rgba(204, 88, 3, 1)' },
   ];
   addPieChart('season17Pie', [data], 'Dix-septième Saison : Traversées - D\'octobre 2004 à octobre 2023');
