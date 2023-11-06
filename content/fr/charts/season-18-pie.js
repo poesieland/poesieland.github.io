@@ -3,6 +3,7 @@ import { addPieChart } from './add-chart.js'
   const data = [
     { label: 'Romantisme', value: 2, color: 'rgba(255, 179, 198, 1)' },
     { label: 'Aube', value: 1, color: 'rgba(244, 228, 9, 1)' },
+    { label: 'Crépuscule', value: 1, color: 'rgba(166, 60, 6, 1)' },
     { label: 'Création', value: 1, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 2, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 2, color: 'rgba(140, 7, 221, 1)' },

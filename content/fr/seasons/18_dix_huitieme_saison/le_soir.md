@@ -1,11 +1,11 @@
 ---
-weight: 44
-title: La cloche
-id: la_cloche_17
-date: 2016-05-31
+weight: 16
+title: Le soir
+id: le_soir_18
+date: 2023-11-06
 divider: ""
 categories:
-    - Jardin et paysage
+    - Crépuscule
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,48 +42,46 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - nature
-    - "2016"
-info: Pour célébrer un joli anniversaire de ma maman
-type: sonnet
+    - "2023"
+    - ombres et lumières
+info: ""
+type: ""
 acrostiche: ""
 doubleAcrostiche: ""
-verseLength: 8
+verseLength: 6
 LastModifierDisplayName: Barbara Post
 ---
-Le matin frissonne, entends-tu
+Le soir tombe, gourmand
 
-Là-bas, la cloche au pâturage ?
+Quand je rentre en berline,
 
-Les tiges brillent, calme sage,
+Au souffle de l'amant
 
-Un oiseau vif s'est déjà tu.
-
- \
-La brume, en entrechat têtu
-
-Cache la fleur au butinage,
-
-La prairie aspire à la plage,
-
-Le ciel s'ouvre au sentier battu.
+Vers l'amante caline.
 
  \
-La cloche s'éloigne et puis tinte
+L'éclat qui rêve au ciel
 
-Pour partager la moindre teinte
+Mille baisers de moire
 
-De tous mes rêves à t'offrir.
+Bourdonne aux airs de miel
+
+Peut-être une autre histoire.
 
  \
-Le battement d'un rythme tente
+Je poursuis mon trajet,
 
-De faire oublier l'avenir,
+Je perdrai votre trace
 
-C'est le juste compte, septante !
+Lorsque le ciel d'un jet
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Pour célébrer un joli anniversaire de ma maman"}]} -->
-{{% notice style="primary" %}}
-Pour célébrer un joli anniversaire de ma maman
-{{% /notice %}}
-<!-- FM:Snippet:End -->
+Brûle horizon, l'embrasse.
+
+ \
+J'ai capturé couffin
+
+Du soir équilibriste,
+
+Le soleil plonge enfin,
+
+La nuit sera nudiste.
