@@ -7,3 +7,7 @@ weight = 2
 Je me suis aussi demandé si nombreux étaient les "jours blancs".
 
 {{< chartjs id="poemDayPie" width="50%" jsFile="../poem-day-pie.js" />}}
+
+Et les jours où j'écris plus d'un poème ?
+
+{{< chartjs id="poemIntensityPie" width="75%" jsFile="../poem-intensity-pie.js" />}}
