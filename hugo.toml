@@ -100,6 +100,11 @@ enableMissingTranslationPlaceholders = false
     name = "Chartjs"
     location = "header"
 
+[params.imageEffects]
+  border = false
+  lightbox = false
+  shadow = true
+
 [outputs]
 home = ["HTML", "SEARCH", "SEARCHPAGE"]
 section = ["HTML"]

@@ -1,11 +1,13 @@
 ---
-weight: 14
-title: Mon chat
-id: mon_chat_18
-date: 2023-11-03
+weight: 17
+title: L'arbre pirate
+id: l_arbre_pirate_18
+date: 2023-11-08
 divider: ""
 categories:
-    - Animaux
+    - Automne
+    - Flore
+    - Hiver
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -44,6 +46,7 @@ ensureTagSaisons4: ""
 tags:
     - "2023"
     - nature
+    - saisons
 info: ""
 type: ""
 acrostiche: ""
@@ -51,57 +54,46 @@ doubleAcrostiche: ""
 verseLength: 6
 LastModifierDisplayName: Barbara Post
 ---
-Mon chat vient et s'impose,
+Un arbre, gréément
 
-Capture mon regard,
+De forêt caravelle !
 
-Décrète : c'est la pause
+L'hiver maugrée et ment
 
-Maintenant, sans égard !
-
- \
-La caresse fusionne
-
-Posée en mon giron
-
-La trève de ma lionne,
-
-Un paisible ronron.
+D'infâme ritournelle !
 
  \
-Quel mal a donc ma chasse
+Un arbre flibustier
 
-Si je capture oiseau,
+Voyage par sa graine,
 
-Mon énergie y passe
+L'automne en son bustier
 
-Et c'est si bon cadeau.
-
- \
-Quand la température
-
-Influence animal
-
-Dehors j'en étais sûre,
-
-L'été, c'est minimal !
+Rêve d'ambre et d'ébène.
 
  \
-L'automne qui déboule
+Un arbre couvert d'or
 
-Habituel reprend
+Se voudrait tant pirate
 
-Mon chat qui dort en boule
+Pour l'immense trésor
 
-Tout près de son parent.
+Que trop placide il rate.
 
  \
-Elle est photogénique,
+Il voudrait comme ajonc
 
-Me fascine toujours,
+Chaque jour luxuriance
 
-Un caractère unique,
+Quand la sève au bourgeon
 
-Je l'aime, heureux nos jours !
+Attend printemps, clémence.
 
-![Mon chat](/images/mon_chat_18.png "Mon chat, 3 septembre 2022")
+ \
+Un arbre d'avenir
+
+Trace de l'an le cerne,
+
+Il berce souvenir,
+
+Il dort, un peu plus terne.

@@ -95,4 +95,4 @@ En balade,
 
 Généreux par bonté.
 
-![Le Ravel le 3 novembre 2023](/images/automne_genereux_18.png?lightbox=false&classes=shadow "Le Ravel le 3 novembre 2023")
+![Le Ravel le 3 novembre 2023](/images/automne_genereux_18.png "Le Ravel le 3 novembre 2023")
