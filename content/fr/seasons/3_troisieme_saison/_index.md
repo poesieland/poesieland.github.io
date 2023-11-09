@@ -4,7 +4,7 @@ summary = "Ces quelques mois philosophiquement presque exaltés, avant de conna�
 weight = 3
 +++
 
-Ces quelques mois presque exaltés, sur les thèmes du temps et de la nuit principalement, avec également le printemps, l'être et les portraits.
+Ces quelques mois presque exaltés, sur les thèmes du temps, du printemps, de la nuit principalement, avec également l'être, la lune et les portraits.
 
 De janvier à mai 1997
 
