@@ -6,6 +6,7 @@ weight = 7
 categories = ["Animaux"]
 tags = ["nature", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 D'une noire plume de merle

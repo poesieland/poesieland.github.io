@@ -6,6 +6,7 @@ weight = 6
 categories = ["Animaux", "Espoir"]
 tags = ["nature", "philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 J'ai dérobé d'un papillon

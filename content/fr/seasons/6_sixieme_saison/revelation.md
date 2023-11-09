@@ -6,6 +6,7 @@ weight = 5
 categories = ["Création"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Hier j'écrivais pour la première fois

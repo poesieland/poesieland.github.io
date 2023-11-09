@@ -6,6 +6,7 @@ weight = 8
 categories = ["Révolte"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sous le ciel bas dans un rictus

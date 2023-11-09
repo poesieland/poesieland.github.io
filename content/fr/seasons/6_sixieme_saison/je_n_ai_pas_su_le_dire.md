@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je n'ai pas su le dire"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Je n'ai pas su le dire aux pleurs du firmament

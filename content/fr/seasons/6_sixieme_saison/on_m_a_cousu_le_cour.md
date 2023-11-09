@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "On m'a cousu le cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 On m'a cousu les lèvres,

@@ -6,6 +6,7 @@ weight = 2
 categories = ["Apprentissage"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 Des mots touchants,

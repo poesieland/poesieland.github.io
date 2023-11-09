@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "La vie est comme un manège"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 La vie est comme un manège

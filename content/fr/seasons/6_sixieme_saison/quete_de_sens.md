@@ -6,6 +6,7 @@ weight = 1
 categories = ["Création"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je passe d'une langue à l'autre

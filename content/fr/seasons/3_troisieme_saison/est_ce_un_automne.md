@@ -3,8 +3,8 @@ title = "Est-ce un automne..."
 id = "est_ce_un_automne_3"
 date = 1997-04-27
 weight = 23
-categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "1997"]
+categories = [ "Temps", "Printemps" ]
+tags = [ "saisons", "philosophie", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
