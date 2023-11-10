@@ -1,5 +1,5 @@
 +++
-menuTitle = "Love is in the air"
+linkTitle = "Love is in the air"
 LastModifierDisplayName = "Baz Luhrmann"
 weight = 4
 +++

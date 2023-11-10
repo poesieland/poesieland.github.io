@@ -1,8 +1,5 @@
 +++
 title = "Alertbox"
-# If set, this will be used for the page's menu entry (instead of the `title` attribute)
-# menuTitle = ""
-# Hide a menu entry by setting this to true
 hidden = true
 +++
 

@@ -1,5 +1,5 @@
 +++
-menuTitle = "Pilgrim"
+linkTitle = "Pilgrim"
 weight = 5
 LastModifierDisplayName = "Enya - Roma Ryan"
 date = 2000-11-20

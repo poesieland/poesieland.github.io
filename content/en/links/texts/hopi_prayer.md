@@ -1,5 +1,5 @@
 +++
-menuTitle = "Hopi Prayer"
+linkTitle = "Hopi Prayer"
 weight = 3
 +++
 
