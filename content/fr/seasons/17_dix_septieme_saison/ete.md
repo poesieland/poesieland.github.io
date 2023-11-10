@@ -71,7 +71,7 @@ Je me confonds dans ce monde,
 L'ailleurs au rire d'airain.
 
  \
-C'est paisaible, transparaître
+C'est paisible, transparaître
 
 Et revenir en marchant
 

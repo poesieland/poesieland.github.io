@@ -3,8 +3,8 @@ title = "Dernier sacre"
 id = "dernier_sacre_13"
 date = 1999-08-31
 weight = 48
-categories = ["Temps", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+categories = [ "Portraits" ]
+tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "Dernier sacre"
 LastModifierDisplayName = "Barbara Post"
 +++
