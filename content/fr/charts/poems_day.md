@@ -10,4 +10,8 @@ Je me suis aussi demandé si nombreux étaient les "jours blancs".
 
 Et les jours où j'écris plus d'un poème ?
 
-{{< chartjs id="poemIntensityPie" width="75%" jsFile="../poem-intensity-pie.js" />}}
+{{< chartjs id="poemIntensityPie" width="50%" jsFile="../poem-intensity-pie.js" />}}
+
+Et dans le temps, quel est l'intervalle entre deux poèmes ?
+
+{{< chartjs id="poemIntervalBar" width="100%" jsFile="../poem-interval-bar.js" />}}
