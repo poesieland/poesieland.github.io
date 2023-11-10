@@ -22,7 +22,7 @@ Mon innocence a toujours cours
 
 Quand le rêve lance chamade,
 
-L'ombre sur les jardions et cours
+L'ombre sur les jardins et cours
 
 Chasse soleil d'une tirade.
 
