@@ -1,7 +1,7 @@
 ---
 weight: 40
 title: Automne, renaissance
-id: automne_renaissance17
+id: automne_renaissance_17
 date: 2008-09-08
 divider: ""
 categories:

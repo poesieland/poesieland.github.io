@@ -50,7 +50,9 @@ acrostiche: ""
 doubleAcrostiche: ""
 verseLength: -1
 LastModifierDisplayName: Barbara Post
-picture: Le Ravel le 3 novembre 2023
+pictures:
+    - Le Ravel le 3 novembre 2023
+    - Le Ravel le 3 novembre 2023
 ---
 Respire à pleins poumons !
 
@@ -96,4 +98,6 @@ En balade,
 
 Généreux par bonté.
 
-![Le Ravel le 3 novembre 2023](/images/automne_genereux_18.jpg "Le Ravel le 3 novembre 2023")
+![Le Ravel le 3 novembre 2023](/images/automne_genereux_18_0.jpg "Le Ravel le 3 novembre 2023")
+
+![Le Ravel le 3 novembre 2023](/images/automne_genereux_18_1.jpg "Le Ravel le 3 novembre 2023")

@@ -57,7 +57,7 @@ D'un seul souffle s'élève,
 
 Rituel éternel,
 
-De  novembre la trève.
+De novembre la trève.
 
  \
 Rythme d'un coeur qui bat,

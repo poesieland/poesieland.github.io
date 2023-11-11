@@ -457,9 +457,9 @@
           "type": "string"
         },
         {
-          "title": "Associated picture caption",
-          "name": "picture",
-          "type": "string"
+          "title": "Associated picture(s) caption",
+          "name": "pictures",
+          "type": "list"
         },
         {
           "title": "Type",

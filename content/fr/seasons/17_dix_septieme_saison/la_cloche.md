@@ -50,6 +50,8 @@ acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
+pictures:
+    - Là où tu passas ta jeunesse (photo de 2005)
 ---
 Le matin frissonne, entends-tu
 
@@ -81,6 +83,8 @@ Le battement d'un rythme tente
 De faire oublier l'avenir,
 
 C'est le juste compte, septante !
+
+![Image](/images/la_cloche_17_0.jpg "Là où tu passas ta jeunesse (photo de 2005)")
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Pour célébrer un joli anniversaire de ma maman"}]} -->
 {{% notice style="primary" %}}
