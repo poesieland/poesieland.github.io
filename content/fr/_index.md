@@ -11,17 +11,23 @@ Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne r
 
 Je suis francophone, cependant quelques poèmes sont [originellement dans une autre langue](/en/original_texts/), en anglais sauf un.
 
-Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public.
+Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public. Ces poèmes se répartissent entre la [cinquième](./seasons/5_cinquieme_saison) et la [huitième](./seasons/8_huitieme_saison) saison. J'ai placé une petite image à côté du lien vers le poème sur la page de sommaire des saisons concernées.
+
+![En six lettres t'aimer](/images/ensixlettres.jpg "En six lettres t'aimer")
 
 ## Ecrire et partager
 
-Depuis des années, les sensations précédant la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par un stimuli d'au moins un sens, et l'impression que quelque chose est en germe. Que je dois l'écrire pour le partager.
+Depuis des années, les sensations précédant la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par un stimuli d'au moins un sens, et l'impression que quelque chose est en germe, que je dois l'écrire pour le partager.
 
 S'il ne naît pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtra probablement jamais. Cela arrive lorsque je suis trop occupée par la vie quotidienne.
 
 J'ai observé que j'arrive à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je note un vers ou deux directement, mais pas plus !
 
-Cependant, ce qui était vrai il y a 20 ans l'est moins, ma démarche est plus analytique, j'arrive à désormais mémoriser le contexte de l'inspiration, composé des 5 sens et de la voix intérieure. Ecrire le poème prendra peut-être un peu plus de temps parce que je porte plus d'attention au choix des mots mais sera fidèle à l'inspiration initiale. C'est aussi de retravailler sur ce site web après 15 ans sans y toucher qui m'a fait redécouvrir les magnifiques poèmes pas encore numériques, et a ravivé la créativité. Une belle pensée circule sous énormément de formes et affirme : la créativité, c'est comme un muscle, ça se cultive !
+Cependant, ce qui était vrai il y a vingt ans l'est moins, ma démarche est plus analytique, j'arrive à désormais mémoriser le contexte de l'inspiration, composé des cinq sens et de la voix intérieure. Ecrire le poème prendra peut-être un peu plus de temps parce que je porte plus d'attention au choix des mots mais sera fidèle à l'inspiration initiale.
+
+C'est aussi de retravailler sur ce site web après quinze ans sans y toucher qui m'a fait redécouvrir les magnifiques poèmes pas encore numériques, et a ravivé la créativité. Une belle pensée circule sous énormément de formes et affirme : la créativité, c'est comme un muscle, ça se cultive !
+
+De plus, le moteur de recherche intégré au site me permet de voir quel sujet je n'ai pas encore abordé.
 
 De temps à autres le processus de maturation prend plusieurs jours, ou plusieurs mois, et le résultat n'est pas prévisible, en terme de "beauté brute". C'est dans ce cas plus une méditation qu'un "éclat".
 
@@ -59,4 +65,4 @@ Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 29.10.2023
+Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 11.11.2023

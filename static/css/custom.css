@@ -129,3 +129,28 @@ a#logo {
     background-color: white;
     padding: 20px;
 }
+
+/* custom image */
+h1#cinquième-saison--espaces-de-vie ~ ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
+h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(41)>a:after,
+h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(n + 45):nth-child(-n + 47)>a:after,
+h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(49)>a:after,
+h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(50)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(n + 2):nth-child(-n + 3)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(5)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(7)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(n + 10):nth-child(-n + 23)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(27)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(44)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(45)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(47)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(50)>a:after,
+h1#septième-saison--croire ~ ul.children>li:nth-child(27)>a:after,
+h1#huitième-saison--reflets-perdus ~ ul.children>li:nth-child(n + 1):nth-child(-n + 21)>a:after
+{
+        content: url('/images/ensixlettres_25.jpg');
+        position: relative;
+        left: 5px;
+        top: 7px;
+}
+
