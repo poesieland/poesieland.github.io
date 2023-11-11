@@ -154,3 +154,12 @@ h1#huitième-saison--reflets-perdus ~ ul.children>li:nth-child(n + 1):nth-child(
         top: 7px;
 }
 
+/* img caption */
+#R-body .img-caption {
+    display: block;
+    margin-top: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: smaller;
+}

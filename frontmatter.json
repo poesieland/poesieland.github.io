@@ -38,6 +38,16 @@
           "description": "Don't forget to add the writing year in tags"
         },
         {
+          "title": "Verse length",
+          "name": "verseLength",
+          "type": "number",
+          "required": false,
+          "min": -1,
+          "max": 14,
+          "step": 1,
+          "description": "Put -1 here when variable length and add 'Vers variable : ' + comma-separated values in info. Repeat info in notice."
+        },
+        {
           "name": "divider",
           "type": "divider"
         },
@@ -447,6 +457,11 @@
           "type": "string"
         },
         {
+          "title": "Associated picture caption",
+          "name": "picture",
+          "type": "string"
+        },
+        {
           "title": "Type",
           "name": "type",
           "type": "choice",
@@ -468,16 +483,6 @@
           "name": "doubleAcrostiche",
           "type": "string",
           "description": "Don't forget to add doubleAcrostiche tag and mention double acrostiche in notice"
-        },
-        {
-          "title": "Verse length",
-          "name": "verseLength",
-          "type": "number",
-          "required": false,
-          "min": -1,
-          "max": 14,
-          "step": 1,
-          "description": "Put -1 here when variable length and add 'Vers variable : ' + comma-separated values in info. Repeat info in notice."
         },
         {
           "title": "LastModifierDisplayName",

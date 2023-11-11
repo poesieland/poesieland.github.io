@@ -50,6 +50,7 @@ acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6
 LastModifierDisplayName: Barbara Post
+picture: Mon chat, 3 septembre 2022
 ---
 Mon chat vient et s'impose,
 
@@ -104,4 +105,4 @@ Un caractère unique,
 
 Je l'aime, heureux nos jours !
 
-![Mon chat](/images/mon_chat_18.png "Mon chat, 3 septembre 2022")
+![Mon chat](/images/mon_chat_18.jpg "Mon chat, 3 septembre 2022")
