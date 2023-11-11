@@ -50,11 +50,7 @@ import { addBarChart } from './add-chart.js'
     { label: '190j', value: 1, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '210j', value: 1, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '362j', value: 1, color: 'rgba(72, 149, 239, 0.9)' },
-    { label: '376j', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '923j', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '947j', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '1512j', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '1589j', value: 1, color: 'rgba(72, 149, 239, 1)' },
+    { label: 'Plus d\'un an', value: 5, color: 'rgba(72, 149, 239, 1)' },
   ];
     addBarChart('poemIntervalBar', ['Fréquence'], [data]);
 })();
