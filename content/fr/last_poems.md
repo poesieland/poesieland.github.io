@@ -1,5 +1,7 @@
 **Derniers ajouts 2023:**
 
+[Promenade mentale, écrit le 12.11.2023](./seasons/18_dix_huitieme_saison/promenade_mentale/)
+
 [Armistice, écrit le 11.11.2023](./seasons/18_dix_huitieme_saison/armistice/)
 
 [L'arbre pirate, écrit le 08.11.2023](./seasons/18_dix_huitieme_saison/l_arbre_pirate/)
