@@ -7,6 +7,7 @@ categories = ["Amitié", "Portraits"]
 tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "Sur papier glacé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur papier glacé tu souris

@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Valse du temps"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Valse du temps vole aquarelles

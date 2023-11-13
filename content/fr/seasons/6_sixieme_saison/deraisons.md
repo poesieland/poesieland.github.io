@@ -6,6 +6,7 @@ weight = 16
 categories = ["Révolte"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Même si le ciel gris

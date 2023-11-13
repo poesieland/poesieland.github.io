@@ -7,6 +7,7 @@ categories = ["Printemps"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "O Printemps si beau"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 O doux printemps aux magiques senteurs !

@@ -1,11 +1,12 @@
 +++
-title = "Le Dernier Rendez-vous"
+title = "Le dernier rendez-vous"
 id = "le_dernier_rendez_vous_6"
 date = 1998-04-15
 weight = 14
 categories = ["Temps"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 A mon dernier rendez-vous

@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Qu'as-tu marqué ?"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Qu'as-tu marqué sur cette page ?

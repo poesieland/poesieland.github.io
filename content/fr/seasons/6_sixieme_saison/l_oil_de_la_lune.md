@@ -6,6 +6,7 @@ weight = 15
 categories = ["Lune"]
 tags = ["ombres et lumières", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Lune, disque sur ciel pâli
