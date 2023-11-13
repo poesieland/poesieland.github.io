@@ -63,7 +63,7 @@ Mes lieux si chers, dans mes annales !
 
 Sur toute la gamme des verts
 
-Toute une existance au travers
+Toute une existence au travers
 
 De mes souvenirs se dessine,
 
@@ -71,7 +71,7 @@ C'est le refrain de ma comptine !
 
 Ce sont mes jardins à jamais
 
-Transfigurées des juins aux mais,
+Transfigurés des juins aux mais,
 
 Je chéris les arbres qui furent
 

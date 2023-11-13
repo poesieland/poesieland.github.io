@@ -1,0 +1,22 @@
+{
+  "description": "Insert an image with caption",
+  "body": [
+    "![Image](/images/[[&imageName]] \"[[&imageCaption]]\")"
+  ],
+  "fields": [
+    {
+      "name": "imageName",
+      "title": "Image name",
+      "type": "string",
+      "single": true,
+      "default": "poem_id_1.jpg"
+    },
+    {
+      "name": "imageCaption",
+      "title": "Image caption",
+      "type": "string",
+      "single": true,
+      "default": ""
+    }
+  ]
+}

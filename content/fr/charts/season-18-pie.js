@@ -8,6 +8,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Portraits', value: 3, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 3, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },
+    { label: 'Eau douce', value: 1, color: 'rgba(37, 162, 68, 1)' },
     { label: 'Animaux', value: 3, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(255, 182, 39, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(255, 149, 5, 1)' },

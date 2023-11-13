@@ -1,7 +1,7 @@
 {
     "search.useIgnoreFiles": false,
     "[markdown]": {
-        "editor.fontSize": 14,
+        "editor.fontSize": 16,
         "editor.lineHeight": 26,
         "editor.wordWrap": "wordWrapColumn",
         "editor.wordWrapColumn": 64,

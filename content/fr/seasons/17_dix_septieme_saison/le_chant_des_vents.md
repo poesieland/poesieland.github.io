@@ -3,17 +3,18 @@ title = "Le chant des vents"
 id = "le_chant_des_vents_17"
 date = 2005-04-11
 weight = 20
-categories = ["Flore", "Temps"]
-tags = ["nature", "philosophie", "2005"]
+categories = [ "Flore", "Temps" ]
+tags = [ "nature", "philosophie", "2005" ]
 verseLength = 10
 LastModifierDisplayName = "Barbara Post"
+pictures = [ "Photo du 29.08.2004" ]
 +++
 
 Dans mon jardin, treize ans plus tôt déjà
 
 Un bouleau blanc prit lentement racine,
 
-Germé, moiracle, au printemps qui s'incline.
+Germé, miracle, au printemps qui s'incline.
 
 Vers le ciel, quête où rien ne le figea.
 
@@ -34,3 +35,7 @@ Chanter ainsi soleil renouvelé.
 Je pense à toi : le chant des vents aimables
 
 Déconcertant dans mon jardin mêlé.
+
+<!-- FM:Snippet:Start data:{"id":"_image","fields":[{"name":"imageName","value":"le_chant_des_vents_17_1.jpg"},{"name":"imageCaption","value":"Photo du 29.08.2004"}]} -->
+![Image](/images/le_chant_des_vents_17_1.jpg "Photo du 29.08.2004")
+<!-- FM:Snippet:End -->
