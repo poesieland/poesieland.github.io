@@ -1,5 +1,7 @@
 **Derniers ajouts 2023:**
 
+[Oiseaux d'automne, écrit le 14.11.2023](./seasons/18_dix_huitieme_saison/oiseaux_d_automne/)
+
 [La pluie, écrit le 13.11.2023](./seasons/18_dix_huitieme_saison/la_pluie/)
 
 [Promenade mentale, écrit le 12.11.2023](./seasons/18_dix_huitieme_saison/promenade_mentale/)
@@ -8,8 +10,3 @@
 
 [L'arbre pirate, écrit le 08.11.2023](./seasons/18_dix_huitieme_saison/l_arbre_pirate/)
 
-[Le soir, écrit le 06.11.2023](./seasons/18_dix_huitieme_saison/le_soir/)
-
-[Automne généreux, écrit le 03.11.2023](./seasons/18_dix_huitieme_saison/automne_genereux/)
-
-[Mon chat, écrit le 03.11.2023](./seasons/18_dix_huitieme_saison/mon_chat/)
