@@ -3,9 +3,10 @@ title = "Confidence du soir"
 id = "confidence_du_soir_6"
 date = 1998-05-12
 weight = 33
-categories = ["Etre"]
-tags = ["philosophie", "1998"]
+categories = [ "Etre" ]
+tags = [ "1998", "philosophie" ]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Lorsque ainsi se transmue en chaque effleurement

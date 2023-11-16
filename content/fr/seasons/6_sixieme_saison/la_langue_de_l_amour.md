@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "La langue de l'amour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'unique langue de l'amour

@@ -6,6 +6,7 @@ weight = 39
 categories = ["Etre"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Je t'offrirai des roses,

@@ -6,6 +6,7 @@ weight = 23
 categories = ["Etre"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Dissocier l'œil et la main,

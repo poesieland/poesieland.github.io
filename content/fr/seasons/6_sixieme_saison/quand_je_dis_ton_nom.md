@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Quand je dis ton nom"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Quand je dis ton nom qui s'envole,
@@ -33,7 +34,7 @@ Saccadé d'un muet sanglot
 
 Tombé d'un printemps qui m'afflige :
 
-O je ne peux le trouver beau !
+Ô je ne peux le trouver beau !
 
  \
 Nue, écorchée en pleine page

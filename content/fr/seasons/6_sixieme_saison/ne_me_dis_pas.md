@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ne me dis pas"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Ne me dis pas ce que ton cœur cachait

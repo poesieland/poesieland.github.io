@@ -6,6 +6,7 @@ weight = 22
 categories = ["Etre"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A l'aube on a refait le monde,

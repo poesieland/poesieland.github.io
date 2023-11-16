@@ -6,6 +6,7 @@ weight = 35
 categories = ["Espoir"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 En mai dis-moi toujours le rêve et l'amitié,

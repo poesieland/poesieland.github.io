@@ -6,6 +6,7 @@ weight = 30
 categories = ["Portraits"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu m'as croisée en un éclair,

@@ -6,6 +6,7 @@ weight = 43
 categories = ["Amour malheureux"]
 tags = ["amour", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Ton cœur qui désespère

@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Derrière l'ombre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Derrière l'ombre claire

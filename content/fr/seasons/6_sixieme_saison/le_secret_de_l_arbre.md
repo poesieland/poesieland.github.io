@@ -7,6 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Le secret de l'arbre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'arbre en un murmure d'écorce

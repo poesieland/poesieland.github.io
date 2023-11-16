@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je ne sais t'oublier"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je ne sais t'oublier, aimé,

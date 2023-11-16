@@ -6,6 +6,7 @@ weight = 36
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Fredonne-moi l'amour,

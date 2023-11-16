@@ -7,6 +7,7 @@ categories = ["Amitié"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Un regard"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Un soir de juin, je n'ai pas oublié :

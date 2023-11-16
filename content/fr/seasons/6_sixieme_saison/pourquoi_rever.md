@@ -6,6 +6,7 @@ weight = 47
 categories = ["Amour malheureux"]
 tags = ["amour", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Pourquoi rêver tant de faux rêves,

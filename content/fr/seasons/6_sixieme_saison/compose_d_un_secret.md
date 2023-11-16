@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Composé d'un secret"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Composé d'un secret,

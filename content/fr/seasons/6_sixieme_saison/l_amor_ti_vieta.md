@@ -8,6 +8,7 @@ tags = ["attitudes", "amour", "1998", "acrostiche"]
 info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Lentement quand l'amour se pare de merveille,

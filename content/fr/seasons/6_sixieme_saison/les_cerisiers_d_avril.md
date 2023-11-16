@@ -3,9 +3,10 @@ title = "Les Cerisiers d'avril"
 id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34
-categories = ["Flore"]
-tags = ["nature", "1998"]
+categories = [ "Flore", "Romantisme" ]
+tags = [ "1998", "nature", "amour" ]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Aux pleurs des cerisiers d'avril

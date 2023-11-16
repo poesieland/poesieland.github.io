@@ -6,6 +6,7 @@ weight = 25
 categories = ["Amitié"]
 tags = ["amour", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu m'as conquise d'un sourire,

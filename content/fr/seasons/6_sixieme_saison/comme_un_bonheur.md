@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Comme un bonheur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Comme un bonheur au tien promis,

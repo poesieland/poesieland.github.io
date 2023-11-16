@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Œil miroir de l'âme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ouverts, fermés, quelle importance ?

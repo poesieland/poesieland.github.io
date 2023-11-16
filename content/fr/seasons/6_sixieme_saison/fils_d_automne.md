@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Fils d'automne"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Fils d'automne ton cœur naquit
@@ -27,7 +28,7 @@ Uniques sentiments si vrais,
 Tous ces bonheurs gravés, poussière...
 
  \
-ô comme l'ombre se souvient,
+Ô comme l'ombre se souvient,
 
 Mélodieux nouveau message;
 

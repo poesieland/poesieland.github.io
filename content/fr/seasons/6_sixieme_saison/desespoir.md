@@ -6,6 +6,7 @@ weight = 48
 categories = ["Création"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Tu ne peux voir ce qu'on ne sait pas dire,

@@ -7,6 +7,7 @@ categories = ["Amitié"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Nostalgique de toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Nostalgique de toi comme un parfum s'embrume;

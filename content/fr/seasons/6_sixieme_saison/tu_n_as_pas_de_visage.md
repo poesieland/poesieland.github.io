@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Tu n'as pas de visage"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Tu n'as pas de visage à l'ombre dérobée,

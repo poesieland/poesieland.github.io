@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Qu'un seul désir me berce"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Qu'un seul désir me berce encor,

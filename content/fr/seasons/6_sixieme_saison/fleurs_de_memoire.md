@@ -6,6 +6,7 @@ weight = 26
 categories = ["Temps"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Au dernier rang du cimetière

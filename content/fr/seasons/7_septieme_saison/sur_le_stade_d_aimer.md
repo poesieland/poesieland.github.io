@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Sur le stade d'aimer"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur le grand stade de mon cœur

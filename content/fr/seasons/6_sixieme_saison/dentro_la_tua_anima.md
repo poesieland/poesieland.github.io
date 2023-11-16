@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dentro la tua anima"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dis-moi qu'au berceau de ton âme

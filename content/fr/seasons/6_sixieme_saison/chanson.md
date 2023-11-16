@@ -6,6 +6,7 @@ weight = 41
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Jubilé d'immense clameur
