@@ -13,3 +13,4 @@ De septembre à décembre 1996
 
 ---
 {{< chartjs id="season2Pie" width="75%" jsFile="../../charts/season-2-pie.js" />}}
+{{< chartjs id="season2VerseLengthBar" width="75%" jsFile="../../charts/season-2-verse-length-bar.js" />}}

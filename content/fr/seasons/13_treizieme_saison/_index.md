@@ -13,3 +13,4 @@ De juillet à novembre 1999
 
 ---
 {{< chartjs id="season13Pie" width="75%" jsFile="../../charts/season-13-pie.js" />}}
+{{< chartjs id="season13VerseLengthBar" width="75%" jsFile="../../charts/season-13-verse-length-bar.js" />}}

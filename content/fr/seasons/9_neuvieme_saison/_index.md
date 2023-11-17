@@ -13,3 +13,4 @@ De septembre à décembre 1998
 
 ---
 {{< chartjs id="season9Pie" width="75%" jsFile="../../charts/season-9-pie.js" />}}
+{{< chartjs id="season9VerseLengthBar" width="75%" jsFile="../../charts/season-9-verse-length-bar.js" />}}

@@ -16,3 +16,4 @@ De 1994 à septembre 1996
 
 ---
 {{< chartjs id="season1Pie" width="75%" jsFile="../../charts/season-1-pie.js" />}}
+{{< chartjs id="season1VerseLengthBar" width="75%" jsFile="../../charts/season-1-verse-length-bar.js" />}}

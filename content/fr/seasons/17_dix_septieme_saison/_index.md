@@ -13,3 +13,4 @@ D'octobre 2004 à octobre 2023
 
 ---
 {{< chartjs id="season17Pie" width="75%" jsFile="../../charts/season-17-pie.js" />}}
+{{< chartjs id="season17VerseLengthBar" width="75%" jsFile="../../charts/season-17-verse-length-bar.js" />}}

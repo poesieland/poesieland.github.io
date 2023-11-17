@@ -13,3 +13,4 @@ D'avril à décembre 2001
 
 ---
 {{< chartjs id="season15Pie" width="75%" jsFile="../../charts/season-15-pie.js" />}}
+{{< chartjs id="season15VerseLengthBar" width="75%" jsFile="../../charts/season-15-verse-length-bar.js" />}}

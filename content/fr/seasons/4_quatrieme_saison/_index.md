@@ -11,3 +11,4 @@ Une Saison riche d'un essor romantique, célébration de l'automne et également
 
 ---
 {{< chartjs id="season4Pie" width="75%" jsFile="../../charts/season-4-pie.js" />}}
+{{< chartjs id="season4VerseLengthBar" width="75%" jsFile="../../charts/season-4-verse-length-bar.js" />}}

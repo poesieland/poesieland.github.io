@@ -13,3 +13,4 @@ Juin et juillet 1998
 
 ---
 {{< chartjs id="season7Pie" width="75%" jsFile="../../charts/season-7-pie.js" />}}
+{{< chartjs id="season7VerseLengthBar" width="75%" jsFile="../../charts/season-7-verse-length-bar.js" />}}

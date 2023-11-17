@@ -13,3 +13,4 @@ D'octobre 2023 à ce jour
 
 ---
 {{< chartjs id="season18Pie" width="75%" jsFile="../../charts/season-18-pie.js" />}}
+{{< chartjs id="season18VerseLengthBar" width="75%" jsFile="../../charts/season-18-verse-length-bar.js" />}}

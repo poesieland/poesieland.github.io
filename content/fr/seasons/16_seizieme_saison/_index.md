@@ -15,3 +15,4 @@ De mars 2002 à octobre 2004
 
 ---
 {{< chartjs id="season16Pie" width="75%" jsFile="../../charts/season-16-pie.js" />}}
+{{< chartjs id="season16VerseLengthBar" width="75%" jsFile="../../charts/season-16-verse-length-bar.js" />}}

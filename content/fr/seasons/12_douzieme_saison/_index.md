@@ -13,3 +13,4 @@ De mai à juillet 1999
 
 ---
 {{< chartjs id="season12Pie" width="75%" jsFile="../../charts/season-12-pie.js" />}}
+{{< chartjs id="season12VerseLengthBar" width="75%" jsFile="../../charts/season-12-verse-length-bar.js" />}}

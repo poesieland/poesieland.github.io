@@ -13,3 +13,4 @@ De mars à mai 1999
 
 ---
 {{< chartjs id="season11Pie" width="75%" jsFile="../../charts/season-11-pie.js" />}}
+{{< chartjs id="season11VerseLengthBar" width="75%" jsFile="../../charts/season-11-verse-length-bar.js" />}}

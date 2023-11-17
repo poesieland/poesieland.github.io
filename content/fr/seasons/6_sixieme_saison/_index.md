@@ -13,3 +13,4 @@ De mars à juin 1998
 
 ---
 {{< chartjs id="season6Pie" width="75%" jsFile="../../charts/season-6-pie.js" />}}
+{{< chartjs id="season6VerseLengthBar" width="75%" jsFile="../../charts/season-6-verse-length-bar.js" />}}

@@ -13,3 +13,4 @@ De novembre 1999 à mars 2001
 
 ---
 {{< chartjs id="season14Pie" width="75%" jsFile="../../charts/season-14-pie.js" />}}
+{{< chartjs id="season14VerseLengthBar" width="75%" jsFile="../../charts/season-14-verse-length-bar.js" />}}
