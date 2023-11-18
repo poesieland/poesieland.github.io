@@ -6,6 +6,7 @@ weight = 5
 categories = ["Apprentissage"]
 tags = ["philosophie", "2002"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Si tu savais, maman, modèle,

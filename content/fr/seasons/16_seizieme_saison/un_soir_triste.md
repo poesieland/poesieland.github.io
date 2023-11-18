@@ -7,6 +7,7 @@ categories = ["Temps", "Nuit", "Ville"]
 tags = ["philosophie", "ombres et lumières", "2004", "acrostiche"]
 acrostiche = "Un soir triste"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Un chat miaulait, lointain, gourmandé par son maître,

@@ -7,6 +7,7 @@ categories = ["Nuit", "Eau douce"]
 tags = ["ombres et lumières", "nature", "2003", "acrostiche"]
 acrostiche = "Miroir de mes rêves"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Miroir, aux cent visages, étoiles

@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2004", "acrostiche"]
 acrostiche = "Mais où vais-je ?"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Mes désirs ont craqué d'un bouquet crissant, sec,

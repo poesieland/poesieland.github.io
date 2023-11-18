@@ -7,6 +7,7 @@ categories = ["Printemps", "Flore"]
 tags = ["saisons", "nature", "2004", "acrostiche"]
 acrostiche = "Esprit du printemps"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Entre giboulées et lumières

@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "2002", "acrostiche"]
 acrostiche = "Oh que je t'aime"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Oui, mon âme à toi, toute, aube de ces rivages,
@@ -17,6 +18,7 @@ Qui s'en vont recueillir et fleurir nos visages...
 
 Une vie, une nuit, un monde à cœur à corps.
 
+ \
 Emmenons le voyage à l'union sacrée
 
 Jeter l'ancre du ciel à l'écume des flots !
@@ -25,6 +27,7 @@ Emmenons, transcendante, une veine nacrée
 
 Tisser ramure à l'arbre enchanté sur les eaux.
 
+ \
 Ami, mon rêve à toi se pare de merveille,
 
 Irradiée en vie et promesse en chemin :

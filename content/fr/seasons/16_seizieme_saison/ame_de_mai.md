@@ -6,6 +6,7 @@ weight = 29
 categories = ["Jardin et paysage", "Printemps"]
 tags = ["nature", "saisons", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Sur les verts et les bleus construire un éther, nue

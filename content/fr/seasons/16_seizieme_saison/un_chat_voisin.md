@@ -7,6 +7,7 @@ categories = ["Animaux"]
 tags = ["nature", "2003", "acrostiche"]
 acrostiche = "Un chat voisin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un chat si beau me rend visite,

@@ -7,6 +7,7 @@ categories = ["Automne", "Etre"]
 tags = ["saisons", "philosophie", "2003", "acrostiche"]
 acrostiche = "Trêve du coeur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tombent les feuilles, impassibles

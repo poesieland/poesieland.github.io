@@ -6,6 +6,7 @@ weight = 18
 categories = ["Automne", "Ville"]
 tags = ["saisons", "ombres et lumières", "2003"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Les feuilles poissent gras

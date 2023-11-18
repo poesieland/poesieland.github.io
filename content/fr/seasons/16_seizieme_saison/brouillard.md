@@ -6,6 +6,7 @@ weight = 28
 categories = ["Jardin et paysage", "Musique et chant"]
 tags = ["nature", "attitudes", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Déforme les distances,

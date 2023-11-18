@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "2003", "acrostiche"]
 acrostiche = "A la dérive, moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A la dérive j'ai planté

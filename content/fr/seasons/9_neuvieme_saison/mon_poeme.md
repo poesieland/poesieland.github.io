@@ -7,9 +7,10 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mon poème"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
-Mon poème c'est étrange
+Mon poème, c'est étrange
 
 Offense les silencieux
 
@@ -17,6 +18,7 @@ Noms de nos Saints et Dieux...
 
 Peut-être que l'âme change,
 
+\
 Osant visiter plus loin,
 
 Emportant le vent des rimes;

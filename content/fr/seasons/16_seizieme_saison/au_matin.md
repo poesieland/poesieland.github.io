@@ -6,6 +6,7 @@ weight = 25
 categories = ["Aube"]
 tags = ["ombres et lumières", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Au matin voiles verts

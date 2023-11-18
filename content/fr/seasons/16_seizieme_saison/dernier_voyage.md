@@ -5,7 +5,7 @@ date = 2004-07-02
 weight = 40
 categories = ["Etre"]
 tags = ["philosophie", "2004"]
-verseLength = 0
+verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++
 

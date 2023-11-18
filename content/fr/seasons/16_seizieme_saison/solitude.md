@@ -7,6 +7,7 @@ categories = ["Lune", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2003", "acrostiche"]
 acrostiche = "Solitude"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur le sol des traces de lune

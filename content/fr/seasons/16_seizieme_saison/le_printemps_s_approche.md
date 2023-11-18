@@ -7,6 +7,7 @@ categories = ["Printemps", "Jardin et paysage"]
 tags = ["saisons", "nature", "2003", "acrostiche"]
 acrostiche = "Le printemps s'approche"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Le printemps s'approche,

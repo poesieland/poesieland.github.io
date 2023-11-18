@@ -7,6 +7,7 @@ categories = ["Toucher", "Aimé (amant)"]
 tags = ["attitudes", "amour", "2002", "acrostiche"]
 acrostiche = "Ta bouche"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Tu sais, je sens toujours tes lèvres sur les miennes,
@@ -17,6 +18,7 @@ Brise, le parfum vert de l'été sur les draps
 
 Ourle un rêve mutin, de nos désirs antiennes.
 
+ \
 Un baiser, donne-moi ce geste si charmant !
 
 Ce toucher doux, gracieux, l'éternel privilège !

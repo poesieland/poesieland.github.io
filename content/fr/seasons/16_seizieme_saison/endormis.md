@@ -7,6 +7,7 @@ categories = ["Sommeil", "Romantisme"]
 tags = ["attitudes", "amour", "2002", "acrostiche"]
 acrostiche = "Endormis"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Endormie en tes bras, au paradis, sommeil
@@ -17,6 +18,7 @@ Doux comme une chaleur corporelle au réveil.
 
 Où se cache ta nuit ? Si nos ombres s'enlèvent
 
+ \
 Repliées, étendues, céleste froissement,
 
 Mirons nos cœurs cachés, et puis d'une alliance

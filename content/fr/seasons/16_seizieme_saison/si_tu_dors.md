@@ -7,6 +7,7 @@ categories = ["Aimé (amant)", "Sommeil"]
 tags = ["amour", "attitudes", "2002", "acrostiche"]
 acrostiche = "Si tu dors"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Si tu dors, ô je te regarde,

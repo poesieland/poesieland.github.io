@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "2003", "acrostiche"]
 acrostiche = "Je me languis de toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Je n'ai l'idée, aimé, que de languir,

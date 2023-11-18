@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "2002", "acrostiche"]
 acrostiche = "Cœurs amants"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Comme tu t'en vas, beau, je sais que tu reviens;

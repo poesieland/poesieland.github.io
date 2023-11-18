@@ -7,6 +7,7 @@ categories = ["Neige", "Ville"]
 tags = ["nature", "ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Marcher : neige"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Marcher, le sol noir devient blanc,

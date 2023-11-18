@@ -6,6 +6,7 @@ weight = 27
 categories = ["Création", "Temps"]
 tags = ["philosophie", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Adieux à mes étoiles,

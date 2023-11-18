@@ -7,6 +7,7 @@ categories = ["Aimé (amant)", "Amour malheureux"]
 tags = ["amour", "2002", "acrostiche"]
 acrostiche = "En paillettes"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 En paillettes de verre, éclats de carrelage

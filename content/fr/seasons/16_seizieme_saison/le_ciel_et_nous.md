@@ -7,6 +7,7 @@ categories = ["Temps", "Etre"]
 tags = ["philosophie", "2004", "acrostiche"]
 acrostiche = "Le ciel et nous"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel tout clair en cette nuit

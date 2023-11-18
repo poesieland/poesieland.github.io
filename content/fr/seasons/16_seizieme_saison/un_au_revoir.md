@@ -6,6 +6,7 @@ weight = 26
 categories = ["Ville", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Douceur du soir, Paris tu

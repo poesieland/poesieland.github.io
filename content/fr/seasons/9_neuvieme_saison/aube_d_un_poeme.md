@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Aube d'un poème"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Alors pensé, crée, vivant à peine en germe,

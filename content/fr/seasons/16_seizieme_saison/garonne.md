@@ -6,6 +6,7 @@ weight = 24
 categories = ["Eau douce"]
 tags = ["nature", "2004"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Semblable ciel, la Seine ou la Garonne

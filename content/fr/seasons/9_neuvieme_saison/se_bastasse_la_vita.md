@@ -8,6 +8,7 @@ tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 info = "\"Si la vie suffisait\" en italien. Inspiré par plusieurs chansons."
 acrostiche = "Se bastasse la vita"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 S'il suffisait d'une chanson,

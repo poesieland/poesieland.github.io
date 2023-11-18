@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2003", "acrostiche"]
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dans ce lieu, du temps se mesurent rayons
