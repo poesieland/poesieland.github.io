@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Méditation"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Molles ailes, violons

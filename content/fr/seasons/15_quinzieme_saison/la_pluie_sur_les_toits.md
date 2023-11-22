@@ -7,6 +7,7 @@ categories = ["Ville", "Eau douce"]
 tags = ["ombres et lumières", "nature", "2001", "acrostiche"]
 acrostiche = "La pluie sur les toits"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La pluie éteint tous les sourires

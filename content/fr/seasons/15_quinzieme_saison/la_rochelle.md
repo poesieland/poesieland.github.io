@@ -6,6 +6,7 @@ weight = 9
 categories = ["Ville", "Portraits"]
 tags = ["ombres et lumières", "philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 La cité m'interpelle:

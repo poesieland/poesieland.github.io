@@ -7,6 +7,7 @@ categories = ["Temps", "Automne"]
 tags = ["philosophie", "saisons", "2001", "acrostiche"]
 acrostiche = "Case départ"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Comme l'octobre lit novembre,

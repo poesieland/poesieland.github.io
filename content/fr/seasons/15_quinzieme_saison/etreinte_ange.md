@@ -7,6 +7,7 @@ categories = ["Toucher", "Temps"]
 tags = ["attitudes", "philosophie", "2001", "acrostiche"]
 acrostiche = "Etreinte - ange"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 En ce jour triste mes doigts frôlent

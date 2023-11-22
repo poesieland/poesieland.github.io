@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Dans les notes"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Devenir voix, abîme au corps

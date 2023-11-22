@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "2001"]
 info = "En mémoire des 113 victimes du crash du Concorde du 25.07.2000."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Toutes les femmes sont en noir,

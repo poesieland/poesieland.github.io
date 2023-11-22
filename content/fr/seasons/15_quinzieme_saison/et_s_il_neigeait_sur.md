@@ -7,6 +7,7 @@ categories = ["Romantisme", "Neige"]
 tags = ["amour", "nature", "2001", "acrostiche"]
 acrostiche = "Et s'il neigeait sur..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Et s'il neigeait sur nos amours
@@ -17,6 +18,7 @@ Sous des lumières liquoreuses,
 
 Intimité de nos atours.
 
+ \
 Le blanc recouvrira l'espace
 
 Nouant l'absolu d'un éclat :
@@ -25,6 +27,7 @@ Etreignons nos cœurs, chance là
 
 Innervée, une heure qui passe
 
+ \
 Gémit le monde de demain.
 
 En nous l'immensité de vivre,
@@ -33,6 +36,7 @@ Appliquer calligramme au livre
 
 Innové de ta main, ma main.
 
+ \
 Tous les arbres verront leur sève
 
 S'enflammer, la proche saison

@@ -7,6 +7,7 @@ categories = ["Crépuscule"]
 tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Crépuscule"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Chaque éclat de verre ou marbre

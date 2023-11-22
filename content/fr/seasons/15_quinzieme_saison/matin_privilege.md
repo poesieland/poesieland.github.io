@@ -7,6 +7,7 @@ categories = ["Temps", "Flore"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Matin privilège"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Marcher dans le matin, sonore

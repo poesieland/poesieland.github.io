@@ -8,8 +8,17 @@ tags = ["philosophie", "2001", "acrostiche"]
 info = "En mémoire des attentats du 11.09.2001."
 acrostiche = "Miroir d'ombre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
+Miroir gris retourné sous son voile de crêpe,
 
+Insignifiant peut-être ; et dans la pièce alors
+
+Ricoche l'air sans nom, sans borne comme steppe
+
+Ouverte au vent de l'âme en éclats de décors.
+
+ \
 Insensibiliser ne se pourra peut-être,
 
 Rafistole d'adieu, que blessé d'un miroir...

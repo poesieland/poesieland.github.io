@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001"]
 info = "D'après la chanson d'Andrea Bocelli \"L'ultimo re\"."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Les images, les scènes

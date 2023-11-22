@@ -7,6 +7,7 @@ categories = ["Automne", "Etre"]
 tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "L'autunno, dolce mio"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'automne au parfum de printemps

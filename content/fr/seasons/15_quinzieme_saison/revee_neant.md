@@ -7,6 +7,7 @@ categories = ["Aimé (amant)", "Révolte"]
 tags = ["amour", "philosophie", "2001", "acrostiche"]
 acrostiche = "Rêvée, néant"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Reprends ton cœur, je vais me rendormir,

@@ -7,6 +7,7 @@ categories = ["Jardin et paysage", "Etre"]
 tags = ["nature", "philosophie", "2001", "acrostiche"]
 acrostiche = "Eternità"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Et rayons du soleil me disent tous ton nom,

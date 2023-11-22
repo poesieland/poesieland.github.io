@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "L'air du soir, forêts"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La forêt bruisse, et calme l'onde

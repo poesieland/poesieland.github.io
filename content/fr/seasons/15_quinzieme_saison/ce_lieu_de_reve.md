@@ -7,6 +7,7 @@ categories = ["Etre", "Eau douce"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Ce lieu de rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Calme relief, l'immense étang berce de frises
@@ -22,7 +23,7 @@ Etonnante saison versait l'ombre des âmes,
 
 Une fois, c'est assez pour lier l'éternel,
 
-Donner plus que le temps reprend, glisser en lames:
+Donner plus que le temps reprend, glisser en lames :
 
 Ecritures et geste, et danse, cœur charnel.
 

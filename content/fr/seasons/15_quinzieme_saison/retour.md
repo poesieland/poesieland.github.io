@@ -6,6 +6,7 @@ weight = 10
 categories = ["Ville", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je ne suis plus la même enfant

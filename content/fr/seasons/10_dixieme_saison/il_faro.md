@@ -7,6 +7,7 @@ categories = ["Mer"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Il faro"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 14
 +++
 
 Illuminé le phare au cœur de la nuit douce, belle

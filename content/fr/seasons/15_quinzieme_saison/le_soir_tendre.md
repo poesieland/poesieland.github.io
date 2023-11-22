@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Le soir tendre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le soir me dit : trop frêle

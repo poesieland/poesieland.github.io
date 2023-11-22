@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Ombres et lumières"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Origine du monde, âme, l'évanescence

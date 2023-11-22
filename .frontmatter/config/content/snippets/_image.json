@@ -9,7 +9,7 @@
       "title": "Image name",
       "type": "string",
       "single": true,
-      "default": "poem_id_1.jpg"
+      "default": "poem_id_0.jpg"
     },
     {
       "name": "imageCaption",

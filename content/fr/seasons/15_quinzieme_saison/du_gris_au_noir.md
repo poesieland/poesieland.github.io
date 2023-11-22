@@ -7,6 +7,7 @@ categories = ["Automne", "Ville", "Crépuscule"]
 tags = ["saisons", "ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Du gris au noir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dans l'automne qui court et berce, flagellé,

@@ -45,6 +45,7 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
     - nature
+    - "2023"
 info: ""
 pictures: []
 type: ""

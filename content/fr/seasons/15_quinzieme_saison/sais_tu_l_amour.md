@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Sais-tu l'amour..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Sais-tu si tous ces nuages

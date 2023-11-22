@@ -7,6 +7,7 @@ categories = ["Nuit", "Ville"]
 tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Songes de l'âme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Silencieux dans la nuit les oiseaux plus tranquilles

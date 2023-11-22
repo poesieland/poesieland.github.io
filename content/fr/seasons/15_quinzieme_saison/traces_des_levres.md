@@ -7,9 +7,10 @@ categories = ["Aimé (amant)", "Toucher"]
 tags = ["amour", "attitudes", "2001", "acrostiche"]
 acrostiche = "Traces des lèvres"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
-Touchez douceur, émoi nouveau chaste rend
+Touchez doux, émoi nouveau chaste rend
 
 Rose la joue à votre air pénétrant,
 

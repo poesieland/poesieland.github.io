@@ -6,6 +6,7 @@ weight = 24
 categories = ["Temps"]
 tags = ["philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Des livres lus, pas terminés,

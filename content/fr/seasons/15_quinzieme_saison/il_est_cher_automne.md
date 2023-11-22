@@ -7,6 +7,7 @@ categories = ["Automne"]
 tags = ["saisons", "2001", "acrostiche"]
 acrostiche = "Il est cher, automne"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Il pleut, tout doux, et c'est déjà l'automne,
@@ -18,7 +19,7 @@ Etonnant bris, emporté comme vers
 Soufflés de feuille en berceau qui résonne...
 
  \
-Tressé de vent, de larmes de son chant,,
+Tressé de vent, de larmes de son chant,
 
 Cher à mon cœur, c'est mère de légendes,
 

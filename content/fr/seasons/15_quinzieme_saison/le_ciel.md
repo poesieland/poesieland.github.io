@@ -6,6 +6,7 @@ weight = 2
 categories = ["Etre", "Ciel"]
 tags = ["philosophie", "nature", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel me dira sa couleur

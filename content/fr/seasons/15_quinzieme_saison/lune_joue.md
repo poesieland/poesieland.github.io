@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Lune joue"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Lune au ciel crénelé,

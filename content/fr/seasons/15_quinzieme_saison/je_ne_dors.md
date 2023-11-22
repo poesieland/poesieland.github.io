@@ -7,6 +7,7 @@ categories = ["Sommeil"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Je ne dors"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je me souviens des heures blêmes

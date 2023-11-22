@@ -7,6 +7,7 @@ categories = ["Crépuscule", "Etre"]
 tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Sur la terre, là"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Suave, rose, au-delà des nuages

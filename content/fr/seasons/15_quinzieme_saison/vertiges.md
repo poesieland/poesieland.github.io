@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Vertiges"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Vertiges, passerelle alors

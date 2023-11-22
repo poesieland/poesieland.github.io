@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Comme toi, aile"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Caresse-moi de tes respirs,

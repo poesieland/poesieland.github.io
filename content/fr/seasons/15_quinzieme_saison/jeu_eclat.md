@@ -7,6 +7,7 @@ categories = ["Espoir", "Eté"]
 tags = ["philosophie", "saisons", "2001", "acrostiche"]
 acrostiche = "Jeu - éclat"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Je m'en suis allée et toi

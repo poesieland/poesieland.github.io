@@ -7,6 +7,7 @@ categories = ["Aube", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Par toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Poussé par l'au-delà, le bonheur papillon

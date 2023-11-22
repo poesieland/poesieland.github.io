@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Ballet du ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Boréale l'aurore

@@ -7,6 +7,7 @@ categories = ["Création", "Flore"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Le saut"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 La lune joue entre tes branches fines

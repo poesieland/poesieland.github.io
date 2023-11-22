@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Tes mains"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tes mains viendront sur la barrière

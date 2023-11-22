@@ -8,6 +8,7 @@ tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 info = "\"Ame, libère-toi\" en italien."
 acrostiche = "Alma, libera te"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Âme libre, envole un songe :

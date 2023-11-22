@@ -8,6 +8,7 @@ tags = ["philosophie", "2001", "pantoun"]
 info = "Composé pour une amie."
 type = "pantoun"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Voici bien venu l'an, voilà nombre des sages:

@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Et ce sera..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Emmène-moi dans les champs pâles,

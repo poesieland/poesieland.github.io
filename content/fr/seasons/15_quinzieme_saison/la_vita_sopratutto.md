@@ -8,6 +8,7 @@ tags = ["philosophie", "2001", "acrostiche"]
 info = "\"La vie par-dessus tout\" en italien."
 acrostiche = "La vita sopratutto"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La vie, accord en adagio

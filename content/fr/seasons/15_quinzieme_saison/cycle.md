@@ -6,6 +6,7 @@ weight = 8
 categories = ["Temps"]
 tags = ["philosophie", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Doux, méditant, vois : le cœur interroge

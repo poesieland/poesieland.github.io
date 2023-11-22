@@ -7,6 +7,7 @@ categories = ["Ville", "Nuit", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Nos nuits"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 14
 +++
 
 Nuances sonores, la ville à cœur d'affinités,
@@ -18,7 +19,7 @@ Sur le satin des toits sans âme, attends-moi, rien ne presse.
 Noces de la tiédeur dehors, s'il pleut, d'infinités
 
  \
-Unissons ce qui fait de nous être doués, êtres d'envie.
+Unissons ce qui fait de nous êtres doués d'envie.
 
 Inimitable comme un chant l'instant souffle un parfum,
 

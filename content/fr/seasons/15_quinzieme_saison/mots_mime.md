@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Mots : mime"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Marions nos fleurs, soleils

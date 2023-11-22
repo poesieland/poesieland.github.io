@@ -7,6 +7,7 @@ categories = ["Toucher", "Romantisme"]
 tags = ["attitudes", "amour", "2001", "acrostiche"]
 acrostiche = "Ballet de sens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Baisers du bout des lèvres

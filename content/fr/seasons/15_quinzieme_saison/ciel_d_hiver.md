@@ -7,6 +7,7 @@ categories = ["Ciel", "Hiver"]
 tags = ["nature", "saisons", "2001", "acrostiche"]
 acrostiche = "Ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Cascades de lueurs, les cieux tout déchirés

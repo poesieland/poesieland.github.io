@@ -1,11 +1,12 @@
 ---
-weight: 40
-title: Automne, renaissance
-id: automne_renaissance_17
-date: 2008-09-08
+weight: 26
+title: Amis retrouvés
+id: amis_retrouves_18
+date: 2023-11-19
+verseLength: 6
 divider: ""
 categories:
-    - Automne
+    - Amitié
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -42,37 +43,37 @@ ensureTagSaisons2: ""
 ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
-    - saisons
-    - "2008"
+    - "2023"
+    - amour
 info: ""
+pictures: []
 type: ""
 acrostiche: ""
 doubleAcrostiche: ""
-verseLength: 6
 LastModifierDisplayName: Barbara Post
 ---
-L'automne est atomique
+Revenez sans frémir
 
-De feuilles, de couleurs;
+Aux amitiés anciennes
 
-La nature en panique :
+Et fermez sans gémir
 
-Prête à verser ses pleurs.
-
- \
-Etend tes voiles troubles
-
-Des moments incertains,
-
-Saison ! Aux âmes doubles
-
-Frissonnants tes matins.
+Vos yeux qui se souviennent.
 
  \
-Automne, renaissance
+Chantonnez sur des airs
 
-Des verts, des ors, des coeurs.
+Disparus dans l'absinthe
 
-Le poète a l'essence
+Et traversez déserts
 
-Des festins neufs vainqueurs.
+Car chassée est la plainte !
+
+ \
+Aux amis retrouvés
+
+Soyez joyeux, complices,
+
+Discourez, ravivés,
+
+La vie en ses malices !

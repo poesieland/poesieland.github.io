@@ -8,6 +8,7 @@ tags = ["philosophie", "nature", "2001", "acrostiche"]
 info = "\"Eau vive entre les mains\" en italien."
 acrostiche = "Acqua viva fra le mani"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Aller vers toi pour bercer chances;

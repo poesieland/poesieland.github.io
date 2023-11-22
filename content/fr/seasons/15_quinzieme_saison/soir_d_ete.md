@@ -7,6 +7,7 @@ categories = ["Ville"]
 tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Soir d'été"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Silencieux l'espace en la longue avenue:

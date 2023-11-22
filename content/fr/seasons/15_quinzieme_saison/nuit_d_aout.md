@@ -6,6 +6,7 @@ weight = 25
 categories = ["Eté", "Ville", "Nuit"]
 tags = ["saisons", "ombres et lumières", "2001"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La nuit n'a pas chassé l'odeur
