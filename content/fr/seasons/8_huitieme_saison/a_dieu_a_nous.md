@@ -7,27 +7,28 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "A Dieu, à nous"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 A Dieu le berceau vide a tu sa mélodie
 
-dite d'un geste fou quand le cœur se dédie
+Dite d'un geste fou quand le cœur se dédie
 
-intime en tout son souffle, en larmes, chapelet
+Intime en tout son souffle, en larmes, chapelet
 
-évadé de ta main sans anneau, pour qu'elle ait
+Evadé de ta main sans anneau, pour qu'elle ait
 
-uni d'un rêve doux le sourire et l'archange.
+Uni d'un rêve doux le sourire et l'archange.
 
 A nous d'un seul moment si parler te dérange
 
-noue alors la musique en guirlandes de fleurs;
+Noue alors la musique en guirlandes de fleurs;
 
-orchestre, mariage, un monde où les douleurs
+Orchestre, mariage, un monde où les douleurs
 
-uniques ne seront que lorsque l'on enfante,
+Uniques ne seront que lorsque l'on enfante,
 
-serre-moi d'un regard, ô songe qui m'enchante !
+Serre-moi d'un regard, ô songe qui m'enchante !
 
 {{% notice style="primary" %}}
 Acrostiche : A Dieu, à nous

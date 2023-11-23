@@ -7,6 +7,7 @@ categories = ["Sommeil"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "A peine"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 A peine imaginer avant de s'endormir

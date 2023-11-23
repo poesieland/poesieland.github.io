@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Cathédrale | de lumières"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Cathédrale de lumières,

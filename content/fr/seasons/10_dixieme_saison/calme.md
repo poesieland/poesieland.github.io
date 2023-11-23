@@ -3,35 +3,38 @@ title = "Calme"
 id = "calme_10"
 date = 1999-03-11
 weight = 36
-categories = ["Lune", "Musique et chant"]
-tags = ["ombres et lumières", "attitudes", "1999", "acrostiche"]
+categories = [ "Lune", "Musique et chant", "Nuit" ]
+tags = [ "ombres et lumières", "attitudes", "1999", "acrostiche" ]
 acrostiche = "Calme, prières"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Caressée, une note
 
-accentue un refrain,
+Accentue un refrain,
 
-la lune qui sanglote
+La lune qui sanglote
 
-murmure sur son sein
+Murmure sur son sein
 
-étrange clarté pâle
+ \
+Etrange clarté pâle
 
-par le rideau tiré.
+Par le rideau tiré.
 
 Rêve : l'ombre s'installe :
 
-intense, désiré,
+Intense, désiré,
 
-en son parfum sans heure,
+ \
+En son parfum sans heure,
 
-retenu calme lent
+Retenu calme lent
 
-étreint la nuit demeure
+Etreint, la nuit demeure
 
-silencieuse à présent.
+Silencieuse à présent.
 
 {{% notice style="primary" %}}
 Acrostiche : Calme, prières

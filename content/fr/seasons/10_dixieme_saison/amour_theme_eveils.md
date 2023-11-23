@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Amour, thème : éveils"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Amour, thème majuscule,

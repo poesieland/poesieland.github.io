@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Quand le jour sera nôtre\" en italien."
 acrostiche = "Quando il giorno sarà nostro"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Quand le soleil se lèvera

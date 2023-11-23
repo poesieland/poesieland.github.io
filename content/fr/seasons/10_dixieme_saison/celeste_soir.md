@@ -7,6 +7,7 @@ categories = ["Crépuscule", "Ville"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel du soir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel était clair tout à l'heure,

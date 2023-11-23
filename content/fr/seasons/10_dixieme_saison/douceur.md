@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Douces"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Douces, les musique s'élèvent

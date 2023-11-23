@@ -7,6 +7,7 @@ categories = ["Neige", "Mer"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Dans un rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dans un verger tremblant sous la neige de mai,

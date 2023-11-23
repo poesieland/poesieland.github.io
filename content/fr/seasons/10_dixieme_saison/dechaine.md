@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Déchaîné"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 9
 +++
 
 Déchaîné, mon cœur s'éprend du tien
@@ -17,6 +18,7 @@ Chasse-moi, le démon me retient
 
 Hurlant, fou, que l'ultime saccage
 
+ \
 Arrache un regard percé de pleurs...
 
 Inutile, un tourment qui me brûle,
