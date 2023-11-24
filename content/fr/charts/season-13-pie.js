@@ -23,7 +23,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 4, color: 'rgba(63, 193, 192, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(29, 78, 137, 1)' },
-    { label: 'Automne', value: 5, color: 'rgba(226, 113, 29, 1)' },
+    { label: 'Automne', value: 6, color: 'rgba(226, 113, 29, 1)' },
   ];
   addPieChart('season13Pie', [data], 'Treizième Saison : Divina - De juillet à novembre 1999');
 })();

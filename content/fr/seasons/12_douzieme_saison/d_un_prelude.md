@@ -7,27 +7,28 @@ categories = ["Musique et chant", "Création"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "D'un prélude"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Doux, le prélude toujours
 
-unit le temps des amours,
+Unit le temps des amours,
 
-nouvelles. Si peu de choses...
+Nouvelles. Si peu de choses...
 
 Pour évoquer se déposent
 
-rêves en moi. O tu sais
+Rêves en moi. O tu sais
 
-en l'écoutant je tissais
+En l'écoutant je tissais
 
-le destin, ce cri qui donne
+Le destin, ce cri qui donne
 
-un reflet, puis s'abandonne...
+Un reflet, puis s'abandonne...
 
 Délivré, le piano, pleurs
 
-et joie, invente couleurs...
+Et joie, invente couleurs...
 
 {{% notice style="primary" %}}
 Acrostiche : D'un prélude

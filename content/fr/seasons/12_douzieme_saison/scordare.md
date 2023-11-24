@@ -8,23 +8,25 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Oublier\" en italien."
 acrostiche = "Scordare..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Sans souvenir, le temps
 
-croisé s'en va, scintille,
+Croisé s'en va, scintille,
 
-ou de fleur en brindille,
+Ou de fleur en brindille,
 
-reflets de ce printemps
+Reflet de ce printemps
 
-disparaît à l'envie
+ \
+Disparaît à l'envie
 
-à peine effleurée, à
+A peine effleurée, à
 
-retrouver, qui créa
+Retrouver, qui créa
 
-entre deux fois ma vie...
+Entre deux fois ma vie...
 
 {{% notice style="primary" %}}
 \"Oublier\" en italien.

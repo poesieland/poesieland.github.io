@@ -7,31 +7,34 @@ categories = ["Mer", "Création"]
 tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Sur une barque"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Songe, cette heure heureuse
 
-ultime chant du jour
+Ultime chant du jour
 
-rejoint le chœur, frimeuse
+Rejoint le chœur, frimeuse
 
-un rubis pour atour...
+Un rubis pour atour...
 
+ \
 Nouvelle alors s'embarque
 
-étrange lueur, flot
+Etrange lueur, flot
 
-brisé : la voûte s'arque
+Brisé : la voûte s'arque
 
-andante, se mêle au
+Andante, se mêle au
 
-rivage. Un coup de rame
+ \
+Rivage. Un coup de rame
 
-quête le sens du vent;
+Quête le sens du vent;
 
-un trait de feu dit l'âme
+Un trait de feu dit l'âme
 
-entraînée au levant.
+Entraînée au levant.
 
 {{% notice style="primary" %}}
 Acrostiche : Sur une barque

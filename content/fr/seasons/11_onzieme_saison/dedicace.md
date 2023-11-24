@@ -7,23 +7,25 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Dédicace"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dédiée au théâtre, une belle
 
-esquisse effleure, illuminant
+Esquisse effleure, illuminant
 
-de son timbre l'âme rebelle
+De son timbre l'âme rebelle
 
-invitée où le chœur menant
+Invitée où le chœur menant
 
-cette danse séduit d'emblée
+ \
+Cette danse séduit d'emblée
 
-altissimo le trémolo
+Altissimo le trémolo
 
-caché. En un parfum troublée
+Caché. En un parfum troublée
 
-éclats, dédicace solo.
+Eclats, dédicace solo.
 
 {{% notice style="primary" %}}
 Acrostiche : Dédicace

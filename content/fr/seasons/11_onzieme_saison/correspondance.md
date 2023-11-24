@@ -7,35 +7,36 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Correspondance"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 Carnet du temps
 
-où les instants
+Où les instants
 
-rêveurs se pressent :
+Rêveurs se pressent :
 
-recueil d'adresses
+Recueil d'adresses
 
-enchantées, chœurs
+Enchantées, chœurs
 
-sentiers d'ailleurs.
+Sentiers d'ailleurs.
 
 Partage, essence
 
-ou concordance.
+Ou concordance.
 
 Nommée, âme a
 
-dit que voilà
+Dit que voilà
 
-anciennes pages
+Anciennes pages
 
-neuves images.
+Neuves images.
 
 Carnet forêts
 
-en mots discrets.
+En mots discrets.
 
 {{% notice style="primary" %}}
 Acrostiche : Correspondance

@@ -7,19 +7,20 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "A fleur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A fleur de cœur l'ombre pétale,
 
-fraîche, encense la virginale
+Fraîche, encense la virginale
 
-liberté qui ne dit son nom.
+Liberté qui ne dit son nom.
 
 Emu, le rêve d'amour blond
 
-unit dans le bleu l'hirondelle
+Unit dans le bleu l'hirondelle
 
-rieuse à la chanson nouvelle...
+Rieuse à la chanson nouvelle...
 
 {{% notice style="primary" %}}
 Acrostiche : A fleur

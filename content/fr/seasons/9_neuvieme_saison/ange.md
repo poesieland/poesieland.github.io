@@ -7,15 +7,16 @@ categories = ["Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ange"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ailé pour caresser nos peines,
 
-notre cœur se rassure, entend
+Notre cœur se rassure, entend
 
-germer les musiques prochaines
+Germer les musiques prochaines
 
-en ta splendeur, ange charmant.
+En ta splendeur, ange charmant.
 
 {{% notice style="primary" %}}
 Acrostiche : Ange
