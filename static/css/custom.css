@@ -148,10 +148,11 @@ h1#septième-saison--croire ~ ul.children>li:nth-child(50)>a:after,
 h1#septième-saison--croire ~ ul.children>li:nth-child(27)>a:after,
 h1#huitième-saison--reflets-perdus ~ ul.children>li:nth-child(n + 1):nth-child(-n + 21)>a:after
 {
-        content: url('/images/ensixlettres_25.jpg');
-        position: relative;
-        left: 5px;
-        top: 7px;
+        content: 'En six lettres : t\'aimer';
+        font-size: 0.75em;
+        vertical-align: super;
+        color: red;
+        padding-left: 5px;
 }
 
 /* img caption */
