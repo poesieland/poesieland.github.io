@@ -3,8 +3,8 @@ title = "La maison de famille"
 id = "la_maison_de_famille_18"
 date = 2023-10-24
 weight = 7
-categories = ["Portraits"]
-tags = ["philosophie", "2023"]
+categories = [ "Portraits", "Enfance" ]
+tags = [ "philosophie", "2023" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

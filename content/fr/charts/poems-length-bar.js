@@ -25,7 +25,7 @@ import { addBarChart } from './add-chart.js'
     { label: 'Quatrains', value: 0 },
     { label: 'Quatrains', value: 312 },
     { label: 'Quatrains', value: 0 },
-    { label: 'Quatrains', value: 171 },
+    { label: 'Quatrains', value: 172 },
     { label: 'Quatrains', value: 0 },
     { label: 'Quatrains', value: 45 },
     { label: 'Quatrains', value: 0 },
