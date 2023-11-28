@@ -7,7 +7,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Femme', value: 6, color: 'rgba(255, 143, 171, 1)' },
     { label: 'Lune', value: 1, color: 'rgba(238, 186, 11, 1)' },
     { label: 'Ville', value: 2, color: 'rgba(195, 111, 9, 1)' },
-    { label: 'Enfance', value: 6, color: 'rgba(247, 235, 253, 1)' },
+    { label: 'Enfance et adolescence', value: 7, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 2, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 4, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },

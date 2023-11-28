@@ -7,6 +7,7 @@ categories = ["Sommeil"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Fantasia"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ferme tes yeux comme un enfant

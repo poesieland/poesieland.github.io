@@ -7,6 +7,7 @@ categories = ["Automne", "Temps"]
 tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "Dessin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dans le parc silencieux tant de feuilles tombées

@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Etre"]
 tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Je ne sais plus"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je ne sais plus rire ou rêver,

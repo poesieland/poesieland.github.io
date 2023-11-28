@@ -3,8 +3,8 @@ title = "Nord imaginaire"
 id = "nord_imaginaire_5"
 date = 1997-12-02
 weight = 50
-categories = ["Hiver"]
-tags = ["saisons", "1997"]
+categories = [ "Hiver", "Enfance et adolescence" ]
+tags = [ "1997", "saisons", "philosophie" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 8
 +++

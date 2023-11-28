@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ecrire sans savoir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Ecrire sans savoir

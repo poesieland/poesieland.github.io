@@ -7,6 +7,7 @@ categories = ["Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "J'endors, Vénus"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je me couche quand tu te lèves

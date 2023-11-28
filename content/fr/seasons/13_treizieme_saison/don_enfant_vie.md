@@ -7,6 +7,7 @@ categories = ["Apprentissage", "Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Don, enfant, vie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Donner à son enfant les sourires du monde,

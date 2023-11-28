@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "A l'âge où le bonheur..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 A l'âge où le bonheur est un oiseau sans ailes

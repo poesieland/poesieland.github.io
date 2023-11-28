@@ -7,6 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "N'être à jamais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Naître à jamais, tombeau cristal,

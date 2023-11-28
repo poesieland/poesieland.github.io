@@ -14,7 +14,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Portraits', value: 1, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 6, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 14, color: 'rgba(105, 16, 168, 1)' },
-    { label: 'Apprentissage', value: 1, color: 'rgba(70, 24, 115, 1)' },
+    { label: 'Apprentissage', value: 2, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 1, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Neige', value: 1, color: 'rgba(183, 239, 197, 1)' },
     { label: 'Flore', value: 2, color: 'rgba(146, 230, 167, 1)' },

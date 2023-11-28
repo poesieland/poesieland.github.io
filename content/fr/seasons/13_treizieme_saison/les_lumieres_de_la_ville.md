@@ -7,6 +7,7 @@ categories = ["Ville", "Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Les lumières de la ville"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Les lumières de la ville

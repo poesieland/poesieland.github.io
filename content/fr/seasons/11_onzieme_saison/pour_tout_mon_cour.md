@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Pour tout mon cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Près de toi la musique, un souffle me réveille

@@ -8,6 +8,7 @@ tags = ["saisons", "nature", "philosophie", "1999", "acrostiche"]
 info = "\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversément."
 acrostiche = "Cresce d'autunno"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Comme l'automne embrasse aux ailes qui s'envolent

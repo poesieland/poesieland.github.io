@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Sommeil"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Tu sens..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu sens comme cette douceur

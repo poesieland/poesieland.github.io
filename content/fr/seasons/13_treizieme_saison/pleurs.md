@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Pleurs"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 9
 +++
 
 Pleurer comme une petite fille
