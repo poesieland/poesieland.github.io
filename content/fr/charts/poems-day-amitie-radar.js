@@ -368,5 +368,5 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-amitieRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(255, 229, 236, 1)', 'rgba(255, 229, 236, 0.5)');
+  addRadarChart('poemDay-amitieRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(255, 194, 209, 1)', 'rgba(255, 194, 209, 0.5)');
 })();

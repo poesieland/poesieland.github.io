@@ -46,9 +46,9 @@ const addBarChart = (chartId, chartLabels, datas) => { addChart(chartId, 'bar', 
 
 const addRadarChart = (chartId, chartLabels, datas, border, background) => {
     addChart(chartId, 'radar', chartLabels, datas, {
-        backgroundColor: background,
-        borderColor: border,
-        pointBackgroundColor: border ?? 'rgb(54, 162, 235)',
+        backgroundColor: !!background ? background : 'rgba(76, 201, 240)',
+        borderColor: !!border ? border : 'rgba(0, 0, 0, 0.1)',
+        pointBackgroundColor: !!border ? border : 'rgba(76, 201, 240)',
         pointBorderColor: '#fff',
         pointHoverBackgroundColor: '#fff',
         pointHoverBorderColor: 'rgb(54, 162, 235)',

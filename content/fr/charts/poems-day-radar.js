@@ -368,5 +368,5 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 2 },
     { label: '', value: 1 },
   ];
-  addRadarChart('poemDayRadar', ['Poèmes selon le jour de l\'année'], [data]);
+  addRadarChart('poemDayRadar', ['Poèmes selon le jour de l\'année'], [data], '', '');
 })();

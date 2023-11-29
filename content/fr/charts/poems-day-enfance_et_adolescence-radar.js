@@ -368,5 +368,5 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-enfance_et_adolescenceRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(247, 235, 253, 1)', 'rgba(247, 235, 253, 0.5)');
+  addRadarChart('poemDay-enfance_et_adolescenceRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(234, 191, 250, 1)', 'rgba(234, 191, 250, 0.5)');
 })();
