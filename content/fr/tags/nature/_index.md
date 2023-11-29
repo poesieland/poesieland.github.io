@@ -11,3 +11,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Ciel](/categories/ciel)
 - [Mer](/categories/mer)
 - [Animaux](/categories/animaux)
+
+{{< chartjs id="poemDay-natureRadar" width="100%" jsFile="../../charts/poems-day-nature-radar.js" />}}

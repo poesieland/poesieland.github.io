@@ -6,7 +6,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Romantisme', value: 2, color: 'rgba(255, 179, 198, 1)' },
     { label: 'Aimé (amant)', value: 1, color: 'rgba(251, 111, 146, 1)' },
     { label: 'Lune', value: 1, color: 'rgba(238, 186, 11, 1)' },
-    { label: 'Enfance', value: 1, color: 'rgba(247, 235, 253, 1)' },
+    { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 5, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 6, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 6, color: 'rgba(179, 51, 233, 1)' },

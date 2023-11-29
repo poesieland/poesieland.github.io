@@ -5,9 +5,10 @@ date = 2001-07-29
 weight = 16
 categories = ["Création", "Flore"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
+info = "Ce poème décrit l'adolescence d'une amie."
 acrostiche = "Le saut"
-LastModifierDisplayName = "Barbara Post"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post"
 +++
 
 La lune joue entre tes branches fines
@@ -23,5 +24,7 @@ Unique, adieu, bel arbre aux cent poèmes
 Touchant le ciel, tresses vertes bohèmes.
 
 {{% notice style="primary" %}}
+Ce poème décrit l'adolescence d'une amie.
+
 Acrostiche : Le saut
 {{% /notice %}}

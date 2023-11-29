@@ -9,3 +9,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Romantisme](/categories/romantisme)
 - [Femme](/categories/femme)
 - [Aimé (amant)](/categories/aime-amant)
+
+{{< chartjs id="poemDay-amourRadar" width="100%" jsFile="../../charts/poems-day-amour-radar.js" />}}

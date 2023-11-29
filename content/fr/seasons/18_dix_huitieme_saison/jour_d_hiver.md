@@ -1,13 +1,13 @@
 ---
-weight: 28
-title: Complicité
-id: complicite_18
-date: 2023-11-25
-verseLength: 8
+weight: 29
+title: Jour d'hiver
+id: jour_d_hiver_18
+date: 2023-11-29
+verseLength: 4
 divider: ""
 categories:
-    - Enfance et adolescence
-    - Eté
+    - Hiver
+    - Jardin et paysage
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -45,8 +45,8 @@ ensureTagSaisons3: ""
 ensureTagSaisons4: ""
 tags:
     - "2023"
-    - philosophie
     - saisons
+    - nature
 info: ""
 pictures: []
 type: ""
@@ -54,37 +54,37 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
 ---
-Te souviens-tu, maman complice,
+Le jour se lève,
 
-Tant de balade au doux parfum,
+Début d'hiver,
 
-L'été d'alors clément sans fin,
+La nuit s'enlève
 
-Notre duo chantait malice.
-
- \
- A travers forêts et bosquets
-
- Nous retrouvions nos racines
-
- Et chaque arbres lançait comptines
-
- Pour laisser souvenirs coquets.
-
-  \
-Par les chemins à l'aventure
-
-Nous égrainions tournesol,
-
-Dessinions des plans au sol,
-
-Au blé volions gerbe mûre.
+Du brun, du vert.
 
  \
-Infini nous était le temps,
+Rien ne camoufle
 
-Routes de mon adolescence,
+Renard furtif,
 
-Partagés, bonheur, indolence,
+Ombre est maroufle,
 
-Nos âmes liées au printemps.
+L'air pique, vif !
+
+ \
+D'un gris nuage
+
+Le ciel est blanc,
+
+Au paysage
+
+Immense élan !
+
+ \
+Ligne brisée
+
+Du nid défait,
+
+Lame irisée,
+
+Hiver parfait.

@@ -8,7 +8,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Aimé (amant)', value: 1, color: 'rgb(251, 111, 146)' },
     { label: 'Aube', value: 2, color: 'rgb(244, 228, 9)' },
     { label: 'Lune', value: 5, color: 'rgb(238, 186, 11)' },
-    { label: 'Enfance', value: 2, color: 'rgb(247, 235, 253)' },
+    { label: 'Enfance et adolescence', value: 2, color: 'rgb(247, 235, 253)' },
     { label: 'Espoir', value: 3, color: 'rgb(234, 191, 250)' },
     { label: 'Création', value: 2, color: 'rgb(220, 147, 246)' },
     { label: 'Portraits', value: 1, color: 'rgb(179, 51, 233)' },
