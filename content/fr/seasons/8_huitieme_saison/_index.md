@@ -12,5 +12,10 @@ De juillet à septembre 1998
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season8Pie" width="75%" jsFile="../../charts/season-8-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season8VerseLengthBar" width="75%" jsFile="../../charts/season-8-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season8PoemLengthBar" width="75%" jsFile="../../charts/season-8-poems-length-bar.js" />}}
+{{< chartjs id="season8PoemLengthPie" width="75%" jsFile="../../charts/season-8-poems-length-pie.js" />}}

@@ -12,5 +12,10 @@ De novembre 1999 à mars 2001
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season14Pie" width="75%" jsFile="../../charts/season-14-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season14VerseLengthBar" width="75%" jsFile="../../charts/season-14-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season14PoemLengthBar" width="75%" jsFile="../../charts/season-14-poems-length-bar.js" />}}
+{{< chartjs id="season14PoemLengthPie" width="75%" jsFile="../../charts/season-14-poems-length-pie.js" />}}

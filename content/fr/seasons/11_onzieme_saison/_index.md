@@ -12,5 +12,10 @@ De mars à mai 1999
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season11Pie" width="75%" jsFile="../../charts/season-11-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season11VerseLengthBar" width="75%" jsFile="../../charts/season-11-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season11PoemLengthBar" width="75%" jsFile="../../charts/season-11-poems-length-bar.js" />}}
+{{< chartjs id="season11PoemLengthPie" width="75%" jsFile="../../charts/season-11-poems-length-pie.js" />}}

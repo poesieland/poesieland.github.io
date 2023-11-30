@@ -12,5 +12,10 @@ De janvier à mars 1999
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season10Pie" width="75%" jsFile="../../charts/season-10-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season10VerseLengthBar" width="75%" jsFile="../../charts/season-10-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season10PoemLengthBar" width="75%" jsFile="../../charts/season-10-poems-length-bar.js" />}}
+{{< chartjs id="season10PoemLengthPie" width="75%" jsFile="../../charts/season-10-poems-length-pie.js" />}}

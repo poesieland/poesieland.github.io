@@ -10,5 +10,10 @@ Une Saison riche d'un essor romantique, célébration de l'automne et également
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season4Pie" width="75%" jsFile="../../charts/season-4-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season4VerseLengthBar" width="75%" jsFile="../../charts/season-4-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season4PoemLengthBar" width="75%" jsFile="../../charts/season-4-poems-length-bar.js" />}}
+{{< chartjs id="season4PoemLengthPie" width="75%" jsFile="../../charts/season-4-poems-length-pie.js" />}}

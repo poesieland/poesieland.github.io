@@ -12,5 +12,10 @@ D'avril à décembre 2001
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season15Pie" width="75%" jsFile="../../charts/season-15-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season15VerseLengthBar" width="75%" jsFile="../../charts/season-15-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season15PoemLengthBar" width="75%" jsFile="../../charts/season-15-poems-length-bar.js" />}}
+{{< chartjs id="season15PoemLengthPie" width="75%" jsFile="../../charts/season-15-poems-length-pie.js" />}}

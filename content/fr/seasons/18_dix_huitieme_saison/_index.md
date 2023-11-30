@@ -12,5 +12,10 @@ D'octobre 2023 à ce jour
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season18Pie" width="75%" jsFile="../../charts/season-18-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season18VerseLengthBar" width="75%" jsFile="../../charts/season-18-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season18PoemLengthBar" width="75%" jsFile="../../charts/season-18-poems-length-bar.js" />}}
+{{< chartjs id="season18PoemLengthPie" width="75%" jsFile="../../charts/season-18-poems-length-pie.js" />}}

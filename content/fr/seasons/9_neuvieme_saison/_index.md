@@ -12,5 +12,10 @@ De septembre à décembre 1998
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season9Pie" width="75%" jsFile="../../charts/season-9-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season9VerseLengthBar" width="75%" jsFile="../../charts/season-9-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season9PoemLengthBar" width="75%" jsFile="../../charts/season-9-poems-length-bar.js" />}}
+{{< chartjs id="season9PoemLengthPie" width="75%" jsFile="../../charts/season-9-poems-length-pie.js" />}}

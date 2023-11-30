@@ -14,5 +14,10 @@ De mars 2002 à octobre 2004
 {{% children  %}}
 
 ---
+Catégories
 {{< chartjs id="season16Pie" width="75%" jsFile="../../charts/season-16-pie.js" />}}
+Longueur des vers
 {{< chartjs id="season16VerseLengthBar" width="75%" jsFile="../../charts/season-16-verse-length-bar.js" />}}
+Longueur des poèmes
+{{< chartjs id="season16PoemLengthBar" width="75%" jsFile="../../charts/season-16-poems-length-bar.js" />}}
+{{< chartjs id="season16PoemLengthPie" width="75%" jsFile="../../charts/season-16-poems-length-pie.js" />}}
