@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Bal de l'an"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Blessant la nuit, ces douze coups

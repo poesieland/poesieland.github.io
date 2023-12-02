@@ -7,6 +7,7 @@ categories = ["Printemps", "Temps"]
 tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "D'une saison l'autre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dès que vient le printemps, oh je rêve aux hivers,

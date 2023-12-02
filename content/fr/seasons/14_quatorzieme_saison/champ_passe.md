@@ -6,6 +6,7 @@ weight = 17
 categories = ["Temps"]
 tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'automne arrivera plus tard

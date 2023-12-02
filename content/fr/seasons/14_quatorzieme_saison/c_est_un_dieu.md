@@ -7,6 +7,7 @@ categories = ["Foi", "Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "C'est un Dieu..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 C'est un dieu sur la terre

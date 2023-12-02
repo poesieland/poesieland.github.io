@@ -7,9 +7,10 @@ categories = ["Flore", "Printemps", "Romantisme"]
 tags = ["nature", "saisons", "amour", "2001", "acrostiche"]
 acrostiche = "Comme j'aimais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
-Comme j'aimais d'un rêve le doux frémissement
+Comme j'aimais d'un rêve un doux frémissement
 
 Où le printemps se pare encore d'un murmure...
 

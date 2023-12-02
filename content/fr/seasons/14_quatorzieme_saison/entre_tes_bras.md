@@ -7,6 +7,7 @@ categories = ["Mouvement", "Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Entre tes bras"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Emmène-moi, ce monde étrange

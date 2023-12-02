@@ -6,6 +6,7 @@ weight = 48
 categories = ["Temps"]
 tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Quand dix mille ans plus tard

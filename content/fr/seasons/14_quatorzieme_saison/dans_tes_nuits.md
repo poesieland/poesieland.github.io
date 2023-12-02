@@ -7,6 +7,7 @@ categories = ["Amitié", "Etre"]
 tags = ["amour", "philosophie", "1999", "acrostiche"]
 acrostiche = "Dans tes nuits"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dans chaque nuit je vois ton cœur,

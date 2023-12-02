@@ -7,6 +7,7 @@ categories = ["Ciel", "Aube"]
 tags = ["nature", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "A l'aube"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 A l'aube un ciel à flots

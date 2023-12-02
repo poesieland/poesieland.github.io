@@ -8,6 +8,7 @@ tags = ["nature", "2001", "acrostiche"]
 info = "Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m."
 acrostiche = "Au sein du ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Au plat ciel dénudé
@@ -18,6 +19,7 @@ Serre l'étoile belle
 
 Entre son blanc bras rude et
 
+ \
 Infinie, en froideur,
 
 Nuées sans nom, l'espace.
@@ -26,6 +28,7 @@ Douce lumière, glace
 
 Ultime, la candeur
 
+ \
 Crisse d'un pas plus ferme,
 
 Infime écho, berceau,

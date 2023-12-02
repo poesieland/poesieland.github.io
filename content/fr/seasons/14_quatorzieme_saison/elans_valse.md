@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Elans, valse"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Elans frôlés, emportés, tout charmés

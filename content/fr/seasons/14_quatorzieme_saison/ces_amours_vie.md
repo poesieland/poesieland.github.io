@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Ces amours, vie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Ces amours-là qui s'en viennent
@@ -17,6 +18,7 @@ Serments dansés qui reprennent
 
 Adagio de pas furtifs.
 
+ \
 Meurs à l'amour, ma jeunesse,
 
 Ouvre ta crainte, aspire un
@@ -25,6 +27,7 @@ Ultime rêve, souplesse,
 
 Réel, quand un tambourin,
 
+ \
 Serpent, danse, et puis s'arrête.
 
 Vif, adagio, bras dansés

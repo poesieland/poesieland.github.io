@@ -7,6 +7,7 @@ categories = ["Jardin et paysage", "Nuit"]
 tags = ["nature", "ombres et lumières", "2000", "acrostiche"]
 acrostiche = "Balade du soir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Balade sous les étoiles

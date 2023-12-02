@@ -7,6 +7,7 @@ categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "2000", "acrostiche"]
 acrostiche = "Comme un voile"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Comme ta voix m'a manqué
