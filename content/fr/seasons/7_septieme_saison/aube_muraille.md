@@ -7,6 +7,7 @@ categories = ["Aube"]
 tags = ["ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Aube muraille"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 Aube muraille :

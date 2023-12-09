@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Du rêve au réel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Du rêve au réel je l'écris,

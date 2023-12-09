@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Italia"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Irréel destin, cœur charmé de promenade

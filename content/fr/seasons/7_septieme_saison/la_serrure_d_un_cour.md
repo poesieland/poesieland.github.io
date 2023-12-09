@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "La clef d'un songe"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 La clef d'un songe enfui me laissait infidèle

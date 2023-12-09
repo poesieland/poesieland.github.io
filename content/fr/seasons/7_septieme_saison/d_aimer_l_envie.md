@@ -7,6 +7,7 @@ categories = ["Amour malheureux", "Création"]
 tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "D'aimer l'envie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 D'aimer l'envie : écrire au cœur,
@@ -17,6 +18,7 @@ Imaginaire : oubli, bonheur !
 
 Misère des mots de ma lèvre,
 
+ \
 Encre qui roule au blanc papier :
 
 Retient le tourment qui s'efface,
@@ -25,6 +27,7 @@ Légère plume hors du guêpier
 
 En fausse joie, empreinte, trace
 
+ \
 Naïve, un cœur qui s'est trompé.
 
 Vivre sans déchirer la page

@@ -7,6 +7,7 @@ categories = ["Création", "Lune", "Ciel"]
 tags = ["philosophie", "ombres et lumières", "nature", "1998", "acrostiche"]
 acrostiche = "Le ciel n'est bleu ni gris..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le ciel n'est bleu ni gris, il n'a pas su choisir
@@ -45,8 +46,7 @@ Nue, un instant semblable au voile de piété,
 Ivresse ou s'affranchit l'ombre d'une odalisque.
 
  \
-Gris, le ciel, ou bien bleu, je ne sais plus
-                    vraiment;
+Gris, le ciel, ou bien bleu, je ne sais plus vraiment;
 
 Raconterai-je un songe où la lune s'envole ?
 

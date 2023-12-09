@@ -7,6 +7,7 @@ categories = ["Amour malheureux", "Mer"]
 tags = ["amour", "nature", "1998", "acrostiche"]
 acrostiche = "Jeter l'ancre de ton départ..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Jeter l'ancre de ton départ

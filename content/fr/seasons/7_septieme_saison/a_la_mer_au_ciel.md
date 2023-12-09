@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "A la mer, au ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 9
 +++
 
 A la mer en musique insensée

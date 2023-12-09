@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Gravé pour toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Gravé pour toi, pour toujours dans mes veines,

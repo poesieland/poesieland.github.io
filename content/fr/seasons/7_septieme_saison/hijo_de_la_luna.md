@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Hijo de la luna"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Humble, couleur du soleil,

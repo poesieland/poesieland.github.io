@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "D'un frôlement"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 D'un frôlement dans le vent,

@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Copier"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Copier l'ancien bonheur au papier-catafalque,

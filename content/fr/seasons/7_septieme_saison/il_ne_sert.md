@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Il ne sert"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Il ne sert à rien de rêver

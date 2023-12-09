@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Vérité"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Voir l'ombre d'un sourire, entendre le non-dit,

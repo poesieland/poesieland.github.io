@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Tu resteras"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu resteras timbre ténor

@@ -7,6 +7,7 @@ categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'un, l'autre, moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 L'un, l'autre, moi,
@@ -29,8 +30,7 @@ Rime n'en reste
 Eclat piano.
 
  \
-
-                    Même un seul mot
+Même un seul mot
 
 Offert s'élance :
 

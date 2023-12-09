@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'inventerai ma vie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 J'inventerai les mots, les mythes, les berceuses,
@@ -17,6 +18,7 @@ Nouvel élixir doux, brûlant, parfois vainqueur,
 
 Vivace, trop sincère... En ces boissons heureuses
 
+ \
 Entre le monde et moi mes lèvres le diront.
 
 N'ont-elles pas de l'âme une senteur sublime
@@ -25,6 +27,7 @@ Tracée au doigt de Dieu dans son sourire intime :
 
 Elles forment visage, au soir se fermeront.
 
+ \
 Rouler sous mon palais les joyaux d'existence,
 
 Aux poèmes nouveaux bercer un souvenir,
@@ -33,6 +36,7 @@ Illuminer le ciel où nul ne peut ternir
 
 Ma joie en son mystère et mon songe en silence.
 
+ \
 A quelques initiés je livrerai les clés :
 
 Voici l'esprit de vie, et voici l'éternelle

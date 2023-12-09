@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Pourquoi ?"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Pourquoi dire oui, non, peut-être,

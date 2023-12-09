@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le moindre mot"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le moindre mot s'envole

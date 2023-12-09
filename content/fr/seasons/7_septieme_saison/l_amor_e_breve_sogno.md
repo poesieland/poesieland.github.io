@@ -8,6 +8,7 @@ tags = ["amour", "1998", "acrostiche"]
 info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'amour est aussi bref qu'un songe,

@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "J'attends l'amour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 J'attends l'amour offert d'un geste

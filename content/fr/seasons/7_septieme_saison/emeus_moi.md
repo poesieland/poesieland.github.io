@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Emeus-moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Embrasse-moi d'un mot, d'un geste ou d'un sourire,

@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Amant d'hier, de demain"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Au revoir sans me retourner,

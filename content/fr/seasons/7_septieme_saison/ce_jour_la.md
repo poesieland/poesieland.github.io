@@ -7,6 +7,7 @@ categories = ["Création", "Amitié"]
 tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Ce jour-là tu disais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Ce jour-là tu disais : un autre temps viendra

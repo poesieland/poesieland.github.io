@@ -6,6 +6,7 @@ weight = 41
 categories = ["Lune"]
 tags = ["ombres et lumières", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Lune ronde noctambule,

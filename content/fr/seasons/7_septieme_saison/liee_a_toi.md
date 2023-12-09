@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Liée à toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Liée à toi par l'ombre et la lumière,

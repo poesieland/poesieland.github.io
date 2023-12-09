@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "L'encre tracée"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 L'encre des mots s'étale

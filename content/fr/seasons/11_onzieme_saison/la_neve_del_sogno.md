@@ -40,7 +40,7 @@ Grêle entre les embruns transforme, déchaîné
 
 Neige d'un rêve, un corps jeté par les rivages
 
-Où s'éveille l'accent d'une âme enfin renée.
+Où s'éveille l'accent d'un coeur enfin rené.
 
 {{% notice style="primary" %}}
 \"La neige du rêve\" en italien.

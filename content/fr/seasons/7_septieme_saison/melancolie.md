@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mélancolie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Mélancolie, où seul je vois

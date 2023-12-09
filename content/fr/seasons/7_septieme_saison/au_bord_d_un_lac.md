@@ -7,6 +7,7 @@ categories = ["Eau douce", "Etre"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Au bord d'un lac"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Au bord d'un lac où l'on s'aimait

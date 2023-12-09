@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mais cela..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Mes yeux m'ont pardonné d'avoir vu tant des choses,

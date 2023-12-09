@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Un parmi d'autres"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un parmi d'autres, découvert :

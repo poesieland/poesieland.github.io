@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Adressée à toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Adressée à toi, cette lettre

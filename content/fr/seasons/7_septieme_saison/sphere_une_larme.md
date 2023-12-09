@@ -7,6 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sphère, une larme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sphère magnifique, sublime,

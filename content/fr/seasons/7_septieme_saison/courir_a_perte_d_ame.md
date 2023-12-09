@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche"]
 info = "Cet acrostiche très particulier, par jeu, se veut croisé, sur la première lettre du poème puis celle de la césure... Courir à p - erte d'âme..."
 acrostiche = "Courir à perte d'âme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Courir à perte d'âme, effleurer l'infini,
@@ -18,6 +19,7 @@ Ululer les couleurs, trouver sans pinceau ni
 
 Rime un roman, nouvelle étreinte d'une époque...
 
+ \
 Inventer les chansons d'un souffle de vitrail,
 
 Rêver que l'on peut vivre au travers de naissance

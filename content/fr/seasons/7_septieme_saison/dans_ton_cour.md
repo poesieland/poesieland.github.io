@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dans ton cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Dans ton cœur tendre, embrasse, étreins le mien

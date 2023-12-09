@@ -7,6 +7,7 @@ categories = ["Mer", "Etre"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Comme un autre rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Calme, la nuit trouée au phare,
@@ -17,6 +18,7 @@ Menuet d'ombres à venir,
 
 Multiple couleur se dépare
 
+\
 Et brise le songe au rocher.
 
 Une lueur trace des lignes :
@@ -25,6 +27,7 @@ Nouvelle énigme dans leurs signes
 
 A l'oubli vague, ricocher...
 
+ \
 Unie à la mienne, blessée,
 
 Ton aventure a tu sa voix :
@@ -33,6 +36,7 @@ Rimer la mer où je revois
 
 Enclose, une âme délaissée.
 
+ \
 Rêver que sur un vieux galet
 
 Eternité te transfigure

@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Nella mattinata"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Née à l'aurore d'un matin

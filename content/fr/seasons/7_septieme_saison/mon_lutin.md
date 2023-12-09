@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mon lutin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Mignon petit lutin

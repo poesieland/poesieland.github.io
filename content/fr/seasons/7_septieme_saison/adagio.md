@@ -6,6 +6,7 @@ weight = 37
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Au spectre musical je confierai le temps,

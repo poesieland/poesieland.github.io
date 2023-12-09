@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Elle coule, musique"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Elle coule sur mon visage

@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Lune, la nuit"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Lune, la nuit te dit murmure,

@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Prière à Marie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Prière entre mes doigts, éclose à l'espérance,

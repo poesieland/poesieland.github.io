@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Entre vie et mort"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Entre la vie et la mort

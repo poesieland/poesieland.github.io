@@ -7,6 +7,7 @@ categories = ["Flore", "Création"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "La rose : secret"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 La rose sur la table en pétales qui tremblent
@@ -20,7 +21,7 @@ Ondée en son mystère et senteurs : fols sanglots.
  \
 Serait-elle d'un livre où se tournent les pages
 
-- Est-elle rouge, est-elle blanche ou bien entre les deux? -
+- Est-elle rouge, est-elle blanche ou bien entre les deux ? -
 
 Sérénades d'un jour aux frêles paysages,
 

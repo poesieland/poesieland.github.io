@@ -7,6 +7,7 @@ categories = ["Espoir", "Romantisme"]
 tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "A ce rêve tu dis"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 A ce rêve, dis : éclore !
