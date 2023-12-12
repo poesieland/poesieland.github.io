@@ -3,11 +3,11 @@ title = "Poussières"
 id = "poussieres_6"
 date = 1998-04-18
 weight = 13
-categories = [ "Enfance et adolescence", "Temps" ]
-tags = [ "philosophie", "1998" ]
-LastModifierDisplayName = "Barbara Post"
+categories = ["Enfance et adolescence", "Temps"]
+tags = ["philosophie", "1998"]
+pictures = ["La maison de mon enfance"]
 verseLength = 5
-pictures = [ "La maison de mon enfance" ]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 On a repeint jaune
@@ -54,6 +54,3 @@ Songe relié,
 
 Livre de dessein.
 
-<!-- FM:Snippet:Start data:{"id":"_image","fields":[{"name":"imageName","value":"poussieres_6_1.jpg"},{"name":"imageCaption","value":"La maison de mon enfance"}]} -->
-![Image](/images/poussieres_6_1.jpg "La maison de mon enfance")
-<!-- FM:Snippet:End -->

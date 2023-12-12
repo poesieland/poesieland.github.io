@@ -3,12 +3,11 @@ title = "Au parc"
 id = "au_parc_15"
 date = 2001-05-20
 weight = 5
-categories = [ "Jardin et paysage", "Eté" ]
-tags = [ "nature", "saisons", "2001" ]
-info = ""
-LastModifierDisplayName = "Barbara Post"
+categories = ["Jardin et paysage", "Eté"]
+tags = ["nature", "saisons", "2001"]
+pictures = ["Le parc de Choisy à Paris 13e"]
 verseLength = 12
-pictures = [ "Le parc de Choisy à Paris 13e" ]
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Enivré de soleil et de vent doux...: le parc.
@@ -37,6 +36,4 @@ A demain, parc d'été, je serai vive encor
 
 A petits pas flâneurs, je suis l'âme à l'ombrelle.
 
-<!-- FM:Snippet:Start data:{"id":"_image","fields":[{"name":"imageName","value":"au_parc_15_0.jpg"},{"name":"imageCaption","value":"Le parc de Choisy à Paris 13e"}]} -->
-![Image](/images/au_parc_15_0.jpg "Le parc de Choisy à Paris 13e")
-<!-- FM:Snippet:End -->
+{{< figure src="/images/au_parc_15_0.jpg" title="Le parc de Choisy à Paris 13e" >}}

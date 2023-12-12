@@ -13,7 +13,7 @@ Je suis francophone, cependant quelques poèmes sont [originellement dans une au
 
 Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public. Ces poèmes se répartissent entre la [cinquième](./seasons/5_cinquieme_saison) et la [huitième](./seasons/8_huitieme_saison) saison. J'ai placé une petite image à côté du lien vers le poème sur la page de sommaire des saisons concernées.
 
-![En six lettres t'aimer](/images/ensixlettres.jpg "En six lettres t'aimer")
+{{< figure src="/images/ensixlettres.jpg" title="En six lettres t'aimer" >}}
 
 ## Ecrire et partager
 

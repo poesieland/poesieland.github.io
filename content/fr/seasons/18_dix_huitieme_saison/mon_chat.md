@@ -1,58 +1,15 @@
----
-weight: 14
-title: Mon chat
-id: mon_chat_18
-date: 2023-11-03
-divider: ""
-categories:
-    - Animaux
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2023"
-    - nature
-info: ""
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 6
-LastModifierDisplayName: Barbara Post
-pictures:
-    - Mon chat, 3 septembre 2022
----
++++
+title = "Mon chat"
+id = "mon_chat_18"
+date = 2023-11-03
+weight = 14
+categories = ["Animaux"]
+tags = ["nature", "2023"]
+pictures = ["Mon chat, 3 septembre 2022"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Mon chat vient et s'impose,
 
 Capture mon regard,
@@ -106,4 +63,5 @@ Un caractère unique,
 
 Je l'aime, heureux nos jours !
 
-![Mon chat](/images/mon_chat_18_0.jpg "Mon chat, 3 septembre 2022")
+{{< figure src="/images/mon_chat_18_0.jpg" title="Mon chat, 3 septembre 2022" >}}
+

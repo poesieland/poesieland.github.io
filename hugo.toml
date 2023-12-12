@@ -25,9 +25,9 @@ editURL = ""
 # Author of the site, will be used in meta information
 author.name = "Barbara Post"
 # Description of the site, will be used in meta information
-description = ""
+description = "Barbara Post poésie poesieland"
 # Shows a checkmark for visited pages on the menu
-showVisitedLinks = false
+showVisitedLinks = true
 # Disable search function. It will hide search bar
 disableSearch = false
 # Disable search in hidden pages, otherwise they will be shown in search box
@@ -80,7 +80,25 @@ disableNextPrev = false
 # this can be overridden in the pages frontmatter
 ordersectionsby = "weight"
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
-themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+# themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+  [[params.themeVariant]]
+    identifier = "relearn-auto"
+    name = "Relearn Light/Dark"
+    auto = []
+  [[params.themeVariant]]
+    identifier = "relearn-light"
+  [[params.themeVariant]]
+    identifier = "relearn-dark"
+  [[params.themeVariant]]
+    identifier = "zen-auto"
+    name = "Zen Light/Dark"
+    auto = [ "zen-light", "zen-dark" ]
+  [[params.themeVariant]]
+    identifier = "zen-light"
+  [[params.themeVariant]]
+    identifier = "zen-dark"
+  [[params.themeVariant]]
+    identifier = "neon"
 # Change the title separator. Default to "::".
 titleSeparator = "-"
 # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers

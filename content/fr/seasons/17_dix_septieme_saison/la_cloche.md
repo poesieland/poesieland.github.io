@@ -1,58 +1,17 @@
----
-weight: 44
-title: La cloche
-id: la_cloche_17
-date: 2016-05-31
-divider: ""
-categories:
-    - Jardin et paysage
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - nature
-    - "2016"
-info: Pour célébrer un joli anniversaire de ma maman
-type: sonnet
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post
-pictures:
-    - Là où tu passas ta jeunesse (photo de 2005)
----
++++
+title = "La cloche"
+id = "la_cloche_17"
+date = 2016-05-31
+weight = 44
+categories = ["Jardin et paysage"]
+tags = ["nature", "2016", "sonnet"]
+info = "Pour célébrer un joli anniversaire de ma maman"
+pictures = ["Là où tu passas ta jeunesse (photo de 2005)"]
+type = "sonnet"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le matin frissonne, entends-tu
 
 Là-bas, la cloche au pâturage ?
@@ -84,10 +43,8 @@ De faire oublier l'avenir,
 
 C'est le juste compte, septante !
 
-![Image](/images/la_cloche_17_0.jpg "Là où tu passas ta jeunesse (photo de 2005)")
+{{< figure src="/images/la_cloche_17_0.jpg" title="Là où tu passas ta jeunesse (photo de 2005)" >}}
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Pour célébrer un joli anniversaire de ma maman"}]} -->
 {{% notice style="primary" %}}
 Pour célébrer un joli anniversaire de ma maman
 {{% /notice %}}
-<!-- FM:Snippet:End -->

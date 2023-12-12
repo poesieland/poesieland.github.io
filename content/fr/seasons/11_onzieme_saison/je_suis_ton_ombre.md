@@ -3,11 +3,11 @@ title = "Je suis ton ombre"
 id = "je_suis_ton_ombre_11"
 date = 1999-04-19
 weight = 35
-categories = [ "Portraits" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Portraits"]
+tags = ["philosophie", "1999", "acrostiche"]
+pictures = ["Mon ombre en mai 2004"]
 acrostiche = "Je suis ton ombre"
 LastModifierDisplayName = "Barbara Post"
-pictures = [ "Mon ombre en mai 2004" ]
 +++
 
 J'obéis à chaque désir
@@ -38,7 +38,7 @@ Rime du jour et du décor
 
 Et je te suis jusqu'à la mort.
 
-![Image](/images/je_suis_ton_ombre_11_0.jpg "Mon ombre en mai 2004")
+{{< figure src="/images/je_suis_ton_ombre_11_0.jpg" title="Mon ombre en mai 2004" >}}
 
 {{% notice style="primary" %}}
 Acrostiche : Je suis ton ombre

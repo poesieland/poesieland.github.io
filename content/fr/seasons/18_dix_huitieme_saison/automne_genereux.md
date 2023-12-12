@@ -1,59 +1,16 @@
----
-weight: 15
-title: Automne généreux
-id: automne_genereux_18
-date: 2023-11-03
-divider: ""
-categories:
-    - Automne
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - saisons
-    - "2023"
-info: "Vers variable : 6, 3"
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: -1
-LastModifierDisplayName: Barbara Post
-pictures:
-    - Le Ravel le 3 novembre 2023
-    - Le Ravel le 3 novembre 2023
----
++++
+title = "Automne généreux"
+id = "automne_genereux_18"
+date = 2023-11-03
+weight = 15
+categories = ["Automne"]
+tags = ["saisons", "2023"]
+info = "Vers variable : 6, 3"
+pictures = ["Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023"]
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
++++
+
 Respire à pleins poumons !
 
 Invective
@@ -98,6 +55,10 @@ En balade,
 
 Généreux par bonté.
 
-![Le Ravel le 3 novembre 2023](/images/automne_genereux_18_0.jpg "Le Ravel le 3 novembre 2023")
+{{< figure src="/images/automne_genereux_18_0.jpg" title="Le Ravel le 3 novembre 2023" >}}
 
-![Le Ravel le 3 novembre 2023](/images/automne_genereux_18_1.jpg "Le Ravel le 3 novembre 2023")
+{{< figure src="/images/automne_genereux_18_1.jpg" title="Le Ravel le 3 novembre 2023" >}}
+
+{{% notice style="primary" %}}
+Vers variable : 6, 3
+{{% /notice %}}
