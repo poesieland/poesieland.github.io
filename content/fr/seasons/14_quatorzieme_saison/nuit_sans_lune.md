@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2000", "pantoun"]
 type = "pantoun"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Par une nuit sans lune ô nuit sans lune au ciel !

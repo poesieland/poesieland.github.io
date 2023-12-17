@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "L'ombre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 L'ancienne lumière à ce rêve a cédé

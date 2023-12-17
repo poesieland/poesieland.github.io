@@ -8,6 +8,7 @@ tags = ["attitudes", "2000", "acrostiche"]
 info = "\"O Amour\" en allemand."
 acrostiche = "O Liebe"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 O par l'ultime récital

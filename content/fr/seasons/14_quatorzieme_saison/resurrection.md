@@ -7,9 +7,10 @@ categories = ["Espoir"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Résurrection"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
-Rare comme  le monde
+Rare comme le monde
 
 Entonne un chant de paix
 

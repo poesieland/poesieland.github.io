@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "Passé | présent"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Par les milliers d'années
@@ -24,9 +25,9 @@ Saura comment brûler ?
 
 En la flamme du cierge...
 
- \
 Seuls, ils peuvent parler :
 
+ \
 Nous aimer, nous détruire
 
 Sera la liberté,

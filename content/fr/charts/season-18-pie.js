@@ -9,7 +9,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 3, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 3, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 3, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Temps', value: 4, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Neige', value: 3, color: 'rgba(183, 239, 197, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },
     { label: 'Jardin et paysage', value: 3, color: 'rgba(74, 214, 109, 1)' },

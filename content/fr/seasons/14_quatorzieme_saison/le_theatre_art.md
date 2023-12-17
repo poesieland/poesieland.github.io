@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Le théâtre, art"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Les notes filent, d'ans sublimés en romance

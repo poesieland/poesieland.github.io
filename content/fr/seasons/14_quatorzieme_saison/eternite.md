@@ -7,6 +7,7 @@ categories = ["Temps", "Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Quando Corpus"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Quand plus loin que la nuit que berce le rivage

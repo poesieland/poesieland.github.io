@@ -8,6 +8,7 @@ tags = ["philosophie", "2000", "acrostiche"]
 info = "\"Quand je serai (moi)\" en italien."
 acrostiche = "Quando sarò io"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Quand la neige aura bercé le vent de mer

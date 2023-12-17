@@ -7,6 +7,7 @@ categories = ["Hiver", "Temps"]
 tags = ["saisons", "philosophie", "2000", "acrostiche"]
 acrostiche = "Jardin, dits vers"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Jetées sur les chemins sans ombre, ternes,

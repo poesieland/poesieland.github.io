@@ -6,6 +6,7 @@ weight = 20
 categories = ["Lune"]
 tags = ["ombres et lumières", "2000"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La lune bleue en son ciel blanc,

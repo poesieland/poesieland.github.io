@@ -6,6 +6,7 @@ weight = 47
 categories = ["Ciel"]
 tags = ["nature", "2000"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Regarde l'orage au loin :

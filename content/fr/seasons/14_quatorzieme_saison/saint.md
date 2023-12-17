@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "Sublimation religieuse de la vocation du chanteur Andrea Bocelli."
 acrostiche = "San Bocelli"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Sacrifié dans ta chair pour recevoir l'Offrande,

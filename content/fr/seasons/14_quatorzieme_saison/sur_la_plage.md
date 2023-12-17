@@ -8,6 +8,7 @@ tags = ["amour", "2001", "acrostiche"]
 info = "D'après un rêve."
 acrostiche = "Sur la plage"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur cette plage nos deux rires

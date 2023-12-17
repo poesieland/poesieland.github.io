@@ -7,6 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "L'air | créé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Les rhododendrons, boules, blancs,
@@ -17,6 +18,7 @@ Arment de songes les élans
 
 Riches, touffus d'accords prospères.
 
+ \
 Irez-vous jusqu'au parc ? l'air doux
 
 Essaime un peu : colorature,

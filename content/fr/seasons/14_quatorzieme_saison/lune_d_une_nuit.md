@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "2000", "acrostiche"]
 acrostiche = "Amie de la nuit, lune"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Allée en haut, douce, grâcieuse

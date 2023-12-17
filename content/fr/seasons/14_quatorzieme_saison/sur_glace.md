@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Sur glace"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Souples, les corps dansent au lac
@@ -17,6 +18,7 @@ Relient et joignent, portée ose
 
 Gamme des sens, ambré, ressac
 
+ \
 Lancé vers l'autre. D'un partage
 
 Assembler l'art, multiples pas,

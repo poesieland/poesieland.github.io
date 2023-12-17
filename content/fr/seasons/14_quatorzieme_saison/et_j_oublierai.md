@@ -7,6 +7,7 @@ categories = ["Lune", "Etre"]
 tags = ["ombres et lumières", "philosophie", "2000", "acrostiche"]
 acrostiche = "Et j'oublierai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Et j'oublierai la lune

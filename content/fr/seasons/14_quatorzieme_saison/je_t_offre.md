@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Je t'offre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Je veux donner l'amour
@@ -17,6 +18,7 @@ Timide comme un jour
 
 Ouverte : fleur de ronce ;
 
+ \
 Fragile l'amitié
 
 Frêle parfum, présage

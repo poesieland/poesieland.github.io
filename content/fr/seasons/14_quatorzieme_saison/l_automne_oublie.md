@@ -7,6 +7,7 @@ categories = ["Temps", "Automne"]
 tags = ["philosophie", "saisons", "2000", "acrostiche"]
 acrostiche = "Dire à l'oublié"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 14
 +++
 
 Doucement ces heures fanées étiolent leurs senteurs,

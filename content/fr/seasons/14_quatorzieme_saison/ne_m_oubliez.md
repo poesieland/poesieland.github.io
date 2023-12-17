@@ -6,6 +6,7 @@ weight = 3
 categories = ["Apprentissage"]
 tags = ["philosophie", "2000"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Ne m'oubliez jamais même si ça vous coûte,

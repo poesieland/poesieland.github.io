@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Si tu vois"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Si tu ne vois, Seigneur, ni mon cœur ni mon âme,

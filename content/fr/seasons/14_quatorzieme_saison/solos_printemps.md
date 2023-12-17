@@ -7,6 +7,7 @@ categories = ["Jardin et paysage", "Printemps"]
 tags = ["nature", "saisons", "2001", "acrostiche"]
 acrostiche = "Solos, printemps"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Seul, un archange au cœur maussade,

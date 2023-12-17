@@ -7,6 +7,7 @@ categories = ["Foi", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "Par tes grâces"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Plus près de Dieu par ton visage

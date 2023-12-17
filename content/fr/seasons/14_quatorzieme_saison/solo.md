@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Solo"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 9
 +++
 
 Solo de violon descend mauve,

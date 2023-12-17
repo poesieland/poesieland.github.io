@@ -7,6 +7,7 @@ categories = ["Temps", "Automne"]
 tags = ["philosophie", "saisons", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "L'ombre de | novembre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel rosit le soir si pâle:

@@ -8,6 +8,7 @@ tags = ["nature", "saisons", "philosophie", "2000", "acrostiche"]
 info = "D'après le parc de Choisy, Paris."
 acrostiche = "L'air : rapsodie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 14
 +++
 
 Le vieux cèdre au pas immobile égrène les saisons ;
@@ -18,6 +19,7 @@ Irisaient d'autrefois le ciel et s'ouvrent les prisons :
 
 Rapsodie, ô Printemps fleuri, rapsodies élancées
 
+ \
 Reviennent lier ce cœur tendre en tes bras ivres, verts,
 
 A moi revient le chant perdu, celui si doux du merle
@@ -26,6 +28,7 @@ Parce que l'image n'est belle ô qu'affrontés les hivers.
 
 Sur les bassins l'eau vive brille et chaque goutte, perle
 
+ \
 Offre au soleil tout son trésor. Il n'est assez subtils
 
 Diamants pour parer la corolle ouverte à l'air sans voile,

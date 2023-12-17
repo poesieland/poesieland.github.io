@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Monts : image"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Monts enneigés, monts éternels,

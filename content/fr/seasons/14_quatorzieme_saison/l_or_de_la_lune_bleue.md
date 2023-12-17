@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "L'or de la lune bleue"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 La nuit qui me réveille

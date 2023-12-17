@@ -8,6 +8,7 @@ tags = ["nature", "2001", "acrostiche"]
 info = "Les Alpes..."
 acrostiche = "Sérénité"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Silence murmuré, blanc mont
@@ -18,6 +19,7 @@ Rive, le ciel dit bleue et noire,
 
 Espace, dentelle vers mon
 
+ \
 Nouveau regard alto, pupille
 
 Infinie où se brise un jour,

@@ -7,6 +7,7 @@ categories = ["Automne", "Temps"]
 tags = ["saisons", "philosophie", "2000", "acrostiche"]
 acrostiche = "L'air d'octobre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'automne... apposés ses messages

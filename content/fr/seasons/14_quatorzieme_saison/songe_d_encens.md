@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Songe d'encens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur le ciel noir la lune lève

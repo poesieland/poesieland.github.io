@@ -7,6 +7,7 @@ categories = ["Animaux"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Mon chat préféré"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Mon chat se love et se tortille

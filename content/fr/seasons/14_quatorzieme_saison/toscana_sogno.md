@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Toscana - Sogno"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Très doux, ce bleu pays, et vert, et tout doré...

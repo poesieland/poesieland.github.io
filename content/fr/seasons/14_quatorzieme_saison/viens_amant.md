@@ -7,6 +7,7 @@ categories = ["Romantisme", "Toucher"]
 tags = ["amour", "attitudes", "2001", "acrostiche"]
 acrostiche = "Viens en moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Viens bel amant, d'un cœur floral
