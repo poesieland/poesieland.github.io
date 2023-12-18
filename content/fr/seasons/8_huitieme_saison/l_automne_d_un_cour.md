@@ -7,6 +7,7 @@ categories = ["Automne", "Temps", "Musique et chant"]
 tags = ["saisons", "philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'automne d'un cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'automne est sourd aux invectives,

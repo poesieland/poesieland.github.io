@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche"]
 info = "\"Dieu m'a appelée\" en italien."
 acrostiche = "Dio m'ha chiamato"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Dieu m'a livré sa parole,

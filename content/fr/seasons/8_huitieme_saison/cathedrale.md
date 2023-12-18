@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Cathédrale"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Croire et prier sous ton dôme,

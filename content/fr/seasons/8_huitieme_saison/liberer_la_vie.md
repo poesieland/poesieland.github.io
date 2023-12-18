@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Libérer la vie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Libérer la vie au corps,

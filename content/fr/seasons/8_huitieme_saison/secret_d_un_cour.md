@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Secret d'un cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sans amour le monde est folie

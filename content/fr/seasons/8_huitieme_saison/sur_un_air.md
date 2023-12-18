@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Sur un air"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur un air bleu, sur un air blanc

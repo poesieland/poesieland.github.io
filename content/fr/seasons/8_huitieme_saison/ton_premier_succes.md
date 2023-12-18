@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ton premier succès"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ton premier succès fut le mien,

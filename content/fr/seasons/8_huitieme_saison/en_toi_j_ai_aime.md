@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "En toi j'ai aimé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 En toi j'ai retrouvé ce rêve

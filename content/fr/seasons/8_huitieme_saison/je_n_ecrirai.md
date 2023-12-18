@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je n'écrirai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je n'écrirai plus de poème

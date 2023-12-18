@@ -7,6 +7,7 @@ categories = ["Amour malheureux", "Création"]
 tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "Quand le destin dit..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Quand le destin dit d'un regard

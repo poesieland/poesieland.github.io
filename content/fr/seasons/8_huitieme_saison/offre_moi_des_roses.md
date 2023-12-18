@@ -7,6 +7,7 @@ categories = ["Aimé (amant)", "Flore"]
 tags = ["amour", "nature", "1998", "acrostiche"]
 acrostiche = "Offre-moi des roses"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Offre-moi des roses,

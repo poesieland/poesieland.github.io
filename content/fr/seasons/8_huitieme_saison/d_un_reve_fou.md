@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "D'un rêve fou"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 D'un rêve fou je revois

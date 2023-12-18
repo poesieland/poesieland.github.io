@@ -7,6 +7,7 @@ categories = ["Automne"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "Fin d'été, nonchalance"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Fin d'été : nonchalance

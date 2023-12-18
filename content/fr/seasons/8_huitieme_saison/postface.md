@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998"]
 info = "Dernier poème de mon recueil En six lettres : t'aimer."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Avant de partir sans un signe,

@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Elle : sonate"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Elle s'écoute d'un murmure,

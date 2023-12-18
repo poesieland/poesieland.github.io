@@ -7,6 +7,7 @@ categories = ["Toucher"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Ta bouche"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Ta bouche parle pour moi,

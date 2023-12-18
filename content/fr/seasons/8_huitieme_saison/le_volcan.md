@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le volcan"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le volcan sous la lune endormi comme étoile
@@ -17,6 +18,7 @@ Vivre c'est comme aimer, ce qui détruit dévoile
 
 Où chaque éclat plus vif d'un soleil expirant
 
+ \
 Livre dans sa faiblesse élan de renaissance,
 
 Cerné de toutes parts des mortels vents chagrins...

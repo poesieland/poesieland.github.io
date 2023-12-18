@@ -6,6 +6,7 @@ weight = 30
 categories = ["Nuit", "Musique et chant"]
 tags = ["ombres et lumières", "attitudes", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Seul où l'horloge s'abandonne

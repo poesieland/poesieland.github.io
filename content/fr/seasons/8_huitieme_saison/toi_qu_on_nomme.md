@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Toi qu'on nomme..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Toi qu'on nomme le rêve éternel, sous serment

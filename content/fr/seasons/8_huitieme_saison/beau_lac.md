@@ -7,6 +7,7 @@ categories = ["Eau douce"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Beau lac, miroir, dis..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Beau lac, miroir, dis les splendeurs

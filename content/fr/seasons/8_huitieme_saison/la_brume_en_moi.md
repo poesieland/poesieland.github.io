@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "La brume en moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 La folle brume

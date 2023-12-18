@@ -1,10 +1,13 @@
 import { addBarChart } from './add-chart.js'
 (async function () {
   const data = [
-    { label: '8', value: 1 },
-    { label: '10', value: 1 },
-    { label: '12', value: 2 },
-    { label: 'Pas de données pour l\'instant', value: 46, color: 'rgb(211, 211, 211)' },
+    { label: '4', value: 1 },
+    { label: '5', value: 1 },
+    { label: '6', value: 4 },
+    { label: '7', value: 7 },
+    { label: '8', value: 29 },
+    { label: '10', value: 2 },
+    { label: '12', value: 6 },
   ];
     addBarChart('season8VerseLengthBar', ['Poèmes'], [data]);
 })();

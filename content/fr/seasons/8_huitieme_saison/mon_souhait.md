@@ -7,13 +7,14 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mon souhait"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Menant mes pas vers la fontaine
 
 Ondoyante, fraîche, sereine,
 
-N'y tenant plus je fis trois vux.
+N'y tenant plus je fis trois voeux.
 
 Seront-ils entendus des cieux,
 

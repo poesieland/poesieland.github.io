@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "A la folie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A la folie ô tu m'aimais,

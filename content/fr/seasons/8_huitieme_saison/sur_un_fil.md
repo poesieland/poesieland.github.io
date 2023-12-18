@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sur un fil"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Sur un fil un funambule,

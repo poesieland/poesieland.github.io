@@ -7,6 +7,7 @@ categories = ["Apprentissage", "Amour malheureux"]
 tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Je ne crois pas..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je ne crois pas dans le hasard,

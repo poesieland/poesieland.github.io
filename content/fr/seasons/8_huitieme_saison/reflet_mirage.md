@@ -7,6 +7,7 @@ categories = ["Création", "Ciel"]
 tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "Reflet : mirage"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Reflet d'un ciel où plus rien n'a brillé :

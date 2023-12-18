@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je crois en toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je crois en toi, l'amant, l'unique,

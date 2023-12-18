@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Il pleut sur ta figure..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Il pleut sur ta figure d'homme;

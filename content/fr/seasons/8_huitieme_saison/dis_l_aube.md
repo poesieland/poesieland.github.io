@@ -7,6 +7,7 @@ categories = ["Crépuscule", "Musique et chant"]
 tags = ["ombres et lumières", "attitudes", "1998", "acrostiche"]
 acrostiche = "Dis l'aube au crépuscule"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Dis l'aube, au crépuscule

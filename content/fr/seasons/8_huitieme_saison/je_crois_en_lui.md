@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Je crois en lui"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je crois en celui qui viendra

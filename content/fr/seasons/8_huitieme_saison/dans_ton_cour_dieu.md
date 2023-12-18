@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dans ton cœur, Dieu"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dans ton cœur, Dieu, dans ta main

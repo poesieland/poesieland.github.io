@@ -7,6 +7,7 @@ categories = ["Animaux", "Espoir"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "La colombe s'envole"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 La colombe s'envole

@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le peintre dit..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le peintre dit : tout l'univers

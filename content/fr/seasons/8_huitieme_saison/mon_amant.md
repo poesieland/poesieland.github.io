@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Mon amant"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Mon amant, berce musique

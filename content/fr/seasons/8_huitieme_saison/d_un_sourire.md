@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "D'un sourire"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 D'un sourire tu m'as séduite,

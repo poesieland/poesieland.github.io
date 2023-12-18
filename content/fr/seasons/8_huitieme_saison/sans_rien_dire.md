@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sans rien dire"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sans ressusciter l'oublié

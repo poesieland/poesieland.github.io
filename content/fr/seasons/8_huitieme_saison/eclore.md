@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Eclora toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Eclore à l'ombre de fragrance

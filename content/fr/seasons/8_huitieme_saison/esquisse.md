@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Esquisse"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Esquisse d'un sourire

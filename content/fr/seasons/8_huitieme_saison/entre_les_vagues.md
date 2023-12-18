@@ -7,6 +7,7 @@ categories = ["Sommeil", "Mer", "Musique et chant"]
 tags = ["attitudes", "nature", "1998", "acrostiche"]
 acrostiche = "Entre les vagues"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Entre le rêve et le sommeil,

@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Une bague"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Une bague à ton doigt brillait, vive, frivole,

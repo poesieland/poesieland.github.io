@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Con te partirò"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Ce que l'on croyait vif comme encre indélébile

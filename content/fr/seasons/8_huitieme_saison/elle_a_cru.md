@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Elle a cru"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Elle croyait que pour aimer

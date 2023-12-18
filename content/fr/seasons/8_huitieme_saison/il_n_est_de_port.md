@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Il n'est de port"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Il n'est de port pour accoster :

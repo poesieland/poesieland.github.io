@@ -7,6 +7,7 @@ categories = ["Toucher", "Etre"]
 tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Sur tes lèvres"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur tes lèvres en farandole
