@@ -8,7 +8,7 @@ import { addBarChart } from './add-chart.js'
     { label: '7', value: 1 },
     { label: '8', value: 11 },
     { label: '11', value: 1 },
-    { label: '12', value: 4 },
+    { label: '12', value: 5 },
     { label: '6, 3', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
     addBarChart('season18VerseLengthBar', ['Poèmes'], [data]);

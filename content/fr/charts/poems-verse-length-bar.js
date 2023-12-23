@@ -11,7 +11,7 @@ import { addBarChart } from './add-chart.js'
     { label: '9', value: 7 },
     { label: '10', value: 24 },
     { label: '11', value: 4 },
-    { label: '12', value: 137 },
+    { label: '12', value: 138 },
     { label: '13', value: 1 },
     { label: '14', value: 4 },
     { label: '5, 2', value: 1, color: 'rgba(72, 149, 239, 1)' },
