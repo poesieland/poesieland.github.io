@@ -8,6 +8,10 @@ Je me suis aussi demandé si nombreux étaient les "jours blancs".
 
 {{< chartjs id="poemDayPie" width="50%" jsFile="../poem-day-pie.js" />}}
 
+Quant aux jours de la semaine...
+
+{{< chartjs id="poemDayOfWeekPie" width="50%" jsFile="../poem-dayofweek-pie.js" />}}
+
 Et les jours où j'écris plus d'un poème ?
 
 {{< chartjs id="poemIntensityPie" width="50%" jsFile="../poem-intensity-pie.js" />}}
