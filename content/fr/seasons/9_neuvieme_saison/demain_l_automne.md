@@ -7,6 +7,7 @@ categories = ["Automne"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "Demain l'automne"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Demain l'automne emporte au vent tous les blasphèmes,

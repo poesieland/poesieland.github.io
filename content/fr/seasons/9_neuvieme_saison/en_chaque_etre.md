@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "En chaque être"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 En chaque être une étoile,

@@ -6,6 +6,7 @@ weight = 50
 categories = ["Espoir"]
 tags = ["philosophie", "1998"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Elle donne la vie,

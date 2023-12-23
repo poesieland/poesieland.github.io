@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Création"]
 tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Naître"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Naître, nouvelle Eve,

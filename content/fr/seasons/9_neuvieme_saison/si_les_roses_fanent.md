@@ -7,6 +7,7 @@ categories = ["Flore", "Foi"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Si les roses fanent"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Si les roses se fanent

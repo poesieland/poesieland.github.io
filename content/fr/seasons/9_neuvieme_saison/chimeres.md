@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Chimères"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Comme une ancienne fleur
@@ -17,6 +18,7 @@ Irise au ciel couleur
 
 Mon âme se rebelle,
 
+ \
 Emporte de parfums
 
 Rires et mots, paroles,

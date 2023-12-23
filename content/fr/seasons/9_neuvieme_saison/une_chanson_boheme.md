@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Une chanson bohème"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Une idée en mon cœur
@@ -17,6 +18,7 @@ Emporte en sa douceur
 
 Charmante d'habitude
 
+\
 Heurtée, en ma prison
 
 Aux murs peuplés d'images,
@@ -25,6 +27,7 @@ Nouveau chant de saison.
 
 Septembre, octobre sages
 
+ \
 Ont reformé le lien
 
 Noué comme une ligne
@@ -33,6 +36,7 @@ Brisée où bohémien
 
 Ondule un pâle signe.
 
+ \
 Hermétique berceau
 
 Extatique, en arrière

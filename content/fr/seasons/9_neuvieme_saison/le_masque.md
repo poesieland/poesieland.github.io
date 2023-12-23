@@ -7,6 +7,7 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Le masque"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le masque au doux mystère offrait votre visage,

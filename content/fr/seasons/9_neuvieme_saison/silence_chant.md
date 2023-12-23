@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Silence : chant"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Si lent, ce mouvement

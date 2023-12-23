@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Etre créé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Etre et créer l'espace,

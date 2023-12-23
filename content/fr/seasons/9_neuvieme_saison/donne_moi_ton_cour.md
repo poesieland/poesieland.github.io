@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Donne-moi ton cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Depuis le premier jour

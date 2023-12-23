@@ -7,6 +7,7 @@ categories = ["Automne"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "La saison"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 L'automne en orphelin qui s'est trompé d'adresse

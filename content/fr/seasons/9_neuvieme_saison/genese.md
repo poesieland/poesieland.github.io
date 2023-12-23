@@ -7,6 +7,7 @@ categories = ["Foi", "Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ailleurs, sérénité"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ailleurs sans lumière ni mots,
@@ -17,6 +18,7 @@ La main qui pardonne et qui gronde
 
 Lie en sa paume cœurs jumeaux...
 
+ \
 Entre les lignes qui se courbent
 
 Une esquisse d'Eden ancien :
@@ -25,6 +27,7 @@ Roule un flot bleu qui me retient
 
 Sur la falaise aux souffles fourbes...
 
+ \
 Serrez Vos doigts comme parfums
 
 Et mon âme trouve refuge :
@@ -33,6 +36,7 @@ Roulent les vents du grand Déluge
 
 Emportant souvenirs défunts.
 
+ \
 Nue, une main bouge et s'arrête :
 
 Instantanée, offre chaleur,

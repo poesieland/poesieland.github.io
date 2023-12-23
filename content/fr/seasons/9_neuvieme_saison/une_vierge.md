@@ -7,6 +7,7 @@ categories = ["Femme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Une vierge, moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Une vierge a rêvé que l'onde du ruisseau

@@ -7,6 +7,7 @@ categories = ["Nuit", "Temps"]
 tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Un rêve au-delà"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un rêve au-delà, sidéral,

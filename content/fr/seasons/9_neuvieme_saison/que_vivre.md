@@ -7,6 +7,7 @@ categories = ["Espoir", "Nuit"]
 tags = ["philosophie", "ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Que vivre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Qui cueille fleur offense chaque étoile :

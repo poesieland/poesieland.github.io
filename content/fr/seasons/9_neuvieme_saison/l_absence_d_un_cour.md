@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "L'absence d'un cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Les mots trop souvent dits
@@ -17,6 +18,7 @@ Blessés par nos oublis,
 
 Sans pardonner la rose
 
+ \
 Etreinte en son cœur vrai...
 
 Nue, une âme s'envole
@@ -25,6 +27,7 @@ Comme on découvrirait
 
 Essence de parole.
 
+ \
 Dans un rêve sans ciel
 
 Un mot ferme le livre,
@@ -33,6 +36,7 @@ Ne chante l'essentiel,
 
 Car se tromper c'est vivre.
 
+ \
 O la nuit offre au cœur
 
 Esseulé son refuge;

@@ -7,6 +7,7 @@ categories = ["Romantisme", "Création"]
 tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "Rêver de toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Rêver que l'âme que tu frôles

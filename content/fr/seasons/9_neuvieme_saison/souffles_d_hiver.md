@@ -8,6 +8,7 @@ tags = ["saisons", "philosophie", "1998", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "Souffles d'hiver"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Souffles d'hiver rêvés sur les doigts transparents,

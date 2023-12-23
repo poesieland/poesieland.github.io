@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche"]
 info = "\"Nul ne le saura\" en italien."
 acrostiche = "Non lo nessun saprà"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Nul ne sait ce qu'il aime

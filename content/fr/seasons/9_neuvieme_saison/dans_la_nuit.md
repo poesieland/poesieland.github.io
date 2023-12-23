@@ -7,6 +7,7 @@ categories = ["Nuit", "Temps"]
 tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Dans la nuit"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Dans la nuit cristalline entendais-tu la stèle

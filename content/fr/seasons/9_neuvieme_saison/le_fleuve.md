@@ -7,6 +7,7 @@ categories = ["Création", "Eau douce"]
 tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "A la recherche"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A la recherche d'un sourire

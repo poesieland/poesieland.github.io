@@ -7,6 +7,7 @@ categories = ["Romantisme", "Création"]
 tags = ["amour", "philosophie", "1998", "acrostiche"]
 acrostiche = "Je t'attendrai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Je n'attends qu'un regard; un non-dit plus suave

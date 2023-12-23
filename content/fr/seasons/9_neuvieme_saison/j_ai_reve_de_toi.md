@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "J'ai rêvé de toi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 J'ai rêvé sans comprendre,

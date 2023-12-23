@@ -7,6 +7,7 @@ categories = ["Hiver", "Révolte"]
 tags = ["saisons", "philosophie", "1998", "acrostiche"]
 acrostiche = "L'hiver déjà"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le ciel est triste et bas comme une chanson grise,

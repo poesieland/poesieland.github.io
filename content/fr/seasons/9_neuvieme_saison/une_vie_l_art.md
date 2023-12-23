@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Une vie : l'art"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Un matin l'ombre dit : que la lumière soit !

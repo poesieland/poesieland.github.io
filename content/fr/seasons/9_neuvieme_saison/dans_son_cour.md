@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Dans son cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dans un corps d'homme un cœur de femme

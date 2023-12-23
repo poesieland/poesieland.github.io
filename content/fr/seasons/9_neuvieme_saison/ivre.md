@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Ivre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ivre chanson chantée à chœur,

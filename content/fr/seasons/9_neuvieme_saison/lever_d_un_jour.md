@@ -7,6 +7,7 @@ categories = ["Aube", "Mer", "Musique et chant"]
 tags = ["ombres et lumières", "nature", "attitudes", "1998", "acrostiche"]
 acrostiche = "Lever d'un jour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Là-bas sur l'océan s'élèvent les prières

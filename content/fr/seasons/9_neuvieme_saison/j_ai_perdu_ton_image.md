@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'ai perdu ton image"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 J'ai perdu ton image

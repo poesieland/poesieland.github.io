@@ -8,6 +8,7 @@ tags = ["saisons", "nature", "philosophie", "1998", "acrostiche"]
 info = "\"Papillons d'octobre\" en italien."
 acrostiche = "Farfalle d'ottobre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Frémissants, trop légers, les papillons d'octobre
@@ -18,6 +19,7 @@ Rêvés comme l'amour de saison sans éveil...
 
 Feuilles, mirages, vie, un cœur s'entrouvre; sobre
 
+ \
 Aux élixirs du ciel dont le chant triste est doux...
 
 Libre sur mon visage embrasse ton haleine,
@@ -35,6 +37,7 @@ Traces d'un passé flou qu'on ne peut détester;
 
 Tournoyez, fragmentés, avant de disparaître,
 
+ \
 Offerts aux voiles longs qui vêtiront l'hiver !
 
 Brisés, mes doigts gelés dans votre sacrifice...

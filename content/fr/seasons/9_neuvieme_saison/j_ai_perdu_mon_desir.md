@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'ai perdu mon désir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 J'ai perdu mon désir

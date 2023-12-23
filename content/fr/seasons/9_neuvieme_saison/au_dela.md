@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Mourir c'est beau"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Mourir, c'est comme vivre et traverser l'espace

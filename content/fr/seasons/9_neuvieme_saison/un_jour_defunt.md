@@ -7,6 +7,7 @@ categories = ["Automne", "Flore"]
 tags = ["saisons", "nature", "1998", "acrostiche"]
 acrostiche = "Un jour né déjà mort"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un jour naissait l'esprit d'un souffle,

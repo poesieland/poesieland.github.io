@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche"]
 info = "\"Vivre dans l'art\" en italien."
 acrostiche = "Vivere nell'arte"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Vivre, c'est aimer dans l'art,

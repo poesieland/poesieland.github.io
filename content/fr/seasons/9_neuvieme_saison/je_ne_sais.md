@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Je ne sais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Je ne sais si demain

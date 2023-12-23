@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le sable, la vie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le sable qu'on a ramassé

@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Résonances de l'âme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Ressusciter la nuit,
@@ -17,6 +18,7 @@ Silence de l'ennui
 
 Ondoyant sous les voiles...
 
+ \
 Nés sans cœur tous ces gens
 
 Arment des joies moroses,
@@ -25,11 +27,11 @@ Nos chemins indigents
 
 Cachent le monde aux choses,
 
+ \
 Et ne sauraient prier :
 
 Sourires de Madones.
 
- \
 Du ciel on peut crier :
 
 Espoir, tu m'abandonnes !

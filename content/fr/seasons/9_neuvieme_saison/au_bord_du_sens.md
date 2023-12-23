@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Au bord du sens ivre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Au bord du miroir
@@ -17,6 +18,7 @@ Berce sans parole
 
 Offrande du soir.
 
+ \
 Rêverie aux mondes
 
 Délicats, majeurs,
@@ -25,6 +27,7 @@ Des notes en chœurs
 
 Unissent, confondent
 
+ \
 Souffle de ces mains,
 
 En reflets éclosent
@@ -33,6 +36,7 @@ Naissances des choses :
 
 Senteurs de jasmins
 
+ \
 Immolent l'essence,
 
 Vertige plus vif,

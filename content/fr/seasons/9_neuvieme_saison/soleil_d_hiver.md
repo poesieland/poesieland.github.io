@@ -7,6 +7,7 @@ categories = ["Hiver", "Musique et chant"]
 tags = ["saisons", "attitudes", "1998", "acrostiche"]
 acrostiche = "Soleil d'hiver"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Sur les routes désertes,

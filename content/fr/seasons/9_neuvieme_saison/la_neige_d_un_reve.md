@@ -8,6 +8,7 @@ tags = ["philosophie", "1998", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "La neige d'un rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 La neige est froide, et ses cristaux déposent
