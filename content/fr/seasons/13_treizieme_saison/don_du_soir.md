@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson, \"Ave Maria no morro\", dans la version des paroles chantées par Andrea Bocelli."
 acrostiche = "Arcobaleno preghier'"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Au ciel tout incendié le couchant qui s'emplit

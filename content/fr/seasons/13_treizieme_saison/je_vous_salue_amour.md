@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je vous salue, amour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Je vous salue, amour !

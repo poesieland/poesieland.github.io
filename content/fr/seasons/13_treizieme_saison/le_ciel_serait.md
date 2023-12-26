@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel serait"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel serait triste sans elle

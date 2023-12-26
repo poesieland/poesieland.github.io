@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un angelo"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Un ange est apparu,

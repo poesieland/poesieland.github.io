@@ -7,6 +7,7 @@ categories = ["Foi", "Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "Chanter sans mot"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Chanter sans mot: je veux, l'écho

@@ -7,6 +7,7 @@ categories = [ "Portraits" ]
 tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "Dernier sacre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Désormais sans bonheur le dernier roi s'éteint,

@@ -8,6 +8,7 @@ tags = ["nature", "1999", "acrostiche"]
 info = "\"Soleil nouveau\" en italien."
 acrostiche = "Sol' nuovo"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Sur un inconnu rivage

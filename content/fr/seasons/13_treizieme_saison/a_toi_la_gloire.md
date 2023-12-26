@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "A Toi la gloire"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Accueille un pécheur en ton sein, Sainte Mère !

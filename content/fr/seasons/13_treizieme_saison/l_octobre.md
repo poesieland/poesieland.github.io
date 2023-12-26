@@ -7,6 +7,7 @@ categories = ["Automne", "Espoir"]
 tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "L'Octobre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 L'automne ourle sa lèvre en d'infinis baisers,

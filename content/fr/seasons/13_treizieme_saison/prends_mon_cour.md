@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Prends mon cœur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Prends mon cœur dans le tien, prends mon cœur dans ta main,

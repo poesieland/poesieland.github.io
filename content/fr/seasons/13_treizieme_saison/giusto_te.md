@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Juste toi\" en italien."
 acrostiche = "Giusto te"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Grâce de Dieu sur toi descend :

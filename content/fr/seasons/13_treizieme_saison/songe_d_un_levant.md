@@ -7,6 +7,7 @@ categories = ["Aube", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Songe d'un levant"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur la douceur de mes paupières,

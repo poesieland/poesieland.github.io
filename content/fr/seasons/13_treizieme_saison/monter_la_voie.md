@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Monter la voie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Monter plus haut que l'âme
@@ -17,11 +18,11 @@ Né d'ailleurs, ce cœur-flamme
 
 Trouvant l'éclat que ni
 
+ \
 Erreur ni mort ne voilent,
 
 Renversé vers les cieux...
 
- \
 Les ombres, les étoiles
 
 A ce chant si précieux,

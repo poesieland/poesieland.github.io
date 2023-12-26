@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Tu me consoles"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Tu suggères un sens quand la vie abandonne

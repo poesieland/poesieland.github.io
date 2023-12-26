@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Si je prie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Sans regretter ce qu'on ne fera plus,

@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Promenade | la pluie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Parce qu'une saison chasse l'autre bientôt

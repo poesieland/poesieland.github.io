@@ -8,6 +8,7 @@ tags = ["nature", "philosophie", "1999", "acrostiche"]
 info = "\"L'amour et toi\" en portuguais, reprise du titre d'une chanson."
 acrostiche = "L'amor e tu"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Là, tu ne sais pas encor,

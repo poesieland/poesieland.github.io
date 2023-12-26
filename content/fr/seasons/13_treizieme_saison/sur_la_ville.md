@@ -7,6 +7,7 @@ categories = ["Ville", "Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Sur la ville"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur la ville la brume rose,

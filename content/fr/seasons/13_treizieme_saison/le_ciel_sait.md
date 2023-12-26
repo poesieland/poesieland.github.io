@@ -7,6 +7,7 @@ categories = ["Ciel", "Crépuscule"]
 tags = ["nature", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel sait"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le ciel plus pâle : un reflet rose

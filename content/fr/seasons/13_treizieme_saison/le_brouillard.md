@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Le brouillard"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Le goût du brouillard

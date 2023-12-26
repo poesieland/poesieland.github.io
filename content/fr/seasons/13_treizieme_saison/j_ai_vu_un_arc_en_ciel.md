@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "J'ai vu un arc-en-ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 J'ai vu les sept couleurs

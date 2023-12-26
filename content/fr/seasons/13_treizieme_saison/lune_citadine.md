@@ -7,6 +7,7 @@ categories = ["Lune", "Ville"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune citadine"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La lune a perdu son chemin,

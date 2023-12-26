@@ -8,6 +8,7 @@ tags = ["philosophie", "nature", "1999", "acrostiche"]
 info = "\"(Il n'y a) plus d'amour\" en italien."
 acrostiche = "Non amor più"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Ne cherche pas ce qui te manque:

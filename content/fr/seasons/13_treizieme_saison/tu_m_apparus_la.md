@@ -7,6 +7,7 @@ categories = ["Amitié"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Tu m'apparus là"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu m'apparus comme on s'approche

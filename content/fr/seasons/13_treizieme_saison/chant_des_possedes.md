@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Chant des possédés"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Comme une feuille à ton arbre

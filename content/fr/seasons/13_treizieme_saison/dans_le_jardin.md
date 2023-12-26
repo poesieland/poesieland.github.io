@@ -8,6 +8,7 @@ tags = ["nature", "saisons", "1999", "acrostiche"]
 info = "Le parc Kellerman, à Paris."
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dans le vieux jardin déserté

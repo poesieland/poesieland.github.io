@@ -7,6 +7,7 @@ categories = ["Mer", "Etre"]
 tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Nocturne"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 N'entends-tu pas le chant de la mer oubliée

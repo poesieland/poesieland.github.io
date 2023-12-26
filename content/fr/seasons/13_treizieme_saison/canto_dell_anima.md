@@ -8,6 +8,7 @@ tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 info = "\"Chant de l'âme\" en italien."
 acrostiche = "Canto dell'anima"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Comment viendrai-je enfin pour chanter tes louanges ?

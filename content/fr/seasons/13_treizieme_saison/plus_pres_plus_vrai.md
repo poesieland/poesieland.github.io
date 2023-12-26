@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Plus près, plus vrai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Prononcé le poème

@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je t'oublierai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Je t'oublierai sans cesse

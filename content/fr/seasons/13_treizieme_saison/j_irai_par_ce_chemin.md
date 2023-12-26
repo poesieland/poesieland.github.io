@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "J'irai par ce chemin"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 J'ai ressenti l'appel
@@ -17,9 +18,9 @@ Rochers, sables et flaques
 
 Attendent mon pas, tel
 
+ \
 Intense, ce miracle.
 
- \
 Par l'épreuve la foi
 
 A son bâton bien droit
@@ -31,11 +32,11 @@ Champ de l'étoile, en chœur,
 
 Espérance désigne
 
- \
 Courage sur la ligne
 
 Humble d'un trait majeur.
 
+ \
 Et de la Capitale
 
 Mon jour bientôt viendra,

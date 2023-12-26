@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Core 'ngrato"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 ... Car il n'est de soleil pour bercer la cité;

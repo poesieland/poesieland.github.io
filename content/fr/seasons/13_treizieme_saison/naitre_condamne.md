@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Naître condamné"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Ne demande jamais : "pour qui sonne le glas ?"

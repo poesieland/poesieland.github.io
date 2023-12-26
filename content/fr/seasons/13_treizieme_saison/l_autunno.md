@@ -8,7 +8,7 @@ tags = [ "1999", "acrostiche", "philosophie", "saisons" ]
 info = "\"L'automne\" en italien."
 acrostiche = "L'autunno"
 LastModifierDisplayName = "Barbara Post"
-verseLength = 13
+verseLength = 12
 +++
 
 Lorsque le sanglier emportera tes rêves

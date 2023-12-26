@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "L'orage, là"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le ciel soudain plus sombre imite un cinéma

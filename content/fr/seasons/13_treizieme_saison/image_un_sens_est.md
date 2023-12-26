@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Image, un sens est"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Inoubliable image :

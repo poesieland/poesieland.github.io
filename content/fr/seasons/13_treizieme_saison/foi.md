@@ -8,6 +8,7 @@ tags = ["amour", "1999", "acrostiche"]
 info = "\"Unique restera\" en italien."
 acrostiche = "Unico resterà"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Unique ton cœur bat, le mien

@@ -11,7 +11,7 @@ import { addBarChart } from './add-chart.js'
     { label: '14', value: 48 },
     { label: '16', value: 203 },
     { label: '18', value: 9 },
-    { label: '20', value: 56 },
+    { label: '20', value: 57 },
     { label: '22', value: 2 },
     { label: '24', value: 8 },
     { label: '26', value: 1 },
@@ -34,5 +34,5 @@ import { addBarChart } from './add-chart.js'
     { label: '', value: 0 },
 ]
   ];
-    addBarChart('poemLengthBar', ['Poèmes','Sonnets'], data);
+    addBarChart('poemLengthBar', ['Poèmes','Sonnets'], data, { scales: { y: { max: 300 } } });
 })();

@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Quand le souffle\" en italien."
 acrostiche = "Quando il soffio"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Quand le souffle du vent transfigure le monde

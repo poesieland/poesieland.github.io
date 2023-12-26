@@ -4,7 +4,7 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
         {
             label: chartLabels[0],
             data: datas[0].map(row => row.value),
-            backgroundColor: datas[0].map(row => row.color ?? options.backgroundColor ?? 'rgba(76, 201, 240, 1)'),
+            backgroundColor: datas[0].map(row => row.color ?? options?.backgroundColor ?? 'rgba(76, 201, 240, 1)'),
         }
     ];
 
@@ -42,7 +42,7 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
 
 const addPieChart = (chartId, datas, title) => { addChart(chartId, 'pie', [''], datas, { plugins: { title: { display: true, text: title } } }); };
 
-const addBarChart = (chartId, chartLabels, datas) => { addChart(chartId, 'bar', chartLabels, datas, {}); };
+const addBarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'bar', chartLabels, datas, options); };
 
 const addRadarChart = (chartId, chartLabels, datas, border, background) => {
     addChart(chartId, 'radar', chartLabels, datas, {

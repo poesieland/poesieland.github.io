@@ -1,5 +1,7 @@
 **Derniers ajouts:**
 
+[Promenade d'hiver, écrit le 26.12.2023](./seasons/18_dix_huitieme_saison/promenade_d_hiver/)
+
 [Message de Noël, écrit le 23.12.2023](./seasons/18_dix_huitieme_saison/message_de_noel/)
 
 [Présent simple, écrit le 17.12.2023](./seasons/18_dix_huitieme_saison/present_simple/)
@@ -8,7 +10,6 @@
 
 [Bel hiver, écrit le 09.12.2023](./seasons/18_dix_huitieme_saison/bel_hiver/)
 
-[Gratitude, écrit le 08.12.2023](./seasons/18_dix_huitieme_saison/gratitude/)
 
 
 

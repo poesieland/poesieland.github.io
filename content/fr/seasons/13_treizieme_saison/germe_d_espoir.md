@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Germe d'espoir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Guéris nos cœurs de la souillure
@@ -17,16 +18,16 @@ Revient vers Toi pour maintenant
 
 Miracle, foi, te chanter pure
 
+ \
 Et libérer l'ancien péché.
 
- \
 Donnant l'amour tu lui pardonnes,
 
- \
 Ecoute ! Paisibles résonnent
 
 Ses pas au dallage ébréché.
 
+ \
 Par l'oratorio de lumière
 
 Offre à nos âmes, plus vivant,

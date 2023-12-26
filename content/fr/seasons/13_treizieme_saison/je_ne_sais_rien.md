@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "Un jeu de mot suggère \"memoriam éveil\"."
 acrostiche = "Je ne sais rien"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 J'ai reconnu ta voix et mon cœur n'a battu

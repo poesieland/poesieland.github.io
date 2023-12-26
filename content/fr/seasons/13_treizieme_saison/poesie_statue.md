@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Poésie | Statue"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Puisse le marbre de Carrare
@@ -17,6 +18,7 @@ Où tourbillonne et puis s'amarre
 
 Ton pas; le mien revécut là
 
+ \
 En sa folie, en son suaire,
 
 Allumé l'automne, horizon
@@ -25,6 +27,7 @@ Sur les dalles du cimetière...
 
 Ton souffle, vent, pleure saison...
 
+ \
 Il reste un vers, parme, fugace,
 
 Une odeur... Apprends l'arbre fol
