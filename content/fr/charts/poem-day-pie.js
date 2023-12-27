@@ -1,8 +1,8 @@
 import { addPieChart } from './add-chart.js'
 (async function () {
   const data = [
-    { label: 'Jours sans écrire', value: 34, color: 'rgba(72, 149, 239, 1)' },
-    { label: 'Jours de création', value: 331, color: 'rgba(76, 201, 240, 1)' },
+    { label: 'Jours sans écrire', value: 33, color: 'rgba(72, 149, 239, 1)' },
+    { label: 'Jours de création', value: 332, color: 'rgba(76, 201, 240, 1)' },
   ];
   addPieChart('poemDayPie', [data], 'Avec ou sans création ?');
 })();

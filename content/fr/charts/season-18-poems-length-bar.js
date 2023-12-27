@@ -3,7 +3,7 @@ import { addBarChart } from './add-chart.js'
   const data = [
 [
     { label: '8', value: 3 },
-    { label: '12', value: 9 },
+    { label: '12', value: 10 },
     { label: '14', value: 0 },
     { label: '16', value: 12 },
     { label: '20', value: 10 },
@@ -20,5 +20,5 @@ import { addBarChart } from './add-chart.js'
     { label: '', value: 0 },
 ]
   ];
-    addBarChart('season18PoemLengthBar', ['Poèmes','Sonnets'], data);
+    addBarChart('season18PoemLengthBar', ['Poèmes','Sonnets'], data, {});
 })();

@@ -13,7 +13,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Temps', value: 4, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Neige', value: 3, color: 'rgba(183, 239, 197, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },
-    { label: 'Jardin et paysage', value: 3, color: 'rgba(74, 214, 109, 1)' },
+    { label: 'Jardin et paysage', value: 4, color: 'rgba(74, 214, 109, 1)' },
     { label: 'Eau douce', value: 2, color: 'rgba(37, 162, 68, 1)' },
     { label: 'Ciel', value: 1, color: 'rgba(26, 116, 49, 1)' },
     { label: 'Animaux', value: 5, color: 'rgba(30, 47, 35, 1)' },

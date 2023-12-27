@@ -1,5 +1,7 @@
 **Derniers ajouts:**
 
+[Ma promenade, écrit le 27.12.2023](./seasons/18_dix_huitieme_saison/ma_promenade/)
+
 [Promenade d'hiver, écrit le 26.12.2023](./seasons/18_dix_huitieme_saison/promenade_d_hiver/)
 
 [Message de Noël, écrit le 23.12.2023](./seasons/18_dix_huitieme_saison/message_de_noel/)
@@ -8,7 +10,6 @@
 
 [Un souvenir..., écrit le 12.12.2023](./seasons/18_dix_huitieme_saison/un_souvenir/)
 
-[Bel hiver, écrit le 09.12.2023](./seasons/18_dix_huitieme_saison/bel_hiver/)
 
 
 
