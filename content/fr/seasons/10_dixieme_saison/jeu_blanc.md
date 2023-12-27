@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Jeu blanc"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Je laisserai la neige ensevelir l'amour

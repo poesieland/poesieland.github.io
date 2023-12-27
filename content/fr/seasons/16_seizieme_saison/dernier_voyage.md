@@ -3,10 +3,11 @@ title = "Dernier voyage"
 id = "dernier_voyage_16"
 date = 2004-07-02
 weight = 40
-categories = ["Etre"]
-tags = ["philosophie", "2004"]
+categories = [ "Etre" ]
+tags = [ "philosophie", "2004" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Bordeaux" ]
 +++
 
 Le vent bruisse, rêveur, sur le nuage argent.

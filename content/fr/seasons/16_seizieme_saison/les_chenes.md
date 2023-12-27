@@ -3,11 +3,12 @@ title = "Les chênes"
 id = "les_chenes_16"
 date = 2004-05-26
 weight = 32
-categories = ["Jardin et paysage", "Flore", "Temps"]
-tags = ["nature", "philosophie", "2004", "doubleAcrostiche"]
+categories = [ "Jardin et paysage", "Flore", "Temps" ]
+tags = [ "nature", "philosophie", "2004", "doubleAcrostiche" ]
 doubleAcrostiche = "Chênes | destin"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post"
+location = [ "Bordeaux" ]
 +++
 
 Chênes verts comme nos vies
@@ -18,6 +19,7 @@ Humble des feuilles, blond heur.
 
 Etranges berceaux dévient :
 
+ \
 Esprit des branches tend soir.
 
 Surgissant le bus m'emmène...
@@ -26,6 +28,7 @@ Ne brisez pas sur la scène
 
 Tourbillons d'un ostensoir,
 
+ \
 Eternels chênes. Sait-on
 
 Impudiquement votre âge ?

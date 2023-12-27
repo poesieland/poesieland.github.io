@@ -7,6 +7,7 @@ categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "La nuit se lève"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La nuit se lève, embrasse et serre

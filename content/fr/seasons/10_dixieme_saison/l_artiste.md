@@ -7,6 +7,7 @@ categories = ["Création", "Mouvement"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "L'artiste"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Le souffle vibre, exauce au ciel
@@ -17,6 +18,7 @@ Réminiscence, où le pastel
 
 Tourbillonne, hésite : le voile,
 
+ \
 Irréel tempo des couleurs,
 
 Sonates que l'artiste goûte,

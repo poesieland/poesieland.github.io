@@ -7,6 +7,7 @@ categories = ["Neige"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Lumière, la neige"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 La neige étoilée allume au réverbère

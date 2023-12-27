@@ -7,6 +7,7 @@ categories = ["Création", "Crépuscule"]
 tags = ["philosophie", "ombres et lumières", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Miroirs | mirages"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Miroirs, les rimes qui s'enchantent

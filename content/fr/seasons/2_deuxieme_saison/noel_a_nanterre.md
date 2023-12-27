@@ -3,10 +3,11 @@ title = "Noël à Nanterre"
 id = "noel_a_nanterre_2"
 date = 1996-12-23
 weight = 25
-categories = ["Portraits", "Hiver"]
-tags = ["philosophie", "saisons", "1996"]
+categories = [ "Portraits", "Hiver" ]
+tags = [ "philosophie", "saisons", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Paris" ]
 +++
 
 Et la foule en miroir me renvoie en images

@@ -7,6 +7,7 @@ categories = ["Neige"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Quelques flocons..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Quelques flocons tombés puis de plus en plus vite

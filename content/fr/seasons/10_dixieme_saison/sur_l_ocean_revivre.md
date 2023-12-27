@@ -7,6 +7,7 @@ categories = ["Mer", "Espoir"]
 tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Sur l'océan : revivre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur les océans de l'espoir

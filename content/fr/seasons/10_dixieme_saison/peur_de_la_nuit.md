@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Peur de la nuit"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Pour la fin du millénaire

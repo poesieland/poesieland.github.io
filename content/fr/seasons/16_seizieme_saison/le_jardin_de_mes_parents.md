@@ -3,11 +3,12 @@ title = "Le jardin de mes parents"
 id = "le_jardin_de_mes_parents_16"
 date = 2003-03-14
 weight = 14
-categories = ["Jardin et paysage"]
-tags = ["nature", "2003", "acrostiche"]
+categories = [ "Jardin et paysage" ]
+tags = [ "nature", "2003", "acrostiche" ]
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
+location = [ "Reims" ]
 +++
 
 Dans ce lieu, du temps se mesurent rayons

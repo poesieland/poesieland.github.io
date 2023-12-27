@@ -7,6 +7,7 @@ categories = ["Toucher"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Tes mains"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tes mains qui prennent, qui déposent,

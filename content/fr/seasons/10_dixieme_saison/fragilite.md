@@ -6,6 +6,7 @@ weight = 19
 categories = ["Espoir"]
 tags = ["philosophie", "1999"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 L'espérance est si fragile

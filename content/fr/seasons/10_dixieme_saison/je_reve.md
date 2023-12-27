@@ -6,6 +6,7 @@ weight = 16
 categories = ["Etre", "Aube"]
 tags = ["philosophie", "ombres et lumières", "1999"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Je rêve sans réfléchir

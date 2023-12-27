@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Rêve, eden"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Rose, blanche, la nue anime l'incolore

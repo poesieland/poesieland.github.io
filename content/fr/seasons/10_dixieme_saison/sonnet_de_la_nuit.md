@@ -8,6 +8,7 @@ tags = ["ombres et lumières", "1999", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "Sonnet de la nuit"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Sur la peau sombre de la nuit,

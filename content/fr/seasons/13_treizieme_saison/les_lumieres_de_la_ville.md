@@ -3,11 +3,12 @@ title = "Les lumières de la ville"
 id = "les_lumieres_de_la_ville_13"
 date = 1999-08-18
 weight = 45
-categories = ["Ville", "Nuit"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+categories = [ "Ville", "Nuit" ]
+tags = [ "ombres et lumières", "1999", "acrostiche" ]
 acrostiche = "Les lumières de la ville"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 7
+location = [ "Paris" ]
 +++
 
 Les lumières de la ville

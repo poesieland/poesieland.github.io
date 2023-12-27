@@ -17,6 +17,8 @@ type: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
+location:
+    - Charleroi
 ---
 Passereaux bruns en farandole
 

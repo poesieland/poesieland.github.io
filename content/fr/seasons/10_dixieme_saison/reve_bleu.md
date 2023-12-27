@@ -7,6 +7,7 @@ categories = ["Ciel", "Mer"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Rêve bleu"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Rêve bleu : le ciel se confond,

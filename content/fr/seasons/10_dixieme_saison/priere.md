@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Ave Maria"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Avant que je m'en aille

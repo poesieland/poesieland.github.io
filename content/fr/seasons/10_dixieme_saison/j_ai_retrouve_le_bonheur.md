@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "J'ai retrouvé | le bonheur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 J'ai retrouvé le bonheur,
@@ -17,6 +18,7 @@ Autrefois céleste cœur
 
 Etreint seul d'un doux sourire
 
+ \
 Il est revenu, le ciel
 
 Bercé d'immense tendresse,
@@ -25,6 +27,7 @@ Rêvé comme l'essentiel
 
 Ose souffler sa caresse...
 
+ \
 Et par-delà le regard
 
 Nu d'une âme qui s'envole
@@ -33,6 +36,7 @@ Troublant, mais jamais trop tard
 
 Hante le monde frivole...
 
+ \
 Rêver le nocturne chant
 
 Evadé du temps céleste
@@ -41,6 +45,7 @@ Offert, quand la main touchant
 
 Un visage, dit : je reste.
 
+ \
 Une seconde, à jamais
 
 Rire, aimer, créer nos mondes,

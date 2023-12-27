@@ -1,5 +1,17 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.taxonomy.customTaxonomy": [
+    {
+        "id": "locationTaxonomy",
+        "options": [
+            "Lorraine",
+            "Reims",
+            "Paris",
+            "Bordeaux",
+            "Charleroi"
+        ]
+    }
+],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -446,6 +458,12 @@
           "name": "tags",
           "type": "tags",
           "description": "Don't forget to add the writing year in tags"
+        },
+        {
+          "title": "Location",
+          "name": "location",
+          "type": "taxonomy",
+          "taxonomyId": "locationTaxonomy"
         },
         {
           "name": "divider",

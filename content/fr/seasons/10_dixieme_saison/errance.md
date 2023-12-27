@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Légère"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Légère comme une plume

@@ -7,6 +7,7 @@ categories = ["Mer"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "La mer : feu"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La mer suspend dans son écume

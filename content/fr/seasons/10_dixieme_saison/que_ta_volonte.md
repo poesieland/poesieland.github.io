@@ -7,6 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Que ta volonté"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Que ta volonté soit mienne,

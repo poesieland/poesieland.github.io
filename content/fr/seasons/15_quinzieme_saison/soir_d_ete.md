@@ -3,11 +3,12 @@ title = "Soir d'été"
 id = "soir_d_ete_15"
 date = 2001-08-10
 weight = 19
-categories = ["Ville"]
-tags = ["ombres et lumières", "2001", "acrostiche"]
+categories = [ "Ville" ]
+tags = [ "ombres et lumières", "2001", "acrostiche" ]
 acrostiche = "Soir d'été"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
+location = [ "Paris" ]
 +++
 
 Silencieux l'espace en la longue avenue:

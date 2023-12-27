@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Elle est partie là-bas"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Elle a rejoint le Créateur,

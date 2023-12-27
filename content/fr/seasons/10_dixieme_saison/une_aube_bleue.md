@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Jardin et paysage"]
 tags = ["attitudes", "nature", "1999", "acrostiche"]
 acrostiche = "Une aube bleue"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un autre souffle me réveille
@@ -17,6 +18,7 @@ Est-ce le frisson de l'abeille
 
 A la fleur qui découvrira
 
+ \
 Une caresse, aile argentée ?
 
 Bénie, une vie au printemps
@@ -25,6 +27,7 @@ Echappée, évade enchantée
 
 Brise aux troublants refrains gitans...
 
+ \
 Le monde est bleu dans son mystère
 
 Et renaît quand l'oiseau charmé,

@@ -7,6 +7,7 @@ categories = ["Etre", "Ciel"]
 tags = ["philosophie", "nature", "1999", "acrostiche"]
 acrostiche = "Onirique"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Onirique, à l'origine d'un monde,

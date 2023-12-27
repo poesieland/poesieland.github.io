@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "La cathédrale est belle"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La cathédrale est ma demeure;
@@ -17,6 +18,7 @@ Correspond l'ombre de chaque heure
 
 Aux battements de jour en jour.
 
+ \
 Trop loin des visiteurs qui passent
 
 Humblement sans lever les yeux
@@ -25,6 +27,7 @@ Eclatent dans l'orgie espaces,
 
 Démons dansant avec les Dieux.
 
+ \
 Rêve, espérances dans la pierre
 
 Atteinte par le mal du temps
@@ -33,6 +36,7 @@ Lissent, transcrivent la lumière
 
 Eclose au vitrail, quand j'entends
 
+ \
 Encor résonner chaque cloche...
 
 Statues, bénissez d'un pardon
@@ -41,6 +45,7 @@ Tourné vers ce qui se rapproche
 
 Bientôt vibrant comme un bourdon :
 
+ \
 Entre les pas et les murmures
 
 Le Sacré célèbre un destin,

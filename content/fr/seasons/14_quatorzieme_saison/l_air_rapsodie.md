@@ -3,12 +3,13 @@ title = "L'air : rapsodie"
 id = "l_air_rapsodie_14"
 date = 2000-04-24
 weight = 16
-categories = ["Jardin et paysage", "Printemps", "Temps"]
-tags = ["nature", "saisons", "philosophie", "2000", "acrostiche"]
+categories = [ "Jardin et paysage", "Printemps", "Temps" ]
+tags = [ "nature", "saisons", "philosophie", "2000", "acrostiche" ]
 info = "D'après le parc de Choisy, Paris."
 acrostiche = "L'air : rapsodie"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 14
+location = [ "Paris" ]
 +++
 
 Le vieux cèdre au pas immobile égrène les saisons ;

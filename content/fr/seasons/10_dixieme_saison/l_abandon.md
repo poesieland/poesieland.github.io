@@ -5,15 +5,16 @@ date = 1999-02-05
 weight = 40
 categories = ["Amour malheureux"]
 tags = ["amour", "1999", "acrostiche"]
-acrostiche = "L'Abandon"
+acrostiche = "L'abandon"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Le cœur abandonné ne pourra plus chanter
 
 Alors le soleil bleu glacial dans sa morsure
 
-Brise le ciel , la mer et met dans la blessure
+Brise le ciel, la mer et met dans la blessure
 
 Ardente un rêve ancien qui voudrait sangloter.
 

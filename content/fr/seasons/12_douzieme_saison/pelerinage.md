@@ -20,7 +20,7 @@ Ouvrage d'art, la foi se fait vestale :
 Une aile blanche a guidé le burin.
 
  \
-Sacré s'enivre un élan , la dentelle
+Sacré s'enivre un élan, la dentelle
 
 A la pierre ourle une teinte plus belle,
 

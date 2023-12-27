@@ -13,7 +13,7 @@ Je ne sais pas ce qu'est la vie,
 
 Je ne sais pas ce qu'est la mort,
 
-Mais je sais cela , mon amie,
+Mais je sais cela, mon amie,
 
 C'est que je suis bien jeune encor,
 

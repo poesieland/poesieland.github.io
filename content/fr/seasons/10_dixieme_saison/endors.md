@@ -7,6 +7,7 @@ categories = ["Sommeil"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Endors"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Emu, quand la nuit prendra sa part de rêve

@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Marie, prie pour moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Madone aux yeux de verre, à la robe de plâtre

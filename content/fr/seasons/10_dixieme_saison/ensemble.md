@@ -7,6 +7,7 @@ categories = ["Romantisme", "Musique et chant"]
 tags = ["amour", "attitudes", "1999", "acrostiche"]
 acrostiche = "Ensemble"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Etre avec toi, tout près...

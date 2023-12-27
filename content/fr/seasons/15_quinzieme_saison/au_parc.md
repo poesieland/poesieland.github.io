@@ -3,11 +3,12 @@ title = "Au parc"
 id = "au_parc_15"
 date = 2001-05-20
 weight = 5
-categories = ["Jardin et paysage", "Eté"]
-tags = ["nature", "saisons", "2001"]
-pictures = ["Le parc de Choisy à Paris 13e"]
+categories = [ "Jardin et paysage", "Eté" ]
+tags = [ "nature", "saisons", "2001" ]
+pictures = [ "Le parc de Choisy à Paris 13e" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Paris" ]
 +++
 
 Enivré de soleil et de vent doux...: le parc.

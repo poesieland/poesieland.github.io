@@ -3,12 +3,13 @@ title = "Dans le jardin"
 id = "dans_le_jardin_13"
 date = 1999-10-17
 weight = 27
-categories = ["Jardin et paysage", "Automne"]
-tags = ["nature", "saisons", "1999", "acrostiche"]
+categories = [ "Jardin et paysage", "Automne" ]
+tags = [ "nature", "saisons", "1999", "acrostiche" ]
 info = "Le parc Kellerman, à Paris."
 acrostiche = "Dans le jardin"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+location = [ "Paris" ]
 +++
 
 Dans le vieux jardin déserté

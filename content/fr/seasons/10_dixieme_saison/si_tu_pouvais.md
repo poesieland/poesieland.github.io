@@ -6,6 +6,7 @@ weight = 45
 categories = ["Romantisme"]
 tags = ["amour", "1999"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Si tu pouvais me dire

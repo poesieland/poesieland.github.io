@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune, tu danses"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Légère, tu danses,

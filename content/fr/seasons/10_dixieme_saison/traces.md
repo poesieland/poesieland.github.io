@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Je n'ai pas"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Je n'ai pas de mots pour exprimer les choses,

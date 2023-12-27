@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Raconte-moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Raconte à mon cœur ton rêve vrai, sincère,

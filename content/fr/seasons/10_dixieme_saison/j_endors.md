@@ -18,15 +18,16 @@ Notre monde rempli de rêves...
 
 Dors lorsque mon souffle s'enfuit !
 
+ \
 Or et paillettes, je protège
 
 Rires d'enfants sous ma clarté,
 
 Sauras-tu lire mon arpège ?
 
- \
 Vénus, au ciel, dans sa bonté.
 
+ \
 Et pour toi, mon cœur ensorcelle
 
 Neige de soie, ange d'un jour,

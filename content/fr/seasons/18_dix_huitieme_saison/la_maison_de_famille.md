@@ -7,6 +7,7 @@ categories = [ "Portraits", "Enfance et adolescence" ]
 tags = [ "philosophie", "2023" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Reims" ]
 +++
 
 Reims ! Ici Reims ! disait le train.

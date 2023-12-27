@@ -7,6 +7,7 @@ categories = ["Neige", "Hiver"]
 tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Le souffle vif"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le brouillard sur les lèvres
