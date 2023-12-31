@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Mêlé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Mêler le chant du violon

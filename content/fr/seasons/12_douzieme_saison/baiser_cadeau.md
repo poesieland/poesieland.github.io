@@ -7,6 +7,7 @@ categories = ["Romantisme", "Toucher"]
 tags = ["amour", "attitudes", "1999", "acrostiche"]
 acrostiche = "Baiser, cadeau"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Brillant sur mes lèvres,
@@ -17,15 +18,16 @@ Il vient, pour serrer
 
 Son souffle, ses fièvres,
 
+ \
 Etreint le désir,
 
 Rêve de ta bouche...
 
- \
 Cet élan me touche :
 
 A la nuit s'offrir,
 
+ \
 Dire son fantasme...
 
 Ecoute : plus fort

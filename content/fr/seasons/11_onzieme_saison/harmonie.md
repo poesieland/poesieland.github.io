@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Création"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Harmonie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Hanté d'un souffle pur le chant qui s'abandonne

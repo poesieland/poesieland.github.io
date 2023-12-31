@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Confidence"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Clos seuls tes yeux, et laisse-moi rêver

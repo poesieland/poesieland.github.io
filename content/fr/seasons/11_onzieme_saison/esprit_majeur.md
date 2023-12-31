@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Esprit majeur"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Epris de l'art, le bel canto
@@ -17,15 +18,16 @@ Présent vivace où théâtrale
 
 Rêve la vie, un cœur bientôt
 
+ \
 Ivre, répond : chante la mienne
 
 Ta note affleure à l'essentiel.
 
- \
 Mettons nos pas dans ceux du ciel
 
 Ame dièse, pour que revienne
 
+ \
 Jouxtant les croches, un soupir.
 
 En blanc et noir, à ce corsage

@@ -6,6 +6,7 @@ weight = 36
 categories = ["Lune"]
 tags = ["ombres et lumières", "1999"]
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A la lumière de la lune

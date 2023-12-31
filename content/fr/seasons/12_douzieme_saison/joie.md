@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Joie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je t'ai souri, le jour bohème

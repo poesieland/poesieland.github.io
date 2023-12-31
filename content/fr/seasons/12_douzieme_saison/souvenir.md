@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Souvenir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Sur l'ombre des mots, le vertige, néant

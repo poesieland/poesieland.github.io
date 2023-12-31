@@ -7,6 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Tilleuls"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Timide, inviolé par l'abeille

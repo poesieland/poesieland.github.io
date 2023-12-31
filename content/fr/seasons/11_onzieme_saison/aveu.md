@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Au détour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Au détour d'une phrase

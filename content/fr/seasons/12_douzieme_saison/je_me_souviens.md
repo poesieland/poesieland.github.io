@@ -7,6 +7,7 @@ categories = ["Temps", "Hiver"]
 tags = ["philosophie", "saisons", "1999", "acrostiche"]
 acrostiche = "Je me souviens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Je me souviens des jours d'hivers,

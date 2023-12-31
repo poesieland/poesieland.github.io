@@ -7,6 +7,7 @@ categories = ["Etre", "Nuit"]
 tags = ["philosophie", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Au-delà : voie"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 14
 +++
 
 Au-delà de toutes les nuits le temps de l'existence

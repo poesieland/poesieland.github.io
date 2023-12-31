@@ -8,6 +8,7 @@ tags = ["attitudes", "1999", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "Mariée au soleil"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Mes battements plus forts

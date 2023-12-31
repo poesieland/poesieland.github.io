@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Comme un premier amour\" en italien."
 acrostiche = "Come un prim'amor"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Ce fut comme un amour

@@ -7,6 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune, tu ne sais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 L'astre bleuté d'un reflet vague

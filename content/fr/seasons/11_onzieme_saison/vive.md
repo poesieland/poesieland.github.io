@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Espoir"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Vive"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Vois cette vie : en son ivresse

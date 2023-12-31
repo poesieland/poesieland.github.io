@@ -59,6 +59,7 @@ Passe un courant d'air.
 
 Alarme !
 
+ \
 Je sens le printemps,
 
 Verdure !
@@ -67,6 +68,7 @@ Labeur en son temps,
 
 Parjure !
 
+ \
 Presque nulle part
 
 Amène

@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un voile blanc"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Un voile, horizon sur l'écume légère
@@ -17,6 +18,7 @@ Vers Vous monte, calme, une ultime prière
 
 Offrant l'onde vraie à Votre cœur pressant;
 
+ \
 Invitez ma main pour caresser l'espace
 
 Le souffle au-delà me dicte, post-mortem
@@ -25,6 +27,7 @@ Evidente paix, chaque reflet dépasse
 
 Bénit ce jour clair, attise le meltem
 
+ \
 Lissé comme un chant qui s'élève à la vie :
 
 Ardent l'idéal, espérance vraiment

@@ -7,6 +7,7 @@ categories = ["Eté", "Jardin et paysage"]
 tags = ["saisons", "nature", "1999", "acrostiche"]
 acrostiche = "Ne rien faire, rêver..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Ne rien faire, rêver
@@ -17,6 +18,7 @@ Rythme du temps, murmure
 
 Inonde au doux lever
 
+ \
 Etreinte fraîche, l'herbe
 
 Nu-pieds batifolant...
@@ -25,6 +27,7 @@ Frêle, l'ombre du blanc
 
 Anneau berce en sa gerbe
 
+ \
 Intense entre les fleurs
 
 Ronde chaleur, la mouche
@@ -33,6 +36,7 @@ Enivrée, hante et touche
 
 Rêveuse, les couleurs.
 
+ \
 Eté, qu'était le songe ?
 
 Versé, le ciel descend

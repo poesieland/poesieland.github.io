@@ -7,6 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Même ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Marcher sur une âme

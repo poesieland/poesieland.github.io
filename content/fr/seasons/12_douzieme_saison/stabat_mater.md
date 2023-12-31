@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Vraie foi\" en italien."
 acrostiche = "Vera fede"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Vraie, en éclats transpercés par la grâce,

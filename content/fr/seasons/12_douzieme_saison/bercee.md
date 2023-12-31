@@ -7,6 +7,7 @@ categories = ["Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Bercée"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Brisé, le reflet de cette lune blanche

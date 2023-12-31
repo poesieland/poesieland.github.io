@@ -8,6 +8,7 @@ tags = ["attitudes", "1999", "acrostiche"]
 info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Bercée en la gondole, une perche, une rame

@@ -7,6 +7,7 @@ categories = ["Mouvement"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Jour joli"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Jetée au vent la voix s'envole

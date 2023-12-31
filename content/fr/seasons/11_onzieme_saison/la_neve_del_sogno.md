@@ -9,6 +9,7 @@ info = "\"La neige du rêve\" en italien."
 type = "sonnet"
 acrostiche = "La neve del sogno"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 La neige dicte au monde un mouvement sans faille

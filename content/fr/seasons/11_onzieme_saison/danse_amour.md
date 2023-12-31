@@ -7,6 +7,7 @@ categories = ["Mouvement", "Romantisme"]
 tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "Danse, amour"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Danse lascive, un corps

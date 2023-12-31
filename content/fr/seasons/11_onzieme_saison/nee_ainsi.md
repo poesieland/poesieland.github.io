@@ -7,6 +7,7 @@ categories = ["Jardin et paysage", "Flore"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Née ainsi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Nouvelle, étrange, la clarté

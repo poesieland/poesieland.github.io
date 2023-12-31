@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "En relisant..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 En relisant d'anciennes pages

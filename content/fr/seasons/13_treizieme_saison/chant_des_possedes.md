@@ -18,9 +18,9 @@ A la veine de ton marbre,
 
 Naissant, c'est moi le sculpteur:
 
+ \
 Tous les rêves sous mon charme...
 
- \
 Dans l'océan de tes nuits
 
 Elle est à moi cette larme
@@ -34,8 +34,9 @@ Ombrera ton horizon,
 
 Si ta révolte dévoile
 
-Ses pierres, j'en fais maison !
+Ses pierres, j'en fais maison !  
 
+ \
 Et si tu veux me détruire
 
 De tes mains coupe les doigts,

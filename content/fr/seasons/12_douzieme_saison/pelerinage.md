@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Bijou sacre unions"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 10
 +++
 
 Bijou d'orfèvre, ici, la cathédrale

@@ -20,6 +20,7 @@ Ecraser afin de maudire
 
 O ce que tu peux désirer !
 
+ \
 Car sous la lune d'obsidienne
 
 Tous danseront comme démons,
@@ -28,14 +29,16 @@ Rire effrayant pour que revienne
 
 Le loup gris hurlant sur les monts !
 
+ \
 Insensés tu nous verras boire
 
 Un vin de messe condamné
 
-Rouge comme ton sang, Gringoire!
+Rouge comme ton sang, Gringoire !
 
 Laisse les cloches résonner
 
+ \
 A la volée, à ce carnage,
 
 Tambouriner lorsqu'on pendra
@@ -44,6 +47,7 @@ Ivres, les bourgeois en otage !
 
 Idiot, le fou s'esclaffera !
 
+ \
 C'est le jour de notre colère,
 
 Manants, racaille, les gitans,

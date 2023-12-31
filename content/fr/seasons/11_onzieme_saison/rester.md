@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Tu es beau\" en italien."
 acrostiche = "Tu sei bello"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Trop de choses auront changé

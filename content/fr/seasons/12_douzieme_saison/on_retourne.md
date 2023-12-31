@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "On retourne"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 On revient sans vouloir, et pourtant, et toujours,

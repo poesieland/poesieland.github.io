@@ -18,15 +18,16 @@ Ambassade où se rejoint le vent,
 
 Miroir : l'âme aveugle s'est blessée.
 
+ \
 Eternelle en liquide désert
 
 Roule vague et sans bruit ton écume.
 
- \
 Au ciel loin, silence qui s'embrume
 
 Un berceau se perdit dans les airs;
 
+ \
 Cheminer aux traces du fantôme,
 
 Il a dit : semblable éternité

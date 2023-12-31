@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Quand la vie dit\" en italien."
 acrostiche = "Quando la vita dice"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Quand tu devins universel,
@@ -18,11 +19,11 @@ A la vie, à la mer, le sel
 
 Né sur la dune, écume et roche
 
+ \
 Divise et rassemble l'éclat
 
 Oublié d'une douce brise...
 
- \
 Le ciel s'enfuit, nous restons là
 
 Attendant que l'ombre se brise

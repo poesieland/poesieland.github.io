@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Il mio sogno"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Il ne me reste qu'un seul rêve

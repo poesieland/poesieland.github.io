@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Au-delà du message ou de la poésie,

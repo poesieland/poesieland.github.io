@@ -7,6 +7,7 @@ categories = ["Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Comme dit le rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Comme dirait le rêve où Sirius honorée
@@ -29,7 +30,7 @@ Trace d'un ciel profond, de joyaux embrassé.
  \
 Le temps s'enfuit, le vent se tait, la chamade
 
-Entend le cœur, sans mot s'évade.
+Entend tempo d'un cœur, et puis sans mot s'évade.
 
  \
 Réelle, impalpable, une planète va

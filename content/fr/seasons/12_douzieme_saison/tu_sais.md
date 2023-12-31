@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Tu sais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tous les mots que l'on pourrait dire

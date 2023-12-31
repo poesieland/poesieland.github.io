@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un rêve d'été"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Une odeur d'été

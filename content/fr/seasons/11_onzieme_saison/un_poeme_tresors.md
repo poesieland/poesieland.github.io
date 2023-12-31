@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Un poème : trésors"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Un poème, quelques vers

@@ -18,24 +18,25 @@ Roulant comme une aile ivre,
 
 Initiale, au revoir.
 
+ \
 Rêve d'une prière
 
 Et le papier tombeau,
 
- \
 Sans poème plus beau
 
 Artiste à sa manière,
 
+ \
 Nouveau, tel un enfant,
 
 Secret de l'incréé.
 
- \
 Savoir bercer l'orée
 
 Au cœur qui se défend,
 
+ \
 Vivre au miroir de moire
 
 Offert vrai, textuel.

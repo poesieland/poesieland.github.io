@@ -8,6 +8,7 @@ tags = ["nature", "1999", "acrostiche"]
 info = "\"Là-bas la mer\" en italien."
 acrostiche = "Laggiù il mare"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 La pluie est tombée en tocsin
@@ -18,6 +19,7 @@ Germe de nuage en son sein
 
 Goûte l'océan dans un rêve...
 
+ \
 Immenses, les albatros ont
 
 Uni de blanc leur vol, ivresse !
@@ -26,6 +28,7 @@ Invisibles, quand se confond
 
 L'azur doublé d'une caresse...
 
+ \
 Mais si je n'avais que le ciel
 
 Absente, murmurant, rêveuse

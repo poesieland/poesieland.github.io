@@ -7,6 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "On ne voit bien..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 On ne voit bien qu'avec son cœur,

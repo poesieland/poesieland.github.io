@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Si jamais..."
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Souviens-toi : le temps, l'espace nous séparent,

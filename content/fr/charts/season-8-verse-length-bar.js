@@ -9,5 +9,5 @@ import { addBarChart } from './add-chart.js'
     { label: '10', value: 2 },
     { label: '12', value: 6 },
   ];
-    addBarChart('season8VerseLengthBar', ['Poèmes'], [data]);
+    addBarChart('season8VerseLengthBar', ['Poèmes'], [data], {});
 })();

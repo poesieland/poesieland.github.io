@@ -7,6 +7,7 @@ categories = ["Eau douce", "Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "L'eau rage"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 L'orage à traits rageurs peint le ciel d'un feu noir,

@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Au-delà : voyage"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Au-delà des mirages

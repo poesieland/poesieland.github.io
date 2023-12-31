@@ -10,5 +10,5 @@ import { addBarChart } from './add-chart.js'
     { label: '12', value: 12 },
     { label: '5, 7, 5', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
-    addBarChart('season16VerseLengthBar', ['Poèmes'], [data]);
+    addBarChart('season16VerseLengthBar', ['Poèmes'], [data], {});
 })();

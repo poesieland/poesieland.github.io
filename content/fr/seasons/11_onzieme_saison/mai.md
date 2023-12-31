@@ -7,6 +7,7 @@ categories = ["Flore", "Printemps"]
 tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Un an de plus"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Une fleur cueillie au jardin

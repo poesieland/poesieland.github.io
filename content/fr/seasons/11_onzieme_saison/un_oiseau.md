@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Un oiseau"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Un oiseau bleu comme l'espace

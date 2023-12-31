@@ -365,7 +365,7 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 1 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
   ];
   addRadarChart('poemDay-hiverRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(204, 88, 3, 1)', 'rgba(204, 88, 3, 0.5)');

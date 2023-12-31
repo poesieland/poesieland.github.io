@@ -7,22 +7,22 @@ categories = ["Sommeil"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Je fais un rêve"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Je ne pouvais pas comprendre :
 
 Ecrire ou rêver cela...
 
- \
 Féerique, une aube, là,
 
 Attendrit, et sans apprendre
 
+ \
 Ivre, la lumière vient
 
 Sur mes yeux clos, d'un sourire...
 
- \
 Une éternité sait dire
 
 Naissance qui se souvient :

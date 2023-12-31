@@ -7,6 +7,7 @@ categories = ["Eau douce", "Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Arcs-en-ciel"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Arc-en-ciel inaudible, un tempo trépassé

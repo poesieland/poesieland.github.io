@@ -18,6 +18,7 @@ Riche d'un songe au vent vainqueur
 
 L'as-tu laissé vers moi conduire
 
+ \
 Envie où nous nous réjouirons ?
 
 Sensation vive, aérienne
@@ -26,6 +27,7 @@ Ta lèvre a dit : nous unirons
 
 Ardence et calme, et seras mienne.
 
+ \
 De nos désirs je dis l'émoi
 
 Entre les mots, rime berceuse
@@ -34,6 +36,7 @@ D'image bleue en toi pour moi.
 
 Ainsi par cœur se lit l'heureuse
 
+ \
 Illiade au souffle de Dieu
 
 Miraculé d'heures vécues,

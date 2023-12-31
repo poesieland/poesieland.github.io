@@ -7,6 +7,7 @@ categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel s'est tu"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le ciel au temps défunt
@@ -17,6 +18,7 @@ Chaque nuage exhale
 
 Intime un bref parfum.
 
+ \
 Et dans la nuit qui s'orne
 
 L'envoûtement carmin
@@ -25,6 +27,7 @@ Serre un rêve à demain
 
 Eveillant la licorne
 
+ \
 Souple, cabrée, un chœur
 
 Tissé d'ors en paillettes

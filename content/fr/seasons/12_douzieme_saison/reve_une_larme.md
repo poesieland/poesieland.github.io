@@ -7,6 +7,7 @@ categories = ["Amour malheureux"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Rêve, une larme"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Rêve dit les accents
@@ -24,9 +25,9 @@ N'arrêteront sa bille,
 
 Et me dire... tu dois !
 
- \
 L'ombre dans tes yeux brille
 
+ \
 A l'incertain bonheur,
 
 Réveille-moi ! Si seule

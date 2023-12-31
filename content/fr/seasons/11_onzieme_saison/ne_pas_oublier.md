@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Ne pas oublier"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Ne pas oublier, alors qu'à jamais disparues

@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Eclats"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Eclaté vers l'espace un Verbe galvaudé

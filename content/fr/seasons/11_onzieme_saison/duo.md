@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Mouvement"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Rien n'a changé"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Rien n'a changé, tu sais

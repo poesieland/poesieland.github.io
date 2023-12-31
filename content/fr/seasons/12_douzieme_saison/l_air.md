@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "L'air"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Le violon sifflote en ses bras, dénudé,

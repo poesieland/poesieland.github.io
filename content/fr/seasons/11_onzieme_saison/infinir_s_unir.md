@@ -7,6 +7,7 @@ categories = ["Mouvement", "Romantisme"]
 tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "Infinir, s'unir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Inventeurs, infinissons

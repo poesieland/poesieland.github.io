@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Images"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Image reflétée au-delà du tempo

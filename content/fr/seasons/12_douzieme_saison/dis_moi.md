@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Dis-moi"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dis-moi le cœur et l'aventure

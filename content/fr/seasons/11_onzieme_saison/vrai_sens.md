@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Vrai sens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Vois-tu comme un spectacle

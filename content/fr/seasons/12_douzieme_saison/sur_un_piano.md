@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Sur un piano"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Sur un piano tu joues,

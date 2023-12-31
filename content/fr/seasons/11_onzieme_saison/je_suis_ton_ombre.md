@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 pictures = ["Mon ombre en mai 2004"]
 acrostiche = "Je suis ton ombre"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 J'obéis à chaque désir

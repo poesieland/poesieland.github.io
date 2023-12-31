@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Une odeur : présence"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Une odeur de pluie
@@ -15,9 +16,9 @@ Nouvelle, surprend
 
 Etreinte au ciel grand.
 
- \
 Oublié, s'ennuie
 
+ \
 Du monde un reflet
 
 Et loin du vacarme
@@ -35,6 +36,7 @@ En souffles rêvant
 
 Sur les fleurs, leurs tiges.
 
+ \
 Envolé, printemps
 
 Né d'un jour qui passe;

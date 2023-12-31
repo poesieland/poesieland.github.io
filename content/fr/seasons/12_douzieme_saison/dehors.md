@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Dehors"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Dehors le ciel se couche

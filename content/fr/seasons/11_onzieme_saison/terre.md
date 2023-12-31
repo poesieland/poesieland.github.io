@@ -7,6 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "O terra"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Origine du monde, une terre s'éveille

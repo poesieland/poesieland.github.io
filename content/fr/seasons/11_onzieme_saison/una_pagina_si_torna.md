@@ -8,6 +8,7 @@ tags = ["philosophie", "amour", "1999", "acrostiche"]
 info = "\"Une page se tourne\" en italien."
 acrostiche = "Una pagina si torna"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 11
 +++
 
 Un sourire qui ne veut plus rien me dire

@@ -365,7 +365,7 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
   ];
   addRadarChart('poemDay-cielRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(26, 116, 49, 1)', 'rgba(26, 116, 49, 0.5)');

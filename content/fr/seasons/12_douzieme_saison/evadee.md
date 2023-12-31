@@ -7,6 +7,7 @@ categories = ["Nuit", "Etre"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Evadée"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Envolé dans un songe indomptable le soir

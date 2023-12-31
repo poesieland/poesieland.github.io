@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "O sole mio"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Offre ce que la vie espère sans limite

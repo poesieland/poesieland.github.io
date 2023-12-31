@@ -8,6 +8,7 @@ tags = ["ombres et lumières", "1999", "acrostiche"]
 info = "\"Lune que tu donnes\" en italien."
 acrostiche = "Luna che dai"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 La lune que tu donnes :

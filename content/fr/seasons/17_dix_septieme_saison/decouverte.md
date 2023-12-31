@@ -52,6 +52,8 @@ acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8
 LastModifierDisplayName: Barbara Post
+location:
+    - Lorraine
 ---
 La pluie est un carapaçon,
 

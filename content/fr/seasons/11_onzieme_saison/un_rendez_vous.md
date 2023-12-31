@@ -7,17 +7,18 @@ categories = ["Aimé (amant)"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Un rendez-vous"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Une étoile sur la veste
 
 Noue un foulard à ton cou;
 
- \
 Rythmé le chant de ton geste
 
 Elève l'azur, d'un coup
 
+ \
 Naît, frémit la vive rose
 
 Donnée. J'en respire à chœur

@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "A d'autres"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 A d'autres tu donnas ton rêve plus profond

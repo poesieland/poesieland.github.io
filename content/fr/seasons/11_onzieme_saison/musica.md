@@ -7,6 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Musica"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Mauve l'océan de violons

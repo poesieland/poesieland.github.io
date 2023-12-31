@@ -7,6 +7,7 @@ categories = ["Crépuscule", "Flore"]
 tags = ["ombres et lumières", "nature", "1999", "acrostiche"]
 acrostiche = "Le parfum du soir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le parfum de ce soir

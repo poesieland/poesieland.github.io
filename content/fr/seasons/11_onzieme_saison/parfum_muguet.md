@@ -7,6 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Parfum muguet"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Parfum berceau de blanc
@@ -17,15 +18,16 @@ Rêveuses, printanières
 
 Flûtées : un chœur troublant
 
+ \
 Uni : saison qui t'offre
 
 Merveilleux bouquet vif.
 
- \
 Muguet au frêle esquif :
 
 Un vase sur le coffre
 
+ \
 Garde la tige au frais.
 
 Une effluve s'envole

@@ -8,6 +8,7 @@ tags = ["attitudes", "1999", "acrostiche", "sonnet"]
 type = "sonnet"
 acrostiche = "L'origine du sens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Laissant l'ombre portée au-delà du sensible

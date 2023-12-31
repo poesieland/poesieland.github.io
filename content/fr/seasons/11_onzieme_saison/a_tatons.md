@@ -7,6 +7,7 @@ categories = ["Toucher", "Musique et chant", "Romantisme"]
 tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "A tâtons"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 A tâtons ta main m'éveille
@@ -17,6 +18,7 @@ Aube lente où s'émerveille
 
 Tremblant, le ciel, chant lointain
 
+ \
 Offert où mûrit ramure;
 
 Notre cabane en roseaux
@@ -25,6 +27,7 @@ Sourit lorsque ton murmure
 
 Danse parmi les oiseaux.
 
+ \
 En mes bras je réconforte
 
 Suggéré, ce que tu dis;

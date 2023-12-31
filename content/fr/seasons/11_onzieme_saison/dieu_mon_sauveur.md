@@ -7,6 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Dieu, mon Sauveur !"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Dieu né dans l'ombre d'un midi

@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Même le sens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Même les mots qu'on ne sait dire

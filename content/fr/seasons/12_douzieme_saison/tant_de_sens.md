@@ -7,6 +7,7 @@ categories = ["Musique et chant", "Temps"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tant de sens"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tu sais : les choses les plus belles

@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Ave Maria prie pour moi\", chanson homonyme de Luciano Pavarotti."
 acrostiche = "Ave Maria prega per me"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Agenouillée une âme prie

@@ -7,6 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Le midi tranquille"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Le midi tranquille

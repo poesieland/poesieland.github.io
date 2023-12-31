@@ -16,12 +16,11 @@ Argent diadème au front plus pâle
 
 Laissent l'éclat perdre cymbale.
 
- \
 Discrètement, hiboux, coucous,
 
+ \
 Envolent l'an de ce mystère.
 
- \
 Lettres du monde et de destin
 
 Annoncent fuite en pas satin,

@@ -7,6 +7,7 @@ categories = ["Aimé (amant)", "Toucher"]
 tags = ["amour", "attitudes", "1999", "acrostiche"]
 acrostiche = "Te sentir"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Te toucher, te sentir, sur ma peau, dans mes rêves,

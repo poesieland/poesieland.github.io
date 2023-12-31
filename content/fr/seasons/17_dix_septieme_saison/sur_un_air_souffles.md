@@ -18,6 +18,7 @@ Rêveur... La lumière pâlie
 
 Ultime berce un violon, choeur
 
+ \
 Né des perles qui dégringolent.
 
 Autrefois, un après-demain
@@ -26,6 +27,7 @@ Inventera les notes, folles
 
 Romances aux joues de carmin.
 
+ \
 Sur les pierres les coquillages
 
 Oublieux des baisers du vent ;
@@ -34,6 +36,7 @@ Une goutte douce, mouillages
 
 Fantasques comme fleurs d'avant.
 
+ \
 Florilège, ciel d'abondance
 
 Lancera le soleil plus tard.

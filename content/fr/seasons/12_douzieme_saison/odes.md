@@ -7,6 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Odes"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 O je repense encore à ce soir : la nuit noire

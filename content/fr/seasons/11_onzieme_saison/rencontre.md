@@ -7,6 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "L'éclipse"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 L'étoile, la planète

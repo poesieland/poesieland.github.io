@@ -365,7 +365,7 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
   ];
   addRadarChart('poemDay-2023Radar', ['Poèmes selon le jour de l\'année'], [data], '', '');

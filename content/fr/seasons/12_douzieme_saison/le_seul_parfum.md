@@ -7,26 +7,27 @@ categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Le seul parfum"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Le seul parfum que j'aime
 
 Est celui du bonheur :
 
- \
 Sur tes lèvres planeur
 
 Eclate dans son thème
 
+ \
 Une vie, un bijou,
 
 Libre comme herbe folle...
 
- \
 Pour que le chant s'envole
 
 A l'azur soudain flou
 
+ \
 Redis-moi l'existence
 
 Frôlée en sa splendeur...

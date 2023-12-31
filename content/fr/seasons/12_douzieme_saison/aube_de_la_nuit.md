@@ -7,6 +7,7 @@ categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Aube de la nuit"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Aux lueurs du ciel rose éternelles les voiles :

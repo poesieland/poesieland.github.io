@@ -8,6 +8,7 @@ tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 info = "En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999)."
 acrostiche = "Adios artisto"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 A la lumière d'un visage

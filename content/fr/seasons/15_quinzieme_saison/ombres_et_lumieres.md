@@ -18,11 +18,11 @@ Baume de l'univers, abîme somptueux...
 
 Rives sans nom, c'est là, presque bientôt, naissance,
 
+ \
 Entrelacs d'autres cils, anse atomique, un cœur.
 
 Souffle sans voix qui vogue, arche sans mer, étrave...
 
- \
 Et l'Inconnu créa, d'extase sans entrave
 
 Tout ce qu'Il sait. Le temps vibre, un cristal vainqueur...
@@ -36,6 +36,7 @@ Mirant le ciel, puis l'eau; versants riches, pâleurs
 
 Irradiées. Demain, l'alliance radiale
 
+ \
 Et l'autrefois, exergue, alternent chant...
 
 Rives nommées, ici; le jour, la nuit, tout passe,

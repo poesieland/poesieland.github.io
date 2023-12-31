@@ -3,10 +3,11 @@ title = "La Rochelle"
 id = "la_rochelle_15"
 date = 2001-06-23
 weight = 9
-categories = ["Ville", "Portraits"]
-tags = ["ombres et lumières", "philosophie", "2001"]
+categories = [ "Ville", "Portraits" ]
+tags = [ "ombres et lumières", "philosophie", "2001" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 6
+location = [ "La Rochelle" ]
 +++
 
 La cité m'interpelle:
@@ -17,6 +18,7 @@ Le port de La Rochelle.
 
 Tuiles d'ardoise et fût
 
+ \
 Marièrent arcades
 
 D'un âge commerçant.
@@ -25,6 +27,7 @@ Gargouilles et façades...
 
 Un pas: l'art frémissant
 
+ \
 De liberté, richesse,
 
 A transcendé défis

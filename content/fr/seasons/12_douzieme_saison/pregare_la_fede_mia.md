@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Prier, ma foi\" en italien."
 acrostiche = "Pregare, la fede mia"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 12
 +++
 
 Prier, croire en ce sens, en ce lieu, l'éternelle
@@ -18,27 +19,27 @@ Esquisser l'infini d'un verre au bord plombé,
 
 Glace de l'innocence où brûle une chandelle
 
+ \
 Allumée, ô, pour Vous, comme le cœur l'apprit,
 
 Revenant vers la grâce, et pour Vous destinée,
 
 Eclose, une prière à l'encre à peine née...
 
- \
 Là, j'ai dressé l'autel, et le monde sourit :
 
+ \
 Annoncé, ce repas dit le temps du partage...
 
- \
 Foi, quand l'âme évadée au-delà du moment :
 
 En ses notes plus vraie étoile au firmament
 
 Dessine une espérance, emmène le roi-mage
 
+\
 En la terre inconnue où l'attend le Sauveur...
 
- \
 Miracle émerveillé, le murmure s'approche,
 
 Irradie, éclairé, l'une puis l'autre roche,

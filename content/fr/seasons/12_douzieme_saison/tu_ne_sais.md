@@ -7,6 +7,7 @@ categories = ["Lune", "Etre"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tu ne sais"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 8
 +++
 
 Tressés sous la lune les mots

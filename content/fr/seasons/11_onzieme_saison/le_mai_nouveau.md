@@ -7,6 +7,7 @@ categories = ["Flore", "Printemps"]
 tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Le mai nouveau"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 4
 +++
 
 Le vent s'évade

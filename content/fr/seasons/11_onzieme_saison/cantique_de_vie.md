@@ -8,6 +8,7 @@ tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Ton cantique donne la vie\" en italien."
 acrostiche = "Il tuo cantico da la vita"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 7
 +++
 
 Invite prémonitoire :

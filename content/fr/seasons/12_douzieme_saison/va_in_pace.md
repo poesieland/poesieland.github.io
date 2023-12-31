@@ -7,6 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Va in pace"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 6
 +++
 
 Va, quand vers le silence
@@ -17,6 +18,7 @@ Intime comme on lance
 
 Noué, l'adieu sans pleur
 
+ \
 Pousse, et se remémore
 
 Au-delà du désir

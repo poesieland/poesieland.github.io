@@ -7,6 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Une chanson triste"
 LastModifierDisplayName = "Barbara Post"
+verseLength = 5
 +++
 
 Une chanson triste
