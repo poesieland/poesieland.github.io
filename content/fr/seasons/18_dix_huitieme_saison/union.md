@@ -9,8 +9,9 @@ categories:
     - Etre
     - Musique et chant
 tags:
-    - philosophie
     - "2024"
+    - philosophie
+    - pantoun
 location: []
 info: ""
 pictures: []
