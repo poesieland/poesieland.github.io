@@ -19,7 +19,8 @@ import { addBarChart } from './add-chart.js'
     { label: 'Quinzième Saison : De place en place', value: 10 },
     { label: 'Seizième Saison : Plus loin', value: 26 },
     { label: 'Dix-septième Saison : Traversées', value: 47 },
-    { label: 'Dix-huitième Saison : Retour aux sources', value: 45 },
+    { label: 'Dix-huitième Saison : Retour aux sources', value: 48 },
+    { label: 'Dix-neuvième Saison : Destination bonheur', value: 0 },
 ],
 [
     { label: 'Première Saison : Premiers élans', value: 0 },
@@ -40,6 +41,7 @@ import { addBarChart } from './add-chart.js'
     { label: 'Seizième Saison : Plus loin', value: 24 },
     { label: 'Dix-septième Saison : Traversées', value: 3 },
     { label: 'Dix-huitième Saison : Retour aux sources', value: 1 },
+    { label: 'Dix-neuvième Saison : Destination bonheur', value: 0 },
 ]
   ];
     addBarChart('acrosticheBar', ['Ordinaire','Acrostiche'], data, {});
