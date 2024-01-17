@@ -3,7 +3,7 @@ import { addPieChart } from './add-chart.js'
   const data = [
     { label: '1 quatrain', value: 12, color: 'rgba(72, 149, 239, 0.4)' },
     { label: '2 quatrains', value: 93, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: '3 quatrains', value: 339, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
+    { label: '3 quatrains', value: 341, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: '4 quatrains', value: 197, color: 'rgba(72, 149, 239, 0.7000000000000001)' },
     { label: '5 quatrains', value: 52, color: 'rgba(72, 149, 239, 0.8)' },
     { label: '6 quatrains', value: 9, color: 'rgba(72, 149, 239, 0.9)' },

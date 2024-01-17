@@ -2,7 +2,7 @@
 title = "Pourquoi créer ?"
 weight = 1
 disableToc = false
-date = 2023-10-07
+date = 2024-01-17
 +++
 
 ## Réflexion sur prose et vers
@@ -45,19 +45,13 @@ A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr
 
 Il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années. Alors l'émotion suscitée par des scènes trop similaires passait par le filtre du questionnement intérieur : l'ai-je déjà exprimée dans un poème ? Elle ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
 
-On ne célèbre pas dix fois la même chose. Quoique, dès que le temps a passé suffisamment.
+On ne célèbre pas dix fois la même chose, me disais-je alors. Quoique, dès que le temps a passé suffisamment. Et surtout si on prend le temps de chercher les détails pas encore vus, dans une démarche analytique de ce qui fait le ressenti poétique.
 
 Relire d'anciens poèmes me fait penser des fois qu'il y a encore des choses à dire sur un sujet donné, même si le poème redécouvert peut sembler paralysant, tel un geyser d'émotions toujours nouvelles.
 
 Cela est également dû au fait que la langue française est un espace fini. C'est une certaine limitation de la poésie, d'ailleurs, la connaissance d'un ensemble linguistique dans lequel projeter des émotions.
 
-J'ai remarqué, pendant une expérience de vie en couple (janvier 2002 à mi-2003) que la vie "réelle" et tout ce qu'apporte un être aimé, provoquaient en moi une absence de besoin d'écrire. J'avais l'impression que les mots étaient "trop faibles". Si j'étais alors séparée de celui que j'aimais - le temps d'une balade en contact avec la beauté du monde, ou plusieurs jours pour une raison quelconque - j'avais envie de nouveau envie de "parler aux autres" de façon intime via la poésie.
-
-Mais c'est juste que je n'étais pas dans mes années les plus épanouies, je n'avais pas grand-monde avec qui partager ma poésie.
-
-Bien des années plus tard, les enfants une fois adolescents, j'ai un nouvel auditoire émerveillé. Et plus de temps pour moi donc je peux me livrer à ma rêverie intérieure en toute quiétude.
-
-La poésie se ressource à l'amour de la vie tout simplement, et aux envies et projections qu'on fait.
+La poésie se ressource à l'amour de la vie et aux envies et projections qu'on fait.
 
 ## Le médium
 
@@ -65,14 +59,14 @@ Le médium peut influencer la naissance d'un poème.
 
 Pendant longtemps je n'ai pas imaginé écrire un poème dans un éditeur de texte informatique. Puis j'ai franchi le pas. Voir ces lettres "réglementaires" sur mon écran me paralysait en quelque sorte. Et j'ai dépassé cet obstacle.
 
-Ecrire à la main, ça marche toujours mais si le poème cale ça fait mal, un immense remords d'avoir commencé et "gaspillé" des assemblages précis de mots sans avoir atteint un objectif créatif.
+Ecrire à la main, c'est ma façon préférée mais si le poème cale le regret est bizarrement fort, un immense remords d'avoir commencé et "gaspillé" des assemblages précis de mots sans avoir atteint un objectif créatif.
 
 En revanche, avec un médium que j'ai utilisé de temps en temps pendant quelques années, la tablette braille, si le poème venait, il était souvent très beau car j'avais plus de temps pour réfléchir et c'était en fait impossible de faire une rature. Une amie non-voyante et poète m'avait prêté cette tablette de 1995 à 2002.
 
-Dans ce cas les poèmes composés directement en braille étaient un complément à la lecture orale qui magnifie encore plus le poème. Donc parfois avant de composer je me disais "cette-fois ci elle pourra le lire aussi", ou bien je lui écrivais un mot personnel devant la télé, et un poème diffus jusqu'alors était prêt à naître.
+Dans ce cas les poèmes composés directement en braille étaient un complément à la lecture orale qui magnifie encore plus le poème. Donc parfois avant de composer je me disais "cette fois-ci elle pourra le lire aussi", ou bien je lui écrivais un mot personnel devant la télé, et un poème diffus jusqu'alors était prêt à naître.
 
 Composer en braille m'a mieux permis de maîtriser le flux poétique de façon formelle parce que c'est si particulier, je n'étais pas complètement "en face" de mes écrits et je devais faire un geste volontaire (retourner la feuille) pour relire ce que j'avais déjà écrit. J'ai même osé ainsi me lancer dans la contrainte supplémentaire que représente l'acrostiche.
 
 En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
 
-Dernière mise à jour : 07.10.2023
+Dernière mise à jour : 17.01.2024

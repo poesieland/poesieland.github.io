@@ -21,9 +21,9 @@ import { addPieChart } from './add-chart.js'
     { label: 'Animaux', value: 5, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(255, 182, 39, 1)' },
-    { label: 'Eté', value: 3, color: 'rgba(255, 149, 5, 1)' },
+    { label: 'Eté', value: 4, color: 'rgba(255, 149, 5, 1)' },
     { label: 'Automne', value: 8, color: 'rgba(226, 113, 29, 1)' },
-    { label: 'Hiver', value: 11, color: 'rgba(204, 88, 3, 1)' },
+    { label: 'Hiver', value: 12, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season18Pie', [data], 'Dix-huitième Saison : Retour aux sources - D\'octobre 2023 à ce jour');
+  addPieChart('season18Pie', [data], 'Dix-huitième Saison : Retour aux sources - D\'octobre 2023 à janvier 2024');
 })();

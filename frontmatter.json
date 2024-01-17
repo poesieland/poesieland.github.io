@@ -2,16 +2,16 @@
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
   "frontMatter.taxonomy.customTaxonomy": [
     {
-        "id": "locationTaxonomy",
-        "options": [
-            "Lorraine",
-            "Reims",
-            "Paris",
-            "Bordeaux",
-            "Charleroi"
-        ]
+      "id": "locationTaxonomy",
+      "options": [
+        "Lorraine",
+        "Reims",
+        "Paris",
+        "Bordeaux",
+        "Charleroi"
+      ]
     }
-],
+  ],
   "frontMatter.taxonomy.contentTypes": [
     {
       "name": "default",
@@ -591,6 +591,10 @@
     {
       "title": "en_original_texts",
       "path": "[[workspace]]/content/en/original_texts"
+    },
+    {
+      "title": "19_dix_neuvieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/19_dix_neuvieme_saison"
     }
   ],
   "frontMatter.dashboard.content.card.fields.title": "title",
