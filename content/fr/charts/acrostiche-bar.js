@@ -20,7 +20,7 @@ import { addBarChart } from './add-chart.js'
     { label: 'Seizième Saison : Plus loin', value: 26 },
     { label: 'Dix-septième Saison : Traversées', value: 47 },
     { label: 'Dix-huitième Saison : Retour aux sources', value: 49 },
-    { label: 'Dix-neuvième Saison : Destination bonheur', value: 1 },
+    { label: 'Dix-neuvième Saison : Destination bonheur', value: 2 },
 ],
 [
     { label: 'Première Saison : Premiers élans', value: 0 },
