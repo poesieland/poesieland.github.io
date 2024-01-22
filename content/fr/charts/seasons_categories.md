@@ -54,3 +54,6 @@ weight = 1
 
 ---
 {{< chartjs id="season18Pie" width="100%" jsFile="../season-18-pie.js" />}}
+
+---
+{{< chartjs id="season19Pie" width="100%" jsFile="../season-19-pie.js" />}}
