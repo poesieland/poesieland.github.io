@@ -1,6 +1,7 @@
 import { addPieChart } from './add-chart.js'
 (async function () {
   const data = [
+    { label: 'Aube', value: 1, color: 'rgba(244, 228, 9, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },

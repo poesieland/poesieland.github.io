@@ -28,7 +28,7 @@ Ses joues nuages en rondeur
 Pommelée, ô douce féconde
 
  \
-Esquisse d'aclat qui renaît.
+Esquisse d'éclat qui renaît.
 
 Je passe, la nuée explose
 
