@@ -2,8 +2,6 @@ import { addBarChart } from './add-chart.js'
 (async function () {
   const data = [
 [
-    { label: 'Première Saison : Premiers élans', value: 50 },
-    { label: 'Deuxième Saison : Tableaux', value: 50 },
     { label: 'Troisième Saison : Vivace', value: 48 },
     { label: 'Quatrième Saison : Rêves', value: 41 },
     { label: 'Cinquième Saison : Espaces de vie', value: 34 },
@@ -19,12 +17,8 @@ import { addBarChart } from './add-chart.js'
     { label: 'Quinzième Saison : De place en place', value: 10 },
     { label: 'Seizième Saison : Plus loin', value: 26 },
     { label: 'Dix-septième Saison : Traversées', value: 47 },
-    { label: 'Dix-huitième Saison : Retour aux sources', value: 49 },
-    { label: 'Dix-neuvième Saison : Destination bonheur', value: 6 },
 ],
 [
-    { label: 'Première Saison : Premiers élans', value: 0 },
-    { label: 'Deuxième Saison : Tableaux', value: 0 },
     { label: 'Troisième Saison : Vivace', value: 2 },
     { label: 'Quatrième Saison : Rêves', value: 9 },
     { label: 'Cinquième Saison : Espaces de vie', value: 16 },
@@ -40,9 +34,7 @@ import { addBarChart } from './add-chart.js'
     { label: 'Quinzième Saison : De place en place', value: 40 },
     { label: 'Seizième Saison : Plus loin', value: 24 },
     { label: 'Dix-septième Saison : Traversées', value: 3 },
-    { label: 'Dix-huitième Saison : Retour aux sources', value: 1 },
-    { label: 'Dix-neuvième Saison : Destination bonheur', value: 0 },
 ]
   ];
-    addBarChart('acrosticheBar', ['Ordinaire','Acrostiche'], data, {});
+    addBarChart('acrosticheBar', ['Non acrostiche','Acrostiche'], data, {});
 })();

@@ -1,0 +1,61 @@
+---
+weight: 7
+title: Charme
+id: charme_19
+date: 2024-02-07
+verseLength: 8
+divider: ""
+categories:
+    - Femme
+    - Romantisme
+tags:
+    - "2024"
+    - amour
+location: []
+info: Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
+pictures: []
+type: ""
+acrostiche: ""
+doubleAcrostiche: ""
+LastModifierDisplayName: Barbara Post
+---
+Juste une valse, gente dame,
+
+Une danse pour vos beaux yeux,
+
+Sur les traces de vos aïeux
+
+Au chandelier vacille flamme.
+
+ \
+M'accorderez-vous cet instant ?
+
+L'amour, l'amour sans voir le reste
+
+Quand toute grâce est dans le geste
+
+Gonfle cet envol palpitant.
+
+ \
+Les violons violents s'emmêlent
+
+Mais serez-vous ma Cendrillon ?
+
+Enfuie, un pas comme un haillon,
+
+Soupirs et trilles se révèlent.
+
+ \
+Juste une valse, c'est ce soir
+
+Nous enivrer sans conséquence
+
+Ivres d'accords, des corps, de danse,
+
+Je vous souris, je vais m'asseoir.
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée"}]} -->
+{{% notice style="primary" %}}
+Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
+{{% /notice %}}
+<!-- FM:Snippet:End -->

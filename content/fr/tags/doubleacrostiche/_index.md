@@ -6,6 +6,6 @@ Un peu plus élaboré qu'un [acrostiche](https://fr.wikipedia.org/wiki/Acrostich
 
 Lire aussi [mes acrostiches](/tags/acrostiche).
 
-Il y eut des périodes où je ne savais écrire qu'en acrostiches (éventuellement doubles)...
+Il y eu toute une période où l'idée poétique me venait en premier par l'acrostiche qui allait alors cadrer le contenu.
 
 {{< chartjs id="acrosticheBar" width="100%" jsFile="../../charts/acrostiche-bar.js" />}}
