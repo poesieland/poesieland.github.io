@@ -140,6 +140,10 @@ page = ["HTML", "PRINT"]
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> My French poems"
             url = "../fr/"
+            weight = 50
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-search'></i> Freetext search"
+            url = "/search.html"
             weight = 55
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
@@ -169,6 +173,10 @@ page = ["HTML", "PRINT"]
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-layer-group'></i> Catégories"
             url = "/categories/"
+            weight = 50
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-search'></i> Recherche libre"
+            url = "/search.html"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> Mes poèmes anglophones"
