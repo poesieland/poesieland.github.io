@@ -19,3 +19,5 @@ Longueur des vers
 Longueur des poèmes
 {{< chartjs id="season6PoemLengthBar" width="75%" jsFile="../../charts/season-6-poems-length-bar.js" />}}
 {{< chartjs id="season6PoemLengthPie" width="75%" jsFile="../../charts/season-6-poems-length-pie.js" />}}
+Intervalle
+{{< chartjs id="season6PoemIntervalBar" width="75%" jsFile="../../charts/season-6-poem-interval-bar.js" />}}

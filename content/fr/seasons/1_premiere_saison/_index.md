@@ -22,3 +22,5 @@ Longueur des vers
 Longueur des poèmes
 {{< chartjs id="season1PoemLengthBar" width="75%" jsFile="../../charts/season-1-poems-length-bar.js" />}}
 {{< chartjs id="season1PoemLengthPie" width="75%" jsFile="../../charts/season-1-poems-length-pie.js" />}}
+Intervalle
+{{< chartjs id="season1PoemIntervalBar" width="75%" jsFile="../../charts/season-1-poem-interval-bar.js" />}}

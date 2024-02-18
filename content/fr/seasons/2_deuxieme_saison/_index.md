@@ -19,3 +19,5 @@ Longueur des vers
 Longueur des poèmes
 {{< chartjs id="season2PoemLengthBar" width="75%" jsFile="../../charts/season-2-poems-length-bar.js" />}}
 {{< chartjs id="season2PoemLengthPie" width="75%" jsFile="../../charts/season-2-poems-length-pie.js" />}}
+Intervalle
+{{< chartjs id="season2PoemIntervalBar" width="75%" jsFile="../../charts/season-2-poem-interval-bar.js" />}}

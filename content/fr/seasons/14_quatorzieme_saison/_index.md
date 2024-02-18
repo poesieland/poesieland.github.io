@@ -19,3 +19,5 @@ Longueur des vers
 Longueur des poèmes
 {{< chartjs id="season14PoemLengthBar" width="75%" jsFile="../../charts/season-14-poems-length-bar.js" />}}
 {{< chartjs id="season14PoemLengthPie" width="75%" jsFile="../../charts/season-14-poems-length-pie.js" />}}
+Intervalle
+{{< chartjs id="season14PoemIntervalBar" width="75%" jsFile="../../charts/season-14-poem-interval-bar.js" />}}

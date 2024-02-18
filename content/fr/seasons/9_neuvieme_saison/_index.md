@@ -19,3 +19,5 @@ Longueur des vers
 Longueur des poèmes
 {{< chartjs id="season9PoemLengthBar" width="75%" jsFile="../../charts/season-9-poems-length-bar.js" />}}
 {{< chartjs id="season9PoemLengthPie" width="75%" jsFile="../../charts/season-9-poems-length-pie.js" />}}
+Intervalle
+{{< chartjs id="season9PoemIntervalBar" width="75%" jsFile="../../charts/season-9-poem-interval-bar.js" />}}
