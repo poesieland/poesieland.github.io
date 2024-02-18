@@ -7,8 +7,9 @@ weight = 4
 
 En ce qui concerne les extrêmes, qui sont de surprenantes expérimentations :
 
-L'unique poème en vers de 2 pieds :
-[Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
+Les poèmes en vers de 2 pieds :
+- [Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
+- [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
 
 Les poèmes en vers de 3 pieds :
 

@@ -5,7 +5,6 @@ date = 1998-04-18
 weight = 13
 categories = ["Enfance et adolescence", "Temps"]
 tags = ["philosophie", "1998"]
-pictures = ["La maison de mon enfance"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post"
 +++
