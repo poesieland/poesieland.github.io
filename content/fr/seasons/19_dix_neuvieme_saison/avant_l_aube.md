@@ -1,0 +1,45 @@
+---
+weight: 12
+title: Avant l'aube
+id: avant_l_aube_19
+date: 2024-02-20
+verseLength: 8
+divider: ""
+categories:
+    - Aube
+tags:
+    - "2024"
+    - ombres et lumières
+location: []
+info: ""
+pictures: []
+type: ""
+acrostiche: ""
+doubleAcrostiche: ""
+LastModifierDisplayName: Barbara Post
+---
+L'éclat de la lune a pali
+
+Et le jour a dit sa prière,
+
+Dans le calme la volière
+
+Ebroue un plumage sali.
+
+ \
+Le chat rentre après la bataille...
+
+Quelle heure est-il ? Potron-minet !
+
+Le jour va poindre, une aube y naît
+
+Pour tisser le ciel de sa maille.
+
+ \
+Un souffle retient ces instants,
+
+Un monde vierge qui s'inspire
+
+Et rêve au meilleur plus qu'au pire :
+
+Avant l'aube au bras du printemps.

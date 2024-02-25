@@ -31,6 +31,6 @@ En ressac immortel aussi vieux que la terre,
 
 Elle laisse, rêveuse, offerte toute entière,
 
-à l'âme d'un enfant la liberté d'aimer,
+A l'âme d'un enfant la liberté d'aimer,
 
 Celle qui nous dit tous : "ne cesse d'espérer".

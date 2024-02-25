@@ -22,5 +22,5 @@ import { addBarChart } from './add-chart.js'
     { label: '', value: 0 },
 ]
   ];
-    addBarChart('season15PoemLengthBar', ['Poèmes','Sonnets'], data, {});
+    addBarChart('season15PoemLengthBar', ['Poèmes','Sonnets'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

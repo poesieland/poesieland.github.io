@@ -33,4 +33,4 @@ Déesse au caprice enchanté,
 
 Prends ton élan pour d'une corne
 
-éclore en ta maturité !
+Eclore en ta maturité !

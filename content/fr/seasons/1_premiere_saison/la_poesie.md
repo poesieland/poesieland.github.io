@@ -19,7 +19,7 @@ Viens, éclaire ma vie
 
 Et rafraîchis mon cœur
 
-à ta douce chaleur !
+A ta douce chaleur !
 
 Que ta gloire éternelle
 

@@ -13,7 +13,7 @@ Le jour se lève, aurore dame
 
 Trace le toit de ses amours,
 
-le jour allume, antres, les fours
+Le jour allume, antres, les fours
 
 Du ciel qui crépitent de flammes.
 

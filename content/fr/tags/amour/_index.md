@@ -2,6 +2,8 @@
 title = "Amour"
 +++
 
+[Ma chanson préférée à ce sujet](https://www.paroles.net/jacques-brel/paroles-quand-on-n-a-que-l-amour)
+
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Amitié](/categories/amitie)
