@@ -41,7 +41,7 @@ Face à son assaut bleu je prendrai ta défense,
 
 Je nous préparerai la nouvelle maison
 
-Pour voyager serains comme dans notre enfance.
+Pour voyager sereins comme dans notre enfance.
 
  \
 Je te promets l'automne, un volubile hâbleur
