@@ -8,15 +8,7 @@ import { addBarChart } from './add-chart.js'
     { label: '16', value: 21 },
     { label: '20', value: 3 },
     { label: '24', value: 1 },
-],
-[
-    { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: 'Sonnets', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
 ]
   ];
-    addBarChart('season4PoemLengthBar', ['Poèmes','Sonnets'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season4PoemLengthBar', ['Poèmes'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

@@ -9,16 +9,7 @@ import { addBarChart } from './add-chart.js'
     { label: '16', value: 22 },
     { label: '20', value: 8 },
     { label: '24', value: 1 },
-],
-[
-    { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: 'Sonnets', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
 ]
   ];
-    addBarChart('season6PoemLengthBar', ['Poèmes','Sonnets'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season6PoemLengthBar', ['Poèmes'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

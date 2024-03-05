@@ -8,7 +8,7 @@ import { addPieChart } from './add-chart.js'
     { label: '5 quatrains', value: 4, color: 'rgba(72, 149, 239, 0.8)' },
     { label: '6 quatrains', value: 1, color: 'rgba(72, 149, 239, 0.9)' },
     { label: 'Nombre de vers non multiple de quatre', value: 3, color: 'rgba(67, 97, 238, 0.9)' },
-    { label: 'Pas de quatrain car rimes suivies, acrostiche découpé différemment', value: 2, color: 'rgba(67, 97, 238, 0.7)' },
+    { label: 'Rimes suivies ou acrostiche découpé différemment', value: 2, color: 'rgba(67, 97, 238, 0.7)' },
   ];
   addPieChart('season17PoemLengthPie', [data], 'En quatrains ?');
 })();
