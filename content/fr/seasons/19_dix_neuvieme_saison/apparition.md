@@ -12,7 +12,8 @@ tags:
     - nature
 location: []
 info: ""
-pictures: []
+pictures:
+    - Arc-en-ciel en mai 2001
 type: default
 acrostiche: ""
 doubleAcrostiche: ""
@@ -34,3 +35,7 @@ Galope tout au bout : lumière prend place,
 Chaque bande à sa soeur en arpège fondant
 
 Dit qu'elle est la plus belle et se mire en sa glace.
+
+<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"apparition_19_0.jpg"},{"name":"imageCaption","value":"Arc-en-ciel en mai 2001"}]} -->
+{{< figure src="/images/apparition_19_0.jpg" title="Arc-en-ciel en mai 2001" >}}
+<!-- FM:Snippet:End -->
