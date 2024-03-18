@@ -14,6 +14,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Neige', value: 1, color: 'rgba(183, 239, 197, 1)' },
     { label: 'Flore', value: 2, color: 'rgba(146, 230, 167, 1)' },
     { label: 'Jardin et paysage', value: 2, color: 'rgba(74, 214, 109, 1)' },
+    { label: 'Eau douce', value: 1, color: 'rgba(37, 162, 68, 1)' },
     { label: 'Ciel', value: 2, color: 'rgba(26, 116, 49, 1)' },
     { label: 'Printemps', value: 5, color: 'rgba(255, 182, 39, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(255, 149, 5, 1)' },
