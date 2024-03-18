@@ -4,4 +4,4 @@ title = "2023"
 
 L'année de mes 44 ans. Remise en route de ce site web et nouvelles inspirations. La poésie ne m'avait jamais quitté même si elle s'est longuement tue.
 
-{{< chartjs id="poemDay-2023Radar" width="100%" jsFile="../../charts/poems-day-2023-radar.js" />}}
+{{< chartjs id="poemDay-2023Radar" width="75%" jsFile="../../charts/poems-day-2023-radar.js" />}}

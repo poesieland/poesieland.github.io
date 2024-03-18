@@ -30,4 +30,4 @@ Les poèmes de sept quatrains :
 - [La maison de famille (18e saison)](../seasons/18_dix_huitieme_saison/la_maison_de_famille) 
 - [Le mot manquant (18e saison)](../seasons/18_dix_huitieme_saison/le_mot_manquant) 
 
-{{< chartjs id="poemLengthPie" width="100%" jsFile="../poems-length-pie.js" />}}
+{{< chartjs id="poemLengthPie" width="75%" jsFile="../poems-length-pie.js" />}}

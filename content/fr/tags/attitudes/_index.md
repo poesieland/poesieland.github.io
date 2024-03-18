@@ -9,4 +9,4 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Toucher](/categories/toucher)
 - [Sommeil](/categories/sommeil)
 
-{{< chartjs id="poemDay-attitudesRadar" width="100%" jsFile="../../charts/poems-day-attitudes-radar.js" />}}
+{{< chartjs id="poemDay-attitudesRadar" width="75%" jsFile="../../charts/poems-day-attitudes-radar.js" />}}

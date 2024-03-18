@@ -123,6 +123,7 @@ a#logo {
 :root {
     --MENU-WIDTH-M: 20rem;
     --MENU-WIDTH-L: 20rem;
+    --MAIN-WIDTH-MAX: 100rem;
 }
 
 .chartjs-wrapper {

@@ -12,4 +12,4 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Mer](/categories/mer)
 - [Animaux](/categories/animaux)
 
-{{< chartjs id="poemDay-natureRadar" width="100%" jsFile="../../charts/poems-day-nature-radar.js" />}}
+{{< chartjs id="poemDay-natureRadar" width="75%" jsFile="../../charts/poems-day-nature-radar.js" />}}

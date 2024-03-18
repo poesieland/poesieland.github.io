@@ -18,7 +18,7 @@ Les poèmes en vers de 3 pieds :
 - [Quand les jours... (17e saison)](../seasons/17_dix_septieme_saison/quand_les_jours)
 - [Ciel triste (18e saison)](../seasons/18_dix_huitieme_saison/ciel_triste)
 
-Les poèmes en vers de 14 pieds :
+Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 - [Il faro (10e saison)](../seasons/10_dixieme_saison/il_faro)
 - [Au-dela : voie (12e saison)](../seasons/12_douzieme_saison/au_dela_voie)
 - [L'air : rapsodie (14e saison)](../seasons/14_quatorzieme_saison/l_air_rapsodie)

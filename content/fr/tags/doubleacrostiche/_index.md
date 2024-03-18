@@ -8,4 +8,4 @@ Lire aussi [mes acrostiches](/tags/acrostiche).
 
 Il y eu toute une période où l'idée poétique me venait en premier par l'acrostiche qui allait alors cadrer le contenu.
 
-{{< chartjs id="acrosticheBar" width="100%" jsFile="../../charts/acrostiche-bar.js" />}}
+{{< chartjs id="acrosticheBar" width="75%" jsFile="../../charts/acrostiche-bar.js" />}}

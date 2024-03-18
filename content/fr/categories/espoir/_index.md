@@ -2,4 +2,4 @@
 title = "Espoir"
 +++
 
-{{< chartjs id="poemDay-espoirRadar" width="100%" jsFile="../../charts/poems-day-espoir-radar.js" />}}
+{{< chartjs id="poemDay-espoirRadar" width="75%" jsFile="../../charts/poems-day-espoir-radar.js" />}}
