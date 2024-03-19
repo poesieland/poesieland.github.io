@@ -9,6 +9,7 @@ defaultContentLanguage = 'fr'
 enableEmoji = true
 removePathAccents = true
 cleanDestinationDir = true
+enableMissingTranslationPlaceholders = false
 
 [build]
 buildStats = false
@@ -79,6 +80,19 @@ disableNextPrev = false
 # Order sections in menu by "weight" or "title". Default to "weight";
 # this can be overridden in the pages frontmatter
 ordersectionsby = "weight"
+# Change the title separator. Default to "::".
+titleSeparator = "-"
+# If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
+collapsibleMenu = true
+# If a single page can contain content in multiple languages, add those here
+additionalContentLanguage = [ "en" ]
+# If set to true, no index.html will be appended to prettyURLs; this will cause pages not
+# to be servable from the file system
+disableExplicitIndexURLs = false
+# For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
+externalLinkTarget = "_blank"
+themeVariantAuto = [ "relearn-light", "relearn-dark" ]
+
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   [[params.themeVariant]]
@@ -99,19 +113,6 @@ ordersectionsby = "weight"
     identifier = "zen-dark"
   [[params.themeVariant]]
     identifier = "neon"
-# Change the title separator. Default to "::".
-titleSeparator = "-"
-# If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
-collapsibleMenu = true
-# If a single page can contain content in multiple languages, add those here
-additionalContentLanguage = [ "en" ]
-# If set to true, no index.html will be appended to prettyURLs; this will cause pages not
-# to be servable from the file system
-disableExplicitIndexURLs = false
-# For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
-externalLinkTarget = "_blank"
-themeVariantAuto = [ "relearn-light", "relearn-dark" ]
-enableMissingTranslationPlaceholders = false
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
