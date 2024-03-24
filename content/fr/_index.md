@@ -5,13 +5,13 @@ archetype = "home"
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
 
+Il y a actuellement {{% include "poem_count.md" %}} poèmes dans ma langue maternelle plus une poignée de [poèmes en anglais](/en/original_texts/).
+
 {{% notice title="Cinq derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "last_poems.md" true %}}
 {{% /notice %}}
 
-Je suis francophone, cependant quelques poèmes sont [originellement dans une autre langue](/en/original_texts/), en anglais sauf un.
-
-Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public. Ces poèmes se répartissent entre la [cinquième](./seasons/5_cinquieme_saison) et la [huitième](./seasons/8_huitieme_saison) saison. J'ai placé une petite image à côté du lien vers le poème sur la page de sommaire des saisons concernées.
+Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public. Ces poèmes se répartissent sur une pleine année, d'un automne à l'autre (1997-1998), entre la [cinquième saison](./seasons/5_cinquieme_saison) et la [huitième saison](./seasons/8_huitieme_saison) saison. J'ai placé une petite indication à côté du lien vers le poème sur la page de sommaire des saisons concernées.
 
 {{< figure src="/images/ensixlettres.jpg" title="En six lettres t'aimer" >}}
 
@@ -85,8 +85,12 @@ Et laisser une trace après la fin de notre vie terrestre.
 
 C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de l'art, et peut-être favoriser leur propre expression artistique. La poésie moderne n'a jamais été plus vivante que sur internet, grand espace de partage plus ou moins anonyme.
 
+### S'amuser
+
+L'espace limité d'une langue est un grand terrain de jeu, entre les jeux de mots classiques, leur polysémie, les différents registres, leur musicalité.
+
 Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 17.01.2024
+Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 24.03.2024

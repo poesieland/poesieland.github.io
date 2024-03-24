@@ -33,17 +33,19 @@ Plus tard, sous l'impulsion d'une professeur de français poète est venu l'int�
 
 Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](../seasons/16_seizieme_saison/variations/).
 
-Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation en terme de chute pour le sonnet ou de double thème pour le pantoun.
+Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation pour garantir une certaine originalité pour le sonnet ou soigneusement sélectionner et explorer le  double thème pour le pantoun.
 
-A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable Baudelaire. J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés (mais pas forcément blâmables).
+A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable Baudelaire. J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés, mais ce qui a été écrit restera comme il a été créé.
 
 [Vers mes sonnets](/tags/sonnet)
 
 [Vers mes pantouns](/tags/pantoun)
 
+Enfin, j'aime comparer le poète à un joueur d'échec, toujours un coup d'avance pour la prochaine rime, à mi-chemin entre la préparation et l'improvisation, c'est très agréable et cela permet de travailler et redécouvrir son vocabulaire. Plus on pratique une langue plus elle devient chère.
+
 ## Inspiration
 
-Il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années. Alors l'émotion suscitée par des scènes trop similaires passait par le filtre du questionnement intérieur : l'ai-je déjà exprimée dans un poème ? Elle ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
+Il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années, vers 2001 donc. Alors l'émotion suscitée par des scènes trop similaires passait par le filtre du questionnement intérieur : l'ai-je déjà exprimée dans un poème ? Elle ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
 
 On ne célèbre pas dix fois la même chose, me disais-je alors. Quoique, dès que le temps a passé suffisamment. Et surtout si on prend le temps de chercher les détails pas encore vus, dans une démarche analytique de ce qui fait le ressenti poétique.
 
@@ -69,4 +71,4 @@ Composer en braille m'a mieux permis de maîtriser le flux poétique de façon f
 
 En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
 
-Dernière mise à jour : 17.01.2024
+Dernière mise à jour : 24.03.2024
