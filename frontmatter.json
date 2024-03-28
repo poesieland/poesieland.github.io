@@ -517,8 +517,8 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "en_original_texts",
-      "path": "[[workspace]]/content/en/original_texts"
+      "title": "EN poems 2024",
+      "path": "[[workspace]]/content/en/original_texts/2024"
     },
     {
       "title": "19_dix_neuvieme_saison",

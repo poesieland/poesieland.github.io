@@ -5,6 +5,6 @@
 	path = back-office
 	url = https://postb99@github.com/postb99/poesieland_back-office.git
 
-[submodule "data"]
-	path = data
+[submodule "back-office-data"]
+	path = back-office-data
 	url = https://postb99@github.com/postb99/poesieland_storage.git
