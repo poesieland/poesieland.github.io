@@ -5,7 +5,7 @@ archetype = "home"
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
 
-Il y a actuellement {{% include "./includes/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "./includes/poem_count_en.md" %}} [poèmes en anglais](/en/original_texts/).
+Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/en/original_texts/).
 
 {{% notice title="Cinq derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "./includes/last_poems.md" true %}}
