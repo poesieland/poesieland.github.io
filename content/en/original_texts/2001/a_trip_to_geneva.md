@@ -3,6 +3,7 @@ title = "A trip to Geneva"
 date = 2001-05-10
 weight = 6
 LastModifierDisplayName = "Barbara Post"
+id = "a_trip_to_geneva_15"
 +++
 As if I were feeling home,
 

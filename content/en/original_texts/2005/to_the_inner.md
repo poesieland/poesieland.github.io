@@ -3,6 +3,7 @@ title = "To the inner"
 date = 2005-04-04
 weight = 14
 LastModifierDisplayName = "Barbara Post"
+id = "to_the_inner_17"
 +++
 
 First steps of a path,

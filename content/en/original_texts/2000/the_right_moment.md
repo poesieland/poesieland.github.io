@@ -3,6 +3,7 @@ title = "The right moment"
 date = 2000-07-07
 weight = 4
 LastModifierDisplayName = "Barbara Post"
+id = "the_right_moment_14"
 +++
 When a stars comes shining,
 
