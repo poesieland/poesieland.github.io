@@ -9,6 +9,7 @@ Le temps, le printemps... Quelques thèmes résonnnent plus fort. De janvier 202
 ---
 {{% children  %}}
 
+{{% include "./includes/season_19.md" true %}}
 ---
 Catégories
 {{< chartjs id="season19Pie" width="75%" jsFile="../../charts/season-19-pie.js" />}}

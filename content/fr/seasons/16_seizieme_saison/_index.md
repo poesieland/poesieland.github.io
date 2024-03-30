@@ -13,6 +13,7 @@ De mars 2002 à octobre 2004
 ---
 {{% children  %}}
 
+{{% include "./includes/season_16.md" true %}}
 ---
 Catégories
 {{< chartjs id="season16Pie" width="75%" jsFile="../../charts/season-16-pie.js" />}}

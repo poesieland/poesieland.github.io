@@ -11,6 +11,7 @@ D'avril à décembre 2001
 ---
 {{% children  %}}
 
+{{% include "./includes/season_15.md" true %}}
 ---
 Catégories
 {{< chartjs id="season15Pie" width="75%" jsFile="../../charts/season-15-pie.js" />}}
