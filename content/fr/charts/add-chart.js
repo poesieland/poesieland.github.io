@@ -67,4 +67,25 @@ const addRadarChart = (chartId, chartLabels, datas, border, background) => {
     });
 }
 
-export { addChart, addPieChart, addBarChart, addRadarChart };
+const addBubbleChart = (chartId, chartLabels, datas, options) => { 
+    var datasets = [
+        {
+            label: chartLabels[0],
+            data: datas[0]
+        }
+    ];
+
+    new Chart(
+        document.getElementById(chartId),
+        {
+            type: 'bubble',
+            data: {
+                datasets: datasets,
+            },
+            options: Object.assign({ responsive: true }, options)
+        }
+    );
+
+ };
+
+export { addChart, addPieChart, addBarChart, addRadarChart, addBubbleChart };
