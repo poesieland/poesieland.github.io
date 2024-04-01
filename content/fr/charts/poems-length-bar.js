@@ -3,13 +3,13 @@ import { addBarChart } from './add-chart.js'
   const data = [
 [
     { label: '3', value: 1 },
-    { label: '4', value: 12 },
+    { label: '4', value: 13 },
     { label: '6', value: 31 },
     { label: '8', value: 108 },
     { label: '10', value: 56 },
-    { label: '12', value: 357 },
+    { label: '12', value: 358 },
     { label: '14', value: 48 },
-    { label: '16', value: 214 },
+    { label: '16', value: 215 },
     { label: '18', value: 9 },
     { label: '20', value: 61 },
     { label: '22', value: 2 },

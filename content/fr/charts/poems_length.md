@@ -22,6 +22,7 @@ Les poèmes d'un seul quatrain :
 - [Ciel d'hiver (15e saison)](../seasons/15_quinzieme_saison/ciel_d_hiver)
 - [Givre (17e saison)](../seasons/17_dix_septieme_saison/givre)
 - [Inachevé (17e saison)](../seasons/17_dix_septieme_saison/inacheve)
+- [Eloge (19e saison)](../seasons/19_dix_neuvieme_saison/eloge)
 
 Les poèmes de sept quatrains :
 
