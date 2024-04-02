@@ -32,3 +32,5 @@ Les poèmes de sept quatrains :
 - [Le mot manquant (18e saison)](../seasons/18_dix_huitieme_saison/le_mot_manquant) 
 
 {{< chartjs id="poemLengthPie" width="75%" jsFile="../poems-length-pie.js" />}}
+
+{{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../poem-length-by-verse-length.js" />}}

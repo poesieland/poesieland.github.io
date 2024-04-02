@@ -24,3 +24,5 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 - [L'air : rapsodie (14e saison)](../seasons/14_quatorzieme_saison/l_air_rapsodie)
 - [L'automne oublié (14e saison)](../seasons/14_quatorzieme_saison/l_automne_oublie)
 - [Nos nuits (15e saison)](../seasons/15_quinzieme_saison/nos_nuits)
+
+{{< chartjs id="verseLengthByPoemLength" width="100%" jsFile="../verse-length-by-poem-length.js" />}}

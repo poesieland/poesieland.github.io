@@ -67,11 +67,11 @@ const addRadarChart = (chartId, chartLabels, datas, border, background) => {
     });
 }
 
-const addBubbleChart = (chartId, chartLabels, datas, options) => { 
+const addBubbleChart = (chartId, title, data, options) => { 
     var datasets = [
         {
-            label: chartLabels[0],
-            data: datas[0]
+            label: title,
+            data: data
         }
     ];
 
