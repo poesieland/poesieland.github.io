@@ -3,7 +3,7 @@ import { addPieChart } from './add-chart.js'
   const data = [
     { label: 'Romantisme', value: 3, color: 'rgba(255, 179, 198, 1)' },
     { label: 'Femme', value: 1, color: 'rgba(255, 143, 171, 1)' },
-    { label: 'Aube', value: 2, color: 'rgba(244, 228, 9, 1)' },
+    { label: 'Aube', value: 3, color: 'rgba(244, 228, 9, 1)' },
     { label: 'Lune', value: 2, color: 'rgba(238, 186, 11, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(166, 60, 6, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(113, 0, 0, 1)' },
@@ -17,7 +17,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Neige', value: 1, color: 'rgba(183, 239, 197, 1)' },
     { label: 'Flore', value: 2, color: 'rgba(146, 230, 167, 1)' },
-    { label: 'Jardin et paysage', value: 2, color: 'rgba(74, 214, 109, 1)' },
+    { label: 'Jardin et paysage', value: 3, color: 'rgba(74, 214, 109, 1)' },
     { label: 'Eau douce', value: 2, color: 'rgba(37, 162, 68, 1)' },
     { label: 'Ciel', value: 4, color: 'rgba(26, 116, 49, 1)' },
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },

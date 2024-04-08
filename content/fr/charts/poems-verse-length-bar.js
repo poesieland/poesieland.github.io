@@ -3,11 +3,11 @@ import { addBarChart } from './add-chart.js'
   const data = [
     { label: '2', value: 2 },
     { label: '3', value: 4 },
-    { label: '4', value: 21 },
+    { label: '4', value: 22 },
     { label: '5', value: 26 },
     { label: '6', value: 206 },
     { label: '7', value: 66 },
-    { label: '8', value: 341 },
+    { label: '8', value: 342 },
     { label: '9', value: 7 },
     { label: '10', value: 35 },
     { label: '11', value: 16 },
