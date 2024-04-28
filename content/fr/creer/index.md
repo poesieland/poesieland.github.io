@@ -29,7 +29,7 @@ Mon amie suisse Christine exprime elle aussi son désaccord d'une bien jolie fa�
 
 Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidement est venue la notion de cadrage. Découvrir les nombreuses contraintes de la versification classique m'a fait clairement pencher vers la versification néo-classique. Ce qui m'a fait investir dans un dictionaire des rimes, toujours intéressant.
 
-Et découvrir en cherchant bien un site [très détaillé et agréable à lire sur la versification](https://www.etudes-litteraires.com/versification/groupements-vers-et-formes-fixes). Où je me rends compte que j'ai écrit un poème [en sizains sur trois rimes](../seasons/15_quinzieme_saison/acqua_viva_fra_le_mani). 
+Je suis tombée sur un site [très détaillé et agréable à lire sur la versification dans sa richesse](https://www.etudes-litteraires.com/versification/groupements-vers-et-formes-fixes). Et me suis alors rendue compte que j'avais à l'époque écrit un poème [en sizains sur trois rimes](../seasons/15_quinzieme_saison/acqua_viva_fra_le_mani).
 
 Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème.
 

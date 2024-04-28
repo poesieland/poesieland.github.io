@@ -11,7 +11,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Enfance et adolescence', value: 3, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 2, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 1, color: 'rgba(220, 147, 246, 1)' },
-    { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },
+    { label: 'Foi', value: 2, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 4, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 8, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 5, color: 'rgba(105, 16, 168, 1)' },
@@ -27,5 +27,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 1, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season19Pie', [data], 'Dix-neuvième Saison : Destination bonheur - De janvier 2024 à ce jour');
+  addPieChart('season19Pie', [data], 'Dix-neuvième Saison : Destination bonheur - De janvier à avril 2024');
 })();

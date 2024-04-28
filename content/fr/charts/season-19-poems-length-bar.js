@@ -9,7 +9,7 @@ import { addBarChart } from './add-chart.js'
     { label: '12', value: 20 },
     { label: '16', value: 16 },
     { label: '20', value: 4 },
-    { label: '24', value: 2 },
+    { label: '24', value: 3 },
 ]
   ];
     addBarChart('season19PoemLengthBar', ['Poèmes'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
