@@ -14,16 +14,16 @@ Un poème de Louis Aragon
 Je vous laisse découvrir
 
 ---
-[Pilgrim](./pilgrim) {{% badge %}}en anglais :flag_gb:{{% /badge %}}
+[Pilgrim](./pilgrim) {{% badge %}}en anglais {{% /badge %}}
 
 Chanson d'Enya, c'est aussi un poème
 
 ---
-[Prière Hopi](./hopi_prayer) {{% badge %}}en anglais :flag_gb:{{% /badge %}}
+[Prière Hopi](./hopi_prayer) {{% badge %}}en anglais {{% /badge %}}
 
 Certains peuples savent mieux philosopher que d'autres. Un texte consolateur
 
 ---
-[Love is in the air](./love_is_in_the_air) {{% badge %}}en anglais :flag_gb:{{% /badge %}}
+[Love is in the air](./love_is_in_the_air) {{% badge %}}en anglais {{% /badge %}}
 
 Chanson par Baz Luhmann

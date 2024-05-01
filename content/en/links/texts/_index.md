@@ -3,13 +3,13 @@ title = "Chosen texts"
 weight = 1
 alwaysopen = false
 +++
-[J'arrive où je suis étranger](./aragon) {{% badge %}}in French :flag_fr:{{% /badge %}}
+[J'arrive où je suis étranger](./aragon) {{% badge %}}in French {{% /badge %}}
 
 A poem from well-known Louis Aragon
 
 ---
 
-[Arminda De Arruda Gonçalves](./goncalves) {{% badge %}}in French :flag_fr:{{% /badge %}}
+[Arminda De Arruda Gonçalves](./goncalves) {{% badge %}}in French {{% /badge %}}
 
 Let's discover it
 
