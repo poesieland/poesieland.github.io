@@ -23,5 +23,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(4, 166, 194, 1)' },
     { label: 'Printemps', value: 5, color: 'rgba(255, 182, 39, 1)' },
   ];
-  addPieChart('season3Pie', [data], 'Troisième Saison : Vivace - De janvier à mai 1997');
+  addPieChart('season3Pie', [data], { plugins: { title: { display: true, text: 'Troisième Saison : Vivace - De janvier à mai 1997' } } });
 })();

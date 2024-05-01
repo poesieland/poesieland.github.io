@@ -25,5 +25,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 3, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season14Pie', [data], 'Quatorzième Saison : Au long cours - De novembre 1999 à mars 2001');
+  addPieChart('season14Pie', [data], { plugins: { title: { display: true, text: 'Quatorzième Saison : Au long cours - De novembre 1999 à mars 2001' } } });
 })();

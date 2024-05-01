@@ -25,5 +25,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 8, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 12, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season18Pie', [data], 'Dix-huitième Saison : Retour aux sources - D\'octobre 2023 à janvier 2024');
+  addPieChart('season18Pie', [data], { plugins: { title: { display: true, text: 'Dix-huitième Saison : Retour aux sources - D\'octobre 2023 à janvier 2024' } } });
 })();

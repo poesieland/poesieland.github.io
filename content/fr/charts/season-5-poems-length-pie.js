@@ -6,5 +6,5 @@ import { addPieChart } from './add-chart.js'
     { label: '5 quatrains', value: 8, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Rimes suivies ou acrostiche découpé différemment', value: 1, color: 'rgba(67, 97, 238, 0.7)' },
   ];
-  addPieChart('season5PoemLengthPie', [data], 'En quatrains ?');
+  addPieChart('season5PoemLengthPie', [data], { plugins: { title: { display: true, text: 'En quatrains ?' } } });
 })();

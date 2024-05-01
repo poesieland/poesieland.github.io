@@ -8,5 +8,5 @@ import { addPieChart } from './add-chart.js'
     { label: '6 quatrains', value: 1, color: 'rgba(72, 149, 239, 0.9)' },
     { label: 'Nombre de vers non multiple de quatre', value: 4, color: 'rgba(67, 97, 238, 0.9)' },
   ];
-  addPieChart('season6PoemLengthPie', [data], 'En quatrains ?');
+  addPieChart('season6PoemLengthPie', [data], { plugins: { title: { display: true, text: 'En quatrains ?' } } });
 })();

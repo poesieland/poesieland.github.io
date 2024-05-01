@@ -40,32 +40,11 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
     );
 };
 
-const addPieChart = (chartId, datas, title) => { addChart(chartId, 'pie', [''], datas, { plugins: { title: { display: true, text: title } } }); };
+const addPieChart = (chartId, datas, options) => { addChart(chartId, 'pie', [''], datas, options); };
 
 const addBarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'bar', chartLabels, datas, options); };
 
-const addRadarChart = (chartId, chartLabels, datas, border, background) => {
-    addChart(chartId, 'radar', chartLabels, datas, {
-        backgroundColor: !!background ? background : 'rgba(76, 201, 240)',
-        borderColor: !!border ? border : 'rgba(0, 0, 0, 0.1)',
-        pointBackgroundColor: !!border ? border : 'rgba(76, 201, 240)',
-        pointBorderColor: '#fff',
-        pointHoverBackgroundColor: '#fff',
-        pointHoverBorderColor: 'rgb(54, 162, 235)',
-        elements: {
-            line: {
-                borderWidth: 1
-            }
-        },
-        scales: {
-            r: {
-                ticks: {
-                    stepSize: 1
-                }
-            }
-        }
-    });
-}
+const addRadarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'radar', chartLabels, datas, options); }
 
 const addBubbleChart = (chartId, title, data, borderColorsArray, options) => { 
     var datasets = [

@@ -9,5 +9,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Samedi', value: 147, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 158, color: 'rgba(72, 149, 239, 0.9000000000000001)' },
   ];
-  addPieChart('poemDayOfWeekPie', [data], 'Par jour de la semaine');
+  addPieChart('poemDayOfWeekPie', [data], { plugins: { title: { display: true, text: 'Par jour de la semaine' } } });
 })();

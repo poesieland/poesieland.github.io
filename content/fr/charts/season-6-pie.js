@@ -20,5 +20,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Mouvement', value: 3, color: 'rgba(4, 166, 194, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(255, 182, 39, 1)' },
   ];
-  addPieChart('season6Pie', [data], 'Sixième Saison : Sur le chemin - De mars à juin 1998');
+  addPieChart('season6Pie', [data], { plugins: { title: { display: true, text: 'Sixième Saison : Sur le chemin - De mars à juin 1998' } } });
 })();

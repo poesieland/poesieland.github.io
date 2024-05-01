@@ -20,5 +20,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Mer', value: 2, color: 'rgba(16, 69, 29, 1)' },
     { label: 'Musique et chant', value: 6, color: 'rgba(63, 193, 192, 1)' },
   ];
-  addPieChart('season7Pie', [data], 'Septième Saison : Croire - Juin et juillet 1998');
+  addPieChart('season7Pie', [data], { plugins: { title: { display: true, text: 'Septième Saison : Croire - Juin et juillet 1998' } } });
 })();

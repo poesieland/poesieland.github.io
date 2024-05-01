@@ -8,5 +8,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Nombre de vers non multiple de quatre', value: 10, color: 'rgba(67, 97, 238, 0.9)' },
     { label: 'Rimes suivies', value: 6, color: 'rgba(67, 97, 238, 0.7)' },
   ];
-  addPieChart('season1PoemLengthPie', [data], 'En quatrains ?');
+  addPieChart('season1PoemLengthPie', [data], { plugins: { title: { display: true, text: 'En quatrains ?' } } });
 })();

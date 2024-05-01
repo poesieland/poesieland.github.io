@@ -368,5 +368,5 @@ import { addRadarChart } from './add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-romantismeRadar', ['Poèmes selon le jour de l\'année'], [data], 'rgba(255, 179, 198, 1)', 'rgba(255, 179, 198, 0.5)');
+  addRadarChart('poemDay-romantismeRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(255, 179, 198, 0.5)', borderColor: 'rgba(255, 179, 198, 1)', pointBackgroundColor: 'rgba(255, 179, 198, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

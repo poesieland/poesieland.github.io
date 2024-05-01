@@ -29,5 +29,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 8, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 6, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season17Pie', [data], 'Dix-septième Saison : Traversées - D\'octobre 2004 à octobre 2023');
+  addPieChart('season17Pie', [data], { plugins: { title: { display: true, text: 'Dix-septième Saison : Traversées - D\'octobre 2004 à octobre 2023' } } });
 })();

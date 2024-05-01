@@ -24,5 +24,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(4, 166, 194, 1)' },
     { label: 'Automne', value: 2, color: 'rgba(226, 113, 29, 1)' },
   ];
-  addPieChart('season1Pie', [data], 'Première Saison : Premiers élans - De 1994 à septembre 1996');
+  addPieChart('season1Pie', [data], { plugins: { title: { display: true, text: 'Première Saison : Premiers élans - De 1994 à septembre 1996' } } });
 })();

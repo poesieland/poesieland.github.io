@@ -23,5 +23,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(29, 78, 137, 1)' },
     { label: 'Automne', value: 2, color: 'rgba(226, 113, 29, 1)' },
   ];
-  addPieChart('season8Pie', [data], 'Huitième Saison : Reflets perdus - De juillet à septembre 1998');
+  addPieChart('season8Pie', [data], { plugins: { title: { display: true, text: 'Huitième Saison : Reflets perdus - De juillet à septembre 1998' } } });
 })();

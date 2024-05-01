@@ -29,5 +29,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Eté', value: 3, color: 'rgba(255, 149, 5, 1)' },
     { label: 'Automne', value: 7, color: 'rgba(226, 113, 29, 1)' },
   ];
-  addPieChart('season16Pie', [data], 'Seizième Saison : Plus loin - De mars 2002 à octobre 2004');
+  addPieChart('season16Pie', [data], { plugins: { title: { display: true, text: 'Seizième Saison : Plus loin - De mars 2002 à octobre 2004' } } });
 })();

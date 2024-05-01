@@ -21,5 +21,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 4, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season9Pie', [data], 'Neuvième Saison : Souffles - De septembre à décembre 1998');
+  addPieChart('season9Pie', [data], { plugins: { title: { display: true, text: 'Neuvième Saison : Souffles - De septembre à décembre 1998' } } });
 })();

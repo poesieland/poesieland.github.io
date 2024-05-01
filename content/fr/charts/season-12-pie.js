@@ -24,5 +24,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(29, 78, 137, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season12Pie', [data], 'Douzième Saison : Tempo piano - De mai à juillet 1999');
+  addPieChart('season12Pie', [data], { plugins: { title: { display: true, text: 'Douzième Saison : Tempo piano - De mai à juillet 1999' } } });
 })();

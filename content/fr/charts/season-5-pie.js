@@ -26,5 +26,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 4, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season5Pie', [data], 'Cinquième Saison : Espaces de vie - De septembre 1997 à mars 1998');
+  addPieChart('season5Pie', [data], { plugins: { title: { display: true, text: 'Cinquième Saison : Espaces de vie - De septembre 1997 à mars 1998' } } });
 })();

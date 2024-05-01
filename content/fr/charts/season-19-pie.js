@@ -27,5 +27,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 1, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season19Pie', [data], 'Dix-neuvième Saison : Destination bonheur - De janvier à avril 2024');
+  addPieChart('season19Pie', [data], { plugins: { title: { display: true, text: 'Dix-neuvième Saison : Destination bonheur - De janvier à avril 2024' } } });
 })();

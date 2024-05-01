@@ -28,5 +28,5 @@ import { addPieChart } from './add-chart.js'
     { label: 'Automne', value: 4, color: 'rgba(226, 113, 29, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(204, 88, 3, 1)' },
   ];
-  addPieChart('season15Pie', [data], 'Quinzième Saison : De place en place - D\'avril à décembre 2001');
+  addPieChart('season15Pie', [data], { plugins: { title: { display: true, text: 'Quinzième Saison : De place en place - D\'avril à décembre 2001' } } });
 })();
