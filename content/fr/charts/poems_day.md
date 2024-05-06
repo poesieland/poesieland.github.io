@@ -2,6 +2,9 @@
 title = "Quels jours de l'année m'inspirent ?"
 weight = 2
 +++
+
+Ces statistiques incluent mes {{% include "/content/common/poem_count_en.md" %}} poèmes en anglais.
+
 {{< chartjs id="poemDayRadar" width="75%" jsFile="../poems-day-radar.js" />}}
 
 Je me suis aussi demandée si nombreux étaient les "jours blancs".
