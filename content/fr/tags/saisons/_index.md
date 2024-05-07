@@ -10,3 +10,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Hiver](/categories/hiver)
 
 {{< chartjs id="poemDay-saisonsRadar" width="75%" jsFile="../../charts/poems-day-saisons-radar.js" />}}
+
+{{< chartjs id="poems-saisonsBar" width="75%" jsFile="../../charts/poems-saisons-bar.js" />}}

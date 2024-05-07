@@ -13,3 +13,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Animaux](/categories/animaux)
 
 {{< chartjs id="poemDay-natureRadar" width="75%" jsFile="../../charts/poems-day-nature-radar.js" />}}
+
+{{< chartjs id="poems-natureBar" width="75%" jsFile="../../charts/poems-nature-bar.js" />}}

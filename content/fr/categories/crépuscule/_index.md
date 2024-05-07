@@ -9,3 +9,5 @@ Ce moment magique où le jour se change en nuit.
 Lire aussi les poèmes de la catégorie [Aube](/categories/aube).
 
 {{< chartjs id="poemDay-crepusculeRadar" width="75%" jsFile="../../charts/poems-day-crepuscule-radar.js" />}}
+
+{{< chartjs id="poems-crepusculeBar" width="75%" jsFile="../../charts/poems-crepuscule-bar.js" />}}

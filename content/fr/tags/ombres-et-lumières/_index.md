@@ -11,3 +11,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Nuit](/categories/nuit)
 
 {{< chartjs id="poemDay-ombres_et_lumieresRadar" width="75%" jsFile="../../charts/poems-day-ombres_et_lumieres-radar.js" />}}
+
+{{< chartjs id="poems-ombres_et_lumieresBar" width="75%" jsFile="../../charts/poems-ombres_et_lumieres-bar.js" />}}

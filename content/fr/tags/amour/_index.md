@@ -13,3 +13,5 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Aimé (amant)](/categories/aime-amant)
 
 {{< chartjs id="poemDay-amourRadar" width="75%" jsFile="../../charts/poems-day-amour-radar.js" />}}
+
+{{< chartjs id="poems-amourBar" width="75%" jsFile="../../charts/poems-amour-bar.js" />}}

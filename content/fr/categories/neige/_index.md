@@ -6,3 +6,5 @@ Au final, je n'avais pas écrit tant de fois que cela sur ce sujet unique, donc 
 {{< figure src="/images/neige.jpg" title="Janvier 2024" >}}
 
 {{< chartjs id="poemDay-neigeRadar" width="75%" jsFile="../../charts/poems-day-neige-radar.js" />}}
+
+{{< chartjs id="poems-neigeBar" width="75%" jsFile="../../charts/poems-neige-bar.js" />}}
