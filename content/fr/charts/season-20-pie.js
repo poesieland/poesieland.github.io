@@ -4,7 +4,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Ville', value: 1, color: 'rgba(195, 111, 9, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 2, color: 'rgba(234, 191, 250, 1)' },
-    { label: 'Portraits', value: 2, color: 'rgba(179, 51, 233, 1)' },
+    { label: 'Portraits', value: 3, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 3, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },

@@ -9,7 +9,7 @@ import { addBarChart } from './add-chart.js'
     { label: '10', value: 57 },
     { label: '12', value: 372 },
     { label: '14', value: 48 },
-    { label: '16', value: 222 },
+    { label: '16', value: 223 },
     { label: '18', value: 9 },
     { label: '20', value: 62 },
     { label: '22', value: 2 },
