@@ -31,9 +31,13 @@ Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidemen
 
 Je suis tombée sur un site [très détaillé et agréable à lire sur la versification dans sa richesse](https://www.etudes-litteraires.com/versification/groupements-vers-et-formes-fixes). Et me suis alors rendue compte que j'avais à l'époque écrit un poème [en sizains sur trois rimes](../seasons/15_quinzieme_saison/acqua_viva_fra_le_mani).
 
-Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème.
+Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème. Bizarrement je constate qu'imposer la première lettre de chaque vers libère paradoxalement le rythme de la phrase, la rime n'est plus toujours une pause de lecture.
 
-Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](../seasons/16_seizieme_saison/variations/).
+[Vers mes acrostiches](/tags/acrostiche)
+
+[Vers mes acrostiches "doubles"](/tags/doubleacrostiche)
+
+Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](../seasons/16_seizieme_saison/variations/). Cependant, nous n'avions pas le talent de celles et ceux qui ont su écrire des [holorimes](https://fr.wikipedia.org/wiki/Vers_holorimes).
 
 Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation pour garantir une certaine originalité pour le sonnet ou soigneusement sélectionner et explorer le  double thème pour le pantoun.
 
@@ -73,4 +77,4 @@ Composer en braille m'a mieux permis de maîtriser le flux poétique de façon f
 
 En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
 
-Dernière mise à jour : 16.04.2024
+Dernière mise à jour : 19.05.2024
