@@ -11,7 +11,7 @@ tags:
     - "2024"
     - philosophie
 location: []
-info: Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
+info: Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
 pictures: []
 type: default
 acrostiche: ""
@@ -53,8 +53,8 @@ Dans cet espace quel usage
 
 Epanouirait son concept ?
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il{{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"}]} -->
 {{% notice style="primary" %}}
-Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
+Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
 {{% /notice %}}
 <!-- FM:Snippet:End -->

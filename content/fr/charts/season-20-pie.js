@@ -10,7 +10,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Révolte', value: 1, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },
-    { label: 'Jardin et paysage', value: 1, color: 'rgba(74, 214, 109, 1)' },
+    { label: 'Jardin et paysage', value: 2, color: 'rgba(74, 214, 109, 1)' },
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(63, 193, 192, 1)' },
   ];

@@ -1,5 +1,7 @@
 **Derniers ajouts:**
 
+[Jardin imaginaire, écrit le 20.05.2024](./seasons/20_vingtieme_saison/jardin_imaginaire/)
+
 [L'église désacralisée, écrit le 17.05.2024](./seasons/20_vingtieme_saison/l_eglise_desacralisee/)
 
 [Les hommes de demain, écrit le 15.05.2024](./seasons/20_vingtieme_saison/les_hommes_de_demain/)
@@ -8,4 +10,3 @@
 
 [Le soir, trésor, écrit le 13.05.2024](./seasons/20_vingtieme_saison/le_soir_tresor/)
 
-[La mine ou la mer, écrit le 09.05.2024](./seasons/20_vingtieme_saison/la_mine_ou_la_mer/)
