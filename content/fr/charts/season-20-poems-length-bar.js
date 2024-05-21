@@ -10,7 +10,7 @@ import { addBarChart } from './add-chart.js'
 ],
 [
     { label: '', value: 0 },
-    { label: 'Sonnets', value: 1 },
+    { label: 'Sonnets', value: 2 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },

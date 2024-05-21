@@ -24,7 +24,7 @@ import { addBarChart } from './add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: 'Sonnets', value: 17 },
+    { label: 'Sonnets', value: 18 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
