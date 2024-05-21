@@ -31,7 +31,7 @@ Comme Colette, douce et rude : un vrai jardin
 
 A l'églantine folle, au jupon des pivoines
 
-Mêle au soleil parfums, équilibristes idoines,
+Mêle au soleil parfums, équilibres idoines,
 
 Calme juste troublé du rire d'un gredin.
 
