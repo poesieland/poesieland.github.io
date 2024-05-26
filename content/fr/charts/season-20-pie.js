@@ -1,6 +1,7 @@
 import { addPieChart } from './add-chart.js'
 (async function () {
   const data = [
+    { label: 'Amitié', value: 1, color: 'rgba(255, 229, 236, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(195, 111, 9, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(166, 60, 6, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
@@ -12,6 +13,7 @@ import { addPieChart } from './add-chart.js'
     { label: 'Révolte', value: 1, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(146, 230, 167, 1)' },
     { label: 'Jardin et paysage', value: 2, color: 'rgba(74, 214, 109, 1)' },
+    { label: 'Eau douce', value: 1, color: 'rgba(37, 162, 68, 1)' },
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
   ];
