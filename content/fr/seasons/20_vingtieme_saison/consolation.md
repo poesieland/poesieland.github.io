@@ -40,6 +40,6 @@ Sur ton chemin brisé
 
 Si bohème
 
-J'ébouis, irisé,
+J'éblouis, irisé,
 
 D'un poème !
