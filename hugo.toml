@@ -192,3 +192,8 @@ page = ["HTML", "PRINT"]
             name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
             url = "https://www.linkedin.com/in/barbara-post-1b323714"
             weight = 80
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

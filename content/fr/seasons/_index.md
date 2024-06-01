@@ -1,6 +1,6 @@
 +++
 title = "Saisons"
-weight = 2
+weight = 3
 +++
 Les Saisons regroupent mon oeuvre complète de façon pseudo-linéaire, chacune comporte 50 poèmes. Jusqu'à la Saison 15 chaque ensemble était cependant réarrangé pour former plus de cohérence thématique qu'en lecture purement linéaire. Puis il fallait trouver un titre.
 

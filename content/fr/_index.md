@@ -7,9 +7,7 @@ Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne r
 
 ## Humeur du moment
 
-De plus en plus je ressens que l'artiste a un important rôle de témoignage par rapport à son époque et ce qu'il en ressent, le poète ou l'écrivain, le photographe.
-
-Dans notre monde d'information instantanée, l'éco-anxiété semble préoccuper la génération plus jeune que la mienne. Je me sens obligée moralement, comme par devoir de mémoire anticipé, de placer quelques références à certains changements actuels, soit par description, soit par comparaison avec ma jeunesse des années 1980. Mais j'ai été surprise d'avoir déjà ressenti avec acuité une [canicule passée](./seasons/17_dix_septieme_saison/tribut) en 2005.
+{{% include "./includes/last_thought.md" true %}}
 
 ## A lire et relire
 
@@ -101,4 +99,4 @@ Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" : 19.05.2024
+Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" ou de l'humeur du moment : 19.05.2024

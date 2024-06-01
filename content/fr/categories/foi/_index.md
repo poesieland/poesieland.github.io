@@ -1,7 +1,9 @@
 +++
 title = "Foi"
 +++
-Sur la base d'une fascination par éducation pour certains éléments chrétiens qui ont du sens en leur symbolique, une recherche spirituelle.
+La religion est un cadre codifié et social, généralement imposé à la naissance, et qui sert de base à notre recherche spirituelle individuelle.
+
+La foi est plus générale et touche à ce qui fait notre humanité : un être pensant et social.
 
 {{< chartjs id="poemDay-foiRadar" width="75%" jsFile="../../charts/poems-day-foi-radar.js" />}}
 
