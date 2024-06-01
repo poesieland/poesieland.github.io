@@ -20,7 +20,7 @@ import { addBarChart } from './add-chart.js'
     { label: 'Dix-septième Saison : Traversées (2004 - 2023)', value: 18, color: 'rgba(255, 149, 5, 0.5)' },
     { label: 'Dix-huitième Saison : Retour aux sources (2023 - 2024)', value: 20, color: 'rgba(255, 149, 5, 0.5)' },
     { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 10, color: 'rgba(255, 149, 5, 0.5)' },
-    { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 0, color: 'rgba(255, 149, 5, 0.5)' },
+    { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 2, color: 'rgba(255, 149, 5, 0.5)' },
   ];
     addBarChart('poems-saisonsBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();
