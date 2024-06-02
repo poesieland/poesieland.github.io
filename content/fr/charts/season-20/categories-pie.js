@@ -17,7 +17,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 2, color: 'rgba(26, 116, 49, 1)' },
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
-    { label: 'Eté', value: 1, color: 'rgba(255, 149, 5, 1)' },
+    { label: 'Mouvement', value: 1, color: 'rgba(4, 166, 194, 1)' },
+    { label: 'Eté', value: 2, color: 'rgba(255, 149, 5, 1)' },
     { label: 'Automne', value: 1, color: 'rgba(226, 113, 29, 1)' },
   ];
   addPieChart('season20Pie', [data], { plugins: { title: { display: true, text: 'Vingtième Saison : Le temps qui nous reste - Depuis avril 2024' } } });
