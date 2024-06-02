@@ -3,6 +3,6 @@ title = "Portraits"
 +++
 Ces poèmes sont particulièrement centrés sur le sujet qui a retenu mon attention.
 
-{{< chartjs id="poemDay-portraitsRadar" width="75%" jsFile="../../charts/poems-day-portraits-radar.js" />}}
+{{< chartjs id="poemDay-portraitsRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-portraits-radar.js" />}}
 
-{{< chartjs id="poems-portraitsBar" width="75%" jsFile="../../charts/poems-portraits-bar.js" />}}
+{{< chartjs id="poems-portraitsBar" width="75%" jsFile="../../charts/taxonomy/poems-portraits-bar.js" />}}

@@ -14,11 +14,11 @@ D'octobre 2004 à octobre 2023
 {{% include "./includes/season_17.md" true %}}
 ---
 Catégories
-{{< chartjs id="season17Pie" width="75%" jsFile="../../charts/season-17-pie.js" />}}
+{{< chartjs id="season17Pie" width="75%" jsFile="../../charts/season-17/categories-pie.js" />}}
 Longueur des vers
-{{< chartjs id="season17VerseLengthBar" width="75%" jsFile="../../charts/season-17-verse-length-bar.js" />}}
+{{< chartjs id="season17VerseLengthBar" width="75%" jsFile="../../charts/season-17/poems-verse-length-bar.js" />}}
 Longueur des poèmes
-{{< chartjs id="season17PoemLengthBar" width="75%" jsFile="../../charts/season-17-poems-length-bar.js" />}}
-{{< chartjs id="season17PoemLengthPie" width="75%" jsFile="../../charts/season-17-poems-length-pie.js" />}}
+{{< chartjs id="season17PoemLengthBar" width="75%" jsFile="../../charts/season-17/poems-length-bar.js" />}}
+{{< chartjs id="season17PoemLengthPie" width="75%" jsFile="../../charts/season-17/poems-length-pie.js" />}}
 Intervalle
-{{< chartjs id="season17PoemIntervalBar" width="75%" jsFile="../../charts/season-17-poem-interval-bar.js" />}}
+{{< chartjs id="season17PoemIntervalBar" width="75%" jsFile="../../charts/season-17/poem-interval-bar.js" />}}

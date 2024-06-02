@@ -14,13 +14,14 @@ De 1994 à septembre 1996
 ---
 {{% children  %}}
 
+{{% include "./includes/season_1.md" true %}}
 ---
 Catégories
-{{< chartjs id="season1Pie" width="75%" jsFile="../../charts/season-1-pie.js" />}}
+{{< chartjs id="season1Pie" width="75%" jsFile="../../charts/season-1/categories-pie.js" />}}
 Longueur des vers
-{{< chartjs id="season1VerseLengthBar" width="75%" jsFile="../../charts/season-1-verse-length-bar.js" />}}
+{{< chartjs id="season1VerseLengthBar" width="75%" jsFile="../../charts/season-1/poems-verse-length-bar.js" />}}
 Longueur des poèmes
-{{< chartjs id="season1PoemLengthBar" width="75%" jsFile="../../charts/season-1-poems-length-bar.js" />}}
-{{< chartjs id="season1PoemLengthPie" width="75%" jsFile="../../charts/season-1-poems-length-pie.js" />}}
+{{< chartjs id="season1PoemLengthBar" width="75%" jsFile="../../charts/season-1/poems-length-bar.js" />}}
+{{< chartjs id="season1PoemLengthPie" width="75%" jsFile="../../charts/season-1/poems-length-pie.js" />}}
 Intervalle
-{{< chartjs id="season1PoemIntervalBar" width="75%" jsFile="../../charts/season-1-poem-interval-bar.js" />}}
+{{< chartjs id="season1PoemIntervalBar" width="75%" jsFile="../../charts/season-1/poem-interval-bar.js" />}}

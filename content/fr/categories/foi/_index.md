@@ -5,6 +5,6 @@ La religion est un cadre codifié et social, généralement imposé à la naissa
 
 La foi est plus générale et touche à ce qui fait notre humanité : un être pensant et social.
 
-{{< chartjs id="poemDay-foiRadar" width="75%" jsFile="../../charts/poems-day-foi-radar.js" />}}
+{{< chartjs id="poemDay-foiRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-foi-radar.js" />}}
 
-{{< chartjs id="poems-foiBar" width="75%" jsFile="../../charts/poems-foi-bar.js" />}}
+{{< chartjs id="poems-foiBar" width="75%" jsFile="../../charts/taxonomy/poems-foi-bar.js" />}}

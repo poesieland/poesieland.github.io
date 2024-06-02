@@ -3,7 +3,7 @@ title = "Longueur des vers"
 weight = 4
 +++
 
-{{< chartjs id="poemVerseLengthBar" width="100%" jsFile="../poems-verse-length-bar.js" />}}
+{{< chartjs id="poemVerseLengthBar" width="100%" jsFile="../general/poems-verse-length-bar.js" />}}
 
 En ce qui concerne les extrêmes, qui sont de surprenantes expérimentations :
 
@@ -25,4 +25,4 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 - [L'automne oublié (14e saison)](../seasons/14_quatorzieme_saison/l_automne_oublie)
 - [Nos nuits (15e saison)](../seasons/15_quinzieme_saison/nos_nuits)
 
-{{< chartjs id="verseLengthByPoemLength" width="100%" jsFile="../verse-length-by-poem-length.js" />}}
+{{< chartjs id="verseLengthByPoemLength" width="100%" jsFile="../general/verse-length-by-poem-length.js" />}}

@@ -9,6 +9,6 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Automne](/categories/automne)
 - [Hiver](/categories/hiver)
 
-{{< chartjs id="poemDay-saisonsRadar" width="75%" jsFile="../../charts/poems-day-saisons-radar.js" />}}
+{{< chartjs id="poemDay-saisonsRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-saisons-radar.js" />}}
 
-{{< chartjs id="poems-saisonsBar" width="75%" jsFile="../../charts/poems-saisons-bar.js" />}}
+{{< chartjs id="poems-saisonsBar" width="75%" jsFile="../../charts/taxonomy/poems-saisons-bar.js" />}}

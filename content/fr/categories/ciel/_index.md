@@ -6,6 +6,6 @@ Le ciel, espace fascinant où l'on peut trouver son astre purement diurne mais a
 
 [La lune](../lune), quant à elle, dispose de sa propre catégorie.
 
-{{< chartjs id="poemDay-cielRadar" width="75%" jsFile="../../charts/poems-day-ciel-radar.js" />}}
+{{< chartjs id="poemDay-cielRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-ciel-radar.js" />}}
 
-{{< chartjs id="poems-cielBar" width="75%" jsFile="../../charts/poems-ciel-bar.js" />}}
+{{< chartjs id="poems-cielBar" width="75%" jsFile="../../charts/taxonomy/poems-ciel-bar.js" />}}

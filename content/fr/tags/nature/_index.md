@@ -12,6 +12,6 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Mer](/categories/mer)
 - [Animaux](/categories/animaux)
 
-{{< chartjs id="poemDay-natureRadar" width="75%" jsFile="../../charts/poems-day-nature-radar.js" />}}
+{{< chartjs id="poemDay-natureRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-nature-radar.js" />}}
 
-{{< chartjs id="poems-natureBar" width="75%" jsFile="../../charts/poems-nature-bar.js" />}}
+{{< chartjs id="poems-natureBar" width="75%" jsFile="../../charts/taxonomy/poems-nature-bar.js" />}}

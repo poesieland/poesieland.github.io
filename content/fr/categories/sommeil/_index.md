@@ -2,6 +2,6 @@
 title = "Sommeil"
 +++
 
-{{< chartjs id="poemDay-sommeilRadar" width="75%" jsFile="../../charts/poems-day-sommeil-radar.js" />}}
+{{< chartjs id="poemDay-sommeilRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-sommeil-radar.js" />}}
 
-{{< chartjs id="poems-sommeilBar" width="75%" jsFile="../../charts/poems-sommeil-bar.js" />}}
+{{< chartjs id="poems-sommeilBar" width="75%" jsFile="../../charts/taxonomy/poems-sommeil-bar.js" />}}
