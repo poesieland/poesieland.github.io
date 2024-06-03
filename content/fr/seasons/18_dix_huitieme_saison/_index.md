@@ -14,6 +14,7 @@ D'octobre 2023 à janvier 2024
 {{% children  %}}
 
 {{% include "./includes/season_18.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season18Pie" width="75%" jsFile="../../charts/season-18/categories-pie.js" />}}

@@ -12,6 +12,7 @@ De juillet à septembre 1998
 {{% children  %}}
 
 {{% include "./includes/season_8.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season8Pie" width="75%" jsFile="../../charts/season-8/categories-pie.js" />}}

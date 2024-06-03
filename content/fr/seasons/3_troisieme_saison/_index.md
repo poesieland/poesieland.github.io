@@ -12,6 +12,7 @@ De janvier à mai 1997
 {{% children  %}}
 
 {{% include "./includes/season_3.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season3Pie" width="75%" jsFile="../../charts/season-3/categories-pie.js" />}}

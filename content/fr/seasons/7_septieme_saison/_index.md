@@ -12,6 +12,7 @@ Juin et juillet 1998
 {{% children  %}}
 
 {{% include "./includes/season_7.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season7Pie" width="75%" jsFile="../../charts/season-7/categories-pie.js" />}}

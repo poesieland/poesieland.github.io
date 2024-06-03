@@ -12,6 +12,7 @@ De janvier à mars 1999
 {{% children  %}}
 
 {{% include "./includes/season_10.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season10Pie" width="75%" jsFile="../../charts/season-10/categories-pie.js" />}}

@@ -10,6 +10,7 @@ Depuis avril 2024
 {{% children  %}}
 
 {{% include "./includes/season_20.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season20Pie" width="75%" jsFile="../../charts/season-20/categories-pie.js" />}}

@@ -12,6 +12,7 @@ De mars à juin 1998
 {{% children  %}}
 
 {{% include "./includes/season_6.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season6Pie" width="75%" jsFile="../../charts/season-6/categories-pie.js" />}}

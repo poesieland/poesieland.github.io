@@ -12,6 +12,7 @@ D'octobre 2004 à octobre 2023
 {{% children  %}}
 
 {{% include "./includes/season_17.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season17Pie" width="75%" jsFile="../../charts/season-17/categories-pie.js" />}}

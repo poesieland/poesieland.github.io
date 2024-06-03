@@ -12,6 +12,7 @@ De mai à juillet 1999
 {{% children  %}}
 
 {{% include "./includes/season_12.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season12Pie" width="75%" jsFile="../../charts/season-12/categories-pie.js" />}}

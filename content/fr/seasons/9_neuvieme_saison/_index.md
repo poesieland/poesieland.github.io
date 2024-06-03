@@ -12,6 +12,7 @@ De septembre à décembre 1998
 {{% children  %}}
 
 {{% include "./includes/season_9.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season9Pie" width="75%" jsFile="../../charts/season-9/categories-pie.js" />}}

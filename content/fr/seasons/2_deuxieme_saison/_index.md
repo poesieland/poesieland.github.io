@@ -12,6 +12,7 @@ De septembre à décembre 1996
 {{% children  %}}
 
 {{% include "./includes/season_2.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season2Pie" width="75%" jsFile="../../charts/season-2/categories-pie.js" />}}

@@ -12,6 +12,7 @@ De juillet à novembre 1999
 {{% children  %}}
 
 {{% include "./includes/season_13.md" true %}}
+
 ---
 Catégories
 {{< chartjs id="season13Pie" width="75%" jsFile="../../charts/season-13/categories-pie.js" />}}
