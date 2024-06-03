@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 1, color: 'rgba(255, 229, 236, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(195, 111, 9, 1)' },
-    { label: 'Crépuscule', value: 1, color: 'rgba(166, 60, 6, 1)' },
+    { label: 'Crépuscule', value: 2, color: 'rgba(166, 60, 6, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 3, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Foi', value: 2, color: 'rgba(203, 93, 241, 1)' },
@@ -18,7 +18,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Animaux', value: 1, color: 'rgba(30, 47, 35, 1)' },
     { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(4, 166, 194, 1)' },
-    { label: 'Eté', value: 2, color: 'rgba(255, 149, 5, 1)' },
+    { label: 'Eté', value: 3, color: 'rgba(255, 149, 5, 1)' },
     { label: 'Automne', value: 1, color: 'rgba(226, 113, 29, 1)' },
   ];
   addPieChart('season20Pie', [data], { plugins: { title: { display: true, text: 'Vingtième Saison : Le temps qui nous reste - Depuis avril 2024' } } });
