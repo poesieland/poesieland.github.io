@@ -1,6 +1,6 @@
 ---
 weight: 40
-title: Chant del'aube
+title: Chant de l'aube
 id: chant_de_l_aube_19
 date: 2024-04-06
 verseLength: 4

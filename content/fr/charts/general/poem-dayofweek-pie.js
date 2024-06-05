@@ -2,8 +2,8 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Lundi', value: 152, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
-    { label: 'Mardi', value: 140, color: 'rgba(72, 149, 239, 0.4)' },
-    { label: 'Mercredi', value: 148, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Mardi', value: 141, color: 'rgba(72, 149, 239, 0.4)' },
+    { label: 'Mercredi', value: 149, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Jeudi', value: 100, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: 'Vendredi', value: 126, color: 'rgba(72, 149, 239, 0.7)' },
     { label: 'Samedi', value: 151, color: 'rgba(72, 149, 239, 0.8)' },
