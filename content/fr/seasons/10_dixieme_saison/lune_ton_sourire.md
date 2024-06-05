@@ -3,12 +3,12 @@ title = "Lune, ton sourire"
 id = "lune_ton_sourire_10"
 date = 1999-01-31
 weight = 21
-categories = [ "Lune" ]
-tags = [ "ombres et lumières", "1999", "acrostiche" ]
-acrostiche = "Lune, ton sourire"
-LastModifierDisplayName = "Barbara Post"
-verseLength = -1
+categories = ["Lune"]
+tags = ["ombres et lumières", "1999", "acrostiche", "versVariable"]
 info = "Vers variable : 5, 8"
+acrostiche = "Lune, ton sourire"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Lune, ton sourire,
@@ -40,5 +40,7 @@ Roule en son tonnerre
 Entre les nuages, la Terre.
 
 {{% notice style="primary" %}}
+Vers variable : 5, 8
+
 Acrostiche : Lune, ton sourire
 {{% /notice %}}

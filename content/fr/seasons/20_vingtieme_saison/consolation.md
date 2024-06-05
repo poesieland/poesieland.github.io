@@ -1,23 +1,15 @@
----
-weight: 19
-title: Consolation
-id: consolation_20
-date: 2024-05-22
-verseLength: -1
-divider: ""
-categories:
-    - Amitié
-tags:
-    - "2024"
-    - amour
-location: []
-info: "Vers variable : 6, 3"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Consolation"
+id = "consolation_20"
+date = 2024-05-22
+weight = 19
+categories = ["Amitié"]
+tags = ["amour", "2024", "versVariable"]
+info = "Vers variable : 6, 3"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sur le lac morcelé
 
 D'une larme
@@ -43,3 +35,7 @@ Si bohème
 J'éblouis, irisé,
 
 D'un poème !
+
+{{% notice style="primary" %}}
+Vers variable : 6, 3
+{{% /notice %}}

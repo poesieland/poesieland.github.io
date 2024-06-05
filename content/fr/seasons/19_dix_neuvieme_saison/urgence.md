@@ -1,24 +1,15 @@
----
-weight: 25
-title: Urgence
-id: urgence_19
-date: 2024-03-23
-verseLength: -1
-divider: ""
-categories:
-    - Temps
-    - Révolte
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: "Vers variable : 5, 2"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Urgence"
+id = "urgence_19"
+date = 2024-03-23
+weight = 25
+categories = ["Temps", "Révolte"]
+tags = ["philosophie", "2024", "versVariable"]
+info = "Vers variable : 5, 2"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le temps qui nous reste
 
 Glacis
@@ -54,9 +45,6 @@ L'espoir reste en banque,
 
 Trop tard !
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 5, 2"}]} -->
 {{% notice style="primary" %}}
 Vers variable : 5, 2
 {{% /notice %}}
-<!-- FM:Snippet:End -->

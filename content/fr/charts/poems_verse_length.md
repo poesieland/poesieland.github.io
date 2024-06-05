@@ -25,4 +25,8 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 - [L'automne oublié (14e saison)](../seasons/14_quatorzieme_saison/l_automne_oublie)
 - [Nos nuits (15e saison)](../seasons/15_quinzieme_saison/nos_nuits)
 
+Et les vers de longueur variable...
+
+[Vers ces poèmes](/tags/versVariable)
+
 {{< chartjs id="verseLengthByPoemLength" width="100%" jsFile="../general/verse-length-by-poem-length.js" />}}

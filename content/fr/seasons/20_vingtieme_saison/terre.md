@@ -1,24 +1,15 @@
----
-weight: 4
-title: Terre
-id: terre_20
-date: 2024-04-29
-verseLength: -1
-divider: ""
-categories:
-    - Etre
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: "Vers variable : 2, 7"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Terre"
+id = "terre_20"
+date = 2024-04-29
+weight = 4
+categories = ["Etre", "Espoir"]
+tags = ["philosophie", "2024", "versVariable"]
+info = "Vers variable : 2, 7"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
++++
+
 La Terre
 
 Egrène son chapelet,
@@ -72,8 +63,6 @@ Coupelle
 
 D'un sacrifice vainqueur.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 2, 7"}]} -->
 {{% notice style="primary" %}}
 Vers variable : 2, 7
 {{% /notice %}}
-<!-- FM:Snippet:End -->

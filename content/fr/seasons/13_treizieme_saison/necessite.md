@@ -3,12 +3,12 @@ title = "Nécessité"
 id = "necessite_13"
 date = 1999-09-06
 weight = 49
-categories = [ "Création" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
-info = 'Vers variable : 8, 6. "Il y a tant de temps" en italien.'
+categories = ["Création"]
+tags = ["philosophie", "1999", "acrostiche", "versVariable"]
+info = "Vers variable : 8, 6. \"Il y a tant de temps\" en italien."
 acrostiche = "Quanto tempo è"
-LastModifierDisplayName = "Barbara Post"
 verseLength = -1
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand je ne saurai plus si vivre
@@ -38,7 +38,7 @@ Ou sans plus goût chérir
 Erreurs venant de l'incréable.
 
 {{% notice style="primary" %}}
-\"Il y a tant de temps\" en italien.
+Vers variable : 8, 6. \"Il y a tant de temps\" en italien.
 
 Acrostiche : Quanto tempo è
 {{% /notice %}}

@@ -1,26 +1,15 @@
----
-weight: 22
-title: Le ciel est gris
-id: le_ciel_est_gris_20
-date: 2024-05-28
-verseLength: -1
-divider: ""
-categories:
-    - Ciel
-    - Eau douce
-    - Révolte
-tags:
-    - "2024"
-    - nature
-    - philosophie
-location: []
-info: "Vers variable : 8, 6"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le ciel est gris"
+id = "le_ciel_est_gris_20"
+date = 2024-05-28
+weight = 22
+categories = ["Ciel", "Eau douce", "Révolte"]
+tags = ["nature", "philosophie", "2024", "versVariable"]
+info = "Vers variable : 8, 6"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le ciel est gris débilitant
 
 Monochrome et morose,
@@ -47,9 +36,6 @@ Perdra t-on le fruit et l'épi ?
 
 Et danse la limace !
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 8, 6"}]} -->
 {{% notice style="primary" %}}
 Vers variable : 8, 6
 {{% /notice %}}
-<!-- FM:Snippet:End -->
