@@ -3,7 +3,9 @@ title = "Foi"
 +++
 La religion est un cadre codifié et social, généralement imposé à la naissance, et qui sert de base à notre recherche spirituelle individuelle.
 
-La foi est plus générale et touche à ce qui fait notre humanité : un être pensant et social.
+La foi est le plus souvent d'origine religieuse mais se révèle plus générale et se distingue de l'espoir par son irrationalité.
+
+[Poèmes de la catégorie espoir](/categories/espoir)
 
 {{< chartjs id="poemDay-foiRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-foi-radar.js" />}}
 

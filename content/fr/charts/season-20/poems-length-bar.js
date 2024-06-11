@@ -3,9 +3,9 @@ import { addBarChart } from '../add-chart.js'
   const data = [
 [
     { label: '8', value: 2 },
-    { label: '12', value: 16 },
+    { label: '12', value: 21 },
     { label: '14', value: 0 },
-    { label: '16', value: 5 },
+    { label: '16', value: 6 },
     { label: '20', value: 2 },
     { label: '24', value: 1 },
 ],
