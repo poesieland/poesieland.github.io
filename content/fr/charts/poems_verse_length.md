@@ -5,11 +5,12 @@ weight = 4
 
 {{< chartjs id="poemVerseLengthBar" width="100%" jsFile="../general/poems-verse-length-bar.js" />}}
 
-En ce qui concerne les extrêmes, qui sont de surprenantes expérimentations :
+En ce qui concerne les extrêmes, qui sont au départ de surprenantes expérimentations :
 
 Les poèmes en vers de 2 pieds :
 - [Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
 - [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
+- [Légèreté (20e saison)](../seasons/20_vingtieme_saison/legerete)
 
 Les poèmes en vers de 3 pieds :
 
