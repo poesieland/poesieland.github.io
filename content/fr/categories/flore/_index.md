@@ -1,7 +1,7 @@
 +++
 title = "Flore"
 +++
-{{< figure src="/images/flore.jpg" title="Août 2023" >}}
+{{< figure src="/images/flore.jpg" title="Juin 2024" >}}
 
 Arbres, plantes, fleurs. Indispensables.
 
