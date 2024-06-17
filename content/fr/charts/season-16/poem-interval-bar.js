@@ -15,6 +15,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '12j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '14j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '16j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: '17j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '21j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '25j', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '26j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },

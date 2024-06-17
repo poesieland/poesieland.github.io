@@ -1,23 +1,14 @@
----
-weight: 12
-title: La mine ou la mer
-id: la_mine_ou_la_mer_20
-date: 2024-05-09
-verseLength: 5
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "La mine ou la mer"
+id = "la_mine_ou_la_mer_20"
+date = 2024-05-09
+weight = 11
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Là gronde la mine,
 
 Loin gronde la mer,

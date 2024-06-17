@@ -1,27 +1,16 @@
----
-weight: 18
-title: Chorale
-id: chorale_20
-date: 2024-05-21
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-    - Musique et chant
-tags:
-    - "2024"
-    - attitudes
-    - philosophie
-    - sonnet
-    - acrostiche
-location: []
-info: ""
-pictures: []
-type: sonnet
-acrostiche: Sauvée à nouveau
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Chorale"
+id = "chorale_20"
+date = 2024-05-21
+weight = 17
+categories = ["Foi", "Musique et chant"]
+tags = ["philosophie", "attitudes", "2024", "acrostiche", "sonnet"]
+type = "sonnet"
+acrostiche = "auvée à nouvea"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Si ma foi se résume
 
 Aux prières par coeur
@@ -53,9 +42,6 @@ Aspiré, s'avalise :
 
 Une chorale, élan !
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : sauvée à nouveau"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : sauvée à nouveau
+Acrostiche : auvée à nouvea
 {{% /notice %}}
-<!-- FM:Snippet:End -->

@@ -1,23 +1,14 @@
----
-weight: 27
-title: L'ordre des choses
-id: l_ordre_des_choses_20
-date: 2024-06-04
-verseLength: 6
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "L'ordre des choses"
+id = "l_ordre_des_choses_20"
+date = 2024-06-04
+weight = 26
+categories = ["Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Il se pourrait qu'il pleuve
 
 Sur mes quartiers gais,

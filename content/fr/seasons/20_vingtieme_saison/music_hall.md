@@ -1,24 +1,14 @@
----
-weight: 34
-title: Music-hall
-id: music_hall_20
-date: 2024-06-11
-verseLength: 5
-divider: ""
-categories:
-    - Musique et chant
-    - Mouvement
-tags:
-    - "2024"
-    - attitudes
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Music-hall"
+id = "music_hall_20"
+date = 2024-06-11
+weight = 33
+categories = ["Musique et chant", "Mouvement"]
+tags = ["attitudes", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Chante, chante, chante
 
 Bonheur d'exister,

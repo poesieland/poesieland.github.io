@@ -1,23 +1,14 @@
----
-weight: 49
-title: Mère et fille
-id: mere_et_fille_19
-date: 2024-04-22
-verseLength: 6
-divider: ""
-categories:
-    - Amitié
-tags:
-    - "2024"
-    - amour
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Mère et fille"
+id = "mere_et_fille_19"
+date = 2024-04-22
+weight = 48
+categories = ["Amitié"]
+tags = ["amour", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Dans mon coeur une étoile
 
 Est comme ma maman,

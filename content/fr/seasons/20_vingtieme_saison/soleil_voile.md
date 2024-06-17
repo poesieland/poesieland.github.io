@@ -1,23 +1,14 @@
----
-weight: 35
-title: Soleil voilé
-id: soleil_voile_20
-date: 2024-06-13
-verseLength: 5
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Soleil voilé"
+id = "soleil_voile_20"
+date = 2024-06-13
+weight = 34
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Un soleil voilé
 
 Plane quand je passe

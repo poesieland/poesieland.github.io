@@ -1,23 +1,14 @@
----
-weight: 29
-title: Fin des temps
-id: fin_des_temps_20
-date: 2024-06-06
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Fin des temps"
+id = "fin_des_temps_20"
+date = 2024-06-06
+weight = 28
+categories = ["Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Vois-tu planète bleue ici ?
 
 C'est la Terre en l'immense espace,

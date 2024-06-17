@@ -1,23 +1,14 @@
----
-weight: 4
-title: Ton coeur
-id: ton_coeur_19
-date: 2024-01-24
-verseLength: 8
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Ton coeur"
+id = "ton_coeur_19"
+date = 2024-01-24
+weight = 4
+categories = ["Etre"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 J'écoute un coeur qui bat tout bas,
 
 Chante sa joie aux yeux du monde,

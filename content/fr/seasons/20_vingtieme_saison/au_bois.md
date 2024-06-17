@@ -1,23 +1,15 @@
----
-weight: 21
-title: Au bois
-id: au_bois_20
-date: 2024-05-27
-verseLength: 12
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-location: []
-info: Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Au bois"
+id = "au_bois_20"
+date = 2024-05-27
+weight = 20
+categories = ["Automne"]
+tags = ["saisons", "2024"]
+info = "Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Un drôle jour de mai je songeais à l'automne
 
 Quand bruisse au long des bois le coeur tout chamarré,
@@ -44,8 +36,6 @@ Pour confondre mes pas entre les basses branches,
 
 Un esprit très ancien m'a prise en ses crochets.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)"}]} -->
 {{% notice style="primary" %}}
 Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

@@ -1,23 +1,15 @@
----
-weight: 43
-title: Songe
-id: songe_19
-date: 2024-04-12
-verseLength: 12
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir)
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Songe"
+id = "songe_19"
+date = 2024-04-12
+weight = 42
+categories = ["Etre"]
+tags = ["philosophie", "2024"]
+info = "Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir)"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Dans le bleu plus profond de la nuit faite mer
 
 Tu veillais une étoile à la pulsante trace,
@@ -44,8 +36,6 @@ Gloire puis déchéance au suprême animal !
 
 Tu songeais dans le bleu de la nuit qui s'abime.
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"confidence_du_soir"}]} -->
 {{% notice style="primary" %}}
-Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir){{% /notice %}}
-<!-- FM:Snippet:End -->
+Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir)
+{{% /notice %}}

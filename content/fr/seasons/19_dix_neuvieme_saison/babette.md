@@ -1,25 +1,14 @@
----
-weight: 47
-title: Babette
-id: babette_19
-date: 2024-04-20
-verseLength: 7
-divider: ""
-categories:
-    - Animaux
-    - Révolte
-tags:
-    - "2024"
-    - philosophie
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Babette"
+id = "babette_19"
+date = 2024-04-20
+weight = 46
+categories = ["Animaux", "Révolte"]
+tags = ["nature", "philosophie", "2024"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post"
++++
+
 La génisse pastorale
 
 Cherche les prés les plus verts,

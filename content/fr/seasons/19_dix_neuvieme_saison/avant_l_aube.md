@@ -1,23 +1,14 @@
----
-weight: 12
-title: Avant l'aube
-id: avant_l_aube_19
-date: 2024-02-20
-verseLength: 8
-divider: ""
-categories:
-    - Aube
-tags:
-    - "2024"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Avant l'aube"
+id = "avant_l_aube_19"
+date = 2024-02-20
+weight = 12
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 L'éclat de la lune a pali
 
 Et le jour a dit sa prière,

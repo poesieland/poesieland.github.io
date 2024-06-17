@@ -1,24 +1,14 @@
----
-weight: 8
-title: Monologue de la nature
-id: monologue_de_la_nature_20
-date: 2024-05-01
-verseLength: 5
-divider: ""
-categories:
-    - Espoir
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Monologue de la nature"
+id = "monologue_de_la_nature_20"
+date = 2024-05-01
+weight = 7
+categories = ["Espoir", "Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Coupe et je repousse,
 
 Brûle et je verdis !

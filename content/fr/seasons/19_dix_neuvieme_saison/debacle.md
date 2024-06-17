@@ -1,25 +1,14 @@
----
-weight: 39
-title: Débâcle
-id: debacle_19
-date: 2024-04-05
-verseLength: 8
-divider: ""
-categories:
-    - Révolte
-    - Printemps
-tags:
-    - "2024"
-    - saisons
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Débâcle"
+id = "debacle_19"
+date = 2024-04-05
+weight = 38
+categories = ["Révolte", "Printemps"]
+tags = ["philosophie", "saisons", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Tu ne m'as pas laissé le temps
 
 Avant de faire ta valise,

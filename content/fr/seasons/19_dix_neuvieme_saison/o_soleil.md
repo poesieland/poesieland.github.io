@@ -1,25 +1,14 @@
----
-weight: 26
-title: Ô Soleil
-id: o_soleil_19
-date: 2024-03-23
-verseLength: 5
-divider: ""
-categories:
-    - Ciel
-    - Foi
-tags:
-    - "2024"
-    - nature
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Ô Soleil"
+id = "o_soleil_19"
+date = 2024-03-23
+weight = 26
+categories = ["Ciel", "Foi"]
+tags = ["nature", "philosophie", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Je te salue, astre,
 
 Ton absence castre

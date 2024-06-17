@@ -1,23 +1,15 @@
----
-weight: 36
-title: Renaissance
-id: renaissance_20
-date: 2024-06-13
-verseLength: 9
-divider: ""
-categories:
-    - Aube
-tags:
-    - "2024"
-    - ombres et lumières
-location: []
-info: Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Renaissance"
+id = "renaissance_20"
+date = 2024-06-13
+weight = 35
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024"]
+info = "Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)"
+verseLength = 9
+LastModifierDisplayName = "Barbara Post"
++++
+
 Dans le jour ou la nuit qui se lève
 
 Dans mon coeur les oiseaux font leur nid,
@@ -44,8 +36,6 @@ Discours faux qui ment comme respire :
 
 Je m'envole à l'orbe du matin.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)"}]} -->
 {{% notice style="primary" %}}
 Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

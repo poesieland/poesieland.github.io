@@ -1,23 +1,14 @@
----
-weight: 2
-title: Destination bonheur
-id: destination_bonheur_19
-date: 2024-01-21
-verseLength: 6
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Destination bonheur"
+id = "destination_bonheur_19"
+date = 2024-01-21
+weight = 2
+categories = ["Espoir"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Ne dites pas mourir
 
 Mais monter sur la barque

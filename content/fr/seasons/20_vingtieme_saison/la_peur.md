@@ -1,23 +1,14 @@
----
-weight: 30
-title: La peur
-id: la_peur_20
-date: 2024-06-07
-verseLength: 6
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "La peur"
+id = "la_peur_20"
+date = 2024-06-07
+weight = 29
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 La peur qui tétanise,
 
 L'effroi coupe-jarret,

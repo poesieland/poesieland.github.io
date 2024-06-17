@@ -1,31 +1,15 @@
----
-weight: 13
-title: Je te promets les quatre saisons
-id: je_te_promets_les_quatre_saisons_19
-date: 2024-02-25
-verseLength: 12
-divider: ""
-categories:
-    - Automne
-    - Eté
-    - Hiver
-    - Printemps
-    - Romantisme
-tags:
-    - "2024"
-    - amour
-    - saisons
-location: []
-info: |-
-    [Cette chanson](https://fr.wikipedia.org/wiki/Je_te_promets_(chanson_de_Johnny_Hallyday)) dans ma tête ce matin... Deux grands artistes qui me sont chers.
++++
+title = "Je te promets les quatre saisons"
+id = "je_te_promets_les_quatre_saisons_19"
+date = 2024-02-25
+weight = 13
+categories = ["Automne", "Eté", "Hiver", "Printemps", "Romantisme"]
+tags = ["saisons", "amour", "2024"]
+info = "|-"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
 
-    Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons).
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
 Je te promets la vie à la vie à la mort,
 
 Un éternel printemps quand gonfle flore et sève,
@@ -61,10 +45,6 @@ Mon éternel amour fera briller tes yeux :
 
 Je te promets l'espoir, demain n'a pas de terme.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"[Cette chanson](https://fr.wikipedia.org/wiki/Je_te_promets_(chanson_de_Johnny_Hallyday)) dans ma tête ce matin..."}]} -->
 {{% notice style="primary" %}}
-[Cette chanson](https://fr.wikipedia.org/wiki/Je_te_promets_(chanson_de_Johnny_Hallyday)) dans ma tête ce matin... Deux grands artistes qui me sont chers.
-
-Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons).
+|-
 {{% /notice %}}
-<!-- FM:Snippet:End -->

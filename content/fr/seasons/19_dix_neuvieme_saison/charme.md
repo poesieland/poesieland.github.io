@@ -1,24 +1,15 @@
----
-weight: 7
-title: Charme
-id: charme_19
-date: 2024-02-07
-verseLength: 8
-divider: ""
-categories:
-    - Femme
-    - Romantisme
-tags:
-    - "2024"
-    - amour
-location: []
-info: Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Charme"
+id = "charme_19"
+date = 2024-02-07
+weight = 7
+categories = ["Femme", "Romantisme"]
+tags = ["amour", "2024"]
+info = "Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Juste une valse, gente dame,
 
 Une danse pour vos beaux yeux,
@@ -54,8 +45,6 @@ Ivres d'accords, des corps, de danse,
 
 Je vous souris, je vais m'asseoir.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée"}]} -->
 {{% notice style="primary" %}}
 Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
 {{% /notice %}}
-<!-- FM:Snippet:End -->

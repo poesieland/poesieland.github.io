@@ -1,25 +1,14 @@
----
-weight: 15
-title: L'arbre revit
-id: l_arbre_revit_19
-date: 2024-03-02
-verseLength: 8
-divider: ""
-categories:
-    - Flore
-    - Printemps
-tags:
-    - "2024"
-    - nature
-    - saisons
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "L'arbre revit"
+id = "l_arbre_revit_19"
+date = 2024-03-02
+weight = 15
+categories = ["Flore", "Printemps"]
+tags = ["nature", "saisons", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 L'arbre s'élance, un peu plié,
 
 Trouée au ciel de son aiguille,

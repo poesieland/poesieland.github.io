@@ -1,24 +1,15 @@
----
-weight: 41
-title: Le vieux verger
-id: le_vieux_verger_1
-date: 2024-04-07
-verseLength: 8
-divider: ""
-categories:
-    - Jardin et paysage
-tags:
-    - "2024"
-    - nature
-location:
-    - Lorraine
-info: Reprise du premier vers d'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir.
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le vieux verger"
+id = "le_vieux_verger_19"
+date = 2024-04-07
+weight = 40
+categories = ["Jardin et paysage"]
+tags = ["nature", "2024"]
+info = "Reprise du premier vers d'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir."
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Tous les vieux arbres ont des fleurs
 
 Pour chuchoter leur espérance,
@@ -54,8 +45,6 @@ Quand les moutons sans plus berger
 
 S'interpellent et se répondent.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise du premier vers "}]} -->
 {{% notice style="primary" %}}
 Reprise du premier vers d'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

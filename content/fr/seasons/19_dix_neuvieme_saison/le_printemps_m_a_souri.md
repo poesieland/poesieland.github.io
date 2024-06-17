@@ -1,23 +1,14 @@
----
-weight: 29
-title: Le printemps m'a souri
-id: le_printemps_m_a_souri_19
-date: 2024-03-25
-verseLength: 6
-divider: ""
-categories:
-    - Printemps
-tags:
-    - "2024"
-    - saisons
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le printemps m'a souri"
+id = "le_printemps_m_a_souri_19"
+date = 2024-03-25
+weight = 29
+categories = ["Printemps"]
+tags = ["saisons", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le rameau n'est plus nu
 
 Et l'aurore est bruissante,

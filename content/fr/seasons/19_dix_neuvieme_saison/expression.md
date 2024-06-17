@@ -1,23 +1,14 @@
----
-weight: 28
-title: Expression
-id: expression_19
-date: 2024-03-24
-verseLength: 12
-divider: ""
-categories:
-    - Création
-tags:
-    - philosophie
-    - "2024"
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Expression"
+id = "expression_19"
+date = 2024-03-24
+weight = 28
+categories = ["Création"]
+tags = ["philosophie", "2024"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Heureux qui comme moi voyage par le verbe
 
 Et chaque mot subtil, raisonné, doux, acerbe

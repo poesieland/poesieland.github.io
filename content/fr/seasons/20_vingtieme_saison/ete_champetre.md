@@ -1,27 +1,15 @@
----
-weight: 31
-title: Eté champêtre
-id: ete_champetre_20
-date: 2024-06-09
-verseLength: 6
-divider: ""
-categories:
-    - Jardin et paysage
-    - Eté
-tags:
-    - "2024"
-    - nature
-    - saisons
-location: []
-info: ""
-pictures:
-    - Juin 2024
-    - Juin 2024
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Eté champêtre"
+id = "ete_champetre_20"
+date = 2024-06-09
+weight = 30
+categories = ["Jardin et paysage", "Eté"]
+tags = ["nature", "saisons", "2024"]
+pictures = ["Juin 2024", "Juin 2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 J'ai cueilli du bonheur
 
 Près de l'âne tout sage
@@ -48,9 +36,6 @@ Quand l'été vrai revient
 
 M'enchanter l'âme reine.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"ete_champetre_20_0.jpg"},{"name":"imageCaption","value":"Juin 2024"}]} -->
 {{< figure src="/images/ete_champetre_20_0.jpg" title="Juin 2024" >}}
-<!-- FM:Snippet:End -->
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"ete_champetre_20_1.jpg"},{"name":"imageCaption","value":"Juin 2024"}]} -->
+
 {{< figure src="/images/ete_champetre_20_1.jpg" title="Juin 2024" >}}
-<!-- FM:Snippet:End -->

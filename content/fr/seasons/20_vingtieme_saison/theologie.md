@@ -1,24 +1,14 @@
----
-weight: 40
-title: Théologie
-id: theologie_20
-date: 2024-06-15
-verseLength: 6
-divider: ""
-categories:
-    - Portraits
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Théologie"
+id = "theologie_20"
+date = 2024-06-15
+weight = 39
+categories = ["Portraits", "Foi"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 De ta voix docte et claire
 
 Revivre le récit

@@ -1,24 +1,14 @@
----
-weight: 48
-title: Absolu
-id: absolu_19
-date: 2024-04-21
-verseLength: 6
-divider: ""
-categories:
-    - Romantisme
-    - Temps
-tags:
-    - "2024"
-    - amour
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Absolu"
+id = "absolu_19"
+date = 2024-04-21
+weight = 47
+categories = ["Romantisme", "Temps"]
+tags = ["amour", "philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 On dit qu'une offensive
 
 Se prépare toujours,

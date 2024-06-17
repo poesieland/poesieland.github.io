@@ -1,24 +1,14 @@
----
-weight: 34
-title: Il va pleuvoir
-id: il_va_pleuvoir_19
-date: 2024-03-31
-verseLength: 4
-divider: ""
-categories:
-    - Eau douce
-    - Ciel
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Il va pleuvoir"
+id = "il_va_pleuvoir_19"
+date = 2024-03-31
+weight = 34
+categories = ["Eau douce", "Ciel"]
+tags = ["nature", "2024"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
++++
+
 Il va pleuvoir,
 
 Le ciel moutonne,

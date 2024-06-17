@@ -2,7 +2,7 @@
 title = "Terre"
 id = "terre_20"
 date = 2024-04-29
-weight = 4
+weight = 3
 categories = ["Etre", "Espoir"]
 tags = ["philosophie", "2024", "versVariable"]
 info = "Vers variable : 2, 7"

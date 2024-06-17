@@ -1,23 +1,14 @@
----
-weight: 38
-title: Cheminement
-id: cheminement_20
-date: 2024-06-15
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Cheminement"
+id = "cheminement_20"
+date = 2024-06-15
+weight = 37
+categories = ["Foi"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Marcher dans la lumière
 
 Pour aller de l'avant,

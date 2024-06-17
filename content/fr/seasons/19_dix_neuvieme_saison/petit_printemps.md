@@ -1,23 +1,14 @@
----
-weight: 14
-title: Petit printemps
-id: petit_printemps_19
-date: 2024-02-29
-verseLength: 4
-divider: ""
-categories:
-    - Printemps
-tags:
-    - "2024"
-    - saisons
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Petit printemps"
+id = "petit_printemps_19"
+date = 2024-02-29
+weight = 14
+categories = ["Printemps"]
+tags = ["saisons", "2024"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le brun s'efface,
 
 Le vert revient,

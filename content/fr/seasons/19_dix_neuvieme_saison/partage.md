@@ -1,23 +1,14 @@
----
-weight: 30
-title: Partage
-id: partage_19
-date: 2024-03-28
-verseLength: 5
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Partage"
+id = "partage_19"
+date = 2024-03-28
+weight = 30
+categories = ["Etre"]
+tags = ["philosophie", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Donne-moi ta main
 
 Comme dans l'enfance

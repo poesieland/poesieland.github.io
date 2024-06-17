@@ -1,23 +1,14 @@
----
-weight: 22
-title: Après la pluie
-id: apres_la_pluie_19
-date: 2024-03-16
-verseLength: 6
-divider: ""
-categories:
-    - Eau douce
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Après la pluie"
+id = "apres_la_pluie_19"
+date = 2024-03-16
+weight = 22
+categories = ["Eau douce"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Autant de perles d'eau,
 
 Eclat sur chaque feuille,

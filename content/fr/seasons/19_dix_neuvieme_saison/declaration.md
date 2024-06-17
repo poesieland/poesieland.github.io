@@ -1,23 +1,15 @@
----
-weight: 19
-title: Déclaration
-id: declaration_19
-date: 2024-03-05
-verseLength: 10
-divider: ""
-categories:
-    - Romantisme
-tags:
-    - "2024"
-    - amour
-location: []
-info: "[Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Déclaration"
+id = "declaration_19"
+date = 2024-03-05
+weight = 19
+categories = ["Romantisme"]
+tags = ["amour", "2024"]
+info = "[Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)"
+verseLength = 10
+LastModifierDisplayName = "Barbara Post"
++++
+
 "Je t'aimais, je t'aime, je t'aimerai",
 
 Quand ces mots redits sonnent toujours vrai
@@ -42,8 +34,6 @@ Je t'aimais, je t'aime et mon coeur explose
 
 Pour crier au monde amour qui s'impose.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"[Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)"}]} -->
 {{% notice style="primary" %}}
 [Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

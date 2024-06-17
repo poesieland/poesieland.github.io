@@ -1,24 +1,15 @@
----
-weight: 14
-title: Le monde meurt
-id: le_monde_meurt_20
-date: 2024-05-14
-verseLength: 6
-divider: ""
-categories:
-    - Révolte
-tags:
-    - "2024"
-    - philosophie
-    - sonnet
-location: []
-info: ""
-pictures: []
-type: sonnet
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le monde meurt"
+id = "le_monde_meurt_20"
+date = 2024-05-14
+weight = 13
+categories = ["Révolte"]
+tags = ["philosophie", "2024", "sonnet"]
+type = "sonnet"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Blessure indélébile
 
 Les erreurs du passé

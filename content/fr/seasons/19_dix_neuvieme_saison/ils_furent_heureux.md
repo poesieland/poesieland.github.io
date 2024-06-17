@@ -1,23 +1,15 @@
----
-weight: 45
-title: Ils furent heureux
-id: ils_furent_heureux_19
-date: 2024-04-16
-verseLength: 12
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: Dans ce poème se cachent un surnom et un prénom
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Ils furent heureux"
+id = "ils_furent_heureux_19"
+date = 2024-04-16
+weight = 44
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+info = "Dans ce poème se cachent un surnom et un prénom"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Je revois ce bonheur, une main sur le ventre
 
 Où je grandissais calme au printemps sybillin
@@ -44,8 +36,6 @@ Elle était plus que muse, artiste aussi sans peine ;
 
 Amateurs de voyage... un dernier trop tôt.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Dans ce poème se cachent un surnom et un prénom"}]} -->
 {{% notice style="primary" %}}
 Dans ce poème se cachent un surnom et un prénom
 {{% /notice %}}
-<!-- FM:Snippet:End -->

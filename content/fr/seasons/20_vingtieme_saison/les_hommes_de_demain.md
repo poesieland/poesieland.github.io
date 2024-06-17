@@ -1,23 +1,14 @@
----
-weight: 15
-title: Les hommes de demain
-id: les_hommes_de_demain_2
-date: 2024-05-15
-verseLength: 6
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Les hommes de demain"
+id = "les_hommes_de_demain_20"
+date = 2024-05-15
+weight = 14
+categories = ["Espoir"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Ils nous rempalceront
 
 Les enfants que l'on aime,

@@ -1,25 +1,14 @@
----
-weight: 26
-title: Scène d'été
-id: scene_d_ete_20
-date: 2024-06-03
-verseLength: 12
-divider: ""
-categories:
-    - Eté
-    - Crépuscule
-tags:
-    - "2024"
-    - saisons
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Scène d'été"
+id = "scene_d_ete_20"
+date = 2024-06-03
+weight = 25
+categories = ["Eté", "Crépuscule"]
+tags = ["saisons", "ombres et lumières", "2024"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 La cloche sonne un peu juste pour donner l'heure,
 
 Le soir d'été s'apaise en des rires mignons,

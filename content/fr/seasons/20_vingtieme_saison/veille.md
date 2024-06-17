@@ -1,23 +1,14 @@
----
-weight: 28
-title: Veille
-id: veille_20
-date: 2024-06-05
-verseLength: 6
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Veille"
+id = "veille_20"
+date = 2024-06-05
+weight = 27
+categories = ["Etre"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le monde est toujours là !
 
 S'étonner du spectacle,

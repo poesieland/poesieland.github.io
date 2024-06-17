@@ -2,13 +2,20 @@
 title = "Longueur des poèmes"
 weight = 3
 +++
+
+## Court ou long
+
 12 ou 16 vers sont les longueurs les plus communes, et représentent la moitié des poèmes. Les [sonnets](/tags/sonnet) comptent 14 vers.
 
 {{< chartjs id="poemLengthBar" width="100%" jsFile="../general/poems-length-bar.js" />}}
 
 Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
-Les poèmes d'un seul quatrain :
+## L'art du quatrain
+
+{{< chartjs id="poemLengthPie" width="75%" jsFile="../general/poems-length-pie.js" />}}
+
+### Un seul quatrain
 
 - [Couleurs (2e saison)](../seasons/2_deuxieme_saison/couleurs)
 - [Ange (9e saison)](../seasons/9_neuvieme_saison/ange)
@@ -24,13 +31,13 @@ Les poèmes d'un seul quatrain :
 - [Inachevé (17e saison)](../seasons/17_dix_septieme_saison/inacheve)
 - [Eloge (19e saison)](../seasons/19_dix_neuvieme_saison/eloge)
 
-Les poèmes de sept quatrains :
+### Sept quatrains
 
 - [Le soleil est ailleurs (2e saison)](../seasons/2_deuxieme_saison/le_soleil_est_ailleurs)
 - [Dieu, l'oiseau et l'oiseleur (2e saison)](../seasons/2_deuxieme_saison/dieu_l_oiseau_et_l_oiseleur)
 - [La maison de famille (18e saison)](../seasons/18_dix_huitieme_saison/la_maison_de_famille) 
 - [Le mot manquant (18e saison)](../seasons/18_dix_huitieme_saison/le_mot_manquant) 
 
-{{< chartjs id="poemLengthPie" width="75%" jsFile="../general/poems-length-pie.js" />}}
+## Données croisées
 
 {{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../general/poem-length-by-verse-length.js" />}}

@@ -1,25 +1,14 @@
----
-weight: 37
-title: Légèreté
-id: legerete_20
-date: 2024-06-14
-verseLength: 2
-divider: ""
-categories:
-    - Etre
-    - Musique et chant
-tags:
-    - "2024"
-    - philosophie
-    - attitudes
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Légèreté"
+id = "legerete_20"
+date = 2024-06-14
+weight = 36
+categories = ["Etre", "Musique et chant"]
+tags = ["philosophie", "attitudes", "2024"]
+verseLength = 2
+LastModifierDisplayName = "Barbara Post"
++++
+
 Refrain,
 
 Ma vie

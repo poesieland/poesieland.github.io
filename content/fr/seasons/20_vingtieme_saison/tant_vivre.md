@@ -1,23 +1,14 @@
----
-weight: 32
-title: Tant vivre
-id: tant_vivre_20
-date: 2024-06-10
-verseLength: 6
-divider: ""
-categories:
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Tant vivre"
+id = "tant_vivre_20"
+date = 2024-06-10
+weight = 31
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 C'est tant vivre qui compte,
 
 Marelles ou cerceaux,

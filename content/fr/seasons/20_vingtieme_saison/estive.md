@@ -1,25 +1,14 @@
----
-weight: 23
-title: Estive
-id: estive_20
-date: 2024-05-30
-verseLength: 8
-divider: ""
-categories:
-    - Ciel
-    - Eté
-tags:
-    - "2024"
-    - nature
-    - saisons
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Estive"
+id = "estive_20"
+date = 2024-05-30
+weight = 22
+categories = ["Ciel", "Eté"]
+tags = ["nature", "saisons", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Quand le soleil sur ma peau nue
 
 Frôle d'un innocent bisou

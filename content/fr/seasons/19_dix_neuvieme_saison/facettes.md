@@ -1,23 +1,14 @@
----
-weight: 20
-title: Facettes
-id: facettes_19
-date: 2024-03-07
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Facettes"
+id = "facettes_19"
+date = 2024-03-07
+weight = 20
+categories = ["Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Trop de choses auront changé
 
 Pour se souvenir sans limite,

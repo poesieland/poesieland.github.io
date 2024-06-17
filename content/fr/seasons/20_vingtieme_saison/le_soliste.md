@@ -1,23 +1,14 @@
----
-weight: 11
-title: Le soliste
-id: le_soliste_2
-date: 2024-05-05
-verseLength: 7
-divider: ""
-categories:
-    - Musique et chant
-tags:
-    - "2024"
-    - attitudes
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le soliste"
+id = "le_soliste_20"
+date = 2024-05-05
+weight = 10
+categories = ["Musique et chant"]
+tags = ["attitudes", "2024"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le soliste est responsable
 
 Quel que soit son instrument

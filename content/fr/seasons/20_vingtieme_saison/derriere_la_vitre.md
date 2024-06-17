@@ -1,23 +1,14 @@
----
-weight: 10
-title: Derrière la vitre
-id: derriere_la_vitre_2
-date: 2024-05-05
-verseLength: 5
-divider: ""
-categories:
-    - Ville
-tags:
-    - "2024"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Derrière la vitre"
+id = "derriere_la_vitre_20"
+date = 2024-05-05
+weight = 9
+categories = ["Ville"]
+tags = ["ombres et lumières", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 La vitre m'isole :
 
 Visuels solos,

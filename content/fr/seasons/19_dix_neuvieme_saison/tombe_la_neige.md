@@ -1,23 +1,14 @@
----
-weight: 1
-title: Tombe la neige
-id: tombe_la_neige_19
-date: 2024-01-17
-verseLength: 6
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Tombe la neige"
+id = "tombe_la_neige_19"
+date = 2024-01-17
+weight = 1
+categories = ["Neige"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Regarde-la tomber,
 
 La neige, elle est oisive,

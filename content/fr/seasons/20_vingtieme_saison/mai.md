@@ -1,23 +1,14 @@
----
-weight: 7
-title: Mai
-id: mai_20
-date: 2024-05-01
-verseLength: 6
-divider: ""
-categories:
-    - Jardin et paysage
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Mai"
+id = "mai_20"
+date = 2024-05-01
+weight = 6
+categories = ["Jardin et paysage"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Doux friselis sur l'herbe
 
 La brise a son chenal,

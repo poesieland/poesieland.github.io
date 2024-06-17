@@ -1,25 +1,14 @@
----
-weight: 39
-title: Le vent
-id: le_vent_20
-date: 2024-06-15
-verseLength: 4
-divider: ""
-categories:
-    - Ciel
-    - Mouvement
-tags:
-    - "2024"
-    - nature
-    - attitudes
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le vent"
+id = "le_vent_20"
+date = 2024-06-15
+weight = 38
+categories = ["Ciel", "Mouvement"]
+tags = ["nature", "attitudes", "2024"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le vent sans fin
 
 Frappe à ma porte,
@@ -45,3 +34,12 @@ Le vent miroite
 Bouts de cartons,
 
 Débris de boîte.
+
+ \
+Fait orpailleur
+
+Et moins lugubre
+
+Le vent fouilleur
+
+Seul, élucubre !

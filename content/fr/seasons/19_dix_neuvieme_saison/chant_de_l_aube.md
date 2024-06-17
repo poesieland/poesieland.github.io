@@ -1,23 +1,14 @@
----
-weight: 40
-title: Chant de l'aube
-id: chant_de_l_aube_19
-date: 2024-04-06
-verseLength: 4
-divider: ""
-categories:
-    - Aube
-tags:
-    - "2024"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Chant de l'aube"
+id = "chant_de_l_aube_19"
+date = 2024-04-06
+weight = 39
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post"
++++
+
 Quand l'aube chante
 
 L'ivre matin

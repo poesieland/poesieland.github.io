@@ -1,24 +1,15 @@
----
-weight: 13
-title: Le soir, trésor
-id: le_soir_tresor_20
-date: 2024-05-13
-verseLength: 6
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - acrostiche
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: Le soir, trésor
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le soir, trésor"
+id = "le_soir_tresor_20"
+date = 2024-05-13
+weight = 12
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024", "acrostiche"]
+acrostiche = "e soir, tréso"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le soir tient sa promesse
 
 Et tu clignes de l'oeil
@@ -45,8 +36,6 @@ Où je promène et vire
 
 Rieuse : un soir est là.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : le soir, trésor"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : le soir, trésor
+Acrostiche : e soir, tréso
 {{% /notice %}}
-<!-- FM:Snippet:End -->

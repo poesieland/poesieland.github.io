@@ -1,23 +1,14 @@
----
-weight: 3
-title: Evasion
-id: evasion_20
-date: 2024-04-28
-verseLength: 6
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Evasion"
+id = "evasion_20"
+date = 2024-04-28
+weight = 2
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Un souffle intense, aimants
 
 Voyages par le livre :

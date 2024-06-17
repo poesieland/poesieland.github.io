@@ -1,23 +1,14 @@
----
-weight: 8
-title: Ta jeunesse
-id: ta_jeunesse_19
-date: 2024-02-11
-verseLength: 8
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Ta jeunesse"
+id = "ta_jeunesse_19"
+date = 2024-02-11
+weight = 8
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Je me promène dans tes rêves,
 
 Mélopée étrange, vaudou

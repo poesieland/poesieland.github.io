@@ -1,23 +1,14 @@
----
-weight: 32
-title: Vivre
-id: vivre_19
-date: 2024-03-31
-verseLength: 5
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Vivre"
+id = "vivre_19"
+date = 2024-03-31
+weight = 32
+categories = ["Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Le temps qui nous reste
 
 Décroît sans détour

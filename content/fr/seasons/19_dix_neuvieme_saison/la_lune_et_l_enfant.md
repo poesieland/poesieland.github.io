@@ -1,25 +1,14 @@
----
-weight: 9
-title: La lune et l'enfant
-id: la_lune_et_l_enfant_19
-date: 2024-02-12
-verseLength: 6
-divider: ""
-categories:
-    - Lune
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - ombres et lumières
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "La lune et l'enfant"
+id = "la_lune_et_l_enfant_19"
+date = 2024-02-12
+weight = 9
+categories = ["Lune", "Enfance et adolescence"]
+tags = ["ombres et lumières", "philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Compagne de la Terre
 
 C'est devant ma maison

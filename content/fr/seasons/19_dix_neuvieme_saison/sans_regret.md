@@ -1,23 +1,14 @@
----
-weight: 37
-title: Sans regret
-id: sans_regret_1
-date: 2024-04-04
-verseLength: 6
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sans regret"
+id = "sans_regret_19"
+date = 2024-04-04
+weight = 37
+categories = ["Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Qu'as-tu comme regrets
 
 A la fin de ta vie,

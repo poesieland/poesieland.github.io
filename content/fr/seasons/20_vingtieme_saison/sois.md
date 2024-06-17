@@ -1,23 +1,14 @@
----
-weight: 24
-title: Sois
-id: sois_20
-date: 2024-06-01
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sois"
+id = "sois_20"
+date = 2024-06-01
+weight = 23
+categories = ["Foi"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sois gentil, c'est si bon
 
 Le coeur en bandoulière,

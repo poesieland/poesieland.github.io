@@ -1,23 +1,14 @@
----
-weight: 20
-title: Ondée
-id: ondee_2
-date: 2024-05-26
-verseLength: 6
-divider: ""
-categories:
-    - Eau douce
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Ondée"
+id = "ondee_20"
+date = 2024-05-26
+weight = 19
+categories = ["Eau douce"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Il s'est mis à pleuvoir,
 
 Une chute céleste

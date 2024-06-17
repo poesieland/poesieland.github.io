@@ -1,23 +1,14 @@
----
-weight: 36
-title: IA
-id: ia_1
-date: 2024-04-03
-verseLength: 8
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "IA"
+id = "ia_19"
+date = 2024-04-03
+weight = 36
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 D'un poème aux accents bréliens
 
 Tu découpes les belles phrases

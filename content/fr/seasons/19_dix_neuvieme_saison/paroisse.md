@@ -1,24 +1,15 @@
----
-weight: 50
-title: Paroisse
-id: paroisse_1
-date: 2024-04-23
-verseLength: 8
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-    - pantoun
-location: []
-info: ""
-pictures: []
-type: pantoun
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Paroisse"
+id = "paroisse_19"
+date = 2024-04-23
+weight = 49
+categories = ["Foi"]
+tags = ["philosophie", "2024", "pantoun"]
+type = "pantoun"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Sonne la cloche à ton quartier,
 
 Un angélus à ta fenêtre :

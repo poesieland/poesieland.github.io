@@ -1,23 +1,15 @@
----
-weight: 17
-title: Jardin imaginaire
-id: jardin_imaginaire_20
-date: 2024-05-20
-verseLength: 12
-divider: ""
-categories:
-    - Jardin et paysage
-tags:
-    - "2024"
-    - nature
-location: []
-info: Allez donc faire un tour sur [Société des amis de Colette {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/amisdecolette)
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Jardin imaginaire"
+id = "jardin_imaginaire_20"
+date = 2024-05-20
+weight = 16
+categories = ["Jardin et paysage"]
+tags = ["nature", "2024"]
+info = "Allez donc faire un tour sur [Société des amis de Colette {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/amisdecolette)"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 Ce qui me fait pleurer, ce qui me fait sourire,
 
 Je veux me souvenir toujours de tout cela,
@@ -44,8 +36,6 @@ Nouveau mont de fourmis, un papillon mourant,
 
 Extase qui s'oublie au aubade posée.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Allez donc faire un tour sur [Société des amis de Colette {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/amisdecolette)
+Allez donc faire un tour sur [Société des amis de Colette {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/amisdecolette)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

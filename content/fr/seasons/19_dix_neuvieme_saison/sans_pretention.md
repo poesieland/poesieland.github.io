@@ -1,24 +1,14 @@
----
-weight: 24
-title: Sans prétention
-id: sans_pretention_19
-date: 2024-03-22
-verseLength: 6
-divider: ""
-categories:
-    - Etre
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Sans prétention"
+id = "sans_pretention_19"
+date = 2024-03-22
+weight = 24
+categories = ["Etre", "Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Un arbre se remplace,
 
 Billots après les fûts,

@@ -1,25 +1,14 @@
----
-weight: 9
-title: Souvenirs d'autrefois
-id: souvenirs_d_autrefois_20
-date: 2024-05-04
-verseLength: 8
-divider: ""
-categories:
-    - Enfance et adolescence
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-location:
-    - Lorraine
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Souvenirs d'autrefois"
+id = "souvenirs_d_autrefois_20"
+date = 2024-05-04
+weight = 8
+categories = ["Enfance et adolescence", "Temps"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Quand les saisons étaient en paix
 
 Chez ma grand-mère, un drap épais

@@ -1,23 +1,15 @@
----
-weight: 16
-title: L'église désacralisée
-id: l_eglise_desacralisee_20
-date: 2024-05-17
-verseLength: 8
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "L'église désacralisée"
+id = "l_eglise_desacralisee_20"
+date = 2024-05-17
+weight = 15
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+info = "Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Dans ton église abandonnée
 
 Où le vitrail brisé ternit
@@ -53,8 +45,6 @@ Dans cet espace quel usage
 
 Epanouirait son concept ?
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"}]} -->
 {{% notice style="primary" %}}
-Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
+Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
 {{% /notice %}}
-<!-- FM:Snippet:End -->

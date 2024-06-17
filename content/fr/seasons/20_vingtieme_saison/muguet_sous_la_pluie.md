@@ -1,23 +1,14 @@
----
-weight: 6
-title: Muguet sous la pluie
-id: muguet_sous_la_pluie_2
-date: 2024-04-29
-verseLength: 6
-divider: ""
-categories:
-    - Flore
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Muguet sous la pluie"
+id = "muguet_sous_la_pluie_20"
+date = 2024-04-29
+weight = 5
+categories = ["Flore"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Il pleut sur mon muguet,
 
 Dans le jardin babille

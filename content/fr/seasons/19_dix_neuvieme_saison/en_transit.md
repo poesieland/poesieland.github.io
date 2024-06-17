@@ -1,23 +1,14 @@
----
-weight: 44
-title: En transit
-id: en_transit_19
-date: 2024-04-13
-verseLength: 8
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "En transit"
+id = "en_transit_19"
+date = 2024-04-13
+weight = 43
+categories = ["Etre"]
+tags = ["philosophie", "2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post"
++++
+
 Les mains qui donnent, qui reprennent
 
 Et qui d'un geste se comprennent ;

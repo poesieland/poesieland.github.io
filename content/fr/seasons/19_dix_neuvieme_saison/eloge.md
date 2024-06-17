@@ -1,23 +1,14 @@
----
-weight: 33
-title: Eloge
-id: eloge_19
-date: 2024-03-31
-verseLength: 12
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Eloge"
+id = "eloge_19"
+date = 2024-03-31
+weight = 33
+categories = ["Portraits"]
+tags = ["philosophie", "2024"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post"
++++
+
 "Qu'importe le flacon, pourvu qu'on ait l'ivrese"
 
 Que nenni, sans terroir et sans mets c'est péché
