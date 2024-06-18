@@ -40,6 +40,6 @@ Fait orpailleur
 
 Et moins lugubre
 
-Le vent fouilleur
+Le vent railleur
 
 Seul, élucubre !

@@ -14,12 +14,11 @@ De juillet à novembre 1999
 {{% include "./includes/season_13.md" true %}}
 
 ---
-Catégories
+## Catégories
 {{< chartjs id="season13Pie" width="75%" jsFile="../../charts/season-13/categories-pie.js" />}}
-Longueur des vers
+## Longueur des vers
 {{< chartjs id="season13VerseLengthBar" width="75%" jsFile="../../charts/season-13/poems-verse-length-bar.js" />}}
-Longueur des poèmes
+## Longueur des poèmes
 {{< chartjs id="season13PoemLengthBar" width="75%" jsFile="../../charts/season-13/poems-length-bar.js" />}}
-{{< chartjs id="season13PoemLengthPie" width="75%" jsFile="../../charts/season-13/poems-length-pie.js" />}}
-Intervalle
+## Intervalle
 {{< chartjs id="season13PoemIntervalBar" width="75%" jsFile="../../charts/season-13/poem-interval-bar.js" />}}

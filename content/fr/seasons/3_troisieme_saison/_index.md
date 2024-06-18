@@ -14,12 +14,11 @@ De janvier à mai 1997
 {{% include "./includes/season_3.md" true %}}
 
 ---
-Catégories
+## Catégories
 {{< chartjs id="season3Pie" width="75%" jsFile="../../charts/season-3/categories-pie.js" />}}
-Longueur des vers
+## Longueur des vers
 {{< chartjs id="season3VerseLengthBar" width="75%" jsFile="../../charts/season-3/poems-verse-length-bar.js" />}}
-Longueur des poèmes
+## Longueur des poèmes
 {{< chartjs id="season3PoemLengthBar" width="75%" jsFile="../../charts/season-3/poems-length-bar.js" />}}
-{{< chartjs id="season3PoemLengthPie" width="75%" jsFile="../../charts/season-3/poems-length-pie.js" />}}
-Intervalle
+## Intervalle
 {{< chartjs id="season3PoemIntervalBar" width="75%" jsFile="../../charts/season-3/poem-interval-bar.js" />}}

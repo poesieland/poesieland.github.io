@@ -14,12 +14,11 @@ De septembre à décembre 1996
 {{% include "./includes/season_2.md" true %}}
 
 ---
-Catégories
+## Catégories
 {{< chartjs id="season2Pie" width="75%" jsFile="../../charts/season-2/categories-pie.js" />}}
-Longueur des vers
+## Longueur des vers
 {{< chartjs id="season2VerseLengthBar" width="75%" jsFile="../../charts/season-2/poems-verse-length-bar.js" />}}
-Longueur des poèmes
+## Longueur des poèmes
 {{< chartjs id="season2PoemLengthBar" width="75%" jsFile="../../charts/season-2/poems-length-bar.js" />}}
-{{< chartjs id="season2PoemLengthPie" width="75%" jsFile="../../charts/season-2/poems-length-pie.js" />}}
-Intervalle
+## Intervalle
 {{< chartjs id="season2PoemIntervalBar" width="75%" jsFile="../../charts/season-2/poem-interval-bar.js" />}}

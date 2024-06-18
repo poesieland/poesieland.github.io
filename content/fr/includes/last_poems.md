@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Contredanse, écrit le 18.06.2024](./seasons/20_vingtieme_saison/contredanse/)
+
 [Encore une averse, écrit le 16.06.2024](./seasons/20_vingtieme_saison/encore_une_averse/)
 
 [Sky, écrit le 16.06.2024](/en/original_texts/2024/sky/)
@@ -14,9 +16,6 @@ title = "Derniers ajouts"
 
 [Cheminement, écrit le 15.06.2024](./seasons/20_vingtieme_saison/cheminement/)
 
-[Légèreté, écrit le 14.06.2024](./seasons/20_vingtieme_saison/legerete/)
-
-[Colors and sounds, écrit le 14.06.2024](/en/original_texts/2024/colors_and_sounds/)
 
 
 

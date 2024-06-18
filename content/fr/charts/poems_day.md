@@ -11,9 +11,9 @@ Ces statistiques incluent mes {{% include "/content/common/poem_count_en.md" %}}
 
 ## Des jours avec et des jours sans
 
-Je me suis aussi demandée si nombreux étaient les "jours blancs".
+Ces jours de l'année où ma plume est restée au repos :
 
-{{< chartjs id="poemDayPie" width="50%" jsFile="../general/poem-day-pie.js" />}}
+{{% include "../includes/days_without_creation.md" true %}}
 
 ## Du lundi au dimanche
 

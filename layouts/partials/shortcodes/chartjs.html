@@ -3,10 +3,19 @@
 {{- $width := .width | default "80%" }}
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
+{{- $inline := .inline }}
+
 {{- with $page }}
+{{- if not $inline }}
 <div class="chartjs-wrapper" style="position:relative;width:{{ $width }};margin-left:calc((100% - {{ $width }})/2);margin-right:auto;">
   <canvas id="{{ $id }}"></canvas>
 </div>
+{{- end }}
+{{- if $inline }}
+<div class="chartjs-wrapper" style="width:{{ $width }};display:inline-block;">
+  <canvas id="{{ $id }}"></canvas>
+</div>
+{{- end }}
 <script type="module" src="{{ $jsFile }}"></script>
 {{- .Store.Set "hasChartjs" true }}
 {{- end }}

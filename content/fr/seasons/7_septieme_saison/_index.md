@@ -14,12 +14,11 @@ Juin et juillet 1998
 {{% include "./includes/season_7.md" true %}}
 
 ---
-Catégories
+## Catégories
 {{< chartjs id="season7Pie" width="75%" jsFile="../../charts/season-7/categories-pie.js" />}}
-Longueur des vers
+## Longueur des vers
 {{< chartjs id="season7VerseLengthBar" width="75%" jsFile="../../charts/season-7/poems-verse-length-bar.js" />}}
-Longueur des poèmes
+## Longueur des poèmes
 {{< chartjs id="season7PoemLengthBar" width="75%" jsFile="../../charts/season-7/poems-length-bar.js" />}}
-{{< chartjs id="season7PoemLengthPie" width="75%" jsFile="../../charts/season-7/poems-length-pie.js" />}}
-Intervalle
+## Intervalle
 {{< chartjs id="season7PoemIntervalBar" width="75%" jsFile="../../charts/season-7/poem-interval-bar.js" />}}

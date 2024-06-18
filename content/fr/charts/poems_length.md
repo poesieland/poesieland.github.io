@@ -13,8 +13,6 @@ Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
 ## L'art du quatrain
 
-{{< chartjs id="poemLengthPie" width="75%" jsFile="../general/poems-length-pie.js" />}}
-
 ### Un seul quatrain
 
 - [Couleurs (2e saison)](../seasons/2_deuxieme_saison/couleurs)
