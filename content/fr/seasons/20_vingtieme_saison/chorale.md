@@ -6,7 +6,7 @@ weight = 17
 categories = ["Foi", "Musique et chant"]
 tags = ["philosophie", "attitudes", "2024", "acrostiche", "sonnet"]
 type = "sonnet"
-acrostiche = "auvée à nouvea"
+acrostiche = "Sauvée à nouveau"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -43,5 +43,5 @@ Aspiré, s'avalise :
 Une chorale, élan !
 
 {{% notice style="primary" %}}
-Acrostiche : auvée à nouvea
+Acrostiche : Sauvée à nouveau
 {{% /notice %}}

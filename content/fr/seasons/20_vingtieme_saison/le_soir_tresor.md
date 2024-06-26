@@ -5,7 +5,7 @@ date = 2024-05-13
 weight = 12
 categories = ["Crépuscule"]
 tags = ["ombres et lumières", "2024", "acrostiche"]
-acrostiche = "e soir, tréso"
+acrostiche = "Le soir, trésor"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,5 +37,5 @@ Où je promène et vire
 Rieuse : un soir est là.
 
 {{% notice style="primary" %}}
-Acrostiche : e soir, tréso
+Acrostiche : Le soir, trésor
 {{% /notice %}}
