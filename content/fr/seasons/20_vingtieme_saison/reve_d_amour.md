@@ -7,9 +7,11 @@ verseLength: 12
 divider: ""
 categories:
     - Romantisme
+    - Mer
 tags:
     - "2024"
     - amour
+    - nature
 location: []
 info: J'avais ces *[chants des mariniers](https://www.poetica.fr/poeme-698/charles-baudelaire-parfum-exotique/)* en tête...
 pictures: []
@@ -27,7 +29,7 @@ Rendait belle la plage et les tordus, les laids
 Avant que ton étreinte ou ton parfum ne fane.
 
  \
-Je me souviens d'un rire, on élève hunier
+Je me souviens d'un rire, on dresse grand hunier
 
 Pour partir et demain plus loin que cette terre
 

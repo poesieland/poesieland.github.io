@@ -6,7 +6,6 @@ title = "Les jours sans"
 - 8 avril
 - 25 avril
 - 6 mai
-- 25 juin
 - 19 juillet
 - 7 août
 - 8 août
