@@ -1,7 +1,7 @@
 ---
-weight: 46
+weight: 1
 title: Détachement
-id: detachement_20
+id: detachement_21
 date: 2024-06-26
 verseLength: 6
 divider: ""

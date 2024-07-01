@@ -11,7 +11,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Foi', value: 4, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 6, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 4, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Etre', value: 4, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Etre', value: 3, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Révolte', value: 4, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Flore', value: 2, color: 'rgba(146, 230, 167, 1)' },
     { label: 'Jardin et paysage', value: 3, color: 'rgba(74, 214, 109, 1)' },

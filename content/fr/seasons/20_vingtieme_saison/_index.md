@@ -1,10 +1,10 @@
 +++
 title = "Vingtième Saison : Le temps qui nous reste"
-summary = "Depuis avril 2024"
+summary = "Philosophie, nature, et puis l'été... D'avril à juin 2024"
 weight = 20
 +++
 
-Depuis avril 2024
+Eté, portraits, crépuscule et eau douce sont les thèmes de cette saison. D'avril à juin 2024
 
 ---
 {{% children  %}}

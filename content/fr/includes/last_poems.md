@@ -4,7 +4,7 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Détachement, écrit le 26.06.2024](./seasons/20_vingtieme_saison/detachement/)
+[Détachement, écrit le 26.06.2024](./seasons/21_vingt_et_unieme_saison/detachement/)
 
 [Soir d'été, écrit le 25.06.2024](./seasons/20_vingtieme_saison/soir_d_ete/)
 
