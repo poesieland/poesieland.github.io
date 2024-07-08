@@ -1,23 +1,14 @@
----
-weight: 42
-title: Le chat
-id: le_chat_20
-date: 2024-06-19
-verseLength: 6
-divider: ""
-categories:
-    - Animaux
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le chat"
+id = "le_chat_20"
+date = 2024-06-19
+weight = 42
+categories = ["Faune"]
+tags = ["nature", "2024"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post"
++++
+
 Je fais des pirouettes
 
 Dans mes rêves de chat,

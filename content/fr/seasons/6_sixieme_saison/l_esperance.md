@@ -3,10 +3,10 @@ title = "L'espérance"
 id = "l_esperance_6"
 date = 1998-05-20
 weight = 6
-categories = ["Animaux", "Espoir"]
+categories = ["Faune", "Espoir"]
 tags = ["nature", "philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 J'ai dérobé d'un papillon

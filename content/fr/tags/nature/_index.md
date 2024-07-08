@@ -10,7 +10,7 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Eau douce](/categories/eau-douce)
 - [Ciel](/categories/ciel)
 - [Mer](/categories/mer)
-- [Animaux](/categories/animaux)
+- [Faune](/categories/faune)
 
 {{< chartjs id="poemDay-natureRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-nature-radar.js" />}}
 

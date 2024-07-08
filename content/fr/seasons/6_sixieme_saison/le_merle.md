@@ -3,10 +3,10 @@ title = "le Merle"
 id = "le_merle_6"
 date = 1998-05-20
 weight = 7
-categories = ["Animaux"]
+categories = ["Faune"]
 tags = ["nature", "1998"]
-LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 D'une noire plume de merle

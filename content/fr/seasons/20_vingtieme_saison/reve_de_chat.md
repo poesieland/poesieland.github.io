@@ -6,7 +6,7 @@ date: 2024-04-29
 verseLength: 6
 divider: ""
 categories:
-    - Animaux
+    - Faune
 tags:
     - "2024"
     - nature

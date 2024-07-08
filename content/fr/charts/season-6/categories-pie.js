@@ -5,7 +5,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amour malheureux', value: 4, color: 'rgba(255, 194, 209, 1)' },
     { label: 'Romantisme', value: 2, color: 'rgba(255, 179, 198, 1)' },
     { label: 'Aimé (amant)', value: 1, color: 'rgba(251, 111, 146, 1)' },
-    { label: 'Lune', value: 1, color: 'rgba(238, 186, 11, 1)' },
+    { label: 'Lune', value: 1, color: 'rgba(198, 163, 55, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 5, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 6, color: 'rgba(220, 147, 246, 1)' },
@@ -14,11 +14,11 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Etre', value: 8, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 3, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },
-    { label: 'Flore', value: 2, color: 'rgba(146, 230, 167, 1)' },
-    { label: 'Animaux', value: 2, color: 'rgba(30, 47, 35, 1)' },
-    { label: 'Musique et chant', value: 2, color: 'rgba(63, 193, 192, 1)' },
-    { label: 'Mouvement', value: 3, color: 'rgba(4, 166, 194, 1)' },
-    { label: 'Printemps', value: 1, color: 'rgba(255, 182, 39, 1)' },
+    { label: 'Flore', value: 2, color: 'rgba(123, 233, 220, 1)' },
+    { label: 'Faune', value: 2, color: 'rgba(9, 61, 55, 1)' },
+    { label: 'Musique et chant', value: 2, color: 'rgba(252, 191, 140, 1)' },
+    { label: 'Mouvement', value: 3, color: 'rgba(250, 152, 70, 1)' },
+    { label: 'Printemps', value: 1, color: 'rgba(179, 226, 167, 1)' },
   ];
   addPieChart('season6Pie', [data], { plugins: { title: { display: true, text: 'Sixième Saison : Sur le chemin - De mars à juin 1998' } } });
 })();

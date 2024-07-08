@@ -3,7 +3,7 @@ title = "Mon chat"
 id = "mon_chat_18"
 date = 2023-11-03
 weight = 14
-categories = ["Animaux"]
+categories = ["Faune"]
 tags = ["nature", "2023"]
 pictures = ["Mon chat, 3 septembre 2022"]
 verseLength = 6
@@ -64,4 +64,3 @@ Un caractère unique,
 Je l'aime, heureux nos jours !
 
 {{< figure src="/images/mon_chat_18_0.jpg" title="Mon chat, 3 septembre 2022" >}}
-

@@ -1,23 +1,14 @@
----
-weight: 45
-title: Petit escargot
-id: petit_escargot_20
-date: 2024-06-21
-verseLength: 5
-divider: ""
-categories:
-    - Animaux
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Petit escargot"
+id = "petit_escargot_20"
+date = 2024-06-21
+weight = 45
+categories = ["Faune"]
+tags = ["nature", "2024"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post"
++++
+
 Déplie une corne
 
 Petit escargot !

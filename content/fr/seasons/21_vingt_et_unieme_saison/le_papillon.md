@@ -1,23 +1,14 @@
----
-weight: 3
-title: Le papillon
-id: "3"
-date: 2024-06-28
-verseLength: 7
-divider: ""
-categories:
-    - Animaux
-tags:
-    - "2024"
-    - nature
-location: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
----
++++
+title = "Le papillon"
+id = "le_papillon_21"
+date = 2024-06-28
+weight = 3
+categories = ["Faune"]
+tags = ["nature", "2024"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post"
++++
+
 Ce fragile funambule
 
 Des courants d'air, papillon...

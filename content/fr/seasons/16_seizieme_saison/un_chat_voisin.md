@@ -3,11 +3,11 @@ title = "Un chat voisin"
 id = "un_chat_voisin_16"
 date = 2003-10-05
 weight = 17
-categories = ["Animaux"]
+categories = ["Faune"]
 tags = ["nature", "2003", "acrostiche"]
 acrostiche = "Un chat voisin"
-LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Un chat si beau me rend visite,

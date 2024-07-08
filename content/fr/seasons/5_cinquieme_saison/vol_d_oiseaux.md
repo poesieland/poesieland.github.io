@@ -3,10 +3,10 @@ title = "Vol d'oiseaux"
 id = "vol_d_oiseaux_5"
 date = 1997-11-06
 weight = 41
-categories = ["Animaux"]
+categories = ["Faune"]
 tags = ["nature", "1997"]
-LastModifierDisplayName = "Barbara Post"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Oiseaux : typographie

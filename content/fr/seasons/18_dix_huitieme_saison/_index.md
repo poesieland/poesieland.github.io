@@ -6,7 +6,7 @@ weight = 18
 
 Retravailler en profondeur sur ce site web et relire tous mes écrits a réveillé l'envie.
     
-Toujours tellement à raconter, en se laissant porter par les saisons du moment, automne, hiver, la gratitude de la création, et l'observation des animaux, des paysages et des sentiments.
+Toujours tellement à raconter, en se laissant porter par les saisons du moment, automne, hiver, la gratitude de la création, et l'observation de la faune, des paysages et des sentiments.
 
 D'octobre 2023 à janvier 2024
 

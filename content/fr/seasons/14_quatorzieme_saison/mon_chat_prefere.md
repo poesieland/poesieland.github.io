@@ -3,11 +3,11 @@ title = "Mon chat préféré"
 id = "mon_chat_prefere_14"
 date = 1999-11-17
 weight = 14
-categories = ["Animaux"]
+categories = ["Faune"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Mon chat préféré"
-LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Mon chat se love et se tortille

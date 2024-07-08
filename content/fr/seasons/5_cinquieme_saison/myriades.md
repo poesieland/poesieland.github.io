@@ -3,10 +3,10 @@ title = "Myriades"
 id = "myriades_5"
 date = 1997-10-28
 weight = 40
-categories = ["Animaux", "Automne"]
+categories = ["Faune", "Automne"]
 tags = ["nature", "saisons", "1997"]
-LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post"
 +++
 
 Quand les oiseaux en myriade
