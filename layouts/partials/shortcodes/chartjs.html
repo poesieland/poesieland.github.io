@@ -4,16 +4,23 @@
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
 {{- $inline := .inline }}
+{{- $text := .text }}
 
 {{- with $page }}
 {{- if not $inline }}
 <div class="chartjs-wrapper" style="position:relative;width:{{ $width }};margin-left:calc((100% - {{ $width }})/2);margin-right:auto;">
   <canvas id="{{ $id }}"></canvas>
+  {{- if $text }}
+  <div style="padding:5% 10%;text-align:center;">{{ $text }}</div>
+  {{- end }}
 </div>
 {{- end }}
 {{- if $inline }}
 <div class="chartjs-wrapper" style="width:{{ $width }};display:inline-block;">
   <canvas id="{{ $id }}"></canvas>
+  {{- if $text }}
+  <div style="padding:5% 10%;text-align:center;">{{ $text }}</div>
+  {{- end }}
 </div>
 {{- end }}
 <script type="module" src="{{ $jsFile }}"></script>

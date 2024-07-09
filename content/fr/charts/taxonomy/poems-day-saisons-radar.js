@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-saisonsRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(255, 149, 5, 0.5)', borderColor: 'rgba(255, 149, 5, 1)', pointBackgroundColor: 'rgba(255, 149, 5, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-saisonsRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(130, 196, 108, 0.5)', borderColor: 'rgba(130, 196, 108, 1)', pointBackgroundColor: 'rgba(130, 196, 108, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();
