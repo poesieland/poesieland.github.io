@@ -10,6 +10,7 @@ categories:
 tags:
     - "2024"
     - nature
+    - lovecat
 location: []
 info: "[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/lovecat.fr)"
 pictures: []

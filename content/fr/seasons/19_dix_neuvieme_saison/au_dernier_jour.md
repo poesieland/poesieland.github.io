@@ -5,7 +5,7 @@ date = 2024-03-05
 weight = 18
 categories = ["Temps", "Espoir"]
 tags = ["philosophie", "2024"]
-info = "Reprise des deux premiers vers d'un [poème de 1998](../6_sixieme_saison/fleurs_de_memoire)"
+info = "Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire)"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,5 +46,5 @@ Notre présence sur la terre
 Et sans regret fermons les yeux.
 
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de 1998](../6_sixieme_saison/fleurs_de_memoire)
+Reprise des deux premiers vers d'un [poème de de la sixième saison](../6_sixieme_saison/fleurs_de_memoire)
 {{% /notice %}}

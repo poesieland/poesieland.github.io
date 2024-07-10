@@ -5,7 +5,7 @@ date = 2024-06-11
 weight = 32
 categories = ["Eté", "Automne"]
 tags = ["saisons", "2024"]
-info = "Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/est_ce_un_automne) en modifiant cependant le premier vers. Voir aussi la [reprise de 2023](../18_dix_huitieme_saison/saisons)"
+info = "Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) en modifiant cependant le premier vers. Voir aussi la [reprise de la dix-huitième saison](../18_dix_huitieme_saison/saisons)"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,5 +37,5 @@ Belle saison tremble et rancit
 Je rallume ma cheminée !
 
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/est_ce_un_automne) en modifiant cependant le premier vers. Voir aussi la [reprise de 2023](../18_dix_huitieme_saison/saisons)
+Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) en modifiant cependant le premier vers. Voir aussi la [reprise de la dix-huitième saison](../18_dix_huitieme_saison/saisons)
 {{% /notice %}}

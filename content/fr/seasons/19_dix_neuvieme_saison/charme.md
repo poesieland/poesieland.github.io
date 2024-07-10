@@ -5,7 +5,7 @@ date = 2024-02-07
 weight = 7
 categories = ["Femme", "Romantisme"]
 tags = ["amour", "2024"]
-info = "Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème"
+info = "Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,5 +46,5 @@ Ivres d'accords, des corps, de danse,
 Je vous souris, je vais m'asseoir.
 
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
+Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/la_danse) pour s'amuser un peu sur ce thème
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 2024-02-18
 weight = 10
 categories = ["Enfance et adolescence"]
 tags = ["philosophie", "2024"]
-info = "Reprise du premier vers d'un [poème de 1998](../6_sixieme_saison/poussieres)"
+info = "Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres)"
 pictures = ["Ma première découverte des tulipes", "Ma maison verte"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post"
@@ -33,7 +33,7 @@ Quand le soir sous la soupente
 
 Le train vibrait au lointain
 
-Pour aller au jour chatain
+Pour aller au jour châtain
 
 Plus loin... L'enfant dort, charmante.
 
@@ -69,5 +69,5 @@ Ce temps-là à l'unisson.
 {{< figure src="/images/ce_temps_la_19_1.jpg" title="Ma maison verte" >}}
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de 1998](../6_sixieme_saison/poussieres)
+Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres)
 {{% /notice %}}

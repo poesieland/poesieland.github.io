@@ -3,8 +3,8 @@ title = "Le chat"
 id = "le_chat_20"
 date = 2024-06-19
 weight = 42
-categories = ["Faune"]
-tags = ["nature", "2024"]
+categories = [ "Faune" ]
+tags = [ "2024", "nature", "lovecat" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

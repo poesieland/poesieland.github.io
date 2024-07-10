@@ -2,7 +2,7 @@
 title = "Faune"
 +++
 
-Un joyeux bestiaire de créatures fascinantes, surtout des [chats](/search.html?search-by=chat).
+Un joyeux bestiaire de créatures fascinantes, surtout des [chats](/search.html?search-by=chat). D'ailleurs j'ai ajouté une page qui liste les poèmes pour les [amoureux des chats](/tags/lovecat).
 
 Des [oiseaux](/search.html?search-by=oiseau) tels que [merle](/search.html?search-by=merle), [hirondelle](/search.html?search-by=hirondelle), [cygne](/search.html?search-by=cygne), [colombe](/search.html?search-by=colombe), [pic-vert](../../seasons/5_cinquieme_saison/le_pic_vert).
 

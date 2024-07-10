@@ -3,8 +3,8 @@ title = "Chaleurs"
 id = "chaleurs_1"
 date = 1996-08-10
 weight = 22
-categories = ["Faune"]
-tags = ["nature", "1996"]
+categories = [ "Faune" ]
+tags = [ "1996", "nature", "lovecat" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -5,7 +5,7 @@ date = 2024-04-07
 weight = 40
 categories = ["Jardin et paysage"]
 tags = ["nature", "2024"]
-info = "Reprise du premier vers d'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir."
+info = "Reprise du premier vers d'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir."
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,5 +46,5 @@ Quand les moutons sans plus berger
 S'interpellent et se répondent.
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir.
+Reprise du premier vers d'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) mais le reste n'a rien à voir.
 {{% /notice %}}
