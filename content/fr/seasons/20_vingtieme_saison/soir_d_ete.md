@@ -7,8 +7,9 @@ verseLength: 6
 divider: ""
 categories:
     - Ciel
-    - Eté
     - Crépuscule
+    - Eté
+    - Climat
 tags:
     - "2024"
     - nature

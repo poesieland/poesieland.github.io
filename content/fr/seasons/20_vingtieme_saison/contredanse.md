@@ -8,6 +8,7 @@ divider: ""
 categories:
     - Eau douce
     - Révolte
+    - Climat
 tags:
     - "2024"
     - nature

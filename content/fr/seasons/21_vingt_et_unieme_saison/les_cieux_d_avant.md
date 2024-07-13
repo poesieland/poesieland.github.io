@@ -8,6 +8,7 @@ divider: ""
 categories:
     - Ciel
     - Temps
+    - Climat
 tags:
     - "2024"
     - nature

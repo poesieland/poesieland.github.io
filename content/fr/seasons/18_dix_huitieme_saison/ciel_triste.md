@@ -8,6 +8,7 @@ divider: ""
 categories:
     - Ciel
     - Eau douce
+    - Climat
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""

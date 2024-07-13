@@ -7,6 +7,7 @@ verseLength: 6
 divider: ""
 categories:
     - Eau douce
+    - Climat
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""

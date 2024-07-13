@@ -9,6 +9,7 @@ categories:
     - Eau douce
     - Hiver
     - Révolte
+    - Climat
 tags:
     - "2024"
     - nature

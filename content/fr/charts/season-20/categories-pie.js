@@ -19,6 +19,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 4, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 1, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 3, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Climat', value: 10, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 4, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 3, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Eté', value: 8, color: 'rgba(0, 86, 27, 1)' },

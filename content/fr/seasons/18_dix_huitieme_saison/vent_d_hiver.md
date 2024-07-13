@@ -70,15 +70,15 @@ Dissonant sifflement vainqueur
 Amène chaos qui culmine.
 
  \
-C'est une bataille de fait
-
-Perdue, allez, déjà, sans guerre
-
-Quand la saison cherche-misère
-
- \
-Est prête : hiver ! Je n'aime pas
+C'est une bataille de fait,
 
 Ton esprit tourmenté, défait
 
-Qui gémit les peurs et trépas !
+Victorieux déjà sans guerre
+
+ \
+Claironne hiver ! Je n'aime pas
+
+Quand la saison cherche-misère
+
+Gémit ses peurs et ses trépas !

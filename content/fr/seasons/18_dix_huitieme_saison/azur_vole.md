@@ -6,8 +6,9 @@ date: 2024-01-06
 verseLength: 12
 divider: ""
 categories:
-    - Hiver
     - Ciel
+    - Hiver
+    - Climat
 tags:
     - "2024"
     - nature

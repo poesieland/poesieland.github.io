@@ -3,8 +3,8 @@ title = "Ô Soleil"
 id = "o_soleil_19"
 date = 2024-03-23
 weight = 26
-categories = ["Ciel", "Foi"]
-tags = ["nature", "philosophie", "2024"]
+categories = [ "Ciel", "Foi", "Climat" ]
+tags = [ "nature", "philosophie", "2024" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post"
 +++

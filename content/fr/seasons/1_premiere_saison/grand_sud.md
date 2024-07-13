@@ -3,10 +3,11 @@ title = "Grand Sud"
 id = "grand_sud_1"
 date = 1996-03-03
 weight = 31
-categories = ["Jardin et paysage"]
-tags = ["nature", "1996"]
+categories = [ "Jardin et paysage" ]
+tags = [ "nature", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Par-delà les toits bleus on entrevoit la mer

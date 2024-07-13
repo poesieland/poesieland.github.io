@@ -3,8 +3,8 @@ title = "Encore une averse"
 id = "encore_une_averse_20"
 date = 2024-06-16
 weight = 40
-categories = ["Eau douce"]
-tags = ["nature", "2024"]
+categories = [ "Eau douce", "Climat" ]
+tags = [ "nature", "2024" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -9,10 +9,12 @@ categories:
     - Automne
     - Eté
     - Révolte
+    - Climat
 tags:
     - "2024"
-    - saisons
     - philosophie
+    - saisons
+    - nature
 location: []
 info: Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/l_automne_est_venu)
 pictures: []

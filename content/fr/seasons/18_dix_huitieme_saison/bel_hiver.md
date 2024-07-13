@@ -7,6 +7,7 @@ verseLength: 12
 divider: ""
 categories:
     - Hiver
+    - Climat
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""
@@ -45,6 +46,7 @@ ensureTagSaisons4: ""
 tags:
     - "2023"
     - saisons
+    - nature
 info: ""
 pictures: []
 type: ""

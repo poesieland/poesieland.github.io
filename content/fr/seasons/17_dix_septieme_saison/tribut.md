@@ -6,6 +6,7 @@ date: 2005-09-06
 divider: ""
 categories:
     - Flore
+    - Climat
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""

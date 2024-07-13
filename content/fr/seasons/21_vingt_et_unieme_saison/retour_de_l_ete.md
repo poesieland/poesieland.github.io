@@ -6,8 +6,9 @@ date: 2024-07-07
 verseLength: 6
 divider: ""
 categories:
-    - Faune
     - Eté
+    - Faune
+    - Climat
 tags:
     - "2024"
     - nature

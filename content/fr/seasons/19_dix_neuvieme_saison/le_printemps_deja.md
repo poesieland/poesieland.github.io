@@ -3,8 +3,8 @@ title = "Le printemps déjà"
 id = "le_printemps_deja_19"
 date = 2024-01-28
 weight = 5
-categories = ["Printemps", "Jardin et paysage"]
-tags = ["saisons", "nature", "2024"]
+categories = [ "Jardin et paysage", "Printemps", "Climat" ]
+tags = [ "saisons", "nature", "2024" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

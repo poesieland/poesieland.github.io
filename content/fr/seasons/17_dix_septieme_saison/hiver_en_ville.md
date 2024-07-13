@@ -3,10 +3,11 @@ title = "Hiver en ville"
 id = "hiver_en_ville_17"
 date = 2005-01-31
 weight = 13
-categories = ["Ville", "Hiver"]
-tags = ["ombres et lumières", "saisons", "2005"]
+categories = [ "Ville", "Hiver" ]
+tags = [ "ombres et lumières", "saisons", "2005" ]
 verseLength = 9
 LastModifierDisplayName = "Barbara Post"
+location = [ "Bordeaux" ]
 +++
 
 Je n'aurai pas un an de plus

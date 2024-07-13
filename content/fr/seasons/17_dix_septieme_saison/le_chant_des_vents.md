@@ -3,11 +3,12 @@ title = "Le chant des vents"
 id = "le_chant_des_vents_17"
 date = 2005-04-11
 weight = 20
-categories = ["Flore", "Temps"]
-tags = ["nature", "philosophie", "2005"]
-pictures = ["Photo du 29.08.2004"]
+categories = [ "Flore", "Temps" ]
+tags = [ "nature", "philosophie", "2005" ]
+pictures = [ "Photo du 29.08.2004" ]
 verseLength = 10
 LastModifierDisplayName = "Barbara Post"
+location = [ "Reims" ]
 +++
 
 Dans mon jardin, treize ans plus tôt déjà

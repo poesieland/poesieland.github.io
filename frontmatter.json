@@ -8,7 +8,8 @@
         "Reims",
         "Paris",
         "Bordeaux",
-        "Charleroi"
+        "Charleroi",
+        "Où je n'ai pas été"
       ]
     }
   ],
@@ -362,6 +363,17 @@
             "fieldRef": "categories",
             "operator": "contains",
             "value": "Eau douce",
+            "caseSensitive": false
+          }
+        },
+        {
+          "title": "Ensure tag \"nature\" is present",
+          "name": "ensureTagNature8",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Climat",
             "caseSensitive": false
           }
         },

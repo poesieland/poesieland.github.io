@@ -7,6 +7,7 @@ verseLength: 7
 divider: ""
 categories:
     - Eau douce
+    - Climat
 tags:
     - "2024"
     - nature

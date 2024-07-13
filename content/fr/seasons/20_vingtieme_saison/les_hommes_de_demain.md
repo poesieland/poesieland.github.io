@@ -3,13 +3,13 @@ title = "Les hommes de demain"
 id = "les_hommes_de_demain_20"
 date = 2024-05-15
 weight = 14
-categories = ["Espoir"]
-tags = ["philosophie", "2024"]
+categories = [ "Espoir" ]
+tags = [ "2024", "philosophie" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
 
-Ils nous rempalceront
+Ils nous remplaceront
 
 Les enfants que l'on aime,
 

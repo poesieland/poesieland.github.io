@@ -3,8 +3,8 @@ title = "Débâcle"
 id = "debacle_19"
 date = 2024-04-05
 weight = 38
-categories = ["Révolte", "Printemps"]
-tags = ["philosophie", "saisons", "2024"]
+categories = [ "Printemps", "Révolte", "Climat" ]
+tags = [ "2024", "philosophie", "saisons", "nature" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -18,7 +18,7 @@ C'était une fin de printemps
 Au rêve bleu qu'il avalise.
 
  \
-Tu nas m'as pas laissé choisir
+Tu ne m'as m'as pas laissé choisir
 
 D'abri quand la saison cruelle
 

@@ -7,9 +7,11 @@ verseLength: 6
 divider: ""
 categories:
     - Révolte
+    - Climat
 tags:
     - "2024"
     - philosophie
+    - nature
 location: []
 info: ""
 pictures: []

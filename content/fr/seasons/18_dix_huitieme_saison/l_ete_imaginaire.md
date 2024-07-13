@@ -8,6 +8,7 @@ divider: ""
 categories:
     - Eté
     - Jardin et paysage
+    - Climat
 ensureTagAmour: ""
 ensureTagAmour2: ""
 ensureTagAmour3: ""

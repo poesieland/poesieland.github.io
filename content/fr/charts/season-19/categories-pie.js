@@ -22,6 +22,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eau douce', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 4, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 3, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Climat', value: 5, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Printemps', value: 10, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 1, color: 'rgba(27, 79, 8, 1)' },

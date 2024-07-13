@@ -6,9 +6,10 @@ date: 2023-11-01
 divider: ""
 categories:
     - Automne
+    - Eté
     - Hiver
     - Printemps
-    - Eté
+    - Climat
 ensureTagSaisons: ""
 ensureTagSaisons2: ""
 ensureTagSaisons3: ""
@@ -16,6 +17,7 @@ ensureTagSaisons4: ""
 tags:
     - "2023"
     - saisons
+    - nature
 info: Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée
 type: ""
 acrostiche: ""
