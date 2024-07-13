@@ -5,7 +5,7 @@ date = 2024-06-13
 weight = 35
 categories = ["Aube"]
 tags = ["ombres et lumières", "2024"]
-info = "Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)"
+info = "Reprise légèrement modifiée des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/calme_du_soir)"
 verseLength = 9
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,5 +37,5 @@ Discours faux qui ment comme respire :
 Je m'envole à l'orbe du matin.
 
 {{% notice style="primary" %}}
-Reprise légèrement modifiée des deux premiers vers d'un [poème de 1997](../3_troisieme_saison/calme_du_soir)
+Reprise légèrement modifiée des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/calme_du_soir)
 {{% /notice %}}

@@ -5,7 +5,7 @@ date = 2024-03-24
 weight = 27
 categories = ["Temps"]
 tags = ["philosophie", "2024"]
-info = "Moins mélancolique qu'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*)."
+info = "Moins mélancolique qu'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*)."
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -46,5 +46,5 @@ La meilleure saveur :
 Celle du temps qui passe.
 
 {{% notice style="primary" %}}
-Moins mélancolique qu'un [poème de 1997](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*).
+Moins mélancolique qu'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*).
 {{% /notice %}}
