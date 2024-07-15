@@ -1,10 +1,10 @@
 +++
 title = "Dix-neuvième Saison : Destination bonheur"
-summary = "La poésie est assertive, tournée vers la philosophie, les saisons, la nature. De janvier à avril 2024"
+summary = "La poésie est assertive, tournée vers la philosophie, la nature, les saisons. De janvier à avril 2024"
 weight = 19
 +++
 
-Le temps, le printemps... Quelques thèmes résonnnent plus fort. De janvier à avril 2024
+En gros plan : le printemps, le temps... un peu de climat et d'être. De janvier à avril 2024
 
 ---
 {{% children  %}}

@@ -1,12 +1,12 @@
 +++
 title = "Dix-huitième Saison : Retour aux sources"
-summary = "La poésie est toujours aussi belle à mon coeur, dans une nouvelle impulsion plus analytique. Les saisons et la philosophie me portent. D'octobre 2023 à janvier 2024"
+summary = "La poésie est toujours aussi belle à mon coeur, dans une nouvelle impulsion plus analytique. La nature, les saisons du moment et la philosophie me portent. D'octobre 2023 à janvier 2024"
 weight = 18
 +++
 
 Retravailler en profondeur sur ce site web et relire tous mes écrits a réveillé l'envie.
     
-Toujours tellement à raconter, en se laissant porter par les saisons du moment, automne, hiver, la gratitude de la création, et l'observation de la faune, des paysages et des sentiments.
+Toujours tellement à raconter et surtout, en se laissant porter par le climat dérangé dont je suis témoin, les saisons du moment, automne, hiver, la gratitude de la création, et l'observation de la faune, des paysages et des sentiments.
 
 D'octobre 2023 à janvier 2024
 

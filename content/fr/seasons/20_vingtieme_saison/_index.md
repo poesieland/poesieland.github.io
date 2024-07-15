@@ -4,7 +4,7 @@ summary = "Philosophie, nature, et puis l'été... D'avril à juin 2024"
 weight = 20
 +++
 
-Eté, portraits, crépuscule et eau douce sont les thèmes de cette saison. D'avril à juin 2024
+Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette saison. D'avril à juin 2024
 
 ---
 {{% children  %}}
