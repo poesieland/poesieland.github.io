@@ -7,10 +7,9 @@ title = "Amour"
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Amitié](/categories/amitie)
-- [Amour malheureux](/categories/amour-malheureux)
+- [Amour platonique](/categories/amour-platonique)
 - [Romantisme](/categories/romantisme)
-- [Femme](/categories/femme)
-- [Aimé (amant)](/categories/aime-amant)
+- [Passion](/categories/passion)
 
 {{< chartjs id="poemDay-amourRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-amour-radar.js" />}}
 

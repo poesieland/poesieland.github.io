@@ -3,8 +3,8 @@ title = "Déception"
 id = "deception_4"
 date = 1997-09-06
 weight = 22
-categories = ["Amour malheureux"]
-tags = ["amour", "1997"]
+categories = [ "Passion" ]
+tags = [ "amour", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -29,7 +29,7 @@ Les jours trop longs, ce mot : reviens !
  \
 Ce n'est qu'ébauche malhabile
 
-Notre amour d'hier, mais qu'oublier?
+Notre amour d'hier, mais qu'oublier ?
 
 Ah! Le cœur humain si fragile,
 

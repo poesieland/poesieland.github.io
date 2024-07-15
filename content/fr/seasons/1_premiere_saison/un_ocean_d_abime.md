@@ -3,8 +3,8 @@ title = "Un océan d'abîme"
 id = "un_ocean_d_abime_1"
 date = 1996-09-01
 weight = 8
-categories = ["Amour malheureux"]
-tags = ["amour", "1996"]
+categories = [ "Amour platonique" ]
+tags = [ "amour", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

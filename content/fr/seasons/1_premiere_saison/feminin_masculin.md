@@ -3,8 +3,8 @@ title = "Féminin, masculin"
 id = "feminin_masculin_1"
 date = 1996-05-25
 weight = 3
-categories = ["Femme"]
-tags = ["amour", "1996"]
+categories = [ "Passion" ]
+tags = [ "amour", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -3,8 +3,8 @@ title = "Ce ne fut pas"
 id = "ce_ne_fut_pas_17"
 date = 2005-02-20
 weight = 15
-categories = ["Amour malheureux"]
-tags = ["amour", "2005"]
+categories = [ "Passion" ]
+tags = [ "amour", "2005" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post"
 +++

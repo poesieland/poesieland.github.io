@@ -3,8 +3,8 @@ title = "Folie d'amour"
 id = "folie_d_amour_1"
 date = 1996-01-10
 weight = 2
-categories = ["Femme"]
-tags = ["amour", "1996"]
+categories = [ "Amour platonique" ]
+tags = [ "amour", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

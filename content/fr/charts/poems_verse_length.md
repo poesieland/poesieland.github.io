@@ -17,6 +17,7 @@ Au départ c'était une expérimentation.
 
 #### En vers de 3 pieds
 
+- [L'amoureuse (3e saison)](../seasons/3_troisieme_saison/l_amoureuse)
 - [Minimal (3e saison)](../seasons/3_troisieme_saison/minimal)
 - [Vivre (4e saison)](../seasons/4_quatrieme_saison/vivre)
 - [Quand les jours... (17e saison)](../seasons/17_dix_septieme_saison/quand_les_jours)

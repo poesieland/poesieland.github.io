@@ -3,8 +3,8 @@ title = "Serez-vous..."
 id = "serez_vous_4"
 date = 1997-07-11
 weight = 20
-categories = ["Femme"]
-tags = ["amour", "1997"]
+categories = [ "Amour platonique" ]
+tags = [ "amour", "1997" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
