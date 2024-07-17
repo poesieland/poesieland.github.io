@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-amour_platoniqueRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(55, 111, 125, 0.5)', borderColor: 'rgba(55, 111, 125, 1)', pointBackgroundColor: 'rgba(55, 111, 125, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-amour_platoniqueRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(255, 111, 125, 0.5)', borderColor: 'rgba(255, 111, 125, 1)', pointBackgroundColor: 'rgba(255, 111, 125, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

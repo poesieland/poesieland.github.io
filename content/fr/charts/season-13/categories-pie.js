@@ -1,7 +1,7 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Amour platonique', value: 2, color: 'rgba(55, 111, 125, 1)' },
+    { label: 'Amour platonique', value: 2, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 1, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 2, color: 'rgba(253, 241, 184, 1)' },

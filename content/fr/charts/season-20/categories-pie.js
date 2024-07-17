@@ -1,8 +1,8 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Amitié', value: 2, color: 'rgba(255, 229, 236, 1)' },
-    { label: 'Romantisme', value: 1, color: 'rgba(255, 179, 198, 1)' },
+    { label: 'Amitié', value: 2, color: 'rgba(254, 231, 240, 1)' },
+    { label: 'Romantisme', value: 1, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Aube', value: 1, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(152, 151, 88, 1)' },
     { label: 'Crépuscule', value: 5, color: 'rgba(179, 103, 0, 1)' },
