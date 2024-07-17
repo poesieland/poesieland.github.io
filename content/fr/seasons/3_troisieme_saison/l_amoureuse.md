@@ -3,9 +3,9 @@ title = "L'Amoureuse"
 id = "l_amoureuse_3"
 date = 1997-02-21
 weight = 13
-categories = ["Romantisme"]
-tags = ["amour", "1997"]
-verseLength = 4
+categories = [ "Amour platonique" ]
+tags = [ "amour", "1997" ]
+verseLength = 3
 LastModifierDisplayName = "Barbara Post"
 +++
 

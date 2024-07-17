@@ -4,7 +4,7 @@ summary = "Amour et philosophie décrivent de multiples bonheurs. De septembre 1
 weight = 5
 +++
 
-Romantisme, être, mais aussi temps, apprentissage et automne.
+Passion et amour platonique, être, mais aussi temps, apprentissage et automne.
 
 De septembre 1997 à mars 1998
 

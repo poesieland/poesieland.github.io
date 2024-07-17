@@ -3,10 +3,11 @@ title = "Les embruns du cœur"
 id = "les_embruns_du_cour_5"
 date = 1997-11-21
 weight = 19
-categories = ["Romantisme"]
-tags = ["amour", "1997"]
-verseLength = 6
+categories = [ "Passion" ]
+tags = [ "amour", "1997" ]
 LastModifierDisplayName = "Barbara Post"
+verseLength = -1
+info = "Vers variable : 6, 2"
 +++
 
 Quand les embruns du cœur

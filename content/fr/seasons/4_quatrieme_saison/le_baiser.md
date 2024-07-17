@@ -3,8 +3,8 @@ title = "Le Baiser"
 id = "le_baiser_4"
 date = 1997-08-21
 weight = 18
-categories = ["Romantisme", "Toucher"]
-tags = ["amour", "attitudes", "1997"]
+categories = [ "Toucher", "Passion" ]
+tags = [ "amour", "attitudes", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

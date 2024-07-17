@@ -3,8 +3,8 @@ title = "Ville de mes amours"
 id = "ville_de_mes_amours_1"
 date = 1996-06-13
 weight = 5
-categories = ["Amour malheureux", "Ville"]
-tags = ["amour", "ombres et lumières", "1996"]
+categories = [ "Ville", "Amour platonique" ]
+tags = [ "amour", "ombres et lumières", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

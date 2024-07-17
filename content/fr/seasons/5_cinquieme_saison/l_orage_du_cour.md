@@ -3,8 +3,8 @@ title = "L'orage du cœur"
 id = "l_orage_du_cour_5"
 date = 1998-01-04
 weight = 2
-categories = ["Romantisme"]
-tags = ["amour", "1998"]
+categories = [ "Amour platonique" ]
+tags = [ "amour", "1998" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

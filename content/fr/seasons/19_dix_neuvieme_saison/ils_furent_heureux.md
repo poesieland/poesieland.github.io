@@ -3,8 +3,8 @@ title = "Ils furent heureux"
 id = "ils_furent_heureux_19"
 date = 2024-04-16
 weight = 44
-categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+categories = [ "Portraits", "Romantisme" ]
+tags = [ "2024", "philosophie", "amour" ]
 info = "Dans ce poème se cachent un surnom et un prénom"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post"
 
 Je revois ce bonheur, une main sur le ventre
 
-Où je grandissais calme au printemps sybillin
+Où je grandissais calme au printemps sibyllin
 
 En cette autre jeunesse insouciante chantre
 

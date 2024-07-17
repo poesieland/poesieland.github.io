@@ -76,7 +76,7 @@
           "when": {
             "fieldRef": "categories",
             "operator": "contains",
-            "value": "Femme",
+            "value": "Passion",
             "caseSensitive": false
           }
         },
@@ -98,7 +98,7 @@
           "when": {
             "fieldRef": "categories",
             "operator": "contains",
-            "value": "Amour malheureux",
+            "value": "Amour platonique",
             "caseSensitive": false
           }
         },
@@ -110,17 +110,6 @@
             "fieldRef": "categories",
             "operator": "contains",
             "value": "Amitié",
-            "caseSensitive": false
-          }
-        },
-        {
-          "title": "Ensure tag \"amour\" is present",
-          "name": "ensureTagAmour5",
-          "type": "heading",
-          "when": {
-            "fieldRef": "categories",
-            "operator": "contains",
-            "value": "Aimé (amant)",
             "caseSensitive": false
           }
         },

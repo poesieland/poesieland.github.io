@@ -3,8 +3,8 @@ title = "Pourquoi rêver"
 id = "pourquoi_rever_6"
 date = 1998-05-24
 weight = 47
-categories = ["Amour malheureux"]
-tags = ["amour", "1998"]
+categories = [ "Passion" ]
+tags = [ "amour", "1998" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 8
 +++

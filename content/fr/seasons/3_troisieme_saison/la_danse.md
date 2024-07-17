@@ -3,8 +3,8 @@ title = "La Danse"
 id = "la_danse_3"
 date = 1997-01-18
 weight = 11
-categories = ["Femme", "Mouvement"]
-tags = ["amour", "attitudes", "1997"]
+categories = [ "Mouvement", "Amour platonique" ]
+tags = [ "amour", "attitudes", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
