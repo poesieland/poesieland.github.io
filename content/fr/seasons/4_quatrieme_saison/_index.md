@@ -4,7 +4,7 @@ summary = "Une Saison riche, où se mêlent amour, philosophie, nature et saison
 weight = 4
 +++
 
-Une Saison riche d'un essor romantique, célébration de l'automne et également de la lune.  De mai à septembre 1997
+Une Saison riche d'un essor romantique et passionné, célébration de l'automne et également de la lune.  De mai à septembre 1997
 
 ---
 {{% children  %}}

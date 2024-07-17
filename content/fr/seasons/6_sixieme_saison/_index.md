@@ -4,7 +4,7 @@ summary = "Entre philosophie pour chercher sa voie, et long regard vers un amour
 weight = 6
 +++
 
-En cherchant sa voie, la philosophie interroge massivement l'être, la création, dresse des portraits et n'oublie pas l'espoir, tandis que les évocations se partagent entre un amour déçu passé et l'amitié salvatrice.
+En cherchant sa voie, la philosophie interroge massivement l'être, la création, dresse des portraits et n'oublie pas l'espoir, tandis que les évocations se partagent entre un amour déçu romantique et passionné, et l'amitié salvatrice.
 
 De mars à juin 1998
 

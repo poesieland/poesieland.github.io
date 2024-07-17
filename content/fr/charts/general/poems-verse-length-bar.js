@@ -2,10 +2,10 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: '2', value: 3 },
-    { label: '3', value: 4 },
-    { label: '4', value: 24 },
+    { label: '3', value: 5 },
+    { label: '4', value: 23 },
     { label: '5', value: 37 },
-    { label: '6', value: 236 },
+    { label: '6', value: 235 },
     { label: '7', value: 73 },
     { label: '8', value: 356 },
     { label: '9', value: 8 },
@@ -17,7 +17,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '5, 2', value: 2, color: 'rgba(72, 149, 239, 1)' },
     { label: '5, 7, 5', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '5, 8', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '6, 2', value: 1, color: 'rgba(72, 149, 239, 1)' },
+    { label: '6, 2', value: 2, color: 'rgba(72, 149, 239, 1)' },
     { label: '6, 3', value: 2, color: 'rgba(72, 149, 239, 1)' },
     { label: '6, 5, 4', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 5', value: 1, color: 'rgba(72, 149, 239, 1)' },
