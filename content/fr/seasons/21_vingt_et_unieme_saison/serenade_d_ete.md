@@ -38,7 +38,7 @@ Qui se perd aux cieux.
  \
 C'est le temps des mues,
 
-Oiseaux quittent nids,
+Vides sont les nids !
 
 Aux éclats vernis
 

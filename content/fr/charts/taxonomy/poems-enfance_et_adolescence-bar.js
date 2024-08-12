@@ -21,7 +21,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Dix-huitième Saison : Retour aux sources (2023 - 2024)', value: 3, color: 'rgba(234, 191, 250, 0.5)' },
     { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 3, color: 'rgba(234, 191, 250, 0.5)' },
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 2, color: 'rgba(234, 191, 250, 0.5)' },
-    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 2, color: 'rgba(234, 191, 250, 0.5)' },
+    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 3, color: 'rgba(234, 191, 250, 0.5)' },
   ];
     addBarChart('poems-enfance_et_adolescenceBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

@@ -1,6 +1,6 @@
 ---
 weight: 24
-title: priere
+title: Prière
 id: priere_21
 date: 2024-07-25
 verseLength: 12
@@ -12,7 +12,7 @@ tags:
     - philosophie
     - acrostiche
 location:
-    - Mont des cats
+    - Mont des Cats
 info: ""
 pictures: []
 type: default
