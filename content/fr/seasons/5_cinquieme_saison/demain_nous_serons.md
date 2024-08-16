@@ -47,7 +47,7 @@ Noircis de ton crayon les pages de l'enfance,
 Sois donc d'abord toi-même et saisis les bonheurs !
 
 {{% notice style="primary" %}}
-Dédié à mon neuveu Louis
+Dédié à mon neveu Louis
 
 Acrostiche : Demain nous serons
 {{% /notice %}}

@@ -15,6 +15,8 @@ Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
 ### Un seul quatrain
 
+Un sujet percutant.
+
 - [Couleurs (2e saison)](../seasons/2_deuxieme_saison/couleurs)
 - [Ange (9e saison)](../seasons/9_neuvieme_saison/ange)
 - [Ivre (9e saison)](../seasons/9_neuvieme_saison/ivre)
@@ -31,10 +33,13 @@ Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
 ### Sept quatrains
 
+Certaines fois une mini-nouvelle.
+
 - [Le soleil est ailleurs (2e saison)](../seasons/2_deuxieme_saison/le_soleil_est_ailleurs)
 - [Dieu, l'oiseau et l'oiseleur (2e saison)](../seasons/2_deuxieme_saison/dieu_l_oiseau_et_l_oiseleur)
 - [La maison de famille (18e saison)](../seasons/18_dix_huitieme_saison/la_maison_de_famille) 
 - [Le mot manquant (18e saison)](../seasons/18_dix_huitieme_saison/le_mot_manquant) 
+- [La mariée rose (21e saison)](../seasons/21_vingt_et_unieme_saison/la_mariee_rose) 
 
 ## Données croisées
 

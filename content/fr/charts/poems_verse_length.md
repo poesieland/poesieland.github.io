@@ -8,12 +8,13 @@ weight = 4
 {{< chartjs id="poemVerseLengthBar" width="100%" jsFile="../general/poems-verse-length-bar.js" />}}
 
 ### Très court
-Au départ c'était une expérimentation.
+Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
 #### En vers de 2 pieds
 - [Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
 - [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
 - [Légèreté (20e saison)](../seasons/20_vingtieme_saison/legerete)
+- [L'ange dans le ciel (21e saison)](../seasons/21_vingt_et_unieme_saison/l_ange_dans_le_ciel)
 
 #### En vers de 3 pieds
 
@@ -34,7 +35,7 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 
 ### Et variable
 
-[Vers ces poèmes](/tags/versVariable)
+[Vers ces {{% include "/content/common/variableVerse_poem_count.md" %}} poèmes](/tags/versVariable)
 
 ## Données croisées
 
