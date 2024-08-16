@@ -18,13 +18,13 @@ Dans une ode, heurs dansants,
 Cathédrale impassible.
 
  \
- Le vitrail explosa
+Le vitrail explosa
 
- D'un coeur qu'on éclabousse ;
+D'un coeur qu'on éclabousse ;
 
- Mon âme déversa
+Mon âme déversa
 
- Son espérance douce.
+Son espérance douce.
 
  \
 Je viens prier ici ;
