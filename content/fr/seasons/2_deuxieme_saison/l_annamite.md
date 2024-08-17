@@ -3,10 +3,11 @@ title = "L'Annamite"
 id = "l_annamite_2"
 date = 1996-10-09
 weight = 5
-categories = ["Portraits"]
-tags = ["philosophie", "1996"]
+categories = [ "Portraits" ]
+tags = [ "philosophie", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Mais dis-moi donc, belle Annamite
@@ -27,7 +28,7 @@ Quand tu grimpes en fols défis
 
 La pente des montagnes vertes
 
-Où l'histoire vit tant de pertes?
+Où l'histoire vit tant de pertes ?
 
 Guérilla rouge en souvenir,
 
@@ -51,4 +52,4 @@ Belle Annamite, est-ce ton deuil
 
 De la colline qui tressaille
 
-Et vit passer tant de mitraille?
+Et vit passer tant de mitraille ?

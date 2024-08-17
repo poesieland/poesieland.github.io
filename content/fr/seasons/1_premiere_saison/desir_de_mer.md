@@ -7,6 +7,7 @@ categories = [ "Mer", "Passion" ]
 tags = [ "nature", "amour", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Côte atlantique" ]
 +++
 
 La mer est une femme appelant le désir

@@ -33,4 +33,4 @@ Aujourd'hui je t'attends mais ne te cherche plus,
 
 Nouvelle éclosion de vivace bien-être,
 
-Je me redis enfin :" Par ton savoir je fus".
+Je me redis enfin : " Par ton savoir je fus".

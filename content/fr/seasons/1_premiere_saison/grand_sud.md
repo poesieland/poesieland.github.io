@@ -21,7 +21,7 @@ Elle amène l'odeur du large et du désert.
  \
 Là-bas, c'est le Maroc, et plus près l'Algérie
 
-Dont le chaud vent du sud apporte la rumeur;
+Dont le chaud vent du sud apporte la rumeur ;
 
 Au-dessus des vieux souks, de la foi la ferveur
 

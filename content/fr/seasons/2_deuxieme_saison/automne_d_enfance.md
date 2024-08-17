@@ -3,10 +3,11 @@ title = "Automne d'enfance"
 id = "automne_d_enfance_2"
 date = 1996-10-22
 weight = 16
-categories = ["Automne", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "1996"]
+categories = [ "Automne", "Enfance et adolescence" ]
+tags = [ "saisons", "philosophie", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Lorraine" ]
 +++
 
 L'automne en sa merveille est doux comme un nuage

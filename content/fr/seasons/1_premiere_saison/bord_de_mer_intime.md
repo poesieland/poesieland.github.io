@@ -3,10 +3,11 @@ title = "Bord de mer intime"
 id = "bord_de_mer_intime_1"
 date = 1996-07-09
 weight = 25
-categories = ["Mer"]
-tags = ["nature", "1996"]
+categories = [ "Mer" ]
+tags = [ "nature", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Côte atlantique" ]
 +++
 
 Un souvenir marin m'emplissait tout à l'heure,

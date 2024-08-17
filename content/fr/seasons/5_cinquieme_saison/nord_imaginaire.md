@@ -7,6 +7,7 @@ categories = [ "Hiver", "Enfance et adolescence" ]
 tags = [ "1997", "saisons", "philosophie" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+location = [ "Où je n'ai pas été" ]
 +++
 
 Dans le grand Nord, autre savane,

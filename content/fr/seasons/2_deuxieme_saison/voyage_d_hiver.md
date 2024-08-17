@@ -3,10 +3,11 @@ title = "Voyage d'hiver"
 id = "voyage_d_hiver_2"
 date = 1996-12-06
 weight = 23
-categories = ["Hiver"]
-tags = ["saisons", "1996"]
+categories = [ "Hiver" ]
+tags = [ "saisons", "1996" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Le souvenir s'enfuit

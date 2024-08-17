@@ -3,10 +3,11 @@ title = "Impression de mer"
 id = "impression_de_mer_1"
 date = 1996-07-12
 weight = 26
-categories = ["Mer"]
-tags = ["nature", "1996"]
+categories = [ "Mer" ]
+tags = [ "nature", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Côte atlantique" ]
 +++
 
 La mer m'envahit avec choc

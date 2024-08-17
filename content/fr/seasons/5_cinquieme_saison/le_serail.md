@@ -3,10 +3,11 @@ title = "Le Sérail"
 id = "le_serail_5"
 date = 1997-10-20
 weight = 32
-categories = ["Portraits", "Flore"]
-tags = ["philosophie", "nature", "1997"]
+categories = [ "Portraits", "Flore" ]
+tags = [ "philosophie", "nature", "1997" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Les roses du désert

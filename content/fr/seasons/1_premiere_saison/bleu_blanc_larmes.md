@@ -3,11 +3,12 @@ title = "Bleu, blanc, larmes"
 id = "bleu_blanc_larmes_1"
 date = 1994-01-01
 weight = 39
-categories = ["Révolte"]
-tags = ["philosophie", "1994"]
+categories = [ "Révolte" ]
+tags = [ "philosophie", "1994" ]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Le muezzin appelle et chacun s'agenouille :
@@ -41,9 +42,9 @@ Ce n'est que par terreur que la leur ils acceptent.
 
 Est-il encor humain, qui ne sait qu'égorger
 
-Au mépris du grand Livre et de tous ses préceptes?
+Au mépris du grand Livre et de tous ses préceptes ?
 
-Mais qu'es-tu devenue, ô belle et blanche Alger?
+Mais qu'es-tu devenue, ô belle et blanche Alger ?
 
 {{% notice style="primary" %}}
 Reprise en 1995/1996 d'un poème de 1994

@@ -7,7 +7,7 @@ categories = [ "Ville", "Portraits" ]
 tags = [ "ombres et lumières", "philosophie", "2001" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 6
-location = [ "La Rochelle" ]
+location = [ "Côte atlantique" ]
 +++
 
 La cité m'interpelle:

@@ -7,6 +7,7 @@ categories = [ "Eau douce", "Romantisme" ]
 tags = [ "nature", "amour", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Alpes" ]
 +++
 
 Le ciel s'encolline en cascade :

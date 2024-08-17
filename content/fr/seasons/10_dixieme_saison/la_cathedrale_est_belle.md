@@ -3,11 +3,12 @@ title = "La cathédrale est belle"
 id = "la_cathedrale_est_belle_10"
 date = 1999-01-24
 weight = 3
-categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "La cathédrale est belle"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 8
+location = [ "Reims" ]
 +++
 
 La cathédrale est ma demeure;

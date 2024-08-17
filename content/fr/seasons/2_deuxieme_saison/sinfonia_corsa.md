@@ -3,11 +3,12 @@ title = "Sinfonia corsa"
 id = "sinfonia_corsa_2"
 date = 1996-10-17
 weight = 43
-categories = ["Révolte"]
-tags = ["philosophie", "1996", "sonnet"]
+categories = [ "Révolte" ]
+tags = [ "philosophie", "1996", "sonnet" ]
 type = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Au cœur de l'île verte aux montagnes altières

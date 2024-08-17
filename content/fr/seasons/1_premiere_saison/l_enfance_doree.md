@@ -3,18 +3,19 @@ title = "L'enfance dorée"
 id = "l_enfance_doree_1"
 date = 1994-01-01
 weight = 16
-categories = ["Enfance et adolescence", "Flore"]
-tags = ["philosophie", "nature", "1994"]
+categories = [ "Enfance et adolescence", "Flore" ]
+tags = [ "philosophie", "nature", "1994" ]
 info = "Reprise en 1996 d'un poème de 1994"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
+location = [ "Lorraine" ]
 +++
 
 Les bois d'un si beau vert me semblaient éloignés :
 
 Un instant trop lointain déjà lentement glisse,
 
-Ah! Cette odeur de mousse et ces fûts alignés;
+Ah ! Cette odeur de mousse et ces fûts alignés;
 
 Pourquoi ce souvenir ? Faut-il qu'il ressurgisse?
 

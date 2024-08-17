@@ -3,11 +3,12 @@ title = "Pèlerinage"
 id = "pelerinage_12"
 date = 1999-05-26
 weight = 13
-categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "Bijou sacre unions"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 10
+location = [ "Reims" ]
 +++
 
 Bijou d'orfèvre, ici, la cathédrale

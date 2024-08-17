@@ -3,10 +3,11 @@ title = "La lande"
 id = "la_lande_2"
 date = 1996-12-02
 weight = 49
-categories = ["Jardin et paysage"]
-tags = ["nature", "1996"]
+categories = [ "Jardin et paysage" ]
+tags = [ "nature", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Où je n'ai pas été" ]
 +++
 
 Dans le pays du bout du monde
