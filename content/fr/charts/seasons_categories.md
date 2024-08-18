@@ -42,4 +42,4 @@ weight = 1
 
 {{< chartjs id="season20Pie" width="40%" jsFile="../season-20/categories-pie.js" inline=true text="Eté"/>}}
 
-{{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true />}}
+{{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true text="Eté"/>}}
