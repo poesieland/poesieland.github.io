@@ -8,6 +8,7 @@ tags = [ "ombres et lumières", "philosophie", "1999", "acrostiche" ]
 acrostiche = "A la fenêtre"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
+location = [ "Paris" ]
 +++
 
 Assise à la fenêtre Est, une jeune fille,
