@@ -21,7 +21,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Dix-huitième Saison : Retour aux sources (2023 - 2024)', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 5, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 10, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 12, color: 'rgba(179, 103, 0, 0.5)' },
   ];
     addBarChart('poems-crepusculeBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

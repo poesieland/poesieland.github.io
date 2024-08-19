@@ -16,6 +16,8 @@ type: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
+location:
+    - Lorraine
 ---
 Un souvenir m'est tendre,
 

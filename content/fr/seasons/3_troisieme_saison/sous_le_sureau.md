@@ -3,10 +3,11 @@ title = "Sous le sureau"
 id = "sous_le_sureau_3"
 date = 1997-01-07
 weight = 25
-categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1997"]
+categories = [ "Enfance et adolescence" ]
+tags = [ "philosophie", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+location = [ "Lorraine" ]
 +++
 
 Qui n'a jamais aimé l'école

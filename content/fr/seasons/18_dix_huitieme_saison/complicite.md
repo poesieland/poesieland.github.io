@@ -53,6 +53,8 @@ type: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
+location:
+    - Reims
 ---
 Te souviens-tu, maman complice,
 

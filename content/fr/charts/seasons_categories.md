@@ -16,7 +16,7 @@ weight = 1
 
 {{< chartjs id="season7Pie" width="40%" jsFile="../season-7/categories-pie.js" inline=true text="Un été ignoré" />}}
 
-{{< chartjs id="season8Pie" width="40%" jsFile="../season-8/categories-pie.js" inline=true text="Revoici l'automne " />}}
+{{< chartjs id="season8Pie" width="40%" jsFile="../season-8/categories-pie.js" inline=true text="Revoici l'automne" />}}
 
 {{< chartjs id="season9Pie" width="40%" jsFile="../season-9/categories-pie.js" inline=true text="Automne et hiver" />}}
 
@@ -40,6 +40,6 @@ weight = 1
 
 {{< chartjs id="season19Pie" width="40%" jsFile="../season-19/categories-pie.js" inline=true text="Un printemps magnifique"/>}}
 
-{{< chartjs id="season20Pie" width="40%" jsFile="../season-20/categories-pie.js" inline=true text="Eté"/>}}
+{{< chartjs id="season20Pie" width="40%" jsFile="../season-20/categories-pie.js" inline=true text="Plein été"/>}}
 
-{{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true text="Eté"/>}}
+{{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true text="Tant d'été, et le retour de l'automne"/>}}
