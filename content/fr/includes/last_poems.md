@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Est-ce un automne..., écrit le 21.08.2024](./seasons/21_vingt_et_unieme_saison/est_ce_un_automne/)
+
 [Le soir est venu, écrit le 19.08.2024](./seasons/21_vingt_et_unieme_saison/le_soir_est_venu/)
 
 [Maître automne, écrit le 19.08.2024](./seasons/21_vingt_et_unieme_saison/maitre_automne/)
