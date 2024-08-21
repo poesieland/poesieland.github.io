@@ -11,7 +11,12 @@ tags:
     - "2024"
     - saisons
 location: []
-info: ""
+info: |-
+    Encore une variation sur cette question que j'adore...
+
+    - [à la troisième saison](../3_troisieme_saison/est_ce_un_automne)
+    - [à la dix-huitième saison](../18_dix_huitieme_saison/saisons)
+    - [à la vingtième saison](../20_vingtieme_saison/l_ete_glacial)
 pictures: []
 type: ""
 acrostiche: ""
