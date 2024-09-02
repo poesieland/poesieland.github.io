@@ -8,7 +8,6 @@ title = "Les jours sans"
 - 6 mai
 - 19 juillet
 - 8 août
-- 2 septembre
 - 17 septembre
 - 14 octobre
 - 27 octobre
