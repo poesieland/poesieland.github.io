@@ -11,7 +11,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Foi', value: 2, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 2, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 6, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Temps', value: 7, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 5, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Flore', value: 2, color: 'rgba(84, 114, 174, 1)' },
@@ -22,5 +22,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eté', value: 7, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 6, color: 'rgba(27, 79, 8, 1)' },
   ];
-  addPieChart('season21Pie', [data], { plugins: { title: { display: true, text: 'Vingt-et-unième Saison : C\'est vivre qui compte - Depuis juin 2024' } } });
+  addPieChart('season21Pie', [data], { plugins: { title: { display: true, text: 'Vingt-et-unième Saison : C\'est vivre qui compte - Juin à septembre 2024' } } });
 })();

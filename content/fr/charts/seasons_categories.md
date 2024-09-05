@@ -43,3 +43,5 @@ weight = 1
 {{< chartjs id="season20Pie" width="40%" jsFile="../season-20/categories-pie.js" inline=true text="Plein été"/>}}
 
 {{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true text="Tant d'été, et le retour de l'automne"/>}}
+
+{{< chartjs id="season22Pie" width="40%" jsFile="../season-22/categories-pie.js" inline=true text="L'automne..."/>}}
