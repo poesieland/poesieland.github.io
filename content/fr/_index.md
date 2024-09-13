@@ -7,7 +7,7 @@ Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne r
 
 ## Humeur du moment
 
-{{% include "./includes/last_thought.md" true %}}
+{{% include "./includes/last_thought.md" %}}
 
 ## A lire et relire
 
