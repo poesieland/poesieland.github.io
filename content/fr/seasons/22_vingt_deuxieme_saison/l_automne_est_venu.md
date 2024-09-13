@@ -36,7 +36,7 @@ Trouble, d'un esprit dissonant.
  \
 Ombre, chimère, la pâture
 
-Mue et colchiques, champignons
+Mue et colchique, champignon
 
 Naissent, baisers de la nature
 
