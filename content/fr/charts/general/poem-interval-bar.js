@@ -4,7 +4,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Moins d\'un jour', value: 200, color: 'rgba(72, 149, 239, 1)' },
     { label: 'Un jour', value: 327, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '2j', value: 149, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: '3j', value: 108, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '3j', value: 109, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 72, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '5j', value: 49, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '6j', value: 25, color: 'rgba(72, 149, 239, 0.7)' },

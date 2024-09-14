@@ -16,7 +16,11 @@ tags:
     - saisons
     - nature
 location: []
-info: Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/l_automne_est_venu)
+info: |-
+    {{% notice style="primary" %}}
+    Les poèmes qui commencent par ce vers...
+    {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
+    {{% /notice %}}
 pictures: []
 type: default
 acrostiche: ""
@@ -50,5 +54,6 @@ L'été se meurt comme un bagnard
 Tout lessivé, vert, pathétique.
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/l_automne_est_venu)
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 {{% /notice %}}

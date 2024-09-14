@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Est-ce un automne ?, écrit le 14.09.2024](./seasons/22_vingt_deuxieme_saison/est_ce_un_automne/)
+
 [Blues d'automne, écrit le 11.09.2024](./seasons/22_vingt_deuxieme_saison/blues_d_automne/)
 
 [L'automne est venu, écrit le 08.09.2024](./seasons/22_vingt_deuxieme_saison/l_automne_est_venu/)
@@ -14,7 +16,6 @@ title = "Derniers ajouts"
 
 [Langueur d'automne, écrit le 06.09.2024](./seasons/22_vingt_deuxieme_saison/langueur_d_automne/)
 
-[L'attente, écrit le 05.09.2024](./seasons/22_vingt_deuxieme_saison/l_attente/)
 
 
 

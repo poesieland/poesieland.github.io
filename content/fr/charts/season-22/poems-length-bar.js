@@ -4,7 +4,7 @@ import { addBarChart } from '../add-chart.js'
 [
     { label: '8', value: 1 },
     { label: '12', value: 4 },
-    { label: '16', value: 1 },
+    { label: '16', value: 2 },
 ]
   ];
     addBarChart('season22PoemLengthBar', ['Poèmes'], data, { scales: { y: { ticks: { stepSize: 1 } } } });

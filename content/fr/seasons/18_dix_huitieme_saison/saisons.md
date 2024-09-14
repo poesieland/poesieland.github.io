@@ -18,7 +18,11 @@ tags:
     - "2023"
     - saisons
     - nature
-info: Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée
+info: |-
+    {{% notice style="primary" %}}
+    Encore une variation sur cette question que j'adore...
+    {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+    {{% /notice %}}
 type: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -51,8 +55,7 @@ Intenses phases du climat,
 
 Ainsi m'attache et me délivre.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée"}]} -->
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) mais pour exprimer une autre idée
+Encore une variation sur cette question que j'adore...
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

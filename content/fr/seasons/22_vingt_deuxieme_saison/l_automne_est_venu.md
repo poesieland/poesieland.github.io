@@ -13,12 +13,12 @@ tags:
     - saisons
 location: []
 info: |-
+    {{% notice style="primary" %}}
     Acrostiche : l'automne venu.
 
-    Encore une variation sur ce premier vers que j'adore :
-
-    - à la [cinquième saison](../5_cinquieme_saison/l_automne_est_venu)
-    - à la [vingt-et-unième saison](../21_vingt_et_unieme_saison/destruction)
+    Les poèmes qui commencent par ce vers...
+    {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
+    {{% /notice %}}
 pictures: []
 type: ""
 acrostiche: L'automne venu
@@ -51,13 +51,9 @@ Neuf aux vestiges qui se fanent,
 
 Un pâle doigt traçant destin.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : l'automne venu"}]} -->
 {{% notice style="primary" %}}
 Acrostiche : l'automne venu.
 
-Encore une variation sur ce premier vers que j'adore :
-
-- à la [cinquième saison](../5_cinquieme_saison/l_automne_est_venu)
-- à la [vingt-et-unième saison](../21_vingt_et_unieme_saison/destruction)
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

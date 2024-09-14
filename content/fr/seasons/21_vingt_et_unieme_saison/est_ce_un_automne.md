@@ -12,11 +12,10 @@ tags:
     - saisons
 location: []
 info: |-
+    {{% notice style="primary" %}}
     Encore une variation sur cette question que j'adore...
-
-    - [à la troisième saison](../3_troisieme_saison/est_ce_un_automne)
-    - [à la dix-huitième saison](../18_dix_huitieme_saison/saisons)
-    - [à la vingtième saison](../20_vingtieme_saison/l_ete_glacial)
+    {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+    {{% /notice %}}
 pictures: []
 type: ""
 acrostiche: ""
@@ -49,12 +48,7 @@ Il se prépare, arme charroi
 
 Pour se fondre dans la routine.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 Encore une variation sur cette question que j'adore...
-
-- [à la troisième saison](../3_troisieme_saison/est_ce_un_automne)
-- [à la dix-huitième saison](../18_dix_huitieme_saison/saisons)
-- [à la vingtième saison](../20_vingtieme_saison/l_ete_glacial)
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

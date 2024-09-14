@@ -22,5 +22,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eté', value: 7, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 6, color: 'rgba(27, 79, 8, 1)' },
   ];
-  addPieChart('season21Pie', [data], { plugins: { title: { display: true, text: 'Vingt-et-unième Saison : C\'est vivre qui compte - Juin à septembre 2024' } } });
+  addPieChart('season21Pie', [data], { plugins: { title: { display: true, text: 'Vingt-et-unième Saison : C\'est vivre qui compte - De juin à septembre 2024' } } });
 })();
