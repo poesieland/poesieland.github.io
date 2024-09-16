@@ -67,6 +67,12 @@ J'aime l'art, et la poésie, si modeste soit-elle, représente une infinité, da
 
 Pour en savoir plus sur ma [relation avec la création](./creer).
 
+Et côté photographie :
+
+[Photos et vidéos entre ciel et terre {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/declics)
+
+[Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux)
+
 ## Quels rôles pour la poésie ?
 
 Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
