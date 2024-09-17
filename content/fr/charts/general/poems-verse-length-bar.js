@@ -2,12 +2,12 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: '2', value: 4 },
-    { label: '3', value: 5 },
+    { label: '3', value: 6 },
     { label: '4', value: 28 },
     { label: '5', value: 39 },
     { label: '6', value: 244 },
     { label: '7', value: 73 },
-    { label: '8', value: 371 },
+    { label: '8', value: 373 },
     { label: '9', value: 9 },
     { label: '10', value: 35 },
     { label: '11', value: 16 },

@@ -85,8 +85,7 @@ Le sens du monde à travers l'âge,
 
 Et je ris, je rêve, partage !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise dun premier vers d'un [poème de la huitième saison](../8_huitieme_saison/sur_un_air.md)"}]} -->
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/sur_un_air)
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->
