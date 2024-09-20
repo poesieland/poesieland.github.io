@@ -1,7 +1,7 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Première Saison : Premiers élans (1994 - 1996)', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Première Saison : Premiers élans (1994 - 1996)', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Deuxième Saison : Tableaux (1996)', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Troisième Saison : Vivace (1997)', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Quatrième Saison : Rêves (1997)', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
