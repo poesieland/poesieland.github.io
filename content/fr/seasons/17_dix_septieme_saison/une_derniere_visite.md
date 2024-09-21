@@ -17,7 +17,7 @@ L'écho toujours semblable, et ni gai ni funèbre
 
 Oublie un bloc de pierre : hiver ébrécha tôt
 
-Le chant des marroniers de sabre rouge et zèbre.
+Le chant des marronniers de sable rouge et zèbre.
 
  \
 Je me fais innocente : ombres, quelle saison
