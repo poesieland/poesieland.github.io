@@ -3,10 +3,11 @@ title = "Voici l'automne"
 id = "voici_l_automne_4"
 date = 1997-09-03
 weight = 9
-categories = ["Automne"]
-tags = ["saisons", "1997"]
-verseLength = 6
+categories = [ "Automne" ]
+tags = [ "1997", "saisons", "versVariable" ]
 LastModifierDisplayName = "Barbara Post"
+verseLength = -1
+info = "Vers variable : 6, 8"
 +++
 
 Voici venir l'automne
@@ -43,3 +44,9 @@ Les coloris du souvenir,
 En chanson folle éprise,
 
 Bonheur au clos de l'avenir !
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variabe : 6, 8"}]} -->
+{{% notice style="primary" %}}
+Vers variabe : 6, 8
+{{% /notice %}}
+<!-- FM:Snippet:End -->
