@@ -1,20 +1,18 @@
 ---
-weight: 29
-title: Jour d'hiver
-id: jour_d_hiver_18
-date: 2023-11-29
+weight: 16
+title: Le jour se lève
+id: le_jour_se_leve_22
+date: 2024-09-24
 verseLength: 4
 divider: ""
 categories:
-    - Hiver
-    - Jardin et paysage
-ensureTagAmour5: ""
-ensureTagNature3: ""
-ensureTagSaisons2: ""
+    - Aube
+    - Ciel
 tags:
-    - "2023"
-    - saisons
+    - "2024"
     - nature
+    - ombres et lumières
+location: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes qui commencent par ce vers...
@@ -28,38 +26,29 @@ LastModifierDisplayName: Barbara Post
 ---
 Le jour se lève,
 
-Début d'hiver,
+Il est glorieux,
 
-La nuit s'enlève
+Offrande brève
 
-Du brun, du vert.
-
- \
-Rien ne camoufle
-
-Renard furtif,
-
-Ombre est maroufle,
-
-L'air pique, vif !
+Au coeur, aux yeux.
 
  \
-D'un gris nuage
+Le jour s'allume
 
-Le ciel est blanc,
+En pâmoison,
 
-Au paysage
+Doux comme plume
 
-Immense élan !
+Vole à foison.
 
  \
-Ligne brisée
+Le jour me charme,
 
-Du nid défait,
+Voici douceurs
 
-Lame irisée,
+Où rose et parme
 
-Hiver parfait.
+Sont teintes soeurs.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...

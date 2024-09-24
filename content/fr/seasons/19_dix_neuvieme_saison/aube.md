@@ -11,7 +11,11 @@ tags:
     - ombres et lumières
     - "2024"
 location: []
-info: L'envie de paraphraser le premier quatrain d'un poème de la 2e saison, [le temps des heures](..\2_deuxieme_saison\le_temps_des_heures)
+info: |-
+    {{% notice style="primary" %}}
+    Les poèmes qui commencent par ce vers...
+    {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+    {{% /notice %}}
 pictures: []
 type: ""
 acrostiche: ""
@@ -62,8 +66,7 @@ Fin du murmure,
 
 Le jour est là.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"L'envie de paraphraser le premier quatrain d'un poème de la 2e saison..."}]} -->
 {{% notice style="primary" %}}
-L'envie de paraphraser le premier quatrain d'un poème de la 2e saison, [le temps des heures](..\2_deuxieme_saison\le_temps_des_heures)
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

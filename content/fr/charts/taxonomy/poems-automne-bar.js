@@ -4,7 +4,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Première Saison : Premiers élans (1994 - 1996)', value: 2, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Deuxième Saison : Tableaux (1996)', value: 9, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Troisième Saison : Vivace (1997)', value: 0, color: 'rgba(27, 79, 8, 0.5)' },
-    { label: 'Quatrième Saison : Rêves (1997)', value: 7, color: 'rgba(27, 79, 8, 0.5)' },
+    { label: 'Quatrième Saison : Rêves (1997)', value: 6, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Cinquième Saison : Espaces de vie (1997 - 1998)', value: 4, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Sixième Saison : Sur le chemin (1998)', value: 0, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Septième Saison : Croire (1998)', value: 0, color: 'rgba(27, 79, 8, 0.5)' },
@@ -22,7 +22,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 1, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 2, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 6, color: 'rgba(27, 79, 8, 0.5)' },
-    { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 7, color: 'rgba(27, 79, 8, 0.5)' },
+    { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 8, color: 'rgba(27, 79, 8, 0.5)' },
   ];
     addBarChart('poems-automneBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

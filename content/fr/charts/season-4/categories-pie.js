@@ -24,7 +24,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 2, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Eté', value: 4, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 7, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 6, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season4Pie', [data], { plugins: { title: { display: true, text: 'Quatrième Saison : Rêves - De mai à septembre 1997' } } });
 })();
