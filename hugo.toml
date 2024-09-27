@@ -122,7 +122,7 @@ themeVariantAuto = [ "relearn-light", "relearn-dark" ]
   shadow = true
 
 [outputs]
-home = ["HTML", "SEARCH", "SEARCHPAGE"]
+home = ["HTML"]
 section = ["HTML"]
 page = ["HTML", "PRINT"]
 
@@ -141,7 +141,7 @@ page = ["HTML", "PRINT"]
             weight = 50
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Freetext search"
-            url = "/search.html"
+            url = "/search/index.html"
             weight = 55
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
@@ -174,7 +174,7 @@ page = ["HTML", "PRINT"]
             weight = 50
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Recherche libre"
-            url = "/search.html"
+            url = "/search/index.html"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> Mes poèmes anglophones"
