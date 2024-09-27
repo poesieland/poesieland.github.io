@@ -5,7 +5,3 @@
 [submodule "back-office-data"]
 	path = back-office-data
 	url = https://postb99@github.com/postb99/poesieland_storage.git
-	
-[submodule "themes/hugo-theme-relearn"]
-	path = themes/hugo-theme-relearn
-	url = https://github.com/McShelby/hugo-theme-relearn.git
