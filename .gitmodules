@@ -1,6 +1,3 @@
-[submodule "themes/hugo-theme-relearn"]
-	path = themes/hugo-theme-relearn
-	url = https://github.com/McShelby/hugo-theme-relearn.git
 [submodule "back-office"]
 	path = back-office
 	url = https://postb99@github.com/postb99/poesieland_back-office.git
