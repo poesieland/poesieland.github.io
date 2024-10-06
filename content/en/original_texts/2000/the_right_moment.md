@@ -4,6 +4,8 @@ date = 2000-07-07
 weight = 4
 LastModifierDisplayName = "Barbara Post"
 id = "the_right_moment_14"
+categories = [ "Etre" ]
+tags = [ "philosophie", "2000" ]
 +++
 When a stars comes shining,
 

@@ -4,6 +4,8 @@ date = 2001-06-03
 weight = 7
 LastModifierDisplayName = "Barbara Post"
 id = "shalom_veor_15"
+categories = [ "Espoir" ]
+tags = [ "philosophie", "2001" ]
 +++
 
 

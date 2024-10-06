@@ -5,8 +5,11 @@ id: colors_and_sounds_20
 date: 2024-06-14
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Foi
+tags:
+    - philosophie
+    - "2024"
 location: []
 info: ""
 pictures: []

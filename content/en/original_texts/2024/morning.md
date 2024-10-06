@@ -5,8 +5,11 @@ id: morning_19
 date: 2024-03-13
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Aube
+tags:
+    - ombres et lumières
+    - "2024"
 location: []
 info: ""
 pictures: []

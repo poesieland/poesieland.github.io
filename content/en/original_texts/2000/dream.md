@@ -4,6 +4,8 @@ date = 2000-03-08
 weight = 2
 LastModifierDisplayName = "Barbara Post"
 id = "dream_14"
+categories = [ "Musique et chant" ]
+tags = [ "attitudes", "2000" ]
 +++
 
 The wind has suffered

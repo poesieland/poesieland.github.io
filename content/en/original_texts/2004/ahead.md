@@ -4,6 +4,8 @@ date = 2004-01-23
 weight = 12
 LastModifierDisplayName = "Barbara Post"
 id = "ahead_16"
+categories = [ "Etre" ]
+tags = [ "philosophie", "2004" ]
 +++
 Cross the river...
 

@@ -4,6 +4,8 @@ date = 2000-03-09
 weight = 3
 LastModifierDisplayName = "Barbara Post"
 id = "love_14"
+categories = [ "Espoir", "Romantisme" ]
+tags = [ "amour", "philosophie", "2000" ]
 +++
 
 Love fills the sky

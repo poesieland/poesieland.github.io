@@ -4,6 +4,8 @@ date = 2001-09-11
 weight = 10
 LastModifierDisplayName = "Barbara Post"
 id = "window_15"
+categories = [ "Etre" ]
+tags = [ "philosophie", "2001" ]
 +++
 I let my fingers slide
 

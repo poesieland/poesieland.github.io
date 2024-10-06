@@ -4,6 +4,8 @@ date = 2001-06-26
 weight = 8
 LastModifierDisplayName = "Barbara Post"
 id = "lullaby_15"
+categories = [ "Apprentissage" ]
+tags = [ "philosophie", "2001" ]
 +++
 When you close your wide eyes,
 

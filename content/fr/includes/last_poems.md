@@ -4,14 +4,12 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Brame, écrit le 06.10.2024](./seasons/22_vingt_deuxieme_saison/brame/)
+
+[Au cimetière, écrit le 06.10.2024](./seasons/22_vingt_deuxieme_saison/au_cimetiere/)
+
+[Rêve chasseur, écrit le 04.10.2024](./seasons/22_vingt_deuxieme_saison/reve_chasseur/)
+
+[My darling cat, écrit le 03.10.2024](/en/original_texts/2024/my_darling_cat)
+
 [Juin, juillet, octobre, écrit le 30.09.2024](./seasons/22_vingt_deuxieme_saison/juin_juillet_octobre/)
-
-[Majesté automnale, écrit le 29.09.2024](./seasons/22_vingt_deuxieme_saison/majeste_automnale/)
-
-[Nuit automnale, écrit le 28.09.2024](./seasons/22_vingt_deuxieme_saison/nuit_automnale/)
-
-[Le jour se lève, écrit le 24.09.2024](./seasons/22_vingt_deuxieme_saison/le_jour_se_leve/)
-
-[Biais, écrit le 24.09.2024](./seasons/22_vingt_deuxieme_saison/biais/)
-
-[Le soir est doux, écrit le 23.09.2024](./seasons/22_vingt_deuxieme_saison/le_soir_est_doux/)
