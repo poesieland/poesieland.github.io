@@ -4,6 +4,8 @@ date = 2000-02-22
 title = "A sign"
 LastModifierDisplayName = "Barbara Post"
 id = "a_sign_14"
+categories = [ "Amour platonique" ]
+tags = [ "amour", "2000" ]
 +++
 
 Under the sign of sun,

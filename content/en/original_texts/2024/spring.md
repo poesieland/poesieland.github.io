@@ -5,8 +5,11 @@ id: spring_19
 date: 2024-03-27
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Espoir
+tags:
+    - philosophie
+    - "2024"
 location: []
 info: ""
 pictures: []

@@ -4,6 +4,8 @@ date = 2003-03-31
 weight = 11
 LastModifierDisplayName = "Barbara Post"
 id = "spring_walk_16"
+categories = [ "Printemps" ]
+tags = [ "saisons", "2003" ]
 +++
 I walk in next district shadowed streets
 

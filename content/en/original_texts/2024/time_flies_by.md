@@ -5,8 +5,11 @@ id: time_flies_by_21
 date: 2024-08-24
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Temps
+tags:
+    - "2024"
+    - philosophie
 location: []
 info: ""
 pictures: []

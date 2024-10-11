@@ -5,8 +5,11 @@ id: sky_20
 date: 2024-06-16
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Espoir
+tags:
+    - "2024"
+    - philosophie
 location: []
 info: ""
 pictures: []

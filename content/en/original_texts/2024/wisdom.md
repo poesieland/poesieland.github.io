@@ -5,8 +5,11 @@ id: wisdom_21
 date: 2024-07-09
 verseLength: 0
 divider: ""
-categories: []
-tags: []
+categories:
+    - Etre
+tags:
+    - "2024"
+    - philosophie
 location: []
 info: ""
 pictures: []
