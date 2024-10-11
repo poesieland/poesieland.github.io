@@ -1,4 +1,4 @@
-baseURL = 'http://poesieland.github.io/'
+baseURL = 'https://poesieland.github.io/'
 languageCode = 'fr-FR'
 title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
@@ -55,24 +55,20 @@ disableBreadcrumb = false
 disableRootBreadcrumb = true
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
-# If set to false, load the MathJax module on every page regardless if a MathJax shortcode is present
-disableMathJax = true
+# If set to true, load the MathJax module on every page regardless if a MathJax shortcode is present
+math = false
 # Specifies the remote location of the MathJax js
 customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 # Initialization parameter for MathJax, see MathJax documentation
 mathJaxInitialize = "{}"
-# If set to false, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
-disableMermaid = true
+# If set to true, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
+mermaid.force = false
 # Specifies the remote location of the Mermaid js
 customMermaidURL = "https://unpkg.com/mermaid/dist/mermaid.min.js"
 # Initialization parameter for Mermaid, see Mermaid documentation
 mermaidInitialize = "{ \"theme\": \"default\" }"
-# If set to false, load the Swagger module on every page regardless if a Swagger shortcode is present
-disableSwagger = true
-# Specifies the remote location of the RapiDoc js
-customSwaggerURL = "https://unpkg.com/rapidoc/dist/rapidoc-min.js"
-# Initialization parameter for Swagger, see RapiDoc documentation
-swaggerInitialize = "{ \"theme\": \"light\" }"
+# If set to true, load the OpenAPI module on every page regardless if a Swagger shortcode is present
+openapi.force = false
 # Hide Next and Previous page buttons normally displayed full height beside content
 disableNextPrev = false
 # Order sections in menu by "weight" or "title". Default to "weight";

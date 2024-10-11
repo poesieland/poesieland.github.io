@@ -3,6 +3,7 @@ title = "Pourquoi créer ?"
 weight = 1
 disableToc = false
 date = 2024-04-16
+type = "chapter"
 +++
 
 ## Réflexion sur prose et vers
