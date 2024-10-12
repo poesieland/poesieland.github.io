@@ -15,7 +15,7 @@ tags:
 location: []
 info: "Vers variable : 6, 4"
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

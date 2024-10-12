@@ -6,7 +6,7 @@ weight = 37
 categories = ["Etre", "Flore"]
 tags = ["philosophie", "nature", "2001", "pantoun", "versVariable"]
 info = "Vers variable : 8, 6"
-type = "pantoun"
+poemType = "pantoun"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -16,7 +16,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: A flots
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

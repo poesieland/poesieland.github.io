@@ -6,7 +6,7 @@ weight = 12
 categories = ["Etre"]
 tags = ["philosophie", "2001", "pantoun"]
 info = "Composé pour une amie."
-type = "pantoun"
+poemType = "pantoun"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
 +++

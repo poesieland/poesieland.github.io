@@ -48,7 +48,7 @@ tags:
     - philosophie
 info: Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/sur_un_air)
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

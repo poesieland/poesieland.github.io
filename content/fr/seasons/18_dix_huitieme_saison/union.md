@@ -15,7 +15,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: pantoun
+poemType: pantoun
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

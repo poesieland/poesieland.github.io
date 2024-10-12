@@ -16,7 +16,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Ultimes rêves
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

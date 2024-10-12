@@ -23,7 +23,7 @@ info: |-
     Encore une variation sur cette question que j'adore...
     {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
     {{% /notice %}}
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8

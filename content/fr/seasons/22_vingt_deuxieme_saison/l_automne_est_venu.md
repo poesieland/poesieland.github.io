@@ -20,7 +20,7 @@ info: |-
     {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
     {{% /notice %}}
 pictures: []
-type: ""
+poemType: ""
 acrostiche: L'automne venu
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

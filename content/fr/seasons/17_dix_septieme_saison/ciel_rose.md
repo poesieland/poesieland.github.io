@@ -47,7 +47,7 @@ tags:
     - amour
     - ombres et lumières
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

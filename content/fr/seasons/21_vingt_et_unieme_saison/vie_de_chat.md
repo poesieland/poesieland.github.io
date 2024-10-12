@@ -15,7 +15,7 @@ location: []
 info: ""
 pictures:
     - Août 2024
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

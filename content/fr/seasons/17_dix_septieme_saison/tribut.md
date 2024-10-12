@@ -46,7 +46,7 @@ tags:
     - "2005"
     - nature
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

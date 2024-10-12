@@ -48,7 +48,7 @@ tags:
     - nature
     - saisons
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

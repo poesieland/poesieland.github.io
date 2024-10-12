@@ -47,7 +47,7 @@ tags:
     - nature
     - philosophie
 info: Le ru de Kuntzig coulait près de ma maison d'enfance
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8

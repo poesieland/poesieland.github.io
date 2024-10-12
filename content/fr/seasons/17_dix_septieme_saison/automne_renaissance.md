@@ -45,7 +45,7 @@ tags:
     - saisons
     - "2008"
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

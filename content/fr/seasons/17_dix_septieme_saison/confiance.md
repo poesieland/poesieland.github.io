@@ -45,7 +45,7 @@ tags:
     - "2006"
     - amour
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8

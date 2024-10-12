@@ -14,7 +14,7 @@ tags:
 location: []
 info: Reprise d'une façon de formuler joliment l'importance des mots exprimée d'abord dans un [poème de la sixième saison](../6_sixieme_saison/maux_de_mots)
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

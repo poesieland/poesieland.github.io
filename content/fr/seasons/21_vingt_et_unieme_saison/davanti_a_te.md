@@ -17,7 +17,7 @@ location:
     - Où je n'ai pas été
 info: '"Devant toi" en italien'
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Davanti a te
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

@@ -13,7 +13,7 @@ tags:
 info: ""
 pictures:
     - Le Ravel, le 27.12.2023
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

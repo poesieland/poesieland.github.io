@@ -45,7 +45,7 @@ tags:
     - "2006"
     - ombres et lumières
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 7

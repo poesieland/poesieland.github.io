@@ -14,7 +14,7 @@ info: ""
 pictures:
     - 17 décembre 2023
     - Avec mon chien le 5 juillet 2022
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

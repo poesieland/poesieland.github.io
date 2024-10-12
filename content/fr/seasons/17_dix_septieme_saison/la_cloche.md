@@ -7,7 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2016", "sonnet"]
 info = "Pour célébrer un joli anniversaire de ma maman"
 pictures = ["Là où tu passas ta jeunesse (photo de 2005)"]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

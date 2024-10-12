@@ -5,7 +5,7 @@ date = 2004-10-11
 weight = 49
 categories = ["Faune", "Révolte"]
 tags = ["nature", "philosophie", "2004", "sonnet"]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -17,7 +17,7 @@ location:
 info: ""
 pictures:
     - Mont des Cats - 02.08.2024
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

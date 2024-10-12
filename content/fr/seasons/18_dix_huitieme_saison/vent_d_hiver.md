@@ -46,7 +46,7 @@ tags:
     - saisons
     - sonnet
 info: ""
-type: sonnet
+poemType: sonnet
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 8

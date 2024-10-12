@@ -5,7 +5,7 @@ date = 2024-04-23
 weight = 49
 categories = ["Foi"]
 tags = ["philosophie", "2024", "pantoun"]
-type = "pantoun"
+poemType = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

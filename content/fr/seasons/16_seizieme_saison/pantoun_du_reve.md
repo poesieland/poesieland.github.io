@@ -5,7 +5,7 @@ date = 2004-10-12
 weight = 50
 categories = ["Temps"]
 tags = ["philosophie", "2004", "pantoun"]
-type = "pantoun"
+poemType = "pantoun"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

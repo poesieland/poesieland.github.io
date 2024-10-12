@@ -45,7 +45,7 @@ tags:
     - "2005"
     - philosophie
 info: Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes)
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 7

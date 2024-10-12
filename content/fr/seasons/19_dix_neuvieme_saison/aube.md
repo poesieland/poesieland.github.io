@@ -17,7 +17,7 @@ info: |-
     {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
     {{% /notice %}}
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

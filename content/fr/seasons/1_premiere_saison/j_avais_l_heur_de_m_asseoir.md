@@ -5,7 +5,7 @@ date = 1995-12-07
 weight = 1
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1995", "sonnet" ]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -46,7 +46,7 @@ tags:
     - philosophie
     - sonnet
 info: Reprise d'un poème-chanson de 1994
-type: sonnet
+poemType: sonnet
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

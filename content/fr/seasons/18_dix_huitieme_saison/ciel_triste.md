@@ -49,7 +49,7 @@ tags:
     - "2023"
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

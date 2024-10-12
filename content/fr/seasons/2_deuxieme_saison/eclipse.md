@@ -5,7 +5,7 @@ date = 1996-10-12
 weight = 32
 categories = ["Lune"]
 tags = ["ombres et lumières", "1996", "sonnet"]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

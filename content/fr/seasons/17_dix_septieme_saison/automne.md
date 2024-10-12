@@ -45,7 +45,7 @@ tags:
     - "2007"
     - saisons
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 7

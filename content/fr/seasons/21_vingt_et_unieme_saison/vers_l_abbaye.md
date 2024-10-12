@@ -14,7 +14,7 @@ location:
     - Mont des Cats
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

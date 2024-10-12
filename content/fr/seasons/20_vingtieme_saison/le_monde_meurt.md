@@ -5,7 +5,7 @@ date = 2024-05-14
 weight = 13
 categories = [ "Révolte", "Climat" ]
 tags = [ "2024", "philosophie", "sonnet", "nature" ]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

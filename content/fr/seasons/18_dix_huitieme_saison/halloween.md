@@ -45,7 +45,7 @@ tags:
     - "2023"
     - philosophie
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

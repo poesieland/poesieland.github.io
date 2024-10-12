@@ -5,7 +5,7 @@ date = 2023-10-07
 weight = 1
 categories = ["Automne"]
 tags = ["saisons", "2023", "pantoun"]
-type = "pantoun"
+poemType = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -18,7 +18,7 @@ info: |-
 
     Acrostiche : Demain nous serons
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Demain nous serons
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

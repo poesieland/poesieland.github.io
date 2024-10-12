@@ -46,7 +46,7 @@ tags:
     - "2006"
     - philosophie
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 6

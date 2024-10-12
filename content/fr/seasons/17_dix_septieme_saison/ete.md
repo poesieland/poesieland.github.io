@@ -47,7 +47,7 @@ tags:
     - saisons
     - ombres et lumières
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 7

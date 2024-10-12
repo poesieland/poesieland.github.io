@@ -45,7 +45,7 @@ tags:
     - "2020"
     - saisons
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 3

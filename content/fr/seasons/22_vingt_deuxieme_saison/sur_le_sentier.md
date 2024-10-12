@@ -16,7 +16,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Sur le sentier
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

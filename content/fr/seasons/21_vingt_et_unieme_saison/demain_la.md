@@ -16,7 +16,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Demain, là
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

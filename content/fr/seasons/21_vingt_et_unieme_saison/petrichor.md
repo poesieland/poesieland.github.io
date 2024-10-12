@@ -14,7 +14,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Sous l'ondée
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

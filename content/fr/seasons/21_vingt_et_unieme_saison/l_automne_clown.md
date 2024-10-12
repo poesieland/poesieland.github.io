@@ -14,7 +14,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: "On reparle : automne"
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

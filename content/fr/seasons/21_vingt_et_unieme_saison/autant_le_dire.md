@@ -14,7 +14,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: Autant le dire
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

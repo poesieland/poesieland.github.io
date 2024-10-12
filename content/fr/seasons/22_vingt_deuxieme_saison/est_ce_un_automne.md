@@ -20,7 +20,7 @@ info: |-
     {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
     {{% /notice %}}
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

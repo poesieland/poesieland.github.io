@@ -5,7 +5,7 @@ date = 1996-05-17
 weight = 33
 categories = ["Ciel"]
 tags = ["nature", "1996", "sonnet"]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -15,7 +15,7 @@ location: []
 info: "Vers variable : 5, 3"
 pictures:
     - Le 01.09.2024
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

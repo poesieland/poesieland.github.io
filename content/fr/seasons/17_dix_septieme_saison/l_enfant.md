@@ -45,7 +45,7 @@ tags:
     - philosophie
     - "2007"
 info: ""
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 5

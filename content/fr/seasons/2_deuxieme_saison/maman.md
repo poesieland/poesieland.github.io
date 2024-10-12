@@ -5,7 +5,7 @@ date = 1996-09-04
 weight = 9
 categories = ["Portraits", "Enfance et adolescence"]
 tags = ["philosophie", "1996", "sonnet"]
-type = "sonnet"
+poemType = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -5,7 +5,7 @@ date = 2023-10-16
 weight = 5
 categories = ["Romantisme", "Faune"]
 tags = ["amour", "nature", "2023", "pantoun"]
-type = "pantoun"
+poemType = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

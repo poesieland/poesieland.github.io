@@ -17,7 +17,7 @@ location: []
 info: ""
 pictures:
     - Le 11.09.2024 vers 18h
-type: ""
+poemType: ""
 acrostiche: Un soir infini
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

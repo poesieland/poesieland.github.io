@@ -12,7 +12,7 @@ tags:
     - philosophie
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post

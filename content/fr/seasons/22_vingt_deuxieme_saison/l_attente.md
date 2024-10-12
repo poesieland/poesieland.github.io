@@ -14,7 +14,7 @@ tags:
 location: []
 info: ""
 pictures: []
-type: ""
+poemType: ""
 acrostiche: L'attente
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
