@@ -484,8 +484,8 @@
           "type": "list"
         },
         {
-          "title": "Type",
-          "name": "type",
+          "title": "Poem type",
+          "name": "poemType",
           "type": "choice",
           "description": "Don't forget to add the chosen type tag",
           "choices": [

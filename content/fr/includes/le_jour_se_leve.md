@@ -7,3 +7,4 @@ title = "Liste des poèmes"
 - [à la dix-huitième saison](../seasons/18_dix_huitieme_saison/jour_d_hiver)
 - [à la dix-neuvième saison](../seasons/19_dix_neuvieme_saison/aube)
 - [à la vingt-deuxième saison](../seasons/22_vingt_deuxieme_saison/le_jour_se_leve)
+- [encore à la vingt-deuxième saison](../seasons/22_vingt_deuxieme_saison/aube_partagee)
