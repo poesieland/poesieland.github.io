@@ -3,7 +3,7 @@ import { addBarChart } from '../add-chart.js'
   const data = [
     { label: '2', value: 4 },
     { label: '3', value: 7 },
-    { label: '4', value: 32 },
+    { label: '4', value: 33 },
     { label: '5', value: 39 },
     { label: '6', value: 245 },
     { label: '7', value: 73 },
@@ -25,7 +25,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '6, 8', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 3', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 5', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '8, 6', value: 3, color: 'rgba(72, 149, 239, 1)' },
+    { label: '8, 6', value: 4, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 6, 4, 2', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: 'poème en prose', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];

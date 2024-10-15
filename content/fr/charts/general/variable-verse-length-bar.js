@@ -13,7 +13,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '6, 8', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 3', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 5', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '8, 6', value: 3, color: 'rgba(72, 149, 239, 1)' },
+    { label: '8, 6', value: 4, color: 'rgba(72, 149, 239, 1)' },
     { label: '8, 6, 4, 2', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: 'poème en prose', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];

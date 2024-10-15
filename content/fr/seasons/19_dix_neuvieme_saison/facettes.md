@@ -34,3 +34,8 @@ Avance, un hiver s'oblitère :
 Un rêve retrouvé, primaire,
 
 Chaque saison neuve un moment.
+
+{{% notice style="primary" %}}
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
+{{% /notice %}}

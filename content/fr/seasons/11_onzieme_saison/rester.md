@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post"
 verseLength = 8
 +++
 
-Trop de choses auront changé
+Trop de choses auront changé...
 
 Un jour le cœur s'était rangé
 
@@ -35,4 +35,7 @@ Ombre, le ciel, tu me souris.
 \"Tu es beau\" en italien.
 
 Acrostiche : Tu sei bello
+
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 {{% /notice %}}
