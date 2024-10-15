@@ -6,10 +6,7 @@ date: 2024-08-24
 verseLength: 0
 divider: ""
 categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
+    - Time
 location: []
 info: ""
 pictures: []

@@ -6,10 +6,7 @@ date: 2024-07-09
 verseLength: 0
 divider: ""
 categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
+    - Being
 location: []
 info: ""
 pictures: []

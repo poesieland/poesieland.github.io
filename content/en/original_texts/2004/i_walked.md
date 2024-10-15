@@ -4,8 +4,7 @@ date = 2004-06-12
 weight = 13
 LastModifierDisplayName = "Barbara Post"
 id = "i_walked_16"
-categories = [ "Apprentissage" ]
-tags = [ "philosophie", "2004" ]
+categories = [ "Learning" ]
 +++
 I walked him by,
 

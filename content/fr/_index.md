@@ -1,6 +1,6 @@
 +++
 title = "Poésieland"
-archetype = "home"
+type = "home"
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).

@@ -4,7 +4,7 @@ title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "hugo-theme-relearn"
-paginate = 5
+#paginate = 5
 defaultContentLanguage = 'fr'
 enableEmoji = true
 removePathAccents = true
@@ -134,23 +134,27 @@ page = ["HTML", "PRINT"]
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> My French poems"
             url = "../fr/"
+            weight = 40
+        [[Languages.en.menu.shortcuts]]
+            name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
+            url = "/categories/"
             weight = 50
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Freetext search"
             url = "/search/index.html"
-            weight = 55
+            weight = 60
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
             url = "/en/more/credits/"
-            weight = 60
+            weight = 70
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
             url = "https://github.com/postb99"
-            weight = 70
+            weight = 80
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
             url = "https://www.linkedin.com/in/barbara-post-1b323714"
-            weight = 80
+            weight = 90
 
     [Languages.fr]
         languageName = "Français"
@@ -171,23 +175,23 @@ page = ["HTML", "PRINT"]
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Recherche libre"
             url = "/search/index.html"
-            weight = 50
+            weight = 60
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa fas fa-feather-pointed'></i> Mes poèmes anglophones"
             url = "../en/"
-            weight = 55
+            weight = 70
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
             url = "/more/credits/"
-            weight = 60
+            weight = 80
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
             url = "https://github.com/postb99"
-            weight = 70
+            weight = 90
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
             url = "https://www.linkedin.com/in/barbara-post-1b323714"
-            weight = 80
+            weight = 100
 
 [markup]
   [markup.goldmark]

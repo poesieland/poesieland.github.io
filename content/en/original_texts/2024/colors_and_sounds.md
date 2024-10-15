@@ -6,10 +6,7 @@ date: 2024-06-14
 verseLength: 0
 divider: ""
 categories:
-    - Foi
-tags:
-    - philosophie
-    - "2024"
+    - Faith
 location: []
 info: ""
 pictures: []

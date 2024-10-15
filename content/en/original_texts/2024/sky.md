@@ -6,10 +6,7 @@ date: 2024-06-16
 verseLength: 0
 divider: ""
 categories:
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
+    - Hope
 location: []
 info: ""
 pictures: []
