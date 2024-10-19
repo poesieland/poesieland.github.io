@@ -2,7 +2,7 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Première Saison : Premiers élans (1994 - 1996)', value: 24, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Deuxième Saison : Tableaux (1996)', value: 20, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Deuxième Saison : Tableaux (1996)', value: 21, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Troisième Saison : Vivace (1997)', value: 26, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Quatrième Saison : Rêves (1997)', value: 14, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Cinquième Saison : Espaces de vie (1997 - 1998)', value: 21, color: 'rgba(220, 147, 246, 0.5)' },
@@ -22,7 +22,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 27, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 23, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 11, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 13, color: 'rgba(220, 147, 246, 0.5)' },
   ];
     addBarChart('poems-philosophieBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();
