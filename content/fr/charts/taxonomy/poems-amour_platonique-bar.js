@@ -5,7 +5,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Deuxième Saison : Tableaux (1996)', value: 1, color: 'rgba(255, 111, 125, 0.5)' },
     { label: 'Troisième Saison : Vivace (1997)', value: 4, color: 'rgba(255, 111, 125, 0.5)' },
     { label: 'Quatrième Saison : Rêves (1997)', value: 2, color: 'rgba(255, 111, 125, 0.5)' },
-    { label: 'Cinquième Saison : Espaces de vie (1997 - 1998)', value: 4, color: 'rgba(255, 111, 125, 0.5)' },
+    { label: 'Cinquième Saison : Espaces de vie (1997 - 1998)', value: 5, color: 'rgba(255, 111, 125, 0.5)' },
     { label: 'Sixième Saison : Sur le chemin (1998)', value: 1, color: 'rgba(255, 111, 125, 0.5)' },
     { label: 'Septième Saison : Croire (1998)', value: 1, color: 'rgba(255, 111, 125, 0.5)' },
     { label: 'Huitième Saison : Reflets perdus (1998)', value: 1, color: 'rgba(255, 111, 125, 0.5)' },

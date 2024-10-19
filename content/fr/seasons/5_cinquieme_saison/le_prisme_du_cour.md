@@ -3,8 +3,8 @@ title = "Le prisme du cœur"
 id = "le_prisme_du_cour_5"
 date = 1998-02-10
 weight = 7
-categories = ["Etre"]
-tags = ["philosophie", "1998"]
+categories = [ "Amour platonique" ]
+tags = [ "1998", "amour" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

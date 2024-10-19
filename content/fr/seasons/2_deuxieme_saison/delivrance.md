@@ -3,8 +3,8 @@ title = "Délivrance"
 id = "delivrance_2"
 date = 1996-10-03
 weight = 39
-categories = ["Espoir"]
-tags = ["philosophie", "1996"]
+categories = [ "Espoir", "Angoisse" ]
+tags = [ "philosophie", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -6,7 +6,7 @@ date: 2024-10-13
 verseLength: -1
 divider: ""
 categories:
-    - Etre
+    - Angoisse
 tags:
     - "2024"
     - philosophie

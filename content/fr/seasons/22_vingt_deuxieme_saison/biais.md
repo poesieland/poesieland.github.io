@@ -7,7 +7,7 @@ verseLength: 6
 divider: ""
 categories:
     - Automne
-    - Temps
+    - Angoisse
 tags:
     - "2024"
     - philosophie

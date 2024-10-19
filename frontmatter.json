@@ -282,6 +282,17 @@
           }
         },
         {
+          "title": "Ensure tag \"philosophie\" is present",
+          "name": "ensureTagPhilosophie11",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Angoisse",
+            "caseSensitive": false
+          }
+        },
+        {
           "title": "Ensure tag \"nature\" is present",
           "name": "ensureTagNature",
           "type": "heading",

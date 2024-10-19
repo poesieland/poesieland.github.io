@@ -18,7 +18,7 @@ Bientôt dévorés, d'atours
 Saignants de l'ombre salie.
 
  \
-Je ne verrai q'un remords
+Je ne verrai qu'un remords
 
 Dans un ciel brisé : des tôles
 

@@ -36,7 +36,7 @@ Voici l'automne en son parfum
 Rêveur qui manquait à la terre
 
  \
-Quand ciel et vent son éperdus.
+Quand ciel et vent sont éperdus.
 
 Changeant, peut-être un peu revêche
 

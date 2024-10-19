@@ -3,8 +3,8 @@ title = "Désespoir du poète"
 id = "desespoir_du_poete_1"
 date = 1996-07-30
 weight = 43
-categories = ["Création"]
-tags = ["philosophie", "1996"]
+categories = [ "Création", "Angoisse" ]
+tags = [ "philosophie", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++

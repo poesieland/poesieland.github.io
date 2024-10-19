@@ -3,8 +3,8 @@ title = "Traces d'automne"
 id = "traces_d_automne_16"
 date = 2004-09-29
 weight = 47
-categories = ["Automne", "Nuit", "Temps", "Etre"]
-tags = ["saisons", "ombres et lumières", "philosophie", "2004"]
+categories = [ "Automne", "Nuit", "Angoisse" ]
+tags = [ "saisons", "ombres et lumières", "philosophie", "2004" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post"
 +++

@@ -7,9 +7,11 @@ verseLength: 3
 divider: ""
 categories:
     - Climat
+    - Angoisse
 tags:
     - "2024"
     - nature
+    - philosophie
 location: []
 info: ""
 pictures: []

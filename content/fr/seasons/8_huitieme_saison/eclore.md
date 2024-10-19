@@ -22,7 +22,7 @@ Offre sa présence troublée,
 
 Ramure de l'âme emperlée
 
-Avide inacessiblement.
+Avide inaccessiblement.
 
 Trouver sans le dire vraiment
 

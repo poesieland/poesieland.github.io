@@ -4,7 +4,7 @@ summary = "La poésie est assertive, tournée vers la philosophie, la nature, le
 weight = 19
 +++
 
-En gros plan : le printemps, le temps... un peu de climat et d'être. De janvier à avril 2024
+En gros plan : le printemps, le temps... un peu de climat. De janvier à avril 2024
 
 ---
 {{% children  %}}

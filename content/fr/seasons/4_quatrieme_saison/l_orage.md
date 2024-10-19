@@ -3,10 +3,11 @@ title = "L'orage"
 id = "l_orage_4"
 date = 1997-05-18
 weight = 38
-categories = ["Ciel"]
-tags = ["nature", "1997"]
-verseLength = 6
+categories = [ "Ciel" ]
+tags = [ "nature", "1997" ]
+verseLength = -1
 LastModifierDisplayName = "Barbara Post"
+info = "Vers variable : 6, 4."
 +++
 
 Les arbres s'effarouchent
@@ -43,3 +44,7 @@ L'orage éteint
 Ses furieux cris de guerre
 
 Au ciel déteint.
+
+{{% notice style="primary" %}}
+Vers variable : 6, 4.
+{{% /notice %}}

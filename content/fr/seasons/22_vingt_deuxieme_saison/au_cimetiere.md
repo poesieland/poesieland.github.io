@@ -6,7 +6,7 @@ date: 2024-10-06
 verseLength: 8
 divider: ""
 categories:
-    - Temps
+    - Angoisse
 tags:
     - "2024"
     - philosophie

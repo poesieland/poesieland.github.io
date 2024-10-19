@@ -8,11 +8,13 @@ divider: ""
 categories:
     - Automne
     - Ciel
+    - Angoisse
 tags:
     - "2024"
     - nature
-    - versVariable
     - saisons
+    - versVariable
+    - philosophie
 location: []
 info: "Vers variable : 8, 3."
 pictures: []
