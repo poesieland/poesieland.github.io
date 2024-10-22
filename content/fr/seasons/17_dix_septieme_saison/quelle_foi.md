@@ -56,7 +56,7 @@ Que le néant m'enivre.
  \
 Un esprit supérieur,
 
-Je crois, pourant, existe
+Je crois, pourtant, existe
 
 Mais n'est pas un rieur
 

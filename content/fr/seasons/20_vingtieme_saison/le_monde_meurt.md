@@ -3,7 +3,7 @@ title = "Le monde meurt"
 id = "le_monde_meurt_20"
 date = 2024-05-14
 weight = 13
-categories = [ "Révolte", "Climat" ]
+categories = [ "Angoisse", "Climat" ]
 tags = [ "2024", "philosophie", "sonnet", "nature" ]
 poemType = "sonnet"
 verseLength = 6
@@ -19,7 +19,7 @@ Sont là pour te presser
 D'agir, rêve fragile.
 
  \
-La faibless débile
+La faiblesse débile
 
 N'a pas vu le fossé,
 
