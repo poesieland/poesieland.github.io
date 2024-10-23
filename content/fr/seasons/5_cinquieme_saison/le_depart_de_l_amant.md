@@ -1,12 +1,19 @@
 +++
-title = "Le Départ de l'Amant"
+title = "Le départ de l'amant"
 id = "le_depart_de_l_amant_5"
 date = 1998-01-19
 weight = 3
 categories = [ "Passion" ]
-tags = [ "amour", "1998" ]
+tags = [ "1998", "amour", "acrostiche" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+info = """
+Acrostiche : Andrea Andrea.
+
+Premier poème de mon recueil En six lettres : t'aimer.
+
+Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli."""
+acrostiche = "Andrea Andrea"
 +++
 
 Avant de partir retiens-nous :
@@ -34,3 +41,13 @@ Ravie en ton esprit je reste,
 Etreins-moi d'un ultime geste,
 
 Avant de partir, au revoir !
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
+{{% notice style="primary" %}}
+Acrostiche : Andrea Andrea.
+
+Premier poème de mon recueil En six lettres : t'aimer.
+
+Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli.
+{{% /notice %}}
+<!-- FM:Snippet:End -->
