@@ -25,6 +25,7 @@ Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 - [Ciel triste (18e saison)](../seasons/18_dix_huitieme_saison/ciel_triste)
 - [En parts (22e saison)](../seasons/22_vingt_deuxieme_saison/en_parts)
 - [Vent vaurien (22e saison)](../seasons/22_vingt_deuxieme_saison/vent_vaurien)
+- [Jour d'automne (22e saison)](../seasons/22_vingt_deuxieme_saison/jour_d_automne)
 
 ### Très long
 
