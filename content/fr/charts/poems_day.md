@@ -30,3 +30,9 @@ Et les jours où j'écris plus d'un poème ?
 Et dans le temps, quel est l'intervalle entre deux poèmes ?
 
 {{< chartjs id="poemIntervalBar" width="100%" jsFile="../general/poem-interval-bar.js" />}}
+
+## Des jours sans cesser
+
+Et dans le temps, les séries sont-elles longues et fréquentes ?
+
+{{< chartjs id="poemSeriesBar" width="100%" jsFile="../general/poem-series-bar.js" />}}
