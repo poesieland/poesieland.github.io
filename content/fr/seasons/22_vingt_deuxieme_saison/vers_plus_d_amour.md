@@ -11,7 +11,7 @@ tags:
     - "2024"
     - philosophie
 location: []
-info: ""
+info: Reprise modifiée du premier vers "J'écoute un coeur qui bat tout bas" d'un [poème de la dix-neuvième saison](../19_dix_neuvieme_saison/ton_coeur).
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -43,3 +43,7 @@ Trouvé pour que le mal régresse,
 Vite jeté c'est un bon sort
 
 Vers plus d'amour et d'allégresse !
+
+{{% notice style="primary" %}}
+Reprise modifiée du premier vers "J'écoute un coeur qui bat tout bas" d'un [poème de la dix-neuvième saison](../19_dix_neuvieme_saison/ton_coeur).
+{{% /notice %}}

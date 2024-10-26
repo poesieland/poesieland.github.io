@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 2, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 1, color: 'rgba(255, 111, 125, 1)' },
-    { label: 'Aube', value: 2, color: 'rgba(255, 203, 96, 1)' },
+    { label: 'Aube', value: 3, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },

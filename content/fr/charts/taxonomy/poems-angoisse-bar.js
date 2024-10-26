@@ -19,9 +19,9 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Seizième Saison : Plus loin (2002 - 2004)', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Dix-septième Saison : Traversées (2004 - 2023)', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Dix-huitième Saison : Retour aux sources (2023 - 2024)', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Dix-neuvième Saison : Destination bonheur (2024)', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 8, color: 'rgba(38, 9, 78, 0.5)' },
   ];
     addBarChart('poems-angoisseBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });

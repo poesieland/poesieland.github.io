@@ -6,8 +6,9 @@ date: 2024-06-22
 verseLength: 6
 divider: ""
 categories:
-    - Révolte
     - Climat
+    - Révolte
+    - Angoisse
 tags:
     - "2024"
     - philosophie

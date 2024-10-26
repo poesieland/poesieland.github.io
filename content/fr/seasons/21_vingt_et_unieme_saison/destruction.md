@@ -7,9 +7,9 @@ verseLength: 8
 divider: ""
 categories:
     - Automne
-    - Eté
-    - Révolte
     - Climat
+    - Eté
+    - Angoisse
 tags:
     - "2024"
     - philosophie
