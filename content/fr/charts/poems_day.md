@@ -31,6 +31,8 @@ Et dans le temps, quel est l'intervalle entre deux poèmes ?
 
 {{< chartjs id="poemIntervalBar" width="100%" jsFile="../general/poem-interval-bar.js" />}}
 
+{{% include "../includes/longest_intervals.md" true %}}
+
 ## Des jours sans cesser
 
 Et dans le temps, les séries sont-elles longues et fréquentes ?
