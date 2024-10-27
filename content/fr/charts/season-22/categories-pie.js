@@ -16,7 +16,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 16, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 18, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season22Pie', [data], { plugins: { title: { display: true, text: 'Vingt-deuxième Saison : Au temps le dire - Depuis septembre 2024' } } });
 })();
