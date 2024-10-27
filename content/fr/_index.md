@@ -101,8 +101,10 @@ C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de 
 
 L'espace limité d'une langue est un grand terrain de jeu, entre les jeux de mots classiques, leur polysémie, les différents registres, leur musicalité.
 
+[Les reprises](./thoughts/reprises) sont également très amusantes.
+
 Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" ou de l'humeur du moment : 19.05.2024
+Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" ou de l'humeur du moment : 27.10.2024

@@ -36,3 +36,5 @@ Et dans le temps, quel est l'intervalle entre deux poèmes ?
 Et dans le temps, les séries sont-elles longues et fréquentes ?
 
 {{< chartjs id="poemSeriesBar" width="100%" jsFile="../general/poem-series-bar.js" />}}
+
+{{% include "../includes/longest_series.md" true %}}
