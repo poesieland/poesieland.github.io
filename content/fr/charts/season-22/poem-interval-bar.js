@@ -6,6 +6,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '2j', value: 8, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '3j', value: 5, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 2, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '5j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
   ];
     addBarChart('season22PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

@@ -6,7 +6,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Aube', value: 3, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
-    { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },
+    { label: 'Foi', value: 2, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Temps', value: 5, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Angoisse', value: 8, color: 'rgba(38, 9, 78, 1)' },
