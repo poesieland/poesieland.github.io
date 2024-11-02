@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Légende, écrit le 02.11.2024](./seasons/22_vingt_deuxieme_saison/legende/)
+
 [Temps saint, écrit le 01.11.2024](./seasons/22_vingt_deuxieme_saison/temps_saint/)
 
 [Parfum d'octobre, écrit le 27.10.2024](./seasons/22_vingt_deuxieme_saison/parfum_d_octobre/)
@@ -12,7 +14,4 @@ title = "Derniers ajouts"
 
 [Aube, écrit le 24.10.2024](./seasons/22_vingt_deuxieme_saison/aube/)
 
-[Jour d'automne, écrit le 22.10.2024](./seasons/22_vingt_deuxieme_saison/jour_d_automne/)
-
-[Vers plus d'amour, écrit le 20.10.2024](./seasons/22_vingt_deuxieme_saison/vers_plus_d_amour/)
 
