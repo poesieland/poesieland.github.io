@@ -15,6 +15,8 @@ Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 - [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
 - [Légèreté (20e saison)](../seasons/20_vingtieme_saison/legerete)
 - [L'ange dans le ciel (21e saison)](../seasons/21_vingt_et_unieme_saison/l_ange_dans_le_ciel)
+- [Tant ! (22e saison)](../seasons/22_vingt_deuxieme_saison/tant)
+- [Automne d'or (22e saison)](../seasons/22_vingt_deuxieme_saison/automne_d_or)
 
 #### En vers de 3 pieds
 

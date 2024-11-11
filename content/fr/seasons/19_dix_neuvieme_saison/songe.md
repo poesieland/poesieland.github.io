@@ -3,9 +3,13 @@ title = "Songe"
 id = "songe_19"
 date = 2024-04-12
 weight = 42
-categories = ["Etre"]
-tags = ["philosophie", "2024"]
-info = "Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir)"
+categories = [ "Etre" ]
+tags = [ "philosophie", "2024" ]
+info = """
+{{% notice style="primary" %}}
+Les poèmes qui reprennent _la nuit faite mer_ :
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+{{% /notice %}}"""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -37,5 +41,6 @@ Gloire puis déchéance au suprême animal !
 Tu songeais dans le bleu de la nuit qui s'abime.
 
 {{% notice style="primary" %}}
-Reprise de la jolie figure de *la nuit faite mer* d'un [poème de la sixième saison](../6_sixieme_saison/confidence_du_soir)
+Les poèmes qui reprennent _la nuit faite mer_ :
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}

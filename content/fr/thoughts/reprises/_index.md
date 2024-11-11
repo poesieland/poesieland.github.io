@@ -20,7 +20,6 @@ Les reprises peuvent être vues comme des mini-thèmes.
 - ["Avant de partir"](../../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)
 - ["Juste une valse..."](../../seasons/19_dix_neuvieme_saison/charme)
 - ["Tous les vieux arbres ont des fleurs"](../../seasons/19_dix_neuvieme_saison/le_vieux_verger)
-- ["la nuit faite mer"](../../seasons/19_dix_neuvieme_saison/songe)
 
 #### A la vingt-et-unième saison
 - ["Demain nous serons"](../../seasons/21_vingt_et_unieme_saison/demain)

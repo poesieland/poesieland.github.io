@@ -10,7 +10,6 @@ title = "Les jours sans"
 - 8 août
 - 17 septembre
 - 14 octobre
-- 9 novembre
 - 10 décembre
 - 15 décembre
 - 18 décembre

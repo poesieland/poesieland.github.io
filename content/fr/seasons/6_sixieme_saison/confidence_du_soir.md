@@ -7,6 +7,11 @@ categories = [ "Etre" ]
 tags = [ "1998", "philosophie" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
+info = """
+{{% notice style="primary" %}}
+Les poèmes qui reprennent _la nuit faite mer_ :
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+{{% /notice %}}"""
 +++
 
 Lorsque ainsi se transmue en chaque effleurement
@@ -43,3 +48,8 @@ Ton ultime pensée écrira l'océane
 Berceuse chantonnée au sable trop amer
 
 Qu'endormira d'un geste une antique pavane...
+
+{{% notice style="primary" %}}
+Les poèmes qui reprennent _la nuit faite mer_ :
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+{{% /notice %}}
