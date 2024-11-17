@@ -19,7 +19,7 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
 ---
-Une flemme vacille
+Une flamme vacille
 
 Perdue au fond des yeux,
 
