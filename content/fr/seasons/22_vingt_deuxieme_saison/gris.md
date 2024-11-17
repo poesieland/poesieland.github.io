@@ -1,8 +1,8 @@
 ---
-weight: 40
-title: Ciel d'hiver
-id: ciel_d_hiver_22
-date: 2024-11-07
+weight: 46
+title: Gris
+id: gris_22
+date: 2024-11-14
 verseLength: 6
 divider: ""
 categories:
@@ -20,34 +20,24 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
 ---
-Le ciel est gris plombé,
+Le ciel est gris, livide,
 
-La clarté s'amenuise,
+Malade au fond du lit,
 
-Tout est plat, rien bombé,
+Chaque heure est impavide,
 
-Cherche noise qui nuise.
-
- \
-Le ciel est gris touchant 
-
-D'une légère brume 
-
-Un air glacé d'un chant 
-
-Laissant tomber sa plume.
+Jour sans relief, pâli.
 
  \
-Le ciel est gris, sans pleur,
+Le ciel est gris, sans borne,
 
-Livide, sans spectacle,
+Un jour long, ruminant,
 
-Le ciel est gris, voleur,
+Le ciel est gris, si morne,
 
-L'hiver pour réceptacle.
+D'un hiver imminent.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}
-

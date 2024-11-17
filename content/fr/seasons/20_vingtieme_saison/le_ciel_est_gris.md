@@ -38,4 +38,7 @@ Et danse la limace !
 
 {{% notice style="primary" %}}
 Vers variable : 8, 6
+
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

@@ -48,5 +48,6 @@ Un automne pour raconter
 Chanson de feuille jaune et rousse !
 
 {{% notice style="primary" %}}
-Reprise modifiée du premier vers d'un [poème de la vingtième saison](../20_vingtieme_saison/le_ciel_est_gris)
+Les poèmes qui commencent par la variante principale du premier vers...
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

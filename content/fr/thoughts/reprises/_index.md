@@ -33,5 +33,4 @@ Les reprises peuvent être vues comme des mini-thèmes.
 - ["Toute saison trop tôt venue"](../../seasons/22_vingt_deuxieme_saison/toute_saison)
 - ["Avant que l'hiver ne vous prenne"](../../seasons/22_vingt_deuxieme_saison/automne_serein)
 - ["(j')écoute un coeur qui bat tout bas"](../../seasons/22_vingt_deuxieme_saison/vers_plus_d_amour)
-- ["le ciel (les cieux) est (sont) gris débilitant(s)"](../../seasons/22_vingt_deuxieme_saison/automne_pose)
 - ["Funèbre parfum d'une rose / A la boutonnière du temps"](../../seasons/22_vingt_deuxieme_saison/parfum_d_octobre)
