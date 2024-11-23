@@ -1,10 +1,10 @@
 +++
 title = "Vingt-deuxième Saison : Au temps le dire"
-summary = "Les saisons, follement, et la philosophie. Depuis septembre 2024"
+summary = "Les saisons, follement, et la philosophie. De septembre à novembre 2024"
 weight = 22
 +++
 
-L'automne, l'angoisse, le ciel, ainsi que le temps et l'hiver. Depuis septembre 2024
+L'automne, l'angoisse, le ciel, ainsi que le temps et l'hiver. De septembre à novembre 2024
 
 ---
 {{% children  %}}

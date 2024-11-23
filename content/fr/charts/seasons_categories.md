@@ -46,4 +46,6 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 
 {{< chartjs id="season21Pie" width="40%" jsFile="../season-21/categories-pie.js" inline=true text="Deux mois et demi, été et automne"/>}}
 
-{{< chartjs id="season22Pie" width="40%" jsFile="../season-22/categories-pie.js" inline=true text="En cours, follement l'automne, puis l'hiver aussi"/>}}
+{{< chartjs id="season22Pie" width="40%" jsFile="../season-22/categories-pie.js" inline=true text="Deux mois et demi, follement l'automne, puis l'hiver aussi"/>}}
+
+{{< chartjs id="season23Pie" width="40%" jsFile="../season-23/categories-pie.js" inline=true text="En cours"/>}}

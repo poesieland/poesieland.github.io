@@ -23,6 +23,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 0, color: 'rgba(47, 27, 12, 0.5)' },
     { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 1, color: 'rgba(47, 27, 12, 0.5)' },
     { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 2, color: 'rgba(47, 27, 12, 0.5)' },
+    { label: 'Vingt-troisième Saison : Jamais trop (2024)', value: 0, color: 'rgba(47, 27, 12, 0.5)' },
   ];
     addBarChart('poems-nuitBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();
