@@ -34,3 +34,6 @@ Les reprises peuvent être vues comme des mini-thèmes.
 - ["Avant que l'hiver ne vous prenne"](../../seasons/22_vingt_deuxieme_saison/automne_serein)
 - ["(j')écoute un coeur qui bat tout bas"](../../seasons/22_vingt_deuxieme_saison/vers_plus_d_amour)
 - ["Funèbre parfum d'une rose / A la boutonnière du temps"](../../seasons/22_vingt_deuxieme_saison/parfum_d_octobre)
+
+**A la vingt-troisième saison**
+- ["Noël a chanté sur le toit"](../../seasons/23_vingt_troisieme_saison/noel_lumieres)

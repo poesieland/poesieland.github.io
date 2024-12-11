@@ -13,9 +13,9 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Enfance et adolescence', value: 36, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 66, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 90, color: 'rgba(220, 147, 246, 1)' },
-    { label: 'Foi', value: 57, color: 'rgba(203, 93, 241, 1)' },
+    { label: 'Foi', value: 59, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 61, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 110, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Temps', value: 111, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 105, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 26, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 35, color: 'rgba(61, 0, 102, 1)' },
@@ -34,8 +34,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 10, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 31, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 33, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 96, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 39, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Automne', value: 97, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 42, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });
 })();

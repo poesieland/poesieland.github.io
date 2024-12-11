@@ -5,10 +5,6 @@ type = "home"
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
 
-## Humeur du moment
-
-{{% include "./includes/last_thought.md" %}}
-
 ## A lire et relire
 
 Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/en/original_texts/).
@@ -17,9 +13,9 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 {{% include "./includes/last_poems.md" true %}}
 {{% /notice %}}
 
-Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour platonique était un besoin de reconnaissance même si c'était compliqué de lui trouver un public. Ces poèmes se répartissent sur une pleine année, d'un automne à l'autre (1997-1998), entre la [cinquième saison](./seasons/5_cinquieme_saison) et la [huitième saison](./seasons/8_huitieme_saison). J'ai placé une petite indication à côté du lien vers le poème sur la page de sommaire des saisons concernées.
+## Humeur du moment
 
-{{< figure src="/images/ensixlettres.jpg" title="En six lettres t'aimer" >}}
+{{% include "./includes/last_thought.md" %}}
 
 ## Pourquoi la poésie ?
 
