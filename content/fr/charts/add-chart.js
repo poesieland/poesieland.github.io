@@ -72,4 +72,30 @@ const addBubbleChart = (chartId, chartLabels, datas, options) => {
 
  };
 
-export { addChart, addPieChart, addBarChart, addRadarChart, addBubbleChart };
+ const addLineChart = (chartId, chartLabels, datas, xLabels, stack, options) => { 
+    var datasets = [];
+
+    for (var i = 0; i < datas.length; i++) {
+        datasets.push({
+            label: chartLabels[i],
+            data: datas[i].data,
+            borderColor : datas[i].borderColor,
+            stack: stack
+        })
+    }
+
+    new Chart(
+        document.getElementById(chartId),
+        {
+            type: 'line',
+            data: {
+                labels: xLabels,
+                datasets: datasets,
+            },
+            options: Object.assign({ responsive: true }, options)
+        }
+    );
+
+ };
+
+export { addChart, addPieChart, addBarChart, addRadarChart, addBubbleChart, addLineChart };
