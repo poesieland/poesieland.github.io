@@ -79,8 +79,10 @@ const addBubbleChart = (chartId, chartLabels, datas, options) => {
         datasets.push({
             label: chartLabels[i],
             data: datas[i].data,
-            borderColor : datas[i].borderColor,
-            stack: stack
+            borderColor: datas[i].borderColor,
+            backgroundColor: datas[i].backgroundColor,
+            stack: stack,
+            fill: datas[i].fill
         })
     }
 
