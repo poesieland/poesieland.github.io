@@ -17,6 +17,7 @@ Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 - [L'ange dans le ciel (21e saison)](../seasons/21_vingt_et_unieme_saison/l_ange_dans_le_ciel)
 - [Tant ! (22e saison)](../seasons/22_vingt_deuxieme_saison/tant)
 - [Automne d'or (22e saison)](../seasons/22_vingt_deuxieme_saison/automne_d_or)
+- [Nativité (23e saison)](../seasons/23_vingt_troisieme_saison/nativite)
 
 #### En vers de 3 pieds
 

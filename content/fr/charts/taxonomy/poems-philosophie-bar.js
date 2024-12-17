@@ -23,7 +23,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Vingtième Saison : Le temps qui nous reste (2024)', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 23, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 20, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Vingt-troisième Saison : Jamais trop (2024)', value: 4, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Vingt-troisième Saison : Jamais trop (2024)', value: 7, color: 'rgba(220, 147, 246, 0.5)' },
   ];
     addBarChart('poems-philosophieBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

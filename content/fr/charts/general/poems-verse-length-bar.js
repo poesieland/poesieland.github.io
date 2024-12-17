@@ -1,17 +1,17 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: '2', value: 6 },
+    { label: '2', value: 7 },
     { label: '3', value: 8 },
     { label: '4', value: 41 },
-    { label: '5', value: 40 },
+    { label: '5', value: 41 },
     { label: '6', value: 257 },
     { label: '7', value: 72 },
-    { label: '8', value: 383 },
+    { label: '8', value: 384 },
     { label: '9', value: 9 },
     { label: '10', value: 35 },
     { label: '11', value: 16 },
-    { label: '12', value: 215 },
+    { label: '12', value: 216 },
     { label: '14', value: 5 },
     { label: '12, 4', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '2, 7', value: 1, color: 'rgba(72, 149, 239, 1)' },
