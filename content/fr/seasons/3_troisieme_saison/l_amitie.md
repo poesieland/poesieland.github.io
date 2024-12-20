@@ -1,5 +1,5 @@
 +++
-title = "L'Amitié"
+title = "L'amitié"
 id = "l_amitie_3"
 date = 1997-02-21
 weight = 20

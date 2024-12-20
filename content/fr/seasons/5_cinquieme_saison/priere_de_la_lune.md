@@ -28,7 +28,7 @@ La Lune de chagrin s'assombrit dans son albe,
 Ah ! Pour punir le vice elle décroît puis meurt !
 
  \
-L'Homme mérite-t-il semblable destinée;
+L'Homme mérite-t-il semblable destinée ;
 
 Une éternelle nuit condamnant ses combats ?
 

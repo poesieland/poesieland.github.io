@@ -1,11 +1,11 @@
 +++
-title = "O Printemps si beau"
+title = "O printemps si beau"
 id = "o_printemps_si_beau_6"
 date = 1998-04-12
 weight = 11
 categories = ["Printemps"]
 tags = ["saisons", "1998", "acrostiche"]
-acrostiche = "O Printemps si beau"
+acrostiche = "O printemps si beau"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 10
 +++
@@ -16,7 +16,7 @@ Parfum nacré d'une aube musicale !
 
 Richesse douce en vagues de couleurs,
 
-Intimité d'une saison lustrale!
+Intimité d'une saison lustrale !
 
  \
 Nue est mon âme, et devant l'univers
@@ -34,7 +34,7 @@ Sourire tendre aux estampes plissées :
 
 Sur la nervure un berceau pour toujours
 
-Illuminer les perles d'eau glissées!
+Illuminer les perles d'eau glissées !
 
  \
 Bel empereur au ballet souverain,
@@ -46,5 +46,5 @@ Ardente au creux du soir dans son refrain :
 Un souffle d'ange endort la jouvencelle !
 
 {{% notice style="primary" %}}
-Acrostiche : O Printemps si beau
+Acrostiche : O printemps si beau
 {{% /notice %}}

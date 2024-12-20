@@ -1,5 +1,5 @@
 +++
-title = "Le Marron"
+title = "Le marron"
 id = "le_marron_5"
 date = 1997-09-20
 weight = 37
@@ -24,7 +24,7 @@ Au lissier de couleurs,
 
 L'ambre de ton épure,
 
-Le désir des sculpteurs!
+Le désir des sculpteurs !
 
  \
 En ce beau jour d'automne

@@ -1,10 +1,10 @@
 +++
-title = "L'Infernale obscure"
+title = "L'infernale obscure"
 id = "l_infernale_obscure_4"
 date = 1997-08-16
 weight = 37
-categories = ["Révolte"]
-tags = ["philosophie", "1997"]
+categories = [ "Angoisse" ]
+tags = [ "philosophie", "1997" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -32,7 +32,7 @@ Je viendrai me percher,
 
 Je verrai ta voilure,
 
-Mon Infernale obscure!
+Mon infernale obscure !
 
 Et t'ouvrirai les bras
 

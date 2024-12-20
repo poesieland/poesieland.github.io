@@ -1,5 +1,5 @@
 +++
-title = "La Lune"
+title = "La lune"
 id = "la_lune_3"
 date = 1997-04-09
 weight = 4
@@ -40,6 +40,6 @@ Ton esprit s'amuse
 
 Au gré du profil,
 
-Sois ma douce Muse
+Sois ma douce muse
 
 Fine comme un cil.

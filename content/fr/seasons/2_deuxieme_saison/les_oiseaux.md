@@ -1,5 +1,5 @@
 +++
-title = "Les Oiseaux"
+title = "Les oiseaux"
 id = "les_oiseaux_2"
 date = 1996-12-09
 weight = 47

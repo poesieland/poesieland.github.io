@@ -1,5 +1,5 @@
 +++
-title = "La Pêche"
+title = "La pêche"
 id = "la_peche_4"
 date = 1997-08-23
 weight = 47
@@ -31,6 +31,6 @@ Puis ton cœur s'ensoleille :
 
 Noyau, décor perdu,
 
-Et c'est toi qu'aurai dû
+Et c'est toi qu'aurait dû
 
 Cueillir Eve, merveille !

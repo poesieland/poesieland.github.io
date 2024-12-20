@@ -3,7 +3,7 @@ import { addBarChart } from '../add-chart.js'
   const data = [
     { label: 'Première Saison : Premiers élans (1994 - 1996)', value: 3, color: 'rgba(255, 203, 96, 0.5)' },
     { label: 'Deuxième Saison : Tableaux (1996)', value: 6, color: 'rgba(255, 203, 96, 0.5)' },
-    { label: 'Troisième Saison : Vivace (1997)', value: 10, color: 'rgba(255, 203, 96, 0.5)' },
+    { label: 'Troisième Saison : Vivace (1997)', value: 9, color: 'rgba(255, 203, 96, 0.5)' },
     { label: 'Quatrième Saison : Rêves (1997)', value: 7, color: 'rgba(255, 203, 96, 0.5)' },
     { label: 'Cinquième Saison : Espaces de vie (1997 - 1998)', value: 4, color: 'rgba(255, 203, 96, 0.5)' },
     { label: 'Sixième Saison : Sur le chemin (1998)', value: 1, color: 'rgba(255, 203, 96, 0.5)' },

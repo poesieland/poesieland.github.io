@@ -1,5 +1,5 @@
 +++
-title = "Le Temps Mortel"
+title = "Le temps mortel"
 id = "le_temps_mortel_1"
 date = 1996-02-11
 weight = 50
@@ -15,7 +15,7 @@ Secondes toutes sœurs en rang guillotinées :
 
 Les bêtes, les humains tenus en son garrot,
 
-Au tombeau de l'oubli victimes destinées;
+Au tombeau de l'oubli victimes destinées ;
 
  \
 Nostalgie ô poignante enserrant notre cœur

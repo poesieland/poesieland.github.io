@@ -9,7 +9,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
 
-Chaque chemin mène à ma Muse
+Chaque chemin mène à ma muse
 
 Car le poète est un enfant
 

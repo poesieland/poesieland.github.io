@@ -1,5 +1,5 @@
 +++
-title = "Le Danseur"
+title = "Le danseur"
 id = "le_danseur_4"
 date = 1997-08-29
 weight = 31

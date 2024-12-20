@@ -1,5 +1,5 @@
 +++
-title = "L'Abandon"
+title = "L'abandon"
 id = "l_abandon_10"
 date = 1999-02-05
 weight = 40
@@ -28,5 +28,5 @@ O muet, triste et sourd, expirant son ennui,
 N'entends-tu pas ce cœur, ombre à chaque seconde ?
 
 {{% notice style="primary" %}}
-Acrostiche : L'Abandon
+Acrostiche : L'abandon
 {{% /notice %}}

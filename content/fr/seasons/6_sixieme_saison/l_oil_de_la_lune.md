@@ -1,5 +1,5 @@
 +++
-title = "L'œil de la Lune"
+title = "L'œil de la lune"
 id = "l_oil_de_la_lune_6"
 date = 1998-05-10
 weight = 15

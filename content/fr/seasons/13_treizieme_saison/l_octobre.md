@@ -1,11 +1,11 @@
 +++
-title = "L'Octobre"
+title = "L'octobre"
 id = "l_octobre_13"
 date = 1999-10-05
 weight = 40
 categories = ["Automne", "Espoir"]
 tags = ["saisons", "philosophie", "1999", "acrostiche"]
-acrostiche = "L'Octobre"
+acrostiche = "L'octobre"
 LastModifierDisplayName = "Barbara Post"
 verseLength = 12
 +++
@@ -28,5 +28,5 @@ Rêves des arbres roux à ce cœur battant, saint
 Etreint d'un voile doux, comme un chant pur résonne.
 
 {{% notice style="primary" %}}
-Acrostiche : L'Octobre
+Acrostiche : L'octobre
 {{% /notice %}}

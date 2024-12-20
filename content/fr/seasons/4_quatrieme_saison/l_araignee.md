@@ -1,5 +1,5 @@
 +++
-title = "L'Araignée"
+title = "L'araignée"
 id = "l_araignee_4"
 date = 1997-08-16
 weight = 45

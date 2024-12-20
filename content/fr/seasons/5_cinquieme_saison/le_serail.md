@@ -1,5 +1,5 @@
 +++
-title = "Le Sérail"
+title = "Le sérail"
 id = "le_serail_5"
 date = 1997-10-20
 weight = 32

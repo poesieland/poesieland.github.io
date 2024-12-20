@@ -1,5 +1,5 @@
 +++
-title = "La Danse"
+title = "La danse"
 id = "la_danse_3"
 date = 1997-01-18
 weight = 11
@@ -29,7 +29,7 @@ Longue langueur en s'envolant.
  \
 Juste un charme d'une soirée,
 
-Vous reverrai-je un jour prochain?
+Vous reverrai-je un jour prochain ?
 
 Pour encor sentir votre main,
 

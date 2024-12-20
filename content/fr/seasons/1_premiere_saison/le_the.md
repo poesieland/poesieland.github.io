@@ -1,5 +1,5 @@
 +++
-title = "Le Thé"
+title = "Le thé"
 id = "le_the_1"
 date = 1996-06-17
 weight = 34

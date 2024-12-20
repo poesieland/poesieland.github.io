@@ -1,5 +1,5 @@
 +++
-title = "Le Pic-Vert"
+title = "Le pic-vert"
 id = "le_pic_vert_5"
 date = 1997-09-29
 weight = 38

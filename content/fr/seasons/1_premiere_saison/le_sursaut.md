@@ -1,5 +1,5 @@
 +++
-title = "Le Sursaut"
+title = "Le sursaut"
 id = "le_sursaut_1"
 date = 1994-01-01
 weight = 49

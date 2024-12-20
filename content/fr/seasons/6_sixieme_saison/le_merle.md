@@ -1,5 +1,5 @@
 +++
-title = "le Merle"
+title = "le merle"
 id = "le_merle_6"
 date = 1998-05-20
 weight = 7
@@ -33,4 +33,4 @@ Pour en garnir un nid discret :
 
 Je bercerai de mon secret
 
-Tes oisillons piailleurs en grappes!
+Tes oisillons piailleurs en grappes !

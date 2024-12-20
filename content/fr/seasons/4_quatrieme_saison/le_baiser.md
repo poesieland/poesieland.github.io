@@ -1,5 +1,5 @@
 +++
-title = "Le Baiser"
+title = "Le baiser"
 id = "le_baiser_4"
 date = 1997-08-21
 weight = 18

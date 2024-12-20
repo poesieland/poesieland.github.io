@@ -1,5 +1,5 @@
 +++
-title = "L'Amante"
+title = "L'amante"
 id = "l_amante_4"
 date = 1997-08-03
 weight = 17
@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post"
 
 Lune amante des nuits
 
-Ultimes masques luits,
+Ultimes masques luis,
 
 Noue et la chair et la terre
 

@@ -1,5 +1,5 @@
 +++
-title = "Les Amoureux"
+title = "Les amoureux"
 id = "les_amoureux_2"
 date = 1996-11-07
 weight = 7

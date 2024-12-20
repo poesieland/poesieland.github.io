@@ -9,7 +9,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post"
 +++
 
-Le poète oublieux que sa Muse délaisse
+Le poète oublieux que sa muse délaisse
 
 A l'esprit torturé, le cerveau tout confus,
 

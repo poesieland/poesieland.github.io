@@ -1,5 +1,5 @@
 +++
-title = "L'Absence"
+title = "L'absence"
 id = "l_absence_3"
 date = 1997-05-02
 weight = 19

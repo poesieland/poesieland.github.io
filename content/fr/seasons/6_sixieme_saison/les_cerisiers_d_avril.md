@@ -1,5 +1,5 @@
 +++
-title = "Les Cerisiers d'avril"
+title = "Les cerisiers d'avril"
 id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34

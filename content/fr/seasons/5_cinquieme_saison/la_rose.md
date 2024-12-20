@@ -1,5 +1,5 @@
 +++
-title = "La Rose"
+title = "La rose"
 id = "la_rose_5"
 date = 1998-03-05
 weight = 20
@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post"
 
 Manger le cœur d'une rose
 
-Ardente de fols bonheur;
+Ardente de fols bonheur ;
 
 Nouée encor, presque éclose,
 

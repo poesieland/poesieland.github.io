@@ -1,5 +1,5 @@
 +++
-title = "Le Chant de l'Oiseau"
+title = "Le chant de l'oiseau"
 id = "le_chant_de_l_oiseau_3"
 date = 1997-02-22
 weight = 42

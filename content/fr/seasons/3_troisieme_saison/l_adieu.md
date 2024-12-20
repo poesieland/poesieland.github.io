@@ -1,10 +1,10 @@
 +++
-title = "L'Adieu"
+title = "L'adieu"
 id = "l_adieu_3"
 date = 1997-05-10
 weight = 7
-categories = ["Nuit"]
-tags = ["ombres et lumières", "1997"]
+categories = [ "Ciel", "Temps" ]
+tags = [ "1997", "nature", "philosophie" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post"
 +++

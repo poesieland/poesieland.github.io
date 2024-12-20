@@ -1,5 +1,5 @@
 +++
-title = "Le Parc"
+title = "Le parc"
 id = "le_parc_2"
 date = 1996-11-16
 weight = 11
@@ -24,7 +24,7 @@ Quand sous les arbres l'air floconne,
 
 Ces quelques mois avant l'automne
 
-Refermaient nos secrets dévots.
+Renfermaient nos secrets dévots.
 
  \
 Et sur le banc nos deux images

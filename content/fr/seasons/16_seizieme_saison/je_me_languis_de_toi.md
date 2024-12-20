@@ -28,7 +28,7 @@ Noué de voix, touchers plus doux qu'émaux,
 Gemme au regard... et cette image brève
 
  \
-Unit le temps pour ma Muse, univers
+Unit le temps pour ma muse, univers
 
 Irréel comme être que l'on invente
 

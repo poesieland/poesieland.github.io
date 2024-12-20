@@ -1,5 +1,5 @@
 +++
-title = "La Comète"
+title = "La comète"
 id = "la_comete_3"
 date = 1997-04-01
 weight = 6
@@ -33,7 +33,7 @@ De doux rubans de soie,
 
 Le long de ton fuseau
 
-Laisse éclater ta joie!
+Laisse éclater ta joie !
 
  \
 Petit astre rieur
@@ -42,4 +42,4 @@ Au mystérieux pagne,
 
 Comète de bonheur
 
-De nos nuits la compagne!
+De nos nuits la compagne !
