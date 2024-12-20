@@ -194,7 +194,8 @@ function useExactSearch(searchTerm) {
     }
 
     //console.log('general search, tokens: ', searchTokens);
-    return { exactSearch: searchTokens.length > 1, searchTokens: searchTokens }
+    //return { exactSearch: searchTokens.length > 1, searchTokens: searchTokens } BUGGY (search with required words returns no match)
+    return { exactSearch: false, searchTokens: searchTokens }
 }
 
 function searchPatterns(word) {
