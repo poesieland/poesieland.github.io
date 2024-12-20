@@ -6,7 +6,7 @@ import { addLineChart } from '../add-chart.js'
     { label: '3 pieds', data: [0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,3,0], borderColor: 'rgb(245, 183, 177)', backgroundColor: 'rgb(245, 183, 177)', fill: true },
     { label: '4 pieds', data: [0,5,1,1,0,1,2,1,0,0,2,0,0,0,0,0,1,2,5,2,5,10,3], borderColor: 'rgb(215, 189, 226)', backgroundColor: 'rgb(215, 189, 226)', fill: true },
     { label: '5 pieds', data: [0,0,2,1,0,1,0,1,2,1,5,1,1,0,0,2,3,3,4,9,3,1,1], borderColor: 'rgb(169, 204, 227)', backgroundColor: 'rgb(169, 204, 227)', fill: true },
-    { label: '6 pieds', data: [5,6,12,24,18,8,5,4,17,5,12,8,8,9,7,10,15,20,13,23,12,11,5], borderColor: 'rgb(174, 214, 241)', backgroundColor: 'rgb(174, 214, 241)', fill: true },
+    { label: '6 pieds', data: [5,6,12,24,18,8,5,4,17,5,12,8,8,9,7,10,15,20,13,23,12,11,6], borderColor: 'rgb(174, 214, 241)', backgroundColor: 'rgb(174, 214, 241)', fill: true },
     { label: '7 pieds', data: [0,0,0,0,4,3,5,7,2,8,5,4,4,4,4,6,7,1,2,2,4,0,0], borderColor: 'rgb(163, 228, 215)', backgroundColor: 'rgb(163, 228, 215)', fill: true },
     { label: '8 pieds', data: [15,15,23,21,23,26,21,29,12,18,15,14,14,19,20,16,15,13,16,5,16,15,3], borderColor: 'rgb(162, 217, 206)', backgroundColor: 'rgb(162, 217, 206)', fill: true },
     { label: '9 pieds', data: [0,0,1,0,0,0,1,0,0,1,0,0,1,1,0,1,1,0,0,1,1,0,0], borderColor: 'rgb(171, 235, 198)', backgroundColor: 'rgb(171, 235, 198)', fill: true },

@@ -5,7 +5,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Un jour', value: 8, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '2j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: '5j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '5j', value: 2, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '7j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
   ];
     addBarChart('season23PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
