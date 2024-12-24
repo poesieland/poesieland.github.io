@@ -9,7 +9,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Sixième Saison : Sur le chemin (1998)', value: 2, color: 'rgba(61, 0, 102, 0.5)' },
     { label: 'Septième Saison : Croire (1998)', value: 3, color: 'rgba(61, 0, 102, 0.5)' },
     { label: 'Huitième Saison : Reflets perdus (1998)', value: 1, color: 'rgba(61, 0, 102, 0.5)' },
-    { label: 'Neuvième Saison : Souffles (1998)', value: 2, color: 'rgba(61, 0, 102, 0.5)' },
+    { label: 'Neuvième Saison : Souffles (1998)', value: 1, color: 'rgba(61, 0, 102, 0.5)' },
     { label: 'Dixième Saison : Pensées (1999)', value: 2, color: 'rgba(61, 0, 102, 0.5)' },
     { label: 'Onzième Saison : Perceptible (1999)', value: 1, color: 'rgba(61, 0, 102, 0.5)' },
     { label: 'Douzième Saison : Tempo piano (1999)', value: 0, color: 'rgba(61, 0, 102, 0.5)' },

@@ -18,7 +18,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Révolte', value: 1, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Flore', value: 4, color: 'rgba(84, 114, 174, 1)' },
-    { label: 'Ciel', value: 2, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Ciel', value: 3, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 1, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 4, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },

@@ -12,5 +12,4 @@ title = "Les jours sans"
 - 14 octobre
 - 10 décembre
 - 18 décembre
-- 22 décembre
 - 29 décembre

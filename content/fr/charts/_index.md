@@ -1,6 +1,6 @@
 +++
 title = "Statistiques"
-weight = 4
+weight = 5
 type = "chapter"
 +++
 Quoi de plus amusant voire surprenant que quelques statistiques ?

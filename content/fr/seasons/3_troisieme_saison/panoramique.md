@@ -3,8 +3,8 @@ title = "Panoramique"
 id = "panoramique_3"
 date = 1997-03-18
 weight = 5
-categories = ["Nuit"]
-tags = ["ombres et lumières", "1997"]
+categories = [ "Nuit", "Ciel" ]
+tags = [ "1997", "ombres et lumières", "nature" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++

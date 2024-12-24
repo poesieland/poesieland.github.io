@@ -1,5 +1,5 @@
 +++
-title = "La rentrée"
+title = "La rentrée scolaire"
 date = 2024-08-19
 LastModifierDisplayName = "Barbara Post"
 +++

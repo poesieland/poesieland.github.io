@@ -97,7 +97,7 @@ C'est aussi un besoin de faire rêver les autres, de susciter en eux l'amour de 
 
 L'espace limité d'une langue est un grand terrain de jeu, entre les jeux de mots classiques, leur polysémie, les différents registres, leur musicalité.
 
-[Les reprises](./thoughts/reprises) sont également très amusantes.
+[Les reprises](./reprises) sont également très amusantes.
 
 Bon voyage.
 

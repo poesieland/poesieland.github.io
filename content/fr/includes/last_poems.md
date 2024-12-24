@@ -4,15 +4,19 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Solstice, écrit le 20.12.2024](./seasons/23_vingt_troisieme_saison/solstice/)
+[Jésus revenu, écrit le 24.12.2024](./seasons/23_vingt_troisieme_saison/jesus_revenu/)
 
-[L'amour moteur, écrit le 15.12.2024](./seasons/23_vingt_troisieme_saison/l_amour_moteur/)
+[Automne croque-mitaine, écrit le 23.12.2024](./seasons/23_vingt_troisieme_saison/automne_croque_mitaine/)
 
-[Gratitude, écrit le 14.12.2024](./seasons/23_vingt_troisieme_saison/gratitude/)
+[Tombe la neige, écrit le 22.12.2024](./seasons/23_vingt_troisieme_saison/tombe_la_neige/)
 
-[Lune d'hiver, écrit le 13.12.2024](./seasons/23_vingt_troisieme_saison/lune_d_hiver/)
+[Renouveau, écrit le 22.12.2024](./seasons/23_vingt_troisieme_saison/renouveau/)
 
-[Nativité, écrit le 13.12.2024](./seasons/23_vingt_troisieme_saison/nativite/)
+[Les vieux arbres, écrit le 22.12.2024](./seasons/23_vingt_troisieme_saison/les_vieux_arbres/)
+
+[Hiver perdu, écrit le 21.12.2024](./seasons/23_vingt_troisieme_saison/hiver_perdu/)
+
+[Avent, écrit le 21.12.2024](./seasons/23_vingt_troisieme_saison/avent/)
 
 
 

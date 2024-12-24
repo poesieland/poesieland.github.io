@@ -3,8 +3,8 @@ title = "Matin céleste"
 id = "matin_celeste_5"
 date = 1997-12-16
 weight = 42
-categories = ["Aube"]
-tags = ["ombres et lumières", "1997"]
+categories = [ "Aube", "Ciel" ]
+tags = [ "1997", "ombres et lumières", "nature" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 6
 +++

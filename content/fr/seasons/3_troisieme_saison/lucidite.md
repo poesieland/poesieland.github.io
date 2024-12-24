@@ -3,8 +3,8 @@ title = "Lucidité"
 id = "lucidite_3"
 date = 1997-02-14
 weight = 27
-categories = ["Espoir"]
-tags = ["philosophie", "1997"]
+categories = [ "Espoir", "Ciel" ]
+tags = [ "1997", "philosophie", "nature" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
 +++
