@@ -15,7 +15,6 @@ Les reprises peuvent être vues comme des mini-thèmes.
 ### Reprises uniques en vrac
 
 **A la dix-huitième saison**
-- A propos de l'importance des mots, dans [le mot manquant](../seasons/18_dix_huitieme_saison/le_mot_manquant)
 - ["Sur un air bleu, sur un air blanc"](../seasons/18_dix_huitieme_saison/promenade_mentale)
 
 **A la dix-neuvième saison**

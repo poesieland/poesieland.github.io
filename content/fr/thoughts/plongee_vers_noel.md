@@ -3,9 +3,9 @@ title = "Noël..."
 date = 2024-11-17
 LastModifierDisplayName = "Barbara Post"
 +++
-### 🎄🎀 Autour de Noël 🎀🎄
+### 🎄🎀 Plongée vers Noël 🎀🎄
 
-Pensée initialement mi-novembre... Bientôt Saint Nicolas, toute une période enchanteresse jusqu'à Noël, fête des lumières, grand rassemblement familial. Cette période m'est particulière.
+Pensée initialement développée à partir de mi-novembre : bientôt Saint Nicolas, toute une période enchanteresse, cette plongée jusqu'à Noël, fête des lumières, grand rassemblement familial. Cette période m'est particulière.
 
 Les poèmes sur ce thème :
 
@@ -34,3 +34,5 @@ Les poèmes sur ce thème :
 - [Nativité](../seasons/23_vingt_troisieme_saison/nativite)
 - [Avent](../seasons/23_vingt_troisieme_saison/avent)
 - [Jésus revenu](../seasons/23_vingt_troisieme_saison/jesus_revenu)
+- [Noël de joie](../seasons/23_vingt_troisieme_saison/noel_de_joie)
+- [L'après Noël](../seasons/23_vingt_troisieme_saison/l_apres_noel)

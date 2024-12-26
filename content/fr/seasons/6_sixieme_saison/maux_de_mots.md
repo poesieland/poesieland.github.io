@@ -3,10 +3,15 @@ title = "Maux de mots"
 id = "maux_de_mots_6"
 date = 1998-05-07
 weight = 2
-categories = ["Apprentissage"]
-tags = ["philosophie", "1998"]
+categories = [ "Apprentissage" ]
+tags = [ "philosophie", "1998" ]
 LastModifierDisplayName = "Barbara Post"
 verseLength = 4
+info = """
+{{% notice style="primary" %}}
+Les poèmes du mini-thème "les mots" :
+{{% include "../../includes/les_mots" hidefirstheading %}}
+{{% /notice %}}"""
 +++
 
 Des mots touchants,
@@ -52,3 +57,8 @@ Au modelage,
 On n'y peut voir
 
 Qu'en prenant l'âge...
+
+{{% notice style="primary" %}}
+Les poèmes du mini-thème "les mots" :
+{{% include "../../includes/les_mots" hidefirstheading %}}
+{{% /notice %}}

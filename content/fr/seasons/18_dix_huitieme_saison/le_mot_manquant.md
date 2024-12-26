@@ -12,7 +12,11 @@ tags:
     - "2024"
     - philosophie
 location: []
-info: Reprise d'une façon de formuler joliment l'importance des mots exprimée d'abord dans un [poème de la sixième saison](../6_sixieme_saison/maux_de_mots)
+info: |-
+    {{% notice style="primary" %}}
+    Les poèmes du mini-thème "les mots" :
+    {{% include "../../includes/les_mots" hidefirstheading %}}
+    {{% /notice %}}
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -81,8 +85,7 @@ Apaisé quand
 
 Les "merci" s'osent !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise d'une façon de formuler joliment l'importance des mots exprimée d'abord dans un [poème de la sixième saison](../6_sixieme_saison/maux_de_mots)"}]} -->
 {{% notice style="primary" %}}
-Reprise d'une façon de formuler joliment l'importance des mots exprimée d'abord dans un [poème de la sixième saison](../6_sixieme_saison/maux_de_mots)
+Les poèmes du mini-thème "les mots" :
+{{% include "../../includes/les_mots" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

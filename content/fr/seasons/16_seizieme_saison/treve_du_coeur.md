@@ -12,7 +12,7 @@ verseLength = 8
 
 Tombent les feuilles, impassibles
 
-Rêves d'un automne dévôt
+Rêves d'un automne dévot
 
 Eclatant comme un coeur nouveau
 
