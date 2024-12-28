@@ -2,6 +2,10 @@
 title = "L'art de la reprise"
 weight = 3
 type = "chapter"
+info = """
+{{% notice style="primary" %}}
+Reprise de l'image "l'orgue des arbres" d'un [poème de la deuxième saison](../2_deuxieme_saison/neige)
+{{% /notice %}}"""
 +++
 
 Reprendre pour mieux redonner : l'art de la reprise, dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
@@ -36,3 +40,4 @@ Les reprises peuvent être vues comme des mini-thèmes.
 **A la vingt-troisième saison**
 - ["Noël a chanté sur le toit"](../seasons/23_vingt_troisieme_saison/noel_lumieres)
 - ["Tombe la neige"](../seasons/23_vingt_troisieme_saison/tombe_la_neige)
+- ["... l'orgue des arbres"](../seasons/23_vingt_troisieme_saison/contemplation)
