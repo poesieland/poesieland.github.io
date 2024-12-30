@@ -13,7 +13,7 @@ tags:
 location: []
 info: |-
     {{% notice style="primary" %}}
-    [La chanson en question](https://www.youtube.com/watch?v=AzaTyxMduH4) ou [juste les paroles](https://genius.com/Celine-dion-pour-que-tu-maimes-encore-lyrics)
+    Parce qu'une [chanson de Céline Dion](https://www.google.com/search?q=pour+que+tu+m%27aimes+encore) ne quittait pas ma tête.
     {{% /notice %}}
 pictures: []
 poemType: ""
@@ -49,6 +49,6 @@ Ta tristesse chassée !
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-[La chanson en question](https://www.youtube.com/watch?v=AzaTyxMduH4) ou [juste les paroles](https://genius.com/Celine-dion-pour-que-tu-maimes-encore-lyrics)
+Parce qu'une [chanson de Céline Dion](https://www.google.com/search?q=pour+que+tu+m%27aimes+encore) ne quittait pas ma tête.
 {{% /notice %}}
 <!-- FM:Snippet:End -->

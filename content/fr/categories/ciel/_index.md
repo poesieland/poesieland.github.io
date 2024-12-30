@@ -15,6 +15,7 @@ Dans tous ses états, quand le premier vers le met en valeur :
 - [Bleu](../../seasons/4_quatrieme_saison/ete)
 - [Bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
 - [Comme un paravent](../../seasons/3_troisieme_saison/panoramique)
+- [Doux](../../seasons/23_vingt_troisieme_saison/ciel)
 - [Gris](../../reprises/le_ciel_est_gris)
 - [Plein d'étoiles](../../seasons/4_quatrieme_saison/l_amour_tendre)
 - [Tombé sur la tête](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)

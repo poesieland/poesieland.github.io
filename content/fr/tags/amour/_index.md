@@ -2,7 +2,7 @@
 title = "Amour"
 +++
 
-[Ma chanson préférée à ce sujet](https://www.paroles.net/jacques-brel/paroles-quand-on-n-a-que-l-amour)
+[Ma chanson préférée à ce sujet](https://www.google.com/search?q=quand+on+n%27a+que+l%27amour)
 
 Ce mot-clé regroupe les catégories suivantes :
 

@@ -6,7 +6,7 @@ weight = 13
 categories = [ "Automne", "Eté", "Hiver", "Printemps", "Romantisme" ]
 tags = [ "saisons", "amour", "2024" ]
 info = """
-[Cette chanson](https://fr.wikipedia.org/wiki/Je_te_promets_(chanson_de_Johnny_Hallyday)) dans ma tête ce matin... Deux grands artistes qui me sont chers.
+[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
 
 Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons)."""
 verseLength = 12
@@ -49,7 +49,7 @@ Mon éternel amour fera briller tes yeux :
 Je te promets l'espoir, demain n'a pas de terme.
 
 {{% notice style="primary" %}}
-[Cette chanson](https://fr.wikipedia.org/wiki/Je_te_promets_(chanson_de_Johnny_Hallyday)) dans ma tête ce matin... Deux grands artistes qui me sont chers.
+[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
 
 Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons).
 {{% /notice %}}

@@ -1,10 +1,10 @@
 +++
 title = "Vingt-troisième Saison : Jamais trop"
-summary = "Depuis novembre 2024"
+summary = "La philosophie règne, ainsi que les saisons et la nature. Depuis novembre 2024"
 weight = 23
 +++
 
-Depuis novembre 2024
+La foi, exacerbée par la période jusqu'à Noël. L'hiver... Aussi l'être, le ciel, le temps. Depuis novembre 2024
 
 ---
 {{% children  %}}

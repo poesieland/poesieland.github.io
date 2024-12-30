@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
 location: []
-info: ""
+info: Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -44,3 +44,9 @@ Le coeur est juste après pesée
 Et l'âme aussi toute apaisée,
 
 On ira tous, je te le dis.
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
+{{% notice style="primary" %}}
+Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
+{{% /notice %}}
+<!-- FM:Snippet:End -->

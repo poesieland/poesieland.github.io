@@ -12,7 +12,7 @@ tags:
     - amour
 location: []
 info: |-
-    [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Halliday.
+    [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
     En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)
 pictures: []
@@ -49,7 +49,7 @@ Retiens ton souffle et sois fort.
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-[Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Halliday.
+[Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
 En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)
 {{% /notice %}}

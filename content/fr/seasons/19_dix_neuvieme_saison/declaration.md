@@ -5,7 +5,7 @@ date = 2024-03-05
 weight = 19
 categories = [ "Passion" ]
 tags = [ "amour", "2024" ]
-info = "[Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)"
+info = "Inspiré par la chanson de Francis Cabrel [Je t'aimais, je t'aime, je t'aimerai](https://www.google.com/search?q=je+t%27aimais+je+t%27aime+je+t%27aimerai)"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -35,5 +35,5 @@ Je t'aimais, je t'aime et mon coeur explose
 Pour crier au monde amour qui s'impose.
 
 {{% notice style="primary" %}}
-[Je t'aimais, je t'aime, je t'aimerai](https://fr.wikipedia.org/wiki/Je_t%27aimais,_je_t%27aime,_je_t%27aimerai)
+Inspiré par la chanson de Francis Cabrel [Je t'aimais, je t'aime, je t'aimerai](https://www.google.com/search?q=je+t%27aimais+je+t%27aime+je+t%27aimerai)
 {{% /notice %}}

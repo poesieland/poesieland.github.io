@@ -14,10 +14,11 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Angoisse', value: 2, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 2, color: 'rgba(244, 254, 254, 1)' },
     { label: 'Flore', value: 1, color: 'rgba(84, 114, 174, 1)' },
-    { label: 'Ciel', value: 5, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Ciel', value: 7, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 8, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Hiver', value: 9, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season23Pie', [data], { plugins: { title: { display: true, text: 'Vingt-troisième Saison : Jamais trop - Depuis novembre 2024' } } });
 })();

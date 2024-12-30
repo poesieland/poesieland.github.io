@@ -48,4 +48,4 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 
 {{< chartjs id="season22Pie" width="40%" jsFile="../season-22/categories-pie.js" inline=true text="Deux mois et demi, follement l'automne, puis l'hiver aussi"/>}}
 
-{{< chartjs id="season23Pie" width="40%" jsFile="../season-23/categories-pie.js" inline=true text="En cours"/>}}
+{{< chartjs id="season23Pie" width="40%" jsFile="../season-23/categories-pie.js" inline=true text="En cours : deux mois ou presque ? Fin d'automne et pleinement l'hiver"/>}}
