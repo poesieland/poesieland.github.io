@@ -363,8 +363,8 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 3 },
     { label: '', value: 6 },
     { label: '', value: 5 },
-    { label: '', value: 7 },
-    { label: '', value: 0 },
+    { label: '', value: 8 },
+    { label: '', value: 1 },
     { label: '', value: 3 },
     { label: '', value: 1 },
   ];

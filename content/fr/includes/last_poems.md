@@ -4,6 +4,10 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Au couvent, écrit le 29.12.2024](./seasons/23_vingt_troisieme_saison/au_couvent/)
+
+[Rêves d'oiseaux, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/reves_d_oiseaux/)
+
 [Le vieux couple, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/le_vieux_couple/)
 
 [Sur un air, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/sur_un_air/)
