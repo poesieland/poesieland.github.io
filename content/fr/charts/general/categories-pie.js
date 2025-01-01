@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 27, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 34, color: 'rgba(255, 111, 125, 1)' },
-    { label: 'Romantisme', value: 44, color: 'rgba(253, 108, 158, 1)' },
+    { label: 'Romantisme', value: 45, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 53, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 33, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 36, color: 'rgba(253, 241, 184, 1)' },

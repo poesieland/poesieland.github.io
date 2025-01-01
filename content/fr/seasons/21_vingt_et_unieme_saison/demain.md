@@ -14,9 +14,8 @@ tags:
     - philosophie
 location: []
 info: |-
-    Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
-
-    Acrostiche : Demain nous serons
+    Les poèmes de ce mini-thème glissant vers la vieillesse :
+    {{% include "../../includes/demain_etre" hidefirstheading %}}
 pictures: []
 poemType: ""
 acrostiche: Demain nous serons
@@ -58,10 +57,13 @@ Nouveau dans mon coeur baladin,
 
 Sourire de mère attendrie.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquième_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu..."}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
+Acrostiche : Demain nous serons.
+
 Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
-Acrostiche : Demain nous serons
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+{{% include "../../includes/demain_etre" hidefirstheading %}}
 {{% /notice %}}
 <!-- FM:Snippet:End -->

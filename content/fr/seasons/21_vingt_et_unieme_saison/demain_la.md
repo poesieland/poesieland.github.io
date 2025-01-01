@@ -14,7 +14,9 @@ tags:
     - philosophie
     - acrostiche
 location: []
-info: ""
+info: |-
+    Les poèmes de ce mini-thème glissant vers la vieillesse :
+    {{% include "../../includes/demain_etre" hidefirstheading %}}
 pictures: []
 poemType: ""
 acrostiche: Demain, là
@@ -40,6 +42,9 @@ Amour, notre chemin continue, indicible.
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Demain, là"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Demain, là
+Acrostiche : Demain, là.
+
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+{{% include "../../includes/demain_etre" hidefirstheading %}}
 {{% /notice %}}
 <!-- FM:Snippet:End -->

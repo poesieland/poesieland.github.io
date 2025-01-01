@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Le vieux couple, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/le_vieux_couple/)
+
 [Sur un air, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/sur_un_air/)
 
 [Ciel !, écrit le 28.12.2024](./seasons/23_vingt_troisieme_saison/ciel/)
@@ -13,10 +15,6 @@ title = "Derniers ajouts"
 [Retiens l'amour, écrit le 27.12.2024](./seasons/23_vingt_troisieme_saison/retiens_l_amour/)
 
 [Celui qui fut, écrit le 27.12.2024](./seasons/23_vingt_troisieme_saison/celui_qui_fut/)
-
-[Contemplation, écrit le 27.12.2024](./seasons/23_vingt_troisieme_saison/contemplation/)
-
-[Souhaits, écrit le 27.12.2024](./seasons/23_vingt_troisieme_saison/souhaits/)
 
 
 

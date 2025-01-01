@@ -5,7 +5,12 @@ date = 1997-11-21
 weight = 23
 categories = [ "Temps", "Apprentissage" ]
 tags = [ "philosophie", "1997", "acrostiche" ]
-info = "Dédié à mon neuveu Louis"
+info = """
+Dédié à mon neveu Louis.
+
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+
+{{% include "../../includes/demain_etre" hidefirstheading %}}"""
 acrostiche = "Demain nous serons"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post"
@@ -47,7 +52,10 @@ Noircis de ton crayon les pages de l'enfance,
 Sois donc d'abord toi-même et saisis les bonheurs !
 
 {{% notice style="primary" %}}
-Dédié à mon neveu Louis
+Acrostiche : Demain nous serons.
 
-Acrostiche : Demain nous serons
+Dédié à mon neveu Louis.
+
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+{{% include "../../includes/demain_etre" hidefirstheading %}}
 {{% /notice %}}
