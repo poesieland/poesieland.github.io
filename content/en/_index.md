@@ -65,3 +65,7 @@ A contemporary poet, Evelina Jarosz Clark, wrote on August 4th, 2001:
 > \
 > To be complete.
 
+## Licence
+
+Poesieland © 2023 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+

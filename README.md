@@ -2,7 +2,12 @@
 
 Personal poetry website of Barbara Post, editable content which is used with Hugo static site generator and custom theme.
 
----
+## Licence
+
+Poesieland © 2023 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+## Technical dependencies
+
 This repository uses one other repository as Git submodule:
 
 - the Hugo Theme Relearn theme project, following main development: [https://github.com/McShelby/hugo-theme-relearn](https://github.com/McShelby/hugo-theme-relearn)

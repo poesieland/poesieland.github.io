@@ -1,12 +1,18 @@
+## Licence
+
+Poesieland © 2023 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
 ## Contributors
 
 Special thanks to [Xarkam](https://github.com/Xarkam/) for contributing to this project.
 
 ## Theme used
 
-[Hugo Theme Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html). Special thanks to [McShelby](https://github.com/McShelby/) for maintaining and improving this project.
+[Hugo Theme Relearn](https://mcshelby.github.io/hugo-theme-relearn/index.html).
 
-## Packages and Libraries
+Special thanks to [McShelby](https://github.com/McShelby/) for maintaining and improving this project.
+
+## Packages and libraries
 
 - [autoComplete](https://github.com/Pixabay/JavaScript-autoComplete) - A lightweight and powerful vanilla JavaScript completion suggester
 - [clipboard.js](https://clipboardjs.com) - A modern approach to copy text to clipboard
