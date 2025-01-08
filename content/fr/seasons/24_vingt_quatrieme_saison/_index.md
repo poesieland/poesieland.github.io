@@ -1,6 +1,6 @@
 +++
 title = "Vingt-quatrième Saison : Les mots respirent"
-summary = "Depuis ddécembre 2024"
+summary = "Depuis décembre 2024"
 weight = 24
 +++
 
