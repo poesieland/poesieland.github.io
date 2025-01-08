@@ -1,7 +1,7 @@
 import { addRadarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Janvier', value: 3 },
+    { label: 'Janvier', value: 6 },
     { label: '', value: 3 },
     { label: '', value: 5 },
     { label: '', value: 6 },
@@ -366,7 +366,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 8 },
     { label: '', value: 6 },
     { label: '', value: 5 },
-    { label: '', value: 2 },
+    { label: '', value: 3 },
   ];
   addRadarChart('poemDayRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(76, 201, 240)', borderColor: 'rgba(0, 0, 0, 0.1)', pointBackgroundColor: 'rgba(0, 0, 0, 0.1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

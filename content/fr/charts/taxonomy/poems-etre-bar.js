@@ -24,6 +24,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Vingt-et-unième Saison : C\'est vivre qui compte (2024)', value: 5, color: 'rgba(105, 16, 168, 0.5)' },
     { label: 'Vingt-deuxième Saison : Au temps le dire (2024)', value: 2, color: 'rgba(105, 16, 168, 0.5)' },
     { label: 'Vingt-troisième Saison : Jamais trop (2024)', value: 6, color: 'rgba(105, 16, 168, 0.5)' },
+    { label: 'Vingt-quatrième Saison : Les mots respirent (2024)', value: 0, color: 'rgba(105, 16, 168, 0.5)' },
   ];
     addBarChart('poems-etreBar', ['Poèmes au fil des saisons'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
 })();

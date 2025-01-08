@@ -52,7 +52,7 @@ Mânes, haillons
 
 Ricanent, sombres,
 
-Brisent baillons !
+Brisent bâillons !
 
  \
 Tourne la page,

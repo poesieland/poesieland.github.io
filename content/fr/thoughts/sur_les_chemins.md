@@ -1,5 +1,5 @@
 +++
-title = "La rentrée scolaire"
+title = "Sur les chemins"
 date = 2024-08-19
 LastModifierDisplayName = "Barbara Post"
 +++
@@ -14,9 +14,10 @@ En cette fin août, on pense à la rentrée des classes, même si l'atmosphère 
 - [La rentrée (16e saison)](../seasons/16_seizieme_saison/la_rentree)
 - [Souvenirs de rentrée (21e saison)](../seasons/21_vingt_et_unieme_saison/souvenirs_de_rentree)
 
-J'aime aussi l'idée du chemin spirituel :
+### J'aime aussi l'idée du chemin spirituel
 
 - [Les chemins de la mémoire (5e saison)](../seasons/5_cinquieme_saison/les_chemins_de_la_memoire)
 - [J'irai par ce chemin (13e saison)](../seasons/13_treizieme_saison/j_irai_par_ce_chemin)
 - [Cheminement (20e saison)](../seasons/20_vingtieme_saison/cheminement)
 - [Vers l'abbaye (21e saison)](../seasons/21_vingt_et_unieme_saison/vers_l_abbaye)
+- [Suis ton chemin (24e saison)](../seasons/24_vingt_quatrieme_saison/suis_ton_chemin)

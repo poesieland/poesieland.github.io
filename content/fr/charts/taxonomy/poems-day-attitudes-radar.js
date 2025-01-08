@@ -1,7 +1,7 @@
 import { addRadarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Janvier', value: 1 },
+    { label: 'Janvier', value: 2 },
     { label: '', value: 0 },
     { label: '', value: 2 },
     { label: '', value: 0 },

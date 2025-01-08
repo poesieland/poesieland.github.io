@@ -9,8 +9,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '7j', value: 4, color: 'rgba(72, 149, 239, 1)' },
     { label: '8j', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '9j', value: 2, color: 'rgba(72, 149, 239, 1)' },
-    { label: '12j', value: 1, color: 'rgba(72, 149, 239, 1)' },
-    { label: '13j', value: 1, color: 'rgba(72, 149, 239, 1)' },
+    { label: '13j', value: 2, color: 'rgba(72, 149, 239, 1)' },
     { label: '19j', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
     addBarChart('poemSeriesBar', ['Séries'], [data], {});
