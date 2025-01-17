@@ -8,9 +8,11 @@ divider: ""
 categories:
     - Automne
     - Hiver
+    - Enfance et adolescence
 tags:
     - "2024"
     - saisons
+    - philosophie
 location: []
 info: ""
 pictures: []

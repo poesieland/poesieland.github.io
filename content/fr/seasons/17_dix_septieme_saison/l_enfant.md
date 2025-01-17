@@ -6,45 +6,12 @@ date: 2007-06-21
 divider: ""
 categories:
     - Apprentissage
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
 ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
 ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
 tags:
     - philosophie
     - "2007"
-info: ""
+info: Quand j'étais enceinte de mon fils aîné.
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -76,3 +43,9 @@ C'est moi bientôt mère ;
 C'est toi le natif,
 
 C'est moi l'étrangère.
+
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
+{{% notice style="primary" %}}
+Quand j'étais enceinte de mon fils aîné.
+{{% /notice %}}
+<!-- FM:Snippet:End -->

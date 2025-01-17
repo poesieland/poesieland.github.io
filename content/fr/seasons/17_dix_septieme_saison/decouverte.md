@@ -55,7 +55,7 @@ LastModifierDisplayName: Barbara Post
 location:
     - Lorraine
 ---
-La pluie est un carapaçon,
+La pluie est un caparaçon,
 
 Tout est nuance de grisaille.
 

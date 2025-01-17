@@ -20,7 +20,7 @@ Roule sans larme, vague, un océan rêvant
 Imaginaire un mythe oublié, l'inaudible
 
  \
-Geste piano, l'odeur du temps qu prend pour cible
+Geste piano, l'odeur du temps qui prend pour cible
 
 Imaginaire image, ébauché ce levant
 

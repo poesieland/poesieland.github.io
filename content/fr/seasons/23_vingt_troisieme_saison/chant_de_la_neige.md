@@ -7,10 +7,12 @@ verseLength: -1
 divider: ""
 categories:
     - Neige
+    - Enfance et adolescence
 tags:
     - "2024"
     - nature
     - versVariable
+    - philosophie
 location: []
 info: "Vers variable : 4, 3."
 pictures: []

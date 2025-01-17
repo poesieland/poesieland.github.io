@@ -2,13 +2,17 @@
 title = "Ciel"
 +++
 
-Le ciel, espace fascinant où l'on peut trouver son astre purement diurne mais aussi les éclipses, les comètes, différents phénomènes météorologiques.
+## Espace fascinant...
+
+Où l'on peut trouver le [soleil](/search?search-by=soleil) mais aussi les [éclipses](/search?search-by=eclipse), les [comètes](/search?search-by=comète), différents phénomènes météorologiques toujours renouvelés comme le [vent](/search?search-by=vent), le [brouillard](/search?search-by=brouillard).
 
 [La lune](../lune), quant à elle, dispose de sa propre catégorie.
 
 {{< figure src="/images/ciel.jpg" title="Juin 2024" >}}
 
-Dans tous ses états, quand le premier vers le met en valeur :
+## ...Dans tous ses états
+
+Quand le premier vers le met en valeur :
 
 - [Bas](../../seasons/22_vingt_deuxieme_saison/blues_d_automne)
 - [Beau](../../seasons/22_vingt_deuxieme_saison/l_amour_courtois)

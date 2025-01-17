@@ -6,6 +6,7 @@ date: 2024-12-14
 verseLength: 12
 divider: ""
 categories:
+    - Apprentissage
     - Temps
     - Etre
 tags:

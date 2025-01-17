@@ -18,6 +18,7 @@ Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 - [Tant ! (22e saison)](../seasons/22_vingt_deuxieme_saison/tant)
 - [Automne d'or (22e saison)](../seasons/22_vingt_deuxieme_saison/automne_d_or)
 - [Nativité (23e saison)](../seasons/23_vingt_troisieme_saison/nativite)
+- [L'heure du chat (24e saison)](../seasons/24_vingt_quatrieme_saison/l_heure_du_chat)
 
 #### En vers de 3 pieds
 

@@ -7,6 +7,7 @@ verseLength: 6
 divider: ""
 categories:
     - Foi
+    - Enfance et adolescence
 tags:
     - "2024"
     - philosophie

@@ -7,6 +7,7 @@ verseLength: 8
 divider: ""
 categories:
     - Temps
+    - Enfance et adolescence
 tags:
     - "2024"
     - philosophie

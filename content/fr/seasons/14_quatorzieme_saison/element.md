@@ -20,7 +20,7 @@ N'auront plus de présage.
  \
 Par les milliers de jours
 
-L'univers qu bascule
+L'univers qui bascule
 
 Retrouve pour toujours
 
