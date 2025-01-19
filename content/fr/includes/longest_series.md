@@ -1,10 +1,10 @@
 +++
 title = "Les plus longues séries"
 +++
+- 22 jours :
+  - Du 19.12.2024 au 10.01.2025
 - 19 jours :
   - Du 29.06.1998 au 18.07.1998
-- 17 jours :
-  - Du 19.12.2024 au 05.01.2025
 - 13 jours :
   - Du 19.07.1998 au 01.08.1998
 - 9 jours :
