@@ -1,10 +1,10 @@
 +++
 title = "Vingt-quatrième Saison : Les mots respirent"
-summary = "Depuis décembre 2024"
+summary = "De décembre 2024 à courant 2025"
 weight = 24
 +++
 
-Depuis décembre 2024
+De décembre 2024 à courant 2025
 
 ---
 {{% children  %}}

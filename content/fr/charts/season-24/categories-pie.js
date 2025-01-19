@@ -13,5 +13,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season24Pie', [data], { plugins: { title: { display: true, text: 'Vingt-quatrième Saison : Les mots respirent - Depuis décembre 2024' } } });
+  addPieChart('season24Pie', [data], { plugins: { title: { display: true, text: 'Vingt-quatrième Saison : Les mots respirent - De décembre 2024 à courant 2025' } } });
 })();
