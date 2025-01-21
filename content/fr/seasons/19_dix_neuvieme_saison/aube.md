@@ -33,7 +33,7 @@ Emplit les yeux.
  \
 Aube fugace,
 
-Retiens l’instant !
+Retiens l'instant !
 
 Un souffle passe
 
@@ -60,7 +60,7 @@ Du temps censeur.
  \
 Azur mature,
 
-S’éteint l’éclat,
+S'éteint l'éclat,
 
 Fin du murmure,
 

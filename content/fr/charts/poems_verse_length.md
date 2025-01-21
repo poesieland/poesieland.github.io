@@ -10,7 +10,10 @@ weight = 4
 ### Très court
 Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
+Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que deux pieds c'était juste impossible. Mais non.
+
 #### En vers de 2 pieds
+
 - [Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
 - [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
 - [Légèreté (20e saison)](../seasons/20_vingtieme_saison/legerete)
@@ -19,6 +22,7 @@ Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 - [Automne d'or (22e saison)](../seasons/22_vingt_deuxieme_saison/automne_d_or)
 - [Nativité (23e saison)](../seasons/23_vingt_troisieme_saison/nativite)
 - [L'heure du chat (24e saison)](../seasons/24_vingt_quatrieme_saison/l_heure_du_chat)
+- [Fantomatique (24e saison)](../seasons/24_vingt_quatrieme_saison/fantomatique)
 
 #### En vers de 3 pieds
 

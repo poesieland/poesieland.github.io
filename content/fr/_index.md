@@ -29,7 +29,7 @@ Je souscris à l'affirmation que la poésie n'est pas vendeuse mais tout un chac
 
 Il est également très intéressant de distinguer l'aspect poétique de la poésie et de la prose [^3].
 
-Enfin, je me suis retrouvée dans cet article, décrivant *un être doué de sensibilité, vecteur d’une vision profonde et au plus proche de la vérité du monde qu’il observe.* [^4]
+Enfin, je me suis retrouvée dans cet article, décrivant *un être doué de sensibilité, vecteur d'une vision profonde et au plus proche de la vérité du monde qu'il observe.* [^4]
 
 [^1]: Article publié en 1866, [La Poésie d'aujourd'hui](https://fr.m.wikisource.org/wiki/La_Po%C3%A9sie_d%E2%80%99aujourd%E2%80%99hui), de Constant Martha.
 
