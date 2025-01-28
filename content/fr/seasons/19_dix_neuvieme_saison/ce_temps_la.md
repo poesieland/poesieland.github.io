@@ -26,7 +26,7 @@ Pour la rendre si banale,
 
 Elle qui fut mon dédale,
 
-Mes rires, mon have aussi
+Mes rires, mon havre aussi
 
  \
 Quand le soir sous la soupente

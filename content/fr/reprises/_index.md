@@ -2,10 +2,6 @@
 title = "L'art de la reprise"
 weight = 3
 type = "chapter"
-info = """
-{{% notice style="primary" %}}
-Reprise de l'image "l'orgue des arbres" d'un [poème de la deuxième saison](../2_deuxieme_saison/neige)
-{{% /notice %}}"""
 +++
 
 Reprendre pour mieux redonner : l'art de la reprise, dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
@@ -18,27 +14,27 @@ Les reprises peuvent être vues comme des mini-thèmes.
 
 ### Reprises uniques en vrac
 
-**A la dix-huitième saison**
-- ["Sur un air bleu, sur un air blanc"](../seasons/18_dix_huitieme_saison/promenade_mentale)
-
 **A la dix-neuvième saison**
-- Evocation d'un cimetière, dans [au dernier jour](../seasons/19_dix_neuvieme_saison/au_dernier_jour)
-- A propos de ma maison d'enfance, dans [ce temps-là](../seasons/19_dix_neuvieme_saison/ce_temps_la)
-- ["Avant de partir"](../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)
-- ["Juste une valse..."](../seasons/19_dix_neuvieme_saison/charme)
+- Depuis la sixième saison : évocation d'un cimetière, dans [au dernier jour](../seasons/19_dix_neuvieme_saison/au_dernier_jour)
+- Depuis la sixième saison : à propos de ma maison d'enfance, dans [ce temps-là](../seasons/19_dix_neuvieme_saison/ce_temps_la)
+- Depuis la cinquième saison : ["Avant de partir"](../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)
+- Depuis la troisième saison : ["Juste une valse..."](../seasons/19_dix_neuvieme_saison/charme)
 
 **A la vingt-et-unième saison**
-- ["Il se pourrait qu'il pleuve"](../seasons/21_vingt_et_unieme_saison/les_cieux_d_avant)
+- Depuis la vingtième saison :  ["Il se pourrait qu'il pleuve"](../seasons/21_vingt_et_unieme_saison/les_cieux_d_avant)
 
 **A la vingt-deuxième saison**
-- ["Toute saison trop tôt venue"](../seasons/22_vingt_deuxieme_saison/toute_saison)
-- ["Avant que l'hiver ne vous prenne"](../seasons/22_vingt_deuxieme_saison/automne_serein)
-- ["(j')écoute un coeur qui bat tout bas"](../seasons/22_vingt_deuxieme_saison/vers_plus_d_amour)
-- ["Funèbre parfum d'une rose / A la boutonnière du temps"](../seasons/22_vingt_deuxieme_saison/parfum_d_octobre)
+- Depuis la quatrième saison : ["Toute saison trop tôt venue"](../seasons/22_vingt_deuxieme_saison/toute_saison)
+- Depuis la cinquième saison : ["Avant que l'hiver ne vous prenne"](../seasons/22_vingt_deuxieme_saison/automne_serein)
+- Depuis la dix-neuvième saison : ["(j')écoute un coeur qui bat tout bas"](../seasons/22_vingt_deuxieme_saison/vers_plus_d_amour)
+- Depuis la deuxième saison : ["Funèbre parfum d'une rose / A la boutonnière du temps"](../seasons/22_vingt_deuxieme_saison/parfum_d_octobre)
 
 **A la vingt-troisième saison**
-- ["Noël a chanté sur le toit"](../seasons/23_vingt_troisieme_saison/noel_lumieres)
-- ["Tombe la neige"](../seasons/23_vingt_troisieme_saison/tombe_la_neige)
-- ["... l'orgue des arbres"](../seasons/23_vingt_troisieme_saison/contemplation)
-- ["Les oiseaux ont toujours deux ailes..."](../seasons/23_vingt_troisieme_saison/reves_d_oiseaux)
-- ["Je crois en celui qui viendra"](../seasons/23_vingt_troisieme_saison/les_trois_ages_de_la_femme)
+- Depuis la neuvième saison : ["Noël a chanté sur le toit"](../seasons/23_vingt_troisieme_saison/noel_lumieres)
+- Depuis la même saison... : ["Tombe la neige"](../seasons/23_vingt_troisieme_saison/tombe_la_neige)
+- Depuis la deuxième saison : ["... l'orgue des arbres"](../seasons/23_vingt_troisieme_saison/contemplation)
+- Depuis la deuxième saison : ["Les oiseaux ont toujours deux ailes..."](../seasons/23_vingt_troisieme_saison/reves_d_oiseaux)
+- Depuis la huitième saison : ["Je crois en celui qui viendra"](../seasons/23_vingt_troisieme_saison/les_trois_ages_de_la_femme)
+
+**A la vingt-quatrième saison**
+- Depuis la douzième saison : ["On ne voit bien qu'avec le/son coeur"](../seasons/24_vingt_quatrieme_saison/l_amour_parfait)
