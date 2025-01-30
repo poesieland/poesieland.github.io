@@ -7,7 +7,9 @@ verseLength: 8
 divider: ""
 categories:
     - Faune
-tags: []
+tags:
+    - "2025"
+    - nature
 location: []
 info: "Un autre poème qui l'évoque légèrement : [Présent simple](../18_dix_huitieme_saison/present_simple)"
 pictures:
