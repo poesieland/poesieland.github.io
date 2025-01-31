@@ -27,7 +27,7 @@ N'abandonne pas, crois
 A ton chemin d'envie
 
  \
-D'être, d'être vraiment !
+D'être ! D'être vraiment !
 
 Suis ton chemin sincère,
 
@@ -38,7 +38,7 @@ Et si ton coeur se serre
  \
 Suis ton chemin d'espoir
 
-D'être, d'être richesse !
+D'être ! D'être richesse !
 
 On ne peut tout avoir,
 
@@ -54,7 +54,7 @@ Et donne-moi ta main
 Unis dans la prière
 
  \
-D'être, d'être vivant !
+D'être ! D'être vivant !
 
 Ce chemin nous enchante,
 
