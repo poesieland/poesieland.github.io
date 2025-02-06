@@ -16,5 +16,5 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Entre un et trois mois', value: 4, color: 'rgba(72, 149, 239, 0.3)' },
     { label: 'Entre trois mois et un an', value: 1, color: 'rgba(72, 149, 239, 0.2)' },
   ];
-    addBarChart('season1PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season1PoemIntervalBar', ['Fréquence'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

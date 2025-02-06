@@ -27,5 +27,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 2, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season10Pie', [data], { plugins: { title: { display: true, text: 'Dixième Saison : Pensées - De janvier à mars 1999' } } });
+  addPieChart('season10Pie', [data], { plugins: { title: { display: true, text: 'Pensées (10) - De janvier à mars 1999' } } });
 })();

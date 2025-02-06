@@ -25,5 +25,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Printemps', value: 2, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
   ];
-  addPieChart('season11Pie', [data], { plugins: { title: { display: true, text: 'Onzième Saison : Perceptible - De mars à mai 1999' } } });
+  addPieChart('season11Pie', [data], { plugins: { title: { display: true, text: 'Perceptible (11) - De mars à mai 1999' } } });
 })();

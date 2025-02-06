@@ -7,5 +7,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '3j', value: 2, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 4, color: 'rgba(72, 149, 239, 0.7)' },
   ];
-    addBarChart('season20PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season20PoemIntervalBar', ['Fréquence'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

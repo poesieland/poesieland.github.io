@@ -8,5 +8,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '5j', value: 2, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '7j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
   ];
-    addBarChart('season23PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season23PoemIntervalBar', ['Fréquence'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

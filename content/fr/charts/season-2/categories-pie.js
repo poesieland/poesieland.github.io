@@ -27,5 +27,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Automne', value: 9, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season2Pie', [data], { plugins: { title: { display: true, text: 'Deuxième Saison : Tableaux - De septembre à décembre 1996' } } });
+  addPieChart('season2Pie', [data], { plugins: { title: { display: true, text: 'Tableaux (2) - De septembre à décembre 1996' } } });
 })();

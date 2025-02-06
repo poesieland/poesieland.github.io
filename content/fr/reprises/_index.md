@@ -38,3 +38,4 @@ Les reprises peuvent être vues comme des mini-thèmes.
 
 **A la vingt-quatrième saison**
 - Depuis la douzième saison : ["On ne voit bien qu'avec le/son coeur"](../seasons/24_vingt_quatrieme_saison/l_amour_parfait)
+- Depuis la cinquième saison : ["Le ciel est bleu marine"](../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)

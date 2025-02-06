@@ -16,8 +16,10 @@ Quand le premier vers le met en valeur :
 
 - [Bas](../../seasons/22_vingt_deuxieme_saison/blues_d_automne)
 - [Beau](../../seasons/22_vingt_deuxieme_saison/l_amour_courtois)
-- [Bleu](../../seasons/4_quatrieme_saison/ete)
+- [Bleu comme un mensonge](../../seasons/4_quatrieme_saison/ete)
+- [Bleu comme un miracle](../../seasons/24_vingt_quatrieme_saison/ciel_printanier)
 - [Bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
+- encore [Bleu marine](../../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)
 - [Comme un paravent](../../seasons/3_troisieme_saison/panoramique)
 - [Doux](../../seasons/23_vingt_troisieme_saison/ciel)
 - [Gris](../../reprises/le_ciel_est_gris)

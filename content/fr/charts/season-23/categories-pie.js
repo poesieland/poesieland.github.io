@@ -28,5 +28,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 9, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season23Pie', [data], { plugins: { title: { display: true, text: 'Vingt-troisième Saison : Jamais trop - Novembre-décembre 2024' } } });
+  addPieChart('season23Pie', [data], { plugins: { title: { display: true, text: 'Jamais trop (23) - Novembre-décembre 2024' } } });
 })();

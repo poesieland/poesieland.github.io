@@ -26,5 +26,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Automne', value: 6, color: 'rgba(27, 79, 8, 1)' },
   ];
-  addPieChart('season13Pie', [data], { plugins: { title: { display: true, text: 'Treizième Saison : Divina - De juillet à novembre 1999' } } });
+  addPieChart('season13Pie', [data], { plugins: { title: { display: true, text: 'Divina (13) - De juillet à novembre 1999' } } });
 })();

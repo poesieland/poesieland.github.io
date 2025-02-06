@@ -12,5 +12,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '11j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '18j', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
   ];
-    addBarChart('season3PoemIntervalBar', ['Fréquence'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season3PoemIntervalBar', ['Fréquence'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
