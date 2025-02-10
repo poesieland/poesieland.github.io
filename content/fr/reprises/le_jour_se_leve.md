@@ -1,5 +1,5 @@
 +++
-title = "Le jour se lève"
+title = "Le jour se lève - depuis la deuxième saison"
 +++
 Une sorte de credo qui s'est imposé à moi un beau matin de fin novembre, quand j'étais encore en secondaire :
 

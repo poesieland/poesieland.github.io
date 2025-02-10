@@ -1,16 +1,16 @@
 ---
-weight: 34
-title: Contemplation
-id: contemplation_23
-date: 2024-12-27
+weight: 37
+title: Splendeur de l'hiver
+id: splendeur_de_l_hiver_24
+date: 2025-02-01
 verseLength: 8
 divider: ""
 categories:
     - Hiver
-    - Etre
+    - Jardin et paysage
 tags:
-    - "2024"
-    - philosophie
+    - "2025"
+    - nature
     - saisons
 location: []
 info: |-
@@ -22,22 +22,22 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post
 ---
-De tes soucis pose valise,
+L'orgue des arbres s'emporte haut
 
-Contemple avec moi l'éclat doux
+Comme murmure une prière,
 
-Comme un murmure vocalise
+Le ciel à peine voilé, tôt
 
-D'un hiver gai dans son redoux.
+Charme l'hiver, tant de lumière !
 
  \
-Dans l'air plus vif l'orgue des arbres
+Brume légère danse en rais,
 
-Et brindille perle cristal,
+Toute la campagne est placide,
 
-Des troncs d'acajous et de marbres,
+Pastels mélangent leurs attraits,
 
-Vois avec moi rêve natal.
+Un photographe erre, impassible.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :

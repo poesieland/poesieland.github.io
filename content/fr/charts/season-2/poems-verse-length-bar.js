@@ -6,5 +6,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '8', value: 15 },
     { label: '12', value: 24 },
   ];
-    addBarChart('season2VerseLengthBar', ['Poèmes'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season2VerseLengthBar', ['Poèmes'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

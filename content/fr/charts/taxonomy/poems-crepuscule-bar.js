@@ -1,7 +1,7 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Premiers élans (1) ', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Premiers élans (1) 1994-96', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Tableaux (2) 1996', value: 4, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Vivace (3) 1997', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Rêves (4) 1997', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
@@ -14,17 +14,17 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Perceptible (11) 1999', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Tempo piano (12) 1999', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Divina (13) 1999', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'Au long cours (14) ', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Au long cours (14) 1999-2001', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'De place en place (15) 2001', value: 4, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'Plus loin (16) ', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'Traversées (17) ', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Plus loin (16) 2002-04', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Traversées (17) 2004-23', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Destination bonheur (19) 2024', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 5, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 15, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'Les mots respirent (24) 2024-25', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'Les mots respirent (24) 2024-25', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
   ];
     addBarChart('poems-crepusculeBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

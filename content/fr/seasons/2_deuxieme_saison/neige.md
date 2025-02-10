@@ -3,10 +3,13 @@ title = "Neige"
 id = "neige_2"
 date = 1996-12-31
 weight = 27
-categories = ["Neige"]
-tags = ["nature", "1996"]
+categories = [ "Neige" ]
+tags = [ "nature", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post"
+info = """
+Les poèmes qui reprennent _l'orgue des arbres_ :
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
 +++
 
 Il avait neigé ce matin.
@@ -34,3 +37,8 @@ Comme un enfant frôle l'extase,
 Ainsi qu'un rêve qui s'évase
 
 Tombe l'espoir tant désiré.
+
+{{% notice style="primary" %}}
+Les poèmes qui reprennent _l'orgue des arbres_ :
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
+{{% /notice %}}

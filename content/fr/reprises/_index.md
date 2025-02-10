@@ -32,7 +32,6 @@ Les reprises peuvent être vues comme des mini-thèmes.
 **A la vingt-troisième saison**
 - Depuis la neuvième saison : ["Noël a chanté sur le toit"](../seasons/23_vingt_troisieme_saison/noel_lumieres)
 - Depuis la même saison... : ["Tombe la neige"](../seasons/23_vingt_troisieme_saison/tombe_la_neige)
-- Depuis la deuxième saison : ["... l'orgue des arbres"](../seasons/23_vingt_troisieme_saison/contemplation)
 - Depuis la deuxième saison : ["Les oiseaux ont toujours deux ailes..."](../seasons/23_vingt_troisieme_saison/reves_d_oiseaux)
 - Depuis la huitième saison : ["Je crois en celui qui viendra"](../seasons/23_vingt_troisieme_saison/les_trois_ages_de_la_femme)
 
