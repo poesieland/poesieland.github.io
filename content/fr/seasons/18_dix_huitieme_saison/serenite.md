@@ -33,10 +33,10 @@ Renforcent mon bonheur,
 
 Les cadrans et les montres
 
-Chantent glore à mon heur.
+Chantent gloire à mon heur.
 
  \
-Quand j'étais innoncente
+Quand j'étais innocente
 
 J'ai cessé de courir,
 
