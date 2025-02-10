@@ -23,5 +23,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Printemps', value: 5, color: 'rgba(130, 196, 108, 1)' },
   ];
-  addPieChart('season3Pie', [data], { plugins: { title: { display: true, text: 'Vivace (3) - De janvier à mai 1997' } } });
+  addPieChart('season3Pie', [data], { plugins: { title: { display: true, text: 'Vivace (3) janvier à mai 1997' } } });
 })();

@@ -27,5 +27,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eté', value: 8, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 2, color: 'rgba(27, 79, 8, 1)' },
   ];
-  addPieChart('season20Pie', [data], { plugins: { title: { display: true, text: 'Le temps qui nous reste (20) - D\'avril à juin 2024' } } });
+  addPieChart('season20Pie', [data], { plugins: { title: { display: true, text: 'Le temps qui nous reste (20) avril à juin 2024' } } });
 })();

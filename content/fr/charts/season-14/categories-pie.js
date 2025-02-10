@@ -27,5 +27,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Automne', value: 3, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season14Pie', [data], { plugins: { title: { display: true, text: 'Au long cours (14) - De novembre 1999 à mars 2001' } } });
+  addPieChart('season14Pie', [data], { plugins: { title: { display: true, text: 'Au long cours (14) novembre 1999 à mars 2001' } } });
 })();

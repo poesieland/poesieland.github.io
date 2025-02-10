@@ -30,5 +30,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eté', value: 3, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 7, color: 'rgba(27, 79, 8, 1)' },
   ];
-  addPieChart('season16Pie', [data], { plugins: { title: { display: true, text: 'Plus loin (16) - De mars 2002 à octobre 2004' } } });
+  addPieChart('season16Pie', [data], { plugins: { title: { display: true, text: 'Plus loin (16) mars 2002 à octobre 2004' } } });
 })();

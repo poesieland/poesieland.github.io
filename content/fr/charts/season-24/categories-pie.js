@@ -23,5 +23,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Printemps', value: 2, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Hiver', value: 6, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season24Pie', [data], { plugins: { title: { display: true, text: 'Les mots respirent (24) - De décembre 2024 à courant 2025' } } });
+  addPieChart('season24Pie', [data], { plugins: { title: { display: true, text: 'Les mots respirent (24) décembre 2024 à janvier 2025' } } });
 })();

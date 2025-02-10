@@ -30,5 +30,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Automne', value: 8, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 6, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season17Pie', [data], { plugins: { title: { display: true, text: 'Traversées (17) - D\'octobre 2004 à octobre 2023' } } });
+  addPieChart('season17Pie', [data], { plugins: { title: { display: true, text: 'Traversées (17) octobre 2004 à octobre 2023' } } });
 })();

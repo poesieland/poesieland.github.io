@@ -21,5 +21,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Musique et chant', value: 6, color: 'rgba(252, 191, 140, 1)' },
   ];
-  addPieChart('season7Pie', [data], { plugins: { title: { display: true, text: 'Croire (7) - Juin et juillet 1998' } } });
+  addPieChart('season7Pie', [data], { plugins: { title: { display: true, text: 'Croire (7) juin à juillet 1998' } } });
 })();

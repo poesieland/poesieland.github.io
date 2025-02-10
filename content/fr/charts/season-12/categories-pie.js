@@ -24,5 +24,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season12Pie', [data], { plugins: { title: { display: true, text: 'Tempo piano (12) - De mai à juillet 1999' } } });
+  addPieChart('season12Pie', [data], { plugins: { title: { display: true, text: 'Tempo piano (12) mai à juillet 1999' } } });
 })();
