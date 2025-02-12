@@ -37,7 +37,7 @@ Toute la campagne est placide,
 
 Pastels mélangent leurs attraits,
 
-Un photographe erre, impassible.
+Un photographe erre, lucide.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
