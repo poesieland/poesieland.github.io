@@ -49,9 +49,9 @@ Donnez votre main, capitaine
 
 Devant le seuil bientôt franchi.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":""},{"name":"imageCaption","value":"Peinture de Gustav Klimt"}]} -->
-{{< figure src="/images/482px-Gustav_Klimt_020.jpg" title="Peinture de Gustav Klimt" >}}
-<!-- FM:Snippet:End -->
+<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"content","value":""}]} -->
+![Peinture de Gustav Klimt](https://upload.wikimedia.org/wikipedia/commons/c/c4/Gustav_Klimt_020.jpg?height=480px)
+<div class="caption">Peinture de Gustav Klimt</div>
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
