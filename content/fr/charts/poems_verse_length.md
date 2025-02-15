@@ -34,6 +34,8 @@ Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que
 - [En parts (22e saison)](../seasons/22_vingt_deuxieme_saison/en_parts)
 - [Vent vaurien (22e saison)](../seasons/22_vingt_deuxieme_saison/vent_vaurien)
 - [Jour d'automne (22e saison)](../seasons/22_vingt_deuxieme_saison/jour_d_automne)
+- [Nouveau monde (24e saison)](../seasons/24_vingt_quatrieme_saison/nouveau_monde)
+- [A l'orée (24e saison)](../seasons/24_vingt_quatrieme_saison/a_l_oree)
 
 ### Très long
 
