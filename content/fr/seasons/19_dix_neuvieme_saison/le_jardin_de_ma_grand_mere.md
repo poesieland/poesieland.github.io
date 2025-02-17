@@ -31,7 +31,7 @@ Et l'on pinçait les doryphores
 
 Une saison n'était pareille,
 
-Abondance ou distte, ça !
+Abondance ou disette, ça !
 
 Bourdonne épineuse groseille.
 
