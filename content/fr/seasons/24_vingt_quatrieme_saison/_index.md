@@ -1,10 +1,10 @@
 +++
 title = "Vingt-quatrième Saison : Les mots respirent"
-summary = "De décembre 2024 à courant 2025"
+summary = "La philosophie se taille une grande place un peu moins royale, la nature est présente. De décembre 2024 à février 2025"
 weight = 24
 +++
 
-De décembre 2024 à courant 2025
+L'hiver, le ciel, le temps. De décembre 2024 à février 2025
 
 ---
 {{% children  %}}

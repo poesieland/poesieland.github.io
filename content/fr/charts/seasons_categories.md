@@ -50,4 +50,4 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 
 {{< chartjs id="season23Pie" width="40%" jsFile="../season-23/categories-pie.js" inline=true text="Un mois et demi, fin d'automne et pleinement l'hiver"/>}}
 
-{{< chartjs id="season24Pie" width="40%" jsFile="../season-24/categories-pie.js" inline=true text="En hiver..."/>}}
+{{< chartjs id="season24Pie" width="40%" jsFile="../season-24/categories-pie.js" inline=true text="Un mois et demi, l'hiver majestueux et le retour du printemps"/>}}

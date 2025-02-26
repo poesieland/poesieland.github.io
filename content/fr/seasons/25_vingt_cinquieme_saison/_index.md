@@ -1,6 +1,6 @@
 +++
 title = "Vingt-cinquième Saison : Coeur et âme"
-summary = "Plus tard en 2025"
+summary = "A partir de février 2025"
 weight = 25
 +++
 

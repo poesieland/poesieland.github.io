@@ -24,7 +24,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'C\'est vivre qui compte (21) 2024', value: 0, color: 'rgba(24, 57, 30, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 6, color: 'rgba(24, 57, 30, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 9, color: 'rgba(24, 57, 30, 0.5)' },
-    { label: 'Les mots respirent (24) 2024-25', value: 8, color: 'rgba(24, 57, 30, 0.5)' },
+    { label: 'Les mots respirent (24) 2024-25', value: 10, color: 'rgba(24, 57, 30, 0.5)' },
   ];
     addBarChart('poems-hiverBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
