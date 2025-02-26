@@ -7,11 +7,11 @@ type = "home"
 
 Welcome to my "poetic kingdom", my online complete works.
 
-There are currently {{% include "/content/common/poem_count.md" %}} [poems in French mother tongue](/fr) and {{% include "/content/common/poem_count_en.md" %}} [poems written in English](/en/original_texts/).
+There are currently {{% include "/content/common/poem_count.md" %}} [poems in French mother tongue](/?lang=fr) and {{% include "/content/common/poem_count_en.md" %}} [poems written in English](/original_texts).
 
 I started expressing playing with words in French mother tongue around 1992, aged 13, then learned neoclassical versification in 1995.
 
-If you like "regular versified" poetry, head to the [French poems](/fr) and enjoy them helping yourself with [Google Translate](https://translate.google.com).
+If you like "regular versified" poetry, head to the [French poems](/?lang=fr) and enjoy them helping yourself with [Google Translate](https://translate.google.com).
 
 In early 2000's I sometimes felt inspired enough to craft [poems in English](./original_texts), rather my mother tongue French. But the feelings are of the same kind, philosophy, a bit of tenderness, looking at my past.
 
@@ -25,7 +25,7 @@ I just read in October 2024 some online pages about English versification and it
 
 ## French Seasons
 
-When you visit them, you may wonder why I divided my poetic art into [Seasons](/fr/seasons). First, it was an arrangement of poems by blocks of 50, trying to have a nicer reading than just linear timeline. Until I wrote less, since April 2001, timeline leads yet. And it's fine.
+When you visit them, you may wonder why I divided my poetic art into [Seasons](/seasons?lang=fr). First, it was an arrangement of poems by blocks of 50, trying to have a nicer reading than just linear timeline. Until I wrote less, since April 2001, timeline leads yet. And it's fine.
 
 The word Season isn't innocent, it's included in many idioms and proverbs. It lets me think of life flow, circular but going forward. Each coming year gives me renewed joys and feelings.
 

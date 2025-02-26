@@ -25,6 +25,10 @@ alwaysopen = false
 editURL = ""
 # Author of the site, will be used in meta information
 author.name = "Barbara Post"
+# Disable Display of Author’s Email
+hideAuthorEmail = true
+# Adjust the Timestamp Format
+dateFormat = ':date_full'
 # Shows a checkmark for visited pages on the menu
 showVisitedLinks = true
 # Disable search function. It will hide search bar
@@ -139,7 +143,7 @@ page = ["HTML", "PRINT"]
             weight = 40
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
-            url = "/categories/"
+            url = "/categories"
             weight = 50
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Freetext search"
@@ -147,7 +151,7 @@ page = ["HTML", "PRINT"]
             weight = 60
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-            url = "/en/more/credits/"
+            url = "/more/credits"
             weight = 70
         [[Languages.en.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
@@ -168,11 +172,11 @@ page = ["HTML", "PRINT"]
 
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-tags'></i> Mots-clés"
-            url = "/tags/"
+            url = "/tags"
             weight = 40
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-layer-group'></i> Catégories"
-            url = "/categories/"
+            url = "/categories"
             weight = 50
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-search'></i> Recherche libre"
@@ -184,7 +188,7 @@ page = ["HTML", "PRINT"]
             weight = 70
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
-            url = "/more/credits/"
+            url = "/more/credits"
             weight = 80
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
