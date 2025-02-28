@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 1 },
   ];
-  addRadarChart('poemDay-neigeRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgba(119, 181, 254, 0.5)', borderColor: 'rgba(119, 181, 254, 1)', pointBackgroundColor: 'rgba(119, 181, 254, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-neigeRadar', ['Mois les plus représentés : janvier, décembre, novembre, février'], [data], { backgroundColor: 'rgba(119, 181, 254, 0.5)', borderColor: 'rgba(119, 181, 254, 1)', pointBackgroundColor: 'rgba(119, 181, 254, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

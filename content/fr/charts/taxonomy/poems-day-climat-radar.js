@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-climatRadar', ['Poèmes selon le jour de l\'année'], [data], { backgroundColor: 'rgb(50, 122, 183, 0.5)', borderColor: 'rgb(50, 122, 183, 1)', pointBackgroundColor: 'rgb(50, 122, 183, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-climatRadar', ['Mois les plus représentés : juin, novembre, juillet, janvier'], [data], { backgroundColor: 'rgb(50, 122, 183, 0.5)', borderColor: 'rgb(50, 122, 183, 1)', pointBackgroundColor: 'rgb(50, 122, 183, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();
