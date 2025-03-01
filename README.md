@@ -14,12 +14,12 @@ This repository uses one other repository as Git submodule:
 
 I especially use Chart.js as a helper library added to theme that has nice integration capabilities.
 
-And two other repositories for statistics management and compact storage:
+And two other repositories:
 
-- this website's back-office tools: [https://github.com/postb99/poesieland_back-office](https://github.com/postb99/poesieland_back-office)
+- for specific content files and statistics data files generation: this website's back-office tools: [https://github.com/postb99/poesieland_back-office](https://github.com/postb99/poesieland_back-office)
 
-that is locally cloned next to this project in "back-office" folder. Current project is locally cloned in "site" folder.
+This repository is locally cloned next to this project in "back-office" folder and provides a standalone dotnet executable.
 
-- this website's back-office data (private project): [https://github.com/postb99/poesieland_storage](https://github.com/postb99/poesieland_storage)
+- for content storage in XML format: this website's back-office data (private project): [https://github.com/postb99/poesieland_storage](https://github.com/postb99/poesieland_storage)
 
-that is locally cloned next to this project in "back-office-data" folder.
+This repository is locally cloned next to this project in "back-office-data" folder.

@@ -473,7 +473,6 @@ FodyWeavers.xsd
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
-*.code-workspace
 
 # Local History for Visual Studio Code
 .history/
@@ -494,5 +493,4 @@ content/fr/seasons/*_test_saison/*
 
 # Hugo published site by "hugo" command
 public/
-
-themes.old
+themes/hugo-theme-relearn/public/

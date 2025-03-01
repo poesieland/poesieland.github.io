@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../back-office"
+		},
+		{
+			"path": "../back-office-data"
+		}
+	],
+	"settings": {
+		"dotnet.defaultSolution": "back-office\\src\\PoesielandBackOffice.sln",
+		"frontMatter.file.preserveCasing": true
+	}
+}
