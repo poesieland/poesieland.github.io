@@ -1,3 +1,113 @@
+/* SideBar Header Logo */
+#logo svg,
+#logo svg * {
+    color: #282828;
+    color: var(--MENU-SECTIONS-BG-color);
+    fill: #282828 !important;
+    fill: var(--MENU-SECTIONS-BG-color) !important;
+    opacity: .945;
+}
+
+a#logo {
+    color: #282828;
+    color: var(--MENU-SECTIONS-BG-color);
+    font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
+    font-size: 1.875rem;
+    font-weight: 300;
+    margin-top: -.8125rem;
+    max-width: 60%;
+    text-transform: uppercase;
+    width: 14.125rem;
+    white-space: nowrap;
+}
+
+a#logo:hover {
+    color: #282828;
+    color: var(--MENU-SECTIONS-BG-color);
+}
+
+#logo svg {
+    margin-bottom: -1.25rem;
+    margin-inline-start: -3.47rem;
+    width: 40.5%;
+}
+
+@media only all and (max-width: 60rem) {
+    a#logo {
+        font-size: 1.5625rem;
+        margin-top: -.1875rem;
+    }
+
+    #logo svg {
+        margin-bottom: -.75rem;
+        margin-inline-start: -3.47rem;
+    }
+}
+
+@media all and (-ms-high-contrast:none) {
+
+    /* IE11s understanding of positioning is weird at best */
+    a#logo {
+        margin-top: -3.625rem;
+    }
+
+    #logo svg {
+        margin-bottom: -3.875rem;
+        margin-left: -1.47rem;
+    }
+}
+
+@media only all and (-ms-high-contrast:none) and (max-width: 60rem) {
+    #logo svg {
+        margin-left: -1.47rem;
+    }
+}
+
+:root {
+    --MENU-WIDTH-M: 20rem;
+    --MENU-WIDTH-L: 20rem;
+    --MAIN-WIDTH-MAX: 100rem;
+}
+
+.chartjs-wrapper {
+    background-color: white;
+}
+
+div.flex-block-wrapper {
+    background-color: #f8f5e9;
+    padding: 0 25px 10px 25px;
+    margin: 45px 0 0 0;
+}
+
+/* custom image */
+h1#cinquième-saison--espaces-de-vie~ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
+h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(41)>a:after,
+h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(n + 45):nth-child(-n + 47)>a:after,
+h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(49)>a:after,
+h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(50)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(n + 2):nth-child(-n + 3)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(5)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(7)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(n + 10):nth-child(-n + 23)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(27)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(44)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(45)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(47)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(50)>a:after,
+h1#septième-saison--croire~ul.children>li:nth-child(27)>a:after,
+h1#huitième-saison--reflets-perdus~ul.children>li:nth-child(n + 1):nth-child(-n + 21)>a:after {
+    content: 'En six lettres : t\'aimer';
+    font-size: 0.75em;
+    vertical-align: super;
+    color: red;
+    padding-left: 5px;
+}
+
+div.caption {
+    text-align: center;
+    font-weight: 500;
+}
+
 .gdoc-columns {
     margin: 1rem 0
 }
@@ -40,6 +150,7 @@
     flex-wrap: wrap;
     gap: 1rem;
 }
+
 .flex {
     display: flex;
 }
@@ -62,101 +173,4 @@
 .alert-box p {
     margin: 0;
     line-height: 1.3;
-}
-
-/* SideBar Header Logo */
-#logo svg,
-#logo svg * {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
-    fill: #282828 !important;
-    fill: var(--MENU-SECTIONS-BG-color) !important;
-    opacity: .945;
-}
-a#logo {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
-    font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
-    font-size: 1.875rem;
-    font-weight: 300;
-    margin-top: -.8125rem;
-    max-width: 60%;
-    text-transform: uppercase;
-    width: 14.125rem;
-    white-space: nowrap;
-}
-a#logo:hover {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
-}
-#logo svg {
-    margin-bottom: -1.25rem;
-    margin-inline-start: -3.47rem;
-    width: 40.5%;
-}
-@media only all and (max-width: 60rem) {
-    a#logo {
-        font-size: 1.5625rem;
-        margin-top: -.1875rem;
-    }
-    #logo svg {
-        margin-bottom: -.75rem;
-        margin-inline-start: -3.47rem;
-    }
-}
-@media all and (-ms-high-contrast:none) {
-/* IE11s understanding of positioning is weird at best */
-a#logo {
-    margin-top: -3.625rem;
-}
-#logo svg {
-    margin-bottom: -3.875rem;
-    margin-left: -1.47rem;
-}
-}
-@media only all and (-ms-high-contrast:none) and (max-width: 60rem) {
-    #logo svg {
-        margin-left: -1.47rem;
-    }
-}
-
-:root {
-    --MENU-WIDTH-M: 20rem;
-    --MENU-WIDTH-L: 20rem;
-    --MAIN-WIDTH-MAX: 100rem;
-}
-
-.chartjs-wrapper {
-    background-color: white;
-    padding: 20px;
-}
-
-/* custom image */
-h1#cinquième-saison--espaces-de-vie ~ ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
-h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(41)>a:after,
-h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(n + 45):nth-child(-n + 47)>a:after,
-h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(49)>a:after,
-h1#sixième-saison--sur-le-chemin ~ ul.children>li:nth-child(50)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(n + 2):nth-child(-n + 3)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(5)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(7)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(n + 10):nth-child(-n + 23)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(27)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(44)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(45)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(47)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(50)>a:after,
-h1#septième-saison--croire ~ ul.children>li:nth-child(27)>a:after,
-h1#huitième-saison--reflets-perdus ~ ul.children>li:nth-child(n + 1):nth-child(-n + 21)>a:after
-{
-        content: 'En six lettres : t\'aimer';
-        font-size: 0.75em;
-        vertical-align: super;
-        color: red;
-        padding-left: 5px;
-}
-
-div.caption {
-    text-align: center;
-    font-weight: 500;
 }

@@ -1,6 +1,7 @@
 {{- $content := .content }}
 {{- $page := .page }}
 {{- $width := .width | default "80%" }}
+{{- $padding := .padding | default "20px" }}
 {{- $id := .id | default "mychart" }}
 {{- $jsFile := .jsFile | default "myJsfile" }}
 {{- $inline := .inline }}
@@ -8,7 +9,7 @@
 
 {{- with $page }}
 {{- if not $inline }}
-<div class="chartjs-wrapper" style="position:relative;width:{{ $width }};margin-left:calc((100% - {{ $width }})/2);margin-right:auto;">
+<div class="chartjs-wrapper" style="position:relative;width:{{ $width }};padding:{{ $padding }};margin-left:calc((100% - {{ $width }})/2);margin-right:auto;">
   <canvas id="{{ $id }}"></canvas>
   {{- if $text }}
   <div style="padding:5% 10%;text-align:center;">{{ $text }}</div>
@@ -16,7 +17,7 @@
 </div>
 {{- end }}
 {{- if $inline }}
-<div class="chartjs-wrapper" style="width:{{ $width }};display:inline-block;">
+<div class="chartjs-wrapper" style="width:{{ $width }};padding:{{ $padding }};display:inline-block;">
   <canvas id="{{ $id }}"></canvas>
   {{- if $text }}
   <div style="padding:5% 10%;text-align:center;">{{ $text }}</div>

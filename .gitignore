@@ -494,3 +494,5 @@ content/fr/seasons/*_test_saison/*
 # Hugo published site by "hugo" command
 public/
 themes/hugo-theme-relearn/public/
+
+.hugo_build.lock
