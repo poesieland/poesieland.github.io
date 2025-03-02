@@ -8,8 +8,10 @@ alwaysopen = true
 
 For more, read some of the {{% include "/content/common/poem_count.md" %}}  [French poems](/seasons?lang=fr) I wrote over the years and keep writing.
 
+## Day by day
 {{< chartjs id="poemEnDayRadar" width="75%" jsFile="../charts/general/poems-en-day-radar.js" />}}
 
+## From Monday to Sunday
 {{< chartjs id="poemEnDayOfWeekPie" width="50%" jsFile="../charts/general/poem-en-dayofweek-pie.js" />}}
 
 ---
