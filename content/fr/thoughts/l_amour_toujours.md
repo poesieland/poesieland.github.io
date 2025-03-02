@@ -1,7 +1,6 @@
 +++
 title = "Autour de l'amour"
 date = 2024-07-17
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 ### L'amour, toujours
 

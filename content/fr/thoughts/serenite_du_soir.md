@@ -1,7 +1,6 @@
 +++
 title = "Autour du soir"
 date = 2024-06-26
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 ### Sérénité du soir
 

@@ -1,7 +1,6 @@
 +++
 title = "Ma fois !"
 date = 2024-06-01
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 ### Avoir la foi ?

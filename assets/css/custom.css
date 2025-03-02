@@ -77,6 +77,8 @@ div.flex-block-wrapper {
     background-color: #f8f5e9;
     padding: 0 25px 10px 25px;
     margin: 45px 0 0 0;
+    border-radius: 50px 0px 50px 0px;
+    border: 1px solid #c3c2b8;
 }
 
 /* custom image */

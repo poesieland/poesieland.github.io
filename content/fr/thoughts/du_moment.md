@@ -1,7 +1,6 @@
 +++
 title = "Thèmes du moment"
 date = 2025-01-06
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 ### En vogue

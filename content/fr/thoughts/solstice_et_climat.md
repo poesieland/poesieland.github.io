@@ -1,7 +1,6 @@
 +++
 title = "Un paradoxe"
 date = 2024-12-26
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 ### ☀️🌙 Solstice et climat 🌙☀️
 
