@@ -7,7 +7,7 @@ categories = [ "Flore", "Passion" ]
 tags = [ "amour", "nature", "1998", "acrostiche" ]
 acrostiche = "Una spina nel cuore"
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une épine dans le cœur

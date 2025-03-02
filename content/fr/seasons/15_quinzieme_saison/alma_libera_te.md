@@ -7,7 +7,7 @@ categories = ["Crépuscule", "Foi"]
 tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 info = "\"Ame, libère-toi\" en italien."
 acrostiche = "Alma, libera te"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

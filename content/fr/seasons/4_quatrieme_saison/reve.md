@@ -6,7 +6,7 @@ weight = 33
 categories = ["Lune", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 D'un rêve-souvenir

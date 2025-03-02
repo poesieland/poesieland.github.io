@@ -7,7 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "1999", "acrostiche"]
 pictures = ["Mon ombre en mai 2004"]
 acrostiche = "Je suis ton ombre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 46
 categories = ["Espoir"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Songe d'encens"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

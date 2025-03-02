@@ -6,7 +6,7 @@ weight = 6
 categories = [ "Passion" ]
 tags = [ "amour", "1996" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et l'amour et l'amante, un instant confondus

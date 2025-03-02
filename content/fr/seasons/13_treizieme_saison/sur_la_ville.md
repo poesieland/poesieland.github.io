@@ -6,7 +6,7 @@ weight = 26
 categories = ["Ville", "Nuit"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Sur la ville"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

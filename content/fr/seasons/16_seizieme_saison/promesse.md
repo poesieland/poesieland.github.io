@@ -6,7 +6,7 @@ weight = 37
 categories = ["Romantisme"]
 tags = ["amour", "2004"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lire un désir dans tes yeux

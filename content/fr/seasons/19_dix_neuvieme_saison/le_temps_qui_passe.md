@@ -7,7 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "2024"]
 info = "Moins mélancolique qu'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*)."
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand chaque âge a son fruit,

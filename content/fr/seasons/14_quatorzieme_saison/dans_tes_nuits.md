@@ -6,7 +6,7 @@ weight = 42
 categories = [ "Etre", "Amour platonique" ]
 tags = [ "amour", "philosophie", "1999", "acrostiche" ]
 acrostiche = "Dans tes nuits"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

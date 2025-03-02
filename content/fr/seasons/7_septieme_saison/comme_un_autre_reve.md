@@ -6,7 +6,7 @@ weight = 20
 categories = [ "Mer", "Angoisse" ]
 tags = [ "nature", "philosophie", "1998", "acrostiche" ]
 acrostiche = "Comme un autre rêve"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

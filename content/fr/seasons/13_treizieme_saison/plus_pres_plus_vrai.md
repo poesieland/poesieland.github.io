@@ -6,7 +6,7 @@ weight = 38
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1999", "acrostiche" ]
 acrostiche = "Plus près, plus vrai"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

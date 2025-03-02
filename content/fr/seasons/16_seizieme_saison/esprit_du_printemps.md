@@ -6,7 +6,7 @@ weight = 23
 categories = ["Printemps", "Flore"]
 tags = ["saisons", "nature", "2004", "acrostiche"]
 acrostiche = "Esprit du printemps"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -5,7 +5,7 @@ date = 1998-04-10
 weight = 34
 categories = [ "Flore", "Romantisme" ]
 tags = [ "1998", "nature", "amour" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

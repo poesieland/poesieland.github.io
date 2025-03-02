@@ -6,7 +6,7 @@ weight = 36
 categories = ["Etre", "Musique et chant"]
 tags = ["philosophie", "attitudes", "2024"]
 verseLength = 2
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Refrain,

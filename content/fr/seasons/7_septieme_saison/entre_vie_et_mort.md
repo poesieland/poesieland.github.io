@@ -6,7 +6,7 @@ weight = 15
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Entre vie et mort"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

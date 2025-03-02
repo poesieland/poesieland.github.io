@@ -7,7 +7,7 @@ categories = ["Foi", "Portraits"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Vraie foi\" en italien."
 acrostiche = "Vera fede"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

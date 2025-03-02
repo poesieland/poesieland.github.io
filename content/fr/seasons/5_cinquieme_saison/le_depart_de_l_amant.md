@@ -6,7 +6,7 @@ weight = 3
 categories = [ "Passion" ]
 tags = [ "1998", "amour", "acrostiche" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = """
 Acrostiche : Andrea Andrea.
 

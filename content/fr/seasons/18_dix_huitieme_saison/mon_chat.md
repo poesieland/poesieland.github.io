@@ -7,7 +7,7 @@ categories = [ "Faune" ]
 tags = [ "2023", "nature", "lovecat" ]
 pictures = [ "Mon chat, 3 septembre 2022" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mon chat vient et s'impose,

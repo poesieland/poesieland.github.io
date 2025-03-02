@@ -6,7 +6,7 @@ weight = 10
 categories = ["Automne", "Temps"]
 tags = ["saisons", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pour que cette Toussaint

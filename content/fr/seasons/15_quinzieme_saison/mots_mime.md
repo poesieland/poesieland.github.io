@@ -6,7 +6,7 @@ weight = 18
 categories = ["Création"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Mots : mime"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 33
 categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "2000", "acrostiche"]
 acrostiche = "Comme un voile"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 30
 categories = ["Toucher"]
 tags = ["attitudes", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ta forme se révèle en étrange harmonie

@@ -6,7 +6,7 @@ weight = 5
 categories = ["Hiver", "Musique et chant"]
 tags = ["saisons", "attitudes", "1998", "acrostiche"]
 acrostiche = "Soleil d'hiver"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

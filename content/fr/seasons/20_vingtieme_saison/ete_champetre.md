@@ -7,7 +7,7 @@ categories = [ "Jardin et paysage", "Eté" ]
 tags = [ "nature", "saisons", "2024" ]
 pictures = [ "Le 8 juin 2024" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai cueilli du bonheur

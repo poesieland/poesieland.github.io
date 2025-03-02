@@ -6,7 +6,7 @@ weight = 33
 categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ecrire sans savoir"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

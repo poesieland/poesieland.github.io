@@ -7,7 +7,7 @@ categories = [ "Espoir", "Temps", "Apprentissage" ]
 tags = [ "philosophie", "2004" ]
 info = "Les états d'âme d'une catherinette"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Futurs anniversaires,

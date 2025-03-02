@@ -6,7 +6,7 @@ weight = 8
 categories = ["Hiver", "Crépuscule"]
 tags = ["saisons", "ombres et lumières", "2004"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur l'asphalte noir-bleu chine une nuit de laque,

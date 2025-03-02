@@ -6,7 +6,7 @@ weight = 10
 categories = ["Lune", "Etre"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tu ne sais"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

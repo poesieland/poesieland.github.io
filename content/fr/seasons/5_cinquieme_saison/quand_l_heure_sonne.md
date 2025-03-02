@@ -7,7 +7,7 @@ categories = [ "Temps", "Apprentissage" ]
 tags = [ "philosophie", "1998", "acrostiche" ]
 acrostiche = "Quand l'heure sonne"
 verseLength = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand l'heure sonne au carillon de l'âme

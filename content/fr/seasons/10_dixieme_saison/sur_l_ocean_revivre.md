@@ -6,7 +6,7 @@ weight = 1
 categories = ["Mer", "Espoir"]
 tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Sur l'océan : revivre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

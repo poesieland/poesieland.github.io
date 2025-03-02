@@ -6,7 +6,7 @@ weight = 48
 categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel s'est tu"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

@@ -6,7 +6,7 @@ weight = 6
 categories = ["Temps", "Automne"]
 tags = ["philosophie", "saisons", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "L'ombre de | novembre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

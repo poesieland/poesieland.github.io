@@ -6,7 +6,7 @@ weight = 17
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "1998", "acrostiche" ]
 acrostiche = "Toi qu'on nomme..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

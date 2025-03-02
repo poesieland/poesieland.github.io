@@ -6,7 +6,7 @@ weight = 32
 categories = ["Etre"]
 tags = ["philosophie", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "Passé | présent"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

@@ -6,7 +6,7 @@ weight = 16
 categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Gravé pour toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

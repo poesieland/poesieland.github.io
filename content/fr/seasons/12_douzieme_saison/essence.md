@@ -6,7 +6,7 @@ weight = 34
 categories = ["Etre", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "A la place | un double"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -7,7 +7,7 @@ categories = [ "Temps" ]
 tags = [ "philosophie", "1996" ]
 info = "Inspiré du [film](https://fr.wikipedia.org/wiki/Flucht_in_den_Norden) homonyme basé sur le roman de Klaus Mann."
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Où je n'ai pas été" ]
 +++
 

@@ -6,7 +6,7 @@ weight = 47
 categories = ["Romantisme", "Temps"]
 tags = ["amour", "philosophie", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 On dit qu'une offensive

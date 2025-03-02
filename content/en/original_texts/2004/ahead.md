@@ -2,7 +2,7 @@
 title = "Ahead"
 date = 2004-01-23
 weight = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "ahead_16"
 categories = [ "Being" ]
 +++

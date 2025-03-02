@@ -6,7 +6,7 @@ weight = 31
 categories = ["Foi"]
 tags = ["philosophie", "2004"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans une odeur d'encens

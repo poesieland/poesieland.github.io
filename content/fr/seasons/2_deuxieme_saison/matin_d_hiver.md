@@ -6,7 +6,7 @@ weight = 24
 categories = ["Hiver"]
 tags = ["saisons", "1996"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le matin blanc

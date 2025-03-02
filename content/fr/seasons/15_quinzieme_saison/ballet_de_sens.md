@@ -6,7 +6,7 @@ weight = 46
 categories = [ "Toucher", "Passion" ]
 tags = [ "attitudes", "amour", "2001", "acrostiche" ]
 acrostiche = "Ballet de sens"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

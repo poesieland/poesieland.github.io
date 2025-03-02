@@ -7,7 +7,7 @@ categories = [ "Faune" ]
 tags = [ "1996", "nature", "lovecat" ]
 info = "La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ton nom vient de Sicile en ton poil doux et noir,

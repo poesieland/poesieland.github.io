@@ -6,7 +6,7 @@ weight = 17
 categories = ["Jardin et paysage"]
 tags = ["nature", "1996"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Jeu d'ombres rouges, belles danses,

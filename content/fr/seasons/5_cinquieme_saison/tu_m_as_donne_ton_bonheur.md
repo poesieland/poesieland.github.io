@@ -7,7 +7,7 @@ categories = [ "Amour platonique" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Tu m'as donné ton bonheur"
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu m'as donné ton bonheur

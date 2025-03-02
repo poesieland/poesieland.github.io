@@ -2,7 +2,7 @@
 title = "I walked"
 date = 2004-06-12
 weight = 13
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "i_walked_16"
 categories = [ "Learning" ]
 +++

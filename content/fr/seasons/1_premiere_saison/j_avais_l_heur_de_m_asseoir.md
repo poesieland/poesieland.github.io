@@ -7,7 +7,7 @@ categories = ["Amour platonique"]
 tags = ["amour", "1995", "sonnet"]
 poemType = "sonnet"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'avais l'heur de m'asseoir auprès d'elle, en silence,

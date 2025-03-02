@@ -8,7 +8,7 @@ tags = [ "saisons", "nature", "philosophie", "1998", "acrostiche" ]
 info = "\"Papillons d'octobre\" en italien."
 acrostiche = "Farfalle d'ottobre"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Frémissants, trop légers, les papillons d'octobre

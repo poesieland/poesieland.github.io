@@ -6,7 +6,7 @@ weight = 7
 categories = ["Faune", "Nuit"]
 tags = ["nature", "ombres et lumières", "2024"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les étoiles s'éteindront

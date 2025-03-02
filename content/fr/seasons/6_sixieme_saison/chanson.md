@@ -5,7 +5,7 @@ date = 1998-05-27
 weight = 41
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

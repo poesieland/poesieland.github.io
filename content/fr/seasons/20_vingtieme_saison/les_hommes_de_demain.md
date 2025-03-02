@@ -6,7 +6,7 @@ weight = 14
 categories = [ "Espoir", "Apprentissage" ]
 tags = [ "2024", "philosophie" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ils nous remplaceront

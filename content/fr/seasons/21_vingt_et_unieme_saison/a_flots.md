@@ -19,7 +19,7 @@ pictures: []
 poemType: ""
 acrostiche: A flots
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 A flots le matin blond par la fenêtre ouverte
 

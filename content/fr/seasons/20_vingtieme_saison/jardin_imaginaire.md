@@ -7,7 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2024"]
 info = "Allez donc faire un tour sur [Société des amis de Colette {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/amisdecolette)"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ce qui me fait pleurer, ce qui me fait sourire,

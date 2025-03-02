@@ -6,7 +6,7 @@ weight = 7
 categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Elle est partie là-bas"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

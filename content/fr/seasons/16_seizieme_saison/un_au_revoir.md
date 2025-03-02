@@ -5,7 +5,7 @@ date = 2004-04-26
 weight = 26
 categories = [ "Ville", "Temps" ]
 tags = [ "ombres et lumières", "philosophie", "2004" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 location = [ "Paris" ]
 +++

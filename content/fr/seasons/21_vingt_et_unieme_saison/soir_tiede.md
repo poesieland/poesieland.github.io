@@ -16,7 +16,7 @@ pictures: []
 type: default
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 On me souffle dans l'oreillette :
 

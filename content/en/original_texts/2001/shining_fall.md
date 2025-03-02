@@ -2,7 +2,7 @@
 title = "Shining Fall"
 date = 2001-09-09
 weight = 9
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "shining_fall_15"
 categories = [ "Fall" ]
 +++

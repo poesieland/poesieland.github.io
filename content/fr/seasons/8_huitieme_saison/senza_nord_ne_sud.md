@@ -7,7 +7,7 @@ categories = [ "Mer", "Angoisse" ]
 tags = [ "philosophie", "nature", "1998", "acrostiche" ]
 info = '"Sans nord ni sud" en italien.'
 acrostiche = "Senza nord nè sud"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

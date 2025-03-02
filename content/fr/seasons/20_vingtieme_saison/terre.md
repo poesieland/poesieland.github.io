@@ -7,7 +7,7 @@ categories = [ "Climat", "Espoir", "Angoisse" ]
 tags = [ "2024", "philosophie", "versVariable", "nature" ]
 info = "Vers variable : 2, 7"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La Terre

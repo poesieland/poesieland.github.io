@@ -6,7 +6,7 @@ weight = 43
 categories = ["Jardin et paysage", "Etre"]
 tags = ["nature", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et tous les mots d'amour

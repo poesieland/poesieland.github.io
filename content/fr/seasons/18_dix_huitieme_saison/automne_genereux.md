@@ -8,7 +8,7 @@ tags = ["saisons", "2023", "versVariable"]
 info = "Vers variable : 6, 3"
 pictures = ["Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023"]
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Respire à pleins poumons !

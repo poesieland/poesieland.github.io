@@ -7,7 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "2023", "acrostiche"]
 acrostiche = "Disparue"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Derrière toi, sans bruit, prends garde,

@@ -7,7 +7,7 @@ categories = ["Portraits", "Enfance et adolescence"]
 tags = ["philosophie", "1996", "sonnet"]
 poemType = "sonnet"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ma mère comme un ange au sourire si bon

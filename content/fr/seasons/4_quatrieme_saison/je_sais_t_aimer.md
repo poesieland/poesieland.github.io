@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1997", "acrostiche"]
 acrostiche = "Je sais t'aimer"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je sais t'aimer, bonheur,

@@ -6,7 +6,7 @@ weight = 7
 categories = ["Création", "Amitié"]
 tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "Ce jour-là tu disais"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 20
 categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Œil miroir de l'âme"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

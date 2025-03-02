@@ -6,7 +6,7 @@ weight = 4
 categories = ["Toucher", "Etre"]
 tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 acrostiche = "Sur tes lèvres"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

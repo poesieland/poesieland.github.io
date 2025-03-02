@@ -6,7 +6,7 @@ weight = 1
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Sur un air"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

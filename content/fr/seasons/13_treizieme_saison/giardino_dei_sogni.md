@@ -7,7 +7,7 @@ categories = ["Jardin et paysage", "Temps", "Automne"]
 tags = ["nature", "philosophie", "saisons", "1999", "doubleAcrostiche"]
 info = "\"Jardin des songes\" en italien."
 doubleAcrostiche = "giardino | dei sogni"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

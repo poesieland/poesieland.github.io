@@ -7,7 +7,7 @@ categories = [ "Temps", "Passion" ]
 tags = [ "philosophie", "amour", "1999", "acrostiche" ]
 info = '"Une page se tourne" en italien.'
 acrostiche = "Una pagina si torna"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
 +++
 

@@ -6,7 +6,7 @@ weight = 7
 categories = ["Temps"]
 tags = ["philosophie", "2000", "acrostiche"]
 acrostiche = "Bal de l'an"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

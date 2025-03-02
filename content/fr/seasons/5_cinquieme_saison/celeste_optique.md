@@ -6,7 +6,7 @@ weight = 25
 categories = ["Ciel"]
 tags = ["nature", "1997"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Photographie invisible

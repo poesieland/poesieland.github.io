@@ -6,7 +6,7 @@ weight = 35
 categories = [ "Aube", "Foi" ]
 tags = [ "ombres et lumières", "philosophie", "2001", "acrostiche" ]
 acrostiche = "Par toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

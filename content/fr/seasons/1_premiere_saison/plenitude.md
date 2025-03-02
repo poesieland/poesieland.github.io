@@ -7,7 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1994"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Douce flûte de Pan, notre âme s'abandonne

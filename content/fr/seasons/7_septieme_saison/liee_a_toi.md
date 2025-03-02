@@ -6,7 +6,7 @@ weight = 21
 categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Liée à toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

@@ -6,7 +6,7 @@ weight = 49
 categories = ["Automne", "Enfance et adolescence"]
 tags = ["saisons", "philosophie", "2023"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et puis soudain l'automne est là,

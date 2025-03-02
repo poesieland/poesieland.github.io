@@ -6,7 +6,7 @@ weight = 19
 categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ton premier succès"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

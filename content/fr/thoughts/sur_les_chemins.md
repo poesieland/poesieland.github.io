@@ -1,7 +1,7 @@
 +++
 title = "Sur les chemins"
 date = 2024-08-19
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 ### Sur le chemin de la rentrée

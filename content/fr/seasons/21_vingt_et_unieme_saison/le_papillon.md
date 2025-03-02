@@ -6,7 +6,7 @@ weight = 3
 categories = ["Faune"]
 tags = ["nature", "2024"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ce fragile funambule

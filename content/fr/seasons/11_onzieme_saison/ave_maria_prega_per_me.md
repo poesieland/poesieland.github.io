@@ -7,7 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Ave Maria prie pour moi\", chanson homonyme de Luciano Pavarotti."
 acrostiche = "Ave Maria prega per me"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

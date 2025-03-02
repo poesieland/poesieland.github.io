@@ -7,7 +7,7 @@ categories = ["Aube"]
 tags = ["ombres et lumières", "2024"]
 info = "Reprise légèrement modifiée des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/calme_du_soir)"
 verseLength = 9
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans le jour ou la nuit qui se lève

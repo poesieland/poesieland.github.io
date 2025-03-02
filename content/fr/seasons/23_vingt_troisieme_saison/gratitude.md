@@ -19,7 +19,7 @@ pictures: []
 poemType: ""
 acrostiche: Fais ta prière
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Fais ta prière au temps qui berce d'un ressac
 

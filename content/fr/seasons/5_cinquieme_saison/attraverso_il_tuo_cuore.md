@@ -7,7 +7,7 @@ categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Attraverso il tuo cuore"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A travers ton cœur j'ai mené

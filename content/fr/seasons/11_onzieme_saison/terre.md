@@ -6,7 +6,7 @@ weight = 21
 categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "O terra"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

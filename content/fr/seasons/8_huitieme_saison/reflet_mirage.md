@@ -6,7 +6,7 @@ weight = 28
 categories = ["Création", "Ciel"]
 tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "Reflet : mirage"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

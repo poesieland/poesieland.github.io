@@ -6,7 +6,7 @@ weight = 44
 categories = ["Aube", "Automne", "Jardin et paysage"]
 tags = ["ombres et lumières", "saisons", "nature", "2004"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ce matin la nuit pâlie

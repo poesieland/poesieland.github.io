@@ -6,7 +6,7 @@ weight = 16
 categories = ["Portraits"]
 tags = ["philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un mystère rêveur

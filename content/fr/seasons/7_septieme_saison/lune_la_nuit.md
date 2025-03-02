@@ -6,7 +6,7 @@ weight = 43
 categories = ["Lune"]
 tags = ["ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Lune, la nuit"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

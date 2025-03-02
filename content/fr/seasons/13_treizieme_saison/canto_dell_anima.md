@@ -7,7 +7,7 @@ categories = ["Foi", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 info = "\"Chant de l'âme\" en italien."
 acrostiche = "Canto dell'anima"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

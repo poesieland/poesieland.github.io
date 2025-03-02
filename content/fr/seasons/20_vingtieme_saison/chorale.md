@@ -8,7 +8,7 @@ tags = ["philosophie", "attitudes", "2024", "acrostiche", "sonnet"]
 poemType = "sonnet"
 acrostiche = "Sauvée à nouveau"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si ma foi se résume

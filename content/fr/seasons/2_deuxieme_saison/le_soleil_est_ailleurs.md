@@ -6,7 +6,7 @@ weight = 35
 categories = ["Crépuscule", "Révolte"]
 tags = ["ombres et lumières", "philosophie", "1996"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le soleil est ailleurs,

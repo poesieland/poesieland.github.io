@@ -6,7 +6,7 @@ weight = 40
 categories = ["Jardin et paysage"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Le midi tranquille"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

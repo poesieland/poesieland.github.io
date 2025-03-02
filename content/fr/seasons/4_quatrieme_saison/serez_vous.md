@@ -6,7 +6,7 @@ weight = 20
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1997" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Serez-vous ma comtesse

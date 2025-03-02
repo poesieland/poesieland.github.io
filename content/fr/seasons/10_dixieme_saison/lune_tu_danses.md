@@ -6,7 +6,7 @@ weight = 22
 categories = ["Lune"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune, tu danses"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

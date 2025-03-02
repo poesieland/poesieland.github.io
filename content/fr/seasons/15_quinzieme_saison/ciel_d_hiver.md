@@ -6,7 +6,7 @@ weight = 50
 categories = ["Ciel", "Hiver"]
 tags = ["nature", "saisons", "2001", "acrostiche"]
 acrostiche = "Ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 15
 categories = ["Romantisme", "Portraits"]
 tags = ["amour", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'aime te voir marcher

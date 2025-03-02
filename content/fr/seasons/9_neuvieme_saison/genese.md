@@ -6,7 +6,7 @@ weight = 15
 categories = ["Foi", "Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Ailleurs, sérénité"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

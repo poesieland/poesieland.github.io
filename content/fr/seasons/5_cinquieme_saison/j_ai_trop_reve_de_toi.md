@@ -7,7 +7,7 @@ categories = [ "Création", "Amour platonique" ]
 tags = [ "amour", "philosophie", "1998", "acrostiche" ]
 acrostiche = "J'ai trop rêvé de toi"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai trop rêvé de ce bonheur

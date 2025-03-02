@@ -6,7 +6,7 @@ weight = 22
 categories = ["Temps", "Etre"]
 tags = ["philosophie", "2004", "acrostiche"]
 acrostiche = "Le ciel et nous"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

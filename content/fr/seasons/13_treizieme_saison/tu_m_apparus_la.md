@@ -6,7 +6,7 @@ weight = 32
 categories = [ "Passion" ]
 tags = [ "amour", "1999", "acrostiche" ]
 acrostiche = "Tu m'apparus là"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

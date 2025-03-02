@@ -8,7 +8,7 @@ tags = ["philosophie", "nature", "2001", "acrostiche"]
 info = "Ce poème décrit l'adolescence d'une amie."
 acrostiche = "Le saut"
 verseLength = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La lune joue entre tes branches fines

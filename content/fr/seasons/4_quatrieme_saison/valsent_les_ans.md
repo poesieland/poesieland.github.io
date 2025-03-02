@@ -6,7 +6,7 @@ weight = 35
 categories = ["Apprentissage", "Enfance et adolescence"]
 tags = ["philosophie", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Aux espoirs d'hier valsent les ans

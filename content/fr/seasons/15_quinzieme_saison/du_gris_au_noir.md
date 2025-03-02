@@ -6,7 +6,7 @@ weight = 34
 categories = ["Automne", "Ville", "Crépuscule"]
 tags = ["saisons", "ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Du gris au noir"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

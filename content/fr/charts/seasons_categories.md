@@ -75,3 +75,8 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 
 {{< chartjs id="season24Pie" width="500px" margin="20px" padding="0" jsFile="../season-24/categories-pie.js" inline=true text="Un mois et demi, l'hiver majestueux et le retour du printemps"/>}}
 </div>
+
+<div style="display:flex;justify-content:center;">
+{{< chartjs id="season25Pie" width="500px" margin="20px" padding="0" jsFile="../season-25/categories-pie.js" inline=true text="En cours, hiver, printemps..."/>}}
+
+</div>

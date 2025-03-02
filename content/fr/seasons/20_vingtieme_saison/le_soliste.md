@@ -6,7 +6,7 @@ weight = 10
 categories = ["Musique et chant"]
 tags = ["attitudes", "2024"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le soliste est responsable

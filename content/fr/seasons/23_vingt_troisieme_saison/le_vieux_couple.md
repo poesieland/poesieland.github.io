@@ -19,7 +19,7 @@ pictures: []
 poemType: ""
 acrostiche: Demain vivant
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Demain nous serons vieux, demain nous serons morts
 

@@ -5,7 +5,7 @@ date = 2001-04-09
 weight = 2
 categories = ["Etre", "Ciel"]
 tags = ["philosophie", "nature", "2001"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

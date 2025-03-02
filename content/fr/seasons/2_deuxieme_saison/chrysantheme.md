@@ -6,7 +6,7 @@ weight = 37
 categories = ["Automne", "Flore"]
 tags = ["saisons", "nature", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Finissant, mon automne au cœur de chrysanthème

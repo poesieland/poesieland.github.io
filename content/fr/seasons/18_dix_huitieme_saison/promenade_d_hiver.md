@@ -7,7 +7,7 @@ categories = ["Hiver"]
 tags = ["saisons", "2023", "versVariable"]
 info = "Vers variable : 6, 2"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher vers le soleil

@@ -6,7 +6,7 @@ weight = 44
 categories = ["Création"]
 tags = ["philosophie", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le poète oublieux que sa muse délaisse

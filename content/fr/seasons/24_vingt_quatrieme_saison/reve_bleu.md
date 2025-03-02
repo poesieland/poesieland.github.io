@@ -18,7 +18,7 @@ pictures: []
 poemType: ""
 acrostiche: Rêve bleu
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Reviendra le printemps aux pollens floconneux,
 

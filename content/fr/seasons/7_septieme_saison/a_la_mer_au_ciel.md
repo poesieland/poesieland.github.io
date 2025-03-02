@@ -6,7 +6,7 @@ weight = 28
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "1998", "acrostiche" ]
 acrostiche = "A la mer, au ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 9
 +++
 

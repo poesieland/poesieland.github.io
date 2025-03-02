@@ -6,7 +6,7 @@ weight = 31
 categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Comme toi, aile"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

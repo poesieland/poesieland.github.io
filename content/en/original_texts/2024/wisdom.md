@@ -13,7 +13,7 @@ pictures: []
 type: default
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 One step at a time
 

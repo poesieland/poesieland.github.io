@@ -7,7 +7,7 @@ categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 info = "En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999)."
 acrostiche = "Adios artisto"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

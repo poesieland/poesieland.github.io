@@ -6,7 +6,7 @@ weight = 37
 categories = [ "Automne", "Enfance et adolescence" ]
 tags = [ "1996", "saisons", "philosophie" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'été, sa triste fin, me dit toujours mon cœur,

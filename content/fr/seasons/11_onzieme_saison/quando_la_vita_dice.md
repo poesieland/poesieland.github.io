@@ -7,7 +7,7 @@ categories = ["Espoir", "Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Quand la vie dit\" en italien."
 acrostiche = "Quando la vita dice"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

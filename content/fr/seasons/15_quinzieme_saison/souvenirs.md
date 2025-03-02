@@ -5,7 +5,7 @@ date = 2001-08-25
 weight = 24
 categories = ["Temps"]
 tags = ["philosophie", "2001"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

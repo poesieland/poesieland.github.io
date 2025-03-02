@@ -6,7 +6,7 @@ weight = 49
 categories = ["Lune", "Révolte"]
 tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Hijo de la luna"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

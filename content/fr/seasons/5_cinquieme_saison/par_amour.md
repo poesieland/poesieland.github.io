@@ -6,7 +6,7 @@ weight = 6
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1998" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les fleurs que je t'avais jetées

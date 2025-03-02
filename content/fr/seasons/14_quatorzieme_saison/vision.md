@@ -5,7 +5,7 @@ date = 2000-09-14
 weight = 20
 categories = ["Lune"]
 tags = ["ombres et lumières", "2000"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

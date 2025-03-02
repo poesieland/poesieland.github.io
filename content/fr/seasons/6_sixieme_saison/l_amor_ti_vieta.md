@@ -7,7 +7,7 @@ categories = [ "Mouvement", "Romantisme" ]
 tags = [ "attitudes", "amour", "1998", "acrostiche" ]
 info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

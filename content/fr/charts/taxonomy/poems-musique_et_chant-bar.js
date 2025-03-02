@@ -25,6 +25,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Au temps le dire (22) 2024', value: 0, color: 'rgba(252, 191, 140, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 1, color: 'rgba(252, 191, 140, 0.5)' },
     { label: 'Les mots respirent (24) 2024-25', value: 1, color: 'rgba(252, 191, 140, 0.5)' },
+    { label: 'Coeur et âme (25) 2025', value: 0, color: 'rgba(252, 191, 140, 0.5)' },
   ];
     addBarChart('poems-musique_et_chantBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

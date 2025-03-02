@@ -6,7 +6,7 @@ weight = 30
 categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Si jamais..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
 +++
 

@@ -2,7 +2,7 @@
 title = "Spring walk"
 date = 2003-03-31
 weight = 11
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "spring_walk_16"
 categories = [ "Spring" ]
 +++

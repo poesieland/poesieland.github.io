@@ -6,7 +6,7 @@ weight = 11
 categories = [ "Mouvement", "Amour platonique" ]
 tags = [ "amour", "attitudes", "1997" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Juste une valse, gente dame,

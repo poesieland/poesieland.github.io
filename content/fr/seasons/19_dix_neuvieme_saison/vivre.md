@@ -6,7 +6,7 @@ weight = 32
 categories = ["Temps"]
 tags = ["philosophie", "2024"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le temps qui nous reste

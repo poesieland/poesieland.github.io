@@ -7,7 +7,7 @@ categories = [ "Angoisse", "Climat" ]
 tags = [ "2024", "philosophie", "sonnet", "nature" ]
 poemType = "sonnet"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Blessure indélébile

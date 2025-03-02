@@ -6,7 +6,7 @@ weight = 26
 categories = ["Ciel"]
 tags = ["nature", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Soleil, mon encrier

@@ -6,7 +6,7 @@ weight = 49
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "2000", "pantoun" ]
 poemType = "pantoun"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

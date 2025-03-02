@@ -6,7 +6,7 @@ weight = 48
 categories = ["Portraits"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Sphère, une larme"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

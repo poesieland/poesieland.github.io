@@ -7,7 +7,7 @@ categories = [ "Jardin et paysage", "Eté" ]
 tags = [ "nature", "saisons", "2001" ]
 pictures = [ "Le parc de Choisy à Paris 13e" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Paris" ]
 +++
 

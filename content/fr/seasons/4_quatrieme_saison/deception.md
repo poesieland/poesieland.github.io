@@ -6,7 +6,7 @@ weight = 22
 categories = [ "Passion" ]
 tags = [ "amour", "1997" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai pris ton cœur pour un mirage :

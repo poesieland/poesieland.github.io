@@ -6,7 +6,7 @@ weight = 27
 categories = ["Mouvement", "Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Entre tes bras"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

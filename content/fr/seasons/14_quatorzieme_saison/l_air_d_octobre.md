@@ -6,7 +6,7 @@ weight = 5
 categories = ["Automne", "Temps"]
 tags = ["saisons", "philosophie", "2000", "acrostiche"]
 acrostiche = "L'air d'octobre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

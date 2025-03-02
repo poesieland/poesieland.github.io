@@ -6,7 +6,7 @@ weight = 7
 categories = [ "Ciel", "Temps" ]
 tags = [ "1997", "nature", "philosophie" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comète de l'amour,

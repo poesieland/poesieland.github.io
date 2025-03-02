@@ -6,7 +6,7 @@ weight = 31
 categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Résonances de l'âme"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

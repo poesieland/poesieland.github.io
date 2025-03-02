@@ -6,7 +6,7 @@ weight = 18
 categories = [ "Révolte", "Passion" ]
 tags = [ "philosophie", "amour", "1998", "acrostiche" ]
 acrostiche = "Quand tu grandis"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

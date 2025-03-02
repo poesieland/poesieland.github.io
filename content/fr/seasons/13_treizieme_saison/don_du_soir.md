@@ -7,7 +7,7 @@ categories = ["Foi", "Portraits"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson, \"Ave Maria no morro\", dans la version des paroles chantées par Andrea Bocelli."
 acrostiche = "Arcobaleno preghier'"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

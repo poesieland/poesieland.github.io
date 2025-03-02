@@ -6,7 +6,7 @@ weight = 38
 categories = ["Automne", "Etre"]
 tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "L'autunno, dolce mio"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

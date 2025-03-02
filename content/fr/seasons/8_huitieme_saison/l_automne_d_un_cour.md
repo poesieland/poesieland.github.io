@@ -6,7 +6,7 @@ weight = 34
 categories = ["Automne", "Temps", "Musique et chant"]
 tags = ["saisons", "philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'automne d'un cœur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

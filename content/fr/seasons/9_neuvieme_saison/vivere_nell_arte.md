@@ -7,7 +7,7 @@ categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche"]
 info = "\"Vivre dans l'art\" en italien."
 acrostiche = "Vivere nell'arte"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

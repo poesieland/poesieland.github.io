@@ -6,7 +6,7 @@ weight = 37
 categories = ["Mouvement"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Comme un bonheur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -7,7 +7,7 @@ categories = ["Temps", "Création"]
 tags = ["philosophie", "2023"]
 info = "En reprenant un beau vers d'un mauvais poème de 1994 : \"au bout de son long fil battait un vieux pendule\" et en développant enfin l'idée associée"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au bout d'un long filin balançait un pendule,

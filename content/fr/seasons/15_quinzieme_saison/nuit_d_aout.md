@@ -5,7 +5,7 @@ date = 2001-08-26
 weight = 25
 categories = ["Eté", "Ville", "Nuit"]
 tags = ["saisons", "ombres et lumières", "2001"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

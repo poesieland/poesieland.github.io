@@ -7,7 +7,7 @@ categories = ["Nuit", "Lune"]
 tags = ["ombres et lumières", "1997", "versVariable"]
 info = "Vers variable : 8, 6, 4, 2"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La lune mystère ombragé

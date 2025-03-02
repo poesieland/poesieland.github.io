@@ -6,7 +6,7 @@ weight = 37
 categories = ["Foi"]
 tags = ["philosophie", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher dans la lumière

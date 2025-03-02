@@ -6,7 +6,7 @@ weight = 14
 categories = ["Création"]
 tags = ["philosophie", "1997"]
 verseLength = 2
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au gré

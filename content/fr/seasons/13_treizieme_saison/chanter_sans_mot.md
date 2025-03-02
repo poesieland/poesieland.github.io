@@ -6,7 +6,7 @@ weight = 46
 categories = ["Foi", "Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "Chanter sans mot"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 24
 categories = ["Eté"]
 tags = ["saisons", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'ombre fraîche qui s'émerveille

@@ -6,7 +6,7 @@ weight = 49
 categories = ["Crépuscule", "Flore"]
 tags = ["ombres et lumières", "nature", "1999", "acrostiche"]
 acrostiche = "Le parfum du soir"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

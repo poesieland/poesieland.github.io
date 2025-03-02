@@ -6,7 +6,7 @@ weight = 6
 categories = ["Toucher", "Musique et chant", "Romantisme"]
 tags = ["attitudes", "amour", "1999", "acrostiche"]
 acrostiche = "A tâtons"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 47
 categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Un oiseau"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

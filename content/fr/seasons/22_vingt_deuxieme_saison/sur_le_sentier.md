@@ -19,7 +19,7 @@ pictures: []
 poemType: ""
 acrostiche: Sur le sentier
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Sur le sentier de l'indicible
 

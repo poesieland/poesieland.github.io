@@ -6,7 +6,7 @@ weight = 21
 categories = ["Temps", "Nuit", "Ville"]
 tags = ["philosophie", "ombres et lumières", "2004", "acrostiche"]
 acrostiche = "Un soir triste"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 41
 categories = ["Faune", "Eté"]
 tags = ["nature", "saisons", "2004"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'avais oublié les oiseaux

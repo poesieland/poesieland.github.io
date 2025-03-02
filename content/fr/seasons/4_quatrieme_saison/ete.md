@@ -6,7 +6,7 @@ weight = 4
 categories = ["Eté", "Jardin et paysage"]
 tags = ["saisons", "nature", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel est bleu comme un mensonge,

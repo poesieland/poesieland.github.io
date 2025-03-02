@@ -6,7 +6,7 @@ weight = 22
 categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Il n'est de port"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

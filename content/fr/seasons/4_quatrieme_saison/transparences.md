@@ -6,7 +6,7 @@ weight = 23
 categories = ["Espoir"]
 tags = ["philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le cœur berce d'envies

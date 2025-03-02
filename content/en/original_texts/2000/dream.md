@@ -2,7 +2,7 @@
 title = "Dream"
 date = 2000-03-08
 weight = 2
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "dream_14"
 categories = [ "Music" ]
 +++

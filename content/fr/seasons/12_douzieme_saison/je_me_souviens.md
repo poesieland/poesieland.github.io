@@ -6,7 +6,7 @@ weight = 25
 categories = ["Temps", "Hiver"]
 tags = ["philosophie", "saisons", "1999", "acrostiche"]
 acrostiche = "Je me souviens"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

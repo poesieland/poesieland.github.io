@@ -6,7 +6,7 @@ weight = 3
 categories = ["Eté"]
 tags = ["saisons", "1997"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le cœur s'emballe,

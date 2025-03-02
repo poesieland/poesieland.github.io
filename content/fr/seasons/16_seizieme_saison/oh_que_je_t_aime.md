@@ -6,7 +6,7 @@ weight = 3
 categories = ["Espoir"]
 tags = ["philosophie", "2002", "acrostiche"]
 acrostiche = "Oh que je t'aime"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

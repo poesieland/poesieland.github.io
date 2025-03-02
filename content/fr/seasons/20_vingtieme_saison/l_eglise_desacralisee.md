@@ -7,7 +7,7 @@ categories = ["Portraits"]
 tags = ["philosophie", "2024"]
 info = "Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans ton église abandonnée

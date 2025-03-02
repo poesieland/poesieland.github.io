@@ -6,7 +6,7 @@ weight = 31
 categories = ["Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "J'ai vu un arc-en-ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

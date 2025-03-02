@@ -7,7 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "2000", "acrostiche"]
 info = "\"O Amour\" en allemand."
 acrostiche = "O Liebe"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

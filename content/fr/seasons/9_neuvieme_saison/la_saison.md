@@ -6,7 +6,7 @@ weight = 3
 categories = ["Automne"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "La saison"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

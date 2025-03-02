@@ -6,7 +6,7 @@ weight = 46
 categories = ["Flore"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Parfum muguet"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

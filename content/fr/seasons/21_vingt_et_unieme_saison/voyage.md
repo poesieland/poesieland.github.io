@@ -17,7 +17,7 @@ pictures: []
 type: default
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Plus au sud c'est l'hiver : débridée, éternelle
 

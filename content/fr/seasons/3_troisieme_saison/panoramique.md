@@ -6,7 +6,7 @@ weight = 5
 categories = [ "Nuit", "Ciel" ]
 tags = [ "1997", "ombres et lumières", "nature" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel est comme un paravent

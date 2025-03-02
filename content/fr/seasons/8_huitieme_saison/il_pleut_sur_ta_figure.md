@@ -6,7 +6,7 @@ weight = 14
 categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Il pleut sur ta figure..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

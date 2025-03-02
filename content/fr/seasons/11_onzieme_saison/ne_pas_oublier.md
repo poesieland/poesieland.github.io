@@ -6,7 +6,7 @@ weight = 23
 categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Ne pas oublier"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
 +++
 

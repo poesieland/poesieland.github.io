@@ -6,7 +6,7 @@ weight = 38
 categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Que ta volonté"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

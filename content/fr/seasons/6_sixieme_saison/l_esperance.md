@@ -6,7 +6,7 @@ weight = 6
 categories = ["Faune", "Espoir"]
 tags = ["nature", "philosophie", "1998"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai dérobé d'un papillon

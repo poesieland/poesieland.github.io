@@ -6,7 +6,7 @@ weight = 40
 categories = ["Romantisme"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Une bague"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

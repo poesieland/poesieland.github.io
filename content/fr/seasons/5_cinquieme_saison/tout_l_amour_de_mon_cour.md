@@ -7,7 +7,7 @@ categories = ["Enfance et adolescence"]
 tags = ["philosophie", "1997", "acrostiche"]
 acrostiche = "Tout l'amour de mon cœur"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu me souris, babilles,

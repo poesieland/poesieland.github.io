@@ -5,7 +5,7 @@ date = 1998-09-03
 weight = 30
 categories = [ "Nuit", "Musique et chant" ]
 tags = [ "1998", "attitudes", "ombres et lumières", "acrostiche" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 acrostiche = "Spente le stelle (titre d'une chanson)"
 +++

@@ -5,7 +5,7 @@ date = 1998-02-01
 weight = 48
 categories = ["Hiver"]
 tags = ["saisons", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

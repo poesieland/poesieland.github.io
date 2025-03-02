@@ -6,7 +6,7 @@ weight = 50
 categories = ["Eau douce", "Ciel"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Arcs-en-ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

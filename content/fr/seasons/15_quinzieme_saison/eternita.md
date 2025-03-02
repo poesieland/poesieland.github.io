@@ -6,7 +6,7 @@ weight = 45
 categories = ["Jardin et paysage", "Etre"]
 tags = ["nature", "philosophie", "2001", "acrostiche"]
 acrostiche = "Eternità"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -2,7 +2,7 @@
 title = "Love"
 date = 2000-03-09
 weight = 3
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "love_14"
 categories = [ "Love", "Hope" ]
 +++

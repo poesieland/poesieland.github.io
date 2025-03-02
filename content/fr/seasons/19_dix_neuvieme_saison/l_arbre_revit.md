@@ -6,7 +6,7 @@ weight = 15
 categories = ["Flore", "Printemps"]
 tags = ["nature", "saisons", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'arbre s'élance, un peu plié,

@@ -6,7 +6,7 @@ weight = 41
 categories = [ "Création", "Amour platonique" ]
 tags = [ "amour", "philosophie", "1998", "acrostiche" ]
 acrostiche = "Rêver de toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

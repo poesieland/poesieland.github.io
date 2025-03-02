@@ -6,7 +6,7 @@ weight = 47
 categories = [ "Toucher", "Romantisme" ]
 tags = [ "amour", "attitudes", "2001", "acrostiche" ]
 acrostiche = "Traces des lèvres"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

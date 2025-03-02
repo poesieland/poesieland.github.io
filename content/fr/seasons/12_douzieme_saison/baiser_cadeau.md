@@ -6,7 +6,7 @@ weight = 3
 categories = [ "Toucher", "Passion" ]
 tags = [ "amour", "attitudes", "1999", "acrostiche" ]
 acrostiche = "Baiser, cadeau"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

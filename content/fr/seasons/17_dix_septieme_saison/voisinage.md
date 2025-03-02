@@ -7,7 +7,7 @@ categories = ["Ville", "Etre"]
 tags = ["ombres et lumières", "philosophie", "2005"]
 info = "A Bordeaux"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans ma cuisine ça ronronne

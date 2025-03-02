@@ -23,7 +23,7 @@ pictures: []
 poemType: ""
 acrostiche: L'automne venu
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 L'automne est venu comme un songe
 

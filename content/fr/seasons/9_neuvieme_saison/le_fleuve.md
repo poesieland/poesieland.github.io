@@ -6,7 +6,7 @@ weight = 29
 categories = ["Création", "Eau douce"]
 tags = ["philosophie", "nature", "1998", "acrostiche"]
 acrostiche = "A la recherche"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

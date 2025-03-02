@@ -6,7 +6,7 @@ weight = 38
 categories = ["Ciel"]
 tags = ["nature", "2004"]
 verseLength = 9
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 "Grain de beauté sur le soleil"...

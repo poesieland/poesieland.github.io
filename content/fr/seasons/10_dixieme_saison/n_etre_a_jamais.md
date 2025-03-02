@@ -6,7 +6,7 @@ weight = 20
 categories = ["Flore"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "N'être à jamais"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

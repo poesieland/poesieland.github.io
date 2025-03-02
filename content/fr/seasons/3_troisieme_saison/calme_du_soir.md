@@ -6,7 +6,7 @@ weight = 2
 categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1997"]
 verseLength = 9
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au début de la nuit qui se lève,

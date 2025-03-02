@@ -7,7 +7,7 @@ categories = ["Amitié"]
 tags = ["amour", "2024", "versVariable"]
 info = "Vers variable : 6, 3"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur le lac morcelé

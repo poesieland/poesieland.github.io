@@ -7,7 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche"]
 acrostiche = "Un chapelet"
 verseLength = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un chapelet de verre en toi pour moi

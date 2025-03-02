@@ -6,7 +6,7 @@ weight = 40
 categories = ["Aube", "Etre"]
 tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand un avion trace

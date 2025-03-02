@@ -7,7 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "D'après une chanson presque homonyme. En portuguais : \"Ave Maria no morro\" signifie \"Ave Maria sur la colline\" tandis qu'en italien \"Ave Maria non morrò\" signifie \"Ave Maria je ne mourrai pas\"."
 acrostiche = "Ave Maria non morro"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
 +++
 

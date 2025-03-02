@@ -6,7 +6,7 @@ weight = 27
 categories = ["Eau douce"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Beau lac, miroir, dis..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -7,7 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 info = "\"La vie par-dessus tout\" en italien."
 acrostiche = "La vita sopratutto"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

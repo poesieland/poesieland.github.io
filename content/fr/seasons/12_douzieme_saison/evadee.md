@@ -6,7 +6,7 @@ weight = 44
 categories = ["Nuit", "Etre"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Evadée"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

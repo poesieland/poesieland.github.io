@@ -1,7 +1,7 @@
 +++
 title = "S'inquiéter et témoigner"
 date = 2024-05-19
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 ### Eco-anxiété

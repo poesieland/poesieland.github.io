@@ -6,7 +6,7 @@ weight = 34
 categories = ["Crépuscule"]
 tags = ["ombres et lumières", "2024"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un soleil voilé

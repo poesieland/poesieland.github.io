@@ -6,7 +6,7 @@ weight = 4
 categories = ["Temps"]
 tags = ["philosophie", "2023"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand j'avais la vingtaine

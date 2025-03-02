@@ -6,7 +6,7 @@ weight = 36
 categories = [ "Lune", "Musique et chant", "Nuit" ]
 tags = [ "ombres et lumières", "attitudes", "1999", "acrostiche" ]
 acrostiche = "Calme, prières"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

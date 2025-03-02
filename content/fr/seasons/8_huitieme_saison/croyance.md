@@ -6,7 +6,7 @@ weight = 15
 categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Con te partirò"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

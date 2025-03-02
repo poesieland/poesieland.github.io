@@ -6,7 +6,7 @@ weight = 15
 categories = ["Automne"]
 tags = ["saisons", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne et son feuillage attirent le mystère,

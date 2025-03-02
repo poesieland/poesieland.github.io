@@ -5,7 +5,7 @@ date = 2001-06-23
 weight = 9
 categories = [ "Ville", "Portraits" ]
 tags = [ "ombres et lumières", "philosophie", "2001" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 location = [ "Côte atlantique" ]
 +++

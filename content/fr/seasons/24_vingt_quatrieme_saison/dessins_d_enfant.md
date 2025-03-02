@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 J'avais crayons et gomme
 

@@ -13,7 +13,7 @@ Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
 acrostiche = "Demain nous serons"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Demain tu seras grand, demain je serai vieille,

@@ -6,7 +6,7 @@ weight = 23
 categories = ["Temps", "Flore"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Matin privilège"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

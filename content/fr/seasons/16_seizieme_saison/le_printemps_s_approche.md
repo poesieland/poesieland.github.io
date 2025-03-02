@@ -6,7 +6,7 @@ weight = 13
 categories = ["Printemps", "Jardin et paysage"]
 tags = ["saisons", "nature", "2003", "acrostiche"]
 acrostiche = "Le printemps s'approche"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

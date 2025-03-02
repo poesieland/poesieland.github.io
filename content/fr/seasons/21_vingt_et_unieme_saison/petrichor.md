@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: Sous l'ondée
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Sur la pierre brute enivrante
 

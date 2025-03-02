@@ -5,7 +5,7 @@ date = 2000-04-04
 weight = 47
 categories = [ "Ciel" ]
 tags = [ "2000", "nature", "acrostiche" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 acrostiche = "Rinascer' (\"renaître\" en italien)."
 +++

@@ -7,7 +7,7 @@ categories = [ "Passion" ]
 tags = [ "amour", "1997", "acrostiche" ]
 acrostiche = "Mais ai-je su le dire ?"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mais ai-je su le dire

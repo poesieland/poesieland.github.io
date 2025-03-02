@@ -6,7 +6,7 @@ weight = 47
 categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Amour, thème : éveils"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

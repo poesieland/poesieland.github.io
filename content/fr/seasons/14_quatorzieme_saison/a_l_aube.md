@@ -6,7 +6,7 @@ weight = 13
 categories = ["Ciel", "Aube"]
 tags = ["nature", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "A l'aube"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

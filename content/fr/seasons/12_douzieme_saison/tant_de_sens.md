@@ -6,7 +6,7 @@ weight = 15
 categories = ["Musique et chant", "Temps"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "Tant de sens"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

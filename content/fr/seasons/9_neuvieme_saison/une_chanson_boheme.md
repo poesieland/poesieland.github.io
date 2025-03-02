@@ -6,7 +6,7 @@ weight = 20
 categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Une chanson bohème"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

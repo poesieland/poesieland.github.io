@@ -6,7 +6,7 @@ weight = 12
 categories = ["Aube"]
 tags = ["ombres et lumières", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'éclat de la lune a pali

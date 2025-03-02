@@ -6,7 +6,7 @@ weight = 1
 categories = ["Romantisme"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Au nom du cœur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

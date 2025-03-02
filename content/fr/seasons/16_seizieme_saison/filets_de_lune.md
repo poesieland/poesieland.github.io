@@ -6,7 +6,7 @@ weight = 10
 categories = ["Lune"]
 tags = ["ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Filets de lune"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 2
 categories = ["Espoir"]
 tags = ["philosophie", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne dites pas mourir

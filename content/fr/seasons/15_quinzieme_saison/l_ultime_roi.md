@@ -6,7 +6,7 @@ weight = 44
 categories = ["Etre"]
 tags = ["philosophie", "2001"]
 info = "D'après la chanson d'Andrea Bocelli \"L'ultimo re\"."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

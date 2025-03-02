@@ -6,7 +6,7 @@ weight = 39
 categories = ["Mer", "Création"]
 tags = ["nature", "philosophie", "1999", "acrostiche"]
 acrostiche = "Sur une barque"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

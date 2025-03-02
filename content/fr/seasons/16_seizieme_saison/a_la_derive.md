@@ -6,7 +6,7 @@ weight = 11
 categories = ["Révolte"]
 tags = ["philosophie", "2003", "acrostiche"]
 acrostiche = "A la dérive, moi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

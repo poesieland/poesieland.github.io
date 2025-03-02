@@ -6,7 +6,7 @@ weight = 39
 categories = ["Eté"]
 tags = ["saisons", "2004"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les jours bleus vont raccourcir

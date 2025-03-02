@@ -6,7 +6,7 @@ weight = 22
 categories = ["Automne", "Espoir"]
 tags = ["saisons", "philosophie", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne et ses couleurs comme un charme d'adieu :

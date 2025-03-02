@@ -6,7 +6,7 @@ weight = 42
 categories = [ "Faune" ]
 tags = [ "2024", "nature", "lovecat" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je fais des pirouettes

@@ -6,7 +6,7 @@ weight = 40
 categories = ["Ville", "Nuit", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
 acrostiche = "Nos nuits"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
 +++
 

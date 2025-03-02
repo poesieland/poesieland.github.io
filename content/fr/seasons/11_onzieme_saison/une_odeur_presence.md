@@ -6,7 +6,7 @@ weight = 7
 categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Une odeur : présence"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

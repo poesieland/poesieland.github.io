@@ -6,7 +6,7 @@ weight = 10
 categories = ["Hiver"]
 tags = ["saisons", "2005"]
 verseLength = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Glissements brefs craquants de tous les pas mêlés

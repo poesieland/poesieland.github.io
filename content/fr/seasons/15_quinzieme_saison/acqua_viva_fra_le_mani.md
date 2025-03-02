@@ -7,7 +7,7 @@ categories = ["Espoir", "Eau douce"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 info = "\"Eau vive entre les mains\" en italien."
 acrostiche = "Acqua viva fra le mani"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 40
 categories = ["Automne", "Espoir"]
 tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "L'octobre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

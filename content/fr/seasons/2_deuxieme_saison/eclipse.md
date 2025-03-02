@@ -7,7 +7,7 @@ categories = ["Lune"]
 tags = ["ombres et lumières", "1996", "sonnet"]
 poemType = "sonnet"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En fragment souverain, petit morceau de gypse

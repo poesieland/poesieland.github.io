@@ -6,7 +6,7 @@ weight = 15
 categories = [ "Passion" ]
 tags = [ "amour", "2005" ]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En lambeaux, coeur,

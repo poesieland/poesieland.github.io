@@ -7,7 +7,7 @@ categories = ["Flore"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Manger le coeur d'un Eros"
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Manger le cœur d'une rose

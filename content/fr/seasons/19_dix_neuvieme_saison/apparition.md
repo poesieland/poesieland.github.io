@@ -7,7 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "2024"]
 pictures = ["Arc-en-ciel en mai 2001"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pour désigner le sens de la chasse aux trésors,

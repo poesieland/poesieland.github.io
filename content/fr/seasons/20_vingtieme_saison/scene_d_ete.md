@@ -6,7 +6,7 @@ weight = 25
 categories = ["Eté", "Crépuscule"]
 tags = ["saisons", "ombres et lumières", "2024"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La cloche sonne un peu juste pour donner l'heure,

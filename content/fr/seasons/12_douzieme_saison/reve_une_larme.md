@@ -6,7 +6,7 @@ weight = 2
 categories = [ "Passion" ]
 tags = [ "amour", "1999", "acrostiche" ]
 acrostiche = "Rêve, une larme"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

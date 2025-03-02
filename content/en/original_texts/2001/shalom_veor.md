@@ -2,7 +2,7 @@
 title = "Shalom ve'Or"
 date = 2001-06-03
 weight = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "shalom_veor_15"
 categories = [ "Hope" ]
 +++

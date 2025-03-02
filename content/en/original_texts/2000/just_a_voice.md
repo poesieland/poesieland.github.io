@@ -2,7 +2,7 @@
 title = "Just a voice"
 date = 2000-08-26
 weight = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "just_a_voice_14"
 categories = [ "Music" ]
 +++

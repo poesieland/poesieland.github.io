@@ -6,7 +6,7 @@ weight = 38
 categories = ["Espoir", "Nuit"]
 tags = ["philosophie", "ombres et lumières", "1998", "acrostiche"]
 acrostiche = "Que vivre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

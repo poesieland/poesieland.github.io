@@ -6,7 +6,7 @@ weight = 39
 categories = ["Printemps", "Flore"]
 tags = ["saisons", "nature", "1997"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Perce-neige, crocus, et bientôt les tulipes,

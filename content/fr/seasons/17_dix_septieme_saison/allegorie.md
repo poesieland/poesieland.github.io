@@ -7,7 +7,7 @@ categories = ["Aube", "Foi"]
 tags = ["ombres et lumières", "philosophie", "2004", "acrostiche"]
 acrostiche = "Aube d'un coeur"
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Avec toi j'ai revu l'aube

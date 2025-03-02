@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1997", "acrostiche"]
 acrostiche = "As-tu déjà rêvé ?"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 As-tu déjà rêvé d'un soir :

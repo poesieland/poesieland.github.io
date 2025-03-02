@@ -6,7 +6,7 @@ weight = 41
 categories = ["Eté", "Jardin et paysage"]
 tags = ["saisons", "nature", "1999", "acrostiche"]
 acrostiche = "Ne rien faire, rêver..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

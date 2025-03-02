@@ -6,7 +6,7 @@ weight = 34
 categories = ["Musique et chant", "Jardin et paysage"]
 tags = ["attitudes", "nature", "1999", "acrostiche"]
 acrostiche = "Une aube bleue"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

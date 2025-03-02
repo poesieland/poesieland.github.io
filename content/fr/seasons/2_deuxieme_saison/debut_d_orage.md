@@ -6,7 +6,7 @@ weight = 36
 categories = ["Ciel"]
 tags = ["nature", "1996"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le mouvement

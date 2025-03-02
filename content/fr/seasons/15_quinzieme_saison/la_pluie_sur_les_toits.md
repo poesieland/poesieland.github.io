@@ -6,7 +6,7 @@ weight = 3
 categories = [ "Ville", "Eau douce" ]
 tags = [ "ombres et lumières", "nature", "2001", "acrostiche" ]
 acrostiche = "La pluie sur les toits"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 location = [ "Paris" ]
 +++

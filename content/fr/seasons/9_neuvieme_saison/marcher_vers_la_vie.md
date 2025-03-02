@@ -6,7 +6,7 @@ weight = 14
 categories = ["Espoir", "Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Marcher vers la vie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

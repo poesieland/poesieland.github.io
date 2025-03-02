@@ -8,7 +8,7 @@ tags = ["philosophie", "2005"]
 info = "Souvenirs de Ham-sous-Varsberg"
 pictures = ["Le puits du château de Ham-sous-Varsberg", "Le puits du château de Ham-sous-Varsberg", "La chapelle du château de Ham-sous-Varsberg en cours de restauration en 2005", "Le carrelage de la zone de bal extérieur du château de Ham-sous-Varsberg"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ma voix n'est plus la même au puits du vieux château ;

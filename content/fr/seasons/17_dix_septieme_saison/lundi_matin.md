@@ -6,7 +6,7 @@ weight = 14
 categories = ["Ville"]
 tags = ["ombres et lumières", "2005"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le vent chasse l'eau

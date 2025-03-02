@@ -19,7 +19,7 @@ pictures: []
 type: default
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Il se pourrait qu'il pleuve
 

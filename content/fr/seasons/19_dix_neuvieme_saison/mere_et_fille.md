@@ -6,7 +6,7 @@ weight = 48
 categories = ["Amitié"]
 tags = ["amour", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans mon coeur une étoile

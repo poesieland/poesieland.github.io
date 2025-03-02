@@ -6,7 +6,7 @@ weight = 4
 categories = [ "Lune", "Angoisse" ]
 tags = [ "ombres et lumières", "philosophie", "2000", "acrostiche" ]
 acrostiche = "Et j'oublierai"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

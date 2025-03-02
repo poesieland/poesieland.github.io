@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: Corpus, vivere
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Comme lumière s'attise,
 

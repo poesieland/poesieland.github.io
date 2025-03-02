@@ -7,7 +7,7 @@ categories = [ "Temps", "Automne" ]
 tags = [ "1999", "acrostiche", "philosophie", "saisons" ]
 info = "\"L'automne\" en italien."
 acrostiche = "L'autunno"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

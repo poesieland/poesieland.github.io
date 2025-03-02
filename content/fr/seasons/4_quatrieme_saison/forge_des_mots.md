@@ -7,7 +7,7 @@ categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1997", "acrostiche"]
 acrostiche = "La musique des mots"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La musique des mots,

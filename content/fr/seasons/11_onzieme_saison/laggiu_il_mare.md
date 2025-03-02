@@ -7,7 +7,7 @@ categories = ["Mer"]
 tags = ["nature", "1999", "acrostiche"]
 info = "\"Là-bas la mer\" en italien."
 acrostiche = "Laggiù il mare"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

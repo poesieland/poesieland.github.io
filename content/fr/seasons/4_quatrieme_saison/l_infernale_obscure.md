@@ -6,7 +6,7 @@ weight = 37
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "1997" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 De la plus haute tour

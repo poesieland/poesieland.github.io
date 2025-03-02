@@ -6,7 +6,7 @@ weight = 38
 categories = ["Automne"]
 tags = ["saisons", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 O pourquoi donc en mai songé-je au sombre automne,

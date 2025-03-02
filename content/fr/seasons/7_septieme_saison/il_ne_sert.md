@@ -6,7 +6,7 @@ weight = 49
 categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Il ne sert"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 22
 categories = ["Eau douce", "Portraits"]
 tags = ["nature", "philosophie", "2005"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Déchirant l'air mais pas l'oreille,

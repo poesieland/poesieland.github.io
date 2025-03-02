@@ -6,7 +6,7 @@ weight = 11
 categories = ["Lune"]
 tags = ["ombres et lumières", "2024"]
 verseLength = 2
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La nuit

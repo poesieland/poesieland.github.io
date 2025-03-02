@@ -7,7 +7,7 @@ categories = ["Crépuscule"]
 tags = ["ombres et lumières", "2024", "acrostiche"]
 acrostiche = "Le soir, trésor"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le soir tient sa promesse

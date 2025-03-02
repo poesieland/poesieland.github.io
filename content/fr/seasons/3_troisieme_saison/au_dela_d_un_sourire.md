@@ -8,7 +8,7 @@ tags = [ "amour", "1997", "acrostiche" ]
 info = "Premier acrostiche..."
 acrostiche = "Au-delà d'un sourire"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Accrocherez-vous à mon cœur

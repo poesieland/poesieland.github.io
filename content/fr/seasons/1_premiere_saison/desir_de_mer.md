@@ -6,7 +6,7 @@ weight = 28
 categories = [ "Mer", "Passion" ]
 tags = [ "nature", "amour", "1996" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Côte atlantique" ]
 +++
 

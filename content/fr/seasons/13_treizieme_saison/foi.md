@@ -7,7 +7,7 @@ categories = [ "Amour platonique" ]
 tags = [ "amour", "1999", "acrostiche" ]
 info = '"Unique restera" en italien.'
 acrostiche = "Unico resterà"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

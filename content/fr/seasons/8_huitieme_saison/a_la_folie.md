@@ -6,7 +6,7 @@ weight = 5
 categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "A la folie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

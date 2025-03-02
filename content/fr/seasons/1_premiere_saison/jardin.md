@@ -6,7 +6,7 @@ weight = 19
 categories = ["Jardin et paysage", "Flore"]
 tags = ["nature", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Noirs bourdons vagabonds butinent sans souci,

@@ -6,7 +6,7 @@ weight = 31
 categories = ["Mouvement"]
 tags = ["attitudes", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans les filets de l'irréel,

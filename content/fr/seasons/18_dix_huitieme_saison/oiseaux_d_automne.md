@@ -6,7 +6,7 @@ weight = 21
 categories = ["Automne", "Faune"]
 tags = ["saisons", "nature", "2023"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les oiseaux dans le vent

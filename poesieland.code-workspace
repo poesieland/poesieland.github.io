@@ -11,7 +11,6 @@
 		}
 	],
 	"settings": {
-		"dotnet.defaultSolution": "back-office\\src\\PoesielandBackOffice.sln",
-		"frontMatter.file.preserveCasing": true
+		"dotnet.defaultSolution": "back-office\\src\\PoesielandBackOffice.sln"
 	}
 }

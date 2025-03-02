@@ -7,7 +7,7 @@ categories = ["Temps", "Amitié"]
 tags = ["philosophie", "amour", "1997", "versVariable"]
 info = "Vers variable : 8, 5"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les sols que tes pieds ont foulés

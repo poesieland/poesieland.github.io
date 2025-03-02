@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: Un ange revenu
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Un ange est revenu,
 

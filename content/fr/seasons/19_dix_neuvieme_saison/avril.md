@@ -6,7 +6,7 @@ weight = 31
 categories = ["Printemps"]
 tags = ["saisons", "2024"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rêveur au songe doux, voici venir l'avril

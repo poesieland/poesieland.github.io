@@ -6,7 +6,7 @@ weight = 39
 categories = ["Aube"]
 tags = ["ombres et lumières", "2024"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand l'aube chante

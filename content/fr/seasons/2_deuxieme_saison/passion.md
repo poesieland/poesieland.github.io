@@ -6,7 +6,7 @@ weight = 4
 categories = [ "Passion" ]
 tags = [ "amour", "1996" ]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 C'était comme un appel :

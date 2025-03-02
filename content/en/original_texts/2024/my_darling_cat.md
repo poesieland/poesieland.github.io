@@ -13,7 +13,7 @@ pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 My darling cat
 

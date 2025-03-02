@@ -7,7 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1998", "acrostiche"]
 info = "\"Dieu m'a appelée\" en italien."
 acrostiche = "Dio m'ha chiamato"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

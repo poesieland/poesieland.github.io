@@ -6,7 +6,7 @@ weight = 6
 categories = [ "Passion" ]
 tags = [ "amour", "2002", "acrostiche" ]
 acrostiche = "En paillettes"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

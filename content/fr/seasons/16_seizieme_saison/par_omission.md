@@ -6,7 +6,7 @@ weight = 42
 categories = ["Automne", "Eté", "Temps"]
 tags = ["saisons", "philosophie", "2004"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'été part, ô mission

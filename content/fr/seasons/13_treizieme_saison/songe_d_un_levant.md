@@ -6,7 +6,7 @@ weight = 42
 categories = ["Aube", "Espoir"]
 tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
 acrostiche = "Songe d'un levant"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

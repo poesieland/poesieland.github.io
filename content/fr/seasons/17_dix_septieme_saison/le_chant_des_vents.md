@@ -7,7 +7,7 @@ categories = [ "Flore", "Temps" ]
 tags = [ "nature", "philosophie", "2005" ]
 pictures = [ "Photo du 29.08.2004" ]
 verseLength = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Reims" ]
 +++
 

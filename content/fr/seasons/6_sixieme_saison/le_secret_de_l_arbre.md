@@ -6,7 +6,7 @@ weight = 40
 categories = ["Flore"]
 tags = ["nature", "1998", "acrostiche"]
 acrostiche = "Le secret de l'arbre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -6,7 +6,7 @@ weight = 20
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "2004", "acrostiche" ]
 acrostiche = "Mais où vais-je ?"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

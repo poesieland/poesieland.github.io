@@ -6,7 +6,7 @@ weight = 28
 categories = ["Temps"]
 tags = ["philosophie", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vois-tu planète bleue ici ?

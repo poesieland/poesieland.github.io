@@ -6,7 +6,7 @@ weight = 3
 categories = ["Automne", "Hiver", "Espoir"]
 tags = ["saisons", "philosophie", "2004"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un arbre d'or mira son voile

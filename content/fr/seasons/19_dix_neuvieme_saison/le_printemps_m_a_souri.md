@@ -6,7 +6,7 @@ weight = 29
 categories = ["Printemps"]
 tags = ["saisons", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le rameau n'est plus nu

@@ -7,7 +7,7 @@ categories = ["Printemps"]
 tags = ["saisons", "2024"]
 pictures = ["Dans mon quartier ce jour"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Réveille-toi, c'est le printemps,

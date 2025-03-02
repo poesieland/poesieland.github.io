@@ -5,7 +5,7 @@ date = 2004-04-24
 weight = 24
 categories = [ "Eau douce" ]
 tags = [ "nature", "2004" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 location = [ "Bordeaux" ]
 +++

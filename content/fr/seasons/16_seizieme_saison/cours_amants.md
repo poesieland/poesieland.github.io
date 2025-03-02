@@ -6,7 +6,7 @@ weight = 2
 categories = [ "Passion" ]
 tags = [ "amour", "2002", "acrostiche" ]
 acrostiche = "Cœurs amants"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

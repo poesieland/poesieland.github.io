@@ -7,7 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2004", "versVariable"]
 info = "Vers variable : 5, 7, 5"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au bord de l'asphalte

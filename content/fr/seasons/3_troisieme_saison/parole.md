@@ -6,7 +6,7 @@ weight = 50
 categories = ["Création"]
 tags = ["philosophie", "1997"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lueurs fantômes,

@@ -7,7 +7,7 @@ categories = ["Eté", "Mouvement"]
 tags = ["saisons", "attitudes", "2024"]
 info = "Reprise modifiée des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/j_aime_te_voir)"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'aime souvent marcher

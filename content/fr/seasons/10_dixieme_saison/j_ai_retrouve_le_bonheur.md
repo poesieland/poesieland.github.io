@@ -6,7 +6,7 @@ weight = 43
 categories = ["Espoir"]
 tags = ["philosophie", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "J'ai retrouvé | le bonheur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

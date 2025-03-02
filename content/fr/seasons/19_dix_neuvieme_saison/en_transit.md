@@ -6,7 +6,7 @@ weight = 43
 categories = [ "Angoisse" ]
 tags = [ "philosophie", "2024" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les mains qui donnent, qui reprennent

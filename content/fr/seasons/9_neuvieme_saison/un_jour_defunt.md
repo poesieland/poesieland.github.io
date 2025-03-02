@@ -6,7 +6,7 @@ weight = 7
 categories = ["Automne", "Flore"]
 tags = ["saisons", "nature", "1998", "acrostiche"]
 acrostiche = "Un jour né déjà mort"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

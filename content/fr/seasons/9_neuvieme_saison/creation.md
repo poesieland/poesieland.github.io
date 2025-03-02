@@ -6,7 +6,7 @@ weight = 26
 categories = [ "Création", "Musique et chant" ]
 tags = [ "philosophie", "1998", "acrostiche" ]
 acrostiche = "Les mots venus"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

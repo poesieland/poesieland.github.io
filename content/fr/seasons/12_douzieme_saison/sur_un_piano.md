@@ -6,7 +6,7 @@ weight = 41
 categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Sur un piano"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

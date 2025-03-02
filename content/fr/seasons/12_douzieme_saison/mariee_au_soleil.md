@@ -7,7 +7,7 @@ categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche", "sonnet"]
 poemType = "sonnet"
 acrostiche = "Mariée au soleil"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

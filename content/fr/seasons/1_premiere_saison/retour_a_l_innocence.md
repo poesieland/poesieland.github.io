@@ -6,7 +6,7 @@ weight = 12
 categories = ["Neige", "Enfance et adolescence"]
 tags = ["nature", "philosophie", "1996"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tantôt de gros flocons

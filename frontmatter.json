@@ -521,7 +521,7 @@
           "title": "LastModifierDisplayName",
           "name": "LastModifierDisplayName",
           "type": "string",
-          "default": "Barbara Post",
+          "default": "Barbara Post - Licence CC BY-NC-ND 4.0",
           "required": true
         }
       ]
@@ -532,12 +532,16 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "EN poems 2024",
-      "path": "[[workspace]]/content/en/original_texts/2024"
+      "title": "25_vingt_cinquieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/25_vingt_cinquieme_saison"
     },
     {
       "title": "24_vingt_quatrieme_saison",
       "path": "[[workspace]]/content/fr/seasons/24_vingt_quatrieme_saison"
+    },
+    {
+      "title": "EN poems 2024",
+      "path": "[[workspace]]/content/en/original_texts/2024"
     },
     {
       "title": "23_vingt_troisieme_saison",
@@ -641,5 +645,7 @@
   "frontMatter.taxonomy.seoTitleLength": -1,
   "frontMatter.extends": [
     "./themes/hugo-theme-relearn/vscode-frontmatter/snippets.en.json"
-  ]
+  ],
+  "frontMatter.file.preserveCasing": true,
+  "frontMatter.snippets.wrapper.enabled": false
 }

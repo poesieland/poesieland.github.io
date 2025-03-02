@@ -5,7 +5,7 @@ date = 1998-01-11
 weight = 47
 categories = ["Nuit"]
 tags = ["ombres et lumières", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

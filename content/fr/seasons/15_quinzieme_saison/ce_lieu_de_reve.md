@@ -6,7 +6,7 @@ weight = 17
 categories = ["Etre", "Eau douce"]
 tags = ["philosophie", "nature", "2001", "acrostiche"]
 acrostiche = "Ce lieu de rêve"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 22
 categories = [ "Faune" ]
 tags = [ "1996", "nature", "lovecat" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et tantôt un appel du doux creux de tes flancs

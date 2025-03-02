@@ -6,7 +6,7 @@ weight = 50
 categories = ["Création", "Musique et chant"]
 tags = ["philosophie", "attitudes", "1998", "acrostiche"]
 acrostiche = "L'un, l'autre, moi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
 +++
 

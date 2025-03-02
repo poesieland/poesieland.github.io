@@ -6,7 +6,7 @@ weight = 23
 categories = [ "Portraits", "Ville", "Enfance et adolescence" ]
 tags = [ "ombres et lumières", "philosophie", "1999", "acrostiche" ]
 acrostiche = "A la fenêtre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 location = [ "Paris" ]
 +++

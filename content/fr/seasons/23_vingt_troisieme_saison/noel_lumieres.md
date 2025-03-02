@@ -19,7 +19,7 @@ pictures: []
 poemType: ""
 acrostiche: "Noël : lumières"
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Noël a chanté sur le toit,
 

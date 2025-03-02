@@ -6,7 +6,7 @@ weight = 4
 categories = ["Etre"]
 tags = ["philosophie", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'écoute un coeur qui bat tout bas,

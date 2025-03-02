@@ -6,7 +6,7 @@ weight = 11
 categories = ["Printemps"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "O printemps si beau"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

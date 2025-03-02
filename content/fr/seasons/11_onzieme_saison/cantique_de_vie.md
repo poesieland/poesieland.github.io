@@ -7,7 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Ton cantique donne la vie\" en italien."
 acrostiche = "Il tuo cantico da la vita"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -11,7 +11,7 @@ Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
 {{% /notice %}}"""
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tous les vieux arbres ont des fleurs

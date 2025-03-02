@@ -6,7 +6,7 @@ weight = 13
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1997" ]
 verseLength = 3
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dis, mon cœur,

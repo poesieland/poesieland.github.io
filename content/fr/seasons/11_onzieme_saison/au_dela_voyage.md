@@ -6,7 +6,7 @@ weight = 8
 categories = ["Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Au-delà : voyage"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

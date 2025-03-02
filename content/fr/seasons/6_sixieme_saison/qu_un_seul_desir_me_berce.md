@@ -6,7 +6,7 @@ weight = 32
 categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Qu'un seul désir me berce"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

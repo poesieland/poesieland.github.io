@@ -6,7 +6,7 @@ weight = 13
 categories = ["Etre"]
 tags = ["philosophie", "1998"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le plus beau geste c'est donner,

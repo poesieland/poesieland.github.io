@@ -6,7 +6,7 @@ weight = 29
 categories = [ "Mer", "Foi" ]
 tags = [ "1995", "nature", "philosophie", "versVariable" ]
 info = "Vers variable : poème en prose"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
 +++
 

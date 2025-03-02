@@ -6,7 +6,7 @@ weight = 47
 categories = [ "Musique et chant", "Angoisse" ]
 tags = [ "attitudes", "philosophie", "1998", "acrostiche" ]
 acrostiche = "Je ne sais plus"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

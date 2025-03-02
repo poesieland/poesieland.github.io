@@ -6,7 +6,7 @@ weight = 13
 categories = ["Enfance et adolescence", "Temps"]
 tags = ["philosophie", "1998"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 On a repeint jaune

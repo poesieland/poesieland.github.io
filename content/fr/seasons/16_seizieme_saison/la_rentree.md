@@ -6,7 +6,7 @@ weight = 43
 categories = ["Enfance et adolescence", "Temps", "Automne"]
 tags = ["philosophie", "saisons", "2004"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Bientôt le jour des écoliers :

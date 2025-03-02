@@ -6,7 +6,7 @@ weight = 22
 categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 acrostiche = "Le soir tendre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

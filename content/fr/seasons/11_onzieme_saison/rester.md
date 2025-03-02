@@ -7,7 +7,7 @@ categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Tu es beau\" en italien."
 acrostiche = "Tu sei bello"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

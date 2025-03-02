@@ -2,7 +2,7 @@
 title = "Window"
 date = 2001-09-11
 weight = 10
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "window_15"
 categories = [ "Being" ]
 +++

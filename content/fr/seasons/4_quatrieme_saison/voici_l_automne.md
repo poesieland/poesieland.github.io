@@ -5,7 +5,7 @@ date = 1997-09-03
 weight = 9
 categories = [ "Automne" ]
 tags = [ "1997", "saisons", "versVariable" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
 info = "Vers variable : 6, 8"
 +++

@@ -6,7 +6,7 @@ weight = 42
 categories = ["Révolte"]
 tags = ["philosophie", "1996"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'oiseau s'enfuit, l'oiseleur vole,

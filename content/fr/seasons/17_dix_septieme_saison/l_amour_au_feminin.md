@@ -6,7 +6,7 @@ weight = 12
 categories = ["Espoir"]
 tags = ["philosophie", "2005"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tout l'amour d'une mère

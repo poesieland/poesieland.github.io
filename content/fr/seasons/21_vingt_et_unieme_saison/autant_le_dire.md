@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: Autant le dire
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Autant le dire au monde entier :
 

@@ -6,7 +6,7 @@ weight = 8
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1996" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il pleure dans mon cœur comme il pleut sur ton corps

@@ -6,7 +6,7 @@ weight = 38
 categories = [ "Ciel", "Mouvement", "Climat" ]
 tags = [ "nature", "attitudes", "2024" ]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le vent sans fin

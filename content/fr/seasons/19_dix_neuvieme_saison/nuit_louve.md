@@ -6,7 +6,7 @@ weight = 35
 categories = ["Nuit", "Faune"]
 tags = ["ombres et lumières", "nature", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sens l'odeur de la nuit,

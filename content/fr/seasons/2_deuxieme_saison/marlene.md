@@ -6,7 +6,7 @@ weight = 8
 categories = ["Portraits"]
 tags = ["philosophie", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Es-tu blonde, es-tu brune ? Oui mais ton nom Marlène,

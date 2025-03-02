@@ -6,7 +6,7 @@ weight = 34
 categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Tu me consoles"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

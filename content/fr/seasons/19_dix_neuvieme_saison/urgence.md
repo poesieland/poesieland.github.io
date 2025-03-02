@@ -7,7 +7,7 @@ categories = [ "Angoisse", "Temps", "Climat" ]
 tags = [ "2024", "philosophie", "versVariable", "nature" ]
 info = "Vers variable : 5, 2"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le temps qui nous reste

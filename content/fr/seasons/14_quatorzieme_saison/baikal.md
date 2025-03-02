@@ -6,7 +6,7 @@ weight = 15
 categories = [ "Eau douce" ]
 tags = [ "nature", "2000", "acrostiche" ]
 acrostiche = "Baïkal"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 location = [ "Où je n'ai pas été" ]
 +++

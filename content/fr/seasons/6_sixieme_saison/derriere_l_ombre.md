@@ -6,7 +6,7 @@ weight = 50
 categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Derrière l'ombre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

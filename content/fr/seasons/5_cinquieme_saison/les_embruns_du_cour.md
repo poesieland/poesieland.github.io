@@ -5,7 +5,7 @@ date = 1997-11-21
 weight = 19
 categories = [ "Passion" ]
 tags = [ "1997", "amour", "versVariable" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
 info = "Vers variable : 6, 2"
 +++

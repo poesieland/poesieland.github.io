@@ -5,7 +5,7 @@ date = 1998-05-18
 weight = 25
 categories = ["Amitié"]
 tags = ["amour", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

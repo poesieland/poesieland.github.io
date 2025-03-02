@@ -7,7 +7,7 @@ categories = ["Automne", "Mer", "Foi"]
 tags = ["saisons", "nature", "philosophie", "1999", "acrostiche"]
 info = "\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversément."
 acrostiche = "Cresce d'autunno"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 49
 categories = [ "Neige", "Passion" ]
 tags = [ "amour", "nature", "2001", "acrostiche" ]
 acrostiche = "Et s'il neigeait sur..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

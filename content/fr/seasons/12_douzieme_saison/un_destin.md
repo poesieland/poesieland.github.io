@@ -7,7 +7,7 @@ categories = ["Création", "Portraits"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

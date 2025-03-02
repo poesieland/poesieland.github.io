@@ -6,7 +6,7 @@ weight = 32
 categories = ["Ciel", "Mer"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Rêve bleu"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

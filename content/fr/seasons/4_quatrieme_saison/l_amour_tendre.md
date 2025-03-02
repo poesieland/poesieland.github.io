@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1997", "acrostiche"]
 acrostiche = "L'amour tendre"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel est plein d'étoiles

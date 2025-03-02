@@ -6,7 +6,7 @@ weight = 29
 categories = ["Flore"]
 tags = ["nature", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Embaume mon jardin jusqu'à la Canebière,

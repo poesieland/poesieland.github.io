@@ -7,7 +7,7 @@ categories = ["Aube", "Etre"]
 tags = ["ombres et lumières", "philosophie", "2004", "acrostiche"]
 acrostiche = "Berceau matin"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Beauté d'un monde frêle éclos en ce matin

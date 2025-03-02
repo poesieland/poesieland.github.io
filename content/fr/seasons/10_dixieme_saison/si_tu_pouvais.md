@@ -5,7 +5,7 @@ date = 1999-03-03
 weight = 45
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1999" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

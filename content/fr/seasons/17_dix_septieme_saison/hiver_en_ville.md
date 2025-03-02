@@ -6,7 +6,7 @@ weight = 13
 categories = [ "Ville", "Hiver" ]
 tags = [ "ombres et lumières", "saisons", "2005" ]
 verseLength = 9
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Bordeaux" ]
 +++
 

@@ -7,7 +7,7 @@ categories = [ "Mouvement", "Amour platonique" ]
 tags = [ "amour", "attitudes", "1997", "acrostiche" ]
 acrostiche = "A trop tourner"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A trop tourner le cœur défaille,

@@ -6,7 +6,7 @@ weight = 34
 categories = ["Temps"]
 tags = ["philosophie", "1997"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Homme, ne vois-tu pas qu'après la multitude

@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: "On reparle : automne"
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 
 On reparle de lui bientôt,

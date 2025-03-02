@@ -6,7 +6,7 @@ weight = 6
 categories = ["Nuit"]
 tags = ["ombres et lumières", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tournoyer dans le ciel

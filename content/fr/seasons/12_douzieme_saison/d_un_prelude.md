@@ -6,7 +6,7 @@ weight = 14
 categories = ["Musique et chant", "Création"]
 tags = ["attitudes", "philosophie", "1999", "acrostiche"]
 acrostiche = "D'un prélude"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 41
 categories = ["Faune"]
 tags = ["nature", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La plume a tournoyé

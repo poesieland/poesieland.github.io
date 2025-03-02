@@ -6,7 +6,7 @@ weight = 15
 categories = ["Automne", "Etre"]
 tags = ["saisons", "philosophie", "2003", "acrostiche"]
 acrostiche = "Trêve du coeur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

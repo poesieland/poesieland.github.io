@@ -18,7 +18,7 @@ pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Fais ta prière au monde, il cherche à s'apaiser
 

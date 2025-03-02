@@ -6,7 +6,7 @@ weight = 14
 categories = ["Printemps"]
 tags = ["saisons", "2024"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le brun s'efface,

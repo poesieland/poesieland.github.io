@@ -7,7 +7,7 @@ categories = ["Jardin et paysage", "Ciel"]
 tags = ["nature", "2001", "acrostiche"]
 info = "Les Alpes..."
 acrostiche = "Sérénité"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -5,7 +5,7 @@ date = 2004-04-28
 weight = 28
 categories = ["Jardin et paysage", "Musique et chant"]
 tags = ["nature", "attitudes", "2004"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

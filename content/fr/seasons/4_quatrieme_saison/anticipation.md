@@ -6,7 +6,7 @@ weight = 2
 categories = ["Eté", "Amitié"]
 tags = ["saisons", "amour", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En sa candeur native :

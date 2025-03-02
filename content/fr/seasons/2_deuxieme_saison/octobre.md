@@ -6,7 +6,7 @@ weight = 17
 categories = ["Automne"]
 tags = ["saisons", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Octobre qui s'avance emporte mon espoir

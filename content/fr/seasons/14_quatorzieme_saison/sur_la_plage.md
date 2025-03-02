@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "2001", "acrostiche"]
 info = "D'après un rêve."
 acrostiche = "Sur la plage"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

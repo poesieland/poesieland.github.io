@@ -6,7 +6,7 @@ weight = 26
 categories = [ "Ciel", "Foi", "Climat" ]
 tags = [ "nature", "philosophie", "2024" ]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je te salue, astre,

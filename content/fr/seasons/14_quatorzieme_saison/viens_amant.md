@@ -6,7 +6,7 @@ weight = 36
 categories = [ "Toucher", "Passion" ]
 tags = [ "amour", "attitudes", "2001", "acrostiche" ]
 acrostiche = "Viens en moi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

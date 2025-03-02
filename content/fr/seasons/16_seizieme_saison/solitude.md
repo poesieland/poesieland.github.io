@@ -6,7 +6,7 @@ weight = 19
 categories = ["Lune", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2003", "acrostiche"]
 acrostiche = "Solitude"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

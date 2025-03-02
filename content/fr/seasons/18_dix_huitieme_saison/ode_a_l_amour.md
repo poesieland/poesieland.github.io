@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "2023", "acrostiche"]
 acrostiche = "L'amor ti vieta"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'amour ne t'interdit que de ne pas aimer,

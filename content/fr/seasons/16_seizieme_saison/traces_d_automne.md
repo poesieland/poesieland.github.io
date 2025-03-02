@@ -6,7 +6,7 @@ weight = 47
 categories = [ "Automne", "Nuit", "Angoisse" ]
 tags = [ "saisons", "ombres et lumières", "philosophie", "2004" ]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Brouillard dans la nuit

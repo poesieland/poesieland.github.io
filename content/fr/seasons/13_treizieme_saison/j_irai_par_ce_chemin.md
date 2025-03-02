@@ -6,7 +6,7 @@ weight = 7
 categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "J'irai par ce chemin"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

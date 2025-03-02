@@ -6,7 +6,7 @@ weight = 47
 categories = ["Révolte"]
 tags = ["philosophie", "1994"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand les monstres d'orgueil aux tragiques visages

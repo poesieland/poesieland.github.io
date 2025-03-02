@@ -5,7 +5,7 @@ date = 1998-05-12
 weight = 9
 categories = [ "Apprentissage", "Portraits" ]
 tags = [ "philosophie", "1998" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

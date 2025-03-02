@@ -7,7 +7,7 @@ categories = ["Amitié"]
 tags = ["amour", "1997", "acrostiche"]
 acrostiche = "Amitié"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Auprès de toi mon cœur

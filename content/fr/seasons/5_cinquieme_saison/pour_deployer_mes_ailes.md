@@ -7,7 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1997", "acrostiche"]
 acrostiche = "Pour déployer mes ailes"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pour déployer mes ailes,

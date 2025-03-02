@@ -10,7 +10,7 @@ info = """
 
 Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons)."""
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je te promets la vie à la vie à la mort,

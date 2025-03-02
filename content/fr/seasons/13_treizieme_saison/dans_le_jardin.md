@@ -7,7 +7,7 @@ categories = [ "Jardin et paysage", "Automne" ]
 tags = [ "nature", "saisons", "1999", "acrostiche" ]
 info = "Le parc Kellerman, à Paris."
 acrostiche = "Dans le jardin"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 location = [ "Paris" ]
 +++

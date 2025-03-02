@@ -2,7 +2,7 @@
 title = "To the inner"
 date = 2005-04-04
 weight = 14
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "to_the_inner_17"
 categories = [ "Learning", "Time" ]
 +++

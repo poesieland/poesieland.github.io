@@ -6,7 +6,7 @@ weight = 33
 categories = ["Portraits"]
 tags = ["philosophie", "2024"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 "Qu'importe le flacon, pourvu qu'on ait l'ivrese"

@@ -6,7 +6,7 @@ weight = 33
 categories = [ "Aube" ]
 tags = [ "ombres et lumières", "1996" ]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = """
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...

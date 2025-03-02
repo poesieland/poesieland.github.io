@@ -6,7 +6,7 @@ weight = 31
 categories = ["Aube", "Crépuscule"]
 tags = ["ombres et lumières", "1996"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La vie est belle

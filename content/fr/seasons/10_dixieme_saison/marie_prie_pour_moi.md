@@ -6,7 +6,7 @@ weight = 2
 categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Marie, prie pour moi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

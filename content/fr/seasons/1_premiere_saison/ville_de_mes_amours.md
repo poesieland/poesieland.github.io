@@ -6,7 +6,7 @@ weight = 5
 categories = [ "Ville", "Amour platonique" ]
 tags = [ "amour", "ombres et lumières", "1996" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Spectateur infini du monde de la ville

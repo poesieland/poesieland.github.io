@@ -6,7 +6,7 @@ weight = 4
 categories = [ "Toucher", "Passion" ]
 tags = [ "attitudes", "amour", "2002", "acrostiche" ]
 acrostiche = "Ta bouche"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

@@ -6,7 +6,7 @@ weight = 31
 categories = ["Etre", "Ciel"]
 tags = ["philosophie", "nature", "1999", "acrostiche"]
 acrostiche = "Onirique"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

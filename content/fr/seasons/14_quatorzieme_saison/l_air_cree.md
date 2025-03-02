@@ -6,7 +6,7 @@ weight = 31
 categories = ["Flore"]
 tags = ["nature", "2000", "doubleAcrostiche"]
 doubleAcrostiche = "L'air | créé"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

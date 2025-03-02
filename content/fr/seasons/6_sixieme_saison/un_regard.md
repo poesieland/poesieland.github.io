@@ -6,7 +6,7 @@ weight = 28
 categories = ["Amitié"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Un regard"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

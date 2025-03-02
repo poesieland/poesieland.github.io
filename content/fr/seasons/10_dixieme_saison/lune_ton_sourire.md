@@ -8,7 +8,7 @@ tags = ["ombres et lumières", "1999", "acrostiche", "versVariable"]
 info = "Vers variable : 5, 8"
 acrostiche = "Lune, ton sourire"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lune, ton sourire,

@@ -6,7 +6,7 @@ weight = 11
 categories = ["Création"]
 tags = ["philosophie", "1996"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pourquoi chanter les vers ?

@@ -12,7 +12,7 @@ Dernier poème de mon recueil En six lettres : t'aimer.
 
 [Lire le première poème...](../../5_cinquieme_saison/le_depart_de_l_amant)
 """
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 acrostiche = "Andrea Andrea"
 +++

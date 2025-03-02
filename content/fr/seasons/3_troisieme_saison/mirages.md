@@ -6,7 +6,7 @@ weight = 36
 categories = ["Etre"]
 tags = ["philosophie", "1997"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mon prénom feule comme un grincement de porte

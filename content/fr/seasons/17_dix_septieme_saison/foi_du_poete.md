@@ -6,7 +6,7 @@ weight = 2
 categories = ["Espoir", "Création"]
 tags = ["philosophie", "2004"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je veux rêver le monde

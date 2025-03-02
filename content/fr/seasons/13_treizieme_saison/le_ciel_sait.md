@@ -6,7 +6,7 @@ weight = 33
 categories = ["Ciel", "Crépuscule"]
 tags = ["nature", "ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Le ciel sait"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

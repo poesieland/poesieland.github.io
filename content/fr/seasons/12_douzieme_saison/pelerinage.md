@@ -6,7 +6,7 @@ weight = 13
 categories = [ "Foi" ]
 tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "Bijou sacre unions"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 location = [ "Reims" ]
 +++

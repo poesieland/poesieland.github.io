@@ -16,7 +16,7 @@ pictures: []
 poemType: ""
 acrostiche: Temps saint
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Trouvés plus bons que nous le commun des mortels,
 

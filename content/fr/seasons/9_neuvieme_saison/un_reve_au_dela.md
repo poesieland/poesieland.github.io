@@ -6,7 +6,7 @@ weight = 40
 categories = ["Nuit", "Temps"]
 tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
 acrostiche = "Un rêve au-delà"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

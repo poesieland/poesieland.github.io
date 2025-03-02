@@ -6,7 +6,7 @@ weight = 9
 categories = ["Aube"]
 tags = ["ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Souffle : matin"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

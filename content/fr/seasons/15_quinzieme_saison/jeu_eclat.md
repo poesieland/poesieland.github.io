@@ -6,7 +6,7 @@ weight = 26
 categories = ["Espoir", "Eté"]
 tags = ["philosophie", "saisons", "2001", "acrostiche"]
 acrostiche = "Jeu - éclat"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

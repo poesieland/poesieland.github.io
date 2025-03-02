@@ -6,7 +6,7 @@ weight = 18
 categories = ["Jardin et paysage", "Nuit"]
 tags = ["nature", "ombres et lumières", "2000", "acrostiche"]
 acrostiche = "Balade du soir"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 1
 categories = ["Nuit", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2004"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La cloche sonne, absente

@@ -6,7 +6,7 @@ weight = 30
 categories = ["Musique et chant", "Mouvement"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Rien n'a changé"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

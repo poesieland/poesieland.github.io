@@ -6,7 +6,7 @@ weight = 26
 categories = ["Neige"]
 tags = ["nature", "1999", "acrostiche"]
 acrostiche = "Quelques flocons..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

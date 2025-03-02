@@ -6,7 +6,7 @@ weight = 19
 categories = [ "Automne", "Angoisse" ]
 tags = [ "saisons", "1996" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lumière inestimable, ô ma saison d'amour,

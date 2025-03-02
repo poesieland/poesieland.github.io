@@ -5,7 +5,7 @@ date = 1998-04-07
 weight = 19
 categories = ["Espoir"]
 tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

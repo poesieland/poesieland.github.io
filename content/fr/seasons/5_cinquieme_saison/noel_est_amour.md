@@ -7,7 +7,7 @@ categories = [ "Foi", "Hiver" ]
 tags = [ "1997", "acrostiche", "saisons", "philosophie" ]
 acrostiche = "Noël est amour"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Nativité, l'espoir du monde

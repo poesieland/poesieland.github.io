@@ -7,7 +7,7 @@ categories = ["Apprentissage"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Comme un premier amour\" en italien."
 acrostiche = "Come un prim'amor"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

@@ -8,7 +8,7 @@ tags = ["philosophie", "nature", "2001", "pantoun", "versVariable"]
 info = "Vers variable : 8, 6"
 poemType = "pantoun"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Belle, a-t-elle donné son âme,

@@ -7,7 +7,7 @@ categories = ["Création", "Temps"]
 tags = ["philosophie", "2000", "acrostiche"]
 info = "\"Quand je serai (moi)\" en italien."
 acrostiche = "Quando sarò io"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
 +++
 

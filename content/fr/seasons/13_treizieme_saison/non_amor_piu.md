@@ -7,7 +7,7 @@ categories = ["Temps", "Flore"]
 tags = ["philosophie", "nature", "1999", "acrostiche"]
 info = "\"(Il n'y a) plus d'amour\" en italien."
 acrostiche = "Non amor più"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -7,7 +7,7 @@ categories = ["Romantisme"]
 tags = ["amour", "1997", "acrostiche"]
 acrostiche = "Mon cœur est libre"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mon cœur est libre de t'aimer

@@ -7,7 +7,7 @@ categories = [ "Portraits", "Passion" ]
 tags = [ "amour", "philosophie", "1994" ]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un bel accord tacite

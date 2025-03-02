@@ -6,7 +6,7 @@ weight = 46
 categories = ["Printemps"]
 tags = ["saisons", "2023"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Parce que tu reviens

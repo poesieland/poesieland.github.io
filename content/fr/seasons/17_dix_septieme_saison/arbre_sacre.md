@@ -6,7 +6,7 @@ weight = 18
 categories = ["Flore", "Printemps"]
 tags = ["nature", "saisons", "2005"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Faire un, sans s'accoupler,

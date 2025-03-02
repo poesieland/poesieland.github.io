@@ -17,7 +17,7 @@ pictures:
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Je fus et je suis lorsque l'ombre s'en vient,
 

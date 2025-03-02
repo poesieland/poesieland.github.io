@@ -6,7 +6,7 @@ weight = 23
 categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Même le sens"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

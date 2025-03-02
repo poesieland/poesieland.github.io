@@ -6,7 +6,7 @@ weight = 44
 categories = ["Création", "Mouvement"]
 tags = ["philosophie", "attitudes", "1999", "acrostiche"]
 acrostiche = "L'artiste"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

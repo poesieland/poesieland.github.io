@@ -6,7 +6,7 @@ weight = 35
 categories = ["Temps"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'ai perdu mon désir"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

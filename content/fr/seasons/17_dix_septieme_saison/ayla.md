@@ -49,7 +49,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 verseLength: 7
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Plus de livres pour les rêves
 

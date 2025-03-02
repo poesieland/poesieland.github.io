@@ -7,7 +7,7 @@ categories = ["Eau douce"]
 tags = ["nature", "2004", "acrostiche"]
 acrostiche = "Sur les toits la pluie"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur les toits l'onde grise

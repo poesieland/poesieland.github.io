@@ -6,7 +6,7 @@ weight = 45
 categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Le masque"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

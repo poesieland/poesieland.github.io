@@ -8,7 +8,7 @@ tags = ["nature", "philosophie", "1999", "acrostiche", "sonnet"]
 info = "\"La neige du rêve\" en italien."
 poemType = "sonnet"
 acrostiche = "La neve del sogno"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

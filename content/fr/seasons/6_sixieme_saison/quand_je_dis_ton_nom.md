@@ -6,7 +6,7 @@ weight = 44
 categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Quand je dis ton nom"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

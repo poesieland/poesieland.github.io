@@ -7,7 +7,7 @@ categories = ["Automne"]
 tags = ["saisons", "2024"]
 info = "Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un drôle jour de mai je songeais à l'automne

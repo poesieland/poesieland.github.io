@@ -6,7 +6,7 @@ weight = 38
 categories = [ "Climat", "Printemps", "Révolte", "Angoisse" ]
 tags = [ "2024", "philosophie", "saisons", "nature" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu ne m'as pas laissé le temps

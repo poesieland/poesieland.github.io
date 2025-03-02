@@ -6,7 +6,7 @@ weight = 42
 categories = ["Création", "Lune", "Ciel"]
 tags = ["philosophie", "ombres et lumières", "nature", "1998", "acrostiche"]
 acrostiche = "Le ciel n'est bleu ni gris..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

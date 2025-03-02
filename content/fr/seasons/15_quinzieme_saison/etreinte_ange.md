@@ -6,7 +6,7 @@ weight = 29
 categories = ["Toucher", "Temps"]
 tags = ["attitudes", "philosophie", "2001", "acrostiche"]
 acrostiche = "Etreinte - ange"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

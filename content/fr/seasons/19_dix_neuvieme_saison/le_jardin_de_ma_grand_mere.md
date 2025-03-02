@@ -6,7 +6,7 @@ weight = 3
 categories = ["Enfance et adolescence", "Jardin et paysage"]
 tags = ["philosophie", "nature", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Chez ma grand-mère, en son jardin

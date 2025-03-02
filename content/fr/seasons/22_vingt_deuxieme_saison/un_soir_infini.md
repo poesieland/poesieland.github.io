@@ -20,7 +20,7 @@ pictures:
 poemType: ""
 acrostiche: Un soir infini
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Un souffle d'infini s'élève dans le soir,
 

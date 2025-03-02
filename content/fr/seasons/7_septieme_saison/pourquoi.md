@@ -6,7 +6,7 @@ weight = 44
 categories = ["Révolte"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Pourquoi ?"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

@@ -7,7 +7,7 @@ categories = [ "Portraits", "Romantisme" ]
 tags = [ "2024", "philosophie", "amour" ]
 info = "Dans ce poème se cachent un surnom et un prénom"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je revois ce bonheur, une main sur le ventre

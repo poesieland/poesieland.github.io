@@ -6,7 +6,7 @@ weight = 6
 categories = ["Ciel"]
 tags = ["nature", "2001", "acrostiche"]
 acrostiche = "Ballet du ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

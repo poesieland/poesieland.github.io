@@ -6,7 +6,7 @@ weight = 9
 categories = [ "Création", "Passion" ]
 tags = [ "amour", "philosophie", "1998", "acrostiche" ]
 acrostiche = "D'aimer l'envie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

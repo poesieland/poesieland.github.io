@@ -7,7 +7,7 @@ categories = ["Romantisme", "Lune"]
 tags = ["amour", "ombres et lumières", "1997", "acrostiche"]
 acrostiche = "Lune amante"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lune amante des nuits

@@ -6,7 +6,7 @@ weight = 44
 categories = ["Lune"]
 tags = ["ombres et lumières", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Chercher la tiédeur de la lune,

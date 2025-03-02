@@ -6,7 +6,7 @@ weight = 34
 categories = ["Temps", "Automne"]
 tags = ["philosophie", "saisons", "2000", "acrostiche"]
 acrostiche = "Dire à l'oublié"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
 +++
 

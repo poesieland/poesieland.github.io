@@ -6,7 +6,7 @@ weight = 46
 categories = ["Faune", "Révolte"]
 tags = ["nature", "philosophie", "2024"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La génisse pastorale

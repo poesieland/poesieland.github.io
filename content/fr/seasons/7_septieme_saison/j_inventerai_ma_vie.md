@@ -6,7 +6,7 @@ weight = 26
 categories = ["Espoir"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "J'inventerai ma vie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

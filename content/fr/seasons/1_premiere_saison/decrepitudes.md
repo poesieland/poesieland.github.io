@@ -6,7 +6,7 @@ weight = 45
 categories = [ "Révolte", "Angoisse" ]
 tags = [ "philosophie", "1994" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Même si l'on voulut que n'adviennent ces faits,

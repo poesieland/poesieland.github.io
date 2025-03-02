@@ -6,7 +6,7 @@ weight = 6
 categories = ["Flore", "Foi"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Si les roses fanent"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

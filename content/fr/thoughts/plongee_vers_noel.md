@@ -1,7 +1,7 @@
 +++
 title = "Noël..."
 date = 2024-11-17
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 ### 🎄🎀 Plongée vers Noël 🎀🎄
 

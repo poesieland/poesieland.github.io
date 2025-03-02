@@ -6,7 +6,7 @@ weight = 43
 categories = [ "Automne", "Angoisse" ]
 tags = [ "philosophie", "saisons", "2001", "acrostiche" ]
 acrostiche = "Case départ"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

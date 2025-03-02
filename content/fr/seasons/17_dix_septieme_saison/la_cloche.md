@@ -9,7 +9,7 @@ info = "Pour célébrer un joli anniversaire de ma maman"
 pictures = ["Là où tu passas ta jeunesse (photo de 2005)"]
 poemType = "sonnet"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le matin frissonne, entends-tu

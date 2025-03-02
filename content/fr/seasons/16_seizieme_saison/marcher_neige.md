@@ -6,7 +6,7 @@ weight = 8
 categories = ["Neige", "Ville"]
 tags = ["nature", "ombres et lumières", "2003", "acrostiche"]
 acrostiche = "Marcher : neige"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

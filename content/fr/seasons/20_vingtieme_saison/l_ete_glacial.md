@@ -7,7 +7,7 @@ categories = [ "Automne", "Eté", "Climat" ]
 tags = [ "2024", "saisons", "nature" ]
 info = "Reprise des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/est_ce_un_automne) en modifiant cependant le premier vers. Voir aussi la [reprise de la dix-huitième saison](../18_dix_huitieme_saison/saisons)"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Est-ce un automne comme avant

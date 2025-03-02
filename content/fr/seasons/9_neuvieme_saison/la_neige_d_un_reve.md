@@ -7,7 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "1998", "acrostiche", "sonnet"]
 poemType = "sonnet"
 acrostiche = "La neige d'un rêve"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

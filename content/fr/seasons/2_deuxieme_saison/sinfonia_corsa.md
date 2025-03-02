@@ -7,7 +7,7 @@ categories = [ "Révolte" ]
 tags = [ "philosophie", "1996", "sonnet" ]
 poemType = "sonnet"
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Où je n'ai pas été" ]
 +++
 

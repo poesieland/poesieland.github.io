@@ -6,7 +6,7 @@ weight = 29
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1999", "acrostiche" ]
 acrostiche = "Je t'offre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

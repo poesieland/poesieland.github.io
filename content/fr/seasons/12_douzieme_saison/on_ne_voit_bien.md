@@ -6,7 +6,7 @@ weight = 24
 categories = ["Apprentissage"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "On ne voit bien..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

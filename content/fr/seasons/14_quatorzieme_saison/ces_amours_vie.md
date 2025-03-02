@@ -6,7 +6,7 @@ weight = 38
 categories = ["Mouvement"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Ces amours, vie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

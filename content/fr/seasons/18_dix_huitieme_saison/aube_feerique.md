@@ -6,7 +6,7 @@ weight = 3
 categories = [ "Aube" ]
 tags = [ "ombres et lumières", "2023" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Charleroi" ]
 +++
 

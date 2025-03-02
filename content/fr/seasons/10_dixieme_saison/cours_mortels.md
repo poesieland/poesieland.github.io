@@ -7,7 +7,7 @@ categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 info = "\"Quand le jour sera nôtre\" en italien."
 acrostiche = "Quando il giorno sarà nostro"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

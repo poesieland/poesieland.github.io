@@ -6,7 +6,7 @@ weight = 46
 categories = ["Aube", "Etre", "Jardin et paysage", "Automne"]
 tags = ["ombres et lumières", "philosophie", "nature", "saisons", "2004"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur le bleu presque noir de mes matins d'automne

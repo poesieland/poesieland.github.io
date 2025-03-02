@@ -5,7 +5,7 @@ date = 2001-06-29
 weight = 10
 categories = [ "Temps", "Ville", "Apprentissage" ]
 tags = [ "ombres et lumières", "philosophie", "2001" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

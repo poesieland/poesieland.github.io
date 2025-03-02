@@ -6,7 +6,7 @@ weight = 27
 categories = ["Etre"]
 tags = ["philosophie", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le monde est toujours là !

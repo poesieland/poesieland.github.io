@@ -6,7 +6,7 @@ weight = 12
 categories = ["Amitié", "Etre"]
 tags = ["amour", "philosophie", "1998"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si j'ai du sable au fond du cœur

@@ -6,7 +6,7 @@ weight = 18
 categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Amant d'hier, de demain"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

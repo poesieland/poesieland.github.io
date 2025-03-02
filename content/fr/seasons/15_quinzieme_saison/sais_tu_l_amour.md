@@ -6,7 +6,7 @@ weight = 27
 categories = [ "Etre" ]
 tags = [ "2001", "acrostiche", "philosophie", "versVariable" ]
 acrostiche = "Sais-tu l'amour..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
 info = "Vers variable : 7, 9."
 +++

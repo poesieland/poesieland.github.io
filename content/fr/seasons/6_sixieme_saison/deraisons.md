@@ -5,7 +5,7 @@ date = 1998-03-14
 weight = 16
 categories = ["Révolte"]
 tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

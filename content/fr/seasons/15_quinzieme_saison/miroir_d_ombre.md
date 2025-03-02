@@ -7,7 +7,7 @@ categories = ["Etre"]
 tags = ["philosophie", "2001", "acrostiche"]
 info = "En mémoire des attentats du 11.09.2001."
 acrostiche = "Miroir d'ombre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 Miroir gris retourné sous son voile de crêpe,

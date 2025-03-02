@@ -6,7 +6,7 @@ weight = 24
 categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Correspondance"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
 +++
 

@@ -17,7 +17,7 @@ pictures: []
 poemType: ""
 acrostiche: L'attente
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 L'automne n'est pas encor prêt
 

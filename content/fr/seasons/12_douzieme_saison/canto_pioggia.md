@@ -7,7 +7,7 @@ categories = ["Eau douce", "Jardin et paysage"]
 tags = ["nature", "1999", "acrostiche"]
 info = "\"Chant, pluie\" en italien."
 acrostiche = "Canto, pioggia"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

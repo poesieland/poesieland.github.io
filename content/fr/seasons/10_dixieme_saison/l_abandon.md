@@ -6,7 +6,7 @@ weight = 40
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1999", "acrostiche" ]
 acrostiche = "L'abandon"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

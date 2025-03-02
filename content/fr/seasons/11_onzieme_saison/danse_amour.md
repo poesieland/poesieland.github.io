@@ -6,7 +6,7 @@ weight = 11
 categories = [ "Mouvement", "Passion" ]
 tags = [ "attitudes", "amour", "1999", "acrostiche" ]
 acrostiche = "Danse, amour"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

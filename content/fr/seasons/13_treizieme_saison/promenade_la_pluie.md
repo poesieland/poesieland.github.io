@@ -6,7 +6,7 @@ weight = 15
 categories = ["Jardin et paysage"]
 tags = ["nature", "1999", "doubleAcrostiche"]
 doubleAcrostiche = "Promenade | la pluie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

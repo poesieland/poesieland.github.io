@@ -6,7 +6,7 @@ weight = 29
 categories = ["Crépuscule", "Musique et chant"]
 tags = ["ombres et lumières", "attitudes", "1998", "acrostiche"]
 acrostiche = "Dis l'aube au crépuscule"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

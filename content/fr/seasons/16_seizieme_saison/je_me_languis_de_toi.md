@@ -6,7 +6,7 @@ weight = 12
 categories = [ "Amour platonique" ]
 tags = [ "amour", "2003", "acrostiche" ]
 acrostiche = "Je me languis de toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

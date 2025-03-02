@@ -7,7 +7,7 @@ categories = [ "Faune" ]
 tags = [ "1999", "acrostiche", "nature", "lovecat" ]
 acrostiche = "Mon chat préféré"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mon chat se love et se tortille

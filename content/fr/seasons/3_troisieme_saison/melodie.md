@@ -6,7 +6,7 @@ weight = 48
 categories = ["Musique et chant"]
 tags = ["attitudes", "1997"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'âme s'illumine :

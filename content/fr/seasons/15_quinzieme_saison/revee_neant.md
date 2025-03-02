@@ -6,7 +6,7 @@ weight = 48
 categories = [ "Révolte", "Amour platonique" ]
 tags = [ "amour", "philosophie", "2001", "acrostiche" ]
 acrostiche = "Rêvée, néant"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

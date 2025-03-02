@@ -6,7 +6,7 @@ weight = 18
 categories = ["Lune", "Ville"]
 tags = ["ombres et lumières", "1999", "acrostiche"]
 acrostiche = "Lune citadine"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

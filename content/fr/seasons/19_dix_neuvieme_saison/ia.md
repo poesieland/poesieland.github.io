@@ -6,7 +6,7 @@ weight = 36
 categories = ["Portraits"]
 tags = ["philosophie", "2024"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 D'un poème aux accents bréliens

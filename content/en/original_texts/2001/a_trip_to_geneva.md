@@ -2,7 +2,7 @@
 title = "A trip to Geneva"
 date = 2001-05-10
 weight = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "a_trip_to_geneva_15"
 categories = [ "Being" ]
 location = [ "Alpes" ]

@@ -6,7 +6,7 @@ weight = 7
 categories = [ "Amour platonique" ]
 tags = [ "1998", "amour" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai mis un prisme au fond du cœur

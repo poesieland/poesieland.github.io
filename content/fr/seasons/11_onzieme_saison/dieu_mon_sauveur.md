@@ -6,7 +6,7 @@ weight = 4
 categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Dieu, mon Sauveur !"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

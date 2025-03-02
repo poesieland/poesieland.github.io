@@ -6,7 +6,7 @@ weight = 39
 categories = ["Lune"]
 tags = ["ombres et lumières", "2001", "acrostiche"]
 acrostiche = "Lune joue"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

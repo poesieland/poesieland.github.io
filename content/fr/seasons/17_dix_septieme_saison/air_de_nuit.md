@@ -6,7 +6,7 @@ weight = 4
 categories = ["Apprentissage", "Nuit", "Crépuscule"]
 tags = ["philosophie", "ombres et lumières", "2004"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Là-bas vers l'ouest les mânes

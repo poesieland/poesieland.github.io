@@ -6,7 +6,7 @@ weight = 35
 categories = [ "Flore", "Printemps", "Amour platonique" ]
 tags = [ "nature", "saisons", "amour", "2001", "acrostiche" ]
 acrostiche = "Comme j'aimais"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

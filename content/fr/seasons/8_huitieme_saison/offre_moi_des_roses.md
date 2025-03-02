@@ -6,7 +6,7 @@ weight = 41
 categories = [ "Flore", "Romantisme" ]
 tags = [ "amour", "nature", "1998", "acrostiche" ]
 acrostiche = "Offre-moi des roses"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
 +++
 

@@ -18,7 +18,7 @@ pictures: []
 type: default
 acrostiche: Haut lieu, sainteté
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Hors du temps tu bâtis une simple chapelle
 

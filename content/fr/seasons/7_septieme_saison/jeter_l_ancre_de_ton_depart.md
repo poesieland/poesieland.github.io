@@ -6,7 +6,7 @@ weight = 14
 categories = [ "Mer", "Passion" ]
 tags = [ "amour", "nature", "1998", "acrostiche" ]
 acrostiche = "Jeter l'ancre de ton départ..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

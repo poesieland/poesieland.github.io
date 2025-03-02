@@ -7,7 +7,7 @@ categories = ["Musique et chant", "Eau douce"]
 tags = ["attitudes", "nature", "2005", "acrostiche"]
 acrostiche = "Sur un air, souffles"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur un air d'opéra la pluie

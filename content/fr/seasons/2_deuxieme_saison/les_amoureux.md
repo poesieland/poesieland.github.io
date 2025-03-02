@@ -6,7 +6,7 @@ weight = 7
 categories = ["Romantisme"]
 tags = ["amour", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vous êtes-vous livrés à ce jeu drolatique,

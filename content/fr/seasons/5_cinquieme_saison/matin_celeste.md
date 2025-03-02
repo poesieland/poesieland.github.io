@@ -5,7 +5,7 @@ date = 1997-12-16
 weight = 42
 categories = [ "Aube", "Ciel" ]
 tags = [ "1997", "ombres et lumières", "nature" ]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

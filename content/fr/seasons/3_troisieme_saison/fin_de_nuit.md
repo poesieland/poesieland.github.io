@@ -6,7 +6,7 @@ weight = 10
 categories = ["Nuit", "Création"]
 tags = ["ombres et lumières", "philosophie", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dehors il pleut, larmes d'enfant

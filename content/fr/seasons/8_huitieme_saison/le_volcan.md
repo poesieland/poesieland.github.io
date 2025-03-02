@@ -6,7 +6,7 @@ weight = 25
 categories = ["Apprentissage"]
 tags = ["philosophie", "1998", "acrostiche"]
 acrostiche = "Le volcan"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

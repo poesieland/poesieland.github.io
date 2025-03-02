@@ -7,7 +7,7 @@ categories = [ "Jardin et paysage", "Printemps", "Temps" ]
 tags = [ "nature", "saisons", "philosophie", "2000", "acrostiche" ]
 info = "D'après le parc de Choisy, Paris."
 acrostiche = "L'air : rapsodie"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
 location = [ "Paris" ]
 +++

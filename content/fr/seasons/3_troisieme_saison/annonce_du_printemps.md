@@ -6,7 +6,7 @@ weight = 38
 categories = ["Printemps"]
 tags = ["saisons", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Friselis printaniers

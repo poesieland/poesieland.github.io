@@ -6,7 +6,7 @@ weight = 40
 categories = ["Faune", "Automne"]
 tags = ["nature", "saisons", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand les oiseaux en myriade

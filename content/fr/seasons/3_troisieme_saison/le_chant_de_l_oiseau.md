@@ -6,7 +6,7 @@ weight = 42
 categories = ["Faune"]
 tags = ["nature", "1997"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un merle ce matin chantait tout son espoir :

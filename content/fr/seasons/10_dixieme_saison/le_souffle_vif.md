@@ -6,7 +6,7 @@ weight = 27
 categories = ["Neige", "Hiver"]
 tags = ["nature", "saisons", "1999", "acrostiche"]
 acrostiche = "Le souffle vif"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

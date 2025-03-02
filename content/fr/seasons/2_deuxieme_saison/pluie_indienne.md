@@ -6,7 +6,7 @@ weight = 44
 categories = ["Espoir", "Eau douce"]
 tags = ["philosophie", "nature", "1996"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il pleut. Petit bonheur.

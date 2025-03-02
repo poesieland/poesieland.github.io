@@ -6,7 +6,7 @@ weight = 1
 categories = ["Toucher"]
 tags = ["attitudes", "1998"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mes doigts mis en éveil

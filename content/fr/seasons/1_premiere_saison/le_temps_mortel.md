@@ -6,7 +6,7 @@ weight = 50
 categories = ["Temps"]
 tags = ["philosophie", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sous la lame du temps, invincible bourreau,

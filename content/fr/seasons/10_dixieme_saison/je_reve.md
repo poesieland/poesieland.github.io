@@ -5,7 +5,7 @@ date = 1999-02-18
 weight = 16
 categories = ["Etre", "Aube"]
 tags = ["philosophie", "ombres et lumières", "1999"]
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

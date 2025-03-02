@@ -11,7 +11,7 @@ Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}"""
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans le bleu plus profond de la nuit faite mer

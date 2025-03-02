@@ -7,7 +7,7 @@ categories = ["Temps", "Espoir"]
 tags = ["philosophie", "2024"]
 info = "Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire)"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au dernier rang du cimetière

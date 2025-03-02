@@ -7,7 +7,7 @@ categories = [ "Ciel" ]
 tags = [ "nature", "2001", "acrostiche" ]
 info = "Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m."
 acrostiche = "Au sein du ciel"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 location = [ "Alpes" ]
 +++

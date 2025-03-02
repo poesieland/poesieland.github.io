@@ -6,7 +6,7 @@ weight = 33
 categories = ["Musique et chant", "Mouvement"]
 tags = ["attitudes", "2024"]
 verseLength = 5
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Chante, chante, chante

@@ -6,7 +6,7 @@ weight = 36
 categories = [ "Amour platonique" ]
 tags = [ "amour", "1998", "acrostiche" ]
 acrostiche = "Elle a cru"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

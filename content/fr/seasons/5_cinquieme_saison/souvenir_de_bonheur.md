@@ -6,7 +6,7 @@ weight = 11
 categories = ["Amitié", "Espoir"]
 tags = ["amour", "philosophie", "1997"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Bonheur en souvenir :

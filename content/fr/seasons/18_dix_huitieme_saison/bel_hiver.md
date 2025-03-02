@@ -52,7 +52,7 @@ pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Hiver, mon bel hiver, j'aime ta vacuité 
 

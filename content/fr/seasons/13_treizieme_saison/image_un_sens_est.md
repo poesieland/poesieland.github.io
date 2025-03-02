@@ -6,7 +6,7 @@ weight = 6
 categories = ["Etre"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Image, un sens est"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

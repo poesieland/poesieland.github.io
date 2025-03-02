@@ -6,7 +6,7 @@ weight = 10
 categories = ["Amitié"]
 tags = ["amour", "1996"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme une étoile

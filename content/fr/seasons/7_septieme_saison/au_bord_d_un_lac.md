@@ -6,7 +6,7 @@ weight = 40
 categories = ["Eau douce", "Etre"]
 tags = ["nature", "philosophie", "1998", "acrostiche"]
 acrostiche = "Au bord d'un lac"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

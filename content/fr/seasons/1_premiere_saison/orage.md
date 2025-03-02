@@ -7,7 +7,7 @@ categories = ["Ciel"]
 tags = ["nature", "1996", "sonnet"]
 poemType = "sonnet"
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Immobile en sevrage, attend

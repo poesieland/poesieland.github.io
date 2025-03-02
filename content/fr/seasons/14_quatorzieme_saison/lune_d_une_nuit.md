@@ -6,7 +6,7 @@ weight = 21
 categories = ["Lune"]
 tags = ["ombres et lumières", "2000", "acrostiche"]
 acrostiche = "Amie de la nuit, lune"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

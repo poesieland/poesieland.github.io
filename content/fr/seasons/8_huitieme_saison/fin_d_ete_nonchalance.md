@@ -6,7 +6,7 @@ weight = 33
 categories = ["Automne"]
 tags = ["saisons", "1998", "acrostiche"]
 acrostiche = "Fin d'été, nonchalance"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

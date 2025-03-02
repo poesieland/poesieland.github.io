@@ -7,7 +7,7 @@ categories = ["Crépuscule", "Ciel"]
 tags = ["ombres et lumières", "nature", "2024"]
 pictures = ["Le 05.03.2024 à 18h23", "Le 05.03.2024 à 18h26"]
 verseLength = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le jour percole

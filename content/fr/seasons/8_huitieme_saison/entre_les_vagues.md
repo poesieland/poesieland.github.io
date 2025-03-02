@@ -6,7 +6,7 @@ weight = 31
 categories = ["Sommeil", "Mer", "Musique et chant"]
 tags = ["attitudes", "nature", "1998", "acrostiche"]
 acrostiche = "Entre les vagues"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

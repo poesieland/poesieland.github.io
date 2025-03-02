@@ -8,7 +8,7 @@ tags = ["philosophie", "2024"]
 info = "Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres)"
 pictures = ["Ma première découverte des tulipes", "Ma maison verte"]
 verseLength = 7
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 On a repeint jaune beurre

@@ -6,7 +6,7 @@ weight = 7
 categories = [ "Sommeil", "Romantisme" ]
 tags = [ "amour", "attitudes", "2002", "acrostiche" ]
 acrostiche = "Si tu dors"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

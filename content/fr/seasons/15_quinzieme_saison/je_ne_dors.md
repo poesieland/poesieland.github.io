@@ -6,7 +6,7 @@ weight = 20
 categories = ["Sommeil"]
 tags = ["attitudes", "2001", "acrostiche"]
 acrostiche = "Je ne dors"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

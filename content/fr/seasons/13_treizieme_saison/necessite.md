@@ -8,7 +8,7 @@ tags = ["philosophie", "1999", "acrostiche", "versVariable"]
 info = "Vers variable : 8, 6. \"Il y a tant de temps\" en italien."
 acrostiche = "Quanto tempo è"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand je ne saurai plus si vivre

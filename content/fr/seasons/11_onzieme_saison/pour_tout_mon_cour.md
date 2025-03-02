@@ -6,7 +6,7 @@ weight = 9
 categories = ["Musique et chant"]
 tags = ["attitudes", "1999", "acrostiche"]
 acrostiche = "Pour tout mon cœur"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

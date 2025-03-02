@@ -7,7 +7,7 @@ categories = [ "Passion" ]
 tags = [ "amour", "1997", "acrostiche" ]
 acrostiche = "La fièvre de t'aimer"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La fièvre de t'aimer,

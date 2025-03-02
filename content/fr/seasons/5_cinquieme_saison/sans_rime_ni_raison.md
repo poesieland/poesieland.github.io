@@ -7,7 +7,7 @@ categories = [ "Angoisse" ]
 tags = [ "philosophie", "1997", "acrostiche" ]
 acrostiche = "Sans rime ni raison"
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans rime ni raison

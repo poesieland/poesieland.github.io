@@ -6,7 +6,7 @@ weight = 21
 categories = ["Portraits", "Apprentissage"]
 tags = ["philosophie", "1997"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ta présence enchantée et ta salle de classe

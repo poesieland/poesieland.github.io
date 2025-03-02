@@ -6,7 +6,7 @@ weight = 42
 categories = ["Amitié"]
 tags = ["amour", "1998", "acrostiche"]
 acrostiche = "Nostalgique de toi"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

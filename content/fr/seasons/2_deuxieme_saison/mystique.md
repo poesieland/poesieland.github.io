@@ -6,7 +6,7 @@ weight = 48
 categories = ["Mer", "Crépuscule"]
 tags = ["nature", "ombres et lumières", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je suis comme un oiseau le temps d'une prière,

@@ -6,7 +6,7 @@ weight = 27
 categories = [ "Espoir", "Ciel" ]
 tags = [ "1997", "philosophie", "nature" ]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel gémit, mon cœur se plombe,

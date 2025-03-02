@@ -10,7 +10,7 @@ Reprise détournée du premier vers du [premier poème de mon recueil de 1998](.
 
 Mes quelques poèmes sur les [cerisiers](/search?search-by=cerisiers)"""
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Avant de partir retiens-moi

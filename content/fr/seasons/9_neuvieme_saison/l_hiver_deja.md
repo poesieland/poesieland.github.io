@@ -6,7 +6,7 @@ weight = 2
 categories = [ "Hiver", "Angoisse" ]
 tags = [ "saisons", "philosophie", "1998", "acrostiche" ]
 acrostiche = "L'hiver déjà"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

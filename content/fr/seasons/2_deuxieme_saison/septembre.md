@@ -6,7 +6,7 @@ weight = 14
 categories = ["Automne"]
 tags = ["saisons", "1996"]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Septembre qui s'amène emporte mon image,

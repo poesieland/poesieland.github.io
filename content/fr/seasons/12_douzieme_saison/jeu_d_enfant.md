@@ -6,7 +6,7 @@ weight = 39
 categories = ["Temps", "Enfance et adolescence"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Jeu d'enfant"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

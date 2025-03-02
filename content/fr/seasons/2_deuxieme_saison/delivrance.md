@@ -6,7 +6,7 @@ weight = 39
 categories = [ "Espoir", "Angoisse" ]
 tags = [ "philosophie", "1996" ]
 verseLength = 12
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme un bateau perdu sur une mer étrange,

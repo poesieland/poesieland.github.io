@@ -6,7 +6,7 @@ weight = 28
 categories = ["Automne"]
 tags = ["saisons", "2001", "acrostiche"]
 acrostiche = "Il est cher, automne"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
 +++
 

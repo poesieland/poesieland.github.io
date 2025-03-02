@@ -20,7 +20,7 @@ pictures: []
 poemType: ""
 acrostiche: Demain nous serons
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Demain, mon fils, tu seras grand
 

@@ -7,7 +7,7 @@ categories = [ "Passion" ]
 tags = [ "amour", "1998", "acrostiche" ]
 info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

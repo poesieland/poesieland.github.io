@@ -6,7 +6,7 @@ weight = 23
 categories = ["Espoir", "Romantisme"]
 tags = ["philosophie", "amour", "1998", "acrostiche"]
 acrostiche = "A ce rêve tu dis"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
 +++
 

@@ -6,7 +6,7 @@ weight = 12
 categories = ["Foi", "Espoir"]
 tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "C'est un Dieu..."
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
 +++
 

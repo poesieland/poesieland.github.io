@@ -7,7 +7,7 @@ categories = [ "Portraits", "Amour platonique" ]
 tags = [ "philosophie", "amour", "1999", "acrostiche" ]
 info = "\"Le chevalier d'amour\" en italien."
 acrostiche = "Il cavalier' d'amore"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

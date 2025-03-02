@@ -7,7 +7,7 @@ categories = ["Musique et chant", "Etre"]
 tags = ["attitudes", "philosophie", "1998", "acrostiche"]
 info = "\"Si la vie suffisait\" en italien. Inspiré par plusieurs chansons."
 acrostiche = "Se bastasse la vita"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
 +++
 

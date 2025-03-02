@@ -6,7 +6,7 @@ weight = 36
 categories = ["Création"]
 tags = ["philosophie", "2004"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le peintre n'est jamais lassé

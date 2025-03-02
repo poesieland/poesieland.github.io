@@ -6,7 +6,7 @@ weight = 9
 categories = ["Lune", "Enfance et adolescence"]
 tags = ["ombres et lumières", "philosophie", "2024"]
 verseLength = 6
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Compagne de la Terre

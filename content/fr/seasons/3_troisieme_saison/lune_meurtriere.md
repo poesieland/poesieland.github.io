@@ -6,7 +6,7 @@ weight = 9
 categories = ["Lune"]
 tags = ["ombres et lumières", "1997"]
 verseLength = 8
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La lune lueur d'incendie

@@ -7,7 +7,7 @@ categories = [ "Ciel", "Eau douce", "Révolte", "Climat" ]
 tags = [ "nature", "philosophie", "2024", "versVariable" ]
 info = "Vers variable : 8, 6"
 verseLength = -1
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel est gris débilitant

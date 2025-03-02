@@ -6,7 +6,7 @@ weight = 41
 categories = ["Romantisme"]
 tags = ["amour", "1999", "acrostiche"]
 acrostiche = "Jeu blanc"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

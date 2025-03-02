@@ -2,7 +2,7 @@
 title = "The right moment"
 date = 2000-07-07
 weight = 4
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "the_right_moment_14"
 categories = [ "Being" ]
 +++

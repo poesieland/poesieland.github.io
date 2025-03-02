@@ -6,7 +6,7 @@ weight = 29
 categories = ["Automne", "Temps"]
 tags = ["saisons", "philosophie", "1999", "acrostiche"]
 acrostiche = "Dessin"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 

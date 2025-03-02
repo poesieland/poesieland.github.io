@@ -21,7 +21,7 @@ pictures: []
 poemType: ""
 acrostiche: Demain, là
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Demain nous serons là, peut-être un peu plus seuls
 

@@ -6,7 +6,7 @@ weight = 14
 categories = [ "Jardin et paysage" ]
 tags = [ "nature", "2003", "acrostiche" ]
 acrostiche = "Dans le jardin"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 location = [ "Reims" ]
 +++

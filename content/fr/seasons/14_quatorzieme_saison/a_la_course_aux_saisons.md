@@ -6,7 +6,7 @@ weight = 50
 categories = ["Printemps", "Temps"]
 tags = ["saisons", "philosophie", "2001", "acrostiche"]
 acrostiche = "D'une saison l'autre"
-LastModifierDisplayName = "Barbara Post"
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
 +++
 
