@@ -7,5 +7,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 3, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Printemps', value: 2, color: 'rgba(130, 196, 108, 1)' },
   ];
-  addPieChart('season25Pie', [data], { plugins: { title: { display: true, text: 'Coeur et âme (25) janvier à février 2025' } } });
+  addPieChart('season25Pie', [data], { plugins: { title: { display: true, text: 'Coeur et âme (25) février à février 2025' } } });
 })();

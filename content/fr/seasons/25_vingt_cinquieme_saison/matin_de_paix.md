@@ -2,7 +2,7 @@
 weight: 3
 title: Matin de paix
 id: matin_de_paix_25
-date: 2025-01-25
+date: 2025-02-25
 verseLength: 6
 divider: ""
 categories:
