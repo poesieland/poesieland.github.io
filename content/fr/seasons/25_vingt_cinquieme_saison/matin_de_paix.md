@@ -20,7 +20,7 @@ pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0 - Licence CC BY-NC-ND 4.0
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Chaque matin j'inspire
 
