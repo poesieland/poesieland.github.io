@@ -13,10 +13,10 @@ Une vraie fascination pour le soir. L'été, le temps... le ciel, l'automne, la 
 
 ---
 ## Catégories
-{{< chartjs id="season21Pie" width="75%" jsFile="../../charts/season-21/categories-pie.js" />}}
+{{< chartjs id="season21Pie" width="90%" jsFile="../../charts/season-21/categories-pie.js" />}}
 ## Longueur des vers
-{{< chartjs id="season21VerseLengthBar" width="75%" jsFile="../../charts/season-21/poems-verse-length-bar.js" />}}
+{{< chartjs id="season21VerseLengthBar" width="90%" jsFile="../../charts/season-21/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season21PoemLengthBar" width="75%" jsFile="../../charts/season-21/poems-length-bar.js" />}}
+{{< chartjs id="season21PoemLengthBar" width="90%" jsFile="../../charts/season-21/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season21PoemIntervalBar" width="75%" jsFile="../../charts/season-21/poem-interval-bar.js" />}}
+{{< chartjs id="season21PoemIntervalBar" width="90%" jsFile="../../charts/season-21/poem-interval-bar.js" />}}

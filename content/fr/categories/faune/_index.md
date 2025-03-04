@@ -10,6 +10,6 @@ Des [papillons](/search?search-by=papillon), aussi quelques [insectes](/search?s
 
 Et puis... j'ai ajouté une page qui liste les poèmes pour les [amoureux des chats](/tags/lovecat). A cause de la [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr) 😸
 
-{{< chartjs id="poemDay-fauneRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-faune-radar.js" />}}
+{{< chartjs id="poemDay-fauneRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-faune-radar.js" />}}
 
-{{< chartjs id="poems-fauneBar" width="75%" jsFile="../../charts/taxonomy/poems-faune-bar.js" />}}
+{{< chartjs id="poems-fauneBar" width="90%" jsFile="../../charts/taxonomy/poems-faune-bar.js" />}}

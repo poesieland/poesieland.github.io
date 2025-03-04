@@ -7,7 +7,7 @@ weight = 2
 
 Ces statistiques incluent mes {{% include "/content/common/poem_count_en.md" %}} poèmes en anglais.
 
-{{< chartjs id="poemDayRadar" width="75%" jsFile="../general/poems-day-radar.js" />}}
+{{< chartjs id="poemDayRadar" width="90%" jsFile="../general/poems-day-radar.js" />}}
 
 ## Des jours avec et des jours sans
 
@@ -17,13 +17,13 @@ Ces jours de l'année où ma plume est restée au repos :
 
 ## Du lundi au dimanche
 
-{{< chartjs id="poemDayOfWeekPie" width="50%" jsFile="../general/poem-dayofweek-pie.js" />}}
+{{< chartjs id="poemDayOfWeekPie" width="60%" jsFile="../general/poem-dayofweek-pie.js" />}}
 
 ## Jours exubérants
 
 Et les jours où j'écris plus d'un poème ?
 
-{{< chartjs id="poemIntensityPie" width="50%" jsFile="../general/poem-intensity-pie.js" />}}
+{{< chartjs id="poemIntensityPie" width="60%" jsFile="../general/poem-intensity-pie.js" />}}
 
 ## Des jours entre
 

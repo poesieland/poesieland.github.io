@@ -18,10 +18,10 @@ De 1994 à septembre 1996
 
 ---
 ## Catégories
-{{< chartjs id="season1Pie" width="75%" jsFile="../../charts/season-1/categories-pie.js" />}}
+{{< chartjs id="season1Pie" width="90%" jsFile="../../charts/season-1/categories-pie.js" />}}
 ## Longueur des vers
-{{< chartjs id="season1VerseLengthBar" width="75%" jsFile="../../charts/season-1/poems-verse-length-bar.js" />}}
+{{< chartjs id="season1VerseLengthBar" width="90%" jsFile="../../charts/season-1/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season1PoemLengthBar" width="75%" jsFile="../../charts/season-1/poems-length-bar.js" />}}
+{{< chartjs id="season1PoemLengthBar" width="90%" jsFile="../../charts/season-1/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season1PoemIntervalBar" width="75%" jsFile="../../charts/season-1/poem-interval-bar.js" />}}
+{{< chartjs id="season1PoemIntervalBar" width="90%" jsFile="../../charts/season-1/poem-interval-bar.js" />}}

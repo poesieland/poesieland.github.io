@@ -28,6 +28,6 @@ Quand le premier vers le met en valeur :
 - [Triste et bas](../../seasons/9_neuvieme_saison/l_hiver_deja)
 - [Triste et las](../../seasons/23_vingt_troisieme_saison/hiver_perdu)
 
-{{< chartjs id="poemDay-cielRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-ciel-radar.js" />}}
+{{< chartjs id="poemDay-cielRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-ciel-radar.js" />}}
 
-{{< chartjs id="poems-cielBar" width="75%" jsFile="../../charts/taxonomy/poems-ciel-bar.js" />}}
+{{< chartjs id="poems-cielBar" width="90%" jsFile="../../charts/taxonomy/poems-ciel-bar.js" />}}

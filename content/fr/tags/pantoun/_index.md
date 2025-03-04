@@ -8,4 +8,4 @@ La contrainte la plus restrictive c'est d'avoir deux idées à exprimer, une plu
 
 La contrainte technique c'est plus facile, le deuxième et le quatrième vers de chaque strophe (en rimes croisées) sont repris respectivement comme premier et troisième vers de la strophe suivante, le tout dernier vers du poème reprend le premier.
 
-{{< chartjs id="poems-pantounBar" width="75%" jsFile="../../charts/taxonomy/poems-pantoun-bar.js" />}}
+{{< chartjs id="poems-pantounBar" width="90%" jsFile="../../charts/taxonomy/poems-pantoun-bar.js" />}}

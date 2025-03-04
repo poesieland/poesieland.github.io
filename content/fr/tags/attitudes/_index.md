@@ -9,6 +9,6 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Toucher](/categories/toucher)
 - [Sommeil](/categories/sommeil)
 
-{{< chartjs id="poemDay-attitudesRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-attitudes-radar.js" />}}
+{{< chartjs id="poemDay-attitudesRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-attitudes-radar.js" />}}
 
-{{< chartjs id="poems-attitudesBar" width="75%" jsFile="../../charts/taxonomy/poems-attitudes-bar.js" />}}
+{{< chartjs id="poems-attitudesBar" width="90%" jsFile="../../charts/taxonomy/poems-attitudes-bar.js" />}}

@@ -5,6 +5,6 @@ title = "Flore"
 
 Arbres, plantes, fleurs. Indispensables.
 
-{{< chartjs id="poemDay-floreRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-flore-radar.js" />}}
+{{< chartjs id="poemDay-floreRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-flore-radar.js" />}}
 
-{{< chartjs id="poems-floreBar" width="75%" jsFile="../../charts/taxonomy/poems-flore-bar.js" />}}
+{{< chartjs id="poems-floreBar" width="90%" jsFile="../../charts/taxonomy/poems-flore-bar.js" />}}

@@ -13,10 +13,10 @@ L'hiver, le ciel, le temps. De décembre 2024 à février 2025
 
 ---
 ## Catégories
-{{< chartjs id="season24Pie" width="75%" jsFile="../../charts/season-24/categories-pie.js" />}}
+{{< chartjs id="season24Pie" width="90%" jsFile="../../charts/season-24/categories-pie.js" />}}
 ## Longueur des vers
-{{< chartjs id="season24VerseLengthBar" width="75%" jsFile="../../charts/season-24/poems-verse-length-bar.js" />}}
+{{< chartjs id="season24VerseLengthBar" width="90%" jsFile="../../charts/season-24/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season24PoemLengthBar" width="75%" jsFile="../../charts/season-24/poems-length-bar.js" />}}
+{{< chartjs id="season24PoemLengthBar" width="90%" jsFile="../../charts/season-24/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season24PoemIntervalBar" width="75%" jsFile="../../charts/season-24/poem-interval-bar.js" />}}
+{{< chartjs id="season24PoemIntervalBar" width="90%" jsFile="../../charts/season-24/poem-interval-bar.js" />}}

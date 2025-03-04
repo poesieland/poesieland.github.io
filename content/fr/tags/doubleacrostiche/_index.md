@@ -10,4 +10,4 @@ Bizarrement je constate qu'imposer la première lettre de chaque vers libère pa
 
 Lire aussi [mes acrostiches](/tags/acrostiche).
 
-{{< chartjs id="poems-acrosticheBar" width="75%" jsFile="../../charts/taxonomy/poems-acrostiche-bar.js" />}}
+{{< chartjs id="poems-acrosticheBar" width="90%" jsFile="../../charts/taxonomy/poems-acrostiche-bar.js" />}}

@@ -15,10 +15,10 @@ De mai à juillet 1999
 
 ---
 ## Catégories
-{{< chartjs id="season12Pie" width="75%" jsFile="../../charts/season-12/categories-pie.js" />}}
+{{< chartjs id="season12Pie" width="90%" jsFile="../../charts/season-12/categories-pie.js" />}}
 ## Longueur des vers
-{{< chartjs id="season12VerseLengthBar" width="75%" jsFile="../../charts/season-12/poems-verse-length-bar.js" />}}
+{{< chartjs id="season12VerseLengthBar" width="90%" jsFile="../../charts/season-12/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season12PoemLengthBar" width="75%" jsFile="../../charts/season-12/poems-length-bar.js" />}}
+{{< chartjs id="season12PoemLengthBar" width="90%" jsFile="../../charts/season-12/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season12PoemIntervalBar" width="75%" jsFile="../../charts/season-12/poem-interval-bar.js" />}}
+{{< chartjs id="season12PoemIntervalBar" width="90%" jsFile="../../charts/season-12/poem-interval-bar.js" />}}

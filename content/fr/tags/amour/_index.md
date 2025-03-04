@@ -11,6 +11,6 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Romantisme](/categories/romantisme)
 - [Passion](/categories/passion)
 
-{{< chartjs id="poemDay-amourRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-amour-radar.js" />}}
+{{< chartjs id="poemDay-amourRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-amour-radar.js" />}}
 
-{{< chartjs id="poems-amourBar" width="75%" jsFile="../../charts/taxonomy/poems-amour-bar.js" />}}
+{{< chartjs id="poems-amourBar" width="90%" jsFile="../../charts/taxonomy/poems-amour-bar.js" />}}

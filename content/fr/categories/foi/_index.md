@@ -7,6 +7,6 @@ La foi est le plus souvent d'origine religieuse mais se révèle plus générale
 
 [Poèmes de la catégorie espoir](/categories/espoir)
 
-{{< chartjs id="poemDay-foiRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-foi-radar.js" />}}
+{{< chartjs id="poemDay-foiRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-foi-radar.js" />}}
 
-{{< chartjs id="poems-foiBar" width="75%" jsFile="../../charts/taxonomy/poems-foi-bar.js" />}}
+{{< chartjs id="poems-foiBar" width="90%" jsFile="../../charts/taxonomy/poems-foi-bar.js" />}}
