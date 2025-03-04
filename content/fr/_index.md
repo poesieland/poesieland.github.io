@@ -1,6 +1,7 @@
 +++
 title = "Poésieland"
 type = "home"
+date = 2024-10-27
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
@@ -103,8 +104,6 @@ Bon voyage.
 
 Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Dernière mise à jour du texte hors du cadre "derniers poèmes ajoutés" ou de l'humeur du moment : 27.10.2024
-
 ## Licence
 
-Poesieland © 2023 par Barbara Post est sous licence CC BY-NC-ND 4.0. Pour accéder à une copie de cette licence, allez sur [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Poesieland © 2023-2025 par Barbara Post est sous licence CC BY-NC-ND 4.0. Pour accéder à une copie de cette licence, allez sur [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).

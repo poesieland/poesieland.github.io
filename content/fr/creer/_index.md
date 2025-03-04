@@ -2,7 +2,7 @@
 title = "Pourquoi créer ?"
 weight = 1
 disableToc = false
-date = 2024-04-16
+date = 2024-05-19
 type = "chapter"
 +++
 
@@ -78,4 +78,3 @@ Composer en braille m'a mieux permis de maîtriser le flux poétique de façon f
 
 En braille lu visuellement, la forme du poème était beaucoup moins évidente, les signes de saut de vers coupent moins visuellement que les vrais sauts de ligne.
 
-Dernière mise à jour : 19.05.2024

@@ -1,6 +1,7 @@
 +++
 title = "Poesieland"
 type = "home"
+date = 2024-10-15
 +++
 
 ## In French but not only
@@ -67,5 +68,5 @@ A contemporary poet, Evelina Jarosz Clark, wrote on August 4th, 2001:
 
 ## License
 
-Poesieland © 2023 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Poesieland © 2023-2025 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 

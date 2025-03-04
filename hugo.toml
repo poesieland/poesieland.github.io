@@ -138,10 +138,6 @@ page = ["HTML", "PRINT"]
             landingPageName = "<i class='fas fa-home'></i> Home"
 
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fa fas fa-feather-pointed'></i> My French poems"
-            url = "../fr/"
-            weight = 40
-        [[Languages.en.menu.shortcuts]]
             name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
             url = "/categories"
             weight = 50
@@ -203,3 +199,7 @@ page = ["HTML", "PRINT"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+
+[frontmatter]
+  # date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
+  date = ['date']
