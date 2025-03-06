@@ -199,7 +199,3 @@ page = ["HTML", "PRINT"]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
-[frontmatter]
-  # date = ['date', 'publishdate', 'pubdate', 'published', 'lastmod', 'modified']
-  date = ['date']

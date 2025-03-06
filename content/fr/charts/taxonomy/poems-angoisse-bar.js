@@ -1,7 +1,7 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Premiers élans (1) 1994-96', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Premiers élans (1) 1994-96', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Tableaux (2) 1996', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Vivace (3) 1997', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Rêves (4) 1997', value: 1, color: 'rgba(38, 9, 78, 0.5)' },
@@ -25,7 +25,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Au temps le dire (22) 2024', value: 9, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Les mots respirent (24) 2024-25', value: 5, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Coeur et âme (25) 2025', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Coeur et âme (25) 2025', value: 1, color: 'rgba(38, 9, 78, 0.5)' },
   ];
     addBarChart('poems-angoisseBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

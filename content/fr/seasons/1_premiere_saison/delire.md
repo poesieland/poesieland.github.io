@@ -3,10 +3,11 @@ title = "Délire"
 id = "delire_1"
 date = 1996-08-25
 weight = 42
-categories = ["Portraits"]
-tags = ["philosophie", "1996"]
+categories = [ "Angoisse" ]
+tags = [ "1996", "philosophie", "sonnet" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+poemType = "sonnet"
 +++
 
 O fièvre insidieuse, et lente, tu me braves :

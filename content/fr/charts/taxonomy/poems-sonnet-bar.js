@@ -1,7 +1,7 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Premiers élans (1) 1994-96', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Premiers élans (1) 1994-96', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Tableaux (2) 1996', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Vivace (3) 1997', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Rêves (4) 1997', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
