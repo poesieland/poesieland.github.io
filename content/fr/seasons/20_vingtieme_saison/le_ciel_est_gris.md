@@ -4,8 +4,8 @@ id = "le_ciel_est_gris_20"
 date = 2024-05-28
 weight = 21
 categories = [ "Ciel", "Eau douce", "Révolte", "Climat" ]
-tags = [ "nature", "philosophie", "2024", "versVariable" ]
-info = "Vers variable : 8, 6"
+tags = [ "nature", "philosophie", "2024", "métrique variable" ]
+info = "Métrique variable : 8, 6"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +37,7 @@ Perdra t-on le fruit et l'épi ?
 Et danse la limace !
 
 {{% notice style="primary" %}}
-Vers variable : 8, 6
+Métrique variable : 8, 6
 
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}

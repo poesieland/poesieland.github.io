@@ -12,10 +12,10 @@ categories:
 tags:
     - "2024"
     - saisons
-    - versVariable
+    - "métrique variable"
     - philosophie
 location: []
-info: "Vers variable : 6, 3."
+info: "Métrique variable : 6, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -67,5 +67,5 @@ Noël joyeux féconde
 Temps tracé.
 
 {{% notice style="primary" %}}
-Vers variable : 6, 3.
+Métrique variable : 6, 3.
 {{% /notice %}}

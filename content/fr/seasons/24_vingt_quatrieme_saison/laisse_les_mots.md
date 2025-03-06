@@ -11,9 +11,9 @@ categories:
 tags:
     - "2025"
     - philosophie
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 6, 3."
+info: "Métrique variable : 6, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -65,7 +65,7 @@ Laisse-les consoler,
 Mots-images.
 
 {{% notice style="primary" %}}
-Vers variable : 6, 3.
+Métrique variable : 6, 3.
 
 Les poèmes du mini-thème "les mots" :
 {{% include "../../includes/les_mots" hidefirstheading %}}

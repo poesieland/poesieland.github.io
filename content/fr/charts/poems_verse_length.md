@@ -48,7 +48,7 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 
 ### Et variable
 
-[Vers ces {{% include "/content/common/variableVerse_poem_count.md" %}} poèmes](/tags/versVariable)
+[Vers ces {{% include "/content/common/variable_metric_poem_count.md" %}} poèmes](/tags/métrique-variable)
 
 ## Au fil du temps
 

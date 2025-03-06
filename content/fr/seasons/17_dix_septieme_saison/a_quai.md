@@ -4,8 +4,8 @@ id = "a_quai_17"
 date = 2009-04-06
 weight = 41
 categories = ["Portraits"]
-tags = ["philosophie", "2009", "versVariable"]
-info = "Vers variable : 5, 2"
+tags = ["philosophie", "2009", "métrique variable"]
+info = "Métrique variable : 5, 2"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,5 +37,5 @@ Une ombre à plus tard
 De peine.
 
 {{% notice style="primary" %}}
-Vers variable : 5, 2
+Métrique variable : 5, 2
 {{% /notice %}}

@@ -10,9 +10,9 @@ categories:
 tags:
     - "2024"
     - philosophie
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 8, 6."
+info: "Métrique variable : 8, 6."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -46,7 +46,7 @@ C'est blanc, c'est noir, mais plus grisé,
 Ainsi se perd le monde.
 
 {{% notice style="primary" %}}
-Vers variable : 8, 6.
+Métrique variable : 8, 6.
 
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}

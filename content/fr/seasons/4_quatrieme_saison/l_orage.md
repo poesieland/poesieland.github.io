@@ -7,7 +7,7 @@ categories = [ "Ciel" ]
 tags = [ "nature", "1997" ]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = "Vers variable : 6, 4."
+info = "Métrique variable : 6, 4."
 +++
 
 Les arbres s'effarouchent
@@ -46,5 +46,5 @@ Ses furieux cris de guerre
 Au ciel déteint.
 
 {{% notice style="primary" %}}
-Vers variable : 6, 4.
+Métrique variable : 6, 4.
 {{% /notice %}}

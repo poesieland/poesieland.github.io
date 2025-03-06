@@ -27,5 +27,5 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots respirent (24) 2024-25', value: 5, color: 'rgba(72, 149, 239, 1)' },
     { label: 'Coeur et âme (25) 2025', value: 3, color: 'rgba(72, 149, 239, 1)' },
   ];
-    addBarChart('poems-versVariableBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
+    addBarChart('poems-metrique_variableBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

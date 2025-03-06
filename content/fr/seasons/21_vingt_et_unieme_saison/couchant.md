@@ -10,9 +10,9 @@ categories:
 tags:
     - "2024"
     - ombres et lumières
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 5, 3"
+info: "Métrique variable : 5, 3"
 pictures:
     - Le 01.09.2024
 poemType: ""
@@ -50,8 +50,8 @@ Attachant.
 {{< figure src="/images/couchant_21_0.jpg" title="Le 01.09.2024" >}}
 <!-- FM:Snippet:End -->
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 5, 3"}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 5, 3"}]} -->
 {{% notice style="primary" %}}
-Vers variable : 5, 3
+Métrique variable : 5, 3
 {{% /notice %}}
 <!-- FM:Snippet:End -->

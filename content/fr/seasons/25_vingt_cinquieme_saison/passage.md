@@ -9,10 +9,10 @@ categories:
     - Printemps
 tags:
     - "2025"
-    - versVariable
+    - "métrique variable"
     - saisons
 location: []
-info: "Vers variable : 6, 2."
+info: "Métrique variable : 6, 2."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -64,5 +64,5 @@ Et du bonheur poindra
 L'ivresse !
 
 {{% notice style="primary" %}}
-Vers variable : 6, 2.
+Métrique variable : 6, 2.
 {{% /notice %}}

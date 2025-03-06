@@ -11,9 +11,9 @@ tags:
     - "2024"
     - lovecat
     - nature
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 6, 4"
+info: "Métrique variable : 6, 4"
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -46,8 +46,8 @@ Retombe en son canaille
 
 Rêve chasseur.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 6, 4"}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 6, 4"}]} -->
 {{% notice style="primary" %}}
-Vers variable : 6, 4
+Métrique variable : 6, 4
 {{% /notice %}}
 <!-- FM:Snippet:End -->

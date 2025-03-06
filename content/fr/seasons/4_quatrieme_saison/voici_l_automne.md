@@ -4,10 +4,10 @@ id = "voici_l_automne_4"
 date = 1997-09-03
 weight = 9
 categories = [ "Automne" ]
-tags = [ "1997", "saisons", "versVariable" ]
+tags = [ "1997", "saisons", "métrique variable" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
-info = "Vers variable : 6, 8"
+info = "Métrique variable : 6, 8"
 +++
 
 Voici venir l'automne

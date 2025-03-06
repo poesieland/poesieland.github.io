@@ -11,10 +11,10 @@ categories:
 tags:
     - "2024"
     - nature
-    - versVariable
+    - "métrique variable"
     - philosophie
 location: []
-info: "Vers variable : 4, 3."
+info: "Métrique variable : 4, 3."
 pictures: []
 poemType: ""
 acrostiche: ""

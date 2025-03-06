@@ -11,10 +11,10 @@ categories:
 tags:
     - "2025"
     - nature
-    - versVariable
+    - "métrique variable"
     - ombres et lumières
 location: []
-info: "Vers variable : 8, 2."
+info: "Métrique variable : 8, 2."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -57,5 +57,5 @@ Voici la nuit, fauve rondeur,
 Sirène.
 
 {{% notice style="primary" %}}
-Vers variable : 8, 2.
+Métrique variable : 8, 2.
 {{% /notice %}}

@@ -13,10 +13,10 @@ tags:
     - "2025"
     - attitudes
     - nature
-    - versVariable
+    - "métrique variable"
     - saisons
 location: []
-info: "Vers variable : 8, 3."
+info: "Métrique variable : 8, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -60,6 +60,6 @@ Juste là !
 
 <!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Vers variable : 8, 3.
+Métrique variable : 8, 3.
 {{% /notice %}}
 <!-- FM:Snippet:End -->

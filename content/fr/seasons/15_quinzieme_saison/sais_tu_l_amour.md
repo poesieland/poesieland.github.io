@@ -4,11 +4,11 @@ id = "sais_tu_l_amour_15"
 date = 2001-09-07
 weight = 27
 categories = [ "Etre" ]
-tags = [ "2001", "acrostiche", "philosophie", "versVariable" ]
+tags = [ "2001", "acrostiche", "philosophie", "métrique variable" ]
 acrostiche = "Sais-tu l'amour..."
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
-info = "Vers variable : 7, 9."
+info = "Métrique variable : 7, 9."
 +++
 
 Sais-tu si tous ces nuages
@@ -40,5 +40,5 @@ Renvoyés, un amour à tisser.
 {{% notice style="primary" %}}
 Acrostiche : Sais-tu l'amour...
 
-Vers variable : 7, 9.
+Métrique variable : 7, 9.
 {{% /notice %}}

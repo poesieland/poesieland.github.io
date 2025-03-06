@@ -4,8 +4,8 @@ id = "promenade_d_hiver_18"
 date = 2023-12-26
 weight = 39
 categories = ["Hiver"]
-tags = ["saisons", "2023", "versVariable"]
-info = "Vers variable : 6, 2"
+tags = ["saisons", "2023", "métrique variable"]
+info = "Métrique variable : 6, 2"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -55,5 +55,5 @@ Promenade-univers,
 Chimère.
 
 {{% notice style="primary" %}}
-Vers variable : 6, 2
+Métrique variable : 6, 2
 {{% /notice %}}

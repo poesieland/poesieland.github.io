@@ -4,8 +4,8 @@ id = "terre_20"
 date = 2024-04-29
 weight = 3
 categories = [ "Climat", "Espoir", "Angoisse" ]
-tags = [ "2024", "philosophie", "versVariable", "nature" ]
-info = "Vers variable : 2, 7"
+tags = [ "2024", "philosophie", "métrique variable", "nature" ]
+info = "Métrique variable : 2, 7"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -64,5 +64,5 @@ Coupelle
 D'un sacrifice vainqueur.
 
 {{% notice style="primary" %}}
-Vers variable : 2, 7
+Métrique variable : 2, 7
 {{% /notice %}}

@@ -10,9 +10,9 @@ categories:
 tags:
     - "2025"
     - philosophie
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 7, 4."
+info: "Métrique variable : 7, 4."
 pictures: []
 poemType: ""
 acrostiche: ""

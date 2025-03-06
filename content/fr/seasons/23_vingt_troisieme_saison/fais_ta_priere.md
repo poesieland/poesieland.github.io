@@ -11,9 +11,9 @@ categories:
 tags:
     - "2024"
     - philosophie
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 12, 4."
+info: "Métrique variable : 12, 4."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -64,8 +64,8 @@ La vie offre en cadeau ton bonheur sans mentir
 
 Avant le reste !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 12, 4."}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 12, 4."}]} -->
 {{% notice style="primary" %}}
-Vers variable : 12, 4.
+Métrique variable : 12, 4.
 {{% /notice %}}
 <!-- FM:Snippet:End -->

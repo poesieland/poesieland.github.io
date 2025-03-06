@@ -4,8 +4,8 @@ id = "automne_genereux_18"
 date = 2023-11-03
 weight = 15
 categories = ["Automne"]
-tags = ["saisons", "2023", "versVariable"]
-info = "Vers variable : 6, 3"
+tags = ["saisons", "2023", "métrique variable"]
+info = "Métrique variable : 6, 3"
 pictures = ["Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023"]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -60,5 +60,5 @@ Généreux par bonté.
 {{< figure src="/images/automne_genereux_18_1.jpg" title="Le Ravel le 3 novembre 2023" >}}
 
 {{% notice style="primary" %}}
-Vers variable : 6, 3
+Métrique variable : 6, 3
 {{% /notice %}}

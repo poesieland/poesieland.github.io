@@ -4,8 +4,8 @@ id = "urgence_19"
 date = 2024-03-23
 weight = 25
 categories = [ "Angoisse", "Temps", "Climat" ]
-tags = [ "2024", "philosophie", "versVariable", "nature" ]
-info = "Vers variable : 5, 2"
+tags = [ "2024", "philosophie", "métrique variable", "nature" ]
+info = "Métrique variable : 5, 2"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -46,5 +46,5 @@ L'espoir reste en banque,
 Trop tard !
 
 {{% notice style="primary" %}}
-Vers variable : 5, 2
+Métrique variable : 5, 2
 {{% /notice %}}

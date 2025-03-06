@@ -12,9 +12,9 @@ tags:
     - "2025"
     - nature
     - ombres et lumières
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 5, 3."
+info: "Métrique variable : 5, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -57,8 +57,8 @@ Rôdeur, suis ta voie,
 
 Va, puissant !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 5, 3."}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 5, 3."}]} -->
 {{% notice style="primary" %}}
-Vers variable : 5, 3.
+Métrique variable : 5, 3.
 {{% /notice %}}
 <!-- FM:Snippet:End -->

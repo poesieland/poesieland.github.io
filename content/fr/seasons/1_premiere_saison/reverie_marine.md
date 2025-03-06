@@ -4,8 +4,8 @@ id = "reverie_marine_1"
 date = 1995-11-01
 weight = 29
 categories = [ "Mer", "Foi" ]
-tags = [ "1995", "nature", "philosophie", "versVariable" ]
-info = "Vers variable : poème en prose"
+tags = [ "1995", "nature", "philosophie", "métrique variable" ]
+info = "Métrique variable : poème en prose"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = -1
 +++

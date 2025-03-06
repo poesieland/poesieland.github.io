@@ -61,7 +61,7 @@
           "min": -1,
           "max": 14,
           "step": 1,
-          "description": "Put -1 here when variable length, add 'versVariable' tag, and add 'Vers variable : ' + comma-separated values in info. Repeat info in notice."
+          "description": "Put -1 here when variable length, add 'métrique variable' tag, and add 'Métrique variable : ' + comma-separated values in info. Repeat info in notice."
         },
         {
           "name": "divider",

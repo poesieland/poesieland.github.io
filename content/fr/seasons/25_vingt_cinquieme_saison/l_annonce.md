@@ -10,9 +10,9 @@ categories:
 tags:
     - "2025"
     - saisons
-    - versVariable
+    - "métrique variable"
 location: []
-info: "Vers variable : 4, 3."
+info: "Métrique variable : 4, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -55,5 +55,5 @@ Sonne cent ans,
 Cloche-nonce !
 
 {{% notice style="primary" %}}
-Vers variable : 4, 3.
+Métrique variable : 4, 3.
 {{% /notice %}}

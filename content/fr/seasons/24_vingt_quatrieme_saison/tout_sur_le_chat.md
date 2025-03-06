@@ -11,10 +11,10 @@ tags:
     - "2025"
     - lovecat
     - nature
-    - versVariable
+    - "métrique variable"
 location: []
 info: |-
-    Vers variable : 8, 4.
+    Métrique variable : 8, 4.
 
     Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
 pictures: []
@@ -49,9 +49,9 @@ Heureux l'esclave qui survit
 
 Soumis au maître !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 8, 4."}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 8, 4."}]} -->
 {{% notice style="primary" %}}
-Vers variable : 8, 4.
+Métrique variable : 8, 4.
 
 Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
 {{% /notice %}}

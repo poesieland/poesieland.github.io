@@ -10,10 +10,10 @@ categories:
 tags:
     - "2024"
     - nature
-    - versVariable
+    - "métrique variable"
 location: []
 info: |-
-    Vers variable : 8, 2.
+    Métrique variable : 8, 2.
 
     Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige)
 pictures: []
@@ -58,7 +58,7 @@ Tombe la neige autour en ronde,
 Riant !
 
 {{% notice style="primary" %}}
-Vers variable : 8, 2
+Métrique variable : 8, 2
 
 Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige)
 {{% /notice %}}

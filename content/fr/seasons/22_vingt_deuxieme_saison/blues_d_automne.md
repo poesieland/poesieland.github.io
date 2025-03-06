@@ -13,10 +13,10 @@ tags:
     - "2024"
     - nature
     - saisons
-    - versVariable
+    - "métrique variable"
     - philosophie
 location: []
-info: "Vers variable : 8, 3."
+info: "Métrique variable : 8, 3."
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -57,8 +57,8 @@ Ses émaux,
 Le jour est mort, comme il ne reste
 
 Que des mots.
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variable : 8, 3."}]} -->
+<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 8, 3."}]} -->
 {{% notice style="primary" %}}
-Vers variable : 8, 3.
+Métrique variable : 8, 3.
 {{% /notice %}}
 <!-- FM:Snippet:End -->
