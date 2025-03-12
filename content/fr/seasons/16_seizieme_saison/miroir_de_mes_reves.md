@@ -8,7 +8,7 @@ tags = [ "ombres et lumières", "nature", "2003", "acrostiche" ]
 acrostiche = "Miroir de mes rêves"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Miroir, aux cent visages, étoiles

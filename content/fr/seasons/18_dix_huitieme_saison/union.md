@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
     - pantoun
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: pantoun

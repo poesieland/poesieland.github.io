@@ -11,7 +11,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location: []
+locations: []
 info: Inspiré par [ce fait divers (avec une photo de la façade)](https://www.lalibre.be/regions/hainaut/2024/04/10/le-restaurant-grec-de-gilly-le-marathon-a-eteint-son-grill-definitivement-6HMKSVI33ZCQVHKBL5PRYLA2RM/)
 pictures: []
 poemType: ""

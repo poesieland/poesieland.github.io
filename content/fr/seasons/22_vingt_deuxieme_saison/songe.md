@@ -14,7 +14,7 @@ tags:
     - ombres et lumières
     - philosophie
     - nature
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes qui reprennent _la nuit faite mer_ :

@@ -12,7 +12,7 @@ tags:
     - "2025"
     - philosophie
     - "métrique variable"
-location: []
+locations: []
 info: "Métrique variable : 6, 3."
 pictures: []
 poemType: ""

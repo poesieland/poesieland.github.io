@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - saisons
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Reprise modifiée du premier vers d'un [poème de la vingtième saison](../20_vingtieme_saison/le_ciel_est_gris)

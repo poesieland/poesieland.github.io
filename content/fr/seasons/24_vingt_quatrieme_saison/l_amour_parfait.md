@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location: []
+locations: []
 info: Reprise de la citation qui commence également presque mot pour mot le [poème de la douzième saison](../12_douzieme_saison/on_ne_voit_bien) et qui est de la même catégorie... Juste un point de vue un peu différent vingt-cinq ans et demi plus tard 😉
 pictures: []
 poemType: ""

@@ -9,5 +9,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '6, 4', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '6, 8', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
-    addBarChart('season4VerseLengthBar', ['Poèmes'], [data], { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season4VerseLengthBar', ['Poèmes'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

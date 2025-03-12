@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
     - saisons
-location: []
+locations: []
 info: |-
     Les poèmes qui reprennent _l'orgue des arbres_ :
     {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}

@@ -13,7 +13,7 @@ tags:
     - nature
     - "métrique variable"
     - philosophie
-location: []
+locations: []
 info: "Métrique variable : 4, 3."
 pictures: []
 poemType: ""

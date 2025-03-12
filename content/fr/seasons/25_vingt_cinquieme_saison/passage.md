@@ -11,7 +11,7 @@ tags:
     - "2025"
     - "métrique variable"
     - saisons
-location: []
+locations: []
 info: "Métrique variable : 6, 2."
 pictures: []
 poemType: ""

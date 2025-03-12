@@ -12,7 +12,7 @@ tags:
     - "2024"
     - amour
     - philosophie
-location: []
+locations: []
 info: |-
     Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/je_crois_en_lui)
 

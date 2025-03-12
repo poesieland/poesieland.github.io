@@ -12,7 +12,7 @@ tags:
     - "2025"
     - acrostiche
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

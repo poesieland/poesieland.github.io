@@ -11,7 +11,7 @@ tags:
     - "2024"
     - nature
     - "métrique variable"
-location: []
+locations: []
 info: |-
     Métrique variable : 8, 2.
 

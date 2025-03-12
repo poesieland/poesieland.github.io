@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: '"Celui qui est, qui était et qui vient", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017)'
 pictures: []
 poemType: ""

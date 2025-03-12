@@ -8,7 +8,7 @@ tags = [ "ombres et lumières", "2001", "acrostiche" ]
 acrostiche = "Soir d'été"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Silencieux l'espace en la longue avenue:

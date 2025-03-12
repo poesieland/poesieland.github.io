@@ -8,7 +8,7 @@ tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "La cathédrale est belle"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-location = [ "Reims" ]
+locations = [ "Reims" ]
 +++
 
 La cathédrale est ma demeure;

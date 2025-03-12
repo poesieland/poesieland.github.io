@@ -13,7 +13,7 @@ tags:
     - philosophie
     - saisons
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

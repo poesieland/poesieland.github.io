@@ -11,7 +11,7 @@ tags:
     - "2025"
     - philosophie
     - "métrique variable"
-location: []
+locations: []
 info: "Métrique variable : 7, 4."
 pictures: []
 poemType: ""

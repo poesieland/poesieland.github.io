@@ -7,7 +7,7 @@ categories = [ "Enfance et adolescence", "Flore" ]
 tags = [ "philosophie", "nature", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 O forêt mon amour, tes arbres mes châteaux

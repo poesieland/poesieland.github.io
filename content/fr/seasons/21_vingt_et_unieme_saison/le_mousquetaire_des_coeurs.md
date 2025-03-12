@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
     - amour
-location: []
+locations: []
 info: Reprise modifiée dans les deux premiers vers, du premier vers d'un [poème de la quatrième saison](../4_quatrieme_saison/a_trop_tourner)
 pictures: []
 type: default

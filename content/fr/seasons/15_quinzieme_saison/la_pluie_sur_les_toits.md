@@ -8,7 +8,7 @@ tags = [ "ombres et lumières", "nature", "2001", "acrostiche" ]
 acrostiche = "La pluie sur les toits"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 La pluie éteint tous les sourires

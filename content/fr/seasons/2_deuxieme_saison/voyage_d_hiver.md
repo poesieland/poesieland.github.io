@@ -7,7 +7,7 @@ categories = [ "Hiver" ]
 tags = [ "saisons", "1996" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Où je n'ai pas été" ]
+locations = [ "Où je n'ai pas été" ]
 +++
 
 Le souvenir s'enfuit

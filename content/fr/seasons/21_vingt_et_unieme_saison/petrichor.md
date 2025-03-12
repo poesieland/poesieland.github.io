@@ -11,7 +11,7 @@ tags:
     - "2024"
     - nature
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

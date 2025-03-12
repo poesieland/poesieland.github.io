@@ -3,12 +3,12 @@ title = "Pèlerinage"
 id = "pelerinage_12"
 date = 1999-05-26
 weight = 13
-categories = [ "Foi" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Foi"]
+tags = ["philosophie", "1999", "acrostiche"]
 acrostiche = "Bijou sacre unions"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
-location = [ "Reims" ]
+locations = ["Reims"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Bijou d'orfèvre, ici, la cathédrale

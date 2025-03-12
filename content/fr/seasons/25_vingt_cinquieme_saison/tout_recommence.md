@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

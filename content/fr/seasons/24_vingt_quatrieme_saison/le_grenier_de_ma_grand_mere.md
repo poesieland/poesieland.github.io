@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location:
+locations:
     - Lorraine
 info: ""
 pictures: []

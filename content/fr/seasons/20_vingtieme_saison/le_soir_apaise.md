@@ -12,7 +12,7 @@ tags:
     - "2024"
     - amour
     - ombres et lumières
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

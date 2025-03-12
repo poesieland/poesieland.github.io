@@ -7,7 +7,7 @@ categories = [ "Portraits", "Enfance et adolescence" ]
 tags = [ "philosophie", "2023" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Reims" ]
+locations = [ "Reims" ]
 +++
 
 Reims ! Ici Reims ! disait le train.

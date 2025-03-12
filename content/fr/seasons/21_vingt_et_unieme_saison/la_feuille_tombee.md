@@ -13,7 +13,7 @@ tags:
     - acrostiche
     - nature
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

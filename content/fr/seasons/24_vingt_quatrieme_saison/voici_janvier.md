@@ -12,7 +12,7 @@ tags:
     - "2025"
     - philosophie
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

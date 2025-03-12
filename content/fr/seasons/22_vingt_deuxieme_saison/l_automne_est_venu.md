@@ -11,7 +11,7 @@ tags:
     - "2024"
     - acrostiche
     - saisons
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Acrostiche : l'automne venu.

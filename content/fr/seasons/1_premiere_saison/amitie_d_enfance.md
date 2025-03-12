@@ -7,7 +7,7 @@ categories = [ "Amitié", "Enfance et adolescence" ]
 tags = [ "amour", "philosophie", "1996" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 Que n'es-tu là, ma belle amie

@@ -11,7 +11,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes du mini-thème "les mots" :

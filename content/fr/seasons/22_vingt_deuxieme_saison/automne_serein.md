@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - saisons
-location: []
+locations: []
 info: Reprise en temps que premier vers d'un vers d'un [poème de la cinquième saison](../5_cinquieme_saison/myriades).
 pictures: []
 poemType: ""

@@ -9,7 +9,7 @@ info = "Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 30
 acrostiche = "Au sein du ciel"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
-location = [ "Alpes" ]
+locations = [ "Alpes" ]
 +++
 
 Au plat ciel dénudé

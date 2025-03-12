@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - nature
-location:
+locations:
     - Tataouine
 info: Le ciel bleu roi est un souvenir d'adolescence en visite à [Tataouine](https://www.google.com/search?q=tataouine).
 pictures: []

@@ -13,7 +13,7 @@ tags:
     - "2024"
     - philosophie
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

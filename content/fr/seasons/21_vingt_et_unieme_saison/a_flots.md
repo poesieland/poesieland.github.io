@@ -13,7 +13,7 @@ tags:
     - acrostiche
     - ombres et lumières
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

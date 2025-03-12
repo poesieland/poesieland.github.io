@@ -11,7 +11,7 @@ tags:
     - "2024"
     - ombres et lumières
     - "métrique variable"
-location: []
+locations: []
 info: "Métrique variable : 5, 3"
 pictures:
     - Le 01.09.2024

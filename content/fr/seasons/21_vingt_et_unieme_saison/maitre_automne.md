@@ -12,7 +12,7 @@ tags:
     - "2024"
     - ombres et lumières
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

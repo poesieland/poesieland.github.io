@@ -10,7 +10,7 @@ categories:
 tags:
     - ombres et lumières
     - "2024"
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes qui commencent par ce vers...

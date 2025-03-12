@@ -13,7 +13,7 @@ tags:
     - attitudes
     - nature
     - lovecat
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

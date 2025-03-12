@@ -11,7 +11,7 @@ tags:
     - "2024"
     - philosophie
     - "métrique variable"
-location: []
+locations: []
 info: "Métrique variable : 8, 6."
 pictures: []
 poemType: ""

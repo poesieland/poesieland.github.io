@@ -13,7 +13,7 @@ tags:
     - philosophie
     - saisons
     - acrostiche
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante)
 pictures: []
 poemType: ""

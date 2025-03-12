@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - ombres et lumières
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/matin_celeste).
 pictures: []
 poemType: ""

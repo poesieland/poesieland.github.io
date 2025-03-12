@@ -15,7 +15,7 @@ tags:
     - nature
     - "métrique variable"
     - saisons
-location: []
+locations: []
 info: "Métrique variable : 8, 3."
 pictures: []
 poemType: ""

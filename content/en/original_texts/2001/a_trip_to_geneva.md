@@ -5,7 +5,7 @@ weight = 6
 LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "a_trip_to_geneva_15"
 categories = [ "Being" ]
-location = [ "Alpes" ]
+locations = [ "Alpes" ]
 +++
 As if I were feeling home,
 

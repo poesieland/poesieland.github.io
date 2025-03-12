@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

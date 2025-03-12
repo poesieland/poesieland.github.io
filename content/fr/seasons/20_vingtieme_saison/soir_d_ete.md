@@ -15,7 +15,7 @@ tags:
     - nature
     - ombres et lumières
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

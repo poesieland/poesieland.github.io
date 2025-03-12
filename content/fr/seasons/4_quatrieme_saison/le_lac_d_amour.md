@@ -7,7 +7,7 @@ categories = [ "Eau douce", "Romantisme" ]
 tags = [ "nature", "amour", "1997" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Alpes" ]
+locations = [ "Alpes" ]
 +++
 
 Le ciel s'encolline en cascade :

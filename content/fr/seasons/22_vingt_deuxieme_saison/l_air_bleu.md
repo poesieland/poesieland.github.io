@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - amour
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

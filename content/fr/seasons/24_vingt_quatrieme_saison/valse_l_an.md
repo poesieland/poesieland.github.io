@@ -13,7 +13,7 @@ tags:
     - attitudes
     - philosophie
     - acrostiche
-location: []
+locations: []
 info: "Acrostiche : Valse l'an"
 pictures: []
 poemType: ""

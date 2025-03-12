@@ -9,7 +9,7 @@ info = 'Inspiré par la comédie musicale "Notre-Dame de Paris".'
 doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Je laisserai les mots s'écrire,

@@ -7,7 +7,7 @@ categories = [ "Automne", "Enfance et adolescence" ]
 tags = [ "saisons", "philosophie", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 L'automne en sa merveille est doux comme un nuage

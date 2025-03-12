@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - amour
-location: []
+locations: []
 info: |-
     [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 

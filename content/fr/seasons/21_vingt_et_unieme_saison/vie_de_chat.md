@@ -11,7 +11,7 @@ tags:
     - "2024"
     - nature
     - lovecat
-location: []
+locations: []
 info: ""
 pictures:
     - Août 2024

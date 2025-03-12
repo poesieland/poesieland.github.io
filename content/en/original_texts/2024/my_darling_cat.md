@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Animals
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

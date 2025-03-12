@@ -11,7 +11,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location: []
+locations: []
 info: Inspiré par le plaisir de lire [J'ai t'huit ans pour toujours](https://www.amazon.fr/Jai-thuit-ans-pour-toujours/dp/2959690001) car c'est si bon de se souvenir de son enfance...
 pictures: []
 poemType: ""

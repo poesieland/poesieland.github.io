@@ -13,7 +13,7 @@ tags:
     - "2023"
     - saisons
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

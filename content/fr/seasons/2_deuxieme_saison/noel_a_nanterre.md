@@ -7,7 +7,7 @@ categories = [ "Portraits", "Hiver" ]
 tags = [ "philosophie", "saisons", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Et la foule en miroir me renvoie en images

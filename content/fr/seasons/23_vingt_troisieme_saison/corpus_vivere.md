@@ -11,7 +11,7 @@ tags:
     - "2024"
     - acrostiche
     - philosophie
-location: []
+locations: []
 info: '"Corps, vivre" en latin.'
 pictures: []
 poemType: ""

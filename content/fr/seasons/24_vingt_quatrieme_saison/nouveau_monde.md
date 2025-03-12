@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - nature
-location:
+locations:
     - Où je n'ai pas été
 info: ""
 pictures: []

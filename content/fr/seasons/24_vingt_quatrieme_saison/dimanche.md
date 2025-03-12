@@ -11,7 +11,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

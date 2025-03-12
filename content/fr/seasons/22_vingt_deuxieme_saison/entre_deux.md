@@ -13,7 +13,7 @@ tags:
     - "2024"
     - saisons
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

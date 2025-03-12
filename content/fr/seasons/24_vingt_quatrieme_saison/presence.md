@@ -11,7 +11,7 @@ categories:
 tags:
     - "2025"
     - ombres et lumières
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

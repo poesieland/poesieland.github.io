@@ -15,7 +15,7 @@ tags:
     - nature
     - saisons
     - philosophie
-location: []
+locations: []
 info: En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂
 pictures: []
 poemType: ""

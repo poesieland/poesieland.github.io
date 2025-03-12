@@ -7,7 +7,7 @@ categories = [ "Ville", "Hiver" ]
 tags = [ "ombres et lumières", "saisons", "2005" ]
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Bordeaux" ]
+locations = [ "Bordeaux" ]
 +++
 
 Je n'aurai pas un an de plus

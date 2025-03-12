@@ -15,7 +15,7 @@ tags:
     - saisons
     - "métrique variable"
     - philosophie
-location: []
+locations: []
 info: "Métrique variable : 8, 3."
 pictures: []
 poemType: ""

@@ -12,7 +12,7 @@ tags:
   - "2024"
   - nature
   - ombres et lumières
-location: []
+locations: []
 info: |-
   Les poèmes qui commencent par ce vers...
   {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}

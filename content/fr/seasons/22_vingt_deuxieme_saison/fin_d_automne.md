@@ -11,7 +11,7 @@ categories:
 tags:
     - "2024"
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -11,7 +11,7 @@ tags:
     - "2025"
     - nature
     - lovecat
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -13,7 +13,7 @@ tags:
     - "2025"
     - saisons
     - attitudes
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

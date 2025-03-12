@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Hope
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

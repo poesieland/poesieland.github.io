@@ -7,7 +7,7 @@ categories = [ "Eau douce" ]
 tags = [ "nature", "2004" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
-location = [ "Bordeaux" ]
+locations = [ "Bordeaux" ]
 +++
 
 Semblable ciel, la Seine ou la Garonne

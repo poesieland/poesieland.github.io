@@ -12,7 +12,7 @@ tags:
     - "2025"
     - nature
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

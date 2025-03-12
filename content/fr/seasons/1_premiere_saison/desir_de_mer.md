@@ -7,7 +7,7 @@ categories = [ "Mer", "Passion" ]
 tags = [ "nature", "amour", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Côte atlantique" ]
+locations = [ "Côte atlantique" ]
 +++
 
 La mer est une femme appelant le désir

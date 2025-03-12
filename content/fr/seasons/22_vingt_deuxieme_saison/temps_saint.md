@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

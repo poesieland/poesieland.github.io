@@ -7,7 +7,7 @@ categories = [ "Portraits", "Flore" ]
 tags = [ "philosophie", "nature", "1997" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Où je n'ai pas été" ]
+locations = [ "Où je n'ai pas été" ]
 +++
 
 Les roses du désert

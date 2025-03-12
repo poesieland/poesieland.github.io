@@ -13,7 +13,7 @@ tags:
     - acrostiche
     - nature
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

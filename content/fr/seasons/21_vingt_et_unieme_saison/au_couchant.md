@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - ombres et lumières
-location:
+locations:
     - Mont des Cats
 info: ""
 pictures:

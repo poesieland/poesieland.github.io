@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-location: []
+locations: []
 info: "[Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra))"
 pictures: []
 poemType: ""

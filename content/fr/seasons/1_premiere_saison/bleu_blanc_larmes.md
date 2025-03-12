@@ -8,7 +8,7 @@ tags = [ "philosophie", "1994" ]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Où je n'ai pas été" ]
+locations = [ "Où je n'ai pas été" ]
 +++
 
 Le muezzin appelle et chacun s'agenouille :

@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de la quatrième saison](../4_quatrieme_saison/saison_fugace)
 pictures: []
 poemType: ""

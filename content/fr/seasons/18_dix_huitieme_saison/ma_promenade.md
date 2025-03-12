@@ -17,7 +17,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-location:
+locations:
     - Charleroi
 ---
 Passereaux bruns en farandole

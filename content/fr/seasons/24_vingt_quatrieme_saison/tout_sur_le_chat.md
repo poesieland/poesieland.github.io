@@ -12,7 +12,7 @@ tags:
     - lovecat
     - nature
     - "métrique variable"
-location: []
+locations: []
 info: |-
     Métrique variable : 8, 4.
 

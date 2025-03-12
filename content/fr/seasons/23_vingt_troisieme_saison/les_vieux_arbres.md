@@ -12,7 +12,7 @@ tags:
     - "2024"
     - philosophie
     - nature
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes qui commencent par ce vers...

@@ -13,7 +13,7 @@ tags:
     - amour
     - philosophie
     - acrostiche
-location: []
+locations: []
 info: |-
     Les poèmes de ce mini-thème glissant vers la vieillesse :
     {{% include "../../includes/demain_etre" hidefirstheading %}}

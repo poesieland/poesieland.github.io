@@ -7,7 +7,7 @@ categories = [ "Ville", "Temps" ]
 tags = [ "ombres et lumières", "philosophie", "2004" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Douceur du soir, Paris tu

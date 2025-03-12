@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Dawn
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

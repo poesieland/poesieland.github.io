@@ -12,7 +12,7 @@ tags:
     - "2024"
     - saisons
     - philosophie
-location: []
+locations: []
 info: Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/ville_de_mes_amours)
 pictures: []
 type: default

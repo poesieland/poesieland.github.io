@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Faith
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

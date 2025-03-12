@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - amour
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Parce qu'une [chanson de Céline Dion](https://www.google.com/search?q=pour+que+tu+m%27aimes+encore) ne quittait pas ma tête.

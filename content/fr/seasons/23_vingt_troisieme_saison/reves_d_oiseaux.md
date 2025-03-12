@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - nature
-location: []
+locations: []
 info: Reprise des deux premiers vers d'un [poème de de la deuxième saison](../2_deuxieme_saison/les_oiseaux)
 pictures: []
 poemType: ""

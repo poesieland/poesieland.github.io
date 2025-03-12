@@ -7,7 +7,7 @@ categories = [ "Hiver", "Enfance et adolescence" ]
 tags = [ "1997", "saisons", "philosophie" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-location = [ "Où je n'ai pas été" ]
+locations = [ "Où je n'ai pas été" ]
 +++
 
 Dans le grand Nord, autre savane,

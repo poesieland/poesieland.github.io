@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - attitudes
-location: []
+locations: []
 info: |-
     Les poèmes qui commencent par ce vers...
     {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}

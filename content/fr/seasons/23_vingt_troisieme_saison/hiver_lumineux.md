@@ -12,7 +12,7 @@ tags:
     - "2024"
     - nature
     - saisons
-location: []
+locations: []
 info: La neige d'un [poème de la deuxième saison](../2_deuxieme_saison/neige) remplacée par le givre ce jour pour une même impression d'absolu.
 pictures: []
 poemType: ""

@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Time
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

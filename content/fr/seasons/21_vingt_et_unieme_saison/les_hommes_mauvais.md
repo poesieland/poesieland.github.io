@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: Reprise modifiée des deux premiers vers d'un [poème de la onzième saison](../11_onzieme_saison/guerre)
 pictures: []
 type: default

@@ -12,7 +12,7 @@ tags:
     - "2024"
     - amour
     - nature
-location: []
+locations: []
 info: J'avais ces *[chants des mariniers](https://www.poetica.fr/poeme-698/charles-baudelaire-parfum-exotique/)* en tête...
 pictures: []
 type: default

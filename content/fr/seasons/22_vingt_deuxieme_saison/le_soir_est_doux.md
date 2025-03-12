@@ -12,7 +12,7 @@ tags:
     - "2024"
     - ombres et lumières
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

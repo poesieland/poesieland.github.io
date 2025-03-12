@@ -7,7 +7,7 @@ categories = [ "Ville", "Portraits" ]
 tags = [ "ombres et lumières", "philosophie", "2001" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
-location = [ "Côte atlantique" ]
+locations = [ "Côte atlantique" ]
 +++
 
 La cité m'interpelle:

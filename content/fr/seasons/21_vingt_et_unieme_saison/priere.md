@@ -11,7 +11,7 @@ tags:
     - "2024"
     - philosophie
     - acrostiche
-location:
+locations:
     - Mont des Cats
 info: ""
 pictures: []

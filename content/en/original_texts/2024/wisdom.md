@@ -7,7 +7,7 @@ verseLength: 0
 divider: ""
 categories:
     - Being
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

@@ -11,7 +11,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
 pictures: []
 poemType: ""

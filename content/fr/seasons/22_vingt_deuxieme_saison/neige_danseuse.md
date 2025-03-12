@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

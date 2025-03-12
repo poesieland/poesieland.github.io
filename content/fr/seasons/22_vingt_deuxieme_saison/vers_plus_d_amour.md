@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: Reprise modifiée du premier vers "J'écoute un coeur qui bat tout bas" d'un [poème de la dix-neuvième saison](../19_dix_neuvieme_saison/ton_coeur).
 pictures: []
 poemType: ""

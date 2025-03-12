@@ -11,7 +11,7 @@ tags:
     - "2025"
     - amour
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

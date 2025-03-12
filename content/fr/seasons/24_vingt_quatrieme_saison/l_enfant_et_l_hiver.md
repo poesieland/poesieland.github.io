@@ -14,7 +14,7 @@ tags:
     - nature
     - saisons
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

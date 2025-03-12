@@ -11,7 +11,7 @@ categories:
 tags:
     - "2024"
     - philosophie
-location: []
+locations: []
 info: "[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)"
 pictures: []
 poemType: ""

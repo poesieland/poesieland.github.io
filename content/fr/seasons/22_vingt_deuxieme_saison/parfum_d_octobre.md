@@ -10,7 +10,7 @@ categories:
 tags:
     - "2024"
     - saisons
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)

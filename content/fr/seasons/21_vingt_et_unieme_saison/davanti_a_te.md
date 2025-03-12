@@ -13,7 +13,7 @@ tags:
     - acrostiche
     - amour
     - ombres et lumières
-location:
+locations:
     - Où je n'ai pas été
 info: '"Devant toi" en italien'
 pictures: []

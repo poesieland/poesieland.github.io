@@ -13,7 +13,7 @@ tags:
     - nature
     - "métrique variable"
     - ombres et lumières
-location: []
+locations: []
 info: "Métrique variable : 8, 2."
 pictures: []
 poemType: ""

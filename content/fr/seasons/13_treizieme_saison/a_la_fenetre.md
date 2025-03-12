@@ -8,7 +8,7 @@ tags = [ "ombres et lumières", "philosophie", "1999", "acrostiche" ]
 acrostiche = "A la fenêtre"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Assise à la fenêtre Est, une jeune fille,

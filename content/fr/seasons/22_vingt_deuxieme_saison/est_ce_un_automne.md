@@ -13,7 +13,7 @@ tags:
     - "2024"
     - philosophie
     - saisons
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Encore une variation sur cette question que j'adore...

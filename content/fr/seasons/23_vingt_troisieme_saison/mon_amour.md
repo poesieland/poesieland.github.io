@@ -12,7 +12,7 @@ tags:
     - "2024"
     - amour
     - attitudes
-location: []
+locations: []
 info: Parce que trottaient dans ma tête [cette chanson de Patrick Bruel et même l'album éponyme](https://www.google.com/search?q=juste+avant+patrick+bruel&oq=juste+avant+patrick+bruel)
 pictures: []
 poemType: ""

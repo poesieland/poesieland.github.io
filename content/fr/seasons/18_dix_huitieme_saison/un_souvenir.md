@@ -16,7 +16,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-location:
+locations:
     - Lorraine
 ---
 Un souvenir m'est tendre,

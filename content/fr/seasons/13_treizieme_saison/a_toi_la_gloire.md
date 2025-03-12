@@ -8,7 +8,7 @@ tags = [ "philosophie", "1999", "acrostiche" ]
 acrostiche = "A Toi la gloire"
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
-location = [ "Paris" ]
+locations = [ "Paris" ]
 +++
 
 Accueille un pécheur en ton sein, Sainte Mère !

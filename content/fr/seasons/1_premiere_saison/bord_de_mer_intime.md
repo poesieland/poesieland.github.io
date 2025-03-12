@@ -7,7 +7,7 @@ categories = [ "Mer" ]
 tags = [ "nature", "1996" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Côte atlantique" ]
+locations = [ "Côte atlantique" ]
 +++
 
 Un souvenir marin m'emplissait tout à l'heure,

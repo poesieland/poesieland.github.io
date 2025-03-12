@@ -7,7 +7,7 @@ categories = [ "Enfance et adolescence" ]
 tags = [ "philosophie", "1997" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 Quand l'automne s'embrume

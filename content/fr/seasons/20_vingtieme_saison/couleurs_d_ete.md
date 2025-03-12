@@ -12,7 +12,7 @@ tags:
     - "2024"
     - saisons
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 type: default

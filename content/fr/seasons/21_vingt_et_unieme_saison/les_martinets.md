@@ -11,7 +11,7 @@ categories:
 tags:
     - "2024"
     - nature
-location: []
+locations: []
 info: ""
 pictures:
     - 08.07.2024

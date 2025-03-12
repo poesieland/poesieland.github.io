@@ -7,7 +7,7 @@ categories = [ "Etre" ]
 tags = [ "philosophie", "2004" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Bordeaux" ]
+locations = [ "Bordeaux" ]
 +++
 
 Le vent bruisse, rêveur, sur le nuage argent.

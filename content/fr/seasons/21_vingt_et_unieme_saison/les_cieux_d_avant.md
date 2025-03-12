@@ -13,7 +13,7 @@ tags:
     - "2024"
     - nature
     - philosophie
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de la vingtième saison](../20_vingtieme_saison/l_ordre_des_choses)
 pictures: []
 type: default

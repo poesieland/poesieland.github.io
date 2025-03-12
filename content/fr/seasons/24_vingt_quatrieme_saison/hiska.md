@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - nature
-location: []
+locations: []
 info: "Un autre poème qui l'évoque légèrement : [Présent simple](../18_dix_huitieme_saison/present_simple)"
 pictures:
     - Le 16.06.2012 (3 mois). Un air canaille 🥰

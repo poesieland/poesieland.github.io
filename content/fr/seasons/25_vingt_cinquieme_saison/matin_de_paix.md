@@ -14,7 +14,7 @@ tags:
     - ombres et lumières
     - philosophie
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

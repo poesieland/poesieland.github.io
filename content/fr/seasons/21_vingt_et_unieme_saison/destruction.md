@@ -15,7 +15,7 @@ tags:
     - philosophie
     - saisons
     - nature
-location: []
+locations: []
 info: |-
     {{% notice style="primary" %}}
     Les poèmes qui commencent par ce vers...

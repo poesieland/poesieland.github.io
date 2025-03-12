@@ -8,7 +8,7 @@ tags = [ "nature", "philosophie", "2004", "doubleAcrostiche" ]
 doubleAcrostiche = "Chênes | destin"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Bordeaux" ]
+locations = [ "Bordeaux" ]
 +++
 
 Chênes verts comme nos vies
