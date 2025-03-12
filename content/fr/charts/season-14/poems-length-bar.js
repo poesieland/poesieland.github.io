@@ -11,5 +11,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '16', value: 6 },
 ]
   ];
-    addBarChart('season14PoemLengthBar', ['Poèmes'], data, { scales: { y: { ticks: { stepSize: 1 } } } });
+    addBarChart('season14PoemLengthBar', ['Poèmes'], data, {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
