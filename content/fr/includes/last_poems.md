@@ -4,13 +4,11 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Tout recommence, écrit le 04.03.2025](./seasons/25_vingt_cinquieme_saison/tout_recommence/)
+[Apaisé, écrit le 08.03.2025](./seasons/25_vingt_cinquieme_saison/apaise/)
 
-[Faucheuse, écrit le 04.03.2025](./seasons/25_vingt_cinquieme_saison/faucheuse/)
+[Départs, écrit le 07.03.2025](./seasons/25_vingt_cinquieme_saison/departs/)
 
-[Carnaval, écrit le 02.03.2025](./seasons/25_vingt_cinquieme_saison/carnaval/)
+[Grain à grain, écrit le 06.03.2025](./seasons/25_vingt_cinquieme_saison/grain_a_grain/)
 
-[A chacun sa saison, écrit le 01.03.2025](./seasons/25_vingt_cinquieme_saison/a_chacun_sa_saison/)
-
-[L'art de dormir, écrit le 28.02.2025](./seasons/25_vingt_cinquieme_saison/l_art_de_dormir/)
+[Choix, écrit le 05.03.2025](./seasons/25_vingt_cinquieme_saison/choix/)
 

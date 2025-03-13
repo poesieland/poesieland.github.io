@@ -38,3 +38,7 @@ Les reprises peuvent être vues comme des mini-thèmes.
 **A la vingt-quatrième saison**
 - Depuis la douzième saison : ["On ne voit bien qu'avec le/son coeur"](../seasons/24_vingt_quatrieme_saison/l_amour_parfait)
 - Depuis la cinquième saison : ["Le ciel est bleu marine"](../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)
+
+**A la vingt-cinquième saison**
+- Depuis la cinquième saison : ["Si j'ai du sable au fond du coeur"](../seasons/25_vingt_cinquieme_saison/grain_a_grain)
+- Depuis la quatrième saison : ["Quand un avion trace / un trait de mille feux"](../seasons/25_vingt_cinquieme_saison/departs)

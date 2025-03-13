@@ -3,9 +3,11 @@ title = "Renaissance"
 id = "renaissance_20"
 date = 2024-06-13
 weight = 35
-categories = ["Aube"]
-tags = ["ombres et lumières", "2024"]
-info = "Reprise légèrement modifiée des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/calme_du_soir)"
+categories = [ "Aube" ]
+tags = [ "ombres et lumières", "2024" ]
+info = """
+Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
+{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,5 +39,6 @@ Discours faux qui ment comme respire :
 Je m'envole à l'orbe du matin.
 
 {{% notice style="primary" %}}
-Reprise légèrement modifiée des deux premiers vers d'un [poème de la troisième saison](../3_troisieme_saison/calme_du_soir)
+Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
+{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
 {{% /notice %}}

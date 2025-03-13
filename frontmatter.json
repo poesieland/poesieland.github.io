@@ -535,13 +535,13 @@
       "title": "25_vingt_cinquieme_saison",
       "path": "[[workspace]]/content/fr/seasons/25_vingt_cinquieme_saison"
     },
+    // {
+    //   "title": "EN poems 2025",
+    //   "path": "[[workspace]]/content/en/original_texts/2025"
+    // },
     {
       "title": "24_vingt_quatrieme_saison",
       "path": "[[workspace]]/content/fr/seasons/24_vingt_quatrieme_saison"
-    },
-    {
-      "title": "EN poems 2024",
-      "path": "[[workspace]]/content/en/original_texts/2024"
     },
     {
       "title": "23_vingt_troisieme_saison",
