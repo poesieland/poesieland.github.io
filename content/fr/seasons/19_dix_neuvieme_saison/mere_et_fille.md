@@ -3,8 +3,8 @@ title = "Mère et fille"
 id = "mere_et_fille_19"
 date = 2024-04-22
 weight = 48
-categories = ["Amitié"]
-tags = ["amour", "2024"]
+categories = [ "Amitié" ]
+tags = [ "2024", "amour", "maman" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

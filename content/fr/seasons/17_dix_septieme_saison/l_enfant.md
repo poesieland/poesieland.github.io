@@ -9,8 +9,9 @@ categories:
 ensureTagAmour5: ""
 ensureTagPhilosophie10: ""
 tags:
-    - philosophie
     - "2007"
+    - philosophie
+    - maman
 info: Quand j'étais enceinte de mon fils aîné.
 poemType: ""
 acrostiche: ""
@@ -44,8 +45,6 @@ C'est toi le natif,
 
 C'est moi l'étrangère.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 Quand j'étais enceinte de mon fils aîné.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

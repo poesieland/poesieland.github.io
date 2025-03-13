@@ -10,6 +10,7 @@ categories:
 tags:
     - "2025"
     - philosophie
+    - maman
 locations:
     - Lorraine
 info: ""

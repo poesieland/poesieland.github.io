@@ -4,9 +4,8 @@ id = "le_vieux_verger_19"
 date = 2024-04-07
 weight = 40
 categories = [ "Jardin et paysage" ]
-tags = [ "nature", "2024" ]
+tags = [ "2024", "nature", "maman" ]
 info = """
-{{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
 {{% /notice %}}"""

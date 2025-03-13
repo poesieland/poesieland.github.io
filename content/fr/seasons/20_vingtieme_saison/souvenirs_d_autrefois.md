@@ -3,8 +3,8 @@ title = "Souvenirs d'autrefois"
 id = "souvenirs_d_autrefois_20"
 date = 2024-05-04
 weight = 8
-categories = ["Enfance et adolescence", "Temps"]
-tags = ["philosophie", "2024"]
+categories = [ "Enfance et adolescence", "Temps" ]
+tags = [ "2024", "philosophie", "maman" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -15,7 +15,7 @@ Chez ma grand-mère, un drap épais
 
 M'attendait pour blottir mon rêve,
 
-La nuit sauvage, obscure trève.
+La nuit sauvage, obscure trêve.
 
 Et pour les hivers sans pardon
 
