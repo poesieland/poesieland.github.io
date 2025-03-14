@@ -2,7 +2,7 @@
 title = "Flore"
 +++
 
-Pour le plaisir, une petite galerie photo avant les poèmes de ce thème...
+Pour le plaisir, une petite galerie photo avant les poèmes de cette catégorie...
 
 [Aller directement aux poèmes](./#a)
 
