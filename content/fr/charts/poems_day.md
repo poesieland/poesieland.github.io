@@ -25,6 +25,8 @@ Et les jours où j'écris plus d'un poème ?
 
 {{< chartjs id="poemIntensityPie" width="60%" jsFile="../general/poem-intensity-pie.js" />}}
 
+{{% include "../includes/most_intense_days.md" true %}}
+
 ## Des jours entre
 
 Et dans le temps, quel est l'intervalle entre deux poèmes ?

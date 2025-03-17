@@ -1,1 +1,1 @@
-Version 4.4.7 from https://github.com/chartjs/Chart.js/releases
+UMD version 4.4.7 from https://github.com/chartjs/Chart.js/releases
