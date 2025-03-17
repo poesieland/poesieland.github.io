@@ -25,7 +25,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Au temps le dire (22) 2024', value: 14, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 14, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Les mots respirent (24) 2024-25', value: 20, color: 'rgba(119, 181, 254, 0.5)' },
-    { label: 'Coeur et âme (25) 2025', value: 4, color: 'rgba(119, 181, 254, 0.5)' },
+    { label: 'Coeur et âme (25) 2025', value: 6, color: 'rgba(119, 181, 254, 0.5)' },
   ];
     addBarChart('poems-natureBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
