@@ -15,10 +15,10 @@ De septembre à décembre 1998
 
 ---
 ## Catégories
-{{< chartjs id="season9Pie" width="90%" jsFile="../../charts/season-9/categories-pie.js" />}}
-## Longueur des vers
-{{< chartjs id="season9VerseLengthBar" width="90%" jsFile="../../charts/season-9/poems-verse-length-bar.js" />}}
+{{< chartjs id="season9Pie" width="75%" jsFile="../../charts/season-9/categories-pie.js" />}}
+## Métrique
+{{< chartjs id="season9VerseLengthBar" width="75%" jsFile="../../charts/season-9/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season9PoemLengthBar" width="90%" jsFile="../../charts/season-9/poems-length-bar.js" />}}
+{{< chartjs id="season9PoemLengthBar" width="75%" jsFile="../../charts/season-9/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season9PoemIntervalBar" width="90%" jsFile="../../charts/season-9/poem-interval-bar.js" />}}
+{{< chartjs id="season9PoemIntervalBar" width="75%" jsFile="../../charts/season-9/poem-interval-bar.js" />}}

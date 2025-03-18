@@ -41,6 +41,6 @@ Certaines fois une mini-nouvelle.
 - [Le mot manquant (18e saison)](../seasons/18_dix_huitieme_saison/le_mot_manquant) 
 - [La mariée rose (21e saison)](../seasons/21_vingt_et_unieme_saison/la_mariee_rose) 
 
-## Données croisées : longueur du vers, nombre de vers
+## Données croisées : métrique, longueur du poème
 
 {{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../general/poem-length-by-verse-length.js" />}}

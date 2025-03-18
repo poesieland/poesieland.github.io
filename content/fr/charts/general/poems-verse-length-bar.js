@@ -35,5 +35,5 @@ import { addBarChart } from '../add-chart.js'
     { label: '8, 6, 4, 2', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: 'poème en prose', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
-    addBarChart('poemVerseLengthBar', ['Poèmes'], [data], {scales: { y: { max: 290 } }});
+    addBarChart('poemVerseLengthBar', ['Poèmes'], [data], {scales: { y: { max: 300 } }});
 })();

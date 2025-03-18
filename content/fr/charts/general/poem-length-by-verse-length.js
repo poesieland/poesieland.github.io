@@ -100,5 +100,5 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 8, y: 12, r: 30, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
-  addBubbleChart('poemLengthByVerseLength', ['Premier quartile','Deuxième quartile','Troisième quartile','Quatrième quartile'], data, {scales: {x:{ticks:{stepSize:1}, title: {display:true, text:'Longueur du vers (0 = variable)'}},y:{ticks:{stepSize:2}, title: {display:true, text:'Nombre de vers'}}}});
+  addBubbleChart('poemLengthByVerseLength', ['Premier quartile','Deuxième quartile','Troisième quartile','Quatrième quartile'], data, {scales: {x:{ticks:{stepSize:1}, title: {display:true, text:'Métrique (0 = variable)'}},y:{ticks:{stepSize:2}, title: {display:true, text:'Nombre de vers'}}}});
 })();

@@ -17,10 +17,10 @@ D'octobre 2023 à janvier 2024
 
 ---
 ## Catégories
-{{< chartjs id="season18Pie" width="90%" jsFile="../../charts/season-18/categories-pie.js" />}}
-## Longueur des vers
-{{< chartjs id="season18VerseLengthBar" width="90%" jsFile="../../charts/season-18/poems-verse-length-bar.js" />}}
+{{< chartjs id="season18Pie" width="75%" jsFile="../../charts/season-18/categories-pie.js" />}}
+## Métrique
+{{< chartjs id="season18VerseLengthBar" width="75%" jsFile="../../charts/season-18/poems-verse-length-bar.js" />}}
 ## Longueur des poèmes
-{{< chartjs id="season18PoemLengthBar" width="90%" jsFile="../../charts/season-18/poems-length-bar.js" />}}
+{{< chartjs id="season18PoemLengthBar" width="75%" jsFile="../../charts/season-18/poems-length-bar.js" />}}
 ## Intervalle
-{{< chartjs id="season18PoemIntervalBar" width="90%" jsFile="../../charts/season-18/poem-interval-bar.js" />}}
+{{< chartjs id="season18PoemIntervalBar" width="75%" jsFile="../../charts/season-18/poem-interval-bar.js" />}}
