@@ -58,6 +58,6 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
 
 {{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../general/poem-length-by-verse-length.js" />}}
 
-<!-- ## Données croisées : catégorie, métrique
+## Données croisées : catégorie, métrique
 
-{{< chartjs id="categoryMetric" width="100%" jsFile="../general/category-metric.js" />}} -->
+{{< chartjs id="categoryMetric" width="100%" jsFile="../general/category-metric.js" />}}
