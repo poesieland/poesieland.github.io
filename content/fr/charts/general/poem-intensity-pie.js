@@ -1,9 +1,9 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: '1 poème', value: 784, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: '2 poèmes', value: 158, color: 'rgba(72, 149, 239, 0.6)' },
-    { label: '3 poèmes', value: 26, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '1 poème', value: 786, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: '2 poèmes', value: 159, color: 'rgba(72, 149, 239, 0.6)' },
+    { label: '3 poèmes', value: 27, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4 poèmes', value: 7, color: 'rgba(72, 149, 239, 0.8)' },
     { label: '5 poèmes', value: 4, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '6 poèmes', value: 1, color: 'rgba(72, 149, 239, 1)' },
