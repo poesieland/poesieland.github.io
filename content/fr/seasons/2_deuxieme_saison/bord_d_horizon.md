@@ -22,7 +22,7 @@ Car pour vouloir
 
 Bien vivre encore,
 
-Soleil! Dévore
+Soleil ! Dévore
 
 Ce triste soir !
 

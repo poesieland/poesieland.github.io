@@ -28,7 +28,7 @@ Dérive
 D'un monde hideux et banal.
 
  \
-Gercure,
+Gerçure,
 
 Tout glisse et puis se détruit,
 
