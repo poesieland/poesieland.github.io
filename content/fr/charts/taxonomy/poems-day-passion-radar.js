@@ -78,7 +78,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
     { label: 'Printemps', value: 0 },
     { label: '', value: 0 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 1 },
   ];
-  addRadarChart('poemDay-passionRadar', ['Mois les plus représentés : juillet, août, mai, janvier'], [data], { backgroundColor: 'rgba(199, 44, 72, 0.5)', borderColor: 'rgba(199, 44, 72, 1)', pointBackgroundColor: 'rgba(199, 44, 72, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-passionRadar', ['Mois les plus représentés : juillet, août, mars, mai'], [data], { backgroundColor: 'rgba(199, 44, 72, 0.5)', borderColor: 'rgba(199, 44, 72, 1)', pointBackgroundColor: 'rgba(199, 44, 72, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

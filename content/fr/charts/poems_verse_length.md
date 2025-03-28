@@ -23,11 +23,12 @@ Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que
 - [Nativité (23e saison)](../seasons/23_vingt_troisieme_saison/nativite)
 - [L'heure du chat (24e saison)](../seasons/24_vingt_quatrieme_saison/l_heure_du_chat)
 - [Fantomatique (24e saison)](../seasons/24_vingt_quatrieme_saison/fantomatique)
+- [Lune délaissée (25e saison)](../seasons/25_vingt_cinquieme_saison/lune_delaissee)
 
 #### En vers de 3 pieds
 
-- [L'amoureuse (3e saison)](../seasons/3_troisieme_saison/l_amoureuse)
 - [Minimal (3e saison)](../seasons/3_troisieme_saison/minimal)
+- [L'amoureuse (3e saison)](../seasons/3_troisieme_saison/l_amoureuse)
 - [Vivre (4e saison)](../seasons/4_quatrieme_saison/vivre)
 - [Quand les jours... (17e saison)](../seasons/17_dix_septieme_saison/quand_les_jours)
 - [Ciel triste (18e saison)](../seasons/18_dix_huitieme_saison/ciel_triste)
@@ -36,6 +37,7 @@ Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que
 - [Jour d'automne (22e saison)](../seasons/22_vingt_deuxieme_saison/jour_d_automne)
 - [Nouveau monde (24e saison)](../seasons/24_vingt_quatrieme_saison/nouveau_monde)
 - [A l'orée (24e saison)](../seasons/24_vingt_quatrieme_saison/a_l_oree)
+- [Aube renouveau (25e saison)](../seasons/25_vingt_cinquieme_saison/aube_renouveau)
 
 ### Très long
 
