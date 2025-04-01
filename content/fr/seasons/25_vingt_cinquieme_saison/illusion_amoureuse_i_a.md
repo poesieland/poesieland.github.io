@@ -7,10 +7,11 @@ verseLength: 8
 divider: ""
 categories:
     - Apprentissage
-    - Amour platonique
+    - Passion
 tags:
     - "2025"
     - philosophie
+    - amour
 location: []
 info: ""
 pictures: []
