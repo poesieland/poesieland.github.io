@@ -10,9 +10,9 @@ weight = 4
 ### Très court
 Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
-Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que deux pieds c'était juste impossible. Mais non.
+Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non.
 
-#### En vers de 2 pieds
+#### En vers de 2 syllabes
 
 - [Bohème (3e saison)](../seasons/3_troisieme_saison/boheme)
 - [Solo de lune (19e saison)](../seasons/19_dix_neuvieme_saison/solo_de_lune)
@@ -25,7 +25,7 @@ Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que
 - [Fantomatique (24e saison)](../seasons/24_vingt_quatrieme_saison/fantomatique)
 - [Lune délaissée (25e saison)](../seasons/25_vingt_cinquieme_saison/lune_delaissee)
 
-#### En vers de 3 pieds
+#### En vers de 3 syllabes
 
 - [Minimal (3e saison)](../seasons/3_troisieme_saison/minimal)
 - [L'amoureuse (3e saison)](../seasons/3_troisieme_saison/l_amoureuse)
@@ -41,7 +41,7 @@ Deux pieds mais aussi trois pieds parce que pendant longtemps je me suis dit que
 
 ### Très long
 
-Au-delà de l'alexandrin, les poèmes en vers de 14 pieds :
+Au-delà de l'alexandrin, les poèmes en vers de 14 syllabes :
 - [Il faro (10e saison)](../seasons/10_dixieme_saison/il_faro)
 - [Au-dela : voie (12e saison)](../seasons/12_douzieme_saison/au_dela_voie)
 - [L'air : rapsodie (14e saison)](../seasons/14_quatorzieme_saison/l_air_rapsodie)
