@@ -4,14 +4,10 @@ id = "maux_de_mots_6"
 date = 1998-05-07
 weight = 2
 categories = [ "Apprentissage" ]
-tags = [ "philosophie", "1998" ]
+tags = [ "philosophie", "1998", "les mots" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
-info = """
-{{% notice style="primary" %}}
-Les poèmes du mini-thème "les mots" :
-{{% include "../../includes/les_mots" hidefirstheading %}}
-{{% /notice %}}"""
+info = '[Les poèmes du mini-thème "les mots"](/tags/les-mots)'
 +++
 
 Des mots touchants,
@@ -59,6 +55,5 @@ On n'y peut voir
 Qu'en prenant l'âge...
 
 {{% notice style="primary" %}}
-Les poèmes du mini-thème "les mots" :
-{{% include "../../includes/les_mots" hidefirstheading %}}
+[Les poèmes du mini-thème "les mots"](/tags/les-mots)
 {{% /notice %}}

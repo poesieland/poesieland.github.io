@@ -11,12 +11,9 @@ categories:
 tags:
     - "2024"
     - philosophie
+    - les mots
 locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Les poèmes du mini-thème "les mots" :
-    {{% include "../../includes/les_mots" hidefirstheading %}}
-    {{% /notice %}}
+info: '[Les poèmes du mini-thème "les mots"](/tags/les-mots)'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -68,6 +65,5 @@ Vrais, sans censure,
 D'eux-mêmes mus.
 
 {{% notice style="primary" %}}
-Les poèmes du mini-thème "les mots" :
-{{% include "../../includes/les_mots" hidefirstheading %}}
+[Les poèmes du mini-thème "les mots"](/tags/les-mots)
 {{% /notice %}}

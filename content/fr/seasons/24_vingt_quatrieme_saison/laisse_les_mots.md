@@ -10,10 +10,14 @@ categories:
     - Apprentissage
 tags:
     - "2025"
+    - métrique variable
     - philosophie
-    - "métrique variable"
+    - les mots
 locations: []
-info: "Métrique variable : 6, 3."
+info: |-
+    Métrique variable : 6, 3.
+
+    [Les poèmes du mini-thème "les mots"](/tags/les-mots)
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -67,6 +71,5 @@ Mots-images.
 {{% notice style="primary" %}}
 Métrique variable : 6, 3.
 
-Les poèmes du mini-thème "les mots" :
-{{% include "../../includes/les_mots" hidefirstheading %}}
+[Les poèmes du mini-thème "les mots"](/tags/les-mots)
 {{% /notice %}}

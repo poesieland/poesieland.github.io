@@ -4,9 +4,13 @@ weight = 3
 type = "chapter"
 +++
 
-Reprendre pour mieux redonner : l'art de la reprise, dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
+Reprendre pour mieux redonner : l'art de la reprise.
 
-Les reprises peuvent être vues comme des mini-thèmes.
+Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
+
+### Mini-thèmes
+
+  - ["Les mots" - depuis la sixième saison](/tags/les-mots)
 
 ### Reprises multiples
 
