@@ -3,11 +3,11 @@ title = "Métrique"
 weight = 4
 +++
 
-## Court ou long
+## Courte ou longue
 
-{{< chartjs id="poemVerseLengthBar" width="100%" jsFile="../general/poems-verse-length-bar.js" />}}
+{{< chartjs id="poemVerseLengthPie" width="60%" jsFile="../general/poems-verse-length-pie.js" />}}
 
-### Très court
+### Très courte...
 Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
 Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non.
@@ -39,7 +39,7 @@ Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis d
 - [A l'orée (24e saison)](../seasons/24_vingt_quatrieme_saison/a_l_oree)
 - [Aube renouveau (25e saison)](../seasons/25_vingt_cinquieme_saison/aube_renouveau)
 
-### Très long
+### Très longue...
 
 Au-delà de l'alexandrin, les poèmes en vers de 14 syllabes :
 - [Il faro (10e saison)](../seasons/10_dixieme_saison/il_faro)
@@ -48,7 +48,7 @@ Au-delà de l'alexandrin, les poèmes en vers de 14 syllabes :
 - [L'automne oublié (14e saison)](../seasons/14_quatorzieme_saison/l_automne_oublie)
 - [Nos nuits (15e saison)](../seasons/15_quinzieme_saison/nos_nuits)
 
-### Et variable
+### Et variable !
 
 [Vers ces {{% include "/content/common/variable_metric_poem_count.md" %}} poèmes](/tags/métrique-variable)
 
