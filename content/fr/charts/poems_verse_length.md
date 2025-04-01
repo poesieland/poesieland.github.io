@@ -10,7 +10,10 @@ weight = 4
 ### Très courte...
 Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
-Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non.
+Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non. Et même... une.
+
+#### En vers d'une syllabe
+- [Nuit noire (25e saison)](../seasons/25_vingt_cinquieme_saison/nuit_noire)
 
 #### En vers de 2 syllabes
 
@@ -24,6 +27,7 @@ Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis d
 - [L'heure du chat (24e saison)](../seasons/24_vingt_quatrieme_saison/l_heure_du_chat)
 - [Fantomatique (24e saison)](../seasons/24_vingt_quatrieme_saison/fantomatique)
 - [Lune délaissée (25e saison)](../seasons/25_vingt_cinquieme_saison/lune_delaissee)
+- [Sincérité (25e saison)](../seasons/25_vingt_cinquieme_saison/sincerite)
 
 #### En vers de 3 syllabes
 

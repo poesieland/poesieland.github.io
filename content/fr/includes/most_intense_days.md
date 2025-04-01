@@ -18,4 +18,4 @@ title = "Les jours les plus intenses"
   - 1999 : samedi 1 mai 1999, lundi 10 mai 1999, mercredi 19 mai 1999, mardi 1 juin 1999, dimanche 6 juin 1999, mercredi 9 juin 1999, jeudi 22 juillet 1999
   - 2004 : lundi 26 avril 2004
   - 2024 : dimanche 31 mars 2024, lundi 29 avril 2024, samedi 15 juin 2024, samedi 24 août 2024, dimanche 22 décembre 2024
-  - 2025 : samedi 11 janvier 2025, dimanche 16 février 2025, dimanche 9 mars 2025, dimanche 16 mars 2025
+  - 2025 : samedi 11 janvier 2025, dimanche 16 février 2025, dimanche 9 mars 2025, dimanche 16 mars 2025, jeudi 27 mars 2025
