@@ -89,7 +89,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: 'Avril', value: 0 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-musique_et_chantRadar', ['Mois les plus représentés : mai, juin, juillet, avril'], [data], { backgroundColor: 'rgba(252, 191, 140, 0.5)', borderColor: 'rgba(252, 191, 140, 1)', pointBackgroundColor: 'rgba(252, 191, 140, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-musique_et_chantRadar', ['Mois les plus représentés : mai, juin, juillet, mars'], [data], { backgroundColor: 'rgba(252, 191, 140, 0.5)', borderColor: 'rgba(252, 191, 140, 1)', pointBackgroundColor: 'rgba(252, 191, 140, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

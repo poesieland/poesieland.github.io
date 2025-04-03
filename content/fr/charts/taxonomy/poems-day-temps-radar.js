@@ -88,8 +88,8 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
+    { label: '', value: 1 },
     { label: '', value: 1 },
     { label: '', value: 1 },
     { label: 'Avril', value: 1 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-tempsRadar', ['Mois les plus représentés : avril, janvier, août, décembre'], [data], { backgroundColor: 'rgba(140, 7, 221, 0.5)', borderColor: 'rgba(140, 7, 221, 1)', pointBackgroundColor: 'rgba(140, 7, 221, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-tempsRadar', ['Mois les plus représentés : avril, janvier, mars, août'], [data], { backgroundColor: 'rgba(140, 7, 221, 0.5)', borderColor: 'rgba(140, 7, 221, 1)', pointBackgroundColor: 'rgba(140, 7, 221, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();
