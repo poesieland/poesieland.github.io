@@ -4,7 +4,7 @@ id = "le_sursaut_1"
 date = 1994-01-01
 weight = 49
 categories = ["Révolte"]
-tags = ["philosophie", "1994"]
+tags = ["philosophie", "1994", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

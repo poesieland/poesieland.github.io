@@ -4,7 +4,7 @@ id = "ouragan_1"
 date = 1996-07-03
 weight = 24
 categories = ["Mouvement"]
-tags = ["attitudes", "1996"]
+tags = ["attitudes", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

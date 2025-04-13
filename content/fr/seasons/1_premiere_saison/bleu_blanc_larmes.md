@@ -3,12 +3,12 @@ title = "Bleu, blanc, larmes"
 id = "bleu_blanc_larmes_1"
 date = 1994-01-01
 weight = 39
-categories = [ "Révolte" ]
-tags = [ "philosophie", "1994" ]
+categories = ["Révolte"]
+tags = ["philosophie", "1994", "alexandrin"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Le muezzin appelle et chacun s'agenouille :

@@ -4,7 +4,7 @@ id = "senteurs_troublees_des_clematites_1"
 date = 1996-06-07
 weight = 13
 categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "jardin_1"
 date = 1996-06-28
 weight = 19
 categories = ["Jardin et paysage", "Flore"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,11 +3,11 @@ title = "Amitié d'enfance"
 id = "amitie_d_enfance_1"
 date = 1996-08-23
 weight = 20
-categories = [ "Amitié", "Enfance et adolescence" ]
-tags = [ "amour", "philosophie", "1996" ]
+categories = ["Amitié", "Enfance et adolescence"]
+tags = ["amour", "philosophie", "1996", "octosyllabe"]
 verseLength = 8
+locations = ["Lorraine"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Lorraine" ]
 +++
 
 Que n'es-tu là, ma belle amie

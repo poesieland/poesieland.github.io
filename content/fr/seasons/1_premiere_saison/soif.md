@@ -4,7 +4,7 @@ id = "soif_1"
 date = 1996-07-31
 weight = 40
 categories = ["Espoir"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

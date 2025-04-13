@@ -4,7 +4,7 @@ id = "hymne_a_la_lune_1"
 date = 1996-06-20
 weight = 18
 categories = ["Lune"]
-tags = ["ombres et lumières", "1996"]
+tags = ["ombres et lumières", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

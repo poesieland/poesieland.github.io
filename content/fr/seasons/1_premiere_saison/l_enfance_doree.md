@@ -3,12 +3,12 @@ title = "L'enfance dorée"
 id = "l_enfance_doree_1"
 date = 1994-01-01
 weight = 16
-categories = [ "Enfance et adolescence", "Flore" ]
-tags = [ "philosophie", "nature", "1994" ]
+categories = ["Enfance et adolescence", "Flore"]
+tags = ["philosophie", "nature", "1994", "alexandrin"]
 info = "Reprise en 1996 d'un poème de 1994"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-locations = [ "Lorraine" ]
+locations = ["Lorraine"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les bois d'un si beau vert me semblaient éloignés :

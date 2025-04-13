@@ -4,7 +4,7 @@ id = "desert_1"
 date = 1996-07-03
 weight = 23
 categories = ["Jardin et paysage"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,11 +3,11 @@ title = "Enfance lorraine"
 id = "enfance_lorraine_1"
 date = 1996-06-11
 weight = 15
-categories = [ "Enfance et adolescence", "Flore" ]
-tags = [ "philosophie", "nature", "1996" ]
+categories = ["Enfance et adolescence", "Flore"]
+tags = ["philosophie", "nature", "1996", "alexandrin"]
 verseLength = 12
+locations = ["Lorraine"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Lorraine" ]
 +++
 
 O forêt mon amour, tes arbres mes châteaux

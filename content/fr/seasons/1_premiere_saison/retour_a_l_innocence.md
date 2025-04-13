@@ -4,7 +4,7 @@ id = "retour_a_l_innocence_1"
 date = 1996-02-19
 weight = 12
 categories = ["Neige", "Enfance et adolescence"]
-tags = ["nature", "philosophie", "1996"]
+tags = ["nature", "philosophie", "1996", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
