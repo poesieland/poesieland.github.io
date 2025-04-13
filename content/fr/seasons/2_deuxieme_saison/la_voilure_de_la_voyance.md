@@ -4,7 +4,7 @@ id = "la_voilure_de_la_voyance_2"
 date = 1996-09-09
 weight = 40
 categories = ["Etre"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,11 +3,11 @@ title = "La lande"
 id = "la_lande_2"
 date = 1996-12-02
 weight = 49
-categories = [ "Jardin et paysage" ]
-tags = [ "nature", "1996" ]
+categories = ["Jardin et paysage"]
+tags = ["nature", "1996", "octosyllabe"]
 verseLength = 8
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Dans le pays du bout du monde

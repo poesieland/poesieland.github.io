@@ -4,7 +4,7 @@ id = "bord_d_horizon_2"
 date = 1996-10-11
 weight = 31
 categories = ["Aube", "Crépuscule"]
-tags = ["ombres et lumières", "1996"]
+tags = ["ombres et lumières", "1996", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

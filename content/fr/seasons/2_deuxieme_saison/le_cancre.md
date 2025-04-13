@@ -4,7 +4,7 @@ id = "le_cancre_2"
 date = 1996-09-13
 weight = 41
 categories = ["Portraits"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

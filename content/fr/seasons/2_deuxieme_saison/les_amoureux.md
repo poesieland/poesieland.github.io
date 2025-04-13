@@ -4,7 +4,7 @@ id = "les_amoureux_2"
 date = 1996-11-07
 weight = 7
 categories = ["Romantisme"]
-tags = ["amour", "1996"]
+tags = ["amour", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

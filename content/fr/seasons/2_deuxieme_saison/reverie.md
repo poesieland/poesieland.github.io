@@ -4,7 +4,7 @@ id = "reverie_2"
 date = 1996-10-02
 weight = 38
 categories = ["Etre"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

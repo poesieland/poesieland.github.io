@@ -4,7 +4,7 @@ id = "tous_les_chemins_2"
 date = 1996-10-08
 weight = 46
 categories = ["Création"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

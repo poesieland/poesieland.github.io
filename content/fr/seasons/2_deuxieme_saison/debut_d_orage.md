@@ -4,7 +4,7 @@ id = "debut_d_orage_2"
 date = 1996-11-27
 weight = 36
 categories = ["Ciel"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,8 +3,8 @@ title = "Passion"
 id = "passion_2"
 date = 1996-11-06
 weight = 4
-categories = [ "Passion" ]
-tags = [ "amour", "1996" ]
+categories = ["Passion"]
+tags = ["amour", "1996", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

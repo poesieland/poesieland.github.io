@@ -3,11 +3,10 @@ title = "Annabelle"
 id = "annabelle_2"
 date = 1996-09-24
 weight = 2
-categories = [ "Portraits" ]
-tags = [ "philosophie", "1996" ]
+categories = ["Portraits"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = ""
 +++
 
 Un air de petit chat, c'était tout Annabelle,

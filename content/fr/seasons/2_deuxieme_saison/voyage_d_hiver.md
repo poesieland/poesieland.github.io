@@ -3,11 +3,11 @@ title = "Voyage d'hiver"
 id = "voyage_d_hiver_2"
 date = 1996-12-06
 weight = 23
-categories = [ "Hiver" ]
-tags = [ "saisons", "1996" ]
+categories = ["Hiver"]
+tags = ["saisons", "1996", "hexasyllabe"]
 verseLength = 6
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Le souvenir s'enfuit
