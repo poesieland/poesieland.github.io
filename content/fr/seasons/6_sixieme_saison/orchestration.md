@@ -4,9 +4,9 @@ id = "orchestration_6"
 date = 1998-05-02
 weight = 36
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["attitudes", "1998", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Fredonne-moi l'amour,

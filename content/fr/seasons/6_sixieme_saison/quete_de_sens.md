@@ -4,9 +4,9 @@ id = "quete_de_sens_6"
 date = 1998-05-28
 weight = 1
 categories = ["Création"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je passe d'une langue à l'autre

@@ -4,10 +4,10 @@ id = "la_langue_de_l_amour_6"
 date = 1998-05-13
 weight = 38
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "La langue de l'amour"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'unique langue de l'amour

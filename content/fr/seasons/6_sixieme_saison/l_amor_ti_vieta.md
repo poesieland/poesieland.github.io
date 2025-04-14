@@ -3,12 +3,12 @@ title = "L'amor ti vieta"
 id = "l_amor_ti_vieta_6"
 date = 1998-03-29
 weight = 31
-categories = [ "Mouvement", "Romantisme" ]
-tags = [ "attitudes", "amour", "1998", "acrostiche" ]
+categories = ["Mouvement", "Romantisme"]
+tags = ["attitudes", "amour", "1998", "acrostiche", "alexandrin"]
 info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lentement quand l'amour se pare de merveille,

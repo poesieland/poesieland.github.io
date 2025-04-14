@@ -4,10 +4,10 @@ id = "nostalgique_de_toi_6"
 date = 1998-03-12
 weight = 42
 categories = ["Amitié"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Nostalgique de toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Nostalgique de toi comme un parfum s'embrume;

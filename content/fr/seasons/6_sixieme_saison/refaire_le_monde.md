@@ -4,9 +4,9 @@ id = "refaire_le_monde_6"
 date = 1998-05-04
 weight = 22
 categories = ["Etre"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A l'aube on a refait le monde,

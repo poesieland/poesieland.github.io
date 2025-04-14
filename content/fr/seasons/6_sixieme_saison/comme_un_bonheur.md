@@ -4,10 +4,10 @@ id = "comme_un_bonheur_6"
 date = 1998-05-17
 weight = 37
 categories = ["Mouvement"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Comme un bonheur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme un bonheur au tien promis,

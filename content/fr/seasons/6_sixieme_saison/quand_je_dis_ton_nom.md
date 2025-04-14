@@ -3,11 +3,11 @@ title = "Quand je dis ton nom"
 id = "quand_je_dis_ton_nom_6"
 date = 1998-03-27
 weight = 44
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Quand je dis ton nom"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand je dis ton nom qui s'envole,

@@ -4,7 +4,7 @@ id = "l_esperance_6"
 date = 1998-05-20
 weight = 6
 categories = ["Faune", "Espoir"]
-tags = ["nature", "philosophie", "1998"]
+tags = ["nature", "philosophie", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

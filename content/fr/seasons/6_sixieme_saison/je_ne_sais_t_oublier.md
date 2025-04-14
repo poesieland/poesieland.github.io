@@ -3,11 +3,11 @@ title = "Je ne sais t'oublier"
 id = "je_ne_sais_t_oublier_6"
 date = 1998-05-11
 weight = 45
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je ne sais t'oublier"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je ne sais t'oublier, aimé,

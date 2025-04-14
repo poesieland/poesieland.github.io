@@ -3,15 +3,14 @@ title = "Confidence du soir"
 id = "confidence_du_soir_6"
 date = 1998-05-12
 weight = 33
-categories = [ "Etre" ]
-tags = [ "1998", "philosophie" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = 12
+categories = ["Etre"]
+tags = ["philosophie", "1998", "alexandrin"]
 info = """
-{{% notice style="primary" %}}
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}"""
+"""
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lorsque ainsi se transmue en chaque effleurement
@@ -50,6 +49,8 @@ Berceuse chantonnée au sable trop amer
 Qu'endormira d'un geste une antique pavane...
 
 {{% notice style="primary" %}}
+
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+
 {{% /notice %}}

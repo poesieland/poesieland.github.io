@@ -4,10 +4,10 @@ id = "on_m_a_cousu_le_cour_6"
 date = 1998-04-05
 weight = 4
 categories = ["Espoir"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "On m'a cousu le cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 On m'a cousu les lèvres,

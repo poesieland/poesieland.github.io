@@ -4,10 +4,10 @@ id = "valse_du_temps_6"
 date = 1998-06-01
 weight = 12
 categories = ["Mouvement"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Valse du temps"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Valse du temps vole aquarelles

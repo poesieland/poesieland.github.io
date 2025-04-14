@@ -4,10 +4,10 @@ id = "fils_d_automne_6"
 date = 1998-03-24
 weight = 27
 categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Fils d'automne"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Fils d'automne ton cœur naquit

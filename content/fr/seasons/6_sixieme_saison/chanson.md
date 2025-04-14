@@ -4,9 +4,9 @@ id = "chanson_6"
 date = 1998-05-27
 weight = 41
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["attitudes", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Jubilé d'immense clameur

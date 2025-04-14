@@ -4,10 +4,10 @@ id = "sur_papier_glace_6"
 date = 1998-03-17
 weight = 17
 categories = ["Amitié", "Portraits"]
-tags = ["amour", "philosophie", "1998", "acrostiche"]
+tags = ["amour", "philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Sur papier glacé"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur papier glacé tu souris

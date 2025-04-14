@@ -4,10 +4,10 @@ id = "o_printemps_si_beau_6"
 date = 1998-04-12
 weight = 11
 categories = ["Printemps"]
-tags = ["saisons", "1998", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "O printemps si beau"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 O doux printemps aux magiques senteurs !
