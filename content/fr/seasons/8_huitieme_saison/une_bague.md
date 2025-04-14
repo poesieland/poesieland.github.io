@@ -4,10 +4,10 @@ id = "une_bague_8"
 date = 1998-09-12
 weight = 40
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Une bague"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une bague à ton doigt brillait, vive, frivole,

@@ -4,10 +4,10 @@ id = "d_un_reve_fou_8"
 date = 1998-07-21
 weight = 2
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "D'un rêve fou"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 D'un rêve fou je revois

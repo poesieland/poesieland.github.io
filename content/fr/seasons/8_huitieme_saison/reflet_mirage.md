@@ -4,10 +4,10 @@ id = "reflet_mirage_8"
 date = 1998-08-24
 weight = 28
 categories = ["Création", "Ciel"]
-tags = ["philosophie", "nature", "1998", "acrostiche"]
+tags = ["philosophie", "nature", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Reflet : mirage"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Reflet d'un ciel où plus rien n'a brillé :

@@ -4,10 +4,12 @@ id = "sur_un_air_8"
 date = 1998-07-20
 weight = 1
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
+info = """Les poèmes qui commencent par ce vers...
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
 acrostiche = "Sur un air"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur un air bleu, sur un air blanc
@@ -27,8 +29,8 @@ Imprimer sa plainte fugace!
 Ris au contraire comme on passe!
 
 {{% notice style="primary" %}}
-Acrostiche : Sur un air
-
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
+
+Acrostiche : Sur un air
 {{% /notice %}}

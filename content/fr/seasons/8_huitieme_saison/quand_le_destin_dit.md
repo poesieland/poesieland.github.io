@@ -3,11 +3,11 @@ title = "Quand le destin dit..."
 id = "quand_le_destin_dit_8"
 date = 1998-09-07
 weight = 38
-categories = [ "Création", "Passion" ]
-tags = [ "amour", "philosophie", "1998", "acrostiche" ]
+categories = ["Création", "Passion"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Quand le destin dit..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand le destin dit d'un regard

@@ -3,11 +3,11 @@ title = "Toi qu'on nomme..."
 id = "toi_qu_on_nomme_8"
 date = 1998-07-30
 weight = 17
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Toi qu'on nomme..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Toi qu'on nomme le rêve éternel, sous serment

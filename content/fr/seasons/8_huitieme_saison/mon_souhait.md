@@ -4,10 +4,10 @@ id = "mon_souhait_8"
 date = 1998-07-20
 weight = 9
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Mon souhait"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Menant mes pas vers la fontaine

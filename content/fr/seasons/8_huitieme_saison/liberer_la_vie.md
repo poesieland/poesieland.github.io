@@ -4,10 +4,10 @@ id = "liberer_la_vie_8"
 date = 1998-07-26
 weight = 43
 categories = ["Espoir"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Libérer la vie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Libérer la vie au corps,

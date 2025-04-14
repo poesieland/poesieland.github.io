@@ -4,10 +4,10 @@ id = "je_n_ecrirai_8"
 date = 1998-07-24
 weight = 12
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je n'écrirai"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je n'écrirai plus de poème

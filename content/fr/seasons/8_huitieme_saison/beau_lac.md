@@ -4,10 +4,10 @@ id = "beau_lac_8"
 date = 1998-07-22
 weight = 27
 categories = ["Eau douce"]
-tags = ["nature", "1998", "acrostiche"]
+tags = ["nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Beau lac, miroir, dis..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Beau lac, miroir, dis les splendeurs

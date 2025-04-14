@@ -3,11 +3,11 @@ title = "Céleste"
 id = "celeste_8"
 date = 1998-09-03
 weight = 30
-categories = [ "Nuit", "Musique et chant" ]
-tags = [ "1998", "attitudes", "ombres et lumières", "acrostiche" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = 8
+categories = ["Nuit", "Musique et chant"]
+tags = ["ombres et lumières", "attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Spente le stelle (titre d'une chanson)"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Seul où l'horloge s'abandonne
@@ -38,8 +38,6 @@ Lance l'appel où le silence
 
 Elève cette ode à l'absence.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Spente le stelle (titre d'une chanson)
+Acrostiche : Spente le stelle (titre d'une chanson)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

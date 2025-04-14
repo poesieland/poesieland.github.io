@@ -4,10 +4,10 @@ id = "ton_premier_succes_8"
 date = 1998-08-01
 weight = 19
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Ton premier succès"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ton premier succès fut le mien,

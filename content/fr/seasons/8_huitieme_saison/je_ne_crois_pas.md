@@ -3,11 +3,11 @@ title = "Je ne crois pas..."
 id = "je_ne_crois_pas_8"
 date = 1998-07-29
 weight = 16
-categories = [ "Apprentissage", "Passion" ]
-tags = [ "philosophie", "amour", "1998", "acrostiche" ]
+categories = ["Apprentissage", "Passion"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je ne crois pas..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je ne crois pas dans le hasard,

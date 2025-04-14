@@ -4,10 +4,10 @@ id = "esquisse_8"
 date = 1998-08-11
 weight = 45
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Esquisse"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Esquisse d'un sourire

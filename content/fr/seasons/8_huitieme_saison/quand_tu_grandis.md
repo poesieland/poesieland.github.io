@@ -3,11 +3,11 @@ title = "Quand tu grandis"
 id = "quand_tu_grandis_8"
 date = 1998-07-31
 weight = 18
-categories = [ "Révolte", "Passion" ]
-tags = [ "philosophie", "amour", "1998", "acrostiche" ]
+categories = ["Révolte", "Passion"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Quand tu grandis"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand tu grandis en moi l'émoi dit sans détour

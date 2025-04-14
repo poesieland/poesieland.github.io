@@ -4,10 +4,10 @@ id = "l_automne_d_un_cour_8"
 date = 1998-08-30
 weight = 34
 categories = ["Automne", "Temps", "Musique et chant"]
-tags = ["saisons", "philosophie", "attitudes", "1998", "acrostiche"]
+tags = ["saisons", "philosophie", "attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "L'automne d'un cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne est sourd aux invectives,

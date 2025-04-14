@@ -3,11 +3,11 @@ title = "Offre-moi des roses"
 id = "offre_moi_des_roses_8"
 date = 1998-09-12
 weight = 41
-categories = [ "Flore", "Romantisme" ]
-tags = [ "amour", "nature", "1998", "acrostiche" ]
+categories = ["Flore", "Romantisme"]
+tags = ["nature", "amour", "1998", "acrostiche", "pentasyllabe"]
 acrostiche = "Offre-moi des roses"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Offre-moi des roses,

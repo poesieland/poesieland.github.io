@@ -4,10 +4,10 @@ id = "croyance_8"
 date = 1998-07-28
 weight = 15
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Con te partirò"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ce que l'on croyait vif comme encre indélébile

@@ -4,10 +4,10 @@ id = "secret_d_un_cour_8"
 date = 1998-09-10
 weight = 39
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Secret d'un cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans amour le monde est folie

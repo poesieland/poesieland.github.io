@@ -4,10 +4,10 @@ id = "sur_tes_levres_8"
 date = 1998-07-25
 weight = 4
 categories = ["Toucher", "Etre"]
-tags = ["attitudes", "philosophie", "1998", "acrostiche"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Sur tes lèvres"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur tes lèvres en farandole

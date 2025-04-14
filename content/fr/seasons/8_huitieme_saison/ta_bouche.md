@@ -4,10 +4,10 @@ id = "ta_bouche_8"
 date = 1998-07-28
 weight = 8
 categories = ["Toucher"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Ta bouche"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ta bouche parle pour moi,

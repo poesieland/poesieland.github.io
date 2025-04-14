@@ -4,11 +4,11 @@ id = "dio_m_ha_chiamato_8"
 date = 1998-08-19
 weight = 49
 categories = ["Foi"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 info = "\"Dieu m'a appelée\" en italien."
 acrostiche = "Dio m'ha chiamato"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dieu m'a livré sa parole,
@@ -40,7 +40,7 @@ Terre et cieux lorsque s'élance
 Oratorio d'existence !
 
 {{% notice style="primary" %}}
-\"Dieu m'a appelée\" en italien.
+"Dieu m'a appelée" en italien.
 
 Acrostiche : Dio m'ha chiamato
 {{% /notice %}}
