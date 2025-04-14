@@ -4,10 +4,10 @@ id = "aube_muraille_7"
 date = 1998-07-05
 weight = 29
 categories = ["Aube"]
-tags = ["ombres et lumières", "1998", "acrostiche"]
+tags = ["ombres et lumières", "1998", "acrostiche", "tétrasyllabe"]
 acrostiche = "Aube muraille"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Aube muraille :

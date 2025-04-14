@@ -3,11 +3,11 @@ title = "Amant d'hier, de demain"
 id = "amant_d_hier_de_demain_7"
 date = 1998-07-14
 weight = 18
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Amant d'hier, de demain"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au revoir sans me retourner,

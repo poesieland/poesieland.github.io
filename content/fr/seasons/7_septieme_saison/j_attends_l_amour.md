@@ -4,10 +4,10 @@ id = "j_attends_l_amour_7"
 date = 1998-07-07
 weight = 10
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "J'attends l'amour"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'attends l'amour offert d'un geste

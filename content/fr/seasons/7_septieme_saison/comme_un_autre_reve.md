@@ -3,11 +3,11 @@ title = "Comme un autre rêve"
 id = "comme_un_autre_reve_7"
 date = 1998-07-15
 weight = 20
-categories = [ "Mer", "Angoisse" ]
-tags = [ "nature", "philosophie", "1998", "acrostiche" ]
+categories = ["Mer", "Angoisse"]
+tags = ["nature", "philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Comme un autre rêve"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Calme, la nuit trouée au phare,
@@ -18,7 +18,7 @@ Menuet d'ombres à venir,
 
 Multiple couleur se dépare
 
-\
+ \
 Et brise le songe au rocher.
 
 Une lueur trace des lignes :

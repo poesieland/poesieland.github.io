@@ -4,10 +4,10 @@ id = "liee_a_toi_7"
 date = 1998-07-17
 weight = 21
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Liée à toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Liée à toi par l'ombre et la lumière,

@@ -4,10 +4,10 @@ id = "italia_7"
 date = 1998-06-05
 weight = 38
 categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Italia"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Irréel destin, cœur charmé de promenade

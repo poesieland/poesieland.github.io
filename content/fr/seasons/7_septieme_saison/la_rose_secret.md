@@ -4,10 +4,10 @@ id = "la_rose_secret_7"
 date = 1998-07-06
 weight = 34
 categories = ["Flore", "Création"]
-tags = ["nature", "philosophie", "1998", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "La rose : secret"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La rose sur la table en pétales qui tremblent

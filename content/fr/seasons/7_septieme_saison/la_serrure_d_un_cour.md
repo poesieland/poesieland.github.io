@@ -4,11 +4,11 @@ id = "la_serrure_d_un_cour_7"
 date = 1998-07-02
 weight = 4
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche", "sonnet"]
+tags = ["philosophie", "1998", "acrostiche", "sonnet", "alexandrin"]
 poemType = "sonnet"
 acrostiche = "La clef d'un songe"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La clef d'un songe enfui me laissait infidèle

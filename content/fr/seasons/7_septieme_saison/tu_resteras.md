@@ -4,10 +4,10 @@ id = "tu_resteras_7"
 date = 1998-07-01
 weight = 12
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Tu resteras"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu resteras timbre ténor

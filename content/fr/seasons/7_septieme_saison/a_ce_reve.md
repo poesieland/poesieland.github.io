@@ -4,10 +4,10 @@ id = "a_ce_reve_7"
 date = 1998-07-18
 weight = 23
 categories = ["Espoir", "Romantisme"]
-tags = ["philosophie", "amour", "1998", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "A ce rêve tu dis"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A ce rêve, dis : éclore !

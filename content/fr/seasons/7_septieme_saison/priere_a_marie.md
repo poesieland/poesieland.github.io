@@ -4,10 +4,10 @@ id = "priere_a_marie_7"
 date = 1998-07-11
 weight = 31
 categories = ["Foi"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Prière à Marie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Prière entre mes doigts, éclose à l'espérance,

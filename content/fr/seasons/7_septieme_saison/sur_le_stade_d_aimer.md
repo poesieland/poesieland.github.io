@@ -4,10 +4,10 @@ id = "sur_le_stade_d_aimer_7"
 date = 1998-07-04
 weight = 1
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Sur le stade d'aimer"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur le grand stade de mon cœur

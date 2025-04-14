@@ -4,11 +4,11 @@ id = "courir_a_perte_d_ame_7"
 date = 1998-07-08
 weight = 36
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 info = "Cet acrostiche très particulier, par jeu, se veut croisé, sur la première lettre du poème puis celle de la césure... Courir à p - erte d'âme..."
 acrostiche = "Courir à perte d'âme"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Courir à perte d'âme, effleurer l'infini,

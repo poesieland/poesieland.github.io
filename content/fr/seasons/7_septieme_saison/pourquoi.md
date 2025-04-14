@@ -4,10 +4,10 @@ id = "pourquoi_7"
 date = 1998-07-18
 weight = 44
 categories = ["Révolte"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Pourquoi ?"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pourquoi dire oui, non, peut-être,

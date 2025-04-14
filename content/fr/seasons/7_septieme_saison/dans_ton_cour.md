@@ -4,10 +4,10 @@ id = "dans_ton_cour_7"
 date = 1998-07-13
 weight = 17
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Dans ton cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans ton cœur tendre, embrasse, étreins le mien

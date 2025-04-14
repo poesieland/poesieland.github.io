@@ -4,9 +4,9 @@ id = "chanson_de_lune_7"
 date = 1998-06-08
 weight = 41
 categories = ["Lune"]
-tags = ["ombres et lumières", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "1998", "heptasyllabe"]
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lune ronde noctambule,
