@@ -4,10 +4,10 @@ id = "le_fleuve_9"
 date = 1998-09-28
 weight = 29
 categories = ["Création", "Eau douce"]
-tags = ["philosophie", "nature", "1998", "acrostiche"]
+tags = ["philosophie", "nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "A la recherche"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la recherche d'un sourire

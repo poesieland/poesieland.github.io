@@ -3,11 +3,11 @@ title = "Rêver de toi"
 id = "rever_de_toi_9"
 date = 1998-09-21
 weight = 41
-categories = [ "Création", "Amour platonique" ]
-tags = [ "amour", "philosophie", "1998", "acrostiche" ]
+categories = ["Création", "Amour platonique"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Rêver de toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rêver que l'âme que tu frôles

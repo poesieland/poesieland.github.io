@@ -4,10 +4,10 @@ id = "que_vivre_9"
 date = 1998-12-16
 weight = 38
 categories = ["Espoir", "Nuit"]
-tags = ["philosophie", "ombres et lumières", "1998", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Que vivre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Qui cueille fleur offense chaque étoile :

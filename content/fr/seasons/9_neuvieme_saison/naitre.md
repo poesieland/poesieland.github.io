@@ -4,10 +4,10 @@ id = "naitre_9"
 date = 1998-10-25
 weight = 21
 categories = ["Musique et chant", "Création"]
-tags = ["attitudes", "philosophie", "1998", "acrostiche"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche", "pentasyllabe"]
 acrostiche = "Naître"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Naître, nouvelle Eve,

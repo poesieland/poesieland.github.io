@@ -4,10 +4,10 @@ id = "a_l_age_ou_le_bonheur_9"
 date = 1998-12-13
 weight = 37
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "A l'âge où le bonheur..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A l'âge où le bonheur est un oiseau sans ailes

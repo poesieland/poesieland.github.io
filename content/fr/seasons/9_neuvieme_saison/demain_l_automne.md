@@ -4,10 +4,10 @@ id = "demain_l_automne_9"
 date = 1998-09-22
 weight = 1
 categories = ["Automne"]
-tags = ["saisons", "1998", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Demain l'automne"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Demain l'automne emporte au vent tous les blasphèmes,

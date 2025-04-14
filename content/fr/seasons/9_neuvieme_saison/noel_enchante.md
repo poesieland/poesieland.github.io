@@ -3,12 +3,11 @@ title = "Noël enchanté"
 id = "noel_enchante_9"
 date = 1998-12-16
 weight = 27
-categories = [ "Espoir" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Espoir"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Noël enchanté"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-keywords = [ "Noël" ]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Noël a chanté sur le toit,

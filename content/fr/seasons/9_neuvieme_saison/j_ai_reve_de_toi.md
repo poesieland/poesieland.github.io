@@ -3,11 +3,11 @@ title = "J'ai rêvé de toi"
 id = "j_ai_reve_de_toi_9"
 date = 1998-10-23
 weight = 44
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "J'ai rêvé de toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai rêvé sans comprendre,

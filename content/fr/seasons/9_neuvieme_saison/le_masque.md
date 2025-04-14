@@ -3,11 +3,11 @@ title = "Le masque"
 id = "le_masque_9"
 date = 1998-10-24
 weight = 45
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Le masque"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le masque au doux mystère offrait votre visage,

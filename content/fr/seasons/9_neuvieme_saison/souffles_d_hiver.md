@@ -4,11 +4,11 @@ id = "souffles_d_hiver_9"
 date = 1998-12-11
 weight = 36
 categories = ["Hiver", "Etre"]
-tags = ["saisons", "philosophie", "1998", "acrostiche", "sonnet"]
+tags = ["saisons", "philosophie", "1998", "acrostiche", "sonnet", "alexandrin"]
 poemType = "sonnet"
 acrostiche = "Souffles d'hiver"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Souffles d'hiver rêvés sur les doigts transparents,

@@ -4,10 +4,10 @@ id = "j_ai_perdu_mon_desir_9"
 date = 1998-12-06
 weight = 35
 categories = ["Temps"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "J'ai perdu mon désir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai perdu mon désir

@@ -3,11 +3,11 @@ title = "Je t'attendrai"
 id = "je_t_attendrai_9"
 date = 1998-10-19
 weight = 42
-categories = [ "Création", "Amour platonique" ]
-tags = [ "amour", "philosophie", "1998", "acrostiche" ]
+categories = ["Création", "Amour platonique"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Je t'attendrai"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je n'attends qu'un regard; un non-dit plus suave

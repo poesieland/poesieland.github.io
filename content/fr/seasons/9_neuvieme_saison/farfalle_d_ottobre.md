@@ -3,8 +3,8 @@ title = "Farfalle d'ottobre"
 id = "farfalle_d_ottobre_9"
 date = 1998-10-18
 weight = 4
-categories = [ "Automne", "Faune", "Angoisse" ]
-tags = [ "saisons", "nature", "philosophie", "1998", "acrostiche" ]
+categories = ["Automne", "Faune", "Angoisse"]
+tags = ["saisons", "nature", "philosophie", "1998", "acrostiche", "alexandrin"]
 info = "\"Papillons d'octobre\" en italien."
 acrostiche = "Farfalle d'ottobre"
 verseLength = 12
@@ -47,7 +47,7 @@ Rêvez-vous qu'au-delà de l'ombre-précipice
 En nos âmes l'étoile éclaire un ciel désert ?
 
 {{% notice style="primary" %}}
-\"Papillons d'octobre\" en italien.
+"Papillons d'octobre" en italien.
 
 Acrostiche : Farfalle d'ottobre
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "resonances_de_l_ame_9"
 date = 1998-10-20
 weight = 31
 categories = ["Révolte"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Résonances de l'âme"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ressusciter la nuit,

@@ -4,9 +4,9 @@ id = "elle_vit_9"
 date = 1998-12-01
 weight = 50
 categories = ["Espoir"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Elle donne la vie,

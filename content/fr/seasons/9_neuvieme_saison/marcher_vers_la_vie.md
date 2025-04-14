@@ -4,10 +4,10 @@ id = "marcher_vers_la_vie_9"
 date = 1998-11-10
 weight = 14
 categories = ["Espoir", "Foi"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Marcher vers la vie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher sans savoir où

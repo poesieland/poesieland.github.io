@@ -4,10 +4,10 @@ id = "soleil_d_hiver_9"
 date = 1998-11-22
 weight = 5
 categories = ["Hiver", "Musique et chant"]
-tags = ["saisons", "attitudes", "1998", "acrostiche"]
+tags = ["saisons", "attitudes", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Soleil d'hiver"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur les routes désertes,

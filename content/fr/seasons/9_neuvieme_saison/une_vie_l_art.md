@@ -4,10 +4,10 @@ id = "une_vie_l_art_9"
 date = 1998-11-07
 weight = 25
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Une vie : l'art"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un matin l'ombre dit : que la lumière soit !
