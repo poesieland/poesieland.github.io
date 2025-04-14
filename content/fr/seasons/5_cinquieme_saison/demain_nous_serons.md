@@ -3,10 +3,9 @@ title = "Demain nous serons"
 id = "demain_nous_serons_5"
 date = 1997-11-21
 weight = 23
-categories = [ "Temps", "Apprentissage" ]
-tags = [ "philosophie", "1997", "acrostiche" ]
-info = """
-Dédié à mon neveu Louis.
+categories = ["Temps", "Apprentissage"]
+tags = ["philosophie", "1997", "acrostiche", "alexandrin"]
+info = """Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 
@@ -52,10 +51,11 @@ Noircis de ton crayon les pages de l'enfance,
 Sois donc d'abord toi-même et saisis les bonheurs !
 
 {{% notice style="primary" %}}
-Acrostiche : Demain nous serons.
-
 Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
+
 {{% include "../../includes/demain_etre" hidefirstheading %}}
+
+Acrostiche : Demain nous serons
 {{% /notice %}}

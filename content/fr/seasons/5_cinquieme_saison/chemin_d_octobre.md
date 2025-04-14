@@ -4,9 +4,9 @@ id = "chemin_d_octobre_5"
 date = 1997-10-16
 weight = 44
 categories = ["Automne"]
-tags = ["saisons", "1997"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["saisons", "1997", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher dans les pas de l'automne :

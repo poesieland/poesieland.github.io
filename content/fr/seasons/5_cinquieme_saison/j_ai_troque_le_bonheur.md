@@ -4,7 +4,7 @@ id = "j_ai_troque_le_bonheur_5"
 date = 1998-01-28
 weight = 34
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998"]
+tags = ["philosophie", "1998", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "celeste_optique_5"
 date = 1997-10-01
 weight = 25
 categories = ["Ciel"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

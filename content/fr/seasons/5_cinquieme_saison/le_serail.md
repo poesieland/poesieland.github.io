@@ -3,11 +3,11 @@ title = "Le sérail"
 id = "le_serail_5"
 date = 1997-10-20
 weight = 32
-categories = [ "Portraits", "Flore" ]
-tags = [ "philosophie", "nature", "1997" ]
+categories = ["Portraits", "Flore"]
+tags = ["philosophie", "nature", "1997", "hexasyllabe"]
 verseLength = 6
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Les roses du désert

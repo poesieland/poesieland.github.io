@@ -4,7 +4,7 @@ id = "le_pic_vert_5"
 date = 1997-09-29
 weight = 38
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "vol_de_papillon_5"
 date = 1998-01-01
 weight = 39
 categories = ["Faune"]
-tags = ["nature", "1998"]
+tags = ["nature", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

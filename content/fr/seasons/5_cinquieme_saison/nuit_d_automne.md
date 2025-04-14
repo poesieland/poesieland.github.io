@@ -4,9 +4,9 @@ id = "nuit_d_automne_5"
 date = 1997-11-02
 weight = 46
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1997"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "1997", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Clarté pâle d'étoiles

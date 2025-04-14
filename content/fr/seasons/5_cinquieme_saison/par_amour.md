@@ -3,8 +3,8 @@ title = "Par amour"
 id = "par_amour_5"
 date = 1998-02-05
 weight = 6
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1998" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "jugement_5"
 date = 1997-09-23
 weight = 33
 categories = ["Apprentissage"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

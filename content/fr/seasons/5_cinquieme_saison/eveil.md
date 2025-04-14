@@ -4,7 +4,7 @@ id = "eveil_5"
 date = 1998-01-03
 weight = 1
 categories = ["Toucher"]
-tags = ["attitudes", "1998"]
+tags = ["attitudes", "1998", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

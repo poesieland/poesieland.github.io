@@ -4,9 +4,9 @@ id = "matin_d_automne_5"
 date = 1997-09-15
 weight = 43
 categories = ["Automne"]
-tags = ["saisons", "1997"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["saisons", "1997", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une rose engourdie

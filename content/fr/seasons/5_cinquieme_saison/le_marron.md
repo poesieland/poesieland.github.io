@@ -4,7 +4,7 @@ id = "le_marron_5"
 date = 1997-09-20
 weight = 37
 categories = ["Flore"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

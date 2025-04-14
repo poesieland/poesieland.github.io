@@ -4,7 +4,7 @@ id = "bonheur_5"
 date = 1997-09-19
 weight = 24
 categories = ["Etre"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

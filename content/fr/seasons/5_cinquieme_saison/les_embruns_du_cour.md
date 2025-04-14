@@ -3,11 +3,11 @@ title = "Les embruns du cœur"
 id = "les_embruns_du_cour_5"
 date = 1997-11-21
 weight = 19
-categories = [ "Passion" ]
-tags = [ "1997", "amour", "métrique variable" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = -1
+categories = ["Passion"]
+tags = ["amour", "1997", "métrique variable", "hexasyllabe", "dissyllabe"]
 info = "Métrique variable : 6, 2"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand les embruns du cœur
@@ -53,3 +53,7 @@ Charnière,
 Roule nos cœurs jumeaux,
 
 Mystère...
+
+{{% notice style="primary" %}}
+Métrique variable : 6, 2
+{{% /notice %}}

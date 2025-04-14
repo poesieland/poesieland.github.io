@@ -4,7 +4,7 @@ id = "myriades_5"
 date = 1997-10-28
 weight = 40
 categories = ["Faune", "Automne"]
-tags = ["nature", "saisons", "1997"]
+tags = ["nature", "saisons", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

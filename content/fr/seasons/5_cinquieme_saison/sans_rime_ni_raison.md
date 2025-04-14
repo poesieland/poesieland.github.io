@@ -3,8 +3,8 @@ title = "Sans rime ni raison"
 id = "sans_rime_ni_raison_5"
 date = 1997-12-24
 weight = 35
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1997", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "Sans rime ni raison"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -14,7 +14,7 @@ Sans rime ni raison
 
 Ai-je perdu la tête,
 
-Navire qui cliquète
+Navire qui cliquette
 
 Sans aucun horizon ?
 

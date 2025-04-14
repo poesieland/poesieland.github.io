@@ -4,9 +4,9 @@ id = "hivernales_5"
 date = 1998-02-01
 weight = 48
 categories = ["Hiver"]
-tags = ["saisons", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["saisons", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'hiver a mis ses doigts de givre
