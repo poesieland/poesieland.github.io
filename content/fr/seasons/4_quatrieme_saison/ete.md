@@ -4,7 +4,7 @@ id = "ete_4"
 date = 1997-06-06
 weight = 4
 categories = ["Eté", "Jardin et paysage"]
-tags = ["saisons", "nature", "1997"]
+tags = ["saisons", "nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

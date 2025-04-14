@@ -4,7 +4,7 @@ id = "cour_d_automne_4"
 date = 1997-09-01
 weight = 8
 categories = ["Automne"]
-tags = ["saisons", "1997"]
+tags = ["saisons", "1997", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

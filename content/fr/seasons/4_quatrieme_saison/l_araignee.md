@@ -4,7 +4,7 @@ id = "l_araignee_4"
 date = 1997-08-16
 weight = 45
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

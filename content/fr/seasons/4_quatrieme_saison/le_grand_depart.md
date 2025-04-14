@@ -4,7 +4,7 @@ id = "le_grand_depart_4"
 date = 1997-09-13
 weight = 49
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

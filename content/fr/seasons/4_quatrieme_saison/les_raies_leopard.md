@@ -4,7 +4,7 @@ id = "les_raies_leopard_4"
 date = 1997-09-12
 weight = 48
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

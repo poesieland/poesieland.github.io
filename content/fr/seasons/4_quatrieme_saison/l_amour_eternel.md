@@ -4,7 +4,7 @@ id = "l_amour_eternel_4"
 date = 1997-08-18
 weight = 16
 categories = ["Romantisme"]
-tags = ["amour", "1997"]
+tags = ["amour", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

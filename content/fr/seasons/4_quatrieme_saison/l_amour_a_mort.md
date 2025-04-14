@@ -3,8 +3,8 @@ title = "L'amour à mort"
 id = "l_amour_a_mort_4"
 date = 1997-06-22
 weight = 12
-categories = [ "Flore", "Passion" ]
-tags = [ "amour", "nature", "1997" ]
+categories = ["Flore", "Passion"]
+tags = ["nature", "amour", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "chercher_4"
 date = 1997-08-23
 weight = 44
 categories = ["Lune"]
-tags = ["ombres et lumières", "1997"]
+tags = ["ombres et lumières", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

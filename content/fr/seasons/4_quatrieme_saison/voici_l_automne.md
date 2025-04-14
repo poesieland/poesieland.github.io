@@ -3,11 +3,11 @@ title = "Voici l'automne"
 id = "voici_l_automne_4"
 date = 1997-09-03
 weight = 9
-categories = [ "Automne" ]
-tags = [ "1997", "saisons", "métrique variable" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = -1
+categories = ["Automne"]
+tags = ["saisons", "1997", "métrique variable", "hexasyllabe", "octosyllabe"]
 info = "Métrique variable : 6, 8"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Voici venir l'automne
@@ -45,8 +45,6 @@ En chanson folle éprise,
 
 Bonheur au clos de l'avenir !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Vers variabe : 6, 8"}]} -->
 {{% notice style="primary" %}}
-Vers variabe : 6, 8
+Métrique variable : 6, 8
 {{% /notice %}}
-<!-- FM:Snippet:End -->

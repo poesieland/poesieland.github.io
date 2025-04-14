@@ -3,8 +3,8 @@ title = "Serez-vous..."
 id = "serez_vous_4"
 date = 1997-07-11
 weight = 20
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1997" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

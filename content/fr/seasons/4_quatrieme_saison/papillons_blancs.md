@@ -4,7 +4,7 @@ id = "papillons_blancs_4"
 date = 1997-08-17
 weight = 46
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

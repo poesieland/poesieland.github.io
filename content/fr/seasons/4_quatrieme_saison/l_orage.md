@@ -3,11 +3,11 @@ title = "L'orage"
 id = "l_orage_4"
 date = 1997-05-18
 weight = 38
-categories = [ "Ciel" ]
-tags = [ "nature", "1997" ]
+categories = ["Ciel"]
+tags = ["nature", "1997", "métrique variable", "hexasyllabe", "tétrasyllabe"]
+info = "Métrique variable : 6, 4."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = "Métrique variable : 6, 4."
 +++
 
 Les arbres s'effarouchent

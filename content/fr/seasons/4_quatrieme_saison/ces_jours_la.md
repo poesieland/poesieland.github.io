@@ -3,11 +3,11 @@ title = "Ces jours-là"
 id = "ces_jours_la_4"
 date = 1997-09-09
 weight = 36
-categories = [ "Enfance et adolescence" ]
-tags = [ "philosophie", "1997" ]
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
+locations = ["Lorraine"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Lorraine" ]
 +++
 
 Quand l'automne s'embrume

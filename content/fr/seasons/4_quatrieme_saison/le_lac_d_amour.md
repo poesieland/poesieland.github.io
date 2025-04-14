@@ -3,11 +3,11 @@ title = "Le lac d'amour"
 id = "le_lac_d_amour_4"
 date = 1997-08-25
 weight = 50
-categories = [ "Eau douce", "Romantisme" ]
-tags = [ "nature", "amour", "1997" ]
+categories = ["Eau douce", "Romantisme"]
+tags = ["nature", "amour", "1997", "octosyllabe"]
 verseLength = 8
+locations = ["Alpes"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Alpes" ]
 +++
 
 Le ciel s'encolline en cascade :

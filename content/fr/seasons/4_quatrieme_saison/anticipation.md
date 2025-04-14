@@ -4,7 +4,7 @@ id = "anticipation_4"
 date = 1997-05-10
 weight = 2
 categories = ["Eté", "Amitié"]
-tags = ["saisons", "amour", "1997"]
+tags = ["saisons", "amour", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

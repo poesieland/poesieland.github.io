@@ -3,8 +3,8 @@ title = "Déception"
 id = "deception_4"
 date = 1997-09-06
 weight = 22
-categories = [ "Passion" ]
-tags = [ "amour", "1997" ]
+categories = ["Passion"]
+tags = ["amour", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
