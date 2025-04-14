@@ -4,7 +4,7 @@ id = "la_comete_3"
 date = 1997-04-01
 weight = 6
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1997"]
+tags = ["ombres et lumières", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

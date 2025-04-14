@@ -4,7 +4,7 @@ id = "matin_de_printemps_3"
 date = 1997-01-27
 weight = 40
 categories = ["Printemps"]
-tags = ["saisons", "1997"]
+tags = ["saisons", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "au_dela_3"
 date = 1997-03-01
 weight = 31
 categories = ["Etre"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

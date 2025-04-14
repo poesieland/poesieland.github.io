@@ -4,7 +4,7 @@ id = "soleil_levant_3"
 date = 1997-02-07
 weight = 1
 categories = ["Aube"]
-tags = ["ombres et lumières", "1997"]
+tags = ["ombres et lumières", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

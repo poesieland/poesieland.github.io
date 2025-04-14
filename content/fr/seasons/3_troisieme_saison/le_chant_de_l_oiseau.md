@@ -4,7 +4,7 @@ id = "le_chant_de_l_oiseau_3"
 date = 1997-02-22
 weight = 42
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

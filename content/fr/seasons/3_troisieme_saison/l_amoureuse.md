@@ -3,8 +3,8 @@ title = "L'amoureuse"
 id = "l_amoureuse_3"
 date = 1997-02-21
 weight = 13
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1997" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1997", "trisyllabe"]
 verseLength = 3
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "oiseaux_de_mon_jardin_3"
 date = 1997-01-16
 weight = 41
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

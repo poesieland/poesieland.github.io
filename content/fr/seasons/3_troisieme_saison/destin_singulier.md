@@ -4,7 +4,7 @@ id = "destin_singulier_3"
 date = 1997-02-01
 weight = 22
 categories = ["Portraits"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

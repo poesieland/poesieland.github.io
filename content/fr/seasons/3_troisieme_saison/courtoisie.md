@@ -3,8 +3,8 @@ title = "Courtoisie"
 id = "courtoisie_3"
 date = 1997-02-24
 weight = 15
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1997" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
