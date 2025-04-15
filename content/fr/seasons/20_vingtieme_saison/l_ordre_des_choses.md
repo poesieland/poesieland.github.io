@@ -3,10 +3,13 @@ title = "L'ordre des choses"
 id = "l_ordre_des_choses_20"
 date = 2024-06-04
 weight = 26
-categories = ["Temps"]
-tags = ["philosophie", "2024"]
+categories = [ "Temps" ]
+tags = [ "philosophie", "2024" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = """
+Les poèmes qui commencent par ce vers...\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
 +++
 
 Il se pourrait qu'il pleuve
@@ -43,3 +46,8 @@ Passé, présent... turfu ?
 Les beaux jours se déposent
 
 Sublimés, à l'affût.
+
+{{% notice style="primary" %}}
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
+{{% /notice %}}

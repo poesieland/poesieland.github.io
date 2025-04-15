@@ -24,9 +24,6 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 - Depuis la cinquième saison : ["Avant de partir"](../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)
 - Depuis la troisième saison : ["Juste une valse..."](../seasons/19_dix_neuvieme_saison/charme)
 
-**A la vingt-et-unième saison**
-- Depuis la vingtième saison :  ["Il se pourrait qu'il pleuve"](../seasons/21_vingt_et_unieme_saison/les_cieux_d_avant)
-
 **A la vingt-deuxième saison**
 - Depuis la quatrième saison : ["Toute saison trop tôt venue"](../seasons/22_vingt_deuxieme_saison/toute_saison)
 - Depuis la cinquième saison : ["Avant que l'hiver ne vous prenne"](../seasons/22_vingt_deuxieme_saison/automne_serein)
