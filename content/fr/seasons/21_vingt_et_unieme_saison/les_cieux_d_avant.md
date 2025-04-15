@@ -14,7 +14,9 @@ tags:
     - nature
     - philosophie
 locations: []
-info: Reprise du premier vers d'un [poème de la vingtième saison](../20_vingtieme_saison/l_ordre_des_choses)
+info: |-
+    Les poèmes qui commencent par ce vers...
+    {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 pictures: []
 type: default
 acrostiche: ""
@@ -56,8 +58,7 @@ Ce temps, main dans la mienne,
 
 Rêveurs, aux cieux d'avant.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Reprise du premier vers d'un [poème de la vingtième saison](../20_vingtieme/l_ordre_des_choses)"}]} -->
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la vingtième saison](../20_vingtieme_saison/l_ordre_des_choses)
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}
-<!-- FM:Snippet:End -->

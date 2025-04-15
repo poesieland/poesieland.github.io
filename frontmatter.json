@@ -532,6 +532,10 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
+      "title": "26_vingt_cinquieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/26_vingt_sixieme_saison"
+    },
+    {
       "title": "25_vingt_cinquieme_saison",
       "path": "[[workspace]]/content/fr/seasons/25_vingt_cinquieme_saison"
     },
