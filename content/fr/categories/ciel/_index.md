@@ -12,21 +12,24 @@ Où l'on peut trouver le [soleil](/search?search-by=soleil) mais aussi les [écl
 
 ## ...Dans tous ses états
 
-Quand le premier vers le met en valeur :
+Quand le premier vers le met en valeur : 
 
-- [Bas](../../seasons/22_vingt_deuxieme_saison/blues_d_automne)
-- [Beau](../../seasons/22_vingt_deuxieme_saison/l_amour_courtois)
-- [Bleu comme un mensonge](../../seasons/4_quatrieme_saison/ete)
-- [Bleu comme un miracle](../../seasons/24_vingt_quatrieme_saison/ciel_printanier)
-- [Bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
-- encore [Bleu marine](../../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)
-- [Comme un paravent](../../seasons/3_troisieme_saison/panoramique)
-- [Doux](../../seasons/23_vingt_troisieme_saison/ciel)
-- [Gris](../../reprises/le_ciel_est_gris)
-- [Plein d'étoiles](../../seasons/4_quatrieme_saison/l_amour_tendre)
-- [Tombé sur la tête](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)
-- [Triste et bas](../../seasons/9_neuvieme_saison/l_hiver_deja)
-- [Triste et las](../../seasons/23_vingt_troisieme_saison/hiver_perdu)
+*Le ciel est...*
+
+- [bas](../../seasons/22_vingt_deuxieme_saison/blues_d_automne)
+- [beau](../../seasons/22_vingt_deuxieme_saison/l_amour_courtois)
+- [bleu comme un mensonge](../../seasons/4_quatrieme_saison/ete)
+- [bleu comme un miracle](../../seasons/24_vingt_quatrieme_saison/ciel_printanier)
+- [bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
+- encore [bleu marine](../../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)
+- [comme un paravent](../../seasons/3_troisieme_saison/panoramique)
+- [doux](../../seasons/23_vingt_troisieme_saison/ciel)
+- [gris](../../reprises/le_ciel_est_gris)
+- [indécent](../../seasons/25_vingt_cinquieme_saison/bleu_l_infini)
+- [plein d'étoiles](../../seasons/4_quatrieme_saison/l_amour_tendre)
+- [tombé sur la tête](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)
+- [triste et bas](../../seasons/9_neuvieme_saison/l_hiver_deja)
+- [triste et las](../../seasons/23_vingt_troisieme_saison/hiver_perdu)
 
 {{< chartjs id="poemDay-cielRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-ciel-radar.js" />}}
 

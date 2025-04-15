@@ -34,13 +34,4 @@ Vers l'invisible immense, un autrefois précaire
 
 Pour révéler son chant. Un plus profond mystère
 
-Emmêle, nuit charnelle, aux amours tant de fiel...
-
- \
-Vers l'invisible immense, un autrefois précaire
-
-Je murmure à ces nuits... d'un monde artificiel
-
-Emmêle nuit charnelle : aux amours tant de fiel
-
-De sépulcres prochains m'instillant l'âme amère!
+Par une nuit sans lune, ô nuit sans lune au ciel !
