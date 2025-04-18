@@ -3,12 +3,12 @@ title = "La cathédrale est belle"
 id = "la_cathedrale_est_belle_10"
 date = 1999-01-24
 weight = 3
-categories = [ "Foi" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Foi"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "La cathédrale est belle"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-locations = [ "Reims" ]
+locations = ["Reims"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La cathédrale est ma demeure;

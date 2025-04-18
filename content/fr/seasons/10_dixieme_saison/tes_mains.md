@@ -4,10 +4,10 @@ id = "tes_mains_10"
 date = 1999-03-25
 weight = 49
 categories = ["Toucher"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Tes mains"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tes mains qui prennent, qui déposent,

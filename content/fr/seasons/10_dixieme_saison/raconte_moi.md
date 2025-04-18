@@ -4,10 +4,10 @@ id = "raconte_moi_10"
 date = 1999-03-20
 weight = 48
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Raconte-moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Raconte à mon cœur ton rêve vrai, sincère,

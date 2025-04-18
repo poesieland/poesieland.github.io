@@ -4,10 +4,10 @@ id = "lumiere_la_neige_10"
 date = 1999-01-12
 weight = 25
 categories = ["Neige"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Lumière, la neige"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La neige étoilée allume au réverbère

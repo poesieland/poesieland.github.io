@@ -4,10 +4,10 @@ id = "il_faro_10"
 date = 1999-01-15
 weight = 10
 categories = ["Mer"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "quatorze syllabes"]
 acrostiche = "Il faro"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Illuminé le phare au cœur de la nuit douce, belle

@@ -4,10 +4,10 @@ id = "endors_10"
 date = 1999-02-11
 weight = 13
 categories = ["Sommeil"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Endors"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Emu, quand la nuit prendra sa part de rêve

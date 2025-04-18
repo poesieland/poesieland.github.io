@@ -3,10 +3,10 @@ title = "Si tu pouvais"
 id = "si_tu_pouvais_10"
 date = 1999-03-03
 weight = 45
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1999" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Amour platonique"]
+tags = ["amour", "1999", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si tu pouvais me dire

@@ -4,10 +4,10 @@ id = "reve_eden_10"
 date = 1999-02-22
 weight = 30
 categories = ["Jardin et paysage"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Rêve, eden"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rose, blanche, la nue anime l'incolore

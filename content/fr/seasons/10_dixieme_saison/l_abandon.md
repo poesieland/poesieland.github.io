@@ -3,11 +3,11 @@ title = "L'abandon"
 id = "l_abandon_10"
 date = 1999-02-05
 weight = 40
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1999", "acrostiche", "alexandrin"]
 acrostiche = "L'abandon"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le cœur abandonné ne pourra plus chanter

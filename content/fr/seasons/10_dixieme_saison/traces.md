@@ -4,10 +4,10 @@ id = "traces_10"
 date = 1999-01-09
 weight = 9
 categories = ["Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Je n'ai pas"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je n'ai pas de mots pour exprimer les choses,

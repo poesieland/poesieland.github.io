@@ -3,13 +3,13 @@ title = "J'écrirai ce mot, l'ultime"
 id = "j_ecrirai_ce_mot_l_ultime_10"
 date = 1999-02-15
 weight = 15
-categories = [ "Révolte" ]
-tags = [ "philosophie", "1999", "doubleAcrostiche" ]
-info = 'Inspiré par la comédie musicale "Notre-Dame de Paris".'
+categories = ["Révolte"]
+tags = ["philosophie", "1999", "doubleAcrostiche", "octosyllabe"]
+info = "Inspiré par la comédie musicale \"Notre-Dame de Paris\"."
 doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je laisserai les mots s'écrire,
@@ -57,7 +57,7 @@ Ecrirons-nous sur cette terre
 Egalité, notre printemps ?
 
 {{% notice style="primary" %}}
-Inspiré par la comédie musicale \"Notre-Dame de Paris\".
+Inspiré par la comédie musicale "Notre-Dame de Paris".
 
 Acrostiche double (lignes paires et impaires) : J'écrirai ce / mot, l'ultime
 {{% /notice %}}

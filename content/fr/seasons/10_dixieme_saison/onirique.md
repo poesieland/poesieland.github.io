@@ -4,10 +4,10 @@ id = "onirique_10"
 date = 1999-02-26
 weight = 31
 categories = ["Etre", "Ciel"]
-tags = ["philosophie", "nature", "1999", "acrostiche"]
+tags = ["philosophie", "nature", "1999", "acrostiche", "décasyllabe"]
 acrostiche = "Onirique"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Onirique, à l'origine d'un monde,

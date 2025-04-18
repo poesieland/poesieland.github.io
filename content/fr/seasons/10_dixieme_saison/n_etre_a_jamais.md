@@ -4,10 +4,10 @@ id = "n_etre_a_jamais_10"
 date = 1998-01-01
 weight = 20
 categories = ["Flore"]
-tags = ["nature", "1998", "acrostiche"]
+tags = ["nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "N'être à jamais"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Naître à jamais, tombeau cristal,

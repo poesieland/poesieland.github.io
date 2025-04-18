@@ -3,11 +3,11 @@ title = "Calme"
 id = "calme_10"
 date = 1999-03-11
 weight = 36
-categories = [ "Lune", "Musique et chant", "Nuit" ]
-tags = [ "ombres et lumières", "attitudes", "1999", "acrostiche" ]
+categories = ["Lune", "Nuit", "Musique et chant"]
+tags = ["ombres et lumières", "attitudes", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Calme, prières"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Caressée, une note

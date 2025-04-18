@@ -4,10 +4,10 @@ id = "l_artiste_10"
 date = 1999-02-27
 weight = 44
 categories = ["Création", "Mouvement"]
-tags = ["philosophie", "attitudes", "1999", "acrostiche"]
+tags = ["philosophie", "attitudes", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "L'artiste"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le souffle vibre, exauce au ciel

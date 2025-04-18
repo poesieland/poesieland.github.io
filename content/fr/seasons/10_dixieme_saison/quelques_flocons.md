@@ -4,10 +4,10 @@ id = "quelques_flocons_10"
 date = 1999-02-08
 weight = 26
 categories = ["Neige"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Quelques flocons..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quelques flocons tombés puis de plus en plus vite

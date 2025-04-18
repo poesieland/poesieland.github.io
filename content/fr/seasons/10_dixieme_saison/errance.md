@@ -3,11 +3,11 @@ title = "Errance"
 id = "errance_10"
 date = 1999-02-19
 weight = 17
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Légère"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Légère comme une plume

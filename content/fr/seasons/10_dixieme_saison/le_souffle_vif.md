@@ -4,10 +4,10 @@ id = "le_souffle_vif_10"
 date = 1999-01-18
 weight = 27
 categories = ["Neige", "Hiver"]
-tags = ["nature", "saisons", "1999", "acrostiche"]
+tags = ["nature", "saisons", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Le souffle vif"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le brouillard sur les lèvres
