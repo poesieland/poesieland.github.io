@@ -3,11 +3,11 @@ title = "Ta bouche"
 id = "ta_bouche_16"
 date = 2002-08-19
 weight = 4
-categories = [ "Toucher", "Passion" ]
-tags = [ "attitudes", "amour", "2002", "acrostiche" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "2002", "acrostiche", "alexandrin"]
 acrostiche = "Ta bouche"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu sais, je sens toujours tes lèvres sur les miennes,

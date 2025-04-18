@@ -4,10 +4,10 @@ id = "souffle_matin_16"
 date = 2003-01-21
 weight = 9
 categories = ["Aube"]
-tags = ["ombres et lumières", "2003", "acrostiche"]
+tags = ["ombres et lumières", "2003", "acrostiche", "hexasyllabe"]
 acrostiche = "Souffle : matin"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sous la lune je marche,

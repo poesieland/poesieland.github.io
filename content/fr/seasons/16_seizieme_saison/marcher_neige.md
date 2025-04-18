@@ -4,10 +4,10 @@ id = "marcher_neige_16"
 date = 2003-01-10
 weight = 8
 categories = ["Neige", "Ville"]
-tags = ["nature", "ombres et lumières", "2003", "acrostiche"]
+tags = ["nature", "ombres et lumières", "2003", "acrostiche", "octosyllabe"]
 acrostiche = "Marcher : neige"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher, le sol noir devient blanc,

@@ -4,7 +4,7 @@ id = "elevation_16"
 date = 2004-05-19
 weight = 31
 categories = ["Foi"]
-tags = ["philosophie", "2004"]
+tags = ["philosophie", "2004", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

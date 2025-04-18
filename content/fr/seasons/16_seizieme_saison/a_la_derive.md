@@ -4,10 +4,10 @@ id = "a_la_derive_16"
 date = 2003-01-27
 weight = 11
 categories = ["Révolte"]
-tags = ["philosophie", "2003", "acrostiche"]
+tags = ["philosophie", "2003", "acrostiche", "octosyllabe"]
 acrostiche = "A la dérive, moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la dérive j'ai planté

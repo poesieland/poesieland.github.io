@@ -3,15 +3,14 @@ title = "Le jour"
 id = "le_jour_16"
 date = 2004-10-04
 weight = 48
-categories = [ "Aube", "Etre", "Temps" ]
-tags = [ "ombres et lumières", "philosophie", "2004" ]
-verseLength = 8
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Aube", "Etre", "Temps"]
+tags = ["ombres et lumières", "philosophie", "2004", "octosyllabe"]
 info = """
-{{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}"""
+"""
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le jour se lève, aurore dame
@@ -41,6 +40,8 @@ Le souffle m'inspire au ventail
 Ta rencontre en sa dérobade.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+
 {{% /notice %}}

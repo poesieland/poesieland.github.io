@@ -3,12 +3,12 @@ title = "Les chênes"
 id = "les_chenes_16"
 date = 2004-05-26
 weight = 32
-categories = [ "Jardin et paysage", "Flore", "Temps" ]
-tags = [ "nature", "philosophie", "2004", "doubleAcrostiche" ]
+categories = ["Jardin et paysage", "Flore", "Temps"]
+tags = ["nature", "philosophie", "2004", "doubleAcrostiche", "heptasyllabe"]
 doubleAcrostiche = "Chênes | destin"
 verseLength = 7
+locations = ["Bordeaux"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Bordeaux" ]
 +++
 
 Chênes verts comme nos vies

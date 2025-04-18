@@ -3,11 +3,11 @@ title = "Endormis"
 id = "endormis_16"
 date = 2002-03-02
 weight = 1
-categories = [ "Sommeil", "Passion" ]
-tags = [ "attitudes", "amour", "2002", "acrostiche" ]
+categories = ["Sommeil", "Passion"]
+tags = ["attitudes", "amour", "2002", "acrostiche", "alexandrin"]
 acrostiche = "Endormis"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Endormie en tes bras, au paradis, sommeil

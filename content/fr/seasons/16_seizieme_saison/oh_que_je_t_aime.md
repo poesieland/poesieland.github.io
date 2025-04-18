@@ -4,10 +4,10 @@ id = "oh_que_je_t_aime_16"
 date = 2002-08-19
 weight = 3
 categories = ["Espoir"]
-tags = ["philosophie", "2002", "acrostiche"]
+tags = ["philosophie", "2002", "acrostiche", "alexandrin"]
 acrostiche = "Oh que je t'aime"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Oui, mon âme à toi, toute, aube de ces rivages,

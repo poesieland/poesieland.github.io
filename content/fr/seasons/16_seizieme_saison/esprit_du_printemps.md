@@ -4,10 +4,10 @@ id = "esprit_du_printemps_16"
 date = 2004-03-21
 weight = 23
 categories = ["Printemps", "Flore"]
-tags = ["saisons", "nature", "2004", "acrostiche"]
+tags = ["saisons", "nature", "2004", "acrostiche", "octosyllabe"]
 acrostiche = "Esprit du printemps"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Entre giboulées et lumières

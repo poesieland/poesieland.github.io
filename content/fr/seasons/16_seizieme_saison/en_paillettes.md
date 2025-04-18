@@ -3,11 +3,11 @@ title = "En paillettes"
 id = "en_paillettes_16"
 date = 2002-11-03
 weight = 6
-categories = [ "Passion" ]
-tags = [ "amour", "2002", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "2002", "acrostiche", "alexandrin"]
 acrostiche = "En paillettes"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En paillettes de verre, éclats de carrelage

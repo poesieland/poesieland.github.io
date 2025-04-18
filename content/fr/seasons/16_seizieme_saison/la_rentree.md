@@ -4,7 +4,7 @@ id = "la_rentree_16"
 date = 2004-08-18
 weight = 43
 categories = ["Enfance et adolescence", "Temps", "Automne"]
-tags = ["philosophie", "saisons", "2004"]
+tags = ["philosophie", "saisons", "2004", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,11 +3,11 @@ title = "Un au revoir"
 id = "un_au_revoir_16"
 date = 2004-04-26
 weight = 26
-categories = [ "Ville", "Temps" ]
-tags = [ "ombres et lumières", "philosophie", "2004" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Ville", "Temps"]
+tags = ["ombres et lumières", "philosophie", "2004", "heptasyllabe"]
 verseLength = 7
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Douceur du soir, Paris tu

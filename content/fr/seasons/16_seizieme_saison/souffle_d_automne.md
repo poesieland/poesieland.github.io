@@ -4,7 +4,7 @@ id = "souffle_d_automne_16"
 date = 2004-08-24
 weight = 46
 categories = ["Aube", "Etre", "Jardin et paysage", "Automne"]
-tags = ["ombres et lumières", "philosophie", "nature", "saisons", "2004"]
+tags = ["ombres et lumières", "philosophie", "nature", "saisons", "2004", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

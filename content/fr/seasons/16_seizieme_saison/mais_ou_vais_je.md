@@ -3,11 +3,11 @@ title = "Mais où vais-je ?"
 id = "mais_ou_vais_je_16"
 date = 2004-01-14
 weight = 20
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "2004", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "2004", "acrostiche", "alexandrin"]
 acrostiche = "Mais où vais-je ?"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mes désirs ont craqué d'un bouquet crissant, sec,

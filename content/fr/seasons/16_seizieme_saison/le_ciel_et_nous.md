@@ -4,10 +4,10 @@ id = "le_ciel_et_nous_16"
 date = 2004-02-01
 weight = 22
 categories = ["Temps", "Etre"]
-tags = ["philosophie", "2004", "acrostiche"]
+tags = ["philosophie", "2004", "acrostiche", "octosyllabe"]
 acrostiche = "Le ciel et nous"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel tout clair en cette nuit
