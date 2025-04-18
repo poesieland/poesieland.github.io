@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Exubérance, écrit le 18.04.2025](./seasons/26_vingt_sixieme_saison/exuberance/)
+
 [Le ciel et le monde, écrit le 13.04.2025](./seasons/26_vingt_sixieme_saison/le_ciel_et_le_monde/)
 
 [Première rencontre, écrit le 09.04.2025](./seasons/26_vingt_sixieme_saison/premiere_rencontre/)

@@ -13,7 +13,7 @@ Sur les verts et les bleus construire un éther, nue
 
 Inspirée, au jardin, l'âme de mai fleurit :
 
-Pivoine exhubérante en son voile éternue
+Pivoine exubérante en son voile éternue
 
 Perles d'un écrin rose, au matin l'heure rit
 
