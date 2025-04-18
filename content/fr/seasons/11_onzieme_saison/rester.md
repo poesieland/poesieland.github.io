@@ -4,11 +4,15 @@ id = "rester_11"
 date = 1999-04-01
 weight = 2
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
-info = "\"Tu es beau\" en italien."
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
+info = """"Tu es beau" en italien.
+
+Les poèmes qui commencent par ce vers...
+
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
 acrostiche = "Tu sei bello"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Trop de choses auront changé...
@@ -32,10 +36,11 @@ Lancées au vent, les cheveux gris...
 Ombre, le ciel, tu me souris.
 
 {{% notice style="primary" %}}
-\"Tu es beau\" en italien.
-
-Acrostiche : Tu sei bello
+"Tu es beau" en italien.
 
 Les poèmes qui commencent par ce vers...
+
 {{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
+
+Acrostiche : Tu sei bello
 {{% /notice %}}

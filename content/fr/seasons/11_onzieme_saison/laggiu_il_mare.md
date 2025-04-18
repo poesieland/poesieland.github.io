@@ -4,11 +4,11 @@ id = "laggiu_il_mare_11"
 date = 1999-04-18
 weight = 37
 categories = ["Mer"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "octosyllabe"]
 info = "\"Là-bas la mer\" en italien."
 acrostiche = "Laggiù il mare"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La pluie est tombée en tocsin
@@ -38,7 +38,7 @@ Renaît, miroitement pastel
 En moi la mer toujours danseuse...
 
 {{% notice style="primary" %}}
-\"Là-bas la mer\" en italien.
+"Là-bas la mer" en italien.
 
 Acrostiche : Laggiù il mare
 {{% /notice %}}

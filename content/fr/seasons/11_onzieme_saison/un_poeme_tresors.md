@@ -4,10 +4,10 @@ id = "un_poeme_tresors_11"
 date = 1999-04-30
 weight = 25
 categories = ["Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Un poème : trésors"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un poème, quelques vers

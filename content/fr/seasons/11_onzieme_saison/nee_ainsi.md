@@ -4,10 +4,10 @@ id = "nee_ainsi_11"
 date = 1999-05-04
 weight = 42
 categories = ["Jardin et paysage", "Flore"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Née ainsi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Nouvelle, étrange, la clarté

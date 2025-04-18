@@ -4,10 +4,10 @@ id = "une_chanson_triste_11"
 date = 1999-04-13
 weight = 17
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Une chanson triste"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une chanson triste

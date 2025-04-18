@@ -4,10 +4,10 @@ id = "une_odeur_presence_11"
 date = 1999-04-23
 weight = 7
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Une odeur : présence"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une odeur de pluie

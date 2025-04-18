@@ -4,11 +4,11 @@ id = "cantique_de_vie_11"
 date = 1999-04-16
 weight = 3
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 info = "\"Ton cantique donne la vie\" en italien."
 acrostiche = "Il tuo cantico da la vita"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Invite prémonitoire :
@@ -56,7 +56,7 @@ Ton cœur bat, le mien peut-être
 A la fontaine se tut.
 
 {{% notice style="primary" %}}
-\"Ton cantique donne la vie\" en italien.
+"Ton cantique donne la vie" en italien.
 
 Acrostiche : Il tuo cantico da la vita
 {{% /notice %}}

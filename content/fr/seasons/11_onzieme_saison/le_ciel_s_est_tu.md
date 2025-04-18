@@ -4,10 +4,10 @@ id = "le_ciel_s_est_tu_11"
 date = 1999-05-07
 weight = 48
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Le ciel s'est tu"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel au temps défunt

@@ -4,10 +4,10 @@ id = "confidence_11"
 date = 1999-04-18
 weight = 5
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "décasyllabe"]
 acrostiche = "Confidence"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Clos seuls tes yeux, et laisse-moi rêver

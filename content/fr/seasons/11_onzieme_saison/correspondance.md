@@ -4,10 +4,10 @@ id = "correspondance_11"
 date = 1999-05-04
 weight = 24
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "tétrasyllabe"]
 acrostiche = "Correspondance"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Carnet du temps

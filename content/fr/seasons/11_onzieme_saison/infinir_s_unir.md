@@ -3,11 +3,11 @@ title = "Infinir, s'unir"
 id = "infinir_s_unir_11"
 date = 1999-05-13
 weight = 10
-categories = [ "Mouvement", "Passion" ]
-tags = [ "attitudes", "amour", "1999", "acrostiche" ]
+categories = ["Mouvement", "Passion"]
+tags = ["attitudes", "amour", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Infinir, s'unir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Inventeurs, infinissons

@@ -4,10 +4,10 @@ id = "reflets_11"
 date = 1999-05-19
 weight = 50
 categories = ["Eau douce", "Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Arcs-en-ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Arc-en-ciel inaudible, un tempo trépassé

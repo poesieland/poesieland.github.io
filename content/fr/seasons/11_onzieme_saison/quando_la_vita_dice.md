@@ -4,11 +4,11 @@ id = "quando_la_vita_dice_11"
 date = 1999-03-30
 weight = 1
 categories = ["Espoir", "Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 info = "\"Quand la vie dit\" en italien."
 acrostiche = "Quando la vita dice"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand tu devins universel,
@@ -47,7 +47,7 @@ Colore quand tombe le jour
 Eternité vive, féconde !
 
 {{% notice style="primary" %}}
-\"Quand la vie dit\" en italien.
+"Quand la vie dit" en italien.
 
 Acrostiche : Quando la vita dice
 {{% /notice %}}

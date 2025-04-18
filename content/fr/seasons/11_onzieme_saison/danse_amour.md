@@ -3,11 +3,11 @@ title = "Danse, amour"
 id = "danse_amour_11"
 date = 1999-05-16
 weight = 11
-categories = [ "Mouvement", "Passion" ]
-tags = [ "attitudes", "amour", "1999", "acrostiche" ]
+categories = ["Mouvement", "Passion"]
+tags = ["attitudes", "amour", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Danse, amour"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Danse lascive, un corps
