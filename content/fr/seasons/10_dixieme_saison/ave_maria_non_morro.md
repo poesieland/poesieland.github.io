@@ -5,7 +5,7 @@ date = 1999-03-04
 weight = 6
 categories = ["Foi"]
 tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
-info = "D'après une chanson presque homonyme. En portuguais : \"Ave Maria no morro\" signifie \"Ave Maria sur la colline\" tandis qu'en italien \"Ave Maria non morrò\" signifie \"Ave Maria je ne mourrai pas\"."
+info = "D'après une chanson presque homonyme. En portugais : \"Ave Maria no morro\" signifie \"Ave Maria sur la colline\" tandis qu'en italien \"Ave Maria non morrò\" signifie \"Ave Maria je ne mourrai pas\"."
 acrostiche = "Ave Maria non morro"
 verseLength = 11
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -47,7 +47,7 @@ Rien... Quand tout vacille et puis l'ombre s'installe...
 O Marie, arrose un désir, nos déserts !
 
 {{% notice style="primary" %}}
-D'après une chanson presque homonyme. En portuguais : "Ave Maria no morro" signifie "Ave Maria sur la colline" tandis qu'en italien "Ave Maria non morrò" signifie "Ave Maria je ne mourrai pas".
+D'après une chanson presque homonyme. En portugais : "Ave Maria no morro" signifie "Ave Maria sur la colline" tandis qu'en italien "Ave Maria non morrò" signifie "Ave Maria je ne mourrai pas".
 
 Acrostiche : Ave Maria non morro
 {{% /notice %}}

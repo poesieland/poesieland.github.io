@@ -4,11 +4,11 @@ id = "giardino_dei_sogni_13"
 date = 1999-09-04
 weight = 20
 categories = ["Jardin et paysage", "Temps", "Automne"]
-tags = ["nature", "philosophie", "saisons", "1999", "doubleAcrostiche"]
+tags = ["nature", "philosophie", "saisons", "1999", "doubleAcrostiche", "décasyllabe"]
 info = "\"Jardin des songes\" en italien."
 doubleAcrostiche = "giardino | dei sogni"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Grisé du temps par l'ombre de septembre
@@ -47,7 +47,7 @@ O ce lieu dit : amours qui ne se cueillent
 Imitent verts, et bleu, rose, marron.
 
 {{% notice style="primary" %}}
-\"Jardin des songes\" en italien.
+"Jardin des songes" en italien.
 
 Acrostiche double (lignes paires et impaires) : giardino / dei sogni
 {{% /notice %}}

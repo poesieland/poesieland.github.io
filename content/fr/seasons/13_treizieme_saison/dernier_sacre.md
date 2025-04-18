@@ -3,11 +3,11 @@ title = "Dernier sacre"
 id = "dernier_sacre_13"
 date = 1999-08-31
 weight = 48
-categories = [ "Portraits", "Angoisse" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Portraits", "Angoisse"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Dernier sacre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Désormais sans bonheur le dernier roi s'éteint,

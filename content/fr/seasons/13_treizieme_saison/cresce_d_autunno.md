@@ -4,11 +4,11 @@ id = "cresce_d_autunno_13"
 date = 1999-09-21
 weight = 22
 categories = ["Automne", "Mer", "Foi"]
-tags = ["saisons", "nature", "philosophie", "1999", "acrostiche"]
+tags = ["saisons", "nature", "philosophie", "1999", "acrostiche", "alexandrin"]
 info = "\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversément."
 acrostiche = "Cresce d'autunno"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme l'automne embrasse aux ailes qui s'envolent
@@ -41,7 +41,7 @@ Nu, quand l'oiseau de mer hurle au vent dominant :
 O marins, sans prier ! Que le salut vous touche !".
 
 {{% notice style="primary" %}}
-\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversément.
+"Croix d'automne" en italien. Le premier paragraphe dont l'acrostiche est "croix" décrit l'automne et inversement.
 
 Acrostiche : Cresce d'autunno
 {{% /notice %}}

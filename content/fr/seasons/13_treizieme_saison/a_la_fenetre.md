@@ -3,12 +3,12 @@ title = "A la fenêtre"
 id = "a_la_fenetre_13"
 date = 1999-09-27
 weight = 23
-categories = [ "Portraits", "Ville", "Enfance et adolescence" ]
-tags = [ "ombres et lumières", "philosophie", "1999", "acrostiche" ]
+categories = ["Portraits", "Enfance et adolescence", "Ville"]
+tags = ["philosophie", "ombres et lumières", "1999", "acrostiche", "alexandrin"]
 acrostiche = "A la fenêtre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Assise à la fenêtre Est, une jeune fille,

@@ -4,10 +4,10 @@ id = "chant_des_possedes_13"
 date = 1999-08-30
 weight = 44
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Chant des possédés"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme une feuille à ton arbre

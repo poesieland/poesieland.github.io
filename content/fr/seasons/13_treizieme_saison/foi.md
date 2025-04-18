@@ -3,12 +3,12 @@ title = "Foi"
 id = "foi_13"
 date = 1999-10-29
 weight = 50
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1999", "acrostiche" ]
-info = '"Unique restera" en italien.'
+categories = ["Amour platonique"]
+tags = ["amour", "1999", "acrostiche", "octosyllabe"]
+info = "\"Unique restera\" en italien."
 acrostiche = "Unico resterà"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Unique ton cœur bat, le mien
@@ -38,7 +38,7 @@ Rêve, l'au-delà, ta couronne,
 Aura montré nos pas touchants.
 
 {{% notice style="primary" %}}
-\"Unique restera\" en italien.
+"Unique restera" en italien.
 
 Acrostiche : Unico resterà
 {{% /notice %}}

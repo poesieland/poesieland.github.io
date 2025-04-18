@@ -4,10 +4,10 @@ id = "tu_me_consoles_13"
 date = 1999-08-17
 weight = 34
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Tu me consoles"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu suggères un sens quand la vie abandonne

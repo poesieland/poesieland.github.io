@@ -3,12 +3,12 @@ title = "A Toi la gloire"
 id = "a_toi_la_gloire_13"
 date = 1999-08-15
 weight = 1
-categories = [ "Foi" ]
-tags = [ "philosophie", "1999", "acrostiche" ]
+categories = ["Foi"]
+tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "A Toi la gloire"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Accueille un pécheur en ton sein, Sainte Mère !

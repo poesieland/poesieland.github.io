@@ -4,10 +4,10 @@ id = "lune_citadine_13"
 date = 1999-08-26
 weight = 18
 categories = ["Lune", "Ville"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Lune citadine"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La lune a perdu son chemin,

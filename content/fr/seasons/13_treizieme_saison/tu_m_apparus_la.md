@@ -3,11 +3,11 @@ title = "Tu m'apparus là"
 id = "tu_m_apparus_la_13"
 date = 1999-08-15
 weight = 32
-categories = [ "Passion" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Tu m'apparus là"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu m'apparus comme on s'approche

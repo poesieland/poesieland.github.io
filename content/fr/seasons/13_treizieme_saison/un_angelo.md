@@ -4,10 +4,10 @@ id = "un_angelo_13"
 date = 1999-09-21
 weight = 11
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Un angelo"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un ange est apparu,

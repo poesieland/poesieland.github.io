@@ -4,10 +4,10 @@ id = "l_orage_la_13"
 date = 1999-08-25
 weight = 17
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 acrostiche = "L'orage, là"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel soudain plus sombre imite un cinéma

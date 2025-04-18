@@ -4,10 +4,10 @@ id = "je_t_oublierai_13"
 date = 1999-08-23
 weight = 35
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Je t'oublierai"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je t'oublierai sans cesse

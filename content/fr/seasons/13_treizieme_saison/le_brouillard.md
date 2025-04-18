@@ -4,10 +4,10 @@ id = "le_brouillard_13"
 date = 1999-08-04
 weight = 14
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Le brouillard"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le goût du brouillard

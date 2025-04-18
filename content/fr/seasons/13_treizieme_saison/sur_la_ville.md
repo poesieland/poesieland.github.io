@@ -4,10 +4,10 @@ id = "sur_la_ville_13"
 date = 1999-10-15
 weight = 26
 categories = ["Ville", "Nuit"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Sur la ville"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur la ville la brume rose,

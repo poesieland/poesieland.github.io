@@ -4,10 +4,10 @@ id = "je_vous_salue_amour_13"
 date = 1999-09-10
 weight = 3
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Je vous salue, amour"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je vous salue, amour !
