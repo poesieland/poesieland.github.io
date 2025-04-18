@@ -4,10 +4,10 @@ id = "comme_un_voile_14"
 date = 2000-06-05
 weight = 33
 categories = ["Création", "Musique et chant"]
-tags = ["philosophie", "attitudes", "2000", "acrostiche"]
+tags = ["philosophie", "attitudes", "2000", "acrostiche", "heptasyllabe"]
 acrostiche = "Comme un voile"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme ta voix m'a manqué

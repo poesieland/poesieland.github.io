@@ -3,11 +3,11 @@ title = "Viens, amant"
 id = "viens_amant_14"
 date = 2001-01-30
 weight = 36
-categories = [ "Toucher", "Passion" ]
-tags = [ "amour", "attitudes", "2001", "acrostiche" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Viens en moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Viens bel amant, d'un cœur floral

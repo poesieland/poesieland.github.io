@@ -4,10 +4,10 @@ id = "l_automne_oublie_14"
 date = 2000-09-11
 weight = 34
 categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "2000", "acrostiche"]
+tags = ["philosophie", "saisons", "2000", "acrostiche", "quatorze syllabes"]
 acrostiche = "Dire à l'oublié"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Doucement ces heures fanées étiolent leurs senteurs,

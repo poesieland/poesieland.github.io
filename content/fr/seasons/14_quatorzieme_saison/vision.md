@@ -4,9 +4,9 @@ id = "vision_14"
 date = 2000-09-14
 weight = 20
 categories = ["Lune"]
-tags = ["ombres et lumières", "2000"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "2000", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La lune bleue en son ciel blanc,

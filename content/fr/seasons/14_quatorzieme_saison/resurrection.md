@@ -4,10 +4,10 @@ id = "resurrection_14"
 date = 2000-01-02
 weight = 30
 categories = ["Espoir"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "hexasyllabe"]
 acrostiche = "Résurrection"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rare comme le monde

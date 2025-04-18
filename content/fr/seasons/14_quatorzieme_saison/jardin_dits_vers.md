@@ -4,10 +4,10 @@ id = "jardin_dits_vers_14"
 date = 2000-12-28
 weight = 22
 categories = ["Hiver", "Temps"]
-tags = ["saisons", "philosophie", "2000", "acrostiche"]
+tags = ["saisons", "philosophie", "2000", "acrostiche", "décasyllabe"]
 acrostiche = "Jardin, dits vers"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Jetées sur les chemins sans ombre, ternes,

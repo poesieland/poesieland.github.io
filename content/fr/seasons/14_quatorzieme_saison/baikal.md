@@ -3,12 +3,12 @@ title = "Baïkal"
 id = "baikal_14"
 date = 2000-01-04
 weight = 15
-categories = [ "Eau douce" ]
-tags = [ "nature", "2000", "acrostiche" ]
+categories = ["Eau douce"]
+tags = ["nature", "2000", "acrostiche", "alexandrin"]
 acrostiche = "Baïkal"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-locations = [ "Où je n'ai pas été" ]
+locations = ["Où je n'ai pas été"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Bleu marine : la glace ondule en d'immobiles

@@ -4,10 +4,10 @@ id = "l_air_d_octobre_14"
 date = 2000-10-15
 weight = 5
 categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "2000", "acrostiche"]
+tags = ["saisons", "philosophie", "2000", "acrostiche", "octosyllabe"]
 acrostiche = "L'air d'octobre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne... apposés ses messages

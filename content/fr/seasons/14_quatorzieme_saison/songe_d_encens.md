@@ -4,10 +4,10 @@ id = "songe_d_encens_14"
 date = 2000-01-23
 weight = 46
 categories = ["Espoir"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "octosyllabe"]
 acrostiche = "Songe d'encens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur le ciel noir la lune lève

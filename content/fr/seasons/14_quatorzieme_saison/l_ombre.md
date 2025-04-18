@@ -4,10 +4,10 @@ id = "l_ombre_14"
 date = 2000-01-07
 weight = 45
 categories = ["Temps"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "hendécasyllabe"]
 acrostiche = "L'ombre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'ancienne lumière à ce rêve a cédé

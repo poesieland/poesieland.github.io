@@ -4,10 +4,10 @@ id = "solos_printemps_14"
 date = 2001-03-21
 weight = 11
 categories = ["Jardin et paysage", "Printemps"]
-tags = ["nature", "saisons", "2001", "acrostiche"]
+tags = ["nature", "saisons", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Solos, printemps"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Seul, un archange au cœur maussade,

@@ -4,10 +4,10 @@ id = "passe_present_14"
 date = 2000-04-01
 weight = 32
 categories = ["Etre"]
-tags = ["philosophie", "2000", "doubleAcrostiche"]
+tags = ["philosophie", "2000", "doubleAcrostiche", "hexasyllabe"]
 doubleAcrostiche = "Passé | présent"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Par les milliers d'années

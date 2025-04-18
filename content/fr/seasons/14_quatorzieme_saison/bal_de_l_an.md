@@ -4,10 +4,10 @@ id = "bal_de_l_an_14"
 date = 2000-12-28
 weight = 7
 categories = ["Temps"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "octosyllabe"]
 acrostiche = "Bal de l'an"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Blessant la nuit, ces douze coups

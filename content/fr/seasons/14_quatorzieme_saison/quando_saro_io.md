@@ -4,11 +4,11 @@ id = "quando_saro_io_14"
 date = 2000-02-19
 weight = 2
 categories = ["Création", "Temps"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "hendécasyllabe"]
 info = "\"Quand je serai (moi)\" en italien."
 acrostiche = "Quando sarò io"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand la neige aura bercé le vent de mer
@@ -38,7 +38,7 @@ Intime, l'art vrai ne ment au souvenir,
 Or le temps venu dit ce dernier poème.
 
 {{% notice style="primary" %}}
-\"Quand je serai (moi)\" en italien.
+"Quand je serai (moi)" en italien.
 
 Acrostiche : Quando sarò io
 {{% /notice %}}

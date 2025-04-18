@@ -4,10 +4,10 @@ id = "elans_valse_14"
 date = 2001-03-19
 weight = 39
 categories = ["Mouvement"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "décasyllabe"]
 acrostiche = "Elans, valse"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Elans frôlés, emportés, tout charmés

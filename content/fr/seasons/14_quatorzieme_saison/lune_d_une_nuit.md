@@ -4,10 +4,10 @@ id = "lune_d_une_nuit_14"
 date = 2000-11-11
 weight = 21
 categories = ["Lune"]
-tags = ["ombres et lumières", "2000", "acrostiche"]
+tags = ["ombres et lumières", "2000", "acrostiche", "octosyllabe"]
 acrostiche = "Amie de la nuit, lune"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Allée en haut, douce, grâcieuse

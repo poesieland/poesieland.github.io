@@ -4,10 +4,10 @@ id = "solo_14"
 date = 2001-02-24
 weight = 25
 categories = ["Musique et chant"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "ennéasyllabe"]
 acrostiche = "Solo"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Solo de violon descend mauve,

@@ -4,10 +4,10 @@ id = "eternite_14"
 date = 1999-12-05
 weight = 41
 categories = ["Temps", "Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Quando Corpus"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand plus loin que la nuit que berce le rivage

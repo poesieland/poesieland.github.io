@@ -4,10 +4,10 @@ id = "entre_tes_bras_14"
 date = 1999-11-21
 weight = 27
 categories = ["Mouvement", "Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Entre tes bras"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Emmène-moi, ce monde étrange

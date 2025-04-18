@@ -4,10 +4,10 @@ id = "c_est_un_dieu_14"
 date = 1999-11-10
 weight = 12
 categories = ["Foi", "Espoir"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "C'est un Dieu..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 C'est un dieu sur la terre

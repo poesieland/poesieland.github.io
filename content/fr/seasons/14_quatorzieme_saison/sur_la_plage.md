@@ -4,11 +4,11 @@ id = "sur_la_plage_14"
 date = 2001-02-22
 weight = 24
 categories = ["Romantisme"]
-tags = ["amour", "2001", "acrostiche"]
+tags = ["amour", "2001", "acrostiche", "octosyllabe"]
 info = "D'après un rêve."
 acrostiche = "Sur la plage"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur cette plage nos deux rires

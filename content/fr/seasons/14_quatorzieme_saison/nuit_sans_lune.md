@@ -3,11 +3,11 @@ title = "Nuit sans lune"
 id = "nuit_sans_lune_14"
 date = 2000-12-19
 weight = 49
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "2000", "pantoun" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "2000", "pantoun", "alexandrin"]
 poemType = "pantoun"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Par une nuit sans lune ô nuit sans lune au ciel !

@@ -4,9 +4,9 @@ id = "element_14"
 date = 2000-05-14
 weight = 48
 categories = ["Temps"]
-tags = ["philosophie", "2000"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "2000", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand dix mille ans plus tard

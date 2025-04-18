@@ -4,10 +4,10 @@ id = "l_ombre_de_novembre_14"
 date = 2000-11-11
 weight = 6
 categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "2000", "doubleAcrostiche"]
+tags = ["philosophie", "saisons", "2000", "doubleAcrostiche", "octosyllabe"]
 doubleAcrostiche = "L'ombre de | novembre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel rosit le soir si pâle:
