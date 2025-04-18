@@ -4,9 +4,9 @@ id = "reve_lunaire_12"
 date = 1999-05-28
 weight = 36
 categories = ["Lune"]
-tags = ["ombres et lumières", "1999"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "1999", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la lumière de la lune

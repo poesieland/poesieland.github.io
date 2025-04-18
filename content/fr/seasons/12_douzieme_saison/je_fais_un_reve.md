@@ -4,10 +4,10 @@ id = "je_fais_un_reve_12"
 date = 1999-06-01
 weight = 37
 categories = ["Sommeil"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Je fais un rêve"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je ne pouvais pas comprendre :

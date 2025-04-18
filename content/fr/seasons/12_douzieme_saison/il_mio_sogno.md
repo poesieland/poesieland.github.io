@@ -4,10 +4,10 @@ id = "il_mio_sogno_12"
 date = 1999-06-14
 weight = 9
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Il mio sogno"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il ne me reste qu'un seul rêve

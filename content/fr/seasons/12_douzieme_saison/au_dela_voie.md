@@ -4,10 +4,10 @@ id = "au_dela_voie_12"
 date = 1999-06-19
 weight = 29
 categories = ["Etre", "Nuit"]
-tags = ["philosophie", "ombres et lumières", "1999", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "1999", "acrostiche", "quatorze syllabes"]
 acrostiche = "Au-delà : voie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au-delà de toutes les nuits le temps de l'existence

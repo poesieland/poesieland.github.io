@@ -4,10 +4,10 @@ id = "l_eau_rage_12"
 date = 1999-06-30
 weight = 48
 categories = ["Eau douce", "Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 acrostiche = "L'eau rage"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'orage à traits rageurs peint le ciel d'un feu noir,

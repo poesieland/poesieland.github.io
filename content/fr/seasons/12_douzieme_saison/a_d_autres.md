@@ -4,10 +4,10 @@ id = "a_d_autres_12"
 date = 1999-06-09
 weight = 6
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
 acrostiche = "A d'autres"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A d'autres tu donnas ton rêve plus profond

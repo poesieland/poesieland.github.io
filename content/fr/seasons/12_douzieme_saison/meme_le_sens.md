@@ -4,10 +4,10 @@ id = "meme_le_sens_12"
 date = 1999-07-24
 weight = 23
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Même le sens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Même les mots qu'on ne sait dire

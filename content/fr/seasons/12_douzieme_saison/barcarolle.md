@@ -4,11 +4,11 @@ id = "barcarolle_12"
 date = 1999-06-28
 weight = 32
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
 info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Bercée en la gondole, une perche, une rame

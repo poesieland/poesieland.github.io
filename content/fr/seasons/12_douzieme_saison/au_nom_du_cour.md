@@ -4,10 +4,10 @@ id = "au_nom_du_cour_12"
 date = 1999-05-30
 weight = 1
 categories = ["Romantisme"]
-tags = ["amour", "1999", "acrostiche"]
+tags = ["amour", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Au nom du cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au nom du cœur je vous arrête :

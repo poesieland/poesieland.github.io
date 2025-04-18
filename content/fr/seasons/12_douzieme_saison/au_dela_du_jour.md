@@ -4,11 +4,11 @@ id = "au_dela_du_jour_12"
 date = 1999-07-06
 weight = 33
 categories = ["Création", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "acrostiche"]
+tags = ["philosophie", "attitudes", "1999", "acrostiche", "octosyllabe"]
 info = "En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999)."
 acrostiche = "Adios artisto"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la lumière d'un visage

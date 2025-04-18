@@ -4,10 +4,10 @@ id = "jeu_d_enfant_12"
 date = 1999-06-01
 weight = 39
 categories = ["Temps", "Enfance et adolescence"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Jeu d'enfant"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'irai décrocher la lune,

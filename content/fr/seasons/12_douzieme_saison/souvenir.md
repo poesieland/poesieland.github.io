@@ -4,10 +4,10 @@ id = "souvenir_12"
 date = 1999-06-10
 weight = 28
 categories = ["Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Souvenir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur l'ombre des mots, le vertige, néant

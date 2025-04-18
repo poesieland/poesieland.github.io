@@ -4,11 +4,11 @@ id = "canto_pioggia_12"
 date = 1999-06-20
 weight = 47
 categories = ["Eau douce", "Jardin et paysage"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "alexandrin"]
 info = "\"Chant, pluie\" en italien."
 acrostiche = "Canto, pioggia"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme l'onde du ciel descendue à la terre
@@ -38,7 +38,7 @@ Immense, ouvre la voie : un nuage décore
 Au diamant ravivé le sourire en ses rais.
 
 {{% notice style="primary" %}}
-\"Chant, pluie\" en italien.
+"Chant, pluie" en italien.
 
 Acrostiche : Canto, pioggia
 {{% /notice %}}

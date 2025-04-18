@@ -4,10 +4,10 @@ id = "tant_de_sens_12"
 date = 1999-06-05
 weight = 15
 categories = ["Musique et chant", "Temps"]
-tags = ["attitudes", "philosophie", "1999", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Tant de sens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu sais : les choses les plus belles

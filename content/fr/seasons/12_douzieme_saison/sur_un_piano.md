@@ -4,10 +4,10 @@ id = "sur_un_piano_12"
 date = 1999-06-12
 weight = 41
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Sur un piano"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur un piano tu joues,
