@@ -4,7 +4,7 @@ id = "le_photographe_17"
 date = 2023-09-24
 weight = 48
 categories = ["Portraits", "Création"]
-tags = ["philosophie", "2023"]
+tags = ["philosophie", "2023", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

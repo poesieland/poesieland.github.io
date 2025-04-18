@@ -4,7 +4,7 @@ id = "air_de_nuit_17"
 date = 2004-11-02
 weight = 4
 categories = ["Apprentissage", "Nuit", "Crépuscule"]
-tags = ["philosophie", "ombres et lumières", "2004"]
+tags = ["philosophie", "ombres et lumières", "2004", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

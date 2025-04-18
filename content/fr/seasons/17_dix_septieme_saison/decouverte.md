@@ -1,60 +1,16 @@
----
-weight: 30
-title: Découverte
-id: decouverte_17
-date: 2006-01-08
-divider: ""
-categories:
-    - Eau douce
-    - Enfance et adolescence
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2006"
-    - nature
-    - philosophie
-info: Le ru de Kuntzig coulait près de ma maison d'enfance
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 8
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-locations:
-    - Lorraine
----
++++
+title = "Découverte"
+id = "decouverte_17"
+date = 2006-01-08
+weight = 30
+categories = ["Eau douce", "Enfance et adolescence"]
+tags = ["nature", "philosophie", "2006", "octosyllabe"]
+info = "Le ru de Kuntzig coulait près de ma maison d'enfance"
+verseLength = 8
+locations = ["Lorraine"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 La pluie est un caparaçon,
 
 Tout est nuance de grisaille.
@@ -90,8 +46,6 @@ Jusqu'à la source, un jour, envie,
 
 Rivière, d'aller t'éprouver.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Le ruisseau le Helpert coulait près de ma maison d'enfance"}]} -->
 {{% notice style="primary" %}}
 Le ru de Kuntzig coulait près de ma maison d'enfance
 {{% /notice %}}
-<!-- FM:Snippet:End -->

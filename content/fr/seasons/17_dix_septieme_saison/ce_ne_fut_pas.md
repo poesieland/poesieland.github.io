@@ -3,8 +3,8 @@ title = "Ce ne fut pas"
 id = "ce_ne_fut_pas_17"
 date = 2005-02-20
 weight = 15
-categories = [ "Passion" ]
-tags = [ "amour", "2005" ]
+categories = ["Passion"]
+tags = ["amour", "2005", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

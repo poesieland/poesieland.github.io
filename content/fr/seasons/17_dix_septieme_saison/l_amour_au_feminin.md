@@ -3,8 +3,8 @@ title = "L'amour au féminin"
 id = "l_amour_au_feminin_17"
 date = 2005-01-25
 weight = 12
-categories = [ "Espoir" ]
-tags = [ "2005", "philosophie", "maman" ]
+categories = ["Espoir"]
+tags = ["philosophie", "maman", "2005", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

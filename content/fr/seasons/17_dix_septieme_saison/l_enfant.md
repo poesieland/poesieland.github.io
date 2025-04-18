@@ -1,24 +1,15 @@
----
-weight: 38
-title: L'enfant
-id: l_enfant_17
-date: 2007-06-21
-divider: ""
-categories:
-    - Apprentissage
-ensureTagAmour5: ""
-ensureTagPhilosophie10: ""
-tags:
-    - "2007"
-    - philosophie
-    - maman
-info: Quand j'étais enceinte de mon fils aîné.
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 5
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'enfant"
+id = "l_enfant_17"
+date = 2007-06-21
+weight = 38
+categories = ["Apprentissage"]
+tags = ["philosophie", "maman", "2007", "pentasyllabe"]
+info = "Quand j'étais enceinte de mon fils aîné."
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est toi l'étranger,
 
 C'est moi la native

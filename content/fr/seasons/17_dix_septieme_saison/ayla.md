@@ -1,56 +1,15 @@
----
-weight: 28
-title: Ayla
-id: ayla_17
-date: 2005-11-20
-divider: ""
-categories:
-    - Portraits
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2005"
-    - philosophie
-info: Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes)
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-verseLength: 7
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ayla"
+id = "ayla_17"
+date = 2005-11-20
+weight = 28
+categories = ["Portraits"]
+tags = ["philosophie", "2005", "heptasyllabe"]
+info = "Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes)"
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Plus de livres pour les rêves
 
 Mais pour la vie un instant
@@ -86,8 +45,6 @@ Du sens gravé sur la voûte :
 
 L'intangible jaillit là.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Inspiré par la série romanesque "}]} -->
 {{% notice style="primary" %}}
 Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

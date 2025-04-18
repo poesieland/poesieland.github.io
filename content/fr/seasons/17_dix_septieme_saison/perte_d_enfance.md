@@ -4,7 +4,7 @@ id = "perte_d_enfance_17"
 date = 2004-12-21
 weight = 9
 categories = ["Enfance et adolescence", "Apprentissage"]
-tags = ["philosophie", "2004"]
+tags = ["philosophie", "2004", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

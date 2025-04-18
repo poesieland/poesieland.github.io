@@ -4,7 +4,7 @@ id = "emotion_d_automne_17"
 date = 2023-08-30
 weight = 47
 categories = ["Automne"]
-tags = ["saisons", "2023"]
+tags = ["saisons", "2023", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

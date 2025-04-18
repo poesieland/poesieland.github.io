@@ -4,7 +4,7 @@ id = "present_d_automne_17"
 date = 2023-09-30
 weight = 49
 categories = ["Automne", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "2023"]
+tags = ["saisons", "philosophie", "2023", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

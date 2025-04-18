@@ -4,7 +4,7 @@ id = "symbole_17"
 date = 2004-10-25
 weight = 1
 categories = ["Nuit", "Temps"]
-tags = ["ombres et lumières", "philosophie", "2004"]
+tags = ["ombres et lumières", "philosophie", "2004", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

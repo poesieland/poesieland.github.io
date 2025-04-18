@@ -4,7 +4,7 @@ id = "arbre_sacre_17"
 date = 2005-03-14
 weight = 18
 categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "2005"]
+tags = ["nature", "saisons", "2005", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

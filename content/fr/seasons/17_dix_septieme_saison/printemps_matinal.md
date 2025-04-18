@@ -4,7 +4,7 @@ id = "printemps_matinal_17"
 date = 2005-03-15
 weight = 19
 categories = ["Jardin et paysage", "Flore", "Printemps"]
-tags = ["nature", "saisons", "2005"]
+tags = ["nature", "saisons", "2005", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
