@@ -4,11 +4,11 @@ id = "trente_ans_15"
 date = 2001-07-14
 weight = 12
 categories = ["Etre"]
-tags = ["philosophie", "2001", "pantoun"]
+tags = ["philosophie", "2001", "pantoun", "alexandrin"]
 info = "Composé pour une amie."
 poemType = "pantoun"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Voici bien venu l'an, voilà nombre des sages:

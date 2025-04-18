@@ -4,10 +4,10 @@ id = "je_ne_dors_15"
 date = 2001-08-18
 weight = 20
 categories = ["Sommeil"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Je ne dors"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je me souviens des heures blêmes

@@ -4,10 +4,10 @@ id = "le_soir_tendre_15"
 date = 2001-08-20
 weight = 22
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "hexasyllabe"]
 acrostiche = "Le soir tendre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le soir me dit : trop frêle

@@ -4,10 +4,10 @@ id = "lune_joue_15"
 date = 2001-10-02
 weight = 39
 categories = ["Lune"]
-tags = ["ombres et lumières", "2001", "acrostiche"]
+tags = ["ombres et lumières", "2001", "acrostiche", "hexasyllabe"]
 acrostiche = "Lune joue"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Lune au ciel crénelé,

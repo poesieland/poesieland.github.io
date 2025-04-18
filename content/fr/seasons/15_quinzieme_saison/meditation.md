@@ -4,10 +4,10 @@ id = "meditation_15"
 date = 2001-04-30
 weight = 4
 categories = ["Musique et chant"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "hexasyllabe"]
 acrostiche = "Méditation"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Molles ailes, violons

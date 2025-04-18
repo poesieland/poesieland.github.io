@@ -3,10 +3,10 @@ title = "Retour"
 id = "retour_15"
 date = 2001-06-29
 weight = 10
-categories = [ "Temps", "Ville", "Apprentissage" ]
-tags = [ "ombres et lumières", "philosophie", "2001" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Temps", "Apprentissage", "Ville"]
+tags = ["philosophie", "ombres et lumières", "2001", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je ne suis plus la même enfant

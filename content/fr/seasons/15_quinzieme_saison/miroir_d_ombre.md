@@ -4,12 +4,13 @@ id = "miroir_d_ombre_15"
 date = 2001-09-13
 weight = 30
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "alexandrin"]
 info = "En mémoire des attentats du 11.09.2001."
 acrostiche = "Miroir d'ombre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
+
 Miroir gris retourné sous son voile de crêpe,
 
 Insignifiant peut-être ; et dans la pièce alors

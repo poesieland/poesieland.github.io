@@ -3,11 +3,11 @@ title = "Traces des lèvres"
 id = "traces_des_levres_15"
 date = 2001-11-10
 weight = 47
-categories = [ "Toucher", "Romantisme" ]
-tags = [ "amour", "attitudes", "2001", "acrostiche" ]
+categories = ["Toucher", "Romantisme"]
+tags = ["attitudes", "amour", "2001", "acrostiche", "décasyllabe"]
 acrostiche = "Traces des lèvres"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Touchez doux, émoi nouveau chaste rend

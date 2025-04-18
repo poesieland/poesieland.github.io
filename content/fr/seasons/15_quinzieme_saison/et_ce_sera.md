@@ -4,10 +4,10 @@ id = "et_ce_sera_15"
 date = 2001-09-21
 weight = 33
 categories = ["Jardin et paysage"]
-tags = ["nature", "2001", "acrostiche"]
+tags = ["nature", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Et ce sera..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Emmène-moi dans les champs pâles,

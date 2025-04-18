@@ -4,10 +4,10 @@ id = "ombres_et_lumieres_15"
 date = 2001-07-26
 weight = 14
 categories = ["Création"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Ombres et lumières"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Origine du monde, âme, l'évanescence

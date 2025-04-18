@@ -4,10 +4,10 @@ id = "matin_privilege_15"
 date = 2001-08-22
 weight = 23
 categories = ["Temps", "Flore"]
-tags = ["philosophie", "nature", "2001", "acrostiche"]
+tags = ["philosophie", "nature", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Matin privilège"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher dans le matin, sonore

@@ -4,11 +4,11 @@ id = "alma_libera_te_15"
 date = 2001-06-13
 weight = 7
 categories = ["Crépuscule", "Foi"]
-tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2001", "acrostiche", "heptasyllabe"]
 info = "\"Ame, libère-toi\" en italien."
 acrostiche = "Alma, libera te"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Âme libre, envole un songe :
@@ -38,7 +38,7 @@ Trait d'ineffable lumière
 En rêve, pas seulement.
 
 {{% notice style="primary" %}}
-\"Ame, libère-toi\" en italien.
+"Ame, libère-toi" en italien.
 
 Acrostiche : Alma, libera te
 {{% /notice %}}

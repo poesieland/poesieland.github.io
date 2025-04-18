@@ -3,11 +3,11 @@ title = "Ballet de sens"
 id = "ballet_de_sens_15"
 date = 2001-11-10
 weight = 46
-categories = [ "Toucher", "Passion" ]
-tags = [ "attitudes", "amour", "2001", "acrostiche" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "2001", "acrostiche", "hexasyllabe"]
 acrostiche = "Ballet de sens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Baisers du bout des lèvres

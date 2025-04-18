@@ -4,10 +4,10 @@ id = "crepuscule_15"
 date = 2001-07-23
 weight = 13
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2001", "acrostiche"]
+tags = ["ombres et lumières", "2001", "acrostiche", "heptasyllabe"]
 acrostiche = "Crépuscule"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Chaque éclat de verre ou marbre

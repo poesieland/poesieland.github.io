@@ -4,10 +4,10 @@ id = "l_autunno_dolce_mio_15"
 date = 2001-10-02
 weight = 38
 categories = ["Automne", "Etre"]
-tags = ["saisons", "philosophie", "2001", "acrostiche"]
+tags = ["saisons", "philosophie", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "L'autunno, dolce mio"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne au parfum de printemps

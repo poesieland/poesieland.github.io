@@ -4,10 +4,10 @@ id = "ce_lieu_de_reve_15"
 date = 2001-08-05
 weight = 17
 categories = ["Etre", "Eau douce"]
-tags = ["philosophie", "nature", "2001", "acrostiche"]
+tags = ["philosophie", "nature", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Ce lieu de rêve"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Calme relief, l'immense étang berce de frises

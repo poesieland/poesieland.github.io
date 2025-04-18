@@ -4,11 +4,11 @@ id = "la_vita_sopratutto_15"
 date = 2001-10-08
 weight = 41
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "octosyllabe"]
 info = "\"La vie par-dessus tout\" en italien."
 acrostiche = "La vita sopratutto"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La vie, accord en adagio
@@ -47,7 +47,7 @@ Tempo connu, d'autres décors
 Ouvriront lendemains dociles.
 
 {{% notice style="primary" %}}
-\"La vie par-dessus tout\" en italien.
+"La vie par-dessus tout" en italien.
 
 Acrostiche : La vita sopratutto
 {{% /notice %}}

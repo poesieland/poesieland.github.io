@@ -4,10 +4,10 @@ id = "etreinte_ange_15"
 date = 2001-09-11
 weight = 29
 categories = ["Toucher", "Temps"]
-tags = ["attitudes", "philosophie", "2001", "acrostiche"]
+tags = ["attitudes", "philosophie", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Etreinte - ange"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En ce jour triste mes doigts frôlent

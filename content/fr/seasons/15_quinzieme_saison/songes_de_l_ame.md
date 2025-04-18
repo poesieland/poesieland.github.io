@@ -4,10 +4,10 @@ id = "songes_de_l_ame_15"
 date = 2001-09-29
 weight = 36
 categories = ["Nuit", "Ville"]
-tags = ["ombres et lumières", "2001", "acrostiche"]
+tags = ["ombres et lumières", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Songes de l'âme"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Silencieux dans la nuit les oiseaux plus tranquilles

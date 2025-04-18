@@ -4,10 +4,10 @@ id = "sur_la_terre_la_15"
 date = 2001-07-27
 weight = 15
 categories = ["Crépuscule", "Etre"]
-tags = ["ombres et lumières", "philosophie", "2001", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2001", "acrostiche", "décasyllabe"]
 acrostiche = "Sur la terre, là"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Suave, rose, au-delà des nuages

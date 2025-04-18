@@ -4,10 +4,10 @@ id = "apres_le_drame_15"
 date = 2001-07-26
 weight = 1
 categories = ["Apprentissage"]
-tags = ["philosophie", "2001"]
+tags = ["philosophie", "2001", "octosyllabe"]
 info = "En mémoire des 113 victimes du crash du Concorde du 25.07.2000."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Toutes les femmes sont en noir,

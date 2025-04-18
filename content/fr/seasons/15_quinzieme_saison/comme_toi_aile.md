@@ -4,10 +4,10 @@ id = "comme_toi_aile_15"
 date = 2001-09-13
 weight = 31
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Comme toi, aile"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Caresse-moi de tes respirs,

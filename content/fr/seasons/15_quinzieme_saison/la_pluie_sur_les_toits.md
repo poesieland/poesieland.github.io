@@ -3,12 +3,12 @@ title = "La pluie sur les toits"
 id = "la_pluie_sur_les_toits_15"
 date = 2001-04-14
 weight = 3
-categories = [ "Ville", "Eau douce" ]
-tags = [ "ombres et lumières", "nature", "2001", "acrostiche" ]
+categories = ["Ville", "Eau douce"]
+tags = ["ombres et lumières", "nature", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "La pluie sur les toits"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La pluie éteint tous les sourires

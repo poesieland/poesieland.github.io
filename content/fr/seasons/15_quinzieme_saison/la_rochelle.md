@@ -3,11 +3,11 @@ title = "La Rochelle"
 id = "la_rochelle_15"
 date = 2001-06-23
 weight = 9
-categories = [ "Ville", "Portraits" ]
-tags = [ "ombres et lumières", "philosophie", "2001" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Ville", "Portraits"]
+tags = ["ombres et lumières", "philosophie", "2001", "hexasyllabe"]
 verseLength = 6
-locations = [ "Côte atlantique" ]
+locations = ["Côte atlantique"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La cité m'interpelle:

@@ -4,9 +4,9 @@ id = "souvenirs_15"
 date = 2001-08-25
 weight = 24
 categories = ["Temps"]
-tags = ["philosophie", "2001"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "2001", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Des livres lus, pas terminés,
