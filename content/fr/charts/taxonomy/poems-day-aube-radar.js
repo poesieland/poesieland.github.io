@@ -111,7 +111,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-aubeRadar', ['Mois les plus représentés : février, octobre, novembre, avril'], [data], { backgroundColor: 'rgba(255, 203, 96, 0.5)', borderColor: 'rgba(255, 203, 96, 1)', pointBackgroundColor: 'rgba(255, 203, 96, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-aubeRadar', ['Mois les plus représentés : février, avril, octobre, novembre'], [data], { backgroundColor: 'rgba(255, 203, 96, 0.5)', borderColor: 'rgba(255, 203, 96, 1)', pointBackgroundColor: 'rgba(255, 203, 96, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();
