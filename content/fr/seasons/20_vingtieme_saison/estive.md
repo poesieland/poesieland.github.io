@@ -4,7 +4,7 @@ id = "estive_20"
 date = 2024-05-30
 weight = 22
 categories = ["Ciel", "Eté"]
-tags = ["nature", "saisons", "2024"]
+tags = ["nature", "saisons", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

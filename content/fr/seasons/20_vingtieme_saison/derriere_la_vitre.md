@@ -4,7 +4,7 @@ id = "derriere_la_vitre_20"
 date = 2024-05-05
 weight = 9
 categories = ["Ville"]
-tags = ["ombres et lumières", "2024"]
+tags = ["ombres et lumières", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

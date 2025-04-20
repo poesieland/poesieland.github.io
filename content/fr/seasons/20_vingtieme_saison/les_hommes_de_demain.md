@@ -3,8 +3,8 @@ title = "Les hommes de demain"
 id = "les_hommes_de_demain_20"
 date = 2024-05-15
 weight = 14
-categories = [ "Espoir", "Apprentissage" ]
-tags = [ "2024", "philosophie" ]
+categories = ["Espoir", "Apprentissage"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

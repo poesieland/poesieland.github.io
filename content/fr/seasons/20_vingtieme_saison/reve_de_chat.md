@@ -1,24 +1,15 @@
----
-weight: 4
-title: Rêve de chat
-id: reve_de_chat_20
-date: 2024-04-29
-verseLength: 6
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2024"
-    - nature
-    - lovecat
-locations: []
-info: "[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/lovecat.fr)"
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rêve de chat"
+id = "reve_de_chat_20"
+date = 2024-04-29
+weight = 4
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2024", "hexasyllabe"]
+info = "[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/lovecat.fr)"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans mon rêve de chat
 
 Je course une kitrotte
@@ -45,8 +36,6 @@ L'humain m'est asservi,
 
 Jour, nuit, chaque seconde !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)"}]} -->
 {{% notice style="primary" %}}
 [Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

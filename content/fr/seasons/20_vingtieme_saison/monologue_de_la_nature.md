@@ -4,7 +4,7 @@ id = "monologue_de_la_nature_20"
 date = 2024-05-01
 weight = 7
 categories = ["Espoir", "Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

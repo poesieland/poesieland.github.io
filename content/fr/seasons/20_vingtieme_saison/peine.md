@@ -1,23 +1,14 @@
----
-weight: 43
-title: Peine
-id: peine_20
-date: 2024-06-20
-verseLength: 4
-divider: ""
-categories:
-    - Eté
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Peine"
+id = "peine_20"
+date = 2024-06-20
+weight = 43
+categories = ["Eté"]
+tags = ["saisons", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un ciel laiteux
 
 Flatte ma peine,

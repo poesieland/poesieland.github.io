@@ -1,25 +1,14 @@
----
-weight: 49
-title: Le soir apaisé
-id: le_soir_apaise_20
-date: 2024-06-23
-verseLength: 6
-divider: ""
-categories:
-    - Crépuscule
-    - Amitié
-tags:
-    - "2024"
-    - amour
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le soir apaisé"
+id = "le_soir_apaise_20"
+date = 2024-06-23
+weight = 49
+categories = ["Crépuscule", "Amitié"]
+tags = ["ombres et lumières", "amour", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il chante dans le soir,
 
 Le merle t'accompagne,

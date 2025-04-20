@@ -1,28 +1,14 @@
----
-weight: 50
-title: Soir d'été
-id: soir_d_ete_20
-date: 2024-06-25
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Crépuscule
-    - Eté
-    - Climat
-tags:
-    - "2024"
-    - nature
-    - ombres et lumières
-    - saisons
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir d'été"
+id = "soir_d_ete_20"
+date = 2024-06-25
+weight = 50
+categories = ["Ciel", "Climat", "Crépuscule", "Eté"]
+tags = ["nature", "ombres et lumières", "saisons", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Eté, te revoilà !
 
 Arrête le pendule

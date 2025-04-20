@@ -4,7 +4,7 @@ id = "sois_20"
 date = 2024-06-01
 weight = 23
 categories = ["Foi"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

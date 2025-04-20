@@ -1,26 +1,14 @@
----
-weight: 46
-title: Bascule
-id: bascule_20
-date: 2024-06-22
-verseLength: 6
-divider: ""
-categories:
-    - Climat
-    - Révolte
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - nature
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Bascule"
+id = "bascule_20"
+date = 2024-06-22
+weight = 46
+categories = ["Climat", "Révolte", "Angoisse"]
+tags = ["nature", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Les masses d'air se figent,
 
 Plus de vent dans les cieux,

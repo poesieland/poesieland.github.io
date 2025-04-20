@@ -3,9 +3,9 @@ title = "Eté champêtre"
 id = "ete_champetre_20"
 date = 2024-06-09
 weight = 30
-categories = [ "Jardin et paysage", "Eté" ]
-tags = [ "nature", "saisons", "2024" ]
-pictures = [ "Le 8 juin 2024" ]
+categories = ["Jardin et paysage", "Eté"]
+tags = ["nature", "saisons", "2024", "hexasyllabe"]
+pictures = ["Le 8 juin 2024"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -36,5 +36,4 @@ Quand l'été vrai revient
 
 M'enchanter l'âme reine.
 
-{{< figure src="/images/ete_champetre_20_0.jpg" title="le 8 juin 2024" >}}
-
+{{< figure src="/images/ete_champetre_20_0.jpg" title="Le 8 juin 2024" >}}

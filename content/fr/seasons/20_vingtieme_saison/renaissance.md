@@ -3,10 +3,9 @@ title = "Renaissance"
 id = "renaissance_20"
 date = 2024-06-13
 weight = 35
-categories = [ "Aube" ]
-tags = [ "ombres et lumières", "2024" ]
-info = """
-Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024", "ennéasyllabe"]
+info = """Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

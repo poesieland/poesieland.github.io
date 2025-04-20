@@ -3,8 +3,8 @@ title = "Le vent"
 id = "le_vent_20"
 date = 2024-06-15
 weight = 38
-categories = [ "Ciel", "Mouvement", "Climat" ]
-tags = [ "nature", "attitudes", "2024" ]
+categories = ["Ciel", "Climat", "Mouvement"]
+tags = ["nature", "attitudes", "2024", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

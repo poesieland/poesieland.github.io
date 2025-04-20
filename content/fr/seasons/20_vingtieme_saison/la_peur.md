@@ -4,7 +4,7 @@ id = "la_peur_20"
 date = 2024-06-07
 weight = 29
 categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

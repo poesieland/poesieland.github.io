@@ -3,8 +3,8 @@ title = "Souvenirs d'autrefois"
 id = "souvenirs_d_autrefois_20"
 date = 2024-05-04
 weight = 8
-categories = [ "Enfance et adolescence", "Temps" ]
-tags = [ "2024", "philosophie", "maman" ]
+categories = ["Enfance et adolescence", "Temps"]
+tags = ["philosophie", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

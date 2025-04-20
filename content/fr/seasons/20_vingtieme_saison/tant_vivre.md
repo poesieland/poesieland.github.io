@@ -4,7 +4,7 @@ id = "tant_vivre_20"
 date = 2024-06-10
 weight = 31
 categories = ["Enfance et adolescence"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
