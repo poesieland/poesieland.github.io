@@ -1,25 +1,15 @@
----
-weight: 44
-title: Le mot manquant
-id: le_mot_manquant_18
-date: 2024-01-03
-verseLength: 4
-divider: ""
-categories:
-    - Espoir
-    - Création
-tags:
-    - "2024"
-    - philosophie
-    - les mots
-locations: []
-info: '[Les poèmes du mini-thème "les mots"](/tags/les-mots)'
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le mot manquant"
+id = "le_mot_manquant_18"
+date = 2024-01-03
+weight = 44
+categories = ["Espoir", "Création"]
+tags = ["philosophie", "les mots", "2024", "tétrasyllabe"]
+info = "'[Les poèmes du mini-thème \"les mots\"](/tags/les-mots)'"
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Les mots bonbons
 
 Qui s'acidulent,
@@ -83,5 +73,5 @@ Apaisé quand
 Les "merci" s'osent !
 
 {{% notice style="primary" %}}
-[Les poèmes du mini-thème "les mots"](/tags/les-mots)
+'[Les poèmes du mini-thème "les mots"](/tags/les-mots)'
 {{% /notice %}}

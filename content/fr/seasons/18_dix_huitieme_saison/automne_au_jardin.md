@@ -3,8 +3,8 @@ title = "Automne au jardin"
 id = "automne_au_jardin_18"
 date = 2023-11-17
 weight = 23
-categories = [ "Automne", "Faune", "Jardin et paysage", "Climat" ]
-tags = [ "saisons", "nature", "2023" ]
+categories = ["Automne", "Faune", "Jardin et paysage", "Climat"]
+tags = ["saisons", "nature", "2023", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -1,25 +1,16 @@
----
-weight: 40
-title: Ma promenade
-id: ma_promenade_18
-date: 2023-12-27
-verseLength: 8
-divider: ""
-categories:
-    - Jardin et paysage
-tags:
-    - "2023"
-    - nature
-info: ""
-pictures:
-    - Le Ravel, le 27.12.2023
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-locations:
-    - Charleroi
----
++++
+title = "Ma promenade"
+id = "ma_promenade_18"
+date = 2023-12-27
+weight = 40
+categories = ["Jardin et paysage"]
+tags = ["nature", "2023", "octosyllabe"]
+pictures = ["Le Ravel, le 27.12.2023"]
+verseLength = 8
+locations = ["Charleroi"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Passereaux bruns en farandole
 
 Chassés par des ramiers dodus,
@@ -46,7 +37,4 @@ Comme dentelle au jour brun-gris,
 
 Se répondent et fiers cancanent.
 
-
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"ma_promenade_18_0.jpg"},{"name":"imageCaption","value":"Le Ravel, le 27.12.2023"}]} -->
 {{< figure src="/images/ma_promenade_18_0.jpg" title="Le Ravel, le 27.12.2023" >}}
-<!-- FM:Snippet:End -->

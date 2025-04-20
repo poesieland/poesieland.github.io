@@ -1,25 +1,15 @@
----
-weight: 42
-title: Union
-id: union_18
-date: 2024-01-01
-verseLength: 6
-divider: ""
-categories:
-    - Etre
-    - Musique et chant
-tags:
-    - "2024"
-    - philosophie
-    - pantoun
-locations: []
-info: ""
-pictures: []
-poemType: pantoun
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Union"
+id = "union_18"
+date = 2024-01-01
+weight = 42
+categories = ["Etre", "Musique et chant"]
+tags = ["philosophie", "attitudes", "2024", "pantoun", "hexasyllabe"]
+poemType = "pantoun"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Chaque jour m'est donné
 
 D'un bonheur sans armure ;

@@ -4,7 +4,7 @@ id = "quintessence_automnale_18"
 date = 2023-10-28
 weight = 8
 categories = ["Automne"]
-tags = ["saisons", "2023"]
+tags = ["saisons", "2023", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

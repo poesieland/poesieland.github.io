@@ -1,28 +1,15 @@
----
-weight: 43
-title: Hiver pluvieux
-id: hiver_pluvieux_18
-date: 2024-01-02
-verseLength: 6
-divider: ""
-categories:
-    - Eau douce
-    - Hiver
-    - Révolte
-    - Climat
-tags:
-    - "2024"
-    - nature
-    - saisons
-    - philosophie
-locations: []
-info: En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Hiver pluvieux"
+id = "hiver_pluvieux_18"
+date = 2024-01-02
+weight = 43
+categories = ["Eau douce", "Climat", "Hiver", "Révolte"]
+tags = ["nature", "saisons", "philosophie", "2024", "hexasyllabe"]
+info = "En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Là-bas vois-tu le vent
 
 Pousser chaque nuage
@@ -76,8 +63,6 @@ Humide hégémonie,
 
 Cesse, pluie ! A ton tour !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂"}]} -->
 {{% notice style="primary" %}}
 En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂
 {{% /notice %}}
-<!-- FM:Snippet:End -->

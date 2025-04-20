@@ -4,7 +4,7 @@ id = "oiseaux_d_automne_18"
 date = 2023-11-14
 weight = 21
 categories = ["Automne", "Faune"]
-tags = ["saisons", "nature", "2023"]
+tags = ["saisons", "nature", "2023", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

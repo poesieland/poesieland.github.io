@@ -4,7 +4,7 @@ id = "les_rats_18"
 date = 2023-10-22
 weight = 6
 categories = ["Faune"]
-tags = ["nature", "2023"]
+tags = ["nature", "2023", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

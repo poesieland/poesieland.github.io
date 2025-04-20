@@ -3,9 +3,9 @@ title = "Mon chat"
 id = "mon_chat_18"
 date = 2023-11-03
 weight = 14
-categories = [ "Faune" ]
-tags = [ "2023", "nature", "lovecat" ]
-pictures = [ "Mon chat, 3 septembre 2022" ]
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2023", "hexasyllabe"]
+pictures = ["Mon chat, 3 septembre 2022"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
