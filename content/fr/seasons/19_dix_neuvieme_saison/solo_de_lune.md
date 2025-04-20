@@ -4,7 +4,7 @@ id = "solo_de_lune_19"
 date = 2024-02-18
 weight = 11
 categories = ["Lune"]
-tags = ["ombres et lumières", "2024"]
+tags = ["ombres et lumières", "2024", "dissyllabe"]
 verseLength = 2
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

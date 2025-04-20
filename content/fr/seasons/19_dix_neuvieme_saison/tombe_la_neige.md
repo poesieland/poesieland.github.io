@@ -4,7 +4,7 @@ id = "tombe_la_neige_19"
 date = 2024-01-17
 weight = 1
 categories = ["Neige"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

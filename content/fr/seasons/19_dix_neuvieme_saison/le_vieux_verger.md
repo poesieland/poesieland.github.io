@@ -3,12 +3,12 @@ title = "Le vieux verger"
 id = "le_vieux_verger_19"
 date = 2024-04-07
 weight = 40
-categories = [ "Jardin et paysage" ]
-tags = [ "2024", "nature", "maman" ]
+categories = ["Jardin et paysage"]
+tags = ["nature", "maman", "2024", "octosyllabe"]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-{{% /notice %}}"""
+"""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -49,6 +49,8 @@ Quand les moutons sans plus berger
 S'interpellent et se répondent.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
+
 {{% /notice %}}

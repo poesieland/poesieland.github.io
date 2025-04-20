@@ -4,7 +4,7 @@ id = "babette_19"
 date = 2024-04-20
 weight = 46
 categories = ["Faune", "Révolte"]
-tags = ["nature", "philosophie", "2024"]
+tags = ["nature", "philosophie", "2024", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

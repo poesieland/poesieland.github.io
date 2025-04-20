@@ -3,8 +3,8 @@ title = "En transit"
 id = "en_transit_19"
 date = 2024-04-13
 weight = 43
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "2024" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

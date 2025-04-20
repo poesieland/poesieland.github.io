@@ -4,7 +4,7 @@ id = "l_arbre_revit_19"
 date = 2024-03-02
 weight = 15
 categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "2024"]
+tags = ["nature", "saisons", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

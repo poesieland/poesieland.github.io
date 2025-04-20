@@ -4,12 +4,12 @@ id = "eloge_19"
 date = 2024-03-31
 weight = 33
 categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-"Qu'importe le flacon, pourvu qu'on ait l'ivrese"
+"Qu'importe le flacon, pourvu qu'on ait l'ivresse"
 
 Que nenni, sans terroir et sans mets c'est péché
 

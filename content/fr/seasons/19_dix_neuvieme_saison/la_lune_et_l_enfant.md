@@ -4,7 +4,7 @@ id = "la_lune_et_l_enfant_19"
 date = 2024-02-12
 weight = 9
 categories = ["Lune", "Enfance et adolescence"]
-tags = ["ombres et lumières", "philosophie", "2024"]
+tags = ["ombres et lumières", "philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

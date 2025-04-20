@@ -4,7 +4,7 @@ id = "sans_regret_19"
 date = 2024-04-04
 weight = 37
 categories = ["Temps"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

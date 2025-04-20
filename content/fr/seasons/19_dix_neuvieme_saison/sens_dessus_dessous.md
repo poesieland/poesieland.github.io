@@ -3,8 +3,8 @@ title = "Sens dessus dessous"
 id = "sens_dessus_dessous_19"
 date = 2024-04-18
 weight = 45
-categories = [ "Printemps", "Révolte", "Climat" ]
-tags = [ "2024", "philosophie", "saisons", "nature" ]
+categories = ["Printemps", "Révolte", "Climat"]
+tags = ["saisons", "philosophie", "nature", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "chant_de_l_aube_19"
 date = 2024-04-06
 weight = 39
 categories = ["Aube"]
-tags = ["ombres et lumières", "2024"]
+tags = ["ombres et lumières", "2024", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

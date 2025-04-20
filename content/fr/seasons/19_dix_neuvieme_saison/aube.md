@@ -1,27 +1,18 @@
----
-weight: 6
-title: Aube
-id: aube_19
-date: 2024-02-02
-verseLength: 4
-divider: ""
-categories:
-    - Aube
-tags:
-    - ombres et lumières
-    - "2024"
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Aube"
+id = "aube_19"
+date = 2024-02-02
+weight = 6
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024", "tétrasyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+"""
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le jour se lève,
 
 Discret, glorieux,
@@ -67,6 +58,8 @@ Fin du murmure,
 Le jour est là.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+
 {{% /notice %}}

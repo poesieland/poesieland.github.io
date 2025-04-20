@@ -3,8 +3,8 @@ title = "Déclaration"
 id = "declaration_19"
 date = 2024-03-05
 weight = 19
-categories = [ "Passion" ]
-tags = [ "amour", "2024" ]
+categories = ["Passion"]
+tags = ["amour", "2024", "décasyllabe"]
 info = "Inspiré par la chanson de Francis Cabrel [Je t'aimais, je t'aime, je t'aimerai](https://www.google.com/search?q=je+t%27aimais+je+t%27aime+je+t%27aimerai)"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
