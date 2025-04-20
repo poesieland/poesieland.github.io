@@ -1,24 +1,14 @@
----
-weight: 36
-title: L'automne clown
-id: l_automne_clown_21
-date: 2024-08-18
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - acrostiche
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: "On reparle : automne"
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'automne clown"
+id = "l_automne_clown_21"
+date = 2024-08-18
+weight = 36
+categories = ["Automne"]
+tags = ["saisons", "2024", "acrostiche", "octosyllabe"]
+acrostiche = "On reparle : automne"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
 
 On reparle de lui bientôt,
 
@@ -55,9 +45,6 @@ Naïf et mon coeur est friand,
 
 Emu, des farces de ce pitre.
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : On reparle : automne"}]} -->
 {{% notice style="primary" %}}
 Acrostiche : On reparle : automne
 {{% /notice %}}
-<!-- FM:Snippet:End -->

@@ -1,25 +1,15 @@
----
-weight: 28
-title: Soir rose
-id: soir_rose_21
-date: 2024-07-31
-verseLength: 8
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - ombres et lumières
-locations:
-    - Mont des Cats
-info: ""
-pictures:
-    - Mont des Cats - 31.07.2024
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir rose"
+id = "soir_rose_21"
+date = 2024-07-31
+weight = 28
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024", "octosyllabe"]
+pictures = ["Mont des Cats - 31.07.2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Chaque jour différent s'impose :
 
 Le plus beau des grands reposoirs,

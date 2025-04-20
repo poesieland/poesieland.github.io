@@ -1,27 +1,16 @@
----
-weight: 44
-title: Davanti a te
-id: davanti_a_te_21
-date: 2024-08-27
-verseLength: 8
-divider: ""
-categories:
-    - Romantisme
-    - Crépuscule
-tags:
-    - "2024"
-    - acrostiche
-    - amour
-    - ombres et lumières
-locations:
-    - Où je n'ai pas été
-info: '"Devant toi" en italien'
-pictures: []
-poemType: ""
-acrostiche: Davanti a te
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Davanti a te"
+id = "davanti_a_te_21"
+date = 2024-08-27
+weight = 44
+categories = ["Romantisme", "Crépuscule"]
+tags = ["amour", "ombres et lumières", "2024", "acrostiche", "octosyllabe"]
+info = "\"Devant toi\" en italien"
+acrostiche = "Davanti a te"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dis mon amour, devant mes yeux
 
 Avant que la nuit monte aux cieux
@@ -42,11 +31,8 @@ Touchons nos coeurs aux océans,
 
 Etreignons nos rêves céans.
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"\"Devant toi\" en italien. Acrostiche : Davanti a te"}]} -->
 {{% notice style="primary" %}}
-"Devant toi" en italien.
+"Devant toi" en italien
 
 Acrostiche : Davanti a te
 {{% /notice %}}
-<!-- FM:Snippet:End -->

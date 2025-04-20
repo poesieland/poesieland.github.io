@@ -1,30 +1,19 @@
----
-weight: 34
-title: Demain
-id: demain_21
-date: 2024-08-14
-verseLength: 8
-divider: ""
-categories:
-    - Enfance et adolescence
-    - Temps
-tags:
-    - "2024"
-    - acrostiche
-    - philosophie
-    - maman
-locations: []
-info: |-
-    Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
++++
+title = "Demain"
+id = "demain_21"
+date = 2024-08-14
+weight = 34
+categories = ["Enfance et adolescence", "Temps"]
+tags = ["philosophie", "maman", "2024", "acrostiche", "octosyllabe"]
+info = """Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
-    Les poèmes de ce mini-thème glissant vers la vieillesse :
-    {{% include "../../includes/demain_etre" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: Demain nous serons
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+{{% include "../../includes/demain_etre" hidefirstheading %}}"""
+acrostiche = "Demain nous serons"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Demain, mon fils, tu seras grand
 
 Et serai-je pour autant vieille ?
@@ -60,13 +49,11 @@ Nouveau dans mon coeur baladin,
 
 Sourire de mère attendrie.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Demain nous serons.
-
 Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}
+
+Acrostiche : Demain nous serons
 {{% /notice %}}
-<!-- FM:Snippet:End -->

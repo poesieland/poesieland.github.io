@@ -1,25 +1,14 @@
----
-weight: 19
-title: Bonheur simple
-id: bonheur_simple_21
-date: 2024-07-14
-verseLength: 6
-divider: ""
-categories:
-    - Eté
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Bonheur simple"
+id = "bonheur_simple_21"
+date = 2024-07-14
+weight = 19
+categories = ["Eté", "Etre"]
+tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sur le chemin tracé
 
 J'userai ma semelle,

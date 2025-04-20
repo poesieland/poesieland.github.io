@@ -1,25 +1,14 @@
----
-weight: 17
-title: Vieillir ensemble
-id: vieillir_ensemble_21
-date: 2024-07-12
-verseLength: 12
-divider: ""
-categories:
-    - Romantisme
-    - Temps
-tags:
-    - "2024"
-    - amour
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Vieillir ensemble"
+id = "vieillir_ensemble_21"
+date = 2024-07-12
+weight = 17
+categories = ["Romantisme", "Temps"]
+tags = ["amour", "philosophie", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dis, mon amour, tu sais, lorsque nous serons vieux
 
 Nos visages rieurs gravés de plus de rides,

@@ -1,24 +1,14 @@
----
-weight: 18
-title: Voyage
-id: voyage_21
-date: 2024-07-13
-verseLength: 12
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-locations:
-    - Où je n'ai pas été
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Voyage"
+id = "voyage_21"
+date = 2024-07-13
+weight = 18
+categories = ["Etre"]
+tags = ["philosophie", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Plus au sud c'est l'hiver : débridée, éternelle
 
 Immensité glacée où craque le glacier.

@@ -1,23 +1,14 @@
----
-weight: 39
-title: Le soir est venu
-id: le_soir_est_venu_21
-date: 2024-08-19
-verseLength: 8
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le soir est venu"
+id = "le_soir_est_venu_21"
+date = 2024-08-19
+weight = 39
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir est venu comme un songe
 
 S'ourler de rêves murmurants

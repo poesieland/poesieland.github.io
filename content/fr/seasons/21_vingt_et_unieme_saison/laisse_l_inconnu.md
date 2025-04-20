@@ -1,23 +1,14 @@
----
-weight: 6
-title: Laisse l'inconnu
-id: laisse_l_inconnu_21
-date: 2024-06-30
-verseLength: 7
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Laisse l'inconnu"
+id = "laisse_l_inconnu_21"
+date = 2024-06-30
+weight = 6
+categories = ["Temps"]
+tags = ["philosophie", "2024", "heptasyllabe"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Laisse les morts à leur place,
 
 Occupe-toi du vivant,

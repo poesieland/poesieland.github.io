@@ -4,7 +4,7 @@ id = "le_papillon_21"
 date = 2024-06-28
 weight = 3
 categories = ["Faune"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

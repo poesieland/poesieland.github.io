@@ -1,23 +1,14 @@
----
-weight: 16
-title: Espace du soir
-id: espace_du_soir_21
-date: 2024-07-11
-verseLength: 8
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Espace du soir"
+id = "espace_du_soir_21"
+date = 2024-07-11
+weight = 16
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir si doux m'est apaisant
 
 Quand l'espace infini s'étale

@@ -1,25 +1,14 @@
----
-weight: 35
-title: La mariée rose
-id: la_mariee_rose_21
-date: 2024-08-15
-verseLength: 6
-divider: ""
-categories:
-    - Romantisme
-    - Portraits
-tags:
-    - "2024"
-    - amour
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "La mariée rose"
+id = "la_mariee_rose_21"
+date = 2024-08-15
+weight = 35
+categories = ["Romantisme", "Portraits"]
+tags = ["amour", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Pendant l'été les roses
 
 Aux touchantes couleurs

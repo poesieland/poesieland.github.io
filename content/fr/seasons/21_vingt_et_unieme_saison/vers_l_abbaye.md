@@ -1,24 +1,14 @@
----
-weight: 30
-title: Vers l'abbaye
-id: vers_l_abbaye_21
-date: 2024-08-02
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations:
-    - Mont des Cats
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Vers l'abbaye"
+id = "vers_l_abbaye_21"
+date = 2024-08-02
+weight = 30
+categories = ["Foi"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 J'irai par tes sentiers
 
 Cheminer en silence,

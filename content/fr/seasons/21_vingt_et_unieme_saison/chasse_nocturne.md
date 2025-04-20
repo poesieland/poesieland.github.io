@@ -4,7 +4,7 @@ id = "chasse_nocturne_21"
 date = 2024-06-30
 weight = 7
 categories = ["Faune", "Nuit"]
-tags = ["nature", "ombres et lumières", "2024"]
+tags = ["nature", "ombres et lumières", "2024", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

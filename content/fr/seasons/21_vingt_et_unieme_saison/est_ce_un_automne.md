@@ -1,27 +1,18 @@
----
-weight: 40
-title: Est-ce un automne...
-id: est_ce_un_automne_21
-date: 2024-08-21
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Encore une variation sur cette question que j'adore...
-    {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Est-ce un automne..."
+id = "est_ce_un_automne_21"
+date = 2024-08-21
+weight = 40
+categories = ["Automne"]
+tags = ["saisons", "2024", "octosyllabe"]
+info = """
+Encore une variation sur cette question que j'adore...
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+"""
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Est-ce un automne au jour traînant
 
 Qui dans mon coeur se renouvelle ?
@@ -49,6 +40,8 @@ Il se prépare, arme charroi
 Pour se fondre dans la routine.
 
 {{% notice style="primary" %}}
+
 Encore une variation sur cette question que j'adore...
 {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+
 {{% /notice %}}

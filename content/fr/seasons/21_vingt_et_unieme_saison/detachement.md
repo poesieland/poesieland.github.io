@@ -1,23 +1,14 @@
----
-weight: 1
-title: Détachement
-id: detachement_21
-date: 2024-06-26
-verseLength: 6
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Détachement"
+id = "detachement_21"
+date = 2024-06-26
+weight = 1
+categories = ["Etre"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Pars, reviens au matin
 
 Comme un chat baguenaude

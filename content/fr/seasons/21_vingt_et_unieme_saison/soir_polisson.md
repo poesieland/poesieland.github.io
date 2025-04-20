@@ -1,23 +1,14 @@
----
-weight: 43
-title: Soir polisson
-id: soir_polisson_21
-date: 2024-08-26
-verseLength: 6
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2024"
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir polisson"
+id = "soir_polisson_21"
+date = 2024-08-26
+weight = 43
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir dans ses excès
 
 Allonge ombres fantasques

@@ -1,25 +1,14 @@
----
-weight: 2
-title: Juillet-août
-id: juillet_aout_21
-date: 2024-06-27
-verseLength: 12
-divider: ""
-categories:
-    - Eté
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Juillet-août"
+id = "juillet_aout_21"
+date = 2024-06-27
+weight = 2
+categories = ["Eté", "Enfance et adolescence"]
+tags = ["saisons", "philosophie", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Aux portes de juillet, c'est le mois des langueurs,
 
 Après les examens plonger vers les vacances,

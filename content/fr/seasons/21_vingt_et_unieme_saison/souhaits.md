@@ -1,25 +1,14 @@
----
-weight: 46
-title: Souhaits
-id: souhaits_21
-date: 2024-08-31
-verseLength: 6
-divider: ""
-categories:
-    - Amitié
-    - Temps
-tags:
-    - "2024"
-    - amour
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Souhaits"
+id = "souhaits_21"
+date = 2024-08-31
+weight = 46
+categories = ["Amitié", "Temps"]
+tags = ["amour", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Si tu tournes la page
 
 De ton calendrier
