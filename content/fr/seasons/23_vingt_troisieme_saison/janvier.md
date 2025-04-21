@@ -1,25 +1,14 @@
----
-weight: 32
-title: Janvier
-id: janvier_23
-date: 2024-12-26
-verseLength: 6
-divider: ""
-categories:
-    - Hiver
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Janvier"
+id = "janvier_23"
+date = 2024-12-26
+weight = 32
+categories = ["Hiver", "Temps"]
+tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Doucement rallongés
 
 Ces jours en ta chaumière

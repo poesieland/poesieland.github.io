@@ -1,25 +1,14 @@
----
-weight: 7
-title: Ciel d'hiver
-id: ciel_d_hiver_23
-date: 2024-11-30
-verseLength: 8
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ciel d'hiver"
+id = "ciel_d_hiver_23"
+date = 2024-11-30
+weight = 7
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel d'hiver chante les gris,
 
 Les bleus pâles, les jours fragiles,

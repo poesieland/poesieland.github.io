@@ -1,23 +1,14 @@
----
-weight: 33
-title: Souhaits
-id: souhaits_23
-date: 2024-12-27
-verseLength: 6
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Souhaits"
+id = "souhaits_23"
+date = 2024-12-27
+weight = 33
+categories = ["Espoir"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le bonheur à ta porte
 
 Frappe comme le vent,

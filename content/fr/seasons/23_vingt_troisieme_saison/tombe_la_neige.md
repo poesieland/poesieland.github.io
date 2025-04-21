@@ -1,27 +1,19 @@
----
-weight: 23
-title: Tombe la neige
-id: tombe_la_neige_23
-date: 2024-12-22
-verseLength: -1
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2024"
-    - nature
-    - "métrique variable"
-locations: []
-info: |-
-    Métrique variable : 8, 2.
++++
+title = "Tombe la neige"
+id = "tombe_la_neige_23"
+date = 2024-12-22
+weight = 23
+categories = ["Neige"]
+tags = ["nature", "2024", "métrique variable", "octosyllabe", "dissyllabe"]
+info = """
+Métrique variable : 8, 2.
 
-    Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige)"""
+
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Tombe la neige en un silence
 
 Ouaté,
@@ -58,7 +50,7 @@ Tombe la neige autour en ronde,
 Riant !
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 2
+Métrique variable : 8, 2.
 
 Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige)
 {{% /notice %}}

@@ -1,25 +1,14 @@
----
-weight: 20
-title: Hiver perdu
-id: hiver_perdu_23
-date: 2024-12-21
-verseLength: 12
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Hiver perdu"
+id = "hiver_perdu_23"
+date = 2024-12-21
+weight = 20
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est triste et las de n'imaginer qu'ombres,
 
 Chaque nuage exhale un autre cri plaintif,

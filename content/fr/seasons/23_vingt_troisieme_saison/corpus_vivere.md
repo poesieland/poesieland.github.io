@@ -1,24 +1,16 @@
----
-weight: 31
-title: Corpus, vivere
-id: corpus_vivere_23
-date: 2024-12-26
-verseLength: 8
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - acrostiche
-    - philosophie
-locations: []
-info: '"Corps, vivre" en latin.'
-pictures: []
-poemType: ""
-acrostiche: Corpus, vivere
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Corpus, vivere"
+id = "corpus_vivere_23"
+date = 2024-12-26
+weight = 31
+categories = ["Etre"]
+tags = ["philosophie", "2024", "acrostiche", "octosyllabe"]
+info = "\"Corps, vivre\" en latin."
+acrostiche = "Corpus, vivere"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Comme lumière s'attise,
 
 Oraison bleue au corps vivant :
@@ -44,10 +36,9 @@ Et de tout coeur, pas juste un peu,
 Remercier le rêve en partance,
 
 Etre, autant que faire se peut.
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
-{{% notice style="primary" %}}
-Acrostiche : Corpus, vivere.
 
+{{% notice style="primary" %}}
 "Corps, vivre" en latin.
+
+Acrostiche : Corpus, vivere
 {{% /notice %}}
-<!-- FM:Snippet:End -->

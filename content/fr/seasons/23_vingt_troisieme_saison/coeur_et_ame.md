@@ -1,23 +1,14 @@
----
-weight: 50
-title: Coeur et âme
-id: coeur_et_ame_23
-date: 2024-12-31
-verseLength: 6
-divider: ""
-categories:
-    - Passion
-tags:
-    - "2024"
-    - amour
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Coeur et âme"
+id = "coeur_et_ame_23"
+date = 2024-12-31
+weight = 50
+categories = ["Passion"]
+tags = ["amour", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Prend mon coeur dans ton âme,
 
 Prend mon coeur dans ton coeur,

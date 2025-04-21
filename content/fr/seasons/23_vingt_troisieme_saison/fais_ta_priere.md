@@ -1,25 +1,15 @@
----
-weight: 8
-title: Fais ta prière
-id: fais_ta_priere_23
-date: 2024-11-30
-verseLength: -1
-divider: ""
-categories:
-    - Foi
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-    - "métrique variable"
-locations: []
-info: "Métrique variable : 12, 4."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Fais ta prière"
+id = "fais_ta_priere_23"
+date = 2024-11-30
+weight = 8
+categories = ["Foi", "Etre"]
+tags = ["philosophie", "2024", "métrique variable", "alexandrin", "tétrasyllabe"]
+info = "Métrique variable : 12, 4."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Fais ta prière au monde, il cherche à s'apaiser
 
 De gratitude,
@@ -64,8 +54,6 @@ La vie offre en cadeau ton bonheur sans mentir
 
 Avant le reste !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 12, 4."}]} -->
 {{% notice style="primary" %}}
 Métrique variable : 12, 4.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

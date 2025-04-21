@@ -1,25 +1,14 @@
----
-weight: 45
-title: Aube volée
-id: aube_volee_23
-date: 2024-12-29
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Révolte
-tags:
-    - "2024"
-    - philosophie
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Aube volée"
+id = "aube_volee_23"
+date = 2024-12-29
+weight = 45
+categories = ["Ciel", "Révolte"]
+tags = ["nature", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Entêtante lueur
 
 Comme une odeur de soufre,

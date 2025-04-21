@@ -1,24 +1,14 @@
----
-weight: 43
-title: La nonne
-id: la_nonne_23
-date: 2024-12-29
-verseLength: 4
-divider: ""
-categories:
-    - Foi
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "La nonne"
+id = "la_nonne_23"
+date = 2024-12-29
+weight = 43
+categories = ["Foi", "Portraits"]
+tags = ["philosophie", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ô déraison,
 
 Prier sans trêve

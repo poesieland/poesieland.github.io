@@ -1,29 +1,20 @@
----
-weight: 21
-title: Les vieux arbres
-id: les_vieux_arbres_23
-date: 2024-12-22
-verseLength: 8
-divider: ""
-categories:
-    - Flore
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-    - nature
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les vieux arbres"
+id = "les_vieux_arbres_23"
+date = 2024-12-22
+weight = 21
+categories = ["Flore", "Temps"]
+tags = ["nature", "philosophie", "2024", "octosyllabe"]
+info = """
+
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
+"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Tous les vieux arbres ont des fleurs
 
 Quand le printemps se renouvelle,
@@ -51,6 +42,8 @@ Ils comptent les jours et les nuits
 De leurs arbrisseaux qui forcissent.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
+
 {{% /notice %}}

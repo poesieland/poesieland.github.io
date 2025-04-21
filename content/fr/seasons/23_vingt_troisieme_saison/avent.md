@@ -1,24 +1,14 @@
----
-weight: 19
-title: Avent
-id: avent_23
-date: 2024-12-21
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Avent"
+id = "avent_23"
+date = 2024-12-21
+weight = 19
+categories = ["Foi", "Enfance et adolescence"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Avant Noël je compte
 
 Tant de jours raccourcis :

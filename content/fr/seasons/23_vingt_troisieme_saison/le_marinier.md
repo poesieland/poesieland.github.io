@@ -1,25 +1,14 @@
----
-weight: 47
-title: Le marinier
-id: le_marinier_23
-date: 2024-12-29
-verseLength: 7
-divider: ""
-categories:
-    - Mer
-    - Portraits
-tags:
-    - "2024"
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le marinier"
+id = "le_marinier_23"
+date = 2024-12-29
+weight = 47
+categories = ["Mer", "Portraits"]
+tags = ["nature", "philosophie", "2024", "heptasyllabe"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je demandais à la lune
 
 Et la lune répondit :

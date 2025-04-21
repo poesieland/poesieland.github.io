@@ -1,23 +1,14 @@
----
-weight: 2
-title: Trésor de l'aube
-id: tresor_de_l_aube_23
-date: 2024-11-20
-verseLength: 6
-divider: ""
-categories:
-    - Aube
-tags:
-    - "2024"
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Trésor de l'aube"
+id = "tresor_de_l_aube_23"
+date = 2024-11-20
+weight = 2
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Quand le ciel prend la pose
 
 Pour bénir le matin

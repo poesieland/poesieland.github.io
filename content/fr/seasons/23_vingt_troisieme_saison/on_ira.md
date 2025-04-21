@@ -1,24 +1,15 @@
----
-weight: 29
-title: On ira
-id: on_ira_23
-date: 2024-12-26
-verseLength: 8
-divider: ""
-categories:
-    - Etre
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "On ira"
+id = "on_ira_23"
+date = 2024-12-26
+weight = 29
+categories = ["Etre", "Espoir"]
+tags = ["philosophie", "2024", "octosyllabe"]
+info = "Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis)."
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 On ira tous au même endroit,
 
 Celui qui vécut confortable
@@ -45,8 +36,6 @@ Et l'âme aussi toute apaisée,
 
 On ira tous, je te le dis.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
 {{% /notice %}}
-<!-- FM:Snippet:End -->

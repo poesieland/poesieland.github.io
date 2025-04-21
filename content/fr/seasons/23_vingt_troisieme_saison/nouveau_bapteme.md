@@ -1,23 +1,14 @@
----
-weight: 44
-title: Nouveau baptême
-id: nouveau_bapteme_23
-date: 2024-12-29
-verseLength: 8
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Nouveau baptême"
+id = "nouveau_bapteme_23"
+date = 2024-12-29
+weight = 44
+categories = ["Foi"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ouvre la porte à ta maison,
 
 Ajoute pierre à ton église,

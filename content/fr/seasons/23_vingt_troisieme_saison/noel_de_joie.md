@@ -1,23 +1,14 @@
----
-weight: 26
-title: Noël de joie
-id: noel_de_joie_23
-date: 2024-12-24
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Noël de joie"
+id = "noel_de_joie_23"
+date = 2024-12-24
+weight = 26
+categories = ["Foi"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 De joie et d'espérance
 
 Voici Noël vainqueur

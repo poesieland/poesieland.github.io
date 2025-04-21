@@ -1,24 +1,14 @@
----
-weight: 28
-title: L'après Noël
-id: l_apres_noel_23
-date: 2024-12-25
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'après Noël"
+id = "l_apres_noel_23"
+date = 2024-12-25
+weight = 28
+categories = ["Temps", "Enfance et adolescence"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Noël est passé sans ambages
 
 Comme un beau livre relié

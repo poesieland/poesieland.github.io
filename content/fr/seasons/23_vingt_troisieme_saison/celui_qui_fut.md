@@ -1,23 +1,15 @@
----
-weight: 35
-title: Celui qui fut
-id: celui_qui_fut_23
-date: 2024-12-27
-verseLength: 12
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: '"Celui qui est, qui était et qui vient", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017)'
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Celui qui fut"
+id = "celui_qui_fut_23"
+date = 2024-12-27
+weight = 35
+categories = ["Foi"]
+tags = ["philosophie", "2024", "alexandrin"]
+info = "\"Celui qui est, qui était et qui vient\", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017)"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il est celui qui fut le matin cristallin,
 
 La source lumineuse au torrent de montagne,
@@ -44,8 +36,6 @@ Ecoutez sa parole et voyez son éclat :
 
 De Jésus bien-aimé la vérité promise !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 "Celui qui est, qui était et qui vient", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

@@ -1,24 +1,14 @@
----
-weight: 42
-title: Au couvent
-id: au_couvent_23
-date: 2024-12-29
-verseLength: 8
-divider: ""
-categories:
-    - Foi
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Au couvent"
+id = "au_couvent_23"
+date = 2024-12-29
+weight = 42
+categories = ["Foi", "Portraits"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 La grille soupire peut-être
 
 A ton arrivée au couvent,
