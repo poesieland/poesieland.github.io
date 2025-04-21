@@ -1,28 +1,15 @@
----
-weight: 6
-title: Blues d'automne
-id: blues_d_automne_22
-date: 2024-09-11
-verseLength: -1
-divider: ""
-categories:
-    - Automne
-    - Ciel
-    - Angoisse
-tags:
-    - "2024"
-    - nature
-    - saisons
-    - "métrique variable"
-    - philosophie
-locations: []
-info: "Métrique variable : 8, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Blues d'automne"
+id = "blues_d_automne_22"
+date = 2024-09-11
+weight = 6
+categories = ["Automne", "Ciel", "Angoisse"]
+tags = ["saisons", "nature", "philosophie", "2024", "métrique variable", "octosyllabe", "trisyllabe"]
+info = "Métrique variable : 8, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est bas comme un couvercle
 
 Gondolé
@@ -57,8 +44,7 @@ Ses émaux,
 Le jour est mort, comme il ne reste
 
 Que des mots.
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 8, 3."}]} -->
+
 {{% notice style="primary" %}}
 Métrique variable : 8, 3.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

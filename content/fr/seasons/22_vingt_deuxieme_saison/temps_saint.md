@@ -1,23 +1,15 @@
----
-weight: 36
-title: Temps saint
-id: temps_saint_22
-date: 2024-11-01
-verseLength: 12
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Temps saint
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Temps saint"
+id = "temps_saint_22"
+date = 2024-11-01
+weight = 36
+categories = ["Foi"]
+tags = ["philosophie", "2024", "acrostiche", "alexandrin"]
+acrostiche = "Temps saint"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Trouvés plus bons que nous le commun des mortels,
 
 Et la relique on baise, on prie à vos autels,

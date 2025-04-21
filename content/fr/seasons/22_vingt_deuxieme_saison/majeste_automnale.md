@@ -1,25 +1,14 @@
----
-weight: 18
-title: Majesté automnale
-id: majeste_automnale_22
-date: 2024-09-29
-verseLength: 4
-divider: ""
-categories:
-    - Automne
-    - Flore
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Majesté automnale"
+id = "majeste_automnale_22"
+date = 2024-09-29
+weight = 18
+categories = ["Automne", "Flore"]
+tags = ["saisons", "nature", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Temps des marrons
 
 Petits, malingres

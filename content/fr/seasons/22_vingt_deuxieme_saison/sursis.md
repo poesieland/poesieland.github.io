@@ -1,23 +1,14 @@
----
-weight: 28
-title: Sursis
-id: sursis_22
-date: 2024-10-18
-verseLength: 6
-divider: ""
-categories:
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sursis"
+id = "sursis_22"
+date = 2024-10-18
+weight = 28
+categories = ["Angoisse"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Si tu brises l'argile
 
 C'est un monde en sursis,

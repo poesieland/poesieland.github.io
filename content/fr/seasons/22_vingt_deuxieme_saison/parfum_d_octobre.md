@@ -1,26 +1,17 @@
----
-weight: 35
-title: Parfum d'octobre
-id: parfum_d_octobre_22
-date: 2024-10-27
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Parfum d'octobre"
+id = "parfum_d_octobre_22"
+date = 2024-10-27
+weight = 35
+categories = ["Automne"]
+tags = ["saisons", "2024", "octosyllabe"]
+info = """
+Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)
+"""
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Funèbre parfum d'une rose
 
 A la boutonnière du temps,
@@ -48,5 +39,7 @@ Comme un chant monte grave, entonne
 L'oraison d'un temps rejeté.
 
 {{% notice style="primary" %}}
+
 Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)
+
 {{% /notice %}}

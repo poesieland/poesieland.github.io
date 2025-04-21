@@ -1,24 +1,15 @@
----
-weight: 37
-title: Légende
-id: legende_22
-date: 2024-11-02
-verseLength: 4
-divider: ""
-categories:
-    - Angoisse
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: "[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)"
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Légende"
+id = "legende_22"
+date = 2024-11-02
+weight = 37
+categories = ["Angoisse", "Portraits"]
+tags = ["philosophie", "2024", "tétrasyllabe"]
+info = "[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)"
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un jour de ruine
 
 Le jour des morts
@@ -63,8 +54,6 @@ Rêve, enfant sage,
 
 Cheval charbon !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)"}]} -->
 {{% notice style="primary" %}}
 [Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)
 {{% /notice %}}
-<!-- FM:Snippet:End -->

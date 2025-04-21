@@ -1,23 +1,14 @@
----
-weight: 50
-title: Neige danseuse
-id: neige_danseuse_22
-date: 2024-11-18
-verseLength: 5
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Neige danseuse"
+id = "neige_danseuse_22"
+date = 2024-11-18
+weight = 50
+categories = ["Neige"]
+tags = ["nature", "2024", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 A peine attendu
 
 Bruisse sans révolte

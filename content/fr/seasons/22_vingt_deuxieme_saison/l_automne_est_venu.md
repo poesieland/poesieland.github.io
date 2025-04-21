@@ -11,6 +11,7 @@ tags:
     - "2024"
     - acrostiche
     - saisons
+    - octosyllabe
 locations: []
 info: |-
     {{% notice style="primary" %}}

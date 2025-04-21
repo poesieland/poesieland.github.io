@@ -1,25 +1,14 @@
----
-weight: 43
-title: Hiver gris
-id: hiver_gris_22
-date: 2024-11-10
-verseLength: 4
-divider: ""
-categories:
-    - Hiver
-    - Ciel
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Hiver gris"
+id = "hiver_gris_22"
+date = 2024-11-10
+weight = 43
+categories = ["Hiver", "Ciel"]
+tags = ["saisons", "nature", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 En gris souris
 
 Quand la nuée

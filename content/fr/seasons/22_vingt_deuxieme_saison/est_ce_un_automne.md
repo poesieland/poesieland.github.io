@@ -1,30 +1,18 @@
----
-weight: 7
-title: Est-ce un automne ?
-id: est_ce_un_automne_22
-date: 2024-09-14
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-    - Temps
-    - Printemps
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Encore une variation sur cette question que j'adore...
-    {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Est-ce un automne ?"
+id = "est_ce_un_automne_22"
+date = 2024-09-14
+weight = 7
+categories = ["Automne", "Printemps", "Temps"]
+tags = ["saisons", "philosophie", "2024", "octosyllabe"]
+info = """
+Encore une variation sur cette question que j'adore...
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+"""
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Est-ce un automne, est-ce un printemps
 
 Qui dans mon coeur se renouvelle ?
@@ -61,7 +49,8 @@ Le souvenir un peu lassé
 Des deux saisons allées à l'amble.
 
 {{% notice style="primary" %}}
+
 Encore une variation sur cette question que j'adore...
 {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}
 
+{{% /notice %}}

@@ -1,25 +1,14 @@
----
-weight: 23
-title: Vent vaurien
-id: vent_vaurien_22
-date: 2024-10-08
-verseLength: 3
-divider: ""
-categories:
-    - Climat
-    - Angoisse
-tags:
-    - "2024"
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Vent vaurien"
+id = "vent_vaurien_22"
+date = 2024-10-08
+weight = 23
+categories = ["Climat", "Angoisse"]
+tags = ["nature", "philosophie", "2024", "trisyllabe"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le vent gifle
 
 Dominant

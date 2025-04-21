@@ -1,25 +1,18 @@
----
-weight: 46
-title: Gris
-id: gris_22
-date: 2024-11-14
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Gris"
+id = "gris_22"
+date = 2024-11-14
+weight = 46
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2024", "hexasyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
+
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est gris, livide,
 
 Malade au fond du lit,

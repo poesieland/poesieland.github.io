@@ -1,25 +1,14 @@
----
-weight: 39
-title: Au soir
-id: au_soir_22
-date: 2024-11-04
-verseLength: 4
-divider: ""
-categories:
-    - Crépuscule
-    - Temps
-tags:
-    - "2024"
-    - ombres et lumières
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Au soir"
+id = "au_soir_22"
+date = 2024-11-04
+weight = 39
+categories = ["Crépuscule", "Temps"]
+tags = ["ombres et lumières", "philosophie", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au soir doré
 
 L'ombre s'allonge,

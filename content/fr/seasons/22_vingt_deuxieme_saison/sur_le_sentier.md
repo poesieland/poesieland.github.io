@@ -1,26 +1,15 @@
----
-weight: 8
-title: Sur le sentier
-id: sur_le_sentier_22
-date: 2024-09-15
-verseLength: 8
-divider: ""
-categories:
-    - Flore
-    - Temps
-tags:
-    - "2024"
-    - acrostiche
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Sur le sentier
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sur le sentier"
+id = "sur_le_sentier_22"
+date = 2024-09-15
+weight = 8
+categories = ["Flore", "Temps"]
+tags = ["nature", "philosophie", "2024", "acrostiche", "octosyllabe"]
+acrostiche = "Sur le sentier"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sur le sentier de l'indicible
 
 Un vrai retour comme un départ
@@ -47,8 +36,6 @@ Et si les arbres enlacés
 
 Rêvent, pleurent, c'est leur histoire.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Sur le sentier"}]} -->
 {{% notice style="primary" %}}
 Acrostiche : Sur le sentier
 {{% /notice %}}
-<!-- FM:Snippet:End -->

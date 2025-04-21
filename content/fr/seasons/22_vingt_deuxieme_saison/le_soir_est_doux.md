@@ -1,25 +1,14 @@
----
-weight: 14
-title: Le soir est doux
-id: le_soir_est_doux_22
-date: 2024-09-23
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-    - Angoisse
-tags:
-    - "2024"
-    - ombres et lumières
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le soir est doux"
+id = "le_soir_est_doux_22"
+date = 2024-09-23
+weight = 14
+categories = ["Temps", "Angoisse"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir est beau comme un naufrage,
 
 Il résonne comme un bourdon,

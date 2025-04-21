@@ -1,23 +1,14 @@
----
-weight: 10
-title: En parts
-id: en_parts_22
-date: 2024-09-16
-verseLength: 3
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "En parts"
+id = "en_parts_22"
+date = 2024-09-16
+weight = 10
+categories = ["Etre"]
+tags = ["philosophie", "2024", "trisyllabe"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 En partance
 
 Vers l'étang

@@ -1,23 +1,14 @@
----
-weight: 12
-title: Voici l'automne
-id: voici_l_automne_22
-date: 2024-09-22
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Voici l'automne"
+id = "voici_l_automne_22"
+date = 2024-09-22
+weight = 12
+categories = ["Automne"]
+tags = ["saisons", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Voici l'automne aux bras ballants
 
 Pour lâcher en folles brassées

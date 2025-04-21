@@ -1,23 +1,14 @@
----
-weight: 4
-title: L'amour courtois
-id: l_amour_courtois_22
-date: 2024-09-07
-verseLength: 8
-divider: ""
-categories:
-    - Amour platonique
-tags:
-    - "2024"
-    - amour
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'amour courtois"
+id = "l_amour_courtois_22"
+date = 2024-09-07
+weight = 4
+categories = ["Amour platonique"]
+tags = ["amour", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est beau pour tout vous dire
 
 Et dans ses jupons moutonneux

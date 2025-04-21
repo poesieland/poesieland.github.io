@@ -1,26 +1,14 @@
----
-weight: 19
-title: Juin, juillet, octobre
-id: juin_juillet_octobre_22
-date: 2024-09-30
-verseLength: 12
-divider: ""
-categories:
-    - Automne
-    - Eté
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Juin, juillet, octobre"
+id = "juin_juillet_octobre_22"
+date = 2024-09-30
+weight = 19
+categories = ["Automne", "Eté", "Temps"]
+tags = ["saisons", "philosophie", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Souvenir de l'été quand se pointe l'octobre,
 
 Tout souriant c'est juin, insouciant juillet,

@@ -1,23 +1,14 @@
----
-weight: 21
-title: Au cimetière
-id: au_cimetiere_22
-date: 2024-10-06
-verseLength: 8
-divider: ""
-categories:
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Au cimetière"
+id = "au_cimetiere_22"
+date = 2024-10-06
+weight = 21
+categories = ["Angoisse"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un poème pour épitaphe,
 
 Ci-gît le rêve inaccompli
