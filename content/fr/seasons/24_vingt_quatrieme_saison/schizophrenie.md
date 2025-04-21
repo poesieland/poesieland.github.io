@@ -1,24 +1,14 @@
----
-weight: 17
-title: Schizophrénie
-id: schizophrenie_24
-date: 2025-01-10
-verseLength: 4
-divider: ""
-categories:
-    - Angoisse
-    - Portraits
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Schizophrénie"
+id = "schizophrenie_24"
+date = 2025-01-10
+weight = 17
+categories = ["Angoisse", "Portraits"]
+tags = ["philosophie", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est pas le vent
 
 Fou qui t'entraîne,

@@ -1,25 +1,14 @@
----
-weight: 49
-title: Aube merveilleuse
-id: aube_merveilleuse_24
-date: 2025-02-17
-verseLength: 5
-divider: ""
-categories:
-    - Aube
-    - Ciel
-tags:
-    - "2025"
-    - ombres et lumières
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Aube merveilleuse"
+id = "aube_merveilleuse_24"
+date = 2025-02-17
+weight = 49
+categories = ["Aube", "Ciel"]
+tags = ["ombres et lumières", "nature", "2025", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'aube merveilleuse
 
 Chante au coeur nouveau

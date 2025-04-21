@@ -1,25 +1,14 @@
----
-weight: 43
-title: Ciel d'hiver
-id: ciel_d_hiver_24
-date: 2025-02-12
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-tags:
-    - "2025"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ciel d'hiver"
+id = "ciel_d_hiver_24"
+date = 2025-02-12
+weight = 43
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Comme un air triste et beau
 
 Cristallise et résonne,

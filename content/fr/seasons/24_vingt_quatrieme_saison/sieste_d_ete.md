@@ -1,28 +1,15 @@
----
-weight: 50
-title: Sieste d'été
-id: sieste_d_ete_24
-date: 2025-02-18
-verseLength: -1
-divider: ""
-categories:
-    - Eté
-    - Jardin et paysage
-    - Sommeil
-tags:
-    - "2025"
-    - attitudes
-    - nature
-    - "métrique variable"
-    - saisons
-locations: []
-info: "Métrique variable : 8, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sieste d'été"
+id = "sieste_d_ete_24"
+date = 2025-02-18
+weight = 50
+categories = ["Eté", "Jardin et paysage", "Sommeil"]
+tags = ["saisons", "nature", "attitudes", "2025", "métrique variable", "octosyllabe", "trisyllabe"]
+info = "Métrique variable : 8, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Quand l'été berce de sa palme
 
 Mon jardin,
@@ -58,8 +45,6 @@ Dégusté quand la table est mise
 
 Juste là !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 Métrique variable : 8, 3.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

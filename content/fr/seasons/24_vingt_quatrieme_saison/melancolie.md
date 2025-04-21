@@ -1,23 +1,15 @@
----
-weight: 42
-title: Mélancolie
-id: melancolie_24
-date: 2025-02-10
-verseLength: 4
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: "[Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra))"
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Mélancolie"
+id = "melancolie_24"
+date = 2025-02-10
+weight = 42
+categories = ["Etre"]
+tags = ["philosophie", "2025", "tétrasyllabe"]
+info = "[Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra))"
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Mélancolie,
 
 Fin de l'hiver
@@ -44,8 +36,6 @@ Mon coeur expire,
 
 Nu, dans l'éther.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-[Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra))
+[Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra)).
 {{% /notice %}}
-<!-- FM:Snippet:End -->

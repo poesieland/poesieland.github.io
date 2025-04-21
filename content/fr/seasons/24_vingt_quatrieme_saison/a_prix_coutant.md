@@ -1,24 +1,14 @@
----
-weight: 34
-title: A prix coûtant
-id: a_prix_coutant_24
-date: 2025-01-30
-verseLength: 12
-divider: ""
-categories:
-    - Apprentissage
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "A prix coûtant"
+id = "a_prix_coutant_24"
+date = 2025-01-30
+weight = 34
+categories = ["Apprentissage", "Temps"]
+tags = ["philosophie", "2025", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Effacés un par un comme livres d'images
 
 Devenus froids au coeur, qu'on effeuillait pourtant,
@@ -44,4 +34,3 @@ Couine comme un piano qui s'est désaccordé,
 Je cherche un idéal quand le monde est en rade
 
 Lorsque chante l'enfant que je viens d'aborder.
-

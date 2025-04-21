@@ -1,25 +1,15 @@
----
-weight: 23
-title: Rêve bleu
-id: reve_bleu_24
-date: 2025-01-14
-verseLength: 12
-divider: ""
-categories:
-    - Printemps
-    - Hiver
-tags:
-    - "2025"
-    - acrostiche
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Rêve bleu
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rêve bleu"
+id = "reve_bleu_24"
+date = 2025-01-14
+weight = 23
+categories = ["Printemps", "Hiver"]
+tags = ["saisons", "2025", "acrostiche", "alexandrin"]
+acrostiche = "Rêve bleu"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Reviendra le printemps aux pollens floconneux,
 
 Et la même lumière au bleu du ciel, d'un rêve 
@@ -37,8 +27,6 @@ La terre inspirera, pour le moment il gèle,
 
 Un jour où le soleil murmure et se flagelle.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Rêve bleu"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Rêve bleu
+Acrostiche : Rêve bleu.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

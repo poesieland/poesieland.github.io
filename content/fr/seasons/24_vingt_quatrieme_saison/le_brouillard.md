@@ -1,25 +1,14 @@
----
-weight: 16
-title: Le brouillard
-id: le_brouillard_24
-date: 2025-01-10
-verseLength: 4
-divider: ""
-categories:
-    - Angoisse
-    - Ciel
-tags:
-    - "2025"
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le brouillard"
+id = "le_brouillard_24"
+date = 2025-01-10
+weight = 16
+categories = ["Angoisse", "Ciel"]
+tags = ["philosophie", "nature", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Rôde, brouillard
 
 Planant, tout danse !

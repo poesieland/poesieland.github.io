@@ -1,23 +1,14 @@
----
-weight: 1
-title: Suis ton chemin
-id: suis_ton_chemin_24
-date: 2024-12-31
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Suis ton chemin"
+id = "suis_ton_chemin_24"
+date = 2024-12-31
+weight = 1
+categories = ["Foi"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Suis ton chemin de croix,
 
 Suis ton chemin de vie,

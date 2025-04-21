@@ -1,24 +1,15 @@
----
-weight: 27
-title: Cent, mille, dix !
-id: cent_mille_dix_24
-date: 2025-01-18
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-    - Enfance et adolescence
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: Inspiré par le plaisir de lire [J'ai t'huit ans pour toujours](https://www.amazon.fr/Jai-thuit-ans-pour-toujours/dp/2959690001) car c'est si bon de se souvenir de son enfance...
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Cent, mille, dix !"
+id = "cent_mille_dix_24"
+date = 2025-01-18
+weight = 27
+categories = ["Temps", "Enfance et adolescence"]
+tags = ["philosophie", "2025", "octosyllabe"]
+info = "Inspiré par le plaisir de lire [J'ai t'huit ans pour toujours](https://www.amazon.fr/Jai-thuit-ans-pour-toujours/dp/2959690001) car c'est si bon de se souvenir de son enfance..."
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je m'en irai vers mes cent ans
 
 J'espère encore un peu gaillarde
@@ -45,8 +36,6 @@ Aux mots tout doux, pas médisants,
 
 Sourire aux lèvres, sans défense !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 Inspiré par le plaisir de lire [J'ai t'huit ans pour toujours](https://www.amazon.fr/Jai-thuit-ans-pour-toujours/dp/2959690001) car c'est si bon de se souvenir de son enfance...
 {{% /notice %}}
-<!-- FM:Snippet:End -->

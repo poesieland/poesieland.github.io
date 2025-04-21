@@ -1,26 +1,14 @@
----
-weight: 20
-title: Paysage hivernal
-id: paysage_hivernal_24
-date: 2025-01-11
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Jardin et paysage
-    - Hiver
-tags:
-    - "2025"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Paysage hivernal"
+id = "paysage_hivernal_24"
+date = 2025-01-11
+weight = 20
+categories = ["Ciel", "Jardin et paysage", "Hiver"]
+tags = ["nature", "saisons", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ils sont fantomatiques
 
 Les arbres éthérés,

@@ -1,25 +1,15 @@
----
-weight: 45
-title: Le grenier de ma grand-mère
-id: le_grenier_de_ma_grand_mere_24
-date: 2025-02-15
-verseLength: 8
-divider: ""
-categories:
-    - Enfance et adolescence
-tags:
-    - "2025"
-    - philosophie
-    - maman
-locations:
-    - Lorraine
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le grenier de ma grand-mère"
+id = "le_grenier_de_ma_grand_mere_24"
+date = 2025-02-15
+weight = 45
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "maman", "2025", "octosyllabe"]
+verseLength = 8
+locations = ["Lorraine"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans le grenier de ma grand-mère
 
 Pas de trésor aventureux,

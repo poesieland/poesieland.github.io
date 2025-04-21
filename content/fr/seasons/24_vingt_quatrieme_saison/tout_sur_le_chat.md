@@ -1,28 +1,19 @@
----
-weight: 6
-title: Tout sur le chat
-id: tout_sur_le_chat_24
-date: 2025-01-02
-verseLength: -1
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - "métrique variable"
-locations: []
-info: |-
-    Métrique variable : 8, 4.
++++
+title = "Tout sur le chat"
+id = "tout_sur_le_chat_24"
+date = 2025-01-02
+weight = 6
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2025", "métrique variable", "octosyllabe", "tétrasyllabe"]
+info = """
+Métrique variable : 8, 4.
 
-    Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)"""
+
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le chat fait miaou pour demander
 
 Une caresse,
@@ -49,10 +40,8 @@ Heureux l'esclave qui survit
 
 Soumis au maître !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Métrique variable : 8, 4."}]} -->
 {{% notice style="primary" %}}
 Métrique variable : 8, 4.
 
-Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
+Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr).
 {{% /notice %}}
-<!-- FM:Snippet:End -->
