@@ -46,5 +46,5 @@ Mon cœur oublié, sot
 Espérait la lumière.
 
 {{% notice style="primary" %}}
-Acrostiche : Une chanson bohème
+Acrostiche : Une chanson bohème.
 {{% /notice %}}

@@ -31,5 +31,5 @@ Ecoute encore, ô, ce chagrin profond !
 {{% notice style="primary" %}}
 "Vraie foi" en italien.
 
-Acrostiche : Vera fede
+Acrostiche : Vera fede.
 {{% /notice %}}

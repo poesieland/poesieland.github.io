@@ -19,5 +19,5 @@ Et seul, tout au milieu d'un bonheur sans histoire
 Sur l'art tu recréais tempo, chant de Chronos...
 
 {{% notice style="primary" %}}
-Acrostiche : Odes
+Acrostiche : Odes.
 {{% /notice %}}

@@ -39,5 +39,5 @@ Carnet forêts
 En mots discrets.
 
 {{% notice style="primary" %}}
-Acrostiche : Correspondance
+Acrostiche : Correspondance.
 {{% /notice %}}

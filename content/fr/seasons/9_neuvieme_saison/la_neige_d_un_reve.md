@@ -43,5 +43,5 @@ Verra le Ciel répondant à la femme :
 En ton sein vibre un diapason natal.
 
 {{% notice style="primary" %}}
-Acrostiche : La neige d'un rêve
+Acrostiche : La neige d'un rêve.
 {{% /notice %}}

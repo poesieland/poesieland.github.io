@@ -28,5 +28,5 @@ Né l'artiste, esclavage
 Serein, tout partager.
 
 {{% notice style="primary" %}}
-Acrostiche : Vrai sens
+Acrostiche : Vrai sens.
 {{% /notice %}}

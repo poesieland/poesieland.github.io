@@ -52,5 +52,5 @@ Instants; l'onde perlée aux cils.
 {{% notice style="primary" %}}
 "Eau vive entre les mains" en italien.
 
-Acrostiche : Acqua viva fra le mani
+Acrostiche : Acqua viva fra le mani.
 {{% /notice %}}

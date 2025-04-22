@@ -3,13 +3,14 @@ title = "Ciel d'hiver"
 id = "ciel_d_hiver_22"
 date = 2024-11-07
 weight = 40
-categories = [ "Ciel", "Hiver" ]
-tags = [ "nature", "saisons", "2024", "hexasyllabe" ]
-verseLength = 6
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2024", "hexasyllabe"]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
+
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel est gris plombé,
@@ -40,5 +41,5 @@ L'hiver pour réceptacle.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}.
 {{% /notice %}}

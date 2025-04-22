@@ -46,5 +46,5 @@ Un appât que je signe
 En mots qui se défont.
 
 {{% notice style="primary" %}}
-Acrostiche : L'or de la lune bleue
+Acrostiche : L'or de la lune bleue.
 {{% /notice %}}

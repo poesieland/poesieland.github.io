@@ -46,5 +46,5 @@ Nuage fantasque récrie
 En ta face un baiser changé.
 
 {{% notice style="primary" %}}
-Acrostiche : Amie de la nuit, lune
+Acrostiche : Amie de la nuit, lune.
 {{% /notice %}}

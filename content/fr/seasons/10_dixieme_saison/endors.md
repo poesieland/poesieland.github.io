@@ -23,5 +23,5 @@ Rire sans couleur, les paupières se closent,
 Sourire endormi, nos cœurs se reposent...
 
 {{% notice style="primary" %}}
-Acrostiche : Endors
+Acrostiche : Endors.
 {{% /notice %}}

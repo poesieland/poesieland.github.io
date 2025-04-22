@@ -39,5 +39,5 @@ Troublé par l'ombre de ta voix
 Andante dans l'aurore, émois !
 
 {{% notice style="primary" %}}
-Acrostiche : Nella mattinata
+Acrostiche : Nella mattinata.
 {{% /notice %}}

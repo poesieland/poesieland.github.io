@@ -69,5 +69,5 @@ Ce temps-là à l'unisson.
 {{< figure src="/images/ce_temps_la_19_1.jpg" title="Ma maison verte" >}}
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres)
+Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres).
 {{% /notice %}}

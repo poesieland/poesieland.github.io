@@ -46,5 +46,5 @@ Illumination qui s'envole plus belle
 En chacun de mes vers à mes rêves bouclés !
 
 {{% notice style="primary" %}}
-Acrostiche : J'inventerai ma vie
+Acrostiche : J'inventerai ma vie.
 {{% /notice %}}

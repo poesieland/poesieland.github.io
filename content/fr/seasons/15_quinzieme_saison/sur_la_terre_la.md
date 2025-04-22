@@ -37,5 +37,5 @@ La nuit crisse à son rythme de calame,
 Alliant paix, marine, à son nouvel...
 
 {{% notice style="primary" %}}
-Acrostiche : Sur la terre, là
+Acrostiche : Sur la terre, là.
 {{% /notice %}}

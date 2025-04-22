@@ -37,5 +37,5 @@ Tu me manques déjà, quand l'ombre de l'amour
 Seule, plane au plafond dans un rêve de femme.
 
 {{% notice style="primary" %}}
-Acrostiche : Cœurs amants
+Acrostiche : Cœurs amants.
 {{% /notice %}}

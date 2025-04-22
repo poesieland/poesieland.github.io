@@ -38,5 +38,5 @@ Cette enfance dorée au soleil d'un cerceau
 Retrouve au fond du cœur un bonheur qui s'ébrèche.
 
 {{% notice style="primary" %}}
-Reprise en 1996 d'un poème de 1994
+Reprise en 1996 d'un poème de 1994.
 {{% /notice %}}

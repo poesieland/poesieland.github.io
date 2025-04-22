@@ -38,7 +38,7 @@ Tournoyer sans plus fin, dis-moi l'âme en écharpe :
 Amour ne t'interdit que de ne pas m'aimer !
 
 {{% notice style="primary" %}}
-D'après l'extrait d'air d'opéra homonyme
+D'après l'extrait d'air d'opéra homonyme.
 
-Acrostiche : L'amor ti vieta
+Acrostiche : L'amor ti vieta.
 {{% /notice %}}

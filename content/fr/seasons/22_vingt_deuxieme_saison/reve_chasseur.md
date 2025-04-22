@@ -37,5 +37,5 @@ Retombe en son canaille
 Rêve chasseur.
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 4
+Métrique variable : 6, 4.
 {{% /notice %}}

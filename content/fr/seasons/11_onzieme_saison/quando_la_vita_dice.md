@@ -49,5 +49,5 @@ Eternité vive, féconde !
 {{% notice style="primary" %}}
 "Quand la vie dit" en italien.
 
-Acrostiche : Quando la vita dice
+Acrostiche : Quando la vita dice.
 {{% /notice %}}

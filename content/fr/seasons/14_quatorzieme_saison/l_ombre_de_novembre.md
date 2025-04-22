@@ -46,5 +46,5 @@ Et novembre en ombre mêlables
 Esquisse à son écheveau nu.
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : L'ombre de / novembre
+Acrostiche double (lignes paires et impaires) : L'ombre de / novembre.
 {{% /notice %}}

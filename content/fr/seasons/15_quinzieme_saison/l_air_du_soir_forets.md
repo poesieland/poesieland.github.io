@@ -46,5 +46,5 @@ Trace ma route qui résonne
 Seule, sous les arbres altiers.
 
 {{% notice style="primary" %}}
-Acrostiche : L'air du soir, forêts
+Acrostiche : L'air du soir, forêts.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Revoici passions, intrigues, panache, art,
 Tressés à d'autres jours, immortels: scène heureuse.
 
 {{% notice style="primary" %}}
-Acrostiche : Le théâtre, art
+Acrostiche : Le théâtre, art.
 {{% /notice %}}

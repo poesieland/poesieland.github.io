@@ -28,5 +28,5 @@ Caresse d'être, on ne sait pas,
 Emu, d'où vient le patinage.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur glace
+Acrostiche : Sur glace.
 {{% /notice %}}

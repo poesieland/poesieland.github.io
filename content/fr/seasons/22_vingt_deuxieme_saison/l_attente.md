@@ -28,5 +28,5 @@ Tout doucement, un chant rameux
 Etreint la saison dans sa nasse.
 
 {{% notice style="primary" %}}
-Acrostiche : L'attente
+Acrostiche : L'attente.
 {{% /notice %}}

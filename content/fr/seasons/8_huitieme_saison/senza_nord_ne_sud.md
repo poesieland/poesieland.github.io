@@ -42,5 +42,5 @@ Désirs cardinaux sans réponse...
 {{% notice style="primary" %}}
 "Sans nord ni sud" en italien.
 
-Acrostiche : Senza nord nè sud
+Acrostiche : Senza nord nè sud.
 {{% /notice %}}

@@ -26,5 +26,5 @@ En sens cible : opère acteur.
 {{% notice style="primary" %}}
 "O Amour" en allemand.
 
-Acrostiche : O Liebe
+Acrostiche : O Liebe.
 {{% /notice %}}

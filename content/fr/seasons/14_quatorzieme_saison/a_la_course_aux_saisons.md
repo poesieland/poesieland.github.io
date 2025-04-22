@@ -46,5 +46,5 @@ Revoici farandole, année où l'indécis
 Embrasse d'au-delà les saisonnières rimes !
 
 {{% notice style="primary" %}}
-Acrostiche : D'une saison l'autre
+Acrostiche : D'une saison l'autre.
 {{% /notice %}}

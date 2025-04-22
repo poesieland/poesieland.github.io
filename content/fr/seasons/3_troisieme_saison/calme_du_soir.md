@@ -5,8 +5,10 @@ date = 1997-03-05
 weight = 2
 categories = ["Crépuscule"]
 tags = ["ombres et lumières", "1997", "ennéasyllabe"]
-info = """Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
+info = """
+Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
+
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -39,5 +41,5 @@ Du reflet pâli de notre ville.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
+{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}.
 {{% /notice %}}

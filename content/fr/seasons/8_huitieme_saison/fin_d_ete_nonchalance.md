@@ -47,5 +47,5 @@ Ce que l'âme imagine
 Et l'automne assassine.
 
 {{% notice style="primary" %}}
-Acrostiche : Fin d'été, nonchalance
+Acrostiche : Fin d'été, nonchalance.
 {{% /notice %}}

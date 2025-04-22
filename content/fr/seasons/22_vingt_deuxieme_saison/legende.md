@@ -55,5 +55,5 @@ Rêve, enfant sage,
 Cheval charbon !
 
 {{% notice style="primary" %}}
-[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)
+[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse).
 {{% /notice %}}

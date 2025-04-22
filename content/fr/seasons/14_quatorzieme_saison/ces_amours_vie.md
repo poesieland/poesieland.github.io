@@ -37,5 +37,5 @@ Inventent serpents de fête
 En leurs sarments insensés.
 
 {{% notice style="primary" %}}
-Acrostiche : Ces amours, vie
+Acrostiche : Ces amours, vie.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Goûter un instant pur de sublime paresse,
 Puis tu repartiras vers l'horizon d'amour.
 
 {{% notice style="primary" %}}
-La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella
+La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella.
 {{% /notice %}}

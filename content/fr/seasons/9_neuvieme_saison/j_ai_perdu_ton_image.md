@@ -46,5 +46,5 @@ Givre de chaque strophe
 Eclate à l'infini.
 
 {{% notice style="primary" %}}
-Acrostiche : J'ai perdu ton image
+Acrostiche : J'ai perdu ton image.
 {{% /notice %}}

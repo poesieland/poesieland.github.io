@@ -28,5 +28,5 @@ Unira nos regards d'ivresse sans reproche;
 Et tombera le masque, et valsera l'accord !
 
 {{% notice style="primary" %}}
-Acrostiche : Le masque
+Acrostiche : Le masque.
 {{% /notice %}}

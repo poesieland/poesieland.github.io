@@ -37,5 +37,5 @@ Ombre, présence,
 Ivre blancheur !
 
 {{% notice style="primary" %}}
-Acrostiche : La brume en moi
+Acrostiche : La brume en moi.
 {{% /notice %}}

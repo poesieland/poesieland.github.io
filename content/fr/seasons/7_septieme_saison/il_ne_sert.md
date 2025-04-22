@@ -28,5 +28,5 @@ Rouvert d'un mot, le tentateur,
 Troublantes pages trop frivoles.
 
 {{% notice style="primary" %}}
-Acrostiche : Il ne sert
+Acrostiche : Il ne sert.
 {{% /notice %}}

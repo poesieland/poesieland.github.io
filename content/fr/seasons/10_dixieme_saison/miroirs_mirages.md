@@ -39,5 +39,5 @@ Sublimés mirages du monde
 Soumis au temps qui les féconde.
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Miroirs / mirages
+Acrostiche double (lignes paires et impaires) : Miroirs / mirages.
 {{% /notice %}}

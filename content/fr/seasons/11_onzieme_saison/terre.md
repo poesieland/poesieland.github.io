@@ -23,5 +23,5 @@ Regarde quand s'élève entre nous flamboyance
 Abritée, en un souffle, une terre, naissance.
 
 {{% notice style="primary" %}}
-Acrostiche : O terra
+Acrostiche : O terra.
 {{% /notice %}}

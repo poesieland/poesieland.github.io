@@ -31,5 +31,5 @@ Oubli des lois, des raisons,
 Unie à l'âme-saisons.
 
 {{% notice style="primary" %}}
-Acrostiche : D'un rêve fou
+Acrostiche : D'un rêve fou.
 {{% /notice %}}

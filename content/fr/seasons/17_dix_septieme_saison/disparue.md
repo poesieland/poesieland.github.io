@@ -27,5 +27,5 @@ Une famille a tout perdu,
 Et murmure un espoir ténu.
 
 {{% notice style="primary" %}}
-Acrostiche : Disparue
+Acrostiche : Disparue.
 {{% /notice %}}

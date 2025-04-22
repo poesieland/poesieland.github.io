@@ -55,5 +55,5 @@ Caresse en paume de ta main
 Elle est parole retenue...
 
 {{% notice style="primary" %}}
-Acrostiche : Qu'un seul désir me berce
+Acrostiche : Qu'un seul désir me berce.
 {{% /notice %}}

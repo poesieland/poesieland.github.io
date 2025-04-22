@@ -37,5 +37,5 @@ Une chandelle a consumé clarté,
 Rêve tombé sur le chemin tournant.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans ton cœur
+Acrostiche : Dans ton cœur.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Intime énergie, et devant,
 Reine, le souffle de prière.
 
 {{% notice style="primary" %}}
-Acrostiche : Germe d'espoir
+Acrostiche : Germe d'espoir.
 {{% /notice %}}

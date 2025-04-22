@@ -46,5 +46,5 @@ Illuminé, prendra
 Nos chemins en sandale.
 
 {{% notice style="primary" %}}
-Acrostiche : J'irai par ce chemin
+Acrostiche : J'irai par ce chemin.
 {{% /notice %}}

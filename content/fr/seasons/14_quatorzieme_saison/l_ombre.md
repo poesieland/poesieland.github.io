@@ -23,5 +23,5 @@ Rien presque touché ne retourne au tombeau.
 Et l'ombre, mon cœur le sait, vient au front beau.
 
 {{% notice style="primary" %}}
-Acrostiche : L'ombre
+Acrostiche : L'ombre.
 {{% /notice %}}

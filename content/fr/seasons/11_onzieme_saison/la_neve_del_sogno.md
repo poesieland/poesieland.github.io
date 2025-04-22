@@ -46,5 +46,5 @@ Où s'éveille l'accent d'un coeur enfin rené.
 {{% notice style="primary" %}}
 "La neige du rêve" en italien.
 
-Acrostiche : La neve del sogno
+Acrostiche : La neve del sogno.
 {{% /notice %}}

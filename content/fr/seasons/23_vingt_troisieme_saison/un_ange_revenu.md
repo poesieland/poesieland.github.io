@@ -37,5 +37,5 @@ Naïf alors que glisse
 Un monde en désarroi.
 
 {{% notice style="primary" %}}
-Acrostiche : Un ange revenu
+Acrostiche : Un ange revenu.
 {{% /notice %}}

@@ -36,5 +36,5 @@ Illuminé sur l'onde !
 {{% notice style="primary" %}}
 "Lune que tu donnes" en italien.
 
-Acrostiche : Luna che dai
+Acrostiche : Luna che dai.
 {{% /notice %}}

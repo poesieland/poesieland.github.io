@@ -46,5 +46,5 @@ L'espoir reste en banque,
 Trop tard !
 
 {{% notice style="primary" %}}
-Métrique variable : 5, 2
+Métrique variable : 5, 2.
 {{% /notice %}}

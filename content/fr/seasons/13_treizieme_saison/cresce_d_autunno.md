@@ -5,7 +5,7 @@ date = 1999-09-21
 weight = 22
 categories = ["Automne", "Mer", "Foi"]
 tags = ["saisons", "nature", "philosophie", "1999", "acrostiche", "alexandrin"]
-info = "\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversément."
+info = "\"Croix d'automne\" en italien. Le premier paragraphe dont l'acrostiche est \"croix\" décrit l'automne et inversement."
 acrostiche = "Cresce d'autunno"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -43,5 +43,5 @@ O marins, sans prier ! Que le salut vous touche !".
 {{% notice style="primary" %}}
 "Croix d'automne" en italien. Le premier paragraphe dont l'acrostiche est "croix" décrit l'automne et inversement.
 
-Acrostiche : Cresce d'autunno
+Acrostiche : Cresce d'autunno.
 {{% /notice %}}

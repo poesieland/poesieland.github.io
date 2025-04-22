@@ -37,5 +37,5 @@ N'en sens-tu pas la plainte
 Ténue en son frisson ?
 
 {{% notice style="primary" %}}
-Acrostiche : Silence : chant
+Acrostiche : Silence : chant.
 {{% /notice %}}

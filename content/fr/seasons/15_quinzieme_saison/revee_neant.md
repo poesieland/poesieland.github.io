@@ -32,5 +32,5 @@ Néant nous mange, et demain pour chacun
 Tisse fils d'un sombre destin taquin.
 
 {{% notice style="primary" %}}
-Acrostiche : Rêvée, néant
+Acrostiche : Rêvée, néant.
 {{% /notice %}}

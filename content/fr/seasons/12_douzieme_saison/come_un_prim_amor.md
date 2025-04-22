@@ -45,5 +45,5 @@ Retrouve, autre, le sien...
 {{% notice style="primary" %}}
 "Comme un premier amour" en italien.
 
-Acrostiche : Come un prim'amor
+Acrostiche : Come un prim'amor.
 {{% /notice %}}

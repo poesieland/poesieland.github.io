@@ -43,5 +43,5 @@ Garderas-tu l'image où le temps se dénonce ?
 Et par toi j'ai perdu la clef de mon coffret.
 
 {{% notice style="primary" %}}
-Acrostiche : La clef d'un songe
+Acrostiche : La clef d'un songe.
 {{% /notice %}}

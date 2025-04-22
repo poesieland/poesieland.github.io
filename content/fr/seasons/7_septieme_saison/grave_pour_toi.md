@@ -37,5 +37,5 @@ O le poème est la branche où s'élance
 Inoublié le seul nom de l'amour !
 
 {{% notice style="primary" %}}
-Acrostiche : Gravé pour toi
+Acrostiche : Gravé pour toi.
 {{% /notice %}}

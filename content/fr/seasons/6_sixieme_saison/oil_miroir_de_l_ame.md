@@ -46,5 +46,5 @@ Mais quand reviendra la lumière
 En pourront-ils bercer l'espoir ?
 
 {{% notice style="primary" %}}
-Acrostiche : Œil miroir de l'âme
+Acrostiche : Œil miroir de l'âme.
 {{% /notice %}}

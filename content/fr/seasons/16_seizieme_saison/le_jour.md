@@ -6,9 +6,10 @@ weight = 48
 categories = ["Aube", "Etre", "Temps"]
 tags = ["ombres et lumières", "philosophie", "2004", "octosyllabe"]
 info = """
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-"""
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -42,6 +43,5 @@ Ta rencontre en sa dérobade.
 {{% notice style="primary" %}}
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

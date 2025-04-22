@@ -31,5 +31,5 @@ En l'éternité cantatrice !
 {{% notice style="primary" %}}
 "Juste toi" en italien.
 
-Acrostiche : Giusto te
+Acrostiche : Giusto te.
 {{% /notice %}}

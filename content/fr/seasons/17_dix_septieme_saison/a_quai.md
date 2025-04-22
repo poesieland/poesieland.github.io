@@ -37,5 +37,5 @@ Une ombre à plus tard
 De peine.
 
 {{% notice style="primary" %}}
-Métrique variable : 5, 2
+Métrique variable : 5, 2.
 {{% /notice %}}

@@ -46,5 +46,5 @@ Du sens gravé sur la voûte :
 L'intangible jaillit là.
 
 {{% notice style="primary" %}}
-Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes)
+Inspiré par la série romanesque [Le Clan de l'Ours des Cavernes](https://fr.wikipedia.org/wiki/Le_Clan_de_l'Ours_des_cavernes).
 {{% /notice %}}

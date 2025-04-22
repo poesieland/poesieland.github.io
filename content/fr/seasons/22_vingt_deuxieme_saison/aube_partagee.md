@@ -5,8 +5,10 @@ date = 2024-10-11
 weight = 24
 categories = ["Aube", "Amitié"]
 tags = ["ombres et lumières", "amour", "2024", "tétrasyllabe"]
-info = """Les poèmes qui commencent par ce vers...
+info = """
+Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
 pictures = ["Annecy ce matin-là", "Charleroi au même moment"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -53,5 +55,5 @@ Tout notre amour.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

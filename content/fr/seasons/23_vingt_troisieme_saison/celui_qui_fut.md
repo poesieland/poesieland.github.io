@@ -37,5 +37,5 @@ Ecoutez sa parole et voyez son éclat :
 De Jésus bien-aimé la vérité promise !
 
 {{% notice style="primary" %}}
-"Celui qui est, qui était et qui vient", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017)
+"Celui qui est, qui était et qui vient", [Apocalypse 1:8-19](https://www.bible.com/fr/bible/133/REV.1.8-19.PDV2017).
 {{% /notice %}}

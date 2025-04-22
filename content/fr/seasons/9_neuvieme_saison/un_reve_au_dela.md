@@ -37,5 +37,5 @@ Le clair minuit dit : comparaître
 A l'aube où le mystère absout.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rêve au-delà
+Acrostiche : Un rêve au-delà.
 {{% /notice %}}

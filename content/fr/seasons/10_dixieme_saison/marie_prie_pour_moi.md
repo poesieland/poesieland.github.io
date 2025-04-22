@@ -46,5 +46,5 @@ O la vie en ton sein révélée à l'étoile
 Irradie en amour, en subtile bonté !
 
 {{% notice style="primary" %}}
-Acrostiche : Marie, prie pour moi
+Acrostiche : Marie, prie pour moi.
 {{% /notice %}}

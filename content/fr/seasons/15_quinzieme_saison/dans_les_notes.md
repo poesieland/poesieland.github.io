@@ -37,5 +37,5 @@ Est-ce toi, je rêve un désir
 Soufflé de ces notes parées.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans les notes
+Acrostiche : Dans les notes.
 {{% /notice %}}

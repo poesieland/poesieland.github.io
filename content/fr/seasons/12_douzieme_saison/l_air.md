@@ -19,5 +19,5 @@ Ivres d'aventure, bagues et jeux de dé :
 Rond comme l'opale un chatoiement d'un geste...
 
 {{% notice style="primary" %}}
-Acrostiche : L'air
+Acrostiche : L'air.
 {{% /notice %}}

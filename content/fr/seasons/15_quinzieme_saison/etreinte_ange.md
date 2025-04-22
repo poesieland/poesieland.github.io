@@ -37,5 +37,5 @@ Gemmes de ce chagrin chassé,
 Etreint les lieux d'une ombre fauve.
 
 {{% notice style="primary" %}}
-Acrostiche : Etreinte - ange
+Acrostiche : Etreinte - ange.
 {{% /notice %}}

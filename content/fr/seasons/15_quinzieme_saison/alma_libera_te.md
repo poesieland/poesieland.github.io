@@ -40,5 +40,5 @@ En rêve, pas seulement.
 {{% notice style="primary" %}}
 "Ame, libère-toi" en italien.
 
-Acrostiche : Alma, libera te
+Acrostiche : Alma, libera te.
 {{% /notice %}}

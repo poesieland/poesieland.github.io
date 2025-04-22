@@ -46,5 +46,5 @@ Un au-delà chante l'arpège
 Renouvelé d'un cœur déçu.
 
 {{% notice style="primary" %}}
-Acrostiche : L'automne d'un cœur
+Acrostiche : L'automne d'un cœur.
 {{% /notice %}}

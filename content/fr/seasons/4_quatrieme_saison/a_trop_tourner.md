@@ -37,5 +37,5 @@ Ecoute le souffle du jour,
 Rejoins l'orchestre, ivresse bonne !
 
 {{% notice style="primary" %}}
-Acrostiche : A trop tourner
+Acrostiche : A trop tourner.
 {{% /notice %}}

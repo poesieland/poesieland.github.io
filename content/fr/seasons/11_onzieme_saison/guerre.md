@@ -28,5 +28,5 @@ Et malgré l'Histoire
 Là : le même ciel.
 
 {{% notice style="primary" %}}
-Acrostiche : Même ciel
+Acrostiche : Même ciel.
 {{% /notice %}}

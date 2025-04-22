@@ -47,5 +47,5 @@ Au-delà de l'herbe, du vent...
 Saurez-vous espérer vraiment ?
 
 {{% notice style="primary" %}}
-Acrostiche : Elle est partie là-bas
+Acrostiche : Elle est partie là-bas.
 {{% /notice %}}

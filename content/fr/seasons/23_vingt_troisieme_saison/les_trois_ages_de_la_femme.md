@@ -44,7 +44,7 @@ Devant le seuil bientôt franchi.
 <div class="caption">Peinture de Gustav Klimt</div>
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/je_crois_en_lui)
+Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/je_crois_en_lui).
 
-[Les trois âges de la femme](https://fr.wikipedia.org/wiki/Les_Trois_%C3%82ges_de_la_femme)
+[Les trois âges de la femme](https://fr.wikipedia.org/wiki/Les_Trois_%C3%82ges_de_la_femme).
 {{% /notice %}}

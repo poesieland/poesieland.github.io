@@ -28,5 +28,5 @@ Sauter tels rivets !
 Le monde à renaître !
 
 {{% notice style="primary" %}}
-Reprise modifiée des deux premiers vers d'un [poème de la onzième saison](../11_onzieme_saison/guerre)
+Reprise modifiée des deux premiers vers d'un [poème de la onzième saison](../11_onzieme_saison/guerre).
 {{% /notice %}}

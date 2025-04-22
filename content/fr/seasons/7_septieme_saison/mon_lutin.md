@@ -27,5 +27,5 @@ Ivre comme les feuilles :
 Nos rêves s'y recueillent.
 
 {{% notice style="primary" %}}
-Acrostiche : Mon lutin
+Acrostiche : Mon lutin.
 {{% /notice %}}

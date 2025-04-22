@@ -19,5 +19,5 @@ Lancés d'en haut, striant d'un air fauve
 Opéra, cieux d'hiver plus féconds.
 
 {{% notice style="primary" %}}
-Acrostiche : Solo
+Acrostiche : Solo.
 {{% /notice %}}

@@ -46,5 +46,5 @@ Il pourrait, gestuel,
 Réécrire l'histoire.
 
 {{% notice style="primary" %}}
-Acrostiche : Ecrire sans savoir
+Acrostiche : Ecrire sans savoir.
 {{% /notice %}}

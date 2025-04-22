@@ -37,5 +37,5 @@ Ravis mon cœur; pour être heureuse
 En le tien je veux lire : nous ?
 
 {{% notice style="primary" %}}
-Acrostiche : Sans rien dire
+Acrostiche : Sans rien dire.
 {{% /notice %}}

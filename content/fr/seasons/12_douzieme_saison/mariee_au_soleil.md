@@ -43,5 +43,5 @@ Ivre soleil, matin,
 Le chant comme partage.
 
 {{% notice style="primary" %}}
-Acrostiche : Mariée au soleil
+Acrostiche : Mariée au soleil.
 {{% /notice %}}

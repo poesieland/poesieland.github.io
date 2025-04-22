@@ -42,5 +42,5 @@ Ordinairement par les jours et les nuits mêmes.
 {{% notice style="primary" %}}
 "Quand le souffle" en italien.
 
-Acrostiche : Quando il soffio
+Acrostiche : Quando il soffio.
 {{% /notice %}}

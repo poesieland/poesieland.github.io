@@ -27,5 +27,5 @@ Irradié de vie étreint l'âme et le corps :
 En Toi vivre est immense et nos rêves si forts.
 
 {{% notice style="primary" %}}
-Acrostiche : Harmonie
+Acrostiche : Harmonie.
 {{% /notice %}}

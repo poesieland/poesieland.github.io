@@ -37,5 +37,5 @@ Et ta blancheur m'est chère,
 Reviens donc à jamais !
 
 {{% notice style="primary" %}}
-Acrostiche : Je sais t'aimer
+Acrostiche : Je sais t'aimer.
 {{% /notice %}}

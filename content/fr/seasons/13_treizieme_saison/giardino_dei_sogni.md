@@ -49,5 +49,5 @@ Imitent verts, et bleu, rose, marron.
 {{% notice style="primary" %}}
 "Jardin des songes" en italien.
 
-Acrostiche double (lignes paires et impaires) : giardino / dei sogni
+Acrostiche double (lignes paires et impaires) : giardino / dei sogni.
 {{% /notice %}}

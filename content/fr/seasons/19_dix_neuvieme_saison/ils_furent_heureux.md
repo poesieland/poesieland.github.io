@@ -37,5 +37,5 @@ Elle était plus que muse, artiste aussi sans peine ;
 Amateurs de voyage... un dernier trop tôt.
 
 {{% notice style="primary" %}}
-Dans ce poème se cachent un surnom et un prénom
+Dans ce poème se cachent un surnom et un prénom.
 {{% /notice %}}

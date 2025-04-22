@@ -39,5 +39,5 @@ Unique, attire un bien-aimé :
 Ravi son rire au tien charmé !
 
 {{% notice style="primary" %}}
-Acrostiche : Comme un bonheur
+Acrostiche : Comme un bonheur.
 {{% /notice %}}

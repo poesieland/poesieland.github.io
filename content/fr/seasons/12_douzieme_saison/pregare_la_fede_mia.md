@@ -49,5 +49,5 @@ Eclate le chant pur, symphonique saveur...
 {{% notice style="primary" %}}
 "Prier, ma foi" en italien.
 
-Acrostiche : Pregare, la fede mia
+Acrostiche : Pregare, la fede mia.
 {{% /notice %}}

@@ -46,5 +46,5 @@ Trace Genèse de couleur...
 Elle est la vie, elle est secrète.
 
 {{% notice style="primary" %}}
-Acrostiche : Ailleurs, sérénité
+Acrostiche : Ailleurs, sérénité.
 {{% /notice %}}

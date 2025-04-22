@@ -37,5 +37,5 @@ O de la couleur la plus vive,
 Intime, belle, à l'unisson.
 
 {{% notice style="primary" %}}
-Acrostiche : Adressée à toi
+Acrostiche : Adressée à toi.
 {{% /notice %}}

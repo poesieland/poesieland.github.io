@@ -46,5 +46,5 @@ Une danse en tes bras, libres liens de la vie
 Reine où ce qui n'est toi semble s'évanouir.
 
 {{% notice style="primary" %}}
-Acrostiche : Pour tout mon cœur
+Acrostiche : Pour tout mon cœur.
 {{% /notice %}}

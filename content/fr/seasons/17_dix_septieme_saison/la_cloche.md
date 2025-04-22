@@ -46,5 +46,5 @@ C'est le juste compte, septante !
 {{< figure src="/images/la_cloche_17_0.jpg" title="Là où tu passas ta jeunesse (photo de 2005)" >}}
 
 {{% notice style="primary" %}}
-Pour célébrer un joli anniversaire de ma maman
+Pour célébrer un joli anniversaire de ma maman.
 {{% /notice %}}

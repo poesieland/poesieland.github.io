@@ -46,5 +46,5 @@ Tout pour sauver la terre en chaque petit geste.
 Ecoute ma prière avide, rejoins-moi !
 
 {{% notice style="primary" %}}
-Acrostiche : Haut lieu, sainteté
+Acrostiche : Haut lieu, sainteté.
 {{% /notice %}}

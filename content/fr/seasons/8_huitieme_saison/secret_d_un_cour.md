@@ -39,5 +39,5 @@ Un jour un battement s'arrête :
 Riche d'aimer l'âme est prophète.
 
 {{% notice style="primary" %}}
-Acrostiche : Secret d'un cœur
+Acrostiche : Secret d'un cœur.
 {{% /notice %}}

@@ -31,5 +31,5 @@ Unique cueille l'essence.
 {{% notice style="primary" %}}
 "L'amour et toi" en portugais, reprise du titre d'une chanson.
 
-Acrostiche : L'amor e tu
+Acrostiche : L'amor e tu.
 {{% /notice %}}

@@ -31,5 +31,5 @@ Et ces volutes fantastiques
 Enroulent leurs parfums mystiques.
 
 {{% notice style="primary" %}}
-Acrostiche : Sous l'ondée
+Acrostiche : Sous l'ondée.
 {{% /notice %}}

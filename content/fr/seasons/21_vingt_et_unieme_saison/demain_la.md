@@ -5,8 +5,10 @@ date = 2024-08-24
 weight = 41
 categories = ["Romantisme", "Temps"]
 tags = ["amour", "philosophie", "2024", "acrostiche", "alexandrin"]
-info = """Les poèmes de ce mini-thème glissant vers la vieillesse :
+info = """
+Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
+
 acrostiche = "Demain, là"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -31,7 +33,7 @@ Amour, notre chemin continue, indicible.
 
 {{% notice style="primary" %}}
 Les poèmes de ce mini-thème glissant vers la vieillesse :
-{{% include "../../includes/demain_etre" hidefirstheading %}}
+{{% include "../../includes/demain_etre" hidefirstheading %}}.
 
-Acrostiche : Demain, là
+Acrostiche : Demain, là.
 {{% /notice %}}

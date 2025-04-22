@@ -58,5 +58,5 @@ A la fontaine se tut.
 {{% notice style="primary" %}}
 "Ton cantique donne la vie" en italien.
 
-Acrostiche : Il tuo cantico da la vita
+Acrostiche : Il tuo cantico da la vita.
 {{% /notice %}}

@@ -40,7 +40,7 @@ Roule en son tonnerre
 Entre les nuages, la Terre.
 
 {{% notice style="primary" %}}
-Métrique variable : 5, 8
+Métrique variable : 5, 8.
 
-Acrostiche : Lune, ton sourire
+Acrostiche : Lune, ton sourire.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Insensé jour qui sème
 Nuées vives d'un bond.
 
 {{% notice style="primary" %}}
-Acrostiche : Souffle : matin
+Acrostiche : Souffle : matin.
 {{% /notice %}}

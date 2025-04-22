@@ -28,5 +28,5 @@ Né par toi, l'ombre de mes douleurs
 Et j'oublierai le jour et la nuit somnambule...
 
 {{% notice style="primary" %}}
-Acrostiche : Déchaîné
+Acrostiche : Déchaîné.
 {{% /notice %}}

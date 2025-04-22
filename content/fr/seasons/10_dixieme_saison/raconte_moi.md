@@ -31,5 +31,5 @@ Ose s'immiscer, qui m'embrasse et m'enlève
 Immortelle au creux de tes bras, de ton rêve...
 
 {{% notice style="primary" %}}
-Acrostiche : Raconte-moi
+Acrostiche : Raconte-moi.
 {{% /notice %}}

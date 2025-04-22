@@ -28,5 +28,5 @@ Rêver s'arrête en inconfiance.
 Sommeil, seuil de l'aube vainqueur.
 
 {{% notice style="primary" %}}
-Acrostiche : Je ne dors
+Acrostiche : Je ne dors.
 {{% /notice %}}

@@ -37,5 +37,5 @@ L'humain m'est asservi,
 Jour, nuit, chaque seconde !
 
 {{% notice style="primary" %}}
-[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr)
+[Société secrète des chats conspirateurs pour l'asservissement de l'humanité{{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr).
 {{% /notice %}}

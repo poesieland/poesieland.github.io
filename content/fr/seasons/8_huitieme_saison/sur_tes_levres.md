@@ -37,5 +37,5 @@ Embrasse-moi, ta lèvre belle
 Saura charmer soleil d'été.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur tes lèvres
+Acrostiche : Sur tes lèvres.
 {{% /notice %}}

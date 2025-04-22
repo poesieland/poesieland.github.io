@@ -40,5 +40,5 @@ En cet écran brouillé du miroir, tout est vrai.
 {{% notice style="primary" %}}
 En mémoire des attentats du 11.09.2001.
 
-Acrostiche : Miroir d'ombre
+Acrostiche : Miroir d'ombre.
 {{% /notice %}}

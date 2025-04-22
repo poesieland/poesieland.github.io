@@ -37,5 +37,5 @@ Neuf vies qui se déchirent,
 Son rêve, et m'y noyais.
 
 {{% notice style="primary" %}}
-Acrostiche : Ballet de sens
+Acrostiche : Ballet de sens.
 {{% /notice %}}

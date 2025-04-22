@@ -55,5 +55,5 @@ O je suivrai les Vestales
 S'il faut loin l'aller chercher.
 
 {{% notice style="primary" %}}
-Acrostiche : Manger le coeur d'un Eros
+Acrostiche : Manger le coeur d'un Eros.
 {{% /notice %}}

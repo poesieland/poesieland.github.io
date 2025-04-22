@@ -5,8 +5,10 @@ date = 2023-11-12
 weight = 19
 categories = ["Temps", "Création"]
 tags = ["philosophie", "2023", "octosyllabe"]
-info = """Les poèmes qui commencent par ce vers...
+info = """
+Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -45,5 +47,5 @@ Et je ris, je rêve, partage !
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}.
 {{% /notice %}}

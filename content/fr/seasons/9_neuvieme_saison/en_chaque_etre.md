@@ -37,5 +37,5 @@ Repartir ailleurs, brèves
 Etreintes sans parfum...
 
 {{% notice style="primary" %}}
-Acrostiche : En chaque être
+Acrostiche : En chaque être.
 {{% /notice %}}

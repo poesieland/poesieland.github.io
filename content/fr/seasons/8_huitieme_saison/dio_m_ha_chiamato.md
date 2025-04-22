@@ -42,5 +42,5 @@ Oratorio d'existence !
 {{% notice style="primary" %}}
 "Dieu m'a appelée" en italien.
 
-Acrostiche : Dio m'ha chiamato
+Acrostiche : Dio m'ha chiamato.
 {{% /notice %}}

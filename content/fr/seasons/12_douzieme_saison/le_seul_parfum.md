@@ -37,5 +37,5 @@ Une joie, une odeur
 Mêle notre âme immense...
 
 {{% notice style="primary" %}}
-Acrostiche : Le seul parfum
+Acrostiche : Le seul parfum.
 {{% /notice %}}

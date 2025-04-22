@@ -31,5 +31,5 @@ Ne pourront tout savoir ou croire...
 Souviens-toi; rêves en mémoire.
 
 {{% notice style="primary" %}}
-Acrostiche : Même le sens
+Acrostiche : Même le sens.
 {{% /notice %}}

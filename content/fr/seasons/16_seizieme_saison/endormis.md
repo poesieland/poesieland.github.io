@@ -28,5 +28,5 @@ Irisons nos regards, nos doigts de frôlement…
 Si le jour nous unit, berçons-nous de brillance.
 
 {{% notice style="primary" %}}
-Acrostiche : Endormis
+Acrostiche : Endormis.
 {{% /notice %}}

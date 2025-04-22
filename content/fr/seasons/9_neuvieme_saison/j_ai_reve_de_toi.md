@@ -37,5 +37,5 @@ Offre-moi le bonheur
 Impatient, mystique !
 
 {{% notice style="primary" %}}
-Acrostiche : J'ai rêvé de toi
+Acrostiche : J'ai rêvé de toi.
 {{% /notice %}}

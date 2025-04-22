@@ -46,5 +46,5 @@ Troublés que nous blessons
 Sur l'autel de l'orfèvre.
 
 {{% notice style="primary" %}}
-Acrostiche : La musique des mots
+Acrostiche : La musique des mots.
 {{% /notice %}}

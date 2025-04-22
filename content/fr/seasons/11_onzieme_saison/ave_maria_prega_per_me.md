@@ -54,5 +54,5 @@ Ensuite ce calme sans trêve...
 {{% notice style="primary" %}}
 "Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.
 
-Acrostiche : Ave Maria prega per me
+Acrostiche : Ave Maria prega per me.
 {{% /notice %}}

@@ -9,6 +9,7 @@ info = """
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 """
+
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -40,8 +41,7 @@ Gloire puis déchéance au suprême animal !
 Tu songeais dans le bleu de la nuit qui s'abime.
 
 {{% notice style="primary" %}}
-
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-
+.
 {{% /notice %}}

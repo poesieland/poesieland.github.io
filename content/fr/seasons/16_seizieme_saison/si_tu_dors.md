@@ -28,5 +28,5 @@ Rêve en tes bras, dormons. La rose
 Suggère un air au doux refrain.
 
 {{% notice style="primary" %}}
-Acrostiche : Si tu dors
+Acrostiche : Si tu dors.
 {{% /notice %}}

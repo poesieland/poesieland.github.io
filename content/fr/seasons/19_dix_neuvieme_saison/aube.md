@@ -7,8 +7,8 @@ categories = ["Aube"]
 tags = ["ombres et lumières", "2024", "tétrasyllabe"]
 info = """
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-"""
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -58,8 +58,6 @@ Fin du murmure,
 Le jour est là.
 
 {{% notice style="primary" %}}
-
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

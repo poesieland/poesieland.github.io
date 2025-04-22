@@ -37,5 +37,5 @@ Hanté le fleuve jette un sort
 Et l'oubli referme son livre.
 
 {{% notice style="primary" %}}
-Acrostiche : A la recherche
+Acrostiche : A la recherche.
 {{% /notice %}}

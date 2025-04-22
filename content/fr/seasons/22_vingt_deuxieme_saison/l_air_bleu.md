@@ -5,8 +5,10 @@ date = 2024-09-15
 weight = 9
 categories = ["Amitié"]
 tags = ["amour", "maman", "2024", "octosyllabe"]
-info = """Les poèmes qui commencent par ce vers...
+info = """
+Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -39,5 +41,5 @@ Etait heureuse de m'entendre.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}.
 {{% /notice %}}

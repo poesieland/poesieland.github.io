@@ -55,5 +55,5 @@ Les reflets vifs s'emballent...
 Et musique s'écrit.
 
 {{% notice style="primary" %}}
-Acrostiche : Dis l'aube au crépuscule
+Acrostiche : Dis l'aube au crépuscule.
 {{% /notice %}}

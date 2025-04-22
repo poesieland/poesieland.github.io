@@ -34,5 +34,5 @@ Ivre, à toi, souverain, multicolore écume.
 {{% notice style="primary" %}}
 Sublimation religieuse de la vocation du chanteur Andrea Bocelli.
 
-Acrostiche : San Bocelli
+Acrostiche : San Bocelli.
 {{% /notice %}}

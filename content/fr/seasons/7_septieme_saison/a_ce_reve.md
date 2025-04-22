@@ -37,5 +37,5 @@ Intimes, puis se ravise,
 Serre ses berceaux lancés !
 
 {{% notice style="primary" %}}
-Acrostiche : A ce rêve tu dis
+Acrostiche : A ce rêve tu dis.
 {{% /notice %}}

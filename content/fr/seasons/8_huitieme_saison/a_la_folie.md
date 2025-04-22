@@ -28,5 +28,5 @@ Il ne nous sera plus promis
 Encor de vivre en cette image.
 
 {{% notice style="primary" %}}
-Acrostiche : A la folie
+Acrostiche : A la folie.
 {{% /notice %}}

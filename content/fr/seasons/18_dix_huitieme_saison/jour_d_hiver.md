@@ -6,9 +6,10 @@ weight = 29
 categories = ["Hiver", "Jardin et paysage"]
 tags = ["saisons", "nature", "2023", "tétrasyllabe"]
 info = """
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-"""
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -51,6 +52,5 @@ Hiver parfait.
 {{% notice style="primary" %}}
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

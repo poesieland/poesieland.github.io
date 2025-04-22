@@ -46,5 +46,5 @@ Croisant chaque trace
 En lui je t'attends.
 
 {{% notice style="primary" %}}
-Acrostiche : Une odeur : présence
+Acrostiche : Une odeur : présence.
 {{% /notice %}}

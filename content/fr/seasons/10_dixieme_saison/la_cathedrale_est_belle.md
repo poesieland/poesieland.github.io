@@ -56,5 +56,5 @@ Libère les âmes impures,
 Exauce le monde incertain.
 
 {{% notice style="primary" %}}
-Acrostiche : La cathédrale est belle
+Acrostiche : La cathédrale est belle.
 {{% /notice %}}

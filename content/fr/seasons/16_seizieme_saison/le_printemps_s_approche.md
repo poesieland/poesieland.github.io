@@ -55,5 +55,5 @@ Horizon d'amante
 Emue : un printemps.
 
 {{% notice style="primary" %}}
-Acrostiche : Le printemps s'approche
+Acrostiche : Le printemps s'approche.
 {{% /notice %}}

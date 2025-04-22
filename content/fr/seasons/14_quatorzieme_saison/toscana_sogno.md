@@ -38,5 +38,5 @@ Naîtront d'une main libre; collines en leurs plis
 Ouvrent l'éternel art de notes et de toile.
 
 {{% notice style="primary" %}}
-Acrostiche : Toscana - Sogno
+Acrostiche : Toscana - Sogno.
 {{% /notice %}}

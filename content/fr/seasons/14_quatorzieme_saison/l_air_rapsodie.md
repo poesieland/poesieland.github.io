@@ -41,5 +41,5 @@ Emerveillé, le Printemps dort, renaquit, se dévoile.
 {{% notice style="primary" %}}
 D'après le parc de Choisy, Paris.
 
-Acrostiche : L'air : rapsodie
+Acrostiche : L'air : rapsodie.
 {{% /notice %}}

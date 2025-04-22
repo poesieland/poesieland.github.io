@@ -19,5 +19,5 @@ Vocalise au monde planeur
 Espace vrai, la voix caresse.
 
 {{% notice style="primary" %}}
-Acrostiche : Vive
+Acrostiche : Vive.
 {{% /notice %}}

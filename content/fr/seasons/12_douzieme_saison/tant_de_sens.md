@@ -33,5 +33,5 @@ N'est là que pour que plus vivante
 Sens caché, notre vie en chante...
 
 {{% notice style="primary" %}}
-Acrostiche : Tant de sens
+Acrostiche : Tant de sens.
 {{% /notice %}}

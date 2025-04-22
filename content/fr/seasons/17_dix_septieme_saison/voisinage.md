@@ -46,5 +46,5 @@ Sur les murs des maisons résonne
 Le pas de l'été qui se rend.
 
 {{% notice style="primary" %}}
-A Bordeaux
+A Bordeaux.
 {{% /notice %}}

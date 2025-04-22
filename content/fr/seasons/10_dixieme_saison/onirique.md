@@ -28,5 +28,5 @@ Uniront vie et couleur : la sculpture
 Ebauchée en oniriques bonheurs.
 
 {{% notice style="primary" %}}
-Acrostiche : Onirique
+Acrostiche : Onirique.
 {{% /notice %}}

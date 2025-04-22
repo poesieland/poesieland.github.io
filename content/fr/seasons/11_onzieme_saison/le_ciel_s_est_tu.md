@@ -37,5 +37,5 @@ Tresse alors silhouettes...
 Un autre chant, douceur.
 
 {{% notice style="primary" %}}
-Acrostiche : Le ciel s'est tu
+Acrostiche : Le ciel s'est tu.
 {{% /notice %}}

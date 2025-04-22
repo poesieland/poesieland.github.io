@@ -23,5 +23,5 @@ Et s'efface la forme, et reste le parfum
 Sourire à l'été bleu d'un adonis refrain.
 
 {{% notice style="primary" %}}
-Acrostiche : Images
+Acrostiche : Images.
 {{% /notice %}}

@@ -27,5 +27,5 @@ Trouvé par les chemins, c'est l'âme qu'on embrasse,
 A l'éclat de ta bouche une éternité passe.
 
 {{% notice style="primary" %}}
-Acrostiche : Eternità
+Acrostiche : Eternità.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Uni dans l'infini pastel
 Ravi d'un cœur parti sans trace.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans son cœur
+Acrostiche : Dans son cœur.
 {{% /notice %}}

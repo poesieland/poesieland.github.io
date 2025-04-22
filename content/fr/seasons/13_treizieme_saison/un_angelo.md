@@ -28,5 +28,5 @@ La colline, l'amour
 Où les voix sont plus belles.
 
 {{% notice style="primary" %}}
-Acrostiche : Un angelo
+Acrostiche : Un angelo.
 {{% /notice %}}

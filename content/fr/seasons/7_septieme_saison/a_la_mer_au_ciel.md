@@ -37,5 +37,5 @@ Etrangère au cœur ressuscité.
 L'entends-tu qui récite son psaume ?
 
 {{% notice style="primary" %}}
-Acrostiche : A la mer, au ciel
+Acrostiche : A la mer, au ciel.
 {{% /notice %}}

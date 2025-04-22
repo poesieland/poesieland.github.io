@@ -37,5 +37,5 @@ Immolée, une lune danse
 Sur la fleur brisée, encensoirs.
 
 {{% notice style="primary" %}}
-Acrostiche : N'être à jamais
+Acrostiche : N'être à jamais.
 {{% /notice %}}

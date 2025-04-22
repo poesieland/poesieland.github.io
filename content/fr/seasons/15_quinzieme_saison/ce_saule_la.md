@@ -26,5 +26,5 @@ Touchant le ciel, tresses vertes bohèmes.
 {{% notice style="primary" %}}
 Ce poème décrit l'adolescence d'une amie.
 
-Acrostiche : Le saut
+Acrostiche : Le saut.
 {{% /notice %}}

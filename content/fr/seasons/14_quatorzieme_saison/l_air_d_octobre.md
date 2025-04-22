@@ -37,5 +37,5 @@ Rêveuse, je sais qu'il m'arrache
 Etreinte du jour en ses rêts.
 
 {{% notice style="primary" %}}
-Acrostiche : L'air d'octobre
+Acrostiche : L'air d'octobre.
 {{% /notice %}}

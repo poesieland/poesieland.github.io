@@ -49,5 +49,5 @@ Aux amours délient cieux.
 {{% notice style="primary" %}}
 "Nul ne le saura" en italien.
 
-Acrostiche : Non lo nessun saprà
+Acrostiche : Non lo nessun saprà.
 {{% /notice %}}

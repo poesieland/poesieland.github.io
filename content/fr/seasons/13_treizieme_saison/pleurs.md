@@ -23,5 +23,5 @@ Regard bleu dans l'innocence même
 Sous la peur que personne ne l'aime.
 
 {{% notice style="primary" %}}
-Acrostiche : Pleurs
+Acrostiche : Pleurs.
 {{% /notice %}}

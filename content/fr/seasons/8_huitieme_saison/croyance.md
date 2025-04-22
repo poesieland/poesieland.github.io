@@ -37,5 +37,5 @@ Reverras-tu ce corps au tombeau de naissance
 Offert unique à toi, symbole d'avenir ?
 
 {{% notice style="primary" %}}
-Acrostiche : Con te partirò
+Acrostiche : Con te partirò.
 {{% /notice %}}

@@ -46,5 +46,5 @@ Un songe peut mourir,
 Roule en l'écume, absence...
 
 {{% notice style="primary" %}}
-Acrostiche : Donne-moi ton cœur
+Acrostiche : Donne-moi ton cœur.
 {{% /notice %}}

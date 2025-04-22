@@ -49,5 +49,5 @@ Ebauche d'esquisse infinie.
 {{% notice style="primary" %}}
 Premier acrostiche...
 
-Acrostiche : Au-delà d'un sourire
+Acrostiche : Au-delà d'un sourire.
 {{% /notice %}}

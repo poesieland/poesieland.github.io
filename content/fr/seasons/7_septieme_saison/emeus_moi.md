@@ -28,5 +28,5 @@ Ou dessine un souhait sur le bas d'une page;
 Il suffit de m'aimer en ce jour frémissant.
 
 {{% notice style="primary" %}}
-Acrostiche : Emeus-moi
+Acrostiche : Emeus-moi.
 {{% /notice %}}

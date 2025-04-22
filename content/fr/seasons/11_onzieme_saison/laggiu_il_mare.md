@@ -40,5 +40,5 @@ En moi la mer toujours danseuse...
 {{% notice style="primary" %}}
 "Là-bas la mer" en italien.
 
-Acrostiche : Laggiù il mare
+Acrostiche : Laggiù il mare.
 {{% /notice %}}

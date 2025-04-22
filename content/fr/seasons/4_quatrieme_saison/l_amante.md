@@ -31,5 +31,5 @@ Tes souvenirs d'amour
 Et le lever du jour.
 
 {{% notice style="primary" %}}
-Acrostiche : Lune amante
+Acrostiche : Lune amante.
 {{% /notice %}}

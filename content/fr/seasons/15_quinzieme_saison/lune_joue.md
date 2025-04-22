@@ -28,5 +28,5 @@ Une lune des jours
 Entrelacés du monde.
 
 {{% notice style="primary" %}}
-Acrostiche : Lune joue
+Acrostiche : Lune joue.
 {{% /notice %}}

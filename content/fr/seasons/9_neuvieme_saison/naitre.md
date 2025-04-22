@@ -23,5 +23,5 @@ Routes et rivages...
 En notes-mirages.
 
 {{% notice style="primary" %}}
-Acrostiche : Naître
+Acrostiche : Naître.
 {{% /notice %}}

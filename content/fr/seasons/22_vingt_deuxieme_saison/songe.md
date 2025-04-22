@@ -6,9 +6,11 @@ weight = 42
 categories = ["Etre", "Nuit", "Ciel"]
 tags = ["philosophie", "ombres et lumières", "nature", "2024", "alexandrin"]
 info = """
+
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 """
+
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -42,6 +44,5 @@ Pour lier dans un souffle une nuit magistrale.
 {{% notice style="primary" %}}
 
 Les poèmes qui reprennent _la nuit faite mer_ :
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}.
 {{% /notice %}}

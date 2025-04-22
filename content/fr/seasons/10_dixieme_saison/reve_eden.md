@@ -28,5 +28,5 @@ Etreint le madrigal fugace et puissant, drôle,
 Né d'un souvenir, rêve en éclats, désolant.
 
 {{% notice style="primary" %}}
-Acrostiche : Rêve, eden
+Acrostiche : Rêve, eden.
 {{% /notice %}}

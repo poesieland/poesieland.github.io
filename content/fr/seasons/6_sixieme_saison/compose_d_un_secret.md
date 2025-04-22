@@ -46,5 +46,5 @@ Et j'attrape, bravés,
 Tous les secrets d'écrire.
 
 {{% notice style="primary" %}}
-Acrostiche : Composé d'un secret
+Acrostiche : Composé d'un secret.
 {{% /notice %}}

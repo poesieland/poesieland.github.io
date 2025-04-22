@@ -37,5 +37,5 @@ Installe en traces filantes
 Riche, l'astre gris-écru.
 
 {{% notice style="primary" %}}
-Acrostiche : Balade du soir
+Acrostiche : Balade du soir.
 {{% /notice %}}

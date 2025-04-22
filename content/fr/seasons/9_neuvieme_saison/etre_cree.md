@@ -28,5 +28,5 @@ Ecrire quand l'âme erre,
 Espérer l'au-delà...
 
 {{% notice style="primary" %}}
-Acrostiche : Etre créé
+Acrostiche : Etre créé.
 {{% /notice %}}

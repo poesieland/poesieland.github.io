@@ -37,5 +37,5 @@ Terre de loups et de bruyères
 Ecrit l'espoir ressuscité !
 
 {{% notice style="primary" %}}
-Acrostiche : Noël enchanté
+Acrostiche : Noël enchanté.
 {{% /notice %}}

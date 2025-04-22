@@ -39,5 +39,5 @@ Rêves en majuscule,
 Endort ce crépuscule.
 
 {{% notice style="primary" %}}
-Acrostiche : Derrière l'ombre
+Acrostiche : Derrière l'ombre.
 {{% /notice %}}

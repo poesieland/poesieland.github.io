@@ -46,5 +46,5 @@ Un mot t'attend, vainqueur,
 Rêve sans ciel, transfuge...
 
 {{% notice style="primary" %}}
-Acrostiche : L'absence d'un cœur
+Acrostiche : L'absence d'un cœur.
 {{% /notice %}}

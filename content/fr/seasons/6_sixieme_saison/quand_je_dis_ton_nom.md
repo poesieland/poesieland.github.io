@@ -46,5 +46,5 @@ Ombre amère, lent découpage
 Meurtri qu'un cœur émerveillait.
 
 {{% notice style="primary" %}}
-Acrostiche : Quand je dis ton nom
+Acrostiche : Quand je dis ton nom.
 {{% /notice %}}

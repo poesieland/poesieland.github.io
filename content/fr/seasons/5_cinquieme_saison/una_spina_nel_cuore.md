@@ -46,5 +46,5 @@ Retenir l'amour versé
 Et cette douleur intime...
 
 {{% notice style="primary" %}}
-Acrostiche : Una spina nel cuore
+Acrostiche : Una spina nel cuore.
 {{% /notice %}}

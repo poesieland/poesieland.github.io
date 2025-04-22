@@ -40,5 +40,5 @@ Aura montré nos pas touchants.
 {{% notice style="primary" %}}
 "Unique restera" en italien.
 
-Acrostiche : Unico resterà
+Acrostiche : Unico resterà.
 {{% /notice %}}

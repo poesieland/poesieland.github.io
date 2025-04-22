@@ -46,5 +46,5 @@ Une rôdeuse qui s'attarde
 Et gémit, hurle et blesse à cœur !
 
 {{% notice style="primary" %}}
-Acrostiche : Elle coule, musique
+Acrostiche : Elle coule, musique.
 {{% /notice %}}

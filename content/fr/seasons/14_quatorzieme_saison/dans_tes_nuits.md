@@ -37,5 +37,5 @@ Tous les sourires d'un échange,
 Souviens-toi : bribes alentour.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans tes nuits
+Acrostiche : Dans tes nuits.
 {{% /notice %}}

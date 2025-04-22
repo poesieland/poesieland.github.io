@@ -49,5 +49,5 @@ Elue à ton bras tendre, un baiser, un voyage...
 {{% notice style="primary" %}}
 "Le chevalier d'amour" en italien.
 
-Acrostiche : Il cavalier' d'amore
+Acrostiche : Il cavalier' d'amore.
 {{% /notice %}}

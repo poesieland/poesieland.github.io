@@ -6,9 +6,11 @@ weight = 33
 categories = ["Etre"]
 tags = ["philosophie", "1998", "alexandrin"]
 info = """
+
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 """
+
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -51,6 +53,5 @@ Qu'endormira d'un geste une antique pavane...
 {{% notice style="primary" %}}
 
 Les poèmes qui reprennent _la nuit faite mer_ :
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}.
 {{% /notice %}}

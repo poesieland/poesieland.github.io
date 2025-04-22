@@ -28,5 +28,5 @@ Attise encore sa prière :
 Un avion, fol oiseau lointain.
 
 {{% notice style="primary" %}}
-Acrostiche : Un oiseau
+Acrostiche : Un oiseau.
 {{% /notice %}}

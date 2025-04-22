@@ -46,5 +46,5 @@ Regarde nos secrets, sculptures,
 Etreintes sur ton bois sans yeux.
 
 {{% notice style="primary" %}}
-Acrostiche : Le secret de l'arbre
+Acrostiche : Le secret de l'arbre.
 {{% /notice %}}

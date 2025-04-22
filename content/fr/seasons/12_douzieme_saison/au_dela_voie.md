@@ -33,5 +33,5 @@ Immense, une autre nuit s'éclaire et l'écho nous renvoie
 Etrange, douce, une musique accédant l'autre voie.
 
 {{% notice style="primary" %}}
-Acrostiche : Au-delà : voie
+Acrostiche : Au-delà : voie.
 {{% /notice %}}

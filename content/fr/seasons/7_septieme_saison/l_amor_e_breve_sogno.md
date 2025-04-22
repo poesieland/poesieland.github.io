@@ -47,7 +47,7 @@ Né d'immortel souffle qui vibre
 Où ne répondent que douleurs...
 
 {{% notice style="primary" %}}
-D'après la chanson d'Emma Shapplin
+D'après la chanson d'Emma Shapplin.
 
-Acrostiche : L'amor è breve sogno
+Acrostiche : L'amor è breve sogno.
 {{% /notice %}}

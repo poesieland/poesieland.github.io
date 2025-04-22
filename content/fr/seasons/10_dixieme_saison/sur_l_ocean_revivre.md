@@ -46,5 +46,5 @@ Rive d'un continent nacré
 En ton cœur découvert : revivre !
 
 {{% notice style="primary" %}}
-Acrostiche : Sur l'océan : revivre
+Acrostiche : Sur l'océan : revivre.
 {{% /notice %}}

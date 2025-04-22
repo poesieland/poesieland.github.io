@@ -23,5 +23,5 @@ Berce que par l'amour
 En invisible jour.
 
 {{% notice style="primary" %}}
-Acrostiche : A l'aube
+Acrostiche : A l'aube.
 {{% /notice %}}

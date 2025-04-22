@@ -37,5 +37,5 @@ La vague qui se brouille et seconde univers,
 Tourne, berce à mon coeur gratitude ineffable.
 
 {{% notice style="primary" %}}
-En reprenant un beau vers d'un mauvais poème de 1994 : "au bout de son long fil battait un vieux pendule" et en développant enfin l'idée associée
+En reprenant un beau vers d'un mauvais poème de 1994 : "au bout de son long fil battait un vieux pendule" et en développant enfin l'idée associée.
 {{% /notice %}}

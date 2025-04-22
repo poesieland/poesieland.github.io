@@ -24,5 +24,5 @@ Offert, à Ta parole. Et les mains et les vents
 Irradient en mesure, aube a pris les devants.
 
 {{% notice style="primary" %}}
-Acrostiche : Par toi
+Acrostiche : Par toi.
 {{% /notice %}}

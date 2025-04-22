@@ -39,5 +39,5 @@ Refleurissait d'un oubli :
 Toi, ma vie, un seul délit.
 
 {{% notice style="primary" %}}
-Acrostiche : Entre vie et mort
+Acrostiche : Entre vie et mort.
 {{% /notice %}}

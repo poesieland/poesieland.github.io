@@ -37,5 +37,5 @@ Il est là, dans la nuit, et je ne sais encor...
 Riant de mon étoile en ses myriades froides.
 
 {{% notice style="primary" %}}
-Acrostiche : Du gris au noir
+Acrostiche : Du gris au noir.
 {{% /notice %}}

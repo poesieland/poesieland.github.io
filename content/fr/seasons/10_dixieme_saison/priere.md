@@ -27,5 +27,5 @@ Ivre, blanche, la paix,
 Aube, exhale souhaits...
 
 {{% notice style="primary" %}}
-Acrostiche : Ave Maria
+Acrostiche : Ave Maria.
 {{% /notice %}}

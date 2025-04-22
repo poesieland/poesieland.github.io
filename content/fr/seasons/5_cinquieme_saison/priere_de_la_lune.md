@@ -37,5 +37,5 @@ Nuée absente aussi dans l'âme infortunée
 Alors que continue une guerre ici-bas...
 
 {{% notice style="primary" %}}
-Acrostiche : Hijo de la luna
+Acrostiche : Hijo de la luna.
 {{% /notice %}}

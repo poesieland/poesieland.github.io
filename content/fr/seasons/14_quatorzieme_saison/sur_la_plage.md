@@ -34,5 +34,5 @@ Etreinte avant de partir, brève.
 {{% notice style="primary" %}}
 D'après un rêve.
 
-Acrostiche : Sur la plage
+Acrostiche : Sur la plage.
 {{% /notice %}}

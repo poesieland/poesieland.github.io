@@ -32,5 +32,5 @@ Ricochet sur la ville, infini, cet espace
 Etreint la jeune femme en visage qui passe.
 
 {{% notice style="primary" %}}
-Acrostiche : A la fenêtre
+Acrostiche : A la fenêtre.
 {{% /notice %}}

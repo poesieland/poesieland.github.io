@@ -40,5 +40,5 @@ Ne croyant plus au conte insensé de merveilles.
 {{% notice style="primary" %}}
 Un jeu de mot suggère "memoriam éveil".
 
-Acrostiche : Je ne sais rien
+Acrostiche : Je ne sais rien.
 {{% /notice %}}

@@ -64,5 +64,5 @@ Ce fol amant
 Du cimeterre.
 
 {{% notice style="primary" %}}
-Reprise modifiée dans les deux premiers vers, du premier vers d'un [poème de la quatrième saison](../4_quatrieme_saison/a_trop_tourner)
+Reprise modifiée dans les deux premiers vers, du premier vers d'un [poème de la quatrième saison](../4_quatrieme_saison/a_trop_tourner).
 {{% /notice %}}

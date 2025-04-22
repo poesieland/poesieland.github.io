@@ -28,5 +28,5 @@ Il verdoie et s'emporte à la saison scandé :
 Mon coeur et la nature à tout ce bonheur d'être.
 
 {{% notice style="primary" %}}
-Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/ville_de_mes_amours)
+Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/ville_de_mes_amours).
 {{% /notice %}}

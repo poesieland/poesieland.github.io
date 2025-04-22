@@ -46,5 +46,5 @@ O mais ne laissons plus les paroles en cage !
 Image imaginaire à l'ombre d'amitié.
 
 {{% notice style="primary" %}}
-Acrostiche : Nostalgique de toi
+Acrostiche : Nostalgique de toi.
 {{% /notice %}}

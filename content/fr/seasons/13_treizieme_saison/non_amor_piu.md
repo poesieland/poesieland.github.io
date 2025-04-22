@@ -34,5 +34,5 @@ Un parfum fané sans détresse.
 {{% notice style="primary" %}}
 "(Il n'y a) plus d'amour" en italien.
 
-Acrostiche : Non amor più
+Acrostiche : Non amor più.
 {{% /notice %}}

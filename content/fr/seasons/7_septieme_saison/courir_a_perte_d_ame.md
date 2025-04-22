@@ -31,5 +31,5 @@ Perdre l'âme à courir, étonner l'existence.
 {{% notice style="primary" %}}
 Cet acrostiche très particulier, par jeu, se veut croisé, sur la première lettre du poème puis celle de la césure... Courir à p - erte d'âme...
 
-Acrostiche : Courir à perte d'âme
+Acrostiche : Courir à perte d'âme.
 {{% /notice %}}

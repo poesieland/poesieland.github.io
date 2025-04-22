@@ -46,5 +46,5 @@ Un murmure de vivre
 Ravit l'espoir vainqueur !
 
 {{% notice style="primary" %}}
-Acrostiche : On m'a cousu le cœur
+Acrostiche : On m'a cousu le cœur.
 {{% /notice %}}

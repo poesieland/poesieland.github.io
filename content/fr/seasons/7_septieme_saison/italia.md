@@ -23,5 +23,5 @@ Intimité puissante à l'ombre des déesses,
 Aube au creux de ce jour où chantonnent caresses...
 
 {{% notice style="primary" %}}
-Acrostiche : Italia
+Acrostiche : Italia.
 {{% /notice %}}

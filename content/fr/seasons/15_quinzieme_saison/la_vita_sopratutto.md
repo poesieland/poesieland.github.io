@@ -49,5 +49,5 @@ Ouvriront lendemains dociles.
 {{% notice style="primary" %}}
 "La vie par-dessus tout" en italien.
 
-Acrostiche : La vita sopratutto
+Acrostiche : La vita sopratutto.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Nos chemins de sa voix si grise...
 Sur l'hiver sans fin je rimais.
 
 {{% notice style="primary" %}}
-Acrostiche : Je me souviens
+Acrostiche : Je me souviens.
 {{% /notice %}}

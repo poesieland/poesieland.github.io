@@ -37,5 +37,5 @@ Et sur la ligne encor
 Elle s'enfuit, tracée.
 
 {{% notice style="primary" %}}
-Acrostiche : L'encre tracée
+Acrostiche : L'encre tracée.
 {{% /notice %}}

@@ -5,10 +5,12 @@ date = 1998-08-05
 weight = 21
 categories = ["Création"]
 tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
-info = """Dernier poème de mon recueil En six lettres : t'aimer.
+info = """
+Dernier poème de mon recueil En six lettres : t'aimer.
 
 [Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant)
 """
+
 acrostiche = "Andrea Andrea"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -43,8 +45,7 @@ A l'ombre où l'ombre se défait.
 {{% notice style="primary" %}}
 Dernier poème de mon recueil En six lettres : t'aimer.
 
-[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant)
+[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant).
 
-
-Acrostiche : Andrea Andrea
+Acrostiche : Andrea Andrea.
 {{% /notice %}}

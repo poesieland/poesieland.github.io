@@ -28,5 +28,5 @@ O muet, triste et sourd, expirant son ennui,
 N'entends-tu pas ce cœur, ombre à chaque seconde ?
 
 {{% notice style="primary" %}}
-Acrostiche : L'abandon
+Acrostiche : L'abandon.
 {{% /notice %}}

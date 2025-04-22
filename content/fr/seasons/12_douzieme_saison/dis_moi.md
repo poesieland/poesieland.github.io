@@ -23,5 +23,5 @@ Ouvragé le sabot dit chance
 Invitée au matin, naissance.
 
 {{% notice style="primary" %}}
-Acrostiche : Dis-moi
+Acrostiche : Dis-moi.
 {{% /notice %}}

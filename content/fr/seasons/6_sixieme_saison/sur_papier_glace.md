@@ -39,5 +39,5 @@ Car je referme le livret
 Encore humide d'un secret.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur papier glacé
+Acrostiche : Sur papier glacé.
 {{% /notice %}}

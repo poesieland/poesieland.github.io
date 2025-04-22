@@ -55,5 +55,5 @@ Et j'étrenne l'envie :
 Survoler libertés.
 
 {{% notice style="primary" %}}
-Acrostiche : Pour déployer mes ailes
+Acrostiche : Pour déployer mes ailes.
 {{% /notice %}}

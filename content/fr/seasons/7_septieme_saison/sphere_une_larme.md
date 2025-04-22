@@ -41,5 +41,5 @@ Moirée à l'océan d'images...
 Elle est... la sphère des visages !
 
 {{% notice style="primary" %}}
-Acrostiche : Sphère, une larme
+Acrostiche : Sphère, une larme.
 {{% /notice %}}

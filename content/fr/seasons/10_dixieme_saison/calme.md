@@ -37,5 +37,5 @@ Etreint, la nuit demeure
 Silencieuse à présent.
 
 {{% notice style="primary" %}}
-Acrostiche : Calme, prières
+Acrostiche : Calme, prières.
 {{% /notice %}}

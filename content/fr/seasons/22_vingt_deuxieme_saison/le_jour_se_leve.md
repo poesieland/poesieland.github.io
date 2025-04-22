@@ -7,8 +7,8 @@ categories = ["Aube", "Ciel"]
 tags = ["ombres et lumières", "nature", "2024", "tétrasyllabe"]
 info = """
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-"""
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -40,8 +40,6 @@ Où rose et parme
 Sont teintes soeurs.
 
 {{% notice style="primary" %}}
-
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

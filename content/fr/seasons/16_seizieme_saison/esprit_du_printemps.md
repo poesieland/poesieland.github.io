@@ -46,5 +46,5 @@ Mirages du printemps : timide
 Saison sous mes regards rôdeurs.
 
 {{% notice style="primary" %}}
-Acrostiche : Esprit du printemps
+Acrostiche : Esprit du printemps.
 {{% /notice %}}

@@ -19,5 +19,5 @@ Le soir assagi, plus long
 Etendu sur les deux rives.
 
 {{% notice style="primary" %}}
-Acrostiche : Mêlé
+Acrostiche : Mêlé.
 {{% /notice %}}

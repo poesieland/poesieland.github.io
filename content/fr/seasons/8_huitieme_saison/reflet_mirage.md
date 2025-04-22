@@ -37,5 +37,5 @@ Gris... matin calme à l'automne trahit
 En sa volute un fol secret : mirage...
 
 {{% notice style="primary" %}}
-Acrostiche : Reflet : mirage
+Acrostiche : Reflet : mirage.
 {{% /notice %}}

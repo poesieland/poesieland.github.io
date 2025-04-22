@@ -50,5 +50,5 @@ Rassemblé sur la Terre est au Ciel un décor.
 {{% notice style="primary" %}}
 "Arc-en-ciel prière" en italien. Inspiré en partie par une chanson, "Ave Maria no morro", dans la version des paroles chantées par Andrea Bocelli.
 
-Acrostiche : Arcobaleno preghier'
+Acrostiche : Arcobaleno preghier'.
 {{% /notice %}}

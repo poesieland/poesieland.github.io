@@ -37,5 +37,5 @@ Unie à l'ombre dans la brume :
 Se revoir : un défi vaurien.
 
 {{% notice style="primary" %}}
-Acrostiche : Le ciel et nous
+Acrostiche : Le ciel et nous.
 {{% /notice %}}

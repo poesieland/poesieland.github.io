@@ -37,5 +37,5 @@ Un éclat doux, dans cette ivresse
 Rêvez nos cœurs, nos corps amis !
 
 {{% notice style="primary" %}}
-Acrostiche : Au nom du cœur
+Acrostiche : Au nom du cœur.
 {{% /notice %}}

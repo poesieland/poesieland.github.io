@@ -37,5 +37,5 @@ Eteint, frémi, tu, le souvenir, trop tard...
 Retenir avant; oublier, tout s'échappe.
 
 {{% notice style="primary" %}}
-Acrostiche : Ne pas oublier
+Acrostiche : Ne pas oublier.
 {{% /notice %}}

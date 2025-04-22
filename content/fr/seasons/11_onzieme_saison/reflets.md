@@ -31,5 +31,5 @@ En l'aquatique sein qui se marie à l'air
 Le chant de l'exilé soleil d'un soir si cher...
 
 {{% notice style="primary" %}}
-Acrostiche : Arcs-en-ciel
+Acrostiche : Arcs-en-ciel.
 {{% /notice %}}

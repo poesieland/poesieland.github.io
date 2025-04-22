@@ -46,5 +46,5 @@ Naïf et mon coeur est friand,
 Emu, des farces de ce pitre.
 
 {{% notice style="primary" %}}
-Acrostiche : On reparle : automne
+Acrostiche : On reparle : automne.
 {{% /notice %}}

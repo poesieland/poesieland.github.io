@@ -37,5 +37,5 @@ J'éblouis, irisé,
 D'un poème !
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 3
+Métrique variable : 6, 3.
 {{% /notice %}}

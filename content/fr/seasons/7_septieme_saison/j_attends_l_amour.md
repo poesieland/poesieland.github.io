@@ -39,5 +39,5 @@ Un grand désir où se confondent
 Rires et pleurs, aubes fécondes !
 
 {{% notice style="primary" %}}
-Acrostiche : J'attends l'amour
+Acrostiche : J'attends l'amour.
 {{% /notice %}}

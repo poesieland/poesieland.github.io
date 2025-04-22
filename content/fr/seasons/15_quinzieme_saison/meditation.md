@@ -31,5 +31,5 @@ Où pause sens apaisé,
 Nue âme mage au baiser.
 
 {{% notice style="primary" %}}
-Acrostiche : Méditation
+Acrostiche : Méditation.
 {{% /notice %}}

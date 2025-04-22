@@ -46,5 +46,5 @@ Nos sens liés dans l'intime prière
 Entendront-ils le cri du parchemin ?
 
 {{% notice style="primary" %}}
-Acrostiche : Quand l'heure sonne
+Acrostiche : Quand l'heure sonne.
 {{% /notice %}}

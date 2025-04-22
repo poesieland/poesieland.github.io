@@ -46,5 +46,5 @@ Le dernier règne,
 Chemins et murets.
 
 {{% notice style="primary" %}}
-Le thème de la disparition traité de façon surréaliste en descendant vers le règne minéral
+Le thème de la disparition traité de façon surréaliste en descendant vers le règne minéral.
 {{% /notice %}}

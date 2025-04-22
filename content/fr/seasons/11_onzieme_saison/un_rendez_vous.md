@@ -37,5 +37,5 @@ Un sourire plus prodigue :
 Sur un banc viens, je t'attends.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rendez-vous
+Acrostiche : Un rendez-vous.
 {{% /notice %}}

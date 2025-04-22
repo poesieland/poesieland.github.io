@@ -31,5 +31,5 @@ En ce silence qui scintille.
 {{% notice style="primary" %}}
 Les Alpes...
 
-Acrostiche : Sérénité
+Acrostiche : Sérénité.
 {{% /notice %}}

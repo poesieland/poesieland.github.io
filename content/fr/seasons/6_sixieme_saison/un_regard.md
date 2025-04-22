@@ -28,5 +28,5 @@ Reprend son vol en son espoir entier,
 Donne ses mains et le sens de ce rêve.
 
 {{% notice style="primary" %}}
-Acrostiche : Un regard
+Acrostiche : Un regard.
 {{% /notice %}}

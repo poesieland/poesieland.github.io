@@ -37,5 +37,5 @@ Il verra l'amour s'éclôt,
 Tes mains berceront leur cloche...
 
 {{% notice style="primary" %}}
-Acrostiche : Peur de la nuit
+Acrostiche : Peur de la nuit.
 {{% /notice %}}

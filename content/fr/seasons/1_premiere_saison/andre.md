@@ -55,5 +55,5 @@ Et dans nos yeux soudain des flammes,
 Je lui soufflai : "Je t'aime André".
 
 {{% notice style="primary" %}}
-Reprise en 1995/1996 d'un poème de 1994
+Reprise en 1995/1996 d'un poème de 1994.
 {{% /notice %}}

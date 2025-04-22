@@ -41,5 +41,5 @@ Echappée au berceau mutin :
 Sourire, la mer au matin.
 
 {{% notice style="primary" %}}
-Acrostiche : Entre les vagues
+Acrostiche : Entre les vagues.
 {{% /notice %}}

@@ -28,5 +28,5 @@ Où le soleil du soir éteignant sa lanterne
 Naît mystère oublié perdu sans lendemain.
 
 {{% notice style="primary" %}}
-Acrostiche : La saison
+Acrostiche : La saison.
 {{% /notice %}}

@@ -39,5 +39,5 @@ Eternelle ombre à corps perdu
 Seule d'oubli, malentendu...
 
 {{% notice style="primary" %}}
-Acrostiche : Un parmi d'autres
+Acrostiche : Un parmi d'autres.
 {{% /notice %}}

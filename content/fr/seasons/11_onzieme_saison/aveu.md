@@ -28,5 +28,5 @@ Une immortelle envie
 Reflet pur d'un instant.
 
 {{% notice style="primary" %}}
-Acrostiche : Au détour
+Acrostiche : Au détour.
 {{% /notice %}}

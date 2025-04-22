@@ -37,5 +37,5 @@ En ce moment plus vif
 Les beaux jours me connectent.
 
 {{% notice style="primary" %}}
-Reprise modifiée des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/j_aime_te_voir)
+Reprise modifiée des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/j_aime_te_voir).
 {{% /notice %}}

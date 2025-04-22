@@ -46,5 +46,5 @@ Intensifie émoi grisé,
 Offrande où le vent me pardonne.
 
 {{% notice style="primary" %}}
-Acrostiche : L'autunno, dolce mio
+Acrostiche : L'autunno, dolce mio.
 {{% /notice %}}

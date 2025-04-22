@@ -23,5 +23,5 @@ Rassemble une berceuse
 Sur les toits, amoureuse...
 
 {{% notice style="primary" %}}
-Acrostiche : Dehors
+Acrostiche : Dehors.
 {{% /notice %}}

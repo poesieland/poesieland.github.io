@@ -37,5 +37,5 @@ Mésange aux souffles qui raniment
 Etreinte d'un printemps troublé.
 
 {{% notice style="primary" %}}
-Acrostiche : En toi j'ai aimé
+Acrostiche : En toi j'ai aimé.
 {{% /notice %}}

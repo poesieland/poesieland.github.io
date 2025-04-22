@@ -37,5 +37,5 @@ Rosis, les cieux délient :
 Encres de nos amours.
 
 {{% notice style="primary" %}}
-Acrostiche : L'amour tendre
+Acrostiche : L'amour tendre.
 {{% /notice %}}

@@ -46,5 +46,5 @@ O ce ne sont que mes sanglots
 Irradiés de cette aventure !
 
 {{% notice style="primary" %}}
-Acrostiche : J'ai trop rêvé de toi
+Acrostiche : J'ai trop rêvé de toi.
 {{% /notice %}}

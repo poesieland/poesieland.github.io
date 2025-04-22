@@ -39,5 +39,5 @@ Image de toi-même et de malheurs prédits,
 Sourire d'un destin quand en moi tu grandis.
 
 {{% notice style="primary" %}}
-Acrostiche : Quand tu grandis
+Acrostiche : Quand tu grandis.
 {{% /notice %}}

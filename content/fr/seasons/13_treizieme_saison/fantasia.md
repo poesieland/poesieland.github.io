@@ -28,5 +28,5 @@ Intimité se bercerait
 A sa simplicité synchrone.
 
 {{% notice style="primary" %}}
-Acrostiche : Fantasia
+Acrostiche : Fantasia.
 {{% /notice %}}

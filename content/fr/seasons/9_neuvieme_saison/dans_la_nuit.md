@@ -33,5 +33,5 @@ Illuminé d'étoile et de parfum si proches,
 Tiens dans tes mains la nuit quand tes pas s'y raccrochent.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans la nuit
+Acrostiche : Dans la nuit.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Et dans l'immense espace
 Retentis en gaîtés !
 
 {{% notice style="primary" %}}
-Acrostiche : Soleil d'hiver
+Acrostiche : Soleil d'hiver.
 {{% /notice %}}

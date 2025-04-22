@@ -6,9 +6,10 @@ weight = 45
 categories = ["Automne"]
 tags = ["saisons", "1997", "octosyllabe"]
 info = """
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-"""
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -42,6 +43,5 @@ Ravir le soir et sa lumière !
 {{% notice style="primary" %}}
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}.
 {{% /notice %}}

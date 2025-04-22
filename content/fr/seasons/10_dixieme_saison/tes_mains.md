@@ -27,5 +27,5 @@ Nus en ta paume dévoilés
 Signes et destins envolés.
 
 {{% notice style="primary" %}}
-Acrostiche : Tes mains
+Acrostiche : Tes mains.
 {{% /notice %}}

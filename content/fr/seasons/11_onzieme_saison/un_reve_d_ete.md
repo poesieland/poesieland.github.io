@@ -31,5 +31,5 @@ Très loin sur la grève
 Emerveille un rêve.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rêve d'été
+Acrostiche : Un rêve d'été.
 {{% /notice %}}

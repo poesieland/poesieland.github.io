@@ -28,5 +28,5 @@ Ivre au vent sans couleur,
 Serment d'esprit qui passe...
 
 {{% notice style="primary" %}}
-Acrostiche : Je ne sais
+Acrostiche : Je ne sais.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Lèvent, nous bercent et puis fanent,
 Etreintes à jamais... en fruits.
 
 {{% notice style="primary" %}}
-Acrostiche : Comme toi, aile
+Acrostiche : Comme toi, aile.
 {{% /notice %}}

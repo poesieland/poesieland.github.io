@@ -39,5 +39,5 @@ Lance l'appel où le silence
 Elève cette ode à l'absence.
 
 {{% notice style="primary" %}}
-Acrostiche : Spente le stelle (titre d'une chanson)
+Acrostiche : Spente le stelle (titre d'une chanson).
 {{% /notice %}}

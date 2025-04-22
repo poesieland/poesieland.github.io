@@ -46,5 +46,5 @@ De moi le temps n'a prise
 Sur l'esprit du bonheur.
 
 {{% notice style="primary" %}}
-Les états d'âme d'une catherinette
+Les états d'âme d'une catherinette.
 {{% /notice %}}

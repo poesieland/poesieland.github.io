@@ -39,5 +39,5 @@ Et ce parfum que j'emporte sur moi
 Sourit de vous, chaste nouvel émoi.
 
 {{% notice style="primary" %}}
-Acrostiche : Traces des lèvres
+Acrostiche : Traces des lèvres.
 {{% /notice %}}

@@ -31,5 +31,5 @@ Gloire  du temps, mon cœur défait
 En ces rides d'un air parfait.
 
 {{% notice style="primary" %}}
-Acrostiche : Monts : image
+Acrostiche : Monts : image.
 {{% /notice %}}

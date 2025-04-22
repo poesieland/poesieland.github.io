@@ -40,5 +40,5 @@ Or le temps venu dit ce dernier poème.
 {{% notice style="primary" %}}
 "Quand je serai (moi)" en italien.
 
-Acrostiche : Quando sarò io
+Acrostiche : Quando sarò io.
 {{% /notice %}}

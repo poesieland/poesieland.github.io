@@ -28,5 +28,5 @@ Offre ton cœur en réponse frivole :
 Incolore en sa couleur, indécent !
 
 {{% notice style="primary" %}}
-Acrostiche : Liée à toi
+Acrostiche : Liée à toi.
 {{% /notice %}}

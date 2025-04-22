@@ -67,5 +67,5 @@ Offerts d'invisible prière.
 {{% notice style="primary" %}}
 "Quand le jour sera nôtre" en italien.
 
-Acrostiche : Quando il giorno sarà nostro
+Acrostiche : Quando il giorno sarà nostro.
 {{% /notice %}}

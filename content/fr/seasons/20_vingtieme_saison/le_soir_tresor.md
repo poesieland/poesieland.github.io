@@ -37,5 +37,5 @@ Où je promène et vire
 Rieuse : un soir est là.
 
 {{% notice style="primary" %}}
-Acrostiche : Le soir, trésor
+Acrostiche : Le soir, trésor.
 {{% /notice %}}

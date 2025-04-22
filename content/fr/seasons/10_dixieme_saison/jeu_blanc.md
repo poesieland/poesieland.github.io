@@ -28,5 +28,5 @@ Neige miraculeuse enlève en sa douceur
 Caresse, frisson, jeu de notre intime trace.
 
 {{% notice style="primary" %}}
-Acrostiche : Jeu blanc
+Acrostiche : Jeu blanc.
 {{% /notice %}}

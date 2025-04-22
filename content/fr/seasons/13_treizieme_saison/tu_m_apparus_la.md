@@ -37,5 +37,5 @@ Libère tout ce qui m'empoigne...
 A toi reste le cœur entier.
 
 {{% notice style="primary" %}}
-Acrostiche : Tu m'apparus là
+Acrostiche : Tu m'apparus là.
 {{% /notice %}}

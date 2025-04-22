@@ -37,5 +37,5 @@ Route sans guide en son atour
 Tourmenté... traces de mémoire.
 
 {{% notice style="primary" %}}
-Acrostiche : Il n'est de port
+Acrostiche : Il n'est de port.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Aux rives de ce rêve il dit : tout est permis,
 Insensé quand s'envole une étoile brûlée.
 
 {{% notice style="primary" %}}
-Acrostiche : Je t'attendrai
+Acrostiche : Je t'attendrai.
 {{% /notice %}}

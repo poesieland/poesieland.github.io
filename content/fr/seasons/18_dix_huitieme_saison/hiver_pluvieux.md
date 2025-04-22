@@ -64,5 +64,5 @@ Humide hégémonie,
 Cesse, pluie ! A ton tour !
 
 {{% notice style="primary" %}}
-En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂
+En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂.
 {{% /notice %}}

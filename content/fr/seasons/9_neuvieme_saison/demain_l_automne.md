@@ -40,5 +40,5 @@ Nouveaux les tourbillons et les branches m'accueillent
 Et la saison résonne en ma prison de feuilles.
 
 {{% notice style="primary" %}}
-Acrostiche : Demain l'automne
+Acrostiche : Demain l'automne.
 {{% /notice %}}

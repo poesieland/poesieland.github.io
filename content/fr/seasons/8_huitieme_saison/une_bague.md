@@ -28,5 +28,5 @@ Un cercle de bonheur qu'un orfèvre fit naître :
 Entrelaçons alors notre cœur germinal.
 
 {{% notice style="primary" %}}
-Acrostiche : Une bague
+Acrostiche : Une bague.
 {{% /notice %}}

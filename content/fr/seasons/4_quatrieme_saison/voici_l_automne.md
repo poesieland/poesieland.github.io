@@ -46,5 +46,5 @@ En chanson folle éprise,
 Bonheur au clos de l'avenir !
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 8
+Métrique variable : 6, 8.
 {{% /notice %}}

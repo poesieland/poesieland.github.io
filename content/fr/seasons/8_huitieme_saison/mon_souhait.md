@@ -31,5 +31,5 @@ Illumine couleur, essence,
 Trouble de joie une existence !
 
 {{% notice style="primary" %}}
-Acrostiche : Mon souhait
+Acrostiche : Mon souhait.
 {{% /notice %}}

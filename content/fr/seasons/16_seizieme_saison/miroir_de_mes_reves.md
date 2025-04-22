@@ -47,5 +47,5 @@ Espère un courant plus fertile
 Serti des chants de l'horizon.
 
 {{% notice style="primary" %}}
-Acrostiche : Miroir de mes rêves
+Acrostiche : Miroir de mes rêves.
 {{% /notice %}}

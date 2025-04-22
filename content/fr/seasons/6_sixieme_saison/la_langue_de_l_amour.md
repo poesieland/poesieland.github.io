@@ -46,5 +46,5 @@ Une trame qui se défait :
 Rien au conditionnel n'est tendre !
 
 {{% notice style="primary" %}}
-Acrostiche : La langue de l'amour
+Acrostiche : La langue de l'amour.
 {{% /notice %}}

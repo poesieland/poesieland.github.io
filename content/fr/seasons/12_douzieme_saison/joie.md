@@ -19,5 +19,5 @@ Invitant l'oiseau, j'offrirais
 En une image, ce poème.
 
 {{% notice style="primary" %}}
-Acrostiche : Joie
+Acrostiche : Joie.
 {{% /notice %}}

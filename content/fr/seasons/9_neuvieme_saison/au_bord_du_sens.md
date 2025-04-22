@@ -46,5 +46,5 @@ Rêvé, fugitif
 En sa délivrance.
 
 {{% notice style="primary" %}}
-Acrostiche : Au bord du sens ivre
+Acrostiche : Au bord du sens ivre.
 {{% /notice %}}

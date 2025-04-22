@@ -46,5 +46,5 @@ Nue, une fleur entonne
 Triste, un refrain fêlé.
 
 {{% notice style="primary" %}}
-Acrostiche : Si les roses fanent
+Acrostiche : Si les roses fanent.
 {{% /notice %}}

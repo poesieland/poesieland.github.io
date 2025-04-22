@@ -40,5 +40,5 @@ Offert en musique fragile.
 {{% notice style="primary" %}}
 En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999).
 
-Acrostiche : Adios artisto
+Acrostiche : Adios artisto.
 {{% /notice %}}

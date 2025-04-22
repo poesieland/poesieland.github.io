@@ -37,5 +37,5 @@ Mêle la nuit, le monde. Et l'âme en sa ratière
 Evanouit le temps pour créer d'autres dieux.
 
 {{% notice style="primary" %}}
-Acrostiche : Songes de l'âme
+Acrostiche : Songes de l'âme.
 {{% /notice %}}

@@ -5,9 +5,11 @@ date = 1998-01-19
 weight = 3
 categories = ["Passion"]
 tags = ["amour", "1998", "acrostiche", "octosyllabe"]
-info = """Premier poème de mon recueil En six lettres : t'aimer.
+info = """
+Premier poème de mon recueil En six lettres : t'aimer.
 
 Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli."""
+
 acrostiche = "Andrea Andrea"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -44,5 +46,5 @@ Premier poème de mon recueil En six lettres : t'aimer.
 
 Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli.
 
-Acrostiche : Andrea Andrea
+Acrostiche : Andrea Andrea.
 {{% /notice %}}

@@ -28,5 +28,5 @@ Reviendrez-vous, reviendrez-vous ?
 Essaime un air qui s'enamoure.
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : L'air / créé
+Acrostiche double (lignes paires et impaires) : L'air / créé.
 {{% /notice %}}

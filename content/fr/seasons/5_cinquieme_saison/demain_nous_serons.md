@@ -5,11 +5,13 @@ date = 1997-11-21
 weight = 23
 categories = ["Temps", "Apprentissage"]
 tags = ["philosophie", "1997", "acrostiche", "alexandrin"]
-info = """Dédié à mon neveu Louis.
+info = """
+Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
+
 acrostiche = "Demain nous serons"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,7 +57,7 @@ Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 
-{{% include "../../includes/demain_etre" hidefirstheading %}}
+{{% include "../../includes/demain_etre" hidefirstheading %}}.
 
-Acrostiche : Demain nous serons
+Acrostiche : Demain nous serons.
 {{% /notice %}}

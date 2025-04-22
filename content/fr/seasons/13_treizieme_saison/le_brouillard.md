@@ -37,5 +37,5 @@ Rêvant ses étoiles
 De gouttes perlé.
 
 {{% notice style="primary" %}}
-Acrostiche : Le brouillard
+Acrostiche : Le brouillard.
 {{% /notice %}}

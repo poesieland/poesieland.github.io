@@ -27,5 +27,5 @@ Iras-tu cueillir cette étoile ?
 Sous la lune les mots sans voile.
 
 {{% notice style="primary" %}}
-Acrostiche : Tu ne sais
+Acrostiche : Tu ne sais.
 {{% /notice %}}

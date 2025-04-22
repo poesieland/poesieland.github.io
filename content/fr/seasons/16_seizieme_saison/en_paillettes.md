@@ -37,5 +37,5 @@ Etreindront le bonheur en pas qui ne se pressent,
 Silence, heure apaisée, et ma main dans ta main.
 
 {{% notice style="primary" %}}
-Acrostiche : En paillettes
+Acrostiche : En paillettes.
 {{% /notice %}}

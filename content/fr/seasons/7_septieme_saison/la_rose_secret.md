@@ -37,5 +37,5 @@ Embrumée en tiédeur vive, ouverte, élancée,
 Timide encor d'un rêve où mon âme rira...
 
 {{% notice style="primary" %}}
-Acrostiche : La rose : secret
+Acrostiche : La rose : secret.
 {{% /notice %}}

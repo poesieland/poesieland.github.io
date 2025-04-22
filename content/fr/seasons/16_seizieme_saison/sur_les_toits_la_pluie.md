@@ -47,5 +47,5 @@ Incrustations de gouttes.
 Eternités se voûtent.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur les toits la pluie
+Acrostiche : Sur les toits la pluie.
 {{% /notice %}}

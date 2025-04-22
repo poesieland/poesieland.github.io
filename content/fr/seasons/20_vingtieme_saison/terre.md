@@ -64,5 +64,5 @@ Coupelle
 D'un sacrifice vainqueur.
 
 {{% notice style="primary" %}}
-Métrique variable : 2, 7
+Métrique variable : 2, 7.
 {{% /notice %}}

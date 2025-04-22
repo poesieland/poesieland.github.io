@@ -60,5 +60,5 @@ Généreux par bonté.
 {{< figure src="/images/automne_genereux_18_1.jpg" title="Le Ravel le 3 novembre 2023" >}}
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 3
+Métrique variable : 6, 3.
 {{% /notice %}}

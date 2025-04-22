@@ -40,5 +40,5 @@ Attachant.
 {{< figure src="/images/couchant_21_0.jpg" title="Le 01.09.2024" >}}
 
 {{% notice style="primary" %}}
-Métrique variable : 5, 3
+Métrique variable : 5, 3.
 {{% /notice %}}

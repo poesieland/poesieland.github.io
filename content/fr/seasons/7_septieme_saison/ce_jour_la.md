@@ -46,5 +46,5 @@ Il n'en resterait plus qu'un ancien jour charmé,
 Seras-tu d'un adieu le dernier mot du livre ?
 
 {{% notice style="primary" %}}
-Acrostiche : Ce jour-là tu disais
+Acrostiche : Ce jour-là tu disais.
 {{% /notice %}}

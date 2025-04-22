@@ -37,5 +37,5 @@ Glace sans tain, l'image
 Embrassée entendit...
 
 {{% notice style="primary" %}}
-Acrostiche : Au-delà : voyage
+Acrostiche : Au-delà : voyage.
 {{% /notice %}}

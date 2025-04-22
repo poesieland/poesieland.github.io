@@ -37,5 +37,5 @@ L'aube se lance
 Entre moi, lui.
 
 {{% notice style="primary" %}}
-Acrostiche : Aube muraille
+Acrostiche : Aube muraille.
 {{% /notice %}}

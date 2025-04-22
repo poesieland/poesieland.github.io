@@ -41,5 +41,5 @@ Un culte ne sied guère à l'espace promis.
 Raisonnable, homme, ciel, vent, fleuve, feu, fourmis.
 
 {{% notice style="primary" %}}
-Acrostiche : Prends mon cœur
+Acrostiche : Prends mon cœur.
 {{% /notice %}}

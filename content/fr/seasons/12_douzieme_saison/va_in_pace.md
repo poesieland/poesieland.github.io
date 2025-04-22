@@ -28,5 +28,5 @@ Ce qu'on attend encore
 En sacre : souvenir.
 
 {{% notice style="primary" %}}
-Acrostiche : Va in pace
+Acrostiche : Va in pace.
 {{% /notice %}}

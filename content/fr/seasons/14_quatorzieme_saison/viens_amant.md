@@ -31,5 +31,5 @@ Onde fluide, intime écrit
 Impossible silence, cri.
 
 {{% notice style="primary" %}}
-Acrostiche : Viens en moi
+Acrostiche : Viens en moi.
 {{% /notice %}}

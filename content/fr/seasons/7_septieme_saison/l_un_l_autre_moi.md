@@ -37,5 +37,5 @@ Offert s'élance :
 Il dit présence.
 
 {{% notice style="primary" %}}
-Acrostiche : L'un, l'autre, moi
+Acrostiche : L'un, l'autre, moi.
 {{% /notice %}}

@@ -44,5 +44,5 @@ Exister, les lendemains...
 {{% notice style="primary" %}}
 "Vivre dans l'art" en italien.
 
-Acrostiche : Vivere nell'arte
+Acrostiche : Vivere nell'arte.
 {{% /notice %}}

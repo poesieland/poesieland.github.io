@@ -43,5 +43,5 @@ Entre le sortilège et le bonheur fatal,
 Rire d'hiver où l'âme affleure en traces brèves...
 
 {{% notice style="primary" %}}
-Acrostiche : Souffles d'hiver
+Acrostiche : Souffles d'hiver.
 {{% /notice %}}

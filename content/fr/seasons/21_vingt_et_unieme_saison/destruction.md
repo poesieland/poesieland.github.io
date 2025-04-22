@@ -7,8 +7,8 @@ categories = ["Automne", "Eté", "Climat", "Angoisse"]
 tags = ["saisons", "nature", "philosophie", "2024", "octosyllabe"]
 info = """
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-"""
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -40,8 +40,6 @@ L'été se meurt comme un bagnard
 Tout lessivé, vert, pathétique.
 
 {{% notice style="primary" %}}
-
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}.
 {{% /notice %}}

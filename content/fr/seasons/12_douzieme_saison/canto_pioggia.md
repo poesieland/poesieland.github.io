@@ -40,5 +40,5 @@ Au diamant ravivé le sourire en ses rais.
 {{% notice style="primary" %}}
 "Chant, pluie" en italien.
 
-Acrostiche : Canto, pioggia
+Acrostiche : Canto, pioggia.
 {{% /notice %}}

@@ -37,5 +37,5 @@ Imaginaire l'astre où la mésange arrose
 Sa note bleue, amour, tout cet amour autour...
 
 {{% notice style="primary" %}}
-Acrostiche : Comme j'aimais
+Acrostiche : Comme j'aimais.
 {{% /notice %}}

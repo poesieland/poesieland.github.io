@@ -28,5 +28,5 @@ Riche à la vie, entier
 Est une seule image !
 
 {{% notice style="primary" %}}
-Acrostiche : Je t'offre
+Acrostiche : Je t'offre.
 {{% /notice %}}

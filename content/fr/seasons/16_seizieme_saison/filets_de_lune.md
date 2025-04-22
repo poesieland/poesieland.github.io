@@ -37,5 +37,5 @@ Nouvelle attise astre vainqueur
 En son céleste ressac, horde.
 
 {{% notice style="primary" %}}
-Acrostiche : Filets de lune
+Acrostiche : Filets de lune.
 {{% /notice %}}

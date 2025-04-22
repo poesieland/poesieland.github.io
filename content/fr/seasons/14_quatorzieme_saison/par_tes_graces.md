@@ -37,5 +37,5 @@ En tes prières temps s'envole,
 Sacré dans l'air, la foi jaillit.
 
 {{% notice style="primary" %}}
-Acrostiche : Par tes grâces
+Acrostiche : Par tes grâces.
 {{% /notice %}}

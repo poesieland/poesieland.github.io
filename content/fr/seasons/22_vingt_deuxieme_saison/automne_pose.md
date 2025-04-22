@@ -5,9 +5,11 @@ date = 2024-10-27
 weight = 34
 categories = ["Automne"]
 tags = ["saisons", "2024", "octosyllabe"]
-info = """Les poèmes qui commencent par la variante principale du premier vers...
+info = """
+Les poèmes qui commencent par la variante principale du premier vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 """
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -40,6 +42,5 @@ Chanson de feuille jaune et rousse !
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par la variante principale du premier vers...
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}.
 {{% /notice %}}

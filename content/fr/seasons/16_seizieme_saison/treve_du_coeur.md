@@ -37,5 +37,5 @@ Un coeur ne sait, soir courtisan
 Rêve l'automne comme soie.
 
 {{% notice style="primary" %}}
-Acrostiche : Trêve du coeur
+Acrostiche : Trêve du coeur.
 {{% /notice %}}

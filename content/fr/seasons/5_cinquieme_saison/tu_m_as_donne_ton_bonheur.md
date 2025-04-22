@@ -55,5 +55,5 @@ Ultime baiser troublant
 Ravit l'âme vaporeuse !
 
 {{% notice style="primary" %}}
-Acrostiche : Tu m'as donné ton bonheur
+Acrostiche : Tu m'as donné ton bonheur.
 {{% /notice %}}

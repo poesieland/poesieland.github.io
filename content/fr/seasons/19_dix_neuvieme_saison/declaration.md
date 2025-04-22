@@ -35,5 +35,5 @@ Je t'aimais, je t'aime et mon coeur explose
 Pour crier au monde amour qui s'impose.
 
 {{% notice style="primary" %}}
-Inspiré par la chanson de Francis Cabrel [Je t'aimais, je t'aime, je t'aimerai](https://www.google.com/search?q=je+t%27aimais+je+t%27aime+je+t%27aimerai)
+Inspiré par la chanson de Francis Cabrel [Je t'aimais, je t'aime, je t'aimerai](https://www.google.com/search?q=je+t%27aimais+je+t%27aime+je+t%27aimerai).
 {{% /notice %}}

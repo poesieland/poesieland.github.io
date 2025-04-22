@@ -37,5 +37,5 @@ En ta nuit l'émoi
 Sur ton disque pâle...
 
 {{% notice style="primary" %}}
-Acrostiche : Lune, tu danses
+Acrostiche : Lune, tu danses.
 {{% /notice %}}

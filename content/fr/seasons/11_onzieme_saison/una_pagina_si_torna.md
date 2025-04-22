@@ -49,5 +49,5 @@ Adieu ! Tu ne sais que je ne te revois !
 {{% notice style="primary" %}}
 "Une page se tourne" en italien.
 
-Acrostiche : Una pagina si torna
+Acrostiche : Una pagina si torna.
 {{% /notice %}}

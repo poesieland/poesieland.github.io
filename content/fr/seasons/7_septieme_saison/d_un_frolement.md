@@ -37,5 +37,5 @@ Noces, mots au crépuscule,
 Ta lèvre au vent déposé.
 
 {{% notice style="primary" %}}
-Acrostiche : D'un frôlement
+Acrostiche : D'un frôlement.
 {{% /notice %}}

@@ -31,5 +31,5 @@ Troublant la lune en ses pénates,
 Elle est musique, âme, sonates !
 
 {{% notice style="primary" %}}
-Acrostiche : Elle : sonate
+Acrostiche : Elle : sonate.
 {{% /notice %}}

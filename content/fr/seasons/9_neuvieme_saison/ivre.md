@@ -19,5 +19,5 @@ Ravis au suprême bonheur :
 Eternelles voix se répondent.
 
 {{% notice style="primary" %}}
-Acrostiche : Ivre
+Acrostiche : Ivre.
 {{% /notice %}}

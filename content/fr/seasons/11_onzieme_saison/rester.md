@@ -5,11 +5,12 @@ date = 1999-04-01
 weight = 2
 categories = ["Temps"]
 tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
-info = """"Tu es beau" en italien.
+info = """
+"Tu es beau" en italien.
 
 Les poèmes qui commencent par ce vers...
-
 {{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
+
 acrostiche = "Tu sei bello"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -39,8 +40,7 @@ Ombre, le ciel, tu me souris.
 "Tu es beau" en italien.
 
 Les poèmes qui commencent par ce vers...
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}.
 
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-
-Acrostiche : Tu sei bello
+Acrostiche : Tu sei bello.
 {{% /notice %}}

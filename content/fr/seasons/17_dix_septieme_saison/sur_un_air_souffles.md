@@ -46,5 +46,5 @@ Elle est belle ma ville, élance
 Ses airs sur un passé bâtard.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur un air, souffles
+Acrostiche : Sur un air, souffles.
 {{% /notice %}}

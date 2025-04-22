@@ -31,5 +31,5 @@ Délivré, le piano, pleurs
 Et joie, invente couleurs...
 
 {{% notice style="primary" %}}
-Acrostiche : D'un prélude
+Acrostiche : D'un prélude.
 {{% /notice %}}

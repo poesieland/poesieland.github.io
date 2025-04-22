@@ -44,5 +44,5 @@ Anima dans l'éclat élevé de prière.
 {{% notice style="primary" %}}
 "Chant de l'âme" en italien.
 
-Acrostiche : Canto dell'anima
+Acrostiche : Canto dell'anima.
 {{% /notice %}}

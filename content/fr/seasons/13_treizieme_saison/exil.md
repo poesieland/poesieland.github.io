@@ -31,5 +31,5 @@ Tous les temps du passé, du présent, du futur...
 O l'exil a blessé ce souvenir si pur !
 
 {{% notice style="primary" %}}
-Acrostiche : Core 'ngrato
+Acrostiche : Core 'ngrato.
 {{% /notice %}}

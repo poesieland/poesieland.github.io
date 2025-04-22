@@ -37,5 +37,5 @@ En frémissante obole
 Trois brins que je t'offrais.
 
 {{% notice style="primary" %}}
-Acrostiche : Parfum muguet
+Acrostiche : Parfum muguet.
 {{% /notice %}}

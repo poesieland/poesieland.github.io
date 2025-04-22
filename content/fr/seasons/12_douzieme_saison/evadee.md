@@ -23,5 +23,5 @@ Est-ce le bord du monde accompagné en chœur ?
 Est-ce l'amour naissant qui s'accomplit, vainqueur ?
 
 {{% notice style="primary" %}}
-Acrostiche : Evadée
+Acrostiche : Evadée.
 {{% /notice %}}

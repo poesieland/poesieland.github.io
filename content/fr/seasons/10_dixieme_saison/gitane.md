@@ -56,7 +56,7 @@ Et la route t'attend
 Répond l'histoire.
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 5, 4
+Métrique variable : 6, 5, 4.
 
-Acrostiche : Laisse les mots chanter
+Acrostiche : Laisse les mots chanter.
 {{% /notice %}}

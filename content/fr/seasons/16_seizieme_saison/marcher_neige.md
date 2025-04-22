@@ -37,5 +37,5 @@ Givres sur les vitres, apôtres
 Ephémères, comme des mains.
 
 {{% notice style="primary" %}}
-Acrostiche : Marcher : neige
+Acrostiche : Marcher : neige.
 {{% /notice %}}

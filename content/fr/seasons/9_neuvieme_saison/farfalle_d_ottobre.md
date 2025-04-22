@@ -49,5 +49,5 @@ En nos âmes l'étoile éclaire un ciel désert ?
 {{% notice style="primary" %}}
 "Papillons d'octobre" en italien.
 
-Acrostiche : Farfalle d'ottobre
+Acrostiche : Farfalle d'ottobre.
 {{% /notice %}}

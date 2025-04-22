@@ -31,5 +31,5 @@ Jeter au loin l'erreur, déraisons et silences ?
 Au seuil du précipice enfermer nos démences ?
 
 {{% notice style="primary" %}}
-Acrostiche : L'hiver déjà
+Acrostiche : L'hiver déjà.
 {{% /notice %}}

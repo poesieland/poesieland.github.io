@@ -46,5 +46,5 @@ Et comme espoir l'élan
 Ravit l'âme moirée.
 
 {{% notice style="primary" %}}
-Acrostiche : La fièvre de t'aimer
+Acrostiche : La fièvre de t'aimer.
 {{% /notice %}}

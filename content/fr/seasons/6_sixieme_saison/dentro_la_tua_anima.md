@@ -46,5 +46,5 @@ Magiques : bonheur plus ample
 A la clarté des lendemains !
 
 {{% notice style="primary" %}}
-Acrostiche : Dentro la tua anima
+Acrostiche : Dentro la tua anima.
 {{% /notice %}}

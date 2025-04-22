@@ -37,5 +37,5 @@ Tiens nos mains que la Fortune
 Emeut de félicité !
 
 {{% notice style="primary" %}}
-Acrostiche : Que ta volonté
+Acrostiche : Que ta volonté.
 {{% /notice %}}

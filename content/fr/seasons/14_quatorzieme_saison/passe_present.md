@@ -37,5 +37,5 @@ Trouver le sens d'écrire
 Ensemble l'existé !
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Passé / présent
+Acrostiche double (lignes paires et impaires) : Passé / présent.
 {{% /notice %}}

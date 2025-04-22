@@ -37,5 +37,5 @@ Aime, floral
 Un mois : naissance.
 
 {{% notice style="primary" %}}
-Acrostiche : Le mai nouveau
+Acrostiche : Le mai nouveau.
 {{% /notice %}}

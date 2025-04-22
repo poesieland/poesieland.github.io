@@ -6,9 +6,10 @@ weight = 26
 categories = ["Temps"]
 tags = ["philosophie", "1997", "octosyllabe"]
 info = """
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-"""
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -42,6 +43,5 @@ Et l'homme que son cœur habite.
 {{% notice style="primary" %}}
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}.
 {{% /notice %}}

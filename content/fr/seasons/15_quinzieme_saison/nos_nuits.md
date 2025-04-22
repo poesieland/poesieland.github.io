@@ -28,5 +28,5 @@ Traces des marées en nos corps, chaque départ refreint.
 Sur le bord, à la rive, abîme, à l'aube une autre vie.
 
 {{% notice style="primary" %}}
-Acrostiche : Nos nuits
+Acrostiche : Nos nuits.
 {{% /notice %}}

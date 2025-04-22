@@ -5,8 +5,10 @@ date = 1996-12-31
 weight = 27
 categories = ["Neige"]
 tags = ["nature", "1996", "octosyllabe"]
-info = """Les poèmes qui reprennent _l'orgue des arbres_ :
+info = """
+Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -39,5 +41,5 @@ Tombe l'espoir tant désiré.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
-{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}.
 {{% /notice %}}

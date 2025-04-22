@@ -38,5 +38,5 @@ Reine qui confesse un peuple libre et grand,
 En notre Cité des deux îles belles !
 
 {{% notice style="primary" %}}
-Acrostiche : A Toi la gloire
+Acrostiche : A Toi la gloire.
 {{% /notice %}}

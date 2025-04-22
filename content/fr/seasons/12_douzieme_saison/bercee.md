@@ -23,5 +23,5 @@ Etreignent caresse en promesse profonde,
 Eternelle, avant que s'éveille le monde...
 
 {{% notice style="primary" %}}
-Acrostiche : Bercée
+Acrostiche : Bercée.
 {{% /notice %}}

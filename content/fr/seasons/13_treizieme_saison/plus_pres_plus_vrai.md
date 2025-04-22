@@ -46,5 +46,5 @@ Accostera sur terre,
 Intense, charmera !
 
 {{% notice style="primary" %}}
-Acrostiche : Plus près, plus vrai
+Acrostiche : Plus près, plus vrai.
 {{% /notice %}}

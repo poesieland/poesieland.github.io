@@ -37,5 +37,5 @@ Nouveau mont de fourmis, un papillon mourant,
 Extase qui s'oublie au aubade posée.
 
 {{% notice style="primary" %}}
-Allez donc faire un tour sur [Société des amis de Colette {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/amisdecolette)
+Allez donc faire un tour sur [Société des amis de Colette {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/amisdecolette).
 {{% /notice %}}

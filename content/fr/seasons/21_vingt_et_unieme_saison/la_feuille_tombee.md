@@ -37,5 +37,5 @@ Elle glisse, ô
 Scande, automnale.
 
 {{% notice style="primary" %}}
-Acrostiche : Ultimes rêves
+Acrostiche : Ultimes rêves.
 {{% /notice %}}

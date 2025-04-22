@@ -37,5 +37,5 @@ Rêvons, ton bras m'enserra,
 En cœur pour deux, ténu.
 
 {{% notice style="primary" %}}
-Acrostiche : Le soir tendre
+Acrostiche : Le soir tendre.
 {{% /notice %}}

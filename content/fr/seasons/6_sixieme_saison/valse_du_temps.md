@@ -37,5 +37,5 @@ Poussières d'anges, chant intime,
 Secret du temps decrescendo...
 
 {{% notice style="primary" %}}
-Acrostiche : Valse du temps
+Acrostiche : Valse du temps.
 {{% /notice %}}

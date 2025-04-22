@@ -28,5 +28,5 @@ Entrave aux sens défunts;
 Soleil berce ombres folles...
 
 {{% notice style="primary" %}}
-Acrostiche : Chimères
+Acrostiche : Chimères.
 {{% /notice %}}

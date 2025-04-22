@@ -40,5 +40,5 @@ Erreurs venant de l'incréable.
 {{% notice style="primary" %}}
 Métrique variable : 8, 6. "Il y a tant de temps" en italien.
 
-Acrostiche : Quanto tempo è
+Acrostiche : Quanto tempo è.
 {{% /notice %}}

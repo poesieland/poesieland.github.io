@@ -41,5 +41,5 @@ Nu d'une rose, octobre, en verre ?
 {{% notice style="primary" %}}
 Le parc Kellerman, à Paris.
 
-Acrostiche : Dans le jardin
+Acrostiche : Dans le jardin.
 {{% /notice %}}

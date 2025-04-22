@@ -40,5 +40,5 @@ Etreint mon temps de son temps sage.
 {{% notice style="primary" %}}
 Ce dernier poème de la 21e saison annonce le titre de la 22e...
 
-Acrostiche : Autant le dire
+Acrostiche : Autant le dire.
 {{% /notice %}}

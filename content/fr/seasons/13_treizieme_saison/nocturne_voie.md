@@ -28,5 +28,5 @@ Nue une reine au ciel, au vent, l'onde s'est déchirée
 Emportant un fétu vers le sombre brisant...
 
 {{% notice style="primary" %}}
-Acrostiche : Nocturne
+Acrostiche : Nocturne.
 {{% /notice %}}

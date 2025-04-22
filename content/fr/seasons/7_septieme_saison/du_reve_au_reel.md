@@ -37,5 +37,5 @@ En un oubli je lui pardonne,
 Livré, lu d'unique couleur.
 
 {{% notice style="primary" %}}
-Acrostiche : Du rêve au réel
+Acrostiche : Du rêve au réel.
 {{% /notice %}}

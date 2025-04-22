@@ -31,5 +31,5 @@ O terra incognita !
 {{% notice style="primary" %}}
 "Soleil nouveau" en italien.
 
-Acrostiche : Sol' nuovo
+Acrostiche : Sol' nuovo.
 {{% /notice %}}

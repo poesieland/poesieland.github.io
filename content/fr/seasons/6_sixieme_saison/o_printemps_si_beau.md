@@ -46,5 +46,5 @@ Ardente au creux du soir dans son refrain :
 Un souffle d'ange endort la jouvencelle !
 
 {{% notice style="primary" %}}
-Acrostiche : O printemps si beau
+Acrostiche : O printemps si beau.
 {{% /notice %}}

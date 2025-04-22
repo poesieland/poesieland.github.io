@@ -46,5 +46,5 @@ Nous sommes vrais d'abstraction charnelle,
 Et je t'embrasse, et je m'éveille encor.
 
 {{% notice style="primary" %}}
-Acrostiche : Il est cher, automne
+Acrostiche : Il est cher, automne.
 {{% /notice %}}

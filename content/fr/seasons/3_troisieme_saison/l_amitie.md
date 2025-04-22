@@ -24,5 +24,5 @@ Intimité morale
 En complice lustrale !
 
 {{% notice style="primary" %}}
-Acrostiche : Amitié
+Acrostiche : Amitié.
 {{% /notice %}}

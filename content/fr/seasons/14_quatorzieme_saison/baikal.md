@@ -24,5 +24,5 @@ Au rêve protégé, lointain de ce voyage ;
 L'éclat profond d'un monde étrenne un paysage.
 
 {{% notice style="primary" %}}
-Acrostiche : Baïkal
+Acrostiche : Baïkal.
 {{% /notice %}}

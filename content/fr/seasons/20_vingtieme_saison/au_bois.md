@@ -37,5 +37,5 @@ Pour confondre mes pas entre les basses branches,
 Un esprit très ancien m'a prise en ses crochets.
 
 {{% notice style="primary" %}}
-Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)
+Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne).
 {{% /notice %}}

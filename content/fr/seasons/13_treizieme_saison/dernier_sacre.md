@@ -37,5 +37,5 @@ Renvoyé d'un tocsin, du pays sans amarre...
 Et régnera le Fils des Ténèbres, tyran.
 
 {{% notice style="primary" %}}
-Acrostiche : Dernier sacre
+Acrostiche : Dernier sacre.
 {{% /notice %}}

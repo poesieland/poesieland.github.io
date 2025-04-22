@@ -31,5 +31,5 @@ Les hiéroglyphes antiques
 Qui nous ramènent au monde.
 
 {{% notice style="primary" %}}
-Métrique variable : poème en prose
+Métrique variable : poème en prose.
 {{% /notice %}}

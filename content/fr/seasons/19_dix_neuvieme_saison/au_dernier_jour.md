@@ -46,5 +46,5 @@ Notre présence sur la terre
 Et sans regret fermons les yeux.
 
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire)
+Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire).
 {{% /notice %}}

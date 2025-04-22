@@ -37,5 +37,5 @@ Offrant à l'herbe folle un chant plus insistant;
 Imaginaire un rêve au corsage bizarre.
 
 {{% notice style="primary" %}}
-Acrostiche : Une vierge, moi
+Acrostiche : Une vierge, moi.
 {{% /notice %}}

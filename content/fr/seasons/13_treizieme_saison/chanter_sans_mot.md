@@ -41,5 +41,5 @@ Obstinée, oublie un refrain
 Touché sans saisir, vol enfreint...
 
 {{% notice style="primary" %}}
-Acrostiche : Chanter sans mot
+Acrostiche : Chanter sans mot.
 {{% /notice %}}

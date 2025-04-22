@@ -47,5 +47,5 @@ Au mépris du grand Livre et de tous ses préceptes ?
 Mais qu'es-tu devenue, ô belle et blanche Alger ?
 
 {{% notice style="primary" %}}
-Reprise en 1995/1996 d'un poème de 1994
+Reprise en 1995/1996 d'un poème de 1994.
 {{% /notice %}}

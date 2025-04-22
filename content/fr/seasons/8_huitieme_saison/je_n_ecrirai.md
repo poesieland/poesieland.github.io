@@ -31,5 +31,5 @@ Attristé d'une chanson folle,
 Immortels mots en farandole.
 
 {{% notice style="primary" %}}
-Acrostiche : Je n'écrirai
+Acrostiche : Je n'écrirai.
 {{% /notice %}}

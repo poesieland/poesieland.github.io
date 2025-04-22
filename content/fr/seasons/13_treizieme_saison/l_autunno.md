@@ -31,5 +31,5 @@ Oraison blême, un chant du soleil dévoré.
 {{% notice style="primary" %}}
 "L'automne" en italien.
 
-Acrostiche : L'autunno
+Acrostiche : L'autunno.
 {{% /notice %}}

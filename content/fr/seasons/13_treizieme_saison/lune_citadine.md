@@ -37,5 +37,5 @@ Nouée au nuage d'une aile
 Extrême... La nuit se fait d'or.
 
 {{% notice style="primary" %}}
-Acrostiche : Lune citadine
+Acrostiche : Lune citadine.
 {{% /notice %}}

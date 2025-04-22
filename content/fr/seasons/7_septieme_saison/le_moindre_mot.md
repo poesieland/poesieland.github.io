@@ -37,5 +37,5 @@ Offert d'un cœur immense :
 Tu ne lui diras non.
 
 {{% notice style="primary" %}}
-Acrostiche : Le moindre mot
+Acrostiche : Le moindre mot.
 {{% /notice %}}

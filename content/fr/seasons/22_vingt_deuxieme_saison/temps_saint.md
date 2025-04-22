@@ -31,5 +31,5 @@ Nous croyons d'une foi cette sainte, ce saint !
 Tendez vos mains, prions ! Temps saint de la Toussaint !
 
 {{% notice style="primary" %}}
-Acrostiche : Temps saint
+Acrostiche : Temps saint.
 {{% /notice %}}

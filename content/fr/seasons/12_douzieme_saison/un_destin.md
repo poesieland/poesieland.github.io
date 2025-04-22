@@ -34,5 +34,5 @@ Et laisser sur la terre une jeunesse folle...
 {{% notice style="primary" %}}
 En hommage au chanteur Balavoine.
 
-Acrostiche : A Balavoine
+Acrostiche : A Balavoine.
 {{% /notice %}}

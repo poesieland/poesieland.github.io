@@ -23,5 +23,5 @@ Elle est vie, elle est mort, originale ivraie,
 Riche moisson de l'âme, elle est belle, elle est vraie.
 
 {{% notice style="primary" %}}
-Acrostiche : Copier
+Acrostiche : Copier.
 {{% /notice %}}

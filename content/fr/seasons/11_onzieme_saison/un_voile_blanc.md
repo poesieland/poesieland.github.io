@@ -37,5 +37,5 @@ Naît dans le lointain de lumière ravie.
 Croire, un si blanc voile étreint seulement.
 
 {{% notice style="primary" %}}
-Acrostiche : Un voile blanc
+Acrostiche : Un voile blanc.
 {{% /notice %}}
