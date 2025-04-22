@@ -1,23 +1,14 @@
----
-weight: 1
-title: Première rencontre
-id: premiere_rencontre_26
-date: 2025-04-09
-verseLength: 6
-divider: ""
-categories:
-    - Passion
-tags:
-    - "2025"
-    - amour
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Première rencontre"
+id = "premiere_rencontre_26"
+date = 2025-04-09
+weight = 1
+categories = ["Passion"]
+tags = ["amour", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 La première rencontre
 
 Sous un ciel éclatant,

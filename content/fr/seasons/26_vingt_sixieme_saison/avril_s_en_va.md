@@ -1,25 +1,14 @@
----
-weight: 7
-title: Avril s'en va
-id: avril_s_en_va_26
-date: 2025-04-21
-verseLength: 8
-divider: ""
-categories:
-    - Printemps
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-    - saisons
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Avril s'en va"
+id = "avril_s_en_va_26"
+date = 2025-04-21
+weight = 7
+categories = ["Printemps", "Temps"]
+tags = ["saisons", "philosophie", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est bientôt mon anniversaire,
 
 Oui, je suis née avant l'été,

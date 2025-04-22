@@ -1,23 +1,14 @@
----
-weight: 3
-title: Exubérance
-id: exuberance_26
-date: 2025-04-18
-verseLength: 4
-divider: ""
-categories:
-    - Printemps
-tags:
-    - "2025"
-    - saisons
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Exubérance"
+id = "exuberance_26"
+date = 2025-04-18
+weight = 3
+categories = ["Printemps"]
+tags = ["saisons", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Exubérance
 
 Au monde ouvert,

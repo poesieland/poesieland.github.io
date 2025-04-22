@@ -1,24 +1,15 @@
----
-weight: 5
-title: Ami qui passe
-id: ami_qui_passe_26
-date: 2025-04-20
-verseLength: 12
-divider: ""
-categories:
-    - Amitié
-tags:
-    - "2025"
-    - acrostiche
-    - amour
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Agnus dei
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ami qui passe"
+id = "ami_qui_passe_26"
+date = 2025-04-20
+weight = 5
+categories = ["Amitié"]
+tags = ["amour", "2025", "acrostiche", "alexandrin"]
+acrostiche = "Agnus dei"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ami qui passe là, sur mon chemin, partage,
 
 Goûte donc mon agneau nouveau dans sa ferveur,
@@ -37,5 +28,5 @@ Echanger sur le monde et nous réjouir de Pâques,
 Il suffit de s'asseoir et de nous régaler !
 
 {{% notice style="primary" %}}
-Acrostiche : agnus dei
+Acrostiche : Agnus dei.
 {{% /notice %}}
