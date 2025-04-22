@@ -1,24 +1,15 @@
----
-weight: 5
-title: L'annonce
-id: l_annonce_25
-date: 2025-02-26
-verseLength: -1
-divider: ""
-categories:
-    - Printemps
-tags:
-    - "2025"
-    - saisons
-    - "métrique variable"
-locations: []
-info: "Métrique variable : 4, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'annonce"
+id = "l_annonce_25"
+date = 2025-02-26
+weight = 5
+categories = ["Printemps"]
+tags = ["saisons", "2025", "métrique variable", "tétrasyllabe", "trisyllabe"]
+info = "Métrique variable : 4, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Quand au clocher
 
 Sonne l'heure

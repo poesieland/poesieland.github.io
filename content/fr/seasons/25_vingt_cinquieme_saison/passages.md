@@ -1,25 +1,14 @@
----
-weight: 40
-title: Passages
-id: passages_25
-date: 2025-03-29
-verseLength: 8
-divider: ""
-categories:
-    - Musique et chant
-    - Temps
-tags:
-    - "2025"
-    - attitudes
-    - philosophie
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Passages"
+id = "passages_25"
+date = 2025-03-29
+weight = 40
+categories = ["Musique et chant", "Temps"]
+tags = ["attitudes", "philosophie", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Quand mon refuge est la chanson
 
 Que j'écoutais dans la vingtaine

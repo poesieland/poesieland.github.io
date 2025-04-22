@@ -1,27 +1,14 @@
----
-weight: 3
-title: Matin de paix
-id: matin_de_paix_25
-date: 2025-02-25
-verseLength: 6
-divider: ""
-categories:
-    - Aube
-    - Ciel
-    - Espoir
-tags:
-    - "2025"
-    - ombres et lumières
-    - philosophie
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Matin de paix"
+id = "matin_de_paix_25"
+date = 2025-02-25
+weight = 3
+categories = ["Aube", "Ciel", "Espoir"]
+tags = ["ombres et lumières", "nature", "philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Chaque matin j'inspire
 
 Des couleurs renouveau,

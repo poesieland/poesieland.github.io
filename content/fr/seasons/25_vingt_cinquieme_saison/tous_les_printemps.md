@@ -1,25 +1,14 @@
----
-weight: 44
-title: Tous les printemps
-id: tous_les_printemps_25
-date: 2025-04-01
-verseLength: 12
-divider: ""
-categories:
-    - Printemps
-    - Jardin et paysage
-tags:
-    - "2025"
-    - saisons
-    - nature
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Tous les printemps"
+id = "tous_les_printemps_25"
+date = 2025-04-01
+weight = 44
+categories = ["Printemps", "Jardin et paysage"]
+tags = ["saisons", "nature", "2025", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un même ciel très pâle embrassé de printemps
 
 Si la rosée emperle un peu dame tulipe

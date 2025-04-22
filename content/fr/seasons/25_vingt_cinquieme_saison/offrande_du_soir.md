@@ -1,23 +1,14 @@
----
-weight: 37
-title: Offrande du soir
-id: offrande_du_soir_25
-date: 2025-03-27
-verseLength: 6
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2025"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Offrande du soir"
+id = "offrande_du_soir_25"
+date = 2025-03-27
+weight = 37
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Là-bas dans l'ombre rose
 
 Oublie une douleur,

@@ -1,24 +1,15 @@
----
-weight: 13
-title: Départs
-id: departs_25
-date: 2025-03-07
-verseLength: 9
-divider: ""
-categories:
-    - Angoisse
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Départs"
+id = "departs_25"
+date = 2025-03-07
+weight = 13
+categories = ["Angoisse", "Temps"]
+tags = ["philosophie", "2025", "ennéasyllabe"]
+info = "Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales)"
+verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans le soir quand un avion trace
 
 Funambule, un trait de mille feux
@@ -46,5 +37,5 @@ Ont brûlé, calligrammes, arts, temps
 Revenu d'un monde qui s'altère.
 
 {{% notice style="primary" %}}
-Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales)
+Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales).
 {{% /notice %}}

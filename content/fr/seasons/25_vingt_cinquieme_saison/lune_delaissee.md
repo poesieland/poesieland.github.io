@@ -1,23 +1,14 @@
----
-weight: 28
-title: Lune délaissée
-id: lune_delaissee_25
-date: 2025-03-17
-verseLength: 2
-divider: ""
-categories:
-    - Lune
-tags:
-    - "2025"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Lune délaissée"
+id = "lune_delaissee_25"
+date = 2025-03-17
+weight = 28
+categories = ["Lune"]
+tags = ["ombres et lumières", "2025", "dissyllabe"]
+verseLength = 2
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au ciel
 
 Potiche,

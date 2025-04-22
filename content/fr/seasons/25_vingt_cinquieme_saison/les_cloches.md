@@ -1,25 +1,14 @@
----
-weight: 21
-title: Les cloches
-id: les_cloches_25
-date: 2025-03-13
-verseLength: 5
-divider: ""
-categories:
-    - Musique et chant
-    - Portraits
-tags:
-    - "2025"
-    - philosophie
-    - attitudes
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les cloches"
+id = "les_cloches_25"
+date = 2025-03-13
+weight = 21
+categories = ["Musique et chant", "Portraits"]
+tags = ["attitudes", "philosophie", "2025", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 A tout volée
 
 Célébrez bonheur,

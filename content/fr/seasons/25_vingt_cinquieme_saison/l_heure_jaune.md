@@ -1,23 +1,14 @@
----
-weight: 27
-title: L'heure jaune
-id: l_heure_jaune_25
-date: 2025-03-17
-verseLength: 4
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2025"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'heure jaune"
+id = "l_heure_jaune_25"
+date = 2025-03-17
+weight = 27
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir se dore
 
 Tout frémissant,

@@ -1,25 +1,15 @@
----
-weight: 19
-title: L'arbre du Ténéré
-id: l_arbre_du_tenere_25
-date: 2025-03-12
-verseLength: 6
-divider: ""
-categories:
-    - Angoisse
-    - Flore
-tags:
-    - "2025"
-    - philosophie
-    - nature
-location: []
-info: "[Petite vidéo choc](https://www.facebook.com/reel/9321371104596399) qui m'a inspiré ce poème"
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'arbre du Ténéré"
+id = "l_arbre_du_tenere_25"
+date = 2025-03-12
+weight = 19
+categories = ["Angoisse", "Flore"]
+tags = ["philosophie", "nature", "2025", "hexasyllabe"]
+info = "[Petite vidéo choc](https://www.facebook.com/reel/9321371104596399) qui m'a inspiré ce poème"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Tout seul et vénéré
 
 Il semblait impossible
@@ -56,5 +46,5 @@ Le temps pousse à renier
 L'absence qui malmène.
 
 {{% notice style="primary" %}}
-[Petite vidéo choc](https://www.facebook.com/reel/9321371104596399) qui m'a inspiré ce poème
+[Petite vidéo choc](https://www.facebook.com/reel/9321371104596399) qui m'a inspiré ce poème.
 {{% /notice %}}

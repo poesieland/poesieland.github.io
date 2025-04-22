@@ -1,23 +1,14 @@
----
-weight: 29
-title: Chaque jour
-id: chaque_jour_25
-date: 2025-03-18
-verseLength: 6
-divider: ""
-categories:
-    - Passion
-tags:
-    - "2025"
-    - amour
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Chaque jour"
+id = "chaque_jour_25"
+date = 2025-03-18
+weight = 29
+categories = ["Passion"]
+tags = ["amour", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Met ton coeur à ton aise
 
 Et tes yeux dans les miens,

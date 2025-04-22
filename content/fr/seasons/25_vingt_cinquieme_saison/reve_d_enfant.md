@@ -1,23 +1,14 @@
----
-weight: 15
-title: Rêve d'enfant
-id: reve_d_enfant_25
-date: 2025-03-09
-verseLength: 6
-divider: ""
-categories:
-    - Enfance et adolescence
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rêve d'enfant"
+id = "reve_d_enfant_25"
+date = 2025-03-09
+weight = 15
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Mon rêve était féru
 
 De tant d'insouciance

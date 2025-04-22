@@ -1,23 +1,14 @@
----
-weight: 46
-title: Rencontres
-id: rencontres_25
-date: 2025-04-02
-verseLength: 6
-divider: ""
-categories:
-    - Amitié
-tags:
-    - "2025"
-    - amour
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rencontres"
+id = "rencontres_25"
+date = 2025-04-02
+weight = 46
+categories = ["Amitié"]
+tags = ["amour", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Rencontre sur ma route,
 
 Gens de toute bonté,

@@ -1,24 +1,15 @@
----
-weight: 41
-title: Avec mes mots
-id: avec_mes_mots_25
-date: 2025-03-30
-verseLength: 12
-divider: ""
-categories:
-    - Création
-tags:
-    - "2025"
-    - philosophie
-    - sonnet
-location: []
-info: ""
-pictures: []
-poemType: sonnet
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Avec mes mots"
+id = "avec_mes_mots_25"
+date = 2025-03-30
+weight = 41
+categories = ["Création"]
+tags = ["philosophie", "2025", "sonnet", "alexandrin"]
+poemType = "sonnet"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Avec mes mots je creuse un sillon dans mon champ,
 
 De bout en bout j'explore un peu plus l'âme humaine,

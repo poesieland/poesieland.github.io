@@ -1,26 +1,15 @@
----
-weight: 1
-title: "Crépuscule "
-id: crepuscule_25
-date: 2025-02-19
-verseLength: -1
-divider: ""
-categories:
-    - Crépuscule
-    - Ciel
-tags:
-    - "2025"
-    - nature
-    - "métrique variable"
-    - ombres et lumières
-locations: []
-info: "Métrique variable : 8, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Crépuscule"
+id = "crepuscule_25"
+date = 2025-02-19
+weight = 1
+categories = ["Crépuscule", "Ciel"]
+tags = ["ombres et lumières", "nature", "2025", "métrique variable", "octosyllabe", "dissyllabe"]
+info = "Métrique variable : 8, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel a mis son tablier
 
 Céleste

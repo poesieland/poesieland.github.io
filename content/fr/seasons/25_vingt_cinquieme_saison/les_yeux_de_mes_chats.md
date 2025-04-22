@@ -1,24 +1,14 @@
----
-weight: 23
-title: Les yeux de mes chats
-id: les_yeux_de_mes_chats_25
-date: 2025-03-15
-verseLength: 8
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - nature
-    - lovecat
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les yeux de mes chats"
+id = "les_yeux_de_mes_chats_25"
+date = 2025-03-15
+weight = 23
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Mon petit fauve a les yeux verts
 
 Parfaits pour me lancer oeillade

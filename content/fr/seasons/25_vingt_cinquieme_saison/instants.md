@@ -1,25 +1,14 @@
----
-weight: 47
-title: Instants
-id: instants_25
-date: 2025-04-03
-verseLength: 6
-divider: ""
-categories:
-    - Aube
-    - Nuit
-    - Crépuscule
-tags:
-    - "2025"
-    - ombres et lumières
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Instants"
+id = "instants_25"
+date = 2025-04-03
+weight = 47
+categories = ["Aube", "Nuit", "Crépuscule"]
+tags = ["ombres et lumières", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Lignes de fuite vaines
 
 Au ciel en arcs brisés,

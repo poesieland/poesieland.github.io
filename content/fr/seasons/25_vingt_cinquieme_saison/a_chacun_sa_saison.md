@@ -1,28 +1,14 @@
----
-weight: 7
-title: A chacun sa saison
-id: a_chacun_sa_saison_25
-date: 2025-03-01
-verseLength: 6
-divider: ""
-categories:
-    - Automne
-    - Eté
-    - Hiver
-    - Printemps
-    - Etre
-tags:
-    - "2025"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "A chacun sa saison"
+id = "a_chacun_sa_saison_25"
+date = 2025-03-01
+weight = 7
+categories = ["Automne", "Eté", "Hiver", "Printemps", "Etre"]
+tags = ["saisons", "philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un jour de funérailles
 
 Qui serait presque beau :
