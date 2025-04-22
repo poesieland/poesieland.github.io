@@ -26,4 +26,4 @@ Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses 
 11. le [hendécasyllabe](/tags/hendécasyllabe)
 12. l'[alexandrin](/tags/alexandrin)
 13. le vers de 13 syllabes, pas essayé, existe t-il même ?
-14. le [vers de 14 syllabes](/tags/14_syllabes) qui n'a pas de nom d'origine grecque associé.
+14. le [vers de 14 syllabes](/tags/quatorze-syllabes) qui n'a pas de nom d'origine grecque associé.
