@@ -1,25 +1,15 @@
----
-weight: 30
-title: Les mots
-id: les_mots_23
-date: 2024-12-26
-verseLength: 4
-divider: ""
-categories:
-    - Etre
-    - Création
-tags:
-    - "2024"
-    - philosophie
-    - les mots
-locations: []
-info: '[Les poèmes du mini-thème "les mots"](/tags/les-mots)'
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les mots"
+id = "les_mots_23"
+date = 2024-12-26
+weight = 30
+categories = ["Etre", "Création"]
+tags = ["philosophie", "les mots", "2024", "tétrasyllabe"]
+info = "[Les poèmes du mini-thème \"les mots\"](/tags/les-mots)"
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Les mots respirent
 
 Echevelés,
@@ -65,5 +55,5 @@ Vrais, sans censure,
 D'eux-mêmes mus.
 
 {{% notice style="primary" %}}
-[Les poèmes du mini-thème "les mots"](/tags/les-mots)
+[Les poèmes du mini-thème "les mots"](/tags/les-mots).
 {{% /notice %}}

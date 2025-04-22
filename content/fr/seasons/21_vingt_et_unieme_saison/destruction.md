@@ -1,32 +1,18 @@
----
-weight: 8
-title: Destruction
-id: destruction_21
-date: 2024-07-04
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-    - Climat
-    - Eté
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-    - nature
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Destruction"
+id = "destruction_21"
+date = 2024-07-04
+weight = 8
+categories = ["Automne", "Eté", "Climat", "Angoisse"]
+tags = ["saisons", "nature", "philosophie", "2024", "octosyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'automne est venu comme un songe,
 
 Frôlant mon coeur, le déchirant,
@@ -55,5 +41,5 @@ Tout lessivé, vert, pathétique.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}.
 {{% /notice %}}

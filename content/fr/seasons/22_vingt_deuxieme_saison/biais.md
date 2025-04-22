@@ -1,25 +1,14 @@
----
-weight: 15
-title: Biais
-id: biais_22
-date: 2024-09-24
-verseLength: 6
-divider: ""
-categories:
-    - Automne
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Biais"
+id = "biais_22"
+date = 2024-09-24
+weight = 15
+categories = ["Automne", "Angoisse"]
+tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Pourquoi l'automne fauche
 
 Souvent sans sourciller

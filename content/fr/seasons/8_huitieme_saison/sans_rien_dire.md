@@ -4,10 +4,10 @@ id = "sans_rien_dire_8"
 date = 1998-09-04
 weight = 42
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Sans rien dire"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans ressusciter l'oublié
@@ -37,5 +37,5 @@ Ravis mon cœur; pour être heureuse
 En le tien je veux lire : nous ?
 
 {{% notice style="primary" %}}
-Acrostiche : Sans rien dire
+Acrostiche : Sans rien dire.
 {{% /notice %}}

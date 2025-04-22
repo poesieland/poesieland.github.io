@@ -4,10 +4,10 @@ id = "la_brume_en_moi_8"
 date = 1998-08-31
 weight = 24
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "tétrasyllabe"]
 acrostiche = "La brume en moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La folle brume
@@ -37,5 +37,5 @@ Ombre, présence,
 Ivre blancheur !
 
 {{% notice style="primary" %}}
-Acrostiche : La brume en moi
+Acrostiche : La brume en moi.
 {{% /notice %}}

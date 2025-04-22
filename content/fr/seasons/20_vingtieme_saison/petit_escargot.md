@@ -4,7 +4,7 @@ id = "petit_escargot_20"
 date = 2024-06-21
 weight = 45
 categories = ["Faune"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,11 +4,11 @@ id = "la_neige_d_un_reve_9"
 date = 1998-12-02
 weight = 48
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche", "sonnet"]
+tags = ["philosophie", "1998", "acrostiche", "sonnet", "décasyllabe"]
 poemType = "sonnet"
 acrostiche = "La neige d'un rêve"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La neige est froide, et ses cristaux déposent
@@ -43,5 +43,5 @@ Verra le Ciel répondant à la femme :
 En ton sein vibre un diapason natal.
 
 {{% notice style="primary" %}}
-Acrostiche : La neige d'un rêve
+Acrostiche : La neige d'un rêve.
 {{% /notice %}}

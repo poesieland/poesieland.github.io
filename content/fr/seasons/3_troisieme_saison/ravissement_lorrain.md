@@ -3,11 +3,11 @@ title = "Ravissement lorrain"
 id = "ravissement_lorrain_3"
 date = 1997-01-28
 weight = 46
-categories = [ "Jardin et paysage", "Enfance et adolescence" ]
-tags = [ "nature", "philosophie", "1997" ]
+categories = ["Jardin et paysage", "Enfance et adolescence"]
+tags = ["nature", "philosophie", "1997", "octosyllabe"]
 verseLength = 8
+locations = ["Lorraine"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Lorraine" ]
 +++
 
 Qu'elle était verte ma colline

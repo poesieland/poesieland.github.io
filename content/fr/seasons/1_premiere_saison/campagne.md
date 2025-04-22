@@ -4,7 +4,7 @@ id = "campagne_1"
 date = 1996-04-16
 weight = 32
 categories = ["Jardin et paysage"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

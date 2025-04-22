@@ -4,10 +4,10 @@ id = "dans_son_cour_9"
 date = 1998-11-13
 weight = 49
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Dans son cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans un corps d'homme un cœur de femme
@@ -37,5 +37,5 @@ Uni dans l'infini pastel
 Ravi d'un cœur parti sans trace.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans son cœur
+Acrostiche : Dans son cœur.
 {{% /notice %}}

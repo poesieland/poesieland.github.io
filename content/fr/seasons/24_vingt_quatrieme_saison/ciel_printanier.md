@@ -1,25 +1,14 @@
----
-weight: 32
-title: Ciel printanier
-id: ciel_printanier_24
-date: 2025-01-27
-verseLength: 8
-divider: ""
-categories:
-    - Ciel
-    - Printemps
-tags:
-    - "2025"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ciel printanier"
+id = "ciel_printanier_24"
+date = 2025-01-27
+weight = 32
+categories = ["Ciel", "Printemps"]
+tags = ["nature", "saisons", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est bleu comme un miracle
 
 Mais quels sont ces souffles frémis ?

@@ -4,7 +4,7 @@ id = "absolu_19"
 date = 2024-04-21
 weight = 47
 categories = ["Romantisme", "Temps"]
-tags = ["amour", "philosophie", "2024"]
+tags = ["amour", "philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

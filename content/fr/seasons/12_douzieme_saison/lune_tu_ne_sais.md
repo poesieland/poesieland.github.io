@@ -4,10 +4,10 @@ id = "lune_tu_ne_sais_12"
 date = 1999-07-01
 weight = 17
 categories = ["Lune"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Lune, tu ne sais"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'astre bleuté d'un reflet vague
@@ -37,5 +37,5 @@ Irréels, les frissons se brûlent,
 Sublimant l'écho transalpin.
 
 {{% notice style="primary" %}}
-Acrostiche : Lune, tu ne sais
+Acrostiche : Lune, tu ne sais.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "image_un_sens_est_13"
 date = 1999-08-31
 weight = 6
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Image, un sens est"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Inoubliable image :
@@ -42,5 +42,5 @@ Saura briser dans l'âme
 Toi l'homme, moi la femme ?
 
 {{% notice style="primary" %}}
-Acrostiche : Image, un sens est
+Acrostiche : Image, un sens est.
 {{% /notice %}}

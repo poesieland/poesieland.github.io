@@ -1,24 +1,14 @@
----
-weight: 44
-title: La pluie
-id: la_pluie_20
-date: 2024-06-21
-verseLength: 7
-divider: ""
-categories:
-    - Eau douce
-    - Climat
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "La pluie"
+id = "la_pluie_20"
+date = 2024-06-21
+weight = 44
+categories = ["Eau douce", "Climat"]
+tags = ["nature", "2024", "heptasyllabe"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Elle danse sur un fil,
 
 Certains jours la pluie est belle

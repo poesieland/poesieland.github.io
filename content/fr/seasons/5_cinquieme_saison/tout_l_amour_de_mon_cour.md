@@ -4,7 +4,7 @@ id = "tout_l_amour_de_mon_cour_5"
 date = 1997-11-02
 weight = 22
 categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1997", "acrostiche"]
+tags = ["philosophie", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "Tout l'amour de mon cœur"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -51,5 +51,5 @@ Un destin dérobé...
 Risette d'un bébé !
 
 {{% notice style="primary" %}}
-Acrostiche : Tout l'amour de mon cœur
+Acrostiche : Tout l'amour de mon cœur.
 {{% /notice %}}

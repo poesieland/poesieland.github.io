@@ -1,23 +1,14 @@
----
-weight: 47
-title: Partie perdue
-id: partie_perdue_18
-date: 2024-01-13
-verseLength: 6
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Partie perdue"
+id = "partie_perdue_18"
+date = 2024-01-13
+weight = 47
+categories = ["Portraits"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Jeu d'un attrape-coeur,
 
 Sur les réseaux faux sacre,

@@ -1,25 +1,14 @@
----
-weight: 49
-title: Souvenirs de rentrée
-id: souvenirs_de_rentree_21
-date: 2024-09-02
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Souvenirs de rentrée"
+id = "souvenirs_de_rentree_21"
+date = 2024-09-02
+weight = 49
+categories = ["Automne", "Enfance et adolescence"]
+tags = ["saisons", "philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'automne avait autre saveur
 
 Aux jours de l'enfance infinie :

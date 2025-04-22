@@ -4,7 +4,7 @@ id = "serenite_18"
 date = 2023-10-13
 weight = 4
 categories = ["Temps"]
-tags = ["philosophie", "2023"]
+tags = ["philosophie", "2023", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,9 +4,9 @@ id = "une_etoile_5"
 date = 1998-01-11
 weight = 47
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une étoile a bercé mon cœur

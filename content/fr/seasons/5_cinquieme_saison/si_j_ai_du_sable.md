@@ -4,7 +4,7 @@ id = "si_j_ai_du_sable_5"
 date = 1998-01-02
 weight = 12
 categories = ["Amitié", "Etre"]
-tags = ["amour", "philosophie", "1998"]
+tags = ["amour", "philosophie", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "au_bois_20"
 date = 2024-05-27
 weight = 20
 categories = ["Automne"]
-tags = ["saisons", "2024"]
+tags = ["saisons", "2024", "alexandrin"]
 info = "Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Pour confondre mes pas entre les basses branches,
 Un esprit très ancien m'a prise en ses crochets.
 
 {{% notice style="primary" %}}
-Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)
+Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne).
 {{% /notice %}}

@@ -3,11 +3,11 @@ title = "Nord imaginaire"
 id = "nord_imaginaire_5"
 date = 1997-12-02
 weight = 50
-categories = [ "Hiver", "Enfance et adolescence" ]
-tags = [ "1997", "saisons", "philosophie" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Hiver", "Enfance et adolescence"]
+tags = ["saisons", "philosophie", "1997", "octosyllabe"]
 verseLength = 8
-locations = [ "Où je n'ai pas été" ]
+locations = ["Où je n'ai pas été"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans le grand Nord, autre savane,

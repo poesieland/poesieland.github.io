@@ -4,7 +4,7 @@ id = "dormira_17"
 date = 2004-10-29
 weight = 3
 categories = ["Automne", "Hiver", "Espoir"]
-tags = ["saisons", "philosophie", "2004"]
+tags = ["saisons", "philosophie", "2004", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

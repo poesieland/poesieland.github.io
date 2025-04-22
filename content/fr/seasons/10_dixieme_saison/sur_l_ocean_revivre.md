@@ -4,10 +4,10 @@ id = "sur_l_ocean_revivre_10"
 date = 1999-01-03
 weight = 1
 categories = ["Mer", "Espoir"]
-tags = ["nature", "philosophie", "1999", "acrostiche"]
+tags = ["nature", "philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Sur l'océan : revivre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur les océans de l'espoir
@@ -46,5 +46,5 @@ Rive d'un continent nacré
 En ton cœur découvert : revivre !
 
 {{% notice style="primary" %}}
-Acrostiche : Sur l'océan : revivre
+Acrostiche : Sur l'océan : revivre.
 {{% /notice %}}

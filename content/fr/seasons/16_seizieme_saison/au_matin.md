@@ -4,9 +4,9 @@ id = "au_matin_16"
 date = 2004-04-26
 weight = 25
 categories = ["Aube"]
-tags = ["ombres et lumières", "2004"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["ombres et lumières", "2004", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au matin voiles verts

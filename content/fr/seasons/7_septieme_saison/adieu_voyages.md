@@ -4,10 +4,10 @@ id = "adieu_voyages_7"
 date = 1998-07-07
 weight = 13
 categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Adieu : voyages"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Adieu beau voyageur : le rêve
@@ -37,5 +37,5 @@ Et chaque mot comme enchanteur
 Sera le plus doux des voyages.
 
 {{% notice style="primary" %}}
-Acrostiche : Adieu : voyages
+Acrostiche : Adieu : voyages.
 {{% /notice %}}

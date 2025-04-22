@@ -3,8 +3,8 @@ title = "Mon chat préféré"
 id = "mon_chat_prefere_14"
 date = 1999-11-17
 weight = 14
-categories = [ "Faune" ]
-tags = [ "1999", "acrostiche", "nature", "lovecat" ]
+categories = ["Faune"]
+tags = ["nature", "lovecat", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Mon chat préféré"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -41,5 +41,5 @@ Reviens mon chat, mon infidèle !
 En ton âme quelle hirondelle ?
 
 {{% notice style="primary" %}}
-Acrostiche : Mon chat préféré
+Acrostiche : Mon chat préféré.
 {{% /notice %}}

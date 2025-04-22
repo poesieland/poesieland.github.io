@@ -3,11 +3,11 @@ title = "Je ne sais plus"
 id = "je_ne_sais_plus_7"
 date = 1998-07-12
 weight = 47
-categories = [ "Musique et chant", "Angoisse" ]
-tags = [ "attitudes", "philosophie", "1998", "acrostiche" ]
+categories = ["Musique et chant", "Angoisse"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je ne sais plus"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je ne sais plus rire ou rêver,
@@ -37,5 +37,5 @@ Un refuge où le souvenir
 Se bercera d'un sacrilège.
 
 {{% notice style="primary" %}}
-Acrostiche : Je ne sais plus
+Acrostiche : Je ne sais plus.
 {{% /notice %}}

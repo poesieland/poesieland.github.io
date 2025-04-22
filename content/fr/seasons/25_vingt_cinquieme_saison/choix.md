@@ -1,23 +1,15 @@
----
-weight: 11
-title: Choix
-id: choix_25
-date: 2025-03-05
-verseLength: 8
-divider: ""
-categories:
-    - Apprentissage
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: Vous avez reconnu la référence à [un oiseau voisin, évoqué par mon poète préféré](https://www.google.com/search?q=baudelaire+l%27albatros)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Choix"
+id = "choix_25"
+date = 2025-03-05
+weight = 11
+categories = ["Apprentissage"]
+tags = ["philosophie", "2025", "octosyllabe"]
+info = "Vous avez reconnu la référence à [un oiseau voisin, évoqué par mon poète préféré](https://www.google.com/search?q=baudelaire+l%27albatros)"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Si découverte est hirondelle
 
 Qui voit la mer puis le rocher
@@ -45,5 +37,5 @@ Cèdera t-il ? Cela nous mène
 A tant de choix, ainsi soit-il !
 
 {{% notice style="primary" %}}
-Vous avez reconnu la référence à [un oiseau voisin, évoqué par mon poète préféré](https://www.google.com/search?q=baudelaire+l%27albatros)
+Vous avez reconnu la référence à [un oiseau voisin, évoqué par mon poète préféré](https://www.google.com/search?q=baudelaire+l%27albatros).
 {{% /notice %}}

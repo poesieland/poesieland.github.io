@@ -4,7 +4,7 @@ id = "reincarnation_17"
 date = 2004-11-07
 weight = 5
 categories = ["Espoir", "Foi"]
-tags = ["philosophie", "2004"]
+tags = ["philosophie", "2004", "décasyllabe"]
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

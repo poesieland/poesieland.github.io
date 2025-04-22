@@ -4,10 +4,10 @@ id = "ombres_et_lumieres_15"
 date = 2001-07-26
 weight = 14
 categories = ["Création"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Ombres et lumières"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Origine du monde, âme, l'évanescence
@@ -46,5 +46,5 @@ Existe au nouvel oeil, globe d'un sens qui trace,
 Souffle qui dit le ciel, la mer, tout se sachant.
 
 {{% notice style="primary" %}}
-Acrostiche : Ombres et lumières
+Acrostiche : Ombres et lumières.
 {{% /notice %}}

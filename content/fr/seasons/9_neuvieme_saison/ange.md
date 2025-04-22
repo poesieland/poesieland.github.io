@@ -4,10 +4,10 @@ id = "ange_9"
 date = 1998-11-11
 weight = 16
 categories = ["Foi"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Ange"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ailé pour caresser nos peines,
@@ -19,5 +19,5 @@ Germer les musiques prochaines
 En ta splendeur, ange charmant.
 
 {{% notice style="primary" %}}
-Acrostiche : Ange
+Acrostiche : Ange.
 {{% /notice %}}

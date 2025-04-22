@@ -4,10 +4,10 @@ id = "au_bord_du_sens_9"
 date = 1998-11-01
 weight = 22
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "pentasyllabe"]
 acrostiche = "Au bord du sens ivre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au bord du miroir
@@ -46,5 +46,5 @@ Rêvé, fugitif
 En sa délivrance.
 
 {{% notice style="primary" %}}
-Acrostiche : Au bord du sens ivre
+Acrostiche : Au bord du sens ivre.
 {{% /notice %}}

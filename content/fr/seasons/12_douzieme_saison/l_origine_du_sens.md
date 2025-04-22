@@ -4,11 +4,11 @@ id = "l_origine_du_sens_12"
 date = 1999-07-02
 weight = 18
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche", "sonnet"]
+tags = ["attitudes", "1999", "acrostiche", "sonnet", "alexandrin"]
 poemType = "sonnet"
 acrostiche = "L'origine du sens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Laissant l'ombre portée au-delà du sensible
@@ -43,5 +43,5 @@ Noue un baiser au souffle et transperce silence,
 Sous l'ombre le vent pâle effleure ce bonheur.
 
 {{% notice style="primary" %}}
-Acrostiche : L'origine du sens
+Acrostiche : L'origine du sens.
 {{% /notice %}}

@@ -3,11 +3,11 @@ title = "Plus près, plus vrai"
 id = "plus_pres_plus_vrai_13"
 date = 1999-09-07
 weight = 38
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Plus près, plus vrai"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Prononcé le poème
@@ -46,5 +46,5 @@ Accostera sur terre,
 Intense, charmera !
 
 {{% notice style="primary" %}}
-Acrostiche : Plus près, plus vrai
+Acrostiche : Plus près, plus vrai.
 {{% /notice %}}

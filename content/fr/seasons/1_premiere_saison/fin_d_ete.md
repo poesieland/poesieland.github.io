@@ -3,8 +3,8 @@ title = "Fin d'été"
 id = "fin_d_ete_1"
 date = 1996-08-18
 weight = 37
-categories = [ "Automne", "Enfance et adolescence" ]
-tags = [ "1996", "saisons", "philosophie" ]
+categories = ["Automne", "Enfance et adolescence"]
+tags = ["saisons", "philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

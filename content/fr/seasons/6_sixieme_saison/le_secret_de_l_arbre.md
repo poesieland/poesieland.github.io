@@ -4,10 +4,10 @@ id = "le_secret_de_l_arbre_6"
 date = 1998-05-24
 weight = 40
 categories = ["Flore"]
-tags = ["nature", "1998", "acrostiche"]
+tags = ["nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Le secret de l'arbre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'arbre en un murmure d'écorce
@@ -46,5 +46,5 @@ Regarde nos secrets, sculptures,
 Etreintes sur ton bois sans yeux.
 
 {{% notice style="primary" %}}
-Acrostiche : Le secret de l'arbre
+Acrostiche : Le secret de l'arbre.
 {{% /notice %}}

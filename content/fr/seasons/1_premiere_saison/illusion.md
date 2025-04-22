@@ -4,7 +4,7 @@ id = "illusion_1"
 date = 1995-10-01
 weight = 48
 categories = ["Révolte"]
-tags = ["philosophie", "1995"]
+tags = ["philosophie", "1995", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,11 +4,11 @@ id = "non_amor_piu_13"
 date = 1999-08-24
 weight = 37
 categories = ["Temps", "Flore"]
-tags = ["philosophie", "nature", "1999", "acrostiche"]
+tags = ["philosophie", "nature", "1999", "acrostiche", "octosyllabe"]
 info = "\"(Il n'y a) plus d'amour\" en italien."
 acrostiche = "Non amor più"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne cherche pas ce qui te manque:
@@ -32,7 +32,7 @@ Inventoriés n'ont plus richesse:
 Un parfum fané sans détresse.
 
 {{% notice style="primary" %}}
-\"(Il n'y a) plus d'amour\" en italien.
+"(Il n'y a) plus d'amour" en italien.
 
-Acrostiche : Non amor più
+Acrostiche : Non amor più.
 {{% /notice %}}

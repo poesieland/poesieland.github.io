@@ -3,11 +3,11 @@ title = "Et j'oublierai"
 id = "et_j_oublierai_14"
 date = 2000-06-26
 weight = 4
-categories = [ "Lune", "Angoisse" ]
-tags = [ "ombres et lumières", "philosophie", "2000", "acrostiche" ]
+categories = ["Lune", "Angoisse"]
+tags = ["ombres et lumières", "philosophie", "2000", "acrostiche", "hexasyllabe"]
 acrostiche = "Et j'oublierai"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et j'oublierai la lune
@@ -37,5 +37,5 @@ A l'onde andante blême
 Irons-nous, orpailleurs ?
 
 {{% notice style="primary" %}}
-Acrostiche : Et j'oublierai
+Acrostiche : Et j'oublierai.
 {{% /notice %}}

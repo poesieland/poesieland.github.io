@@ -3,11 +3,11 @@ title = "Désir de mer"
 id = "desir_de_mer_1"
 date = 1996-07-13
 weight = 28
-categories = [ "Mer", "Passion" ]
-tags = [ "nature", "amour", "1996" ]
+categories = ["Mer", "Passion"]
+tags = ["nature", "amour", "1996", "alexandrin"]
 verseLength = 12
+locations = ["Côte atlantique"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Côte atlantique" ]
 +++
 
 La mer est une femme appelant le désir

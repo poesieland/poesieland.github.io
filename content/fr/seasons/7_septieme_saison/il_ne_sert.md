@@ -4,10 +4,10 @@ id = "il_ne_sert_7"
 date = 1998-06-21
 weight = 49
 categories = ["Révolte"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Il ne sert"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il ne sert à rien de rêver
@@ -28,5 +28,5 @@ Rouvert d'un mot, le tentateur,
 Troublantes pages trop frivoles.
 
 {{% notice style="primary" %}}
-Acrostiche : Il ne sert
+Acrostiche : Il ne sert.
 {{% /notice %}}

@@ -4,7 +4,7 @@ id = "l_amante_4"
 date = 1997-08-03
 weight = 17
 categories = ["Romantisme", "Lune"]
-tags = ["amour", "ombres et lumières", "1997", "acrostiche"]
+tags = ["amour", "ombres et lumières", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "Lune amante"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -31,5 +31,5 @@ Tes souvenirs d'amour
 Et le lever du jour.
 
 {{% notice style="primary" %}}
-Acrostiche : Lune amante
+Acrostiche : Lune amante.
 {{% /notice %}}

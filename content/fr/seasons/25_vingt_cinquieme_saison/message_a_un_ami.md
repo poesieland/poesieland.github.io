@@ -1,25 +1,14 @@
----
-weight: 24
-title: Message à un ami
-id: message_a_un_ami_25
-date: 2025-03-16
-verseLength: 8
-divider: ""
-categories:
-    - Angoisse
-    - Mer
-tags:
-    - "2025"
-    - philosophie
-    - nature
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Message à un ami"
+id = "message_a_un_ami_25"
+date = 2025-03-16
+weight = 24
+categories = ["Angoisse", "Mer"]
+tags = ["philosophie", "nature", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ami, dans un moment tragique
 
 Avec la mer au bord des yeux

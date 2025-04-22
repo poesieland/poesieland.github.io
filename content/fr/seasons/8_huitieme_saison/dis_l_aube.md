@@ -4,10 +4,10 @@ id = "dis_l_aube_8"
 date = 1998-08-28
 weight = 29
 categories = ["Crépuscule", "Musique et chant"]
-tags = ["ombres et lumières", "attitudes", "1998", "acrostiche"]
+tags = ["ombres et lumières", "attitudes", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Dis l'aube au crépuscule"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dis l'aube, au crépuscule
@@ -55,5 +55,5 @@ Les reflets vifs s'emballent...
 Et musique s'écrit.
 
 {{% notice style="primary" %}}
-Acrostiche : Dis l'aube au crépuscule
+Acrostiche : Dis l'aube au crépuscule.
 {{% /notice %}}

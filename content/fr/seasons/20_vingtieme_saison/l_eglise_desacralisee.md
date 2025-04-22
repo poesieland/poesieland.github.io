@@ -4,7 +4,7 @@ id = "l_eglise_desacralisee_20"
 date = 2024-05-17
 weight = 15
 categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "octosyllabe"]
 info = "Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Dans cet espace quel usage
 Epanouirait son concept ?
 
 {{% notice style="primary" %}}
-Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion
+Inspiré par une photo publiée sur [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux) et ce n'était aussi que l'aboutissement d'une réflexion.
 {{% /notice %}}

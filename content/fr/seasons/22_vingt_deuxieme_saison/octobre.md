@@ -1,25 +1,14 @@
----
-weight: 27
-title: Octobre
-id: octobre_22
-date: 2024-10-17
-verseLength: 6
-divider: ""
-categories:
-    - Automne
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Octobre"
+id = "octobre_22"
+date = 2024-10-17
+weight = 27
+categories = ["Automne", "Angoisse"]
+tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Comme on entre au couvent
 
 Je plonge vers l'automne,

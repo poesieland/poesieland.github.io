@@ -1,25 +1,14 @@
----
-weight: 48
-title: Couleurs d'été
-id: couleurs_d_ete_20
-date: 2024-06-23
-verseLength: 6
-divider: ""
-categories:
-    - Eté
-    - Flore
-tags:
-    - "2024"
-    - saisons
-    - nature
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Couleurs d'été"
+id = "couleurs_d_ete_20"
+date = 2024-06-23
+weight = 48
+categories = ["Eté", "Flore"]
+tags = ["saisons", "nature", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans la gamme des verts
 
 Je demande la chance

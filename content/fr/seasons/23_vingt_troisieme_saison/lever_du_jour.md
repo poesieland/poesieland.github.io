@@ -1,27 +1,18 @@
----
-weight: 9
-title: Lever du jour
-id: lever_du_jour_23
-date: 2024-12-04
-verseLength: 4
-divider: ""
-categories:
-  - Ciel
-  - Aube
-tags:
-  - "2024"
-  - nature
-  - ombres et lumières
-locations: []
-info: |-
-  Les poèmes qui commencent par ce vers...
-  {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Lever du jour"
+id = "lever_du_jour_23"
+date = 2024-12-04
+weight = 9
+categories = ["Ciel", "Aube"]
+tags = ["nature", "ombres et lumières", "2024", "tétrasyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
+
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le jour se lève,
 
 Il est glorieux,
@@ -50,5 +41,5 @@ Sans se lasser !
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
 {{% /notice %}}

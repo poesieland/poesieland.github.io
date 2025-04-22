@@ -4,10 +4,10 @@ id = "mon_lutin_7"
 date = 1998-07-14
 weight = 19
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Mon lutin"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mignon petit lutin
@@ -27,5 +27,5 @@ Ivre comme les feuilles :
 Nos rêves s'y recueillent.
 
 {{% notice style="primary" %}}
-Acrostiche : Mon lutin
+Acrostiche : Mon lutin.
 {{% /notice %}}

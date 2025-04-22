@@ -4,10 +4,10 @@ id = "en_chaque_etre_9"
 date = 1998-10-30
 weight = 32
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "En chaque être"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En chaque être une étoile,
@@ -37,5 +37,5 @@ Repartir ailleurs, brèves
 Etreintes sans parfum...
 
 {{% notice style="primary" %}}
-Acrostiche : En chaque être
+Acrostiche : En chaque être.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "la_vie_est_comme_un_manege_6"
 date = 1998-03-26
 weight = 10
 categories = ["Espoir"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "La vie est comme un manège"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La vie est comme un manège
@@ -55,5 +55,5 @@ Guide l'espoir, son mystère
 En manège-souvenir.
 
 {{% notice style="primary" %}}
-Acrostiche : La vie est comme un manège
+Acrostiche : La vie est comme un manège.
 {{% /notice %}}

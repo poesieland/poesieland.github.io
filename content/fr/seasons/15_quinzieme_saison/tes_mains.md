@@ -4,10 +4,10 @@ id = "tes_mains_15"
 date = 2001-08-20
 weight = 21
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Tes mains"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tes mains viendront sur la barrière
@@ -28,5 +28,5 @@ Nous danserons, prophète à naître
 Sur les sentiers des cœurs flâneurs.
 
 {{% notice style="primary" %}}
-Acrostiche : Tes mains
+Acrostiche : Tes mains.
 {{% /notice %}}

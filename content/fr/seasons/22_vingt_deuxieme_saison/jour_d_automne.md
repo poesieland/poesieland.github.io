@@ -1,23 +1,14 @@
----
-weight: 32
-title: Jour d'automne
-id: jour_d_automne_22
-date: 2024-10-22
-verseLength: 3
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Jour d'automne"
+id = "jour_d_automne_22"
+date = 2024-10-22
+weight = 32
+categories = ["Automne"]
+tags = ["saisons", "2024", "trisyllabe"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le jour court
 
 Se balance,

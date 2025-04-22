@@ -4,10 +4,10 @@ id = "parfum_muguet_11"
 date = 1999-05-01
 weight = 46
 categories = ["Flore"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Parfum muguet"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Parfum berceau de blanc
@@ -37,5 +37,5 @@ En frémissante obole
 Trois brins que je t'offrais.
 
 {{% notice style="primary" %}}
-Acrostiche : Parfum muguet
+Acrostiche : Parfum muguet.
 {{% /notice %}}

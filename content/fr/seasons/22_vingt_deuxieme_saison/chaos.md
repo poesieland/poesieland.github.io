@@ -1,24 +1,20 @@
----
-weight: 25
-title: Chaos
-id: chaos_22
-date: 2024-10-13
-verseLength: -1
-divider: ""
-categories:
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - "métrique variable"
-locations: []
-info: "Métrique variable : 8, 6."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Chaos"
+id = "chaos_22"
+date = 2024-10-13
+weight = 25
+categories = ["Angoisse"]
+tags = ["philosophie", "2024", "métrique variable", "octosyllabe", "hexasyllabe"]
+info = """
+Métrique variable : 8, 6.
+
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
+
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Trop de choses auront changé
 
 D'un présent qui bascule
@@ -49,5 +45,5 @@ Ainsi se perd le monde.
 Métrique variable : 8, 6.
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}.
 {{% /notice %}}

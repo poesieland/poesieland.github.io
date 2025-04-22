@@ -3,11 +3,11 @@ title = "Mélancolie"
 id = "melancolie_7"
 date = 1998-07-18
 weight = 45
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Mélancolie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mélancolie, où seul je vois
@@ -31,5 +31,5 @@ Imagine un autre remords
 Et l'âme sépare du corps...
 
 {{% notice style="primary" %}}
-Acrostiche : Mélancolie
+Acrostiche : Mélancolie.
 {{% /notice %}}

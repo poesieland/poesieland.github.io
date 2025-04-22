@@ -4,10 +4,10 @@ id = "guerre_11"
 date = 1999-05-03
 weight = 36
 categories = ["Révolte"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Même ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marcher sur une âme
@@ -28,5 +28,5 @@ Et malgré l'Histoire
 Là : le même ciel.
 
 {{% notice style="primary" %}}
-Acrostiche : Même ciel
+Acrostiche : Même ciel.
 {{% /notice %}}

@@ -1,24 +1,14 @@
----
-weight: 15
-title: L'ange gardien
-id: l_ange_gardien_24
-date: 2025-01-09
-verseLength: 6
-divider: ""
-categories:
-    - Portraits
-    - Espoir
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'ange gardien"
+id = "l_ange_gardien_24"
+date = 2025-01-09
+weight = 15
+categories = ["Portraits", "Espoir"]
+tags = ["philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Si le ciel s'assombrit
 
 Jusqu'à la fin du monde

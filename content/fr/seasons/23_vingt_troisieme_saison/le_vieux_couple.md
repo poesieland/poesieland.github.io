@@ -1,26 +1,19 @@
----
-weight: 40
-title: Le vieux couple
-id: le_vieux_couple_23
-date: 2024-12-28
-verseLength: 12
-divider: ""
-categories:
-    - Romantisme
-tags:
-    - "2024"
-    - acrostiche
-    - amour
-locations: []
-info: |-
-    Les poèmes de ce mini-thème glissant vers la vieillesse :
-    {{% include "../../includes/demain_etre" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: Demain vivant
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le vieux couple"
+id = "le_vieux_couple_23"
+date = 2024-12-28
+weight = 40
+categories = ["Romantisme"]
+tags = ["amour", "2024", "acrostiche", "alexandrin"]
+info = """
+Les poèmes de ce mini-thème glissant vers la vieillesse :
+{{% include "../../includes/demain_etre" hidefirstheading %}}"""
+
+acrostiche = "Demain vivant"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Demain nous serons vieux, demain nous serons morts
 
 Et demain serons-nous ? Le temps nous prend pour cible,
@@ -47,11 +40,9 @@ Noces, une montagne à gravir, un effort,
 
 Tout notre amour demain n'est pas juste un miracle.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Demain vivant.
-
 Les poèmes de ce mini-thème glissant vers la vieillesse :
-{{% include "../../includes/demain_etre" hidefirstheading %}}
+{{% include "../../includes/demain_etre" hidefirstheading %}}.
+
+Acrostiche : Demain vivant.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

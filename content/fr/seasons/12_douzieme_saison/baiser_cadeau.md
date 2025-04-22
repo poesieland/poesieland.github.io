@@ -3,11 +3,11 @@ title = "Baiser, cadeau"
 id = "baiser_cadeau_12"
 date = 1999-06-06
 weight = 3
-categories = [ "Toucher", "Passion" ]
-tags = [ "amour", "attitudes", "1999", "acrostiche" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Baiser, cadeau"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Brillant sur mes lèvres,
@@ -37,5 +37,5 @@ Ardent, cet accord,
 Unira son chiasme...
 
 {{% notice style="primary" %}}
-Acrostiche : Baiser, cadeau
+Acrostiche : Baiser, cadeau.
 {{% /notice %}}

@@ -1,5 +1,5 @@
 +++
-title = "Dissyllabe"
+title = "Monosyllabe"
 +++
 
 Au rayon des phénomènes, il existe le [monosyllabe](https://fr.wikipedia.org/wiki/Monosyllabe).

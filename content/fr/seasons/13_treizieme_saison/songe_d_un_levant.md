@@ -4,10 +4,10 @@ id = "songe_d_un_levant_13"
 date = 1999-07-31
 weight = 42
 categories = ["Aube", "Espoir"]
-tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Songe d'un levant"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur la douceur de mes paupières,
@@ -41,5 +41,5 @@ Notre berceau, guide nos rêves !
 Terre, Soleil, le temps s'élèvent !
 
 {{% notice style="primary" %}}
-Acrostiche : Songe d'un levant
+Acrostiche : Songe d'un levant.
 {{% /notice %}}

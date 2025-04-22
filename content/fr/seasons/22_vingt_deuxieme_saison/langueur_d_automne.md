@@ -1,23 +1,14 @@
----
-weight: 2
-title: Langueur d'automne
-id: langueur_d_automne_22
-date: 2024-09-06
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Langueur d'automne"
+id = "langueur_d_automne_22"
+date = 2024-09-06
+weight = 2
+categories = ["Automne"]
+tags = ["saisons", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il se rapproche, l'équinoxe,
 
 Le jour cavale avant la nuit,

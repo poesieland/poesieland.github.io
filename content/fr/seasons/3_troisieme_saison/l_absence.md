@@ -4,7 +4,7 @@ id = "l_absence_3"
 date = 1997-05-02
 weight = 19
 categories = ["Temps", "Amitié"]
-tags = ["philosophie", "amour", "1997", "métrique variable"]
+tags = ["philosophie", "amour", "1997", "métrique variable", "octosyllabe", "pentasyllabe"]
 info = "Métrique variable : 8, 5"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,5 +55,5 @@ Et ta tendresse fait surseoir
 Le temps qui nous ronge...
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 5
+Métrique variable : 8, 5.
 {{% /notice %}}

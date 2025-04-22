@@ -3,8 +3,8 @@ title = "Je vivrai"
 id = "je_vivrai_16"
 date = 2004-05-26
 weight = 33
-categories = [ "Espoir", "Temps", "Apprentissage" ]
-tags = [ "philosophie", "2004" ]
+categories = ["Espoir", "Temps", "Apprentissage"]
+tags = ["philosophie", "2004", "hexasyllabe"]
 info = "Les états d'âme d'une catherinette"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ De moi le temps n'a prise
 Sur l'esprit du bonheur.
 
 {{% notice style="primary" %}}
-Les états d'âme d'une catherinette
+Les états d'âme d'une catherinette.
 {{% /notice %}}

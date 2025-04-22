@@ -1,23 +1,14 @@
----
-weight: 13
-title: Il neige
-id: il_neige_24
-date: 2025-01-08
-verseLength: 4
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2025"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Il neige"
+id = "il_neige_24"
+date = 2025-01-08
+weight = 13
+categories = ["Neige"]
+tags = ["nature", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il neige, ô blanc
 
 Qui s'amoncelle,

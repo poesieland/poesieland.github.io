@@ -4,10 +4,10 @@ id = "l_air_du_soir_forets_15"
 date = 2001-09-16
 weight = 32
 categories = ["Jardin et paysage"]
-tags = ["nature", "2001", "acrostiche"]
+tags = ["nature", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "L'air du soir, forêts"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La forêt bruisse, et calme l'onde
@@ -46,5 +46,5 @@ Trace ma route qui résonne
 Seule, sous les arbres altiers.
 
 {{% notice style="primary" %}}
-Acrostiche : L'air du soir, forêts
+Acrostiche : L'air du soir, forêts.
 {{% /notice %}}

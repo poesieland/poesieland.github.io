@@ -1,23 +1,14 @@
----
-weight: 18
-title: A coeur vaillant
-id: a_coeur_vaillant_24
-date: 2025-01-11
-verseLength: 4
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "A coeur vaillant"
+id = "a_coeur_vaillant_24"
+date = 2025-01-11
+weight = 18
+categories = ["Espoir"]
+tags = ["philosophie", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Parle à mon coeur
 
 Si tu désires

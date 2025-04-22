@@ -4,10 +4,10 @@ id = "l_un_l_autre_moi_7"
 date = 1998-07-10
 weight = 50
 categories = ["Création", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1998", "acrostiche"]
+tags = ["philosophie", "attitudes", "1998", "acrostiche", "tétrasyllabe"]
 acrostiche = "L'un, l'autre, moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'un, l'autre, moi,
@@ -37,5 +37,5 @@ Offert s'élance :
 Il dit présence.
 
 {{% notice style="primary" %}}
-Acrostiche : L'un, l'autre, moi
+Acrostiche : L'un, l'autre, moi.
 {{% /notice %}}

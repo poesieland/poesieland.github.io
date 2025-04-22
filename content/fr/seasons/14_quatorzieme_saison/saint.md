@@ -4,11 +4,11 @@ id = "saint_14"
 date = 1999-11-06
 weight = 1
 categories = ["Foi", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 info = "Sublimation religieuse de la vocation du chanteur Andrea Bocelli."
 acrostiche = "San Bocelli"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sacrifié dans ta chair pour recevoir l'Offrande,
@@ -34,5 +34,5 @@ Ivre, à toi, souverain, multicolore écume.
 {{% notice style="primary" %}}
 Sublimation religieuse de la vocation du chanteur Andrea Bocelli.
 
-Acrostiche : San Bocelli
+Acrostiche : San Bocelli.
 {{% /notice %}}

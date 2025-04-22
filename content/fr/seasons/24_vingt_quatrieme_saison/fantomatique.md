@@ -1,23 +1,14 @@
----
-weight: 25
-title: Fantomatique
-id: fantomatique_24
-date: 2025-01-16
-verseLength: 2
-divider: ""
-categories:
-    - Ciel
-tags:
-    - "2025"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Fantomatique"
+id = "fantomatique_24"
+date = 2025-01-16
+weight = 25
+categories = ["Ciel"]
+tags = ["nature", "2025", "dissyllabe"]
+verseLength = 2
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Brouillard
 
 Aux cimes 

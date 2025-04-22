@@ -3,11 +3,11 @@ title = "Un parmi d'autres"
 id = "un_parmi_d_autres_7"
 date = 1998-07-06
 weight = 6
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Un parmi d'autres"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un parmi d'autres, découvert :
@@ -39,5 +39,5 @@ Eternelle ombre à corps perdu
 Seule d'oubli, malentendu...
 
 {{% notice style="primary" %}}
-Acrostiche : Un parmi d'autres
+Acrostiche : Un parmi d'autres.
 {{% /notice %}}

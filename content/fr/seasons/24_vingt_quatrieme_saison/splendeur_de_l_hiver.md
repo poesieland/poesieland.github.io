@@ -1,27 +1,18 @@
----
-weight: 37
-title: Splendeur de l'hiver
-id: splendeur_de_l_hiver_24
-date: 2025-02-01
-verseLength: 8
-divider: ""
-categories:
-    - Hiver
-    - Jardin et paysage
-tags:
-    - "2025"
-    - nature
-    - saisons
-locations: []
-info: |-
-    Les poèmes qui reprennent _l'orgue des arbres_ :
-    {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Splendeur de l'hiver"
+id = "splendeur_de_l_hiver_24"
+date = 2025-02-01
+weight = 37
+categories = ["Hiver", "Jardin et paysage"]
+tags = ["saisons", "nature", "2025", "octosyllabe"]
+info = """
+Les poèmes qui reprennent _l'orgue des arbres_ :
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'orgue des arbres s'emporte haut
 
 Comme murmure une prière,
@@ -41,5 +32,5 @@ Un photographe erre, lucide.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
-{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}.
 {{% /notice %}}

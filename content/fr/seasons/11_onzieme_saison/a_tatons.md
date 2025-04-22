@@ -4,10 +4,10 @@ id = "a_tatons_11"
 date = 1999-04-20
 weight = 6
 categories = ["Toucher", "Musique et chant", "Romantisme"]
-tags = ["attitudes", "amour", "1999", "acrostiche"]
+tags = ["attitudes", "amour", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "A tâtons"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A tâtons ta main m'éveille
@@ -37,5 +37,5 @@ Invite lorsque s'emporte
 Rêve de nos paradis !
 
 {{% notice style="primary" %}}
-Acrostiche : A tâtons
+Acrostiche : A tâtons.
 {{% /notice %}}

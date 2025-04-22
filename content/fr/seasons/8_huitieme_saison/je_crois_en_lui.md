@@ -4,10 +4,10 @@ id = "je_crois_en_lui_8"
 date = 1998-09-05
 weight = 37
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je crois en lui"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je crois en celui qui viendra
@@ -37,5 +37,5 @@ Un océan ne peut réduire,
 Il se traverse sans renier.
 
 {{% notice style="primary" %}}
-Acrostiche : Je crois en lui
+Acrostiche : Je crois en lui.
 {{% /notice %}}

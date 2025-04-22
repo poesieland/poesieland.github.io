@@ -3,10 +3,10 @@ title = "Ton cœur"
 id = "ton_cour_6"
 date = 1998-05-08
 weight = 43
-categories = [ "Passion" ]
-tags = [ "amour", "1998" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Passion"]
+tags = ["amour", "1998", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ton cœur qui désespère

@@ -1,24 +1,15 @@
----
-weight: 4
-title: Passage
-id: passage_25
-date: 2025-02-25
-verseLength: -1
-divider: ""
-categories:
-    - Printemps
-tags:
-    - "2025"
-    - "métrique variable"
-    - saisons
-locations: []
-info: "Métrique variable : 6, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Passage"
+id = "passage_25"
+date = 2025-02-25
+weight = 4
+categories = ["Printemps"]
+tags = ["saisons", "2025", "métrique variable", "hexasyllabe", "dissyllabe"]
+info = "Métrique variable : 6, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel d'un gris plombé
 
 Chantonne

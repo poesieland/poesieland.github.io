@@ -3,8 +3,8 @@ title = "Tu m'as donné ton bonheur"
 id = "tu_m_as_donne_ton_bonheur_5"
 date = 1998-02-22
 weight = 10
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Tu m'as donné ton bonheur"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,5 +55,5 @@ Ultime baiser troublant
 Ravit l'âme vaporeuse !
 
 {{% notice style="primary" %}}
-Acrostiche : Tu m'as donné ton bonheur
+Acrostiche : Tu m'as donné ton bonheur.
 {{% /notice %}}

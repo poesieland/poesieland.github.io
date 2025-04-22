@@ -3,11 +3,11 @@ title = "Déchaîné"
 id = "dechaine_10"
 date = 1999-02-09
 weight = 42
-categories = [ "Passion" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1999", "acrostiche", "ennéasyllabe"]
 acrostiche = "Déchaîné"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Déchaîné, mon cœur s'éprend du tien
@@ -28,5 +28,5 @@ Né par toi, l'ombre de mes douleurs
 Et j'oublierai le jour et la nuit somnambule...
 
 {{% notice style="primary" %}}
-Acrostiche : Déchaîné
+Acrostiche : Déchaîné.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "ballet_du_ciel_15"
 date = 2001-06-20
 weight = 6
 categories = ["Ciel"]
-tags = ["nature", "2001", "acrostiche"]
+tags = ["nature", "2001", "acrostiche", "hexasyllabe"]
 acrostiche = "Ballet du ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Boréale l'aurore
@@ -37,5 +37,5 @@ En les cieux orpailleurs
 La terre circonscrite.
 
 {{% notice style="primary" %}}
-Acrostiche : Ballet du ciel
+Acrostiche : Ballet du ciel.
 {{% /notice %}}

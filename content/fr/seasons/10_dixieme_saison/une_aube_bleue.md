@@ -4,10 +4,10 @@ id = "une_aube_bleue_10"
 date = 1999-03-03
 weight = 34
 categories = ["Musique et chant", "Jardin et paysage"]
-tags = ["attitudes", "nature", "1999", "acrostiche"]
+tags = ["attitudes", "nature", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Une aube bleue"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un autre souffle me réveille
@@ -37,5 +37,5 @@ Un merle, chante la lumière
 En ce jardin vivace, aimé.
 
 {{% notice style="primary" %}}
-Acrostiche : Une aube bleue
+Acrostiche : Une aube bleue.
 {{% /notice %}}

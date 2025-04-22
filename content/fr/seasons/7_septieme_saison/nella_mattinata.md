@@ -4,10 +4,10 @@ id = "nella_mattinata_7"
 date = 1998-07-01
 weight = 11
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Nella mattinata"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Née à l'aurore d'un matin
@@ -39,5 +39,5 @@ Troublé par l'ombre de ta voix
 Andante dans l'aurore, émois !
 
 {{% notice style="primary" %}}
-Acrostiche : Nella mattinata
+Acrostiche : Nella mattinata.
 {{% /notice %}}

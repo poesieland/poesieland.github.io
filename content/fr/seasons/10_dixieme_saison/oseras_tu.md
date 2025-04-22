@@ -4,10 +4,10 @@ id = "oseras_tu_10"
 date = 1999-01-30
 weight = 39
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "décasyllabe"]
 acrostiche = "Oseras-tu ?"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Oseras-tu dire au monde qui pleure

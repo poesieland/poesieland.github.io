@@ -4,11 +4,11 @@ id = "canto_dell_anima_13"
 date = 1999-09-19
 weight = 10
 categories = ["Foi", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "acrostiche"]
+tags = ["philosophie", "attitudes", "1999", "acrostiche", "alexandrin"]
 info = "\"Chant de l'âme\" en italien."
 acrostiche = "Canto dell'anima"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comment viendrai-je enfin pour chanter tes louanges ?
@@ -42,7 +42,7 @@ Message plus fidèle à l'étoile, lumière...
 Anima dans l'éclat élevé de prière.
 
 {{% notice style="primary" %}}
-\"Chant de l'âme\" en italien.
+"Chant de l'âme" en italien.
 
-Acrostiche : Canto dell'anima
+Acrostiche : Canto dell'anima.
 {{% /notice %}}

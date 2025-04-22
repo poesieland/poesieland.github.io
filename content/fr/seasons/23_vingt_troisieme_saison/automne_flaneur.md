@@ -1,23 +1,14 @@
----
-weight: 6
-title: Automne flâneur
-id: automne_flaneur_23
-date: 2024-11-23
-verseLength: 6
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Automne flâneur"
+id = "automne_flaneur_23"
+date = 2024-11-23
+weight = 6
+categories = ["Automne"]
+tags = ["saisons", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un air de déjà vu,
 
 Le miroir d'une flaque

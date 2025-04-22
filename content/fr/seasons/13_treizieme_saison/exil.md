@@ -4,10 +4,10 @@ id = "exil_13"
 date = 1999-08-27
 weight = 47
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Core 'ngrato"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 ... Car il n'est de soleil pour bercer la cité;
@@ -31,5 +31,5 @@ Tous les temps du passé, du présent, du futur...
 O l'exil a blessé ce souvenir si pur !
 
 {{% notice style="primary" %}}
-Acrostiche : Core 'ngrato
+Acrostiche : Core 'ngrato.
 {{% /notice %}}

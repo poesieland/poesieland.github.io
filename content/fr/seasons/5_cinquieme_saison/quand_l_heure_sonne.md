@@ -3,8 +3,8 @@ title = "Quand l'heure sonne"
 id = "quand_l_heure_sonne_5"
 date = 1998-03-01
 weight = 14
-categories = [ "Temps", "Apprentissage" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Temps", "Apprentissage"]
+tags = ["philosophie", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Quand l'heure sonne"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Nos sens liés dans l'intime prière
 Entendront-ils le cri du parchemin ?
 
 {{% notice style="primary" %}}
-Acrostiche : Quand l'heure sonne
+Acrostiche : Quand l'heure sonne.
 {{% /notice %}}

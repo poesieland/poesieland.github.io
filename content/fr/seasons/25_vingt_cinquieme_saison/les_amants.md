@@ -1,23 +1,14 @@
----
-weight: 18
-title: Les amants
-id: les_amants_25
-date: 2025-03-10
-verseLength: 7
-divider: ""
-categories:
-    - Passion
-tags:
-    - "2025"
-    - amour
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les amants"
+id = "les_amants_25"
+date = 2025-03-10
+weight = 18
+categories = ["Passion"]
+tags = ["amour", "2025", "heptasyllabe"]
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Tresse-moi belle couronne
 
 Avec des épis dorés

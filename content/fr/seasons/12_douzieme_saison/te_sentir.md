@@ -3,11 +3,11 @@ title = "Te sentir"
 id = "te_sentir_12"
 date = 1999-07-22
 weight = 12
-categories = [ "Toucher", "Passion" ]
-tags = [ "amour", "attitudes", "1999", "acrostiche" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Te sentir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Te toucher, te sentir, sur ma peau, dans mes rêves,
@@ -28,5 +28,5 @@ Invite-moi ! Tu veux que je sois ton étoile,
 Ris avec moi, l'amour en nos âmes, nos peaux.
 
 {{% notice style="primary" %}}
-Acrostiche : Te sentir
+Acrostiche : Te sentir.
 {{% /notice %}}

@@ -4,7 +4,7 @@ id = "l_ame_du_merle_19"
 date = 2024-04-10
 weight = 41
 categories = ["Faune"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

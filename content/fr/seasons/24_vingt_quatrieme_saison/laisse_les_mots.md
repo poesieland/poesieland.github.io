@@ -1,29 +1,19 @@
----
-weight: 39
-title: Laisse les mots
-id: laisse_les_mots_24
-date: 2025-02-04
-verseLength: -1
-divider: ""
-categories:
-    - Création
-    - Apprentissage
-tags:
-    - "2025"
-    - métrique variable
-    - philosophie
-    - les mots
-locations: []
-info: |-
-    Métrique variable : 6, 3.
++++
+title = "Laisse les mots"
+id = "laisse_les_mots_24"
+date = 2025-02-04
+weight = 39
+categories = ["Création", "Apprentissage"]
+tags = ["philosophie", "les mots", "2025", "métrique variable", "hexasyllabe", "trisyllabe"]
+info = """
+Métrique variable : 6, 3.
 
-    [Les poèmes du mini-thème "les mots"](/tags/les-mots)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+[Les poèmes du mini-thème "les mots"](/tags/les-mots)"""
+
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Laisse les mots couler
 
 De ton âme,
@@ -71,5 +61,5 @@ Mots-images.
 {{% notice style="primary" %}}
 Métrique variable : 6, 3.
 
-[Les poèmes du mini-thème "les mots"](/tags/les-mots)
+[Les poèmes du mini-thème "les mots"](/tags/les-mots).
 {{% /notice %}}

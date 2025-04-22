@@ -4,10 +4,10 @@ id = "ce_jour_la_7"
 date = 1998-07-17
 weight = 7
 categories = ["Création", "Amitié"]
-tags = ["philosophie", "amour", "1998", "acrostiche"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Ce jour-là tu disais"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ce jour-là tu disais : un autre temps viendra
@@ -46,5 +46,5 @@ Il n'en resterait plus qu'un ancien jour charmé,
 Seras-tu d'un adieu le dernier mot du livre ?
 
 {{% notice style="primary" %}}
-Acrostiche : Ce jour-là tu disais
+Acrostiche : Ce jour-là tu disais.
 {{% /notice %}}

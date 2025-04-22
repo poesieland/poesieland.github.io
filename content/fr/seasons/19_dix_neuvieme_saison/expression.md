@@ -4,7 +4,7 @@ id = "expression_19"
 date = 2024-03-24
 weight = 28
 categories = ["Création"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

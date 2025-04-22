@@ -1,25 +1,14 @@
----
-weight: 47
-title: Fin d'hiver
-id: fin_d_hiver_24
-date: 2025-02-16
-verseLength: 8
-divider: ""
-categories:
-    - Hiver
-    - Ville
-tags:
-    - "2025"
-    - ombres et lumières
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Fin d'hiver"
+id = "fin_d_hiver_24"
+date = 2025-02-16
+weight = 47
+categories = ["Hiver", "Ville"]
+tags = ["saisons", "ombres et lumières", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 On a taillé les arbres tard
 
 Juste à côté, l'hiver frissonne,

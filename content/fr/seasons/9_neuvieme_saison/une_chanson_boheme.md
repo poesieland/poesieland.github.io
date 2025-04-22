@@ -4,10 +4,10 @@ id = "une_chanson_boheme_9"
 date = 1998-09-30
 weight = 20
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Une chanson bohème"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une idée en mon cœur
@@ -18,7 +18,7 @@ Emporte en sa douceur
 
 Charmante d'habitude
 
-\
+ \
 Heurtée, en ma prison
 
 Aux murs peuplés d'images,
@@ -46,5 +46,5 @@ Mon cœur oublié, sot
 Espérait la lumière.
 
 {{% notice style="primary" %}}
-Acrostiche : Une chanson bohème
+Acrostiche : Une chanson bohème.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "par_tes_graces_14"
 date = 1999-11-28
 weight = 28
 categories = ["Foi", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "acrostiche"]
+tags = ["philosophie", "attitudes", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Par tes grâces"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Plus près de Dieu par ton visage
@@ -37,5 +37,5 @@ En tes prières temps s'envole,
 Sacré dans l'air, la foi jaillit.
 
 {{% notice style="primary" %}}
-Acrostiche : Par tes grâces
+Acrostiche : Par tes grâces.
 {{% /notice %}}

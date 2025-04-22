@@ -4,10 +4,10 @@ id = "tu_n_as_pas_de_visage_6"
 date = 1998-05-30
 weight = 49
 categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Tu n'as pas de visage"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu n'as pas de visage à l'ombre dérobée,
@@ -46,5 +46,5 @@ Grandit au plus profond de la sombre prunelle
 Et même sans couleur ta figure vibrait.
 
 {{% notice style="primary" %}}
-Acrostiche : Tu n'as pas de visage
+Acrostiche : Tu n'as pas de visage.
 {{% /notice %}}

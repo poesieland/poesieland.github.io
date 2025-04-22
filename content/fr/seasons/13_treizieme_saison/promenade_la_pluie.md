@@ -4,10 +4,10 @@ id = "promenade_la_pluie_13"
 date = 1999-08-10
 weight = 15
 categories = ["Jardin et paysage"]
-tags = ["nature", "1999", "doubleAcrostiche"]
+tags = ["nature", "1999", "doubleAcrostiche", "alexandrin"]
 doubleAcrostiche = "Promenade | la pluie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Parce qu'une saison chasse l'autre bientôt
@@ -46,5 +46,5 @@ Déchire sa finesse aux insectes qui font
 Eperdus un radeau d'une brindille douce !
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Promenade / la pluie
+Acrostiche double (lignes paires et impaires) : Promenade / la pluie.
 {{% /notice %}}

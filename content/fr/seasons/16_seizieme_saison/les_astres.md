@@ -4,7 +4,7 @@ id = "les_astres_16"
 date = 2004-06-08
 weight = 38
 categories = ["Ciel"]
-tags = ["nature", "2004"]
+tags = ["nature", "2004", "ennéasyllabe"]
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

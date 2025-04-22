@@ -4,10 +4,10 @@ id = "un_reve_d_ete_11"
 date = 1999-04-27
 weight = 20
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Un rêve d'été"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une odeur d'été
@@ -31,5 +31,5 @@ Très loin sur la grève
 Emerveille un rêve.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rêve d'été
+Acrostiche : Un rêve d'été.
 {{% /notice %}}

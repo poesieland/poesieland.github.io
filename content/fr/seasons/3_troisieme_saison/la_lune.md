@@ -4,7 +4,7 @@ id = "la_lune_3"
 date = 1997-04-09
 weight = 4
 categories = ["Lune"]
-tags = ["ombres et lumières", "1997"]
+tags = ["ombres et lumières", "1997", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

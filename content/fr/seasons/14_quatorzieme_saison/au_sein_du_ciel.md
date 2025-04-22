@@ -3,13 +3,13 @@ title = "Au sein du ciel"
 id = "au_sein_du_ciel_14"
 date = 2001-03-16
 weight = 10
-categories = [ "Ciel" ]
-tags = [ "nature", "2001", "acrostiche" ]
+categories = ["Ciel"]
+tags = ["nature", "2001", "acrostiche", "hexasyllabe"]
 info = "Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m."
 acrostiche = "Au sein du ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
-locations = [ "Alpes" ]
+locations = ["Alpes"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au plat ciel dénudé
@@ -41,5 +41,5 @@ Le ciel touche à son terme.
 {{% notice style="primary" %}}
 Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m.
 
-Acrostiche : Au sein du ciel
+Acrostiche : Au sein du ciel.
 {{% /notice %}}

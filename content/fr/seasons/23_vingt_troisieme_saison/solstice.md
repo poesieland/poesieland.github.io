@@ -1,25 +1,14 @@
----
-weight: 18
-title: Solstice
-id: solstice_23
-date: 2024-12-20
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Angoisse
-tags:
-    - "2024"
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Solstice"
+id = "solstice_23"
+date = 2024-12-20
+weight = 18
+categories = ["Ciel", "Angoisse"]
+tags = ["nature", "philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Demain plus court sera
 
 Son parcours, folle course :

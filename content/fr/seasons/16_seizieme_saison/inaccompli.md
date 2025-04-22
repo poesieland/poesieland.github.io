@@ -4,7 +4,7 @@ id = "inaccompli_16"
 date = 2004-06-23
 weight = 39
 categories = ["Eté"]
-tags = ["saisons", "2004"]
+tags = ["saisons", "2004", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

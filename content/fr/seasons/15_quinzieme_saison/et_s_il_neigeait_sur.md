@@ -3,11 +3,11 @@ title = "Et s'il neigeait sur..."
 id = "et_s_il_neigeait_sur_15"
 date = 2001-12-24
 weight = 49
-categories = [ "Neige", "Passion" ]
-tags = [ "amour", "nature", "2001", "acrostiche" ]
+categories = ["Neige", "Passion"]
+tags = ["nature", "amour", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Et s'il neigeait sur..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et s'il neigeait sur nos amours

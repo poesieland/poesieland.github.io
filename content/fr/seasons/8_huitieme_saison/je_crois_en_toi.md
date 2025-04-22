@@ -3,11 +3,11 @@ title = "Je crois en toi"
 id = "je_crois_en_toi_8"
 date = 1998-07-23
 weight = 10
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Je crois en toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je crois en toi, l'amant, l'unique,
@@ -37,5 +37,5 @@ Obélisque je nais, culmine,
 Intense à ton accord voleur.
 
 {{% notice style="primary" %}}
-Acrostiche : Je crois en toi
+Acrostiche : Je crois en toi.
 {{% /notice %}}

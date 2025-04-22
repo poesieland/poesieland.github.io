@@ -3,8 +3,8 @@ title = "Besoin de toi"
 id = "besoin_de_toi_5"
 date = 1998-02-15
 weight = 8
-categories = [ "Toucher", "Passion" ]
-tags = [ "attitudes", "amour", "1998" ]
+categories = ["Toucher", "Passion"]
+tags = ["attitudes", "amour", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

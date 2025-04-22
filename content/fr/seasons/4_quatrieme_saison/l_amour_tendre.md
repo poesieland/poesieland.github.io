@@ -4,7 +4,7 @@ id = "l_amour_tendre_4"
 date = 1997-08-10
 weight = 13
 categories = ["Romantisme"]
-tags = ["amour", "1997", "acrostiche"]
+tags = ["amour", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "L'amour tendre"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Rosis, les cieux délient :
 Encres de nos amours.
 
 {{% notice style="primary" %}}
-Acrostiche : L'amour tendre
+Acrostiche : L'amour tendre.
 {{% /notice %}}

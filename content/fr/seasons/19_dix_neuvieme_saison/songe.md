@@ -3,13 +3,13 @@ title = "Songe"
 id = "songe_19"
 date = 2024-04-12
 weight = 42
-categories = [ "Etre" ]
-tags = [ "philosophie", "2024" ]
+categories = ["Etre"]
+tags = ["philosophie", "2024", "alexandrin"]
 info = """
-{{% notice style="primary" %}}
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}"""
+"""
+
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -43,4 +43,5 @@ Tu songeais dans le bleu de la nuit qui s'abime.
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+.
 {{% /notice %}}

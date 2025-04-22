@@ -4,10 +4,10 @@ id = "si_les_roses_fanent_9"
 date = 1998-11-25
 weight = 6
 categories = ["Flore", "Foi"]
-tags = ["nature", "philosophie", "1998", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Si les roses fanent"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si les roses se fanent
@@ -46,5 +46,5 @@ Nue, une fleur entonne
 Triste, un refrain fêlé.
 
 {{% notice style="primary" %}}
-Acrostiche : Si les roses fanent
+Acrostiche : Si les roses fanent.
 {{% /notice %}}

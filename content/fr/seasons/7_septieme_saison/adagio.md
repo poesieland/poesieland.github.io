@@ -4,9 +4,9 @@ id = "adagio_7"
 date = 1998-06-27
 weight = 37
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["attitudes", "1998", "alexandrin"]
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au spectre musical je confierai le temps,

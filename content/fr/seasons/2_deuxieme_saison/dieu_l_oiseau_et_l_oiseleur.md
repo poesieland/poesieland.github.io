@@ -4,7 +4,7 @@ id = "dieu_l_oiseau_et_l_oiseleur_2"
 date = 1996-09-10
 weight = 42
 categories = ["Révolte"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

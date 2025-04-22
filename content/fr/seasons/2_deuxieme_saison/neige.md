@@ -3,13 +3,14 @@ title = "Neige"
 id = "neige_2"
 date = 1996-12-31
 weight = 27
-categories = [ "Neige" ]
-tags = [ "nature", "1996" ]
-verseLength = 8
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Neige"]
+tags = ["nature", "1996", "octosyllabe"]
 info = """
 Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il avait neigé ce matin.
@@ -40,5 +41,5 @@ Tombe l'espoir tant désiré.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
-{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}.
 {{% /notice %}}

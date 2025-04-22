@@ -3,11 +3,11 @@ title = "Une vierge"
 id = "une_vierge_9"
 date = 1998-10-31
 weight = 47
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Une vierge, moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une vierge a rêvé que l'onde du ruisseau
@@ -37,5 +37,5 @@ Offrant à l'herbe folle un chant plus insistant;
 Imaginaire un rêve au corsage bizarre.
 
 {{% notice style="primary" %}}
-Acrostiche : Une vierge, moi
+Acrostiche : Une vierge, moi.
 {{% /notice %}}

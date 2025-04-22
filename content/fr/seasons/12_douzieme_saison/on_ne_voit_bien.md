@@ -4,10 +4,10 @@ id = "on_ne_voit_bien_12"
 date = 1999-07-24
 weight = 24
 categories = ["Apprentissage"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "On ne voit bien..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 On ne voit bien qu'avec son cœur,

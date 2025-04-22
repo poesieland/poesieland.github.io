@@ -4,7 +4,7 @@ id = "la_mine_ou_la_mer_20"
 date = 2024-05-09
 weight = 11
 categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

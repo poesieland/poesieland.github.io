@@ -4,10 +4,10 @@ id = "entre_vie_et_mort_7"
 date = 1998-07-09
 weight = 15
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Entre vie et mort"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Entre la vie et la mort
@@ -39,5 +39,5 @@ Refleurissait d'un oubli :
 Toi, ma vie, un seul délit.
 
 {{% notice style="primary" %}}
-Acrostiche : Entre vie et mort
+Acrostiche : Entre vie et mort.
 {{% /notice %}}

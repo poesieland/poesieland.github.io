@@ -1,25 +1,14 @@
----
-weight: 43
-title: Gaieté
-id: gaiete_25
-date: 2025-03-31
-verseLength: 5
-divider: ""
-categories:
-    - Etre
-    - Musique et chant
-tags:
-    - "2025"
-    - philosophie
-    - attitudes
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Gaieté"
+id = "gaiete_25"
+date = 2025-03-31
+weight = 43
+categories = ["Etre", "Musique et chant"]
+tags = ["philosophie", "attitudes", "2025", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je prends ce qui vient
 
 Percuter mon être

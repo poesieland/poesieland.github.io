@@ -3,15 +3,15 @@ title = "Saisons terrestres"
 id = "saisons_terrestres_3"
 date = 1997-02-15
 weight = 26
-categories = [ "Temps" ]
-tags = [ "philosophie", "1997" ]
+categories = ["Temps"]
+tags = ["philosophie", "1997", "octosyllabe"]
+info = """
+
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = """
-{{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
-{{% include "../../include/tous_les_vieux_arbres" hidefirstheading %}}
-{{% /notice %}}"""
 +++
 
 Tous les vieux arbres ont des fleurs
@@ -41,6 +41,7 @@ Pour mesurer notre destin
 Et l'homme que son cœur habite.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}.
 {{% /notice %}}

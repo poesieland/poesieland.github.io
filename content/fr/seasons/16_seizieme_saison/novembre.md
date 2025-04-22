@@ -4,9 +4,9 @@ id = "novembre_16"
 date = 2003-11-12
 weight = 18
 categories = ["Automne", "Ville"]
-tags = ["saisons", "ombres et lumières", "2003"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["saisons", "ombres et lumières", "2003", "hexasyllabe"]
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les feuilles poissent gras

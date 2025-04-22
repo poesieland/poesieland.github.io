@@ -4,10 +4,10 @@ id = "amour_theme_eveils_10"
 date = 1999-03-16
 weight = 47
 categories = ["Espoir"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Amour, thème : éveils"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Amour, thème majuscule,
@@ -45,5 +45,5 @@ L'amour dit son thème au vent,
 Souffles nés d'un jour d'avant...
 
 {{% notice style="primary" %}}
-Acrostiche : Amour, thème : éveils
+Acrostiche : Amour, thème : éveils.
 {{% /notice %}}

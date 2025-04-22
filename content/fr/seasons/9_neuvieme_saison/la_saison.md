@@ -4,10 +4,10 @@ id = "la_saison_9"
 date = 1998-09-26
 weight = 3
 categories = ["Automne"]
-tags = ["saisons", "1998", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche", "alexandrin"]
 acrostiche = "La saison"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne en orphelin qui s'est trompé d'adresse
@@ -28,5 +28,5 @@ Où le soleil du soir éteignant sa lanterne
 Naît mystère oublié perdu sans lendemain.
 
 {{% notice style="primary" %}}
-Acrostiche : La saison
+Acrostiche : La saison.
 {{% /notice %}}

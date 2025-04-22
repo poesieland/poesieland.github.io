@@ -4,9 +4,9 @@ id = "desespoir_6"
 date = 1998-05-26
 weight = 48
 categories = ["Création"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "décasyllabe"]
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu ne peux voir ce qu'on ne sait pas dire,

@@ -3,15 +3,15 @@ title = "L'automne est venu"
 id = "l_automne_est_venu_5"
 date = 1997-10-26
 weight = 45
-categories = [ "Automne" ]
-tags = [ "saisons", "1997" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = 8
+categories = ["Automne"]
+tags = ["saisons", "1997", "octosyllabe"]
 info = """
-{{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-{{% /notice %}}"""
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne est venu comme un songe
@@ -41,6 +41,7 @@ La brume enserre l'horizon :
 Ravir le soir et sa lumière !
 
 {{% notice style="primary" %}}
+
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}.
 {{% /notice %}}

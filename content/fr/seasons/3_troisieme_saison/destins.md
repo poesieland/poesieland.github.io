@@ -4,7 +4,7 @@ id = "destins_3"
 date = 1997-01-16
 weight = 28
 categories = ["Révolte"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "d_un_prelude_12"
 date = 1999-06-02
 weight = 14
 categories = ["Musique et chant", "Création"]
-tags = ["attitudes", "philosophie", "1999", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "D'un prélude"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Doux, le prélude toujours
@@ -31,5 +31,5 @@ Délivré, le piano, pleurs
 Et joie, invente couleurs...
 
 {{% notice style="primary" %}}
-Acrostiche : D'un prélude
+Acrostiche : D'un prélude.
 {{% /notice %}}

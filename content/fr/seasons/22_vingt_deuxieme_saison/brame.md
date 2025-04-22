@@ -1,23 +1,14 @@
----
-weight: 22
-title: Brame
-id: brame_22
-date: 2024-10-06
-verseLength: 6
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Brame"
+id = "brame_22"
+date = 2024-10-06
+weight = 22
+categories = ["Faune"]
+tags = ["nature", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est l'automne, on se bat
 
 Pour mesurer sa force,

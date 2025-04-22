@@ -4,11 +4,11 @@ id = "quando_il_soffio_13"
 date = 1999-09-16
 weight = 39
 categories = ["Etre", "Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 info = "\"Quand le souffle\" en italien."
 acrostiche = "Quando il soffio"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand le souffle du vent transfigure le monde
@@ -40,7 +40,7 @@ Insensible et léger, charmant... Mais tu m'aimes
 Ordinairement par les jours et les nuits mêmes.
 
 {{% notice style="primary" %}}
-\"Quand le souffle\" en italien.
+"Quand le souffle" en italien.
 
-Acrostiche : Quando il soffio
+Acrostiche : Quando il soffio.
 {{% /notice %}}

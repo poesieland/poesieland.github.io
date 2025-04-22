@@ -1,26 +1,15 @@
----
-weight: 3
-title: Valse l'an
-id: valse_l_an_24
-date: 2025-01-01
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-    - Mouvement
-tags:
-    - "2025"
-    - attitudes
-    - philosophie
-    - acrostiche
-locations: []
-info: "Acrostiche : Valse l'an"
-pictures: []
-poemType: ""
-acrostiche: Valse l'an
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Valse l'an"
+id = "valse_l_an_24"
+date = 2025-01-01
+weight = 3
+categories = ["Temps", "Mouvement"]
+tags = ["philosophie", "attitudes", "2025", "acrostiche", "octosyllabe"]
+acrostiche = "Valse l'an"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Valsent les jours, valsent les ans
 
 Adroitement comme on invente
@@ -38,8 +27,6 @@ Adroitement défait bâillon :
 
 Nouvelle valse impérieuse !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Valse l'an
+Acrostiche : Valse l'an.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

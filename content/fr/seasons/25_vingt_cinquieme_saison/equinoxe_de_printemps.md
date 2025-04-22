@@ -1,23 +1,14 @@
----
-weight: 22
-title: Equinoxe de printemps
-id: equinoxe_de_printemps_25
-date: 2025-03-15
-verseLength: 9
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Equinoxe de printemps"
+id = "equinoxe_de_printemps_25"
+date = 2025-03-15
+weight = 22
+categories = ["Temps"]
+tags = ["philosophie", "2025", "ennéasyllabe"]
+verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Voici proche, un jalon, l'équinoxe,
 
 Au vivant ce donneur de signal,

@@ -4,10 +4,10 @@ id = "don_enfant_vie_13"
 date = 1999-08-29
 weight = 43
 categories = ["Apprentissage", "Espoir"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Don, enfant, vie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Donner à son enfant les sourires du monde,
@@ -37,5 +37,5 @@ Intimement confiant, demain, pour découvrir
 En toi la volonté des heures indécises.
 
 {{% notice style="primary" %}}
-Acrostiche : Don, enfant, vie
+Acrostiche : Don, enfant, vie.
 {{% /notice %}}

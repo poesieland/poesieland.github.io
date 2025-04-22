@@ -4,7 +4,7 @@ id = "promesse_16"
 date = 2004-06-07
 weight = 37
 categories = ["Romantisme"]
-tags = ["amour", "2004"]
+tags = ["amour", "2004", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

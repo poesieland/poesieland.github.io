@@ -4,7 +4,7 @@ id = "muguet_sous_la_pluie_20"
 date = 2024-04-29
 weight = 5
 categories = ["Flore"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

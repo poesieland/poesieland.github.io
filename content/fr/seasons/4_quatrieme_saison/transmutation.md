@@ -4,7 +4,7 @@ id = "transmutation_4"
 date = 1997-08-20
 weight = 43
 categories = ["Jardin et paysage", "Etre"]
-tags = ["nature", "philosophie", "1997"]
+tags = ["nature", "philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

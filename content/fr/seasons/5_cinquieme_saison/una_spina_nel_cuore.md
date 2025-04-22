@@ -3,8 +3,8 @@ title = "Una spina nel cuore"
 id = "una_spina_nel_cuore_5"
 date = 1998-01-21
 weight = 18
-categories = [ "Flore", "Passion" ]
-tags = [ "amour", "nature", "1998", "acrostiche" ]
+categories = ["Flore", "Passion"]
+tags = ["nature", "amour", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Una spina nel cuore"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Retenir l'amour versé
 Et cette douleur intime...
 
 {{% notice style="primary" %}}
-Acrostiche : Una spina nel cuore
+Acrostiche : Una spina nel cuore.
 {{% /notice %}}

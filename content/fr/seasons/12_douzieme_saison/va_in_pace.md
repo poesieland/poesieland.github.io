@@ -4,10 +4,10 @@ id = "va_in_pace_12"
 date = 1999-06-26
 weight = 31
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Va in pace"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Va, quand vers le silence
@@ -28,5 +28,5 @@ Ce qu'on attend encore
 En sacre : souvenir.
 
 {{% notice style="primary" %}}
-Acrostiche : Va in pace
+Acrostiche : Va in pace.
 {{% /notice %}}

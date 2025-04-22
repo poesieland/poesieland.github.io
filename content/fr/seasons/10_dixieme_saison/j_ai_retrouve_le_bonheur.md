@@ -4,10 +4,10 @@ id = "j_ai_retrouve_le_bonheur_10"
 date = 1999-02-16
 weight = 43
 categories = ["Espoir"]
-tags = ["philosophie", "1999", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche", "heptasyllabe"]
 doubleAcrostiche = "J'ai retrouvé | le bonheur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai retrouvé le bonheur,
@@ -55,5 +55,5 @@ Viens, car c'est toi que j'aimais,
 Envoûtant, qui me confondes !
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : J'ai retrouvé / le bonheur
+Acrostiche double (lignes paires et impaires) : J'ai retrouvé / le bonheur.
 {{% /notice %}}

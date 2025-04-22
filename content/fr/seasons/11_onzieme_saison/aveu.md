@@ -4,10 +4,10 @@ id = "aveu_11"
 date = 1999-05-03
 weight = 14
 categories = ["Création"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Au détour"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au détour d'une phrase
@@ -28,5 +28,5 @@ Une immortelle envie
 Reflet pur d'un instant.
 
 {{% notice style="primary" %}}
-Acrostiche : Au détour
+Acrostiche : Au détour.
 {{% /notice %}}

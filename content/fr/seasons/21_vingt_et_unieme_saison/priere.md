@@ -1,25 +1,15 @@
----
-weight: 24
-title: Prière
-id: priere_21
-date: 2024-07-25
-verseLength: 12
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-    - acrostiche
-locations:
-    - Mont des Cats
-info: ""
-pictures: []
-type: default
-acrostiche: Haut lieu, sainteté
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "priere"
+id = "priere_21"
+date = 2024-07-25
+weight = 24
+categories = ["Foi"]
+tags = ["philosophie", "2024", "acrostiche", "alexandrin"]
+acrostiche = "Haut lieu, sainteté"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Hors du temps tu bâtis une simple chapelle
 
 Adossée à ce mont pour y venir prier,
@@ -55,8 +45,6 @@ Tout pour sauver la terre en chaque petit geste.
 
 Ecoute ma prière avide, rejoins-moi !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Haut lieu, sainteté"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Haut lieu, sainteté
+Acrostiche : Haut lieu, sainteté.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

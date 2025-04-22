@@ -3,11 +3,11 @@ title = "Pêche en bord de plage"
 id = "peche_en_bord_de_plage_1"
 date = 1996-07-12
 weight = 27
-categories = [ "Mer" ]
-tags = [ "nature", "1996" ]
+categories = ["Mer"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
+locations = ["Côte atlantique"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Côte atlantique" ]
 +++
 
 Ainsi qu'un fol navire écumant les récifs,

@@ -4,10 +4,10 @@ id = "copier_7"
 date = 1998-07-18
 weight = 35
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Copier"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Copier l'ancien bonheur au papier-catafalque,
@@ -23,5 +23,5 @@ Elle est vie, elle est mort, originale ivraie,
 Riche moisson de l'âme, elle est belle, elle est vraie.
 
 {{% notice style="primary" %}}
-Acrostiche : Copier
+Acrostiche : Copier.
 {{% /notice %}}

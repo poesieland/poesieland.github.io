@@ -4,7 +4,7 @@ id = "un_chapelet_8"
 date = 1998-07-23
 weight = 11
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Un chapelet"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -31,5 +31,5 @@ Et l'autre rive efface chaque pont,
 Traces de lune en silence s'en vont.
 
 {{% notice style="primary" %}}
-Acrostiche : Un chapelet
+Acrostiche : Un chapelet.
 {{% /notice %}}

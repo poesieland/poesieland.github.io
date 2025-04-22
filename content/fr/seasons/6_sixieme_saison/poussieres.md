@@ -4,7 +4,7 @@ id = "poussieres_6"
 date = 1998-04-18
 weight = 13
 categories = ["Enfance et adolescence", "Temps"]
-tags = ["philosophie", "1998"]
+tags = ["philosophie", "1998", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -52,4 +52,3 @@ Comme un vieux refrain :
 Songe relié,
 
 Livre de dessein.
-

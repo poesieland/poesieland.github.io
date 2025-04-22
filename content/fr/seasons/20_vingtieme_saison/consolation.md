@@ -4,7 +4,7 @@ id = "consolation_20"
 date = 2024-05-22
 weight = 18
 categories = ["Amitié"]
-tags = ["amour", "2024", "métrique variable"]
+tags = ["amour", "2024", "métrique variable", "hexasyllabe", "trisyllabe"]
 info = "Métrique variable : 6, 3"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ J'éblouis, irisé,
 D'un poème !
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 3
+Métrique variable : 6, 3.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "danse_11"
 date = 1999-05-10
 weight = 29
 categories = ["Mouvement"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Jour joli"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Jetée au vent la voix s'envole
@@ -28,5 +28,5 @@ Libère le geste qui n'ose
 Ivre, effleurer le lendemain...
 
 {{% notice style="primary" %}}
-Acrostiche : Jour joli
+Acrostiche : Jour joli.
 {{% /notice %}}

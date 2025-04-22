@@ -4,10 +4,10 @@ id = "le_ciel_sait_13"
 date = 1999-08-16
 weight = 33
 categories = ["Ciel", "Crépuscule"]
-tags = ["nature", "ombres et lumières", "1999", "acrostiche"]
+tags = ["nature", "ombres et lumières", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Le ciel sait"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel plus pâle : un reflet rose
@@ -31,5 +31,5 @@ Inachevé ne dit son geste;
 Tourné vers l'ouest le cœur n'y reste.
 
 {{% notice style="primary" %}}
-Acrostiche : Le ciel sait
+Acrostiche : Le ciel sait.
 {{% /notice %}}

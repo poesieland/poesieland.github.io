@@ -4,10 +4,10 @@ id = "dieu_mon_sauveur_11"
 date = 1999-04-17
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Dieu, mon Sauveur !"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dieu né dans l'ombre d'un midi

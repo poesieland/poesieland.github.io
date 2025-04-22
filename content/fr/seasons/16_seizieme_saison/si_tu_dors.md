@@ -3,11 +3,11 @@ title = "Si tu dors"
 id = "si_tu_dors_16"
 date = 2002-11-24
 weight = 7
-categories = [ "Sommeil", "Romantisme" ]
-tags = [ "amour", "attitudes", "2002", "acrostiche" ]
+categories = ["Sommeil", "Romantisme"]
+tags = ["attitudes", "amour", "2002", "acrostiche", "octosyllabe"]
 acrostiche = "Si tu dors"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si tu dors, ô je te regarde,
@@ -28,5 +28,5 @@ Rêve en tes bras, dormons. La rose
 Suggère un air au doux refrain.
 
 {{% notice style="primary" %}}
-Acrostiche : Si tu dors
+Acrostiche : Si tu dors.
 {{% /notice %}}

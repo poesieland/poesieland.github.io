@@ -4,10 +4,10 @@ id = "un_oiseau_11"
 date = 1999-05-03
 weight = 47
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Un oiseau"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un oiseau bleu comme l'espace
@@ -28,5 +28,5 @@ Attise encore sa prière :
 Un avion, fol oiseau lointain.
 
 {{% notice style="primary" %}}
-Acrostiche : Un oiseau
+Acrostiche : Un oiseau.
 {{% /notice %}}

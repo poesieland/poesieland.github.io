@@ -4,10 +4,10 @@ id = "un_jour_defunt_9"
 date = 1998-09-18
 weight = 7
 categories = ["Automne", "Flore"]
-tags = ["saisons", "nature", "1998", "acrostiche"]
+tags = ["saisons", "nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Un jour né déjà mort"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un jour naissait l'esprit d'un souffle,
@@ -46,5 +46,5 @@ Riche en sa plainte qui résonne :
 Tombé l'arbre n'est qu'un défunt.
 
 {{% notice style="primary" %}}
-Acrostiche : Un jour né déjà mort
+Acrostiche : Un jour né déjà mort.
 {{% /notice %}}

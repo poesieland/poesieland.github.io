@@ -4,11 +4,11 @@ id = "se_bastasse_la_vita_9"
 date = 1998-11-08
 weight = 13
 categories = ["Musique et chant", "Etre"]
-tags = ["attitudes", "philosophie", "1998", "acrostiche"]
+tags = ["attitudes", "philosophie", "1998", "acrostiche", "octosyllabe"]
 info = "\"Si la vie suffisait\" en italien. Inspiré par plusieurs chansons."
 acrostiche = "Se bastasse la vita"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 S'il suffisait d'une chanson,
@@ -47,7 +47,7 @@ Terrestre à qui le temps disait
 Au gré de l'art l'aube future...
 
 {{% notice style="primary" %}}
-\"Si la vie suffisait\" en italien. Inspiré par plusieurs chansons.
+"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.
 
-Acrostiche : Se bastasse la vita
+Acrostiche : Se bastasse la vita.
 {{% /notice %}}

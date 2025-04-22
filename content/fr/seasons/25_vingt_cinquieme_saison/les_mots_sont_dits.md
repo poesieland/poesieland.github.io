@@ -1,24 +1,14 @@
----
-weight: 45
-title: Les mots sont dits
-id: les_mots_sont_dits_25
-date: 2025-04-01
-verseLength: 4
-divider: ""
-categories:
-    - Apprentissage
-tags:
-    - "2025"
-    - philosophie
-    - les mots
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les mots sont dits"
+id = "les_mots_sont_dits_25"
+date = 2025-04-01
+weight = 45
+categories = ["Apprentissage"]
+tags = ["philosophie", "les mots", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Les mots sont fades
 
 Et sans couleur

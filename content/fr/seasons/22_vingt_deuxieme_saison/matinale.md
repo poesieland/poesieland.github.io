@@ -1,25 +1,14 @@
----
-weight: 48
-title: Matinale
-id: matinale_22
-date: 2024-11-16
-verseLength: 4
-divider: ""
-categories:
-    - Ciel
-    - Aube
-tags:
-    - "2024"
-    - nature
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Matinale"
+id = "matinale_22"
+date = 2024-11-16
+weight = 48
+categories = ["Ciel", "Aube"]
+tags = ["nature", "ombres et lumières", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un ciel charmé
 
 Dit matinale

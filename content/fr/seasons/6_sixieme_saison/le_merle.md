@@ -4,7 +4,7 @@ id = "le_merle_6"
 date = 1998-05-20
 weight = 7
 categories = ["Faune"]
-tags = ["nature", "1998"]
+tags = ["nature", "1998", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "essence_12"
 date = 1999-07-09
 weight = 34
 categories = ["Etre", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "doubleAcrostiche"]
+tags = ["philosophie", "attitudes", "1999", "doubleAcrostiche", "alexandrin"]
 doubleAcrostiche = "A la place | un double"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la place du cœur une étoile immortelle :
@@ -46,5 +46,5 @@ Et le rêve entrouvrit son sens, la quille,
 Etrave bleue au vent d'un cor.
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : A la place / un double
+Acrostiche double (lignes paires et impaires) : A la place / un double.
 {{% /notice %}}

@@ -1,31 +1,20 @@
----
-weight: 42
-title: Songe
-id: songe_22
-date: 2024-11-09
-verseLength: 12
-divider: ""
-categories:
-    - Etre
-    - Nuit
-    - Ciel
-tags:
-    - "2024"
-    - ombres et lumières
-    - philosophie
-    - nature
-locations: []
-info: |-
-    {{% notice style="primary" %}}
-    Les poèmes qui reprennent _la nuit faite mer_ :
-    {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-    {{% /notice %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Songe"
+id = "songe_22"
+date = 2024-11-09
+weight = 42
+categories = ["Etre", "Nuit", "Ciel"]
+tags = ["philosophie", "ombres et lumières", "nature", "2024", "alexandrin"]
+info = """
+
+Les poèmes qui reprennent _la nuit faite mer_ :
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+"""
+
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans le bleu presque noir de la nuit faite mer
 
 Je cherche mon étoile, une parmi tant d'autres,
@@ -53,6 +42,7 @@ J'ai rêvé d'une nef immense, un rêve nu
 Pour lier dans un souffle une nuit magistrale.
 
 {{% notice style="primary" %}}
+
 Les poèmes qui reprennent _la nuit faite mer_ :
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}.
 {{% /notice %}}

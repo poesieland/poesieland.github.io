@@ -1,26 +1,15 @@
----
-weight: 16
-title: Gratitude
-id: gratitude_23
-date: 2024-12-14
-verseLength: 12
-divider: ""
-categories:
-    - Apprentissage
-    - Temps
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-    - acrostiche
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Fais ta prière
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Gratitude"
+id = "gratitude_23"
+date = 2024-12-14
+weight = 16
+categories = ["Apprentissage", "Temps", "Etre"]
+tags = ["philosophie", "2024", "acrostiche", "alexandrin"]
+acrostiche = "Fais ta prière"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Fais ta prière au temps qui berce d'un ressac
 
 Amical chaque jour d'un oubli salutaire,
@@ -47,8 +36,6 @@ Rêve et partage encore un enfant, un ado,
 
 Et sois en toi vivant d'heureuse gratitude.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Fais ta prière"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Fais ta prière
+Acrostiche : Fais ta prière.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

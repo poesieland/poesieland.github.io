@@ -1,29 +1,20 @@
----
-weight: 2
-title: Le ciel et le monde
-id: le_ciel_et_le_monde_26
-date: 2025-04-13
-verseLength: -1
-divider: ""
-categories:
-    - Ciel
-    - Eau douce
-tags:
-    - "2025"
-    - nature
-    - métrique variable
-location: []
-info: |-
-    Métrique variable : 6, 2.
++++
+title = "Le ciel et le monde"
+id = "le_ciel_et_le_monde_26"
+date = 2025-04-13
+weight = 2
+categories = ["Ciel", "Eau douce"]
+tags = ["nature", "2025", "métrique variable", "hexasyllabe", "dissyllabe"]
+info = """
+Métrique variable : 6, 2.
 
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
+
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il se pourrait qu'il pleuve
 
 Encor,
@@ -35,7 +26,7 @@ Accord !
  \
 Pour abreuver le monde
 
-Meutri
+Meurtri
 
 Qui pleure à l'heure blonde,
 
@@ -72,5 +63,5 @@ Bruissant.
 Métrique variable : 6, 2.
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}.
 {{% /notice %}}

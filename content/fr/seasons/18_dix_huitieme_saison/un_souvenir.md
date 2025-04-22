@@ -1,24 +1,15 @@
----
-weight: 36
-title: Un souvenir...
-id: un_souvenir_18
-date: 2023-12-12
-verseLength: 6
-divider: ""
-categories:
-    - Enfance et adolescence
-tags:
-    - "2023"
-    - philosophie
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-locations:
-    - Lorraine
----
++++
+title = "Un souvenir..."
+id = "un_souvenir_18"
+date = 2023-12-12
+weight = 36
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "2023", "hexasyllabe"]
+verseLength = 6
+locations = ["Lorraine"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un souvenir m'est tendre,
 
 A conter sans attendre :

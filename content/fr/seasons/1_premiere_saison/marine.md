@@ -4,7 +4,7 @@ id = "marine_1"
 date = 1996-06-16
 weight = 30
 categories = ["Mer", "Portraits"]
-tags = ["nature", "philosophie", "1996"]
+tags = ["nature", "philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

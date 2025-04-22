@@ -4,10 +4,10 @@ id = "un_reve_au_dela_9"
 date = 1998-12-26
 weight = 40
 categories = ["Nuit", "Temps"]
-tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Un rêve au-delà"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un rêve au-delà, sidéral,
@@ -37,5 +37,5 @@ Le clair minuit dit : comparaître
 A l'aube où le mystère absout.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rêve au-delà
+Acrostiche : Un rêve au-delà.
 {{% /notice %}}

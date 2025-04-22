@@ -1,26 +1,19 @@
----
-weight: 36
-title: Retiens l'amour
-id: retiens_l_amour_23
-date: 2024-12-27
-verseLength: 7
-divider: ""
-categories:
-    - Passion
-tags:
-    - "2024"
-    - amour
-locations: []
-info: |-
-    [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
++++
+title = "Retiens l'amour"
+id = "retiens_l_amour_23"
+date = 2024-12-27
+weight = 36
+categories = ["Passion"]
+tags = ["amour", "2024", "heptasyllabe"]
+info = """
+[Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
-    En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
+En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)"""
+
+verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Retiens le jour qui se lève
 
 Tout au bord de l'horizon
@@ -47,10 +40,8 @@ Retiens l'amour, cette chape,
 
 Retiens ton souffle et sois fort.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
-En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)
+En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons).
 {{% /notice %}}
-<!-- FM:Snippet:End -->

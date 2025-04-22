@@ -1,23 +1,14 @@
----
-weight: 5
-title: Vivre
-id: vivre_21
-date: 2024-06-29
-verseLength: 6
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Vivre"
+id = "vivre_21"
+date = 2024-06-29
+weight = 5
+categories = ["Etre"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 J'ai bien le temps de vivre,
 
 D'aimer et de mourir,

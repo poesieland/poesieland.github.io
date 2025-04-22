@@ -4,10 +4,10 @@ id = "du_reve_au_reel_7"
 date = 1998-07-10
 weight = 27
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Du rêve au réel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Du rêve au réel je l'écris,
@@ -37,5 +37,5 @@ En un oubli je lui pardonne,
 Livré, lu d'unique couleur.
 
 {{% notice style="primary" %}}
-Acrostiche : Du rêve au réel
+Acrostiche : Du rêve au réel.
 {{% /notice %}}

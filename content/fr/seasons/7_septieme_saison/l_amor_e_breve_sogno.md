@@ -3,12 +3,12 @@ title = "L'amor è breve sogno"
 id = "l_amor_e_breve_sogno_7"
 date = 1998-07-05
 weight = 8
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'amour est aussi bref qu'un songe,
@@ -47,7 +47,7 @@ Né d'immortel souffle qui vibre
 Où ne répondent que douleurs...
 
 {{% notice style="primary" %}}
-D'après la chanson d'Emma Shapplin
+D'après la chanson d'Emma Shapplin.
 
-Acrostiche : L'amor è breve sogno
+Acrostiche : L'amor è breve sogno.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "l_absence_d_un_cour_9"
 date = 1998-10-18
 weight = 43
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "L'absence d'un cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les mots trop souvent dits
@@ -46,5 +46,5 @@ Un mot t'attend, vainqueur,
 Rêve sans ciel, transfuge...
 
 {{% notice style="primary" %}}
-Acrostiche : L'absence d'un cœur
+Acrostiche : L'absence d'un cœur.
 {{% /notice %}}

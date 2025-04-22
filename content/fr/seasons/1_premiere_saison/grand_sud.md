@@ -3,11 +3,11 @@ title = "Grand Sud"
 id = "grand_sud_1"
 date = 1996-03-03
 weight = 31
-categories = [ "Jardin et paysage" ]
-tags = [ "nature", "1996" ]
+categories = ["Jardin et paysage"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Par-delà les toits bleus on entrevoit la mer

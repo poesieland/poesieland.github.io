@@ -1,24 +1,16 @@
----
-weight: 50
-title: Autant le dire
-id: autant_le_dire_21
-date: 2024-09-05
-verseLength: 8
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - acrostiche
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Autant le dire
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Autant le dire"
+id = "autant_le_dire_21"
+date = 2024-09-05
+weight = 50
+categories = ["Temps"]
+tags = ["philosophie", "2024", "acrostiche", "octosyllabe"]
+info = "Ce dernier poème de la 21e saison annonce le titre de la 22e..."
+acrostiche = "Autant le dire"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Autant le dire au monde entier :
 
 Un poème pour épitaphe
@@ -45,11 +37,8 @@ Reine éternité désormais
 
 Etreint mon temps de son temps sage.
 
-
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Autant le dire"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Autant le dire.
-
 Ce dernier poème de la 21e saison annonce le titre de la 22e...
+
+Acrostiche : Autant le dire.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

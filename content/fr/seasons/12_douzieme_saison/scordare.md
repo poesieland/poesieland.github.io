@@ -4,11 +4,11 @@ id = "scordare_12"
 date = 1999-06-06
 weight = 27
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 info = "\"Oublier\" en italien."
 acrostiche = "Scordare..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans souvenir, le temps
@@ -29,7 +29,7 @@ Retrouver, qui créa
 Entre deux fois ma vie...
 
 {{% notice style="primary" %}}
-\"Oublier\" en italien.
+"Oublier" en italien.
 
 Acrostiche : Scordare...
 {{% /notice %}}

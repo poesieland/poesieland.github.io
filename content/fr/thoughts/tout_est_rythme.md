@@ -1,7 +1,6 @@
 +++
-hidden = true
 title = "Tout est rythme"
-date = 2025-03-23
+date = 2025-04-22
 +++
 
 ### Partout, le rythme
@@ -14,7 +13,7 @@ Régulier comme le pas, la parole, irrégulier comme les saisons.
 
 Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses associations préférées : sérieux, burlesque, chansonnier... Et ma poésie entre dans ce cadre sans que je m'en sois rendue compte avant de faire ces recherches.
 
-1. le monosyllabe, pas tenté !
+1. le [monosyllabe](/tags/monosyllabe)
 2. le [dissyllabe](/tags/dissyllabe)
 3. le [trisyllabe](/tags/trisyllabe)
 4. le [tétrasyllabe](/tags/tétrasyllabe)
@@ -27,4 +26,4 @@ Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses 
 11. le [hendécasyllabe](/tags/hendécasyllabe)
 12. l'[alexandrin](/tags/alexandrin)
 13. le vers de 13 syllabes, pas essayé, existe t-il même ?
-14. le [vers de 14 syllabes](/tags/14_syllabes) qui n'a pas de nom d'origine grecque associé.
+14. le [vers de 14 syllabes](/tags/quatorze-syllabes) qui n'a pas de nom d'origine grecque associé.

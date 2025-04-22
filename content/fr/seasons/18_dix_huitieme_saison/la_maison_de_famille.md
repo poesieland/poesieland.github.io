@@ -3,11 +3,11 @@ title = "La maison de famille"
 id = "la_maison_de_famille_18"
 date = 2023-10-24
 weight = 7
-categories = [ "Portraits", "Enfance et adolescence" ]
-tags = [ "2023", "philosophie", "maman" ]
+categories = ["Portraits", "Enfance et adolescence"]
+tags = ["philosophie", "maman", "2023", "octosyllabe"]
 verseLength = 8
+locations = ["Reims"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Reims" ]
 +++
 
 Reims ! Ici Reims ! disait le train.

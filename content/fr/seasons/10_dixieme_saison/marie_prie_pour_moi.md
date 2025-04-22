@@ -4,10 +4,10 @@ id = "marie_prie_pour_moi_10"
 date = 1999-01-04
 weight = 2
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Marie, prie pour moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Madone aux yeux de verre, à la robe de plâtre
@@ -46,5 +46,5 @@ O la vie en ton sein révélée à l'étoile
 Irradie en amour, en subtile bonté !
 
 {{% notice style="primary" %}}
-Acrostiche : Marie, prie pour moi
+Acrostiche : Marie, prie pour moi.
 {{% /notice %}}

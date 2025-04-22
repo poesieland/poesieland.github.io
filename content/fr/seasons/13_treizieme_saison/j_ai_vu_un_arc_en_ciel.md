@@ -4,10 +4,10 @@ id = "j_ai_vu_un_arc_en_ciel_13"
 date = 1999-08-14
 weight = 31
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "J'ai vu un arc-en-ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai vu les sept couleurs
@@ -46,5 +46,5 @@ Emanent, perles d'eau,
 Le soleil : mariages.
 
 {{% notice style="primary" %}}
-Acrostiche : J'ai vu un arc-en-ciel
+Acrostiche : J'ai vu un arc-en-ciel.
 {{% /notice %}}

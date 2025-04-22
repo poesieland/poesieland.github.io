@@ -4,12 +4,12 @@ id = "la_neve_del_sogno_11"
 date = 1999-04-14
 weight = 18
 categories = ["Neige", "Etre"]
-tags = ["nature", "philosophie", "1999", "acrostiche", "sonnet"]
+tags = ["nature", "philosophie", "1999", "acrostiche", "sonnet", "alexandrin"]
 info = "\"La neige du rêve\" en italien."
 poemType = "sonnet"
 acrostiche = "La neve del sogno"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 La neige dicte au monde un mouvement sans faille
@@ -44,7 +44,7 @@ Neige d'un rêve, un corps jeté par les rivages
 Où s'éveille l'accent d'un coeur enfin rené.
 
 {{% notice style="primary" %}}
-\"La neige du rêve\" en italien.
+"La neige du rêve" en italien.
 
-Acrostiche : La neve del sogno
+Acrostiche : La neve del sogno.
 {{% /notice %}}

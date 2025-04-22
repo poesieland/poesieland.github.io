@@ -4,9 +4,9 @@ id = "champ_passe_14"
 date = 2000-08-06
 weight = 17
 categories = ["Temps"]
-tags = ["philosophie", "2000"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "2000", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'automne arrivera plus tard

@@ -4,7 +4,7 @@ id = "pause_19"
 date = 2024-04-23
 weight = 50
 categories = ["Temps"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

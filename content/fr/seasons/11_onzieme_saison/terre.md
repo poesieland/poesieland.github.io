@@ -4,10 +4,10 @@ id = "terre_11"
 date = 1999-04-27
 weight = 21
 categories = ["Espoir"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "O terra"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Origine du monde, une terre s'éveille
@@ -23,5 +23,5 @@ Regarde quand s'élève entre nous flamboyance
 Abritée, en un souffle, une terre, naissance.
 
 {{% notice style="primary" %}}
-Acrostiche : O terra
+Acrostiche : O terra.
 {{% /notice %}}

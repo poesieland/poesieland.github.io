@@ -4,10 +4,10 @@ id = "ciel_d_hiver_15"
 date = 2001-12-24
 weight = 50
 categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2001", "acrostiche"]
+tags = ["nature", "saisons", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Ciel"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Cascades de lueurs, les cieux tout déchirés
@@ -19,5 +19,5 @@ Et le souffle de l'arbre arbore autres pyrées,
 La découpe d'un ciel à ses dentelles sombres.
 
 {{% notice style="primary" %}}
-Acrostiche : Ciel
+Acrostiche : Ciel.
 {{% /notice %}}

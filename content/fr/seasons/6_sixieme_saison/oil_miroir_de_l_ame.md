@@ -4,10 +4,10 @@ id = "oil_miroir_de_l_ame_6"
 date = 1998-05-17
 weight = 20
 categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Œil miroir de l'âme"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ouverts, fermés, quelle importance ?
@@ -46,5 +46,5 @@ Mais quand reviendra la lumière
 En pourront-ils bercer l'espoir ?
 
 {{% notice style="primary" %}}
-Acrostiche : Œil miroir de l'âme
+Acrostiche : Œil miroir de l'âme.
 {{% /notice %}}

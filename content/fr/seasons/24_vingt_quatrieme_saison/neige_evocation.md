@@ -1,23 +1,14 @@
----
-weight: 46
-title: "Neige : évocation"
-id: neige_evocation_24
-date: 2025-02-16
-verseLength: 6
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2025"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Neige : évocation"
+id = "neige_evocation_24"
+date = 2025-02-16
+weight = 46
+categories = ["Neige"]
+tags = ["nature", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un petit peu de neige
 
 Pour surligner l'hiver

@@ -3,15 +3,15 @@ title = "Est-ce un automne..."
 id = "est_ce_un_automne_3"
 date = 1997-04-27
 weight = 23
-categories = [ "Temps", "Printemps" ]
-tags = [ "saisons", "philosophie", "1997" ]
+categories = ["Temps", "Printemps"]
+tags = ["philosophie", "saisons", "1997", "octosyllabe"]
+info = """
+
+Encore une variation sur cette question que j'adore...
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}"""
+
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = """
-{{% notice style="primary" %}}
-Encore une variation sur cette question que j'adore...
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}"""
 +++
 
 Est-ce un automne, est-ce un printemps
@@ -41,6 +41,7 @@ Et dans l'attente trop d'envie ?
 Est-ce une fin, nouveau début ?
 
 {{% notice style="primary" %}}
+
 Encore une variation sur cette question que j'adore...
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}.
 {{% /notice %}}

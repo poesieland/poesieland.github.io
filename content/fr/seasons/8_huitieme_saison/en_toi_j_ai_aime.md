@@ -4,10 +4,10 @@ id = "en_toi_j_ai_aime_8"
 date = 1998-09-01
 weight = 35
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "En toi j'ai aimé"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En toi j'ai retrouvé ce rêve
@@ -37,5 +37,5 @@ Mésange aux souffles qui raniment
 Etreinte d'un printemps troublé.
 
 {{% notice style="primary" %}}
-Acrostiche : En toi j'ai aimé
+Acrostiche : En toi j'ai aimé.
 {{% /notice %}}

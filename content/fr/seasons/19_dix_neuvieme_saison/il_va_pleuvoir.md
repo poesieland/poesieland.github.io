@@ -4,7 +4,7 @@ id = "il_va_pleuvoir_19"
 date = 2024-03-31
 weight = 34
 categories = ["Eau douce", "Ciel"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

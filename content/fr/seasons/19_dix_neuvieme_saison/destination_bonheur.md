@@ -4,7 +4,7 @@ id = "destination_bonheur_19"
 date = 2024-01-21
 weight = 2
 categories = ["Espoir"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

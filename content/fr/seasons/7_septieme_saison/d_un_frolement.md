@@ -4,10 +4,10 @@ id = "d_un_frolement_7"
 date = 1998-06-03
 weight = 3
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "D'un frôlement"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 D'un frôlement dans le vent,
@@ -37,5 +37,5 @@ Noces, mots au crépuscule,
 Ta lèvre au vent déposé.
 
 {{% notice style="primary" %}}
-Acrostiche : D'un frôlement
+Acrostiche : D'un frôlement.
 {{% /notice %}}

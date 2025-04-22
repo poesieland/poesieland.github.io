@@ -4,11 +4,11 @@ id = "vivere_nell_arte_9"
 date = 1998-11-01
 weight = 24
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 info = "\"Vivre dans l'art\" en italien."
 acrostiche = "Vivere nell'arte"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vivre, c'est aimer dans l'art,
@@ -42,7 +42,7 @@ Triste et beau des cœurs humains,
 Exister, les lendemains...
 
 {{% notice style="primary" %}}
-\"Vivre dans l'art\" en italien.
+"Vivre dans l'art" en italien.
 
-Acrostiche : Vivere nell'arte
+Acrostiche : Vivere nell'arte.
 {{% /notice %}}

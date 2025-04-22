@@ -4,7 +4,7 @@ id = "passage_2"
 date = 1996-10-16
 weight = 20
 categories = ["Flore", "Automne"]
-tags = ["nature", "saisons", "1996"]
+tags = ["nature", "saisons", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

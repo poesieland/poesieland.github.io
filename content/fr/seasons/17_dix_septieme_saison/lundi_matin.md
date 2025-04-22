@@ -4,7 +4,7 @@ id = "lundi_matin_17"
 date = 2005-02-14
 weight = 14
 categories = ["Ville"]
-tags = ["ombres et lumières", "2005"]
+tags = ["ombres et lumières", "2005", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

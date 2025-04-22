@@ -4,7 +4,7 @@ id = "disparue_17"
 date = 2023-10-05
 weight = 50
 categories = ["Révolte"]
-tags = ["philosophie", "2023", "acrostiche"]
+tags = ["philosophie", "2023", "acrostiche", "octosyllabe"]
 acrostiche = "Disparue"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -27,5 +27,5 @@ Une famille a tout perdu,
 Et murmure un espoir ténu.
 
 {{% notice style="primary" %}}
-Acrostiche : Disparue
+Acrostiche : Disparue.
 {{% /notice %}}

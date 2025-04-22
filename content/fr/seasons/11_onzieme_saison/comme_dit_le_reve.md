@@ -4,10 +4,10 @@ id = "comme_dit_le_reve_11"
 date = 1999-04-09
 weight = 16
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Comme dit le rêve"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme dirait le rêve où Sirius honorée
@@ -42,5 +42,5 @@ Vers l'essence de l'âme, une plume mystique
 Ecrivait sur la nuit son orbe fantastique.
 
 {{% notice style="primary" %}}
-Acrostiche : Comme dit le rêve
+Acrostiche : Comme dit le rêve.
 {{% /notice %}}

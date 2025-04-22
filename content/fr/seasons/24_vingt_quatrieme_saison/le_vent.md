@@ -1,23 +1,14 @@
----
-weight: 5
-title: Le vent
-id: le_vent_24
-date: 2025-01-01
-verseLength: 4
-divider: ""
-categories:
-    - Ciel
-tags:
-    - "2025"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le vent"
+id = "le_vent_24"
+date = 2025-01-01
+weight = 5
+categories = ["Ciel"]
+tags = ["nature", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le vent qui lance
 
 Comme fétu

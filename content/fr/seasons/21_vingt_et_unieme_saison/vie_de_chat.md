@@ -1,25 +1,15 @@
----
-weight: 47
-title: Vie de chat
-id: vie_de_chat_21
-date: 2024-09-01
-verseLength: 4
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2024"
-    - nature
-    - lovecat
-locations: []
-info: ""
-pictures:
-    - Août 2024
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Vie de chat"
+id = "vie_de_chat_21"
+date = 2024-09-01
+weight = 47
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2024", "tétrasyllabe"]
+pictures = ["Août 2024"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le chat surveille
 
 L'insecte au sol :
@@ -64,6 +54,4 @@ Un chat pressé :
 
 Voici septembre.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"vie_de_chat_21_0.jpg"},{"name":"imageCaption","value":"Août 2024"}]} -->
 {{< figure src="/images/vie_de_chat_21_0.jpg" title="Août 2024" >}}
-<!-- FM:Snippet:End -->

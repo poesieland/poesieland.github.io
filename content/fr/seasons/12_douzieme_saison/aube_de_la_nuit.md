@@ -4,10 +4,10 @@ id = "aube_de_la_nuit_12"
 date = 1999-07-17
 weight = 35
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Aube de la nuit"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Aux lueurs du ciel rose éternelles les voiles :
@@ -37,5 +37,5 @@ Il jette un chant lointain lorsque ressurgira
 Troublante nuit, sa lame effleure un paysage.
 
 {{% notice style="primary" %}}
-Acrostiche : Aube de la nuit
+Acrostiche : Aube de la nuit.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "lune_tu_danses_10"
 date = 1999-02-10
 weight = 22
 categories = ["Lune"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "pentasyllabe"]
 acrostiche = "Lune, tu danses"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Légère, tu danses,
@@ -37,5 +37,5 @@ En ta nuit l'émoi
 Sur ton disque pâle...
 
 {{% notice style="primary" %}}
-Acrostiche : Lune, tu danses
+Acrostiche : Lune, tu danses.
 {{% /notice %}}

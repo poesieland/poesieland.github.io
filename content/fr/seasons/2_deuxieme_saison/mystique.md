@@ -4,7 +4,7 @@ id = "mystique_2"
 date = 1996-12-20
 weight = 48
 categories = ["Mer", "Crépuscule"]
-tags = ["nature", "ombres et lumières", "1996"]
+tags = ["nature", "ombres et lumières", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

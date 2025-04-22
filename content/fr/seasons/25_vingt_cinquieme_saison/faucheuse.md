@@ -1,24 +1,14 @@
----
-weight: 9
-title: Faucheuse
-id: faucheuse_25
-date: 2025-03-04
-verseLength: 6
-divider: ""
-categories:
-    - Angoisse
-    - Portraits
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Faucheuse"
+id = "faucheuse_25"
+date = 2025-03-04
+weight = 9
+categories = ["Angoisse", "Portraits"]
+tags = ["philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il a cassé sa pipe
 
 Mais il ne fumait pas !

@@ -4,11 +4,11 @@ id = "acqua_viva_fra_le_mani_15"
 date = 2001-10-10
 weight = 37
 categories = ["Espoir", "Eau douce"]
-tags = ["philosophie", "nature", "2001", "acrostiche"]
+tags = ["philosophie", "nature", "2001", "acrostiche", "octosyllabe"]
 info = "\"Eau vive entre les mains\" en italien."
 acrostiche = "Acqua viva fra le mani"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Aller vers toi pour bercer chances;
@@ -50,7 +50,7 @@ Nuée ou vague qui s'enlace,
 Instants; l'onde perlée aux cils.
 
 {{% notice style="primary" %}}
-\"Eau vive entre les mains\" en italien.
+"Eau vive entre les mains" en italien.
 
-Acrostiche : Acqua viva fra le mani
+Acrostiche : Acqua viva fra le mani.
 {{% /notice %}}

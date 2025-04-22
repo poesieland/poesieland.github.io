@@ -1,23 +1,14 @@
----
-weight: 21
-title: Sérénade d'été
-id: serenade_d_ete_21
-date: 2024-07-23
-verseLength: 5
-divider: ""
-categories:
-    - Eté
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sérénade d'été"
+id = "serenade_d_ete_21"
+date = 2024-07-23
+weight = 21
+categories = ["Eté"]
+tags = ["saisons", "2024", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le vent dans les branches
 
 Calme le tempo,

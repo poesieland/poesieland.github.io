@@ -4,7 +4,7 @@ id = "valsent_les_ans_4"
 date = 1997-09-08
 weight = 35
 categories = ["Apprentissage", "Enfance et adolescence"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

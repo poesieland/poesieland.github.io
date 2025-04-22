@@ -4,10 +4,10 @@ id = "mais_cela_7"
 date = 1998-07-08
 weight = 32
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Mais cela..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mes yeux m'ont pardonné d'avoir vu tant des choses,

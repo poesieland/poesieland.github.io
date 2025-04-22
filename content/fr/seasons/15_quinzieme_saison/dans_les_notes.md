@@ -4,10 +4,10 @@ id = "dans_les_notes_15"
 date = 2001-10-10
 weight = 42
 categories = ["Musique et chant"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Dans les notes"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Devenir voix, abîme au corps
@@ -37,5 +37,5 @@ Est-ce toi, je rêve un désir
 Soufflé de ces notes parées.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans les notes
+Acrostiche : Dans les notes.
 {{% /notice %}}

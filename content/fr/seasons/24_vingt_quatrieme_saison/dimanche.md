@@ -1,24 +1,14 @@
----
-weight: 31
-title: Dimanche
-id: dimanche_24
-date: 2025-01-26
-verseLength: 6
-divider: ""
-categories:
-    - Hiver
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Dimanche"
+id = "dimanche_24"
+date = 2025-01-26
+weight = 31
+categories = ["Hiver", "Temps"]
+tags = ["saisons", "philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un dimanche pâlot
 
 Se traîne tout tranquille,

@@ -3,10 +3,10 @@ title = "Pourquoi rêver"
 id = "pourquoi_rever_6"
 date = 1998-05-24
 weight = 47
-categories = [ "Passion" ]
-tags = [ "amour", "1998" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Passion"]
+tags = ["amour", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pourquoi rêver tant de faux rêves,

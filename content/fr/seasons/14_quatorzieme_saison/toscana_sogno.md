@@ -3,12 +3,12 @@ title = "Toscana - Sogno"
 id = "toscana_sogno_14"
 date = 2001-02-22
 weight = 23
-categories = [ "Jardin et paysage" ]
-tags = [ "nature", "2001", "acrostiche" ]
+categories = ["Jardin et paysage"]
+tags = ["nature", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Toscana - Sogno"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
-locations = [ "Où je n'ai pas été" ]
+locations = ["Où je n'ai pas été"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Très doux, ce bleu pays, et vert, et tout doré...
@@ -38,5 +38,5 @@ Naîtront d'une main libre; collines en leurs plis
 Ouvrent l'éternel art de notes et de toile.
 
 {{% notice style="primary" %}}
-Acrostiche : Toscana - Sogno
+Acrostiche : Toscana - Sogno.
 {{% /notice %}}

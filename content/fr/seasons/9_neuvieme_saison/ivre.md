@@ -4,10 +4,10 @@ id = "ivre_9"
 date = 1998-09-20
 weight = 19
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Ivre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ivre chanson chantée à chœur,
@@ -19,5 +19,5 @@ Ravis au suprême bonheur :
 Eternelles voix se répondent.
 
 {{% notice style="primary" %}}
-Acrostiche : Ivre
+Acrostiche : Ivre.
 {{% /notice %}}

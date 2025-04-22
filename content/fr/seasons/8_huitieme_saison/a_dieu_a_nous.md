@@ -4,10 +4,10 @@ id = "a_dieu_a_nous_8"
 date = 1998-07-24
 weight = 13
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "A Dieu, à nous"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A Dieu le berceau vide a tu sa mélodie
@@ -31,5 +31,5 @@ Uniques ne seront que lorsque l'on enfante,
 Serre-moi d'un regard, ô songe qui m'enchante !
 
 {{% notice style="primary" %}}
-Acrostiche : A Dieu, à nous
+Acrostiche : A Dieu, à nous.
 {{% /notice %}}

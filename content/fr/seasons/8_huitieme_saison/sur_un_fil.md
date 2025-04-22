@@ -4,10 +4,10 @@ id = "sur_un_fil_8"
 date = 1998-08-12
 weight = 46
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Sur un fil"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur un fil un funambule,
@@ -28,5 +28,5 @@ Il n'en restait que la trame,
 Lisible verset de nuit.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur un fil
+Acrostiche : Sur un fil.
 {{% /notice %}}

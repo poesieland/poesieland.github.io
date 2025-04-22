@@ -1,26 +1,18 @@
----
-weight: 9
-title: L'air bleu
-id: l_air_bleu_22
-date: 2024-09-15
-verseLength: 8
-divider: ""
-categories:
-    - Amitié
-tags:
-    - "2024"
-    - amour
-    - maman
-locations: []
-info: |-
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'air bleu"
+id = "l_air_bleu_22"
+date = 2024-09-15
+weight = 9
+categories = ["Amitié"]
+tags = ["amour", "maman", "2024", "octosyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sur un air bleu, sur un air blanc
 
 En souvenir de ta silhouette,
@@ -49,5 +41,5 @@ Etait heureuse de m'entendre.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}.
 {{% /notice %}}

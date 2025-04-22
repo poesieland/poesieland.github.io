@@ -3,12 +3,12 @@ title = "Sais-tu l'amour..."
 id = "sais_tu_l_amour_15"
 date = 2001-09-07
 weight = 27
-categories = [ "Etre" ]
-tags = [ "2001", "acrostiche", "philosophie", "métrique variable" ]
-acrostiche = "Sais-tu l'amour..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = -1
+categories = ["Etre"]
+tags = ["philosophie", "2001", "acrostiche", "métrique variable", "heptasyllabe", "ennéasyllabe"]
 info = "Métrique variable : 7, 9."
+acrostiche = "Sais-tu l'amour..."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sais-tu si tous ces nuages
@@ -38,7 +38,7 @@ Un vent froid s'emporte de mots fourbes
 Renvoyés, un amour à tisser.
 
 {{% notice style="primary" %}}
-Acrostiche : Sais-tu l'amour...
-
 Métrique variable : 7, 9.
+
+Acrostiche : Sais-tu l'amour...
 {{% /notice %}}

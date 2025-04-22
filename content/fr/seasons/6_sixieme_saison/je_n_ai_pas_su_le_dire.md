@@ -4,10 +4,10 @@ id = "je_n_ai_pas_su_le_dire_6"
 date = 1998-04-03
 weight = 3
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Je n'ai pas su le dire"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je n'ai pas su le dire aux pleurs du firmament
@@ -46,5 +46,5 @@ Ravis mon cœur noué, réchauffes-en le bien
 Et d'un souffle subtil aide-moi pour renaître.
 
 {{% notice style="primary" %}}
-Acrostiche : Je n'ai pas su le dire
+Acrostiche : Je n'ai pas su le dire.
 {{% /notice %}}

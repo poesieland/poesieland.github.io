@@ -4,10 +4,10 @@ id = "un_soir_triste_16"
 date = 2004-01-17
 weight = 21
 categories = ["Temps", "Nuit", "Ville"]
-tags = ["philosophie", "ombres et lumières", "2004", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "2004", "acrostiche", "alexandrin"]
 acrostiche = "Un soir triste"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un chat miaulait, lointain, gourmandé par son maître,
@@ -37,5 +37,5 @@ Tout ce que je crois voir, en ce monde incroyant :
 Entre les bras du jour je verrai ton épure.
 
 {{% notice style="primary" %}}
-Acrostiche : Un soir triste
+Acrostiche : Un soir triste.
 {{% /notice %}}

@@ -1,24 +1,14 @@
----
-weight: 48
-title: Otage
-id: otage_25
-date: 2025-04-04
-verseLength: 4
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - nature
-    - lovecat
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Otage"
+id = "otage_25"
+date = 2025-04-04
+weight = 48
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je suis otage
 
 D'un chat-bonheur,

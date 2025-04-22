@@ -4,11 +4,11 @@ id = "ave_maria_prega_per_me_11"
 date = 1999-05-17
 weight = 31
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 info = "\"Ave Maria prie pour moi\", chanson homonyme de Luciano Pavarotti."
 acrostiche = "Ave Maria prega per me"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Agenouillée une âme prie
@@ -52,7 +52,7 @@ Mirages nuptiaux, l'âme élève
 Ensuite ce calme sans trêve...
 
 {{% notice style="primary" %}}
-\"Ave Maria prie pour moi\", chanson homonyme de Luciano Pavarotti.
+"Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.
 
-Acrostiche : Ave Maria prega per me
+Acrostiche : Ave Maria prega per me.
 {{% /notice %}}

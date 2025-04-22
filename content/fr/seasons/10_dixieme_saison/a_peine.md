@@ -4,10 +4,10 @@ id = "a_peine_10"
 date = 1999-02-01
 weight = 12
 categories = ["Sommeil"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
 acrostiche = "A peine"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A peine imaginer avant de s'endormir
@@ -23,5 +23,5 @@ Ne répondra qu'à l'aube où l'insomniaque cœur
 Echafaude d'un geste une ombre : le bonheur.
 
 {{% notice style="primary" %}}
-Acrostiche : A peine
+Acrostiche : A peine.
 {{% /notice %}}

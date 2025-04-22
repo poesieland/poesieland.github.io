@@ -3,8 +3,8 @@ title = "Chaleurs"
 id = "chaleurs_1"
 date = 1996-08-10
 weight = 22
-categories = [ "Faune" ]
-tags = [ "1996", "nature", "lovecat" ]
+categories = ["Faune"]
+tags = ["nature", "lovecat", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

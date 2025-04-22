@@ -3,11 +3,11 @@ title = "Un rendez-vous"
 id = "un_rendez_vous_11"
 date = 1999-05-21
 weight = 12
-categories = [ "Romantisme" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Romantisme"]
+tags = ["amour", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Un rendez-vous"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Une étoile sur la veste
@@ -37,5 +37,5 @@ Un sourire plus prodigue :
 Sur un banc viens, je t'attends.
 
 {{% notice style="primary" %}}
-Acrostiche : Un rendez-vous
+Acrostiche : Un rendez-vous.
 {{% /notice %}}

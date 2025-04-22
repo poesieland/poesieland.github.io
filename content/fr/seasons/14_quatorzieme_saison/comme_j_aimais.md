@@ -3,11 +3,11 @@ title = "Comme j'aimais"
 id = "comme_j_aimais_14"
 date = 2001-01-04
 weight = 35
-categories = [ "Flore", "Printemps", "Amour platonique" ]
-tags = [ "nature", "saisons", "amour", "2001", "acrostiche" ]
+categories = ["Flore", "Printemps", "Amour platonique"]
+tags = ["nature", "saisons", "amour", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Comme j'aimais"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme j'aimais d'un rêve un doux frémissement
@@ -37,5 +37,5 @@ Imaginaire l'astre où la mésange arrose
 Sa note bleue, amour, tout cet amour autour...
 
 {{% notice style="primary" %}}
-Acrostiche : Comme j'aimais
+Acrostiche : Comme j'aimais.
 {{% /notice %}}

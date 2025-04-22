@@ -3,11 +3,11 @@ title = "Création"
 id = "creation_9"
 date = 1998-11-17
 weight = 26
-categories = [ "Création", "Musique et chant" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Création", "Musique et chant"]
+tags = ["philosophie", "attitudes", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Les mots venus"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les mots venus chanter sous le bout de ma plume,
@@ -37,5 +37,5 @@ Une note plus longue, une phrase gagnée
 Sacrent la symphonie éclose en son élan.
 
 {{% notice style="primary" %}}
-Acrostiche : Les mots venus
+Acrostiche : Les mots venus.
 {{% /notice %}}

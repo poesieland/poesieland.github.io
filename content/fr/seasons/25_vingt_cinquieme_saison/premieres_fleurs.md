@@ -1,25 +1,14 @@
----
-weight: 31
-title: Premières fleurs
-id: premieres_fleurs_25
-date: 2025-03-20
-verseLength: 5
-divider: ""
-categories:
-    - Flore
-    - Printemps
-tags:
-    - "2025"
-    - nature
-    - saisons
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Premières fleurs"
+id = "premieres_fleurs_25"
+date = 2025-03-20
+weight = 31
+categories = ["Flore", "Printemps"]
+tags = ["nature", "saisons", "2025", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Dans le soir voleur
 
 Si jolie et tendre

@@ -4,10 +4,10 @@ id = "si_jamais_12"
 date = 1999-06-23
 weight = 30
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Si jamais..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Souviens-toi : le temps, l'espace nous séparent,

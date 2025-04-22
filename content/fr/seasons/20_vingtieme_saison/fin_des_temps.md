@@ -4,7 +4,7 @@ id = "fin_des_temps_20"
 date = 2024-06-06
 weight = 28
 categories = ["Temps"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

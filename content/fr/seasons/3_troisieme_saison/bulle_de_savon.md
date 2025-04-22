@@ -4,7 +4,7 @@ id = "bulle_de_savon_3"
 date = 1997-03-06
 weight = 47
 categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

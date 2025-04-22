@@ -4,11 +4,11 @@ id = "sonnet_de_la_nuit_10"
 date = 1999-02-07
 weight = 24
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1999", "acrostiche", "sonnet"]
+tags = ["ombres et lumières", "1999", "acrostiche", "sonnet", "octosyllabe"]
 poemType = "sonnet"
 acrostiche = "Sonnet de la nuit"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sur la peau sombre de la nuit,
@@ -43,5 +43,5 @@ Illuminé mon cœur rira
 Triste où le soleil revivra...
 
 {{% notice style="primary" %}}
-Acrostiche : Sonnet de la nuit
+Acrostiche : Sonnet de la nuit.
 {{% /notice %}}

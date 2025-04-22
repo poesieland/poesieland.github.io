@@ -1,26 +1,14 @@
----
-weight: 15
-title: Tournant
-id: tournant_21
-date: 2024-07-11
-verseLength: 8
-divider: ""
-categories:
-    - Climat
-    - Espoir
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - nature
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Tournant"
+id = "tournant_21"
+date = 2024-07-11
+weight = 15
+categories = ["Climat", "Espoir", "Angoisse"]
+tags = ["nature", "philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est un tournant sans équivoque,
 
 A qui demandes-tu pardon ?

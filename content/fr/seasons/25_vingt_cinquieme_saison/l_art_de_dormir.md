@@ -1,26 +1,14 @@
----
-weight: 6
-title: L'art de dormir
-id: l_art_de_dormir_25
-date: 2025-02-28
-verseLength: 8
-divider: ""
-categories:
-    - Sommeil
-    - Faune
-tags:
-    - "2025"
-    - attitudes
-    - nature
-    - lovecat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'art de dormir"
+id = "l_art_de_dormir_25"
+date = 2025-02-28
+weight = 6
+categories = ["Sommeil", "Faune"]
+tags = ["attitudes", "nature", "lovecat", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Comme un diamant sur une bague
 
 Est délicatement serti

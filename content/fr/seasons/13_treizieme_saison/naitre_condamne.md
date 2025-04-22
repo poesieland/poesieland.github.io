@@ -4,10 +4,10 @@ id = "naitre_condamne_13"
 date = 1999-09-11
 weight = 9
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Naître condamné"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne demande jamais : "pour qui sonne le glas ?"
@@ -39,5 +39,5 @@ Monte du cimetière, et la terre murmure :
 Et souvent l'oublions : chacun naît condamné".
 
 {{% notice style="primary" %}}
-Acrostiche : Naître condamné
+Acrostiche : Naître condamné.
 {{% /notice %}}

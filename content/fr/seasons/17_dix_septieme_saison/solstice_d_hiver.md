@@ -4,7 +4,7 @@ id = "solstice_d_hiver_17"
 date = 2004-12-20
 weight = 8
 categories = ["Hiver", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "2004"]
+tags = ["saisons", "ombres et lumières", "2004", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

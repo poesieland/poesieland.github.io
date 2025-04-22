@@ -4,7 +4,7 @@ id = "la_rose_5"
 date = 1998-03-05
 weight = 20
 categories = ["Flore"]
-tags = ["nature", "1998", "acrostiche"]
+tags = ["nature", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Manger le coeur d'un Eros"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,5 +55,5 @@ O je suivrai les Vestales
 S'il faut loin l'aller chercher.
 
 {{% notice style="primary" %}}
-Acrostiche : Manger le coeur d'un Eros
+Acrostiche : Manger le coeur d'un Eros.
 {{% /notice %}}

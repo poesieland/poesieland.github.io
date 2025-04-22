@@ -3,12 +3,12 @@ title = "Miroir de mes rêves"
 id = "miroir_de_mes_reves_16"
 date = 2003-09-28
 weight = 16
-categories = [ "Nuit", "Eau douce" ]
-tags = [ "ombres et lumières", "nature", "2003", "acrostiche" ]
+categories = ["Nuit", "Eau douce"]
+tags = ["ombres et lumières", "nature", "2003", "acrostiche", "octosyllabe"]
 acrostiche = "Miroir de mes rêves"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Miroir, aux cent visages, étoiles
@@ -47,5 +47,5 @@ Espère un courant plus fertile
 Serti des chants de l'horizon.
 
 {{% notice style="primary" %}}
-Acrostiche : Miroir de mes rêves
+Acrostiche : Miroir de mes rêves.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "filets_de_lune_16"
 date = 2003-01-22
 weight = 10
 categories = ["Lune"]
-tags = ["ombres et lumières", "2003", "acrostiche"]
+tags = ["ombres et lumières", "2003", "acrostiche", "octosyllabe"]
 acrostiche = "Filets de lune"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Fantasque passagère allant
@@ -37,5 +37,5 @@ Nouvelle attise astre vainqueur
 En son céleste ressac, horde.
 
 {{% notice style="primary" %}}
-Acrostiche : Filets de lune
+Acrostiche : Filets de lune.
 {{% /notice %}}

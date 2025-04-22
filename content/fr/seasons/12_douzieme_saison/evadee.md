@@ -4,10 +4,10 @@ id = "evadee_12"
 date = 1999-06-12
 weight = 44
 categories = ["Nuit", "Etre"]
-tags = ["ombres et lumières", "philosophie", "1999", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Evadée"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Envolé dans un songe indomptable le soir
@@ -23,5 +23,5 @@ Est-ce le bord du monde accompagné en chœur ?
 Est-ce l'amour naissant qui s'accomplit, vainqueur ?
 
 {{% notice style="primary" %}}
-Acrostiche : Evadée
+Acrostiche : Evadée.
 {{% /notice %}}

@@ -3,11 +3,11 @@ title = "Rêvée, néant"
 id = "revee_neant_15"
 date = 2001-11-14
 weight = 48
-categories = [ "Révolte", "Amour platonique" ]
-tags = [ "amour", "philosophie", "2001", "acrostiche" ]
+categories = ["Révolte", "Amour platonique"]
+tags = ["philosophie", "amour", "2001", "acrostiche", "décasyllabe"]
 acrostiche = "Rêvée, néant"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Reprends ton cœur, je vais me rendormir,
@@ -32,5 +32,5 @@ Néant nous mange, et demain pour chacun
 Tisse fils d'un sombre destin taquin.
 
 {{% notice style="primary" %}}
-Acrostiche : Rêvée, néant
+Acrostiche : Rêvée, néant.
 {{% /notice %}}

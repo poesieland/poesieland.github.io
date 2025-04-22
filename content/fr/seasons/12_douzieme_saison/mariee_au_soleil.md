@@ -4,11 +4,11 @@ id = "mariee_au_soleil_12"
 date = 1999-06-12
 weight = 40
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche", "sonnet"]
+tags = ["attitudes", "1999", "acrostiche", "sonnet", "hexasyllabe"]
 poemType = "sonnet"
 acrostiche = "Mariée au soleil"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mes battements plus forts
@@ -43,5 +43,5 @@ Ivre soleil, matin,
 Le chant comme partage.
 
 {{% notice style="primary" %}}
-Acrostiche : Mariée au soleil
+Acrostiche : Mariée au soleil.
 {{% /notice %}}

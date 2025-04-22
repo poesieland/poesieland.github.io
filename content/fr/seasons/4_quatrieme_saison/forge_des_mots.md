@@ -4,7 +4,7 @@ id = "forge_des_mots_4"
 date = 1997-09-03
 weight = 29
 categories = ["Création", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1997", "acrostiche"]
+tags = ["philosophie", "attitudes", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "La musique des mots"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Troublés que nous blessons
 Sur l'autel de l'orfèvre.
 
 {{% notice style="primary" %}}
-Acrostiche : La musique des mots
+Acrostiche : La musique des mots.
 {{% /notice %}}

@@ -1,26 +1,14 @@
----
-weight: 46
-title: Azur volé
-id: azur_vole_18
-date: 2024-01-06
-verseLength: 12
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-    - Climat
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Azur volé"
+id = "azur_vole_18"
+date = 2024-01-06
+weight = 46
+categories = ["Ciel", "Climat", "Hiver"]
+tags = ["nature", "saisons", "2024", "alexandrin"]
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au chasseur de soleil je donnerais bien prime
 
 Pour ramener l'azur depuis des mois captif,

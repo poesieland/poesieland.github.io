@@ -4,10 +4,10 @@ id = "le_sable_la_vie_9"
 date = 1998-10-10
 weight = 30
 categories = ["Espoir"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Le sable, la vie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le sable qu'on a ramassé
@@ -37,5 +37,5 @@ Ivre d'aimer en chaque chose
 Emporté, le sable disert.
 
 {{% notice style="primary" %}}
-Acrostiche : Le sable, la vie
+Acrostiche : Le sable, la vie.
 {{% /notice %}}

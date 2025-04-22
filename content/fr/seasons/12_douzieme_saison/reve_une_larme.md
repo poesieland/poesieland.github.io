@@ -3,11 +3,11 @@ title = "Rêve, une larme"
 id = "reve_une_larme_12"
 date = 1999-06-06
 weight = 2
-categories = [ "Passion" ]
-tags = [ "amour", "1999", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Rêve, une larme"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rêve dit les accents
@@ -37,5 +37,5 @@ Mes jours perdent leur cœur
 Etranger, brisé, veule.
 
 {{% notice style="primary" %}}
-Acrostiche : Rêve, une larme
+Acrostiche : Rêve, une larme.
 {{% /notice %}}

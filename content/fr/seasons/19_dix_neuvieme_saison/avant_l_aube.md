@@ -4,7 +4,7 @@ id = "avant_l_aube_19"
 date = 2024-02-20
 weight = 12
 categories = ["Aube"]
-tags = ["ombres et lumières", "2024"]
+tags = ["ombres et lumières", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

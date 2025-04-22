@@ -1,26 +1,15 @@
----
-weight: 3
-title: Chant de la neige
-id: chant_de_la_neige_23
-date: 2024-11-20
-verseLength: -1
-divider: ""
-categories:
-    - Neige
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - nature
-    - "métrique variable"
-    - philosophie
-locations: []
-info: "Métrique variable : 4, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Chant de la neige"
+id = "chant_de_la_neige_23"
+date = 2024-11-20
+weight = 3
+categories = ["Neige", "Enfance et adolescence"]
+tags = ["nature", "philosophie", "2024", "métrique variable", "tétrasyllabe", "trisyllabe"]
+info = "Métrique variable : 4, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Tombe la neige
 
 Sans façon,
@@ -73,3 +62,7 @@ En tapis,
 Fondra, taiseuse,
 
 Et tant pis !
+
+{{% notice style="primary" %}}
+Métrique variable : 4, 3.
+{{% /notice %}}

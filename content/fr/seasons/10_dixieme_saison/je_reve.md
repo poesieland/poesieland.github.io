@@ -4,9 +4,9 @@ id = "je_reve_10"
 date = 1999-02-18
 weight = 16
 categories = ["Etre", "Aube"]
-tags = ["philosophie", "ombres et lumières", "1999"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "ombres et lumières", "1999", "heptasyllabe"]
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je rêve sans réfléchir

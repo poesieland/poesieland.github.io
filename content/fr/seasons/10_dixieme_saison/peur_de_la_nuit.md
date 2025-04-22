@@ -4,10 +4,10 @@ id = "peur_de_la_nuit_10"
 date = 1999-02-14
 weight = 14
 categories = ["Révolte"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "heptasyllabe"]
 acrostiche = "Peur de la nuit"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pour la fin du millénaire
@@ -37,5 +37,5 @@ Il verra l'amour s'éclôt,
 Tes mains berceront leur cloche...
 
 {{% notice style="primary" %}}
-Acrostiche : Peur de la nuit
+Acrostiche : Peur de la nuit.
 {{% /notice %}}

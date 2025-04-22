@@ -4,7 +4,7 @@ id = "le_printemps_m_a_souri_19"
 date = 2024-03-25
 weight = 29
 categories = ["Printemps"]
-tags = ["saisons", "2024"]
+tags = ["saisons", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

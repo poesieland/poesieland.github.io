@@ -1,24 +1,15 @@
----
-weight: 9
-title: Epiphanie
-id: epiphanie_24
-date: 2025-01-05
-verseLength: -1
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2025"
-    - philosophie
-    - "métrique variable"
-locations: []
-info: "Métrique variable : 7, 4."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Epiphanie"
+id = "epiphanie_24"
+date = 2025-01-05
+weight = 9
+categories = ["Foi"]
+tags = ["philosophie", "2025", "métrique variable", "heptasyllabe", "tétrasyllabe"]
+info = "Métrique variable : 7, 4."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Les rois mages sont passés
 
 A notre table,
@@ -44,3 +35,7 @@ Sur votre route,
 Rentrez chez vous en vainqueurs,
 
 Dieu vous écoute !
+
+{{% notice style="primary" %}}
+Métrique variable : 7, 4.
+{{% /notice %}}

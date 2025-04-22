@@ -3,12 +3,12 @@ title = "Senza nord nè sud"
 id = "senza_nord_ne_sud_8"
 date = 1998-08-26
 weight = 23
-categories = [ "Mer", "Angoisse" ]
-tags = [ "philosophie", "nature", "1998", "acrostiche" ]
-info = '"Sans nord ni sud" en italien.'
+categories = ["Mer", "Angoisse"]
+tags = ["nature", "philosophie", "1998", "acrostiche", "octosyllabe"]
+info = "\"Sans nord ni sud\" en italien."
 acrostiche = "Senza nord nè sud"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans nord ni sud, boussole folle,
@@ -40,7 +40,7 @@ Ultimes les coups de semonce,
 Désirs cardinaux sans réponse...
 
 {{% notice style="primary" %}}
-\"Sans nord ni sud\" en italien.
+"Sans nord ni sud" en italien.
 
-Acrostiche : Senza nord nè sud
+Acrostiche : Senza nord nè sud.
 {{% /notice %}}

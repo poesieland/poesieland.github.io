@@ -4,7 +4,7 @@ id = "images_d_hiver_17"
 date = 2004-11-23
 weight = 6
 categories = ["Hiver", "Neige", "Jardin et paysage"]
-tags = ["saisons", "nature", "2004"]
+tags = ["saisons", "nature", "2004", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

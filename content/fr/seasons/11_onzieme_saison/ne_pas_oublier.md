@@ -4,10 +4,10 @@ id = "ne_pas_oublier_11"
 date = 1999-05-03
 weight = 23
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Ne pas oublier"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne pas oublier, alors qu'à jamais disparues
@@ -37,5 +37,5 @@ Eteint, frémi, tu, le souvenir, trop tard...
 Retenir avant; oublier, tout s'échappe.
 
 {{% notice style="primary" %}}
-Acrostiche : Ne pas oublier
+Acrostiche : Ne pas oublier.
 {{% /notice %}}

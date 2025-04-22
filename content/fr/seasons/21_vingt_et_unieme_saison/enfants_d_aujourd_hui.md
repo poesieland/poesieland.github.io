@@ -1,23 +1,14 @@
----
-weight: 27
-title: Enfants d'aujourd'hui
-id: enfants_d_aujourd_hui_21
-date: 2024-07-31
-verseLength: 9
-divider: ""
-categories:
-    - Enfance et adolescence
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Enfants d'aujourd'hui"
+id = "enfants_d_aujourd_hui_21"
+date = 2024-07-31
+weight = 27
+categories = ["Enfance et adolescence"]
+tags = ["philosophie", "2024", "ennéasyllabe"]
+verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Rassemblez vos doux rêves épars
 
 Et mettez-les dans votre giberne

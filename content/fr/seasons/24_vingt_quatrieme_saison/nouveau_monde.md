@@ -1,24 +1,14 @@
----
-weight: 38
-title: Nouveau monde
-id: nouveau_monde_24
-date: 2025-02-04
-verseLength: 3
-divider: ""
-categories:
-    - Mer
-tags:
-    - "2025"
-    - nature
-locations:
-    - Où je n'ai pas été
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Nouveau monde"
+id = "nouveau_monde_24"
+date = 2025-02-04
+weight = 38
+categories = ["Mer"]
+tags = ["nature", "2025", "trisyllabe"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Caravelle
 
 Au lointain,

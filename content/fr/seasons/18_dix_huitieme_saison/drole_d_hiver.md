@@ -1,26 +1,14 @@
----
-weight: 41
-title: Drôle d'hiver
-id: drole_d_hiver_18
-date: 2023-12-30
-verseLength: 10
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-    - Climat
-tags:
-    - "2023"
-    - saisons
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Drôle d'hiver"
+id = "drole_d_hiver_18"
+date = 2023-12-30
+weight = 41
+categories = ["Ciel", "Climat", "Hiver"]
+tags = ["nature", "saisons", "2023", "décasyllabe"]
+verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Drôle d'hiver, on dirait le printemps
 
 Ce matin doux quand l'azur se dévoile

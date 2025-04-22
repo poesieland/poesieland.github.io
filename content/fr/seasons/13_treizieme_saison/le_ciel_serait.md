@@ -4,10 +4,10 @@ id = "le_ciel_serait_13"
 date = 1999-10-24
 weight = 28
 categories = ["Lune"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Le ciel serait"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel serait triste sans elle
@@ -37,5 +37,5 @@ Illumine un violon, d'un chœur
 Triste lune orchestre le monde.
 
 {{% notice style="primary" %}}
-Acrostiche : Le ciel serait
+Acrostiche : Le ciel serait.
 {{% /notice %}}

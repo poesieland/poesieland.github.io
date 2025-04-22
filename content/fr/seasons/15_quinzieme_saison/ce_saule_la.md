@@ -4,7 +4,7 @@ id = "ce_saule_la_15"
 date = 2001-07-29
 weight = 16
 categories = ["Création", "Flore"]
-tags = ["philosophie", "nature", "2001", "acrostiche"]
+tags = ["philosophie", "nature", "2001", "acrostiche", "décasyllabe"]
 info = "Ce poème décrit l'adolescence d'une amie."
 acrostiche = "Le saut"
 verseLength = 10
@@ -26,5 +26,5 @@ Touchant le ciel, tresses vertes bohèmes.
 {{% notice style="primary" %}}
 Ce poème décrit l'adolescence d'une amie.
 
-Acrostiche : Le saut
+Acrostiche : Le saut.
 {{% /notice %}}

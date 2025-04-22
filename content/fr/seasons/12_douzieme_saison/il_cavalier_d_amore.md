@@ -3,12 +3,12 @@ title = "Il cavalier' d'amore"
 id = "il_cavalier_d_amore_12"
 date = 1999-06-07
 weight = 5
-categories = [ "Portraits", "Amour platonique" ]
-tags = [ "philosophie", "amour", "1999", "acrostiche" ]
+categories = ["Portraits", "Amour platonique"]
+tags = ["philosophie", "amour", "1999", "acrostiche", "alexandrin"]
 info = "\"Le chevalier d'amour\" en italien."
 acrostiche = "Il cavalier' d'amore"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il galope, droit, fier, sur son grand cheval bai;
@@ -47,7 +47,7 @@ Rassemble l'avenir, et pour te remercier,
 Elue à ton bras tendre, un baiser, un voyage...
 
 {{% notice style="primary" %}}
-\"Le chevalier d'amour\" en italien.
+"Le chevalier d'amour" en italien.
 
-Acrostiche : Il cavalier' d'amore
+Acrostiche : Il cavalier' d'amore.
 {{% /notice %}}

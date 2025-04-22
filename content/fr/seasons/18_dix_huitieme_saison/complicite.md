@@ -1,62 +1,15 @@
----
-weight: 28
-title: Complicité
-id: complicite_18
-date: 2023-11-25
-verseLength: 8
-divider: ""
-categories:
-    - Enfance et adolescence
-    - Eté
-ensureTagAmour: ""
-ensureTagAmour2: ""
-ensureTagAmour3: ""
-ensureTagAmour4: ""
-ensureTagAmour5: ""
-ensureTagOmbres: ""
-ensureTagOmbres2: ""
-ensureTagOmbres3: ""
-ensureTagOmbres4: ""
-ensureTagOmbres5: ""
-ensureTagPhilosophie: ""
-ensureTagPhilosophie2: ""
-ensureTagPhilosophie3: ""
-ensureTagPhilosophie4: ""
-ensureTagPhilosophie5: ""
-ensureTagPhilosophie6: ""
-ensureTagPhilosophie7: ""
-ensureTagPhilosophie8: ""
-ensureTagPhilosophie9: ""
-ensureTagPhilosophie10: ""
-ensureTagNature: ""
-ensureTagNature2: ""
-ensureTagNature3: ""
-ensureTagNature4: ""
-ensureTagNature5: ""
-ensureTagNature6: ""
-ensureTagNature7: ""
-ensureTagAttitudes: ""
-ensureTagAttitudes2: ""
-ensureTagAttitudes3: ""
-ensureTagAttitudes4: ""
-ensureTagSaisons: ""
-ensureTagSaisons2: ""
-ensureTagSaisons3: ""
-ensureTagSaisons4: ""
-tags:
-    - "2023"
-    - philosophie
-    - saisons
-    - maman
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-locations:
-    - Reims
----
++++
+title = "Complicité"
+id = "complicite_18"
+date = 2023-11-25
+weight = 28
+categories = ["Enfance et adolescence", "Eté"]
+tags = ["philosophie", "saisons", "maman", "2023", "octosyllabe"]
+verseLength = 8
+locations = ["Reims"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Te souviens-tu, maman complice,
 
 Tant de balade au doux parfum,
@@ -74,7 +27,7 @@ Notre duo chantait malice.
 
  Pour laisser souvenirs coquets.
 
-  \
+ \
 Par les chemins à l'aventure
 
 Nous égrainions tournesol,

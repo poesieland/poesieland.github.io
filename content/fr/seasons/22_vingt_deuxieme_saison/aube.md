@@ -1,23 +1,14 @@
----
-weight: 33
-title: Aube
-id: aube_22
-date: 2024-10-24
-verseLength: 4
-divider: ""
-categories:
-    - Aube
-tags:
-    - "2024"
-    - ombres et lumières
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Aube"
+id = "aube_22"
+date = 2024-10-24
+weight = 33
+categories = ["Aube"]
+tags = ["ombres et lumières", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'aube incendie
 
 L'horizon roux

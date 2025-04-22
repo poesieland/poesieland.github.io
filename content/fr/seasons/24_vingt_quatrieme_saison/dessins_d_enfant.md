@@ -1,24 +1,14 @@
----
-weight: 29
-title: Dessins d'enfant
-id: dessins_d_enfant_24
-date: 2025-01-21
-verseLength: 6
-divider: ""
-categories:
-    - Création
-    - Enfance et adolescence
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Dessins d'enfant"
+id = "dessins_d_enfant_24"
+date = 2025-01-21
+weight = 29
+categories = ["Création", "Enfance et adolescence"]
+tags = ["philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 J'avais crayons et gomme
 
 Et du papier bien blanc,

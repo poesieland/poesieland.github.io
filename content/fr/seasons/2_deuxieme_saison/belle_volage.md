@@ -3,8 +3,8 @@ title = "Belle volage"
 id = "belle_volage_2"
 date = 1996-09-05
 weight = 3
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1996" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

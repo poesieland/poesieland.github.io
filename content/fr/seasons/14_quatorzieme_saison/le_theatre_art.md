@@ -4,10 +4,10 @@ id = "le_theatre_art_14"
 date = 2001-02-24
 weight = 26
 categories = ["Création"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Le théâtre, art"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Les notes filent, d'ans sublimés en romance
@@ -37,5 +37,5 @@ Revoici passions, intrigues, panache, art,
 Tressés à d'autres jours, immortels: scène heureuse.
 
 {{% notice style="primary" %}}
-Acrostiche : Le théâtre, art
+Acrostiche : Le théâtre, art.
 {{% /notice %}}

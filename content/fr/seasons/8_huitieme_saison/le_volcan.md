@@ -4,10 +4,10 @@ id = "le_volcan_8"
 date = 1998-08-31
 weight = 25
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Le volcan"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le volcan sous la lune endormi comme étoile
@@ -28,5 +28,5 @@ Alors, humain, ne laisse enfermer ta conscience,
 Ne fais pas comme moi, cendre morte en ses grains.
 
 {{% notice style="primary" %}}
-Acrostiche : Le volcan
+Acrostiche : Le volcan.
 {{% /notice %}}

@@ -4,7 +4,7 @@ id = "scene_d_ete_20"
 date = 2024-06-03
 weight = 25
 categories = ["Eté", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "2024"]
+tags = ["saisons", "ombres et lumières", "2024", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -1,24 +1,14 @@
----
-weight: 27
-title: Temps de paix
-id: temps_de_paix_23
-date: 2024-12-25
-verseLength: 8
-divider: ""
-categories:
-    - Foi
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Temps de paix"
+id = "temps_de_paix_23"
+date = 2024-12-25
+weight = 27
+categories = ["Foi", "Espoir"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Voici venu le temps des hommes
 
 Qui veulent être un peu meilleurs,

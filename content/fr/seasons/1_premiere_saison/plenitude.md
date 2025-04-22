@@ -4,7 +4,7 @@ id = "plenitude_1"
 date = 1994-01-01
 weight = 21
 categories = ["Musique et chant"]
-tags = ["attitudes", "1994"]
+tags = ["attitudes", "1994", "alexandrin"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Un son presque divin, jailli de la lumière
 S'étale et fait rêver, lisse présent des Dieux.
 
 {{% notice style="primary" %}}
-Reprise en 1995/1996 d'un poème de 1994
+Reprise en 1995/1996 d'un poème de 1994.
 {{% /notice %}}

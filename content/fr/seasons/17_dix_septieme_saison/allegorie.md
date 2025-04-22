@@ -4,7 +4,7 @@ id = "allegorie_17"
 date = 2004-12-14
 weight = 7
 categories = ["Aube", "Foi"]
-tags = ["ombres et lumières", "philosophie", "2004", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2004", "acrostiche", "heptasyllabe"]
 acrostiche = "Aube d'un coeur"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Un vieil homme prie, il berce
 Rêves immortels en toi.
 
 {{% notice style="primary" %}}
-Acrostiche : Aube d'un coeur
+Acrostiche : Aube d'un coeur.
 {{% /notice %}}

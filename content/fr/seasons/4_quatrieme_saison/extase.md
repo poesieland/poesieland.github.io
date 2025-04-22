@@ -4,7 +4,7 @@ id = "extase_4"
 date = 1997-08-02
 weight = 26
 categories = ["Musique et chant"]
-tags = ["attitudes", "1997"]
+tags = ["attitudes", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

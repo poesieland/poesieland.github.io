@@ -4,7 +4,7 @@ id = "gitane_10"
 date = 1999-01-28
 weight = 8
 categories = ["Etre"]
-tags = ["philosophie", "1999", "acrostiche", "métrique variable"]
+tags = ["philosophie", "1999", "acrostiche", "métrique variable", "hexasyllabe", "pentasyllabe", "tétrasyllabe"]
 info = "Métrique variable : 6, 5, 4"
 acrostiche = "Laisse les mots chanter"
 verseLength = -1
@@ -56,7 +56,7 @@ Et la route t'attend
 Répond l'histoire.
 
 {{% notice style="primary" %}}
-Métrique variable : 6, 5, 4
+Métrique variable : 6, 5, 4.
 
-Acrostiche : Laisse les mots chanter
+Acrostiche : Laisse les mots chanter.
 {{% /notice %}}

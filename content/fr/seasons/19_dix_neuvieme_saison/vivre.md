@@ -4,7 +4,7 @@ id = "vivre_19"
 date = 2024-03-31
 weight = 32
 categories = ["Temps"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

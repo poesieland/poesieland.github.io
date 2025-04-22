@@ -4,7 +4,7 @@ id = "quelle_foi_17"
 date = 2005-03-01
 weight = 16
 categories = ["Foi"]
-tags = ["philosophie", "2005"]
+tags = ["philosophie", "2005", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

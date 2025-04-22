@@ -4,10 +4,10 @@ id = "il_n_est_de_port_8"
 date = 1998-08-24
 weight = 22
 categories = ["Apprentissage"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Il n'est de port"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il n'est de port pour accoster :
@@ -37,5 +37,5 @@ Route sans guide en son atour
 Tourmenté... traces de mémoire.
 
 {{% notice style="primary" %}}
-Acrostiche : Il n'est de port
+Acrostiche : Il n'est de port.
 {{% /notice %}}

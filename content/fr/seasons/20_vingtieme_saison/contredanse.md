@@ -1,26 +1,14 @@
----
-weight: 41
-title: Contredanse
-id: contredanse_20
-date: 2024-06-18
-verseLength: 5
-divider: ""
-categories:
-    - Eau douce
-    - Révolte
-    - Climat
-tags:
-    - "2024"
-    - nature
-    - philosophie
-locations: []
-info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Contredanse"
+id = "contredanse_20"
+date = 2024-06-18
+weight = 41
+categories = ["Eau douce", "Climat", "Révolte"]
+tags = ["nature", "philosophie", "2024", "pentasyllabe"]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un air de gavotte
 
 Au rythme enjoué

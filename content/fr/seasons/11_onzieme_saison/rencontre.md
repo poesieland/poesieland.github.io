@@ -4,10 +4,10 @@ id = "rencontre_11"
 date = 1999-05-05
 weight = 43
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "L'éclipse"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 L'étoile, la planète
@@ -28,5 +28,5 @@ Sombre nœud sur le gypse
 Etreint tout l'horizon.
 
 {{% notice style="primary" %}}
-Acrostiche : L'éclipse
+Acrostiche : L'éclipse.
 {{% /notice %}}

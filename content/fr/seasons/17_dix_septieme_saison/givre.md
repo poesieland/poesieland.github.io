@@ -4,7 +4,7 @@ id = "givre_17"
 date = 2005-01-04
 weight = 10
 categories = ["Hiver"]
-tags = ["saisons", "2005"]
+tags = ["saisons", "2005", "décasyllabe"]
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

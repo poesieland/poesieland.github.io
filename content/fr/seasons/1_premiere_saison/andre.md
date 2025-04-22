@@ -4,7 +4,7 @@ id = "andre_1"
 date = 1994-01-01
 weight = 4
 categories = ["Romantisme"]
-tags = ["amour", "1994"]
+tags = ["amour", "1994", "octosyllabe"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,5 +55,5 @@ Et dans nos yeux soudain des flammes,
 Je lui soufflai : "Je t'aime André".
 
 {{% notice style="primary" %}}
-Reprise en 1995/1996 d'un poème de 1994
+Reprise en 1995/1996 d'un poème de 1994.
 {{% /notice %}}

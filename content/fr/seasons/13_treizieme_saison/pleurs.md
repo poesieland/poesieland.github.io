@@ -4,10 +4,10 @@ id = "pleurs_13"
 date = 1999-08-23
 weight = 16
 categories = ["Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "ennéasyllabe"]
 acrostiche = "Pleurs"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 9
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Pleurer comme une petite fille
@@ -23,5 +23,5 @@ Regard bleu dans l'innocence même
 Sous la peur que personne ne l'aime.
 
 {{% notice style="primary" %}}
-Acrostiche : Pleurs
+Acrostiche : Pleurs.
 {{% /notice %}}

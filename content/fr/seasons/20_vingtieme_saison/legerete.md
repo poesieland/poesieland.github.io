@@ -4,7 +4,7 @@ id = "legerete_20"
 date = 2024-06-14
 weight = 36
 categories = ["Etre", "Musique et chant"]
-tags = ["philosophie", "attitudes", "2024"]
+tags = ["philosophie", "attitudes", "2024", "dissyllabe"]
 verseLength = 2
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,9 +4,9 @@ id = "le_cour_de_l_ame_6"
 date = 1998-05-17
 weight = 23
 categories = ["Etre"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "heptasyllabe"]
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dissocier l'œil et la main,

@@ -1,27 +1,18 @@
----
-weight: 34
-title: Contemplation
-id: contemplation_23
-date: 2024-12-27
-verseLength: 8
-divider: ""
-categories:
-    - Hiver
-    - Etre
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-locations: []
-info: |-
-    Les poèmes qui reprennent _l'orgue des arbres_ :
-    {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Contemplation"
+id = "contemplation_23"
+date = 2024-12-27
+weight = 34
+categories = ["Hiver", "Etre"]
+tags = ["saisons", "philosophie", "2024", "octosyllabe"]
+info = """
+Les poèmes qui reprennent _l'orgue des arbres_ :
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
+
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 De tes soucis pose valise,
 
 Contemple avec moi l'éclat doux
@@ -41,5 +32,5 @@ Vois avec moi rêve natal.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
-{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}.
 {{% /notice %}}

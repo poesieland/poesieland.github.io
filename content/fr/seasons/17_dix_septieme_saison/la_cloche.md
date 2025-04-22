@@ -3,10 +3,10 @@ title = "La cloche"
 id = "la_cloche_17"
 date = 2016-05-31
 weight = 44
-categories = [ "Jardin et paysage" ]
-tags = [ "2016", "nature", "sonnet", "maman" ]
+categories = ["Jardin et paysage"]
+tags = ["nature", "maman", "2016", "sonnet", "octosyllabe"]
 info = "Pour célébrer un joli anniversaire de ma maman"
-pictures = [ "Là où tu passas ta jeunesse (photo de 2005)" ]
+pictures = ["Là où tu passas ta jeunesse (photo de 2005)"]
 poemType = "sonnet"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ C'est le juste compte, septante !
 {{< figure src="/images/la_cloche_17_0.jpg" title="Là où tu passas ta jeunesse (photo de 2005)" >}}
 
 {{% notice style="primary" %}}
-Pour célébrer un joli anniversaire de ma maman
+Pour célébrer un joli anniversaire de ma maman.
 {{% /notice %}}

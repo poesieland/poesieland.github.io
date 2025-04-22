@@ -4,10 +4,10 @@ id = "prends_mon_cour_13"
 date = 1999-09-11
 weight = 8
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Prends mon cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Prends mon cœur dans le tien, prends mon cœur dans ta main,
@@ -41,5 +41,5 @@ Un culte ne sied guère à l'espace promis.
 Raisonnable, homme, ciel, vent, fleuve, feu, fourmis.
 
 {{% notice style="primary" %}}
-Acrostiche : Prends mon cœur
+Acrostiche : Prends mon cœur.
 {{% /notice %}}

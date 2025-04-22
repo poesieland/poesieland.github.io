@@ -4,7 +4,7 @@ id = "pour_deployer_mes_ailes_5"
 date = 1997-12-28
 weight = 36
 categories = ["Apprentissage"]
-tags = ["philosophie", "1997", "acrostiche"]
+tags = ["philosophie", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "Pour déployer mes ailes"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -55,5 +55,5 @@ Et j'étrenne l'envie :
 Survoler libertés.
 
 {{% notice style="primary" %}}
-Acrostiche : Pour déployer mes ailes
+Acrostiche : Pour déployer mes ailes.
 {{% /notice %}}

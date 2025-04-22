@@ -4,10 +4,10 @@ id = "poesie_statue_13"
 date = 1999-07-26
 weight = 41
 categories = ["Temps"]
-tags = ["philosophie", "1999", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche", "octosyllabe"]
 doubleAcrostiche = "Poésie | Statue"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Puisse le marbre de Carrare
@@ -37,5 +37,5 @@ Et rêve sans dormir, embrasse
 En ton cœur, statue, ô, ce vol...
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Poésie / Statue
+Acrostiche double (lignes paires et impaires) : Poésie / Statue.
 {{% /notice %}}

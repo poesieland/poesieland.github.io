@@ -4,10 +4,10 @@ id = "fin_d_ete_nonchalance_8"
 date = 1998-09-06
 weight = 33
 categories = ["Automne"]
-tags = ["saisons", "1998", "acrostiche"]
+tags = ["saisons", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Fin d'été, nonchalance"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Fin d'été : nonchalance
@@ -47,5 +47,5 @@ Ce que l'âme imagine
 Et l'automne assassine.
 
 {{% notice style="primary" %}}
-Acrostiche : Fin d'été, nonchalance
+Acrostiche : Fin d'été, nonchalance.
 {{% /notice %}}

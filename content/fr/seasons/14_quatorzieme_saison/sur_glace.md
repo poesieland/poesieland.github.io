@@ -4,10 +4,10 @@ id = "sur_glace_14"
 date = 2001-03-24
 weight = 40
 categories = ["Mouvement"]
-tags = ["attitudes", "2001", "acrostiche"]
+tags = ["attitudes", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Sur glace"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Souples, les corps dansent au lac
@@ -28,5 +28,5 @@ Caresse d'être, on ne sait pas,
 Emu, d'où vient le patinage.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur glace
+Acrostiche : Sur glace.
 {{% /notice %}}

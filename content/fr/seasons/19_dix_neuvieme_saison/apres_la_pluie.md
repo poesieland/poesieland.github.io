@@ -4,7 +4,7 @@ id = "apres_la_pluie_19"
 date = 2024-03-16
 weight = 22
 categories = ["Eau douce"]
-tags = ["nature", "2024"]
+tags = ["nature", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "annonciation_de_l_automne_16"
 date = 2004-08-17
 weight = 44
 categories = ["Aube", "Automne", "Jardin et paysage"]
-tags = ["ombres et lumières", "saisons", "nature", "2004"]
+tags = ["ombres et lumières", "saisons", "nature", "2004", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "cathedrale_de_lumieres_10"
 date = 1999-02-16
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "1999", "doubleAcrostiche"]
+tags = ["philosophie", "1999", "doubleAcrostiche", "heptasyllabe"]
 doubleAcrostiche = "Cathédrale | de lumières"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Cathédrale de lumières,
@@ -51,5 +51,5 @@ Entends-tu les cloches d'or
 Sonner l'âme en leur accord ?
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Cathédrale / de lumières
+Acrostiche double (lignes paires et impaires) : Cathédrale / de lumières.
 {{% /notice %}}

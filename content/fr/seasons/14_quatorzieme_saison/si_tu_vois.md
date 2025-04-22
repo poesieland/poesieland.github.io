@@ -4,10 +4,10 @@ id = "si_tu_vois_14"
 date = 2000-08-29
 weight = 19
 categories = ["Foi"]
-tags = ["philosophie", "2000", "acrostiche"]
+tags = ["philosophie", "2000", "acrostiche", "alexandrin"]
 acrostiche = "Si tu vois"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Si tu ne vois, Seigneur, ni mon cœur ni mon âme,
@@ -28,5 +28,5 @@ Incertain l'humble cœur venu sacrer l'obole,
 Serment, pour allier la flèche au vieux parvis.
 
 {{% notice style="primary" %}}
-Acrostiche : Si tu vois
+Acrostiche : Si tu vois.
 {{% /notice %}}

@@ -4,11 +4,11 @@ id = "un_destin_12"
 date = 1999-07-17
 weight = 20
 categories = ["Création", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au-delà du message ou de la poésie,
@@ -34,5 +34,5 @@ Et laisser sur la terre une jeunesse folle...
 {{% notice style="primary" %}}
 En hommage au chanteur Balavoine.
 
-Acrostiche : A Balavoine
+Acrostiche : A Balavoine.
 {{% /notice %}}

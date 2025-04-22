@@ -4,7 +4,7 @@ id = "evocation_2"
 date = 1996-09-19
 weight = 1
 categories = ["Portraits"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

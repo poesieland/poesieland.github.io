@@ -4,10 +4,10 @@ id = "il_est_cher_automne_15"
 date = 2001-09-08
 weight = 28
 categories = ["Automne"]
-tags = ["saisons", "2001", "acrostiche"]
+tags = ["saisons", "2001", "acrostiche", "décasyllabe"]
 acrostiche = "Il est cher, automne"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il pleut, tout doux, et c'est déjà l'automne,
@@ -46,5 +46,5 @@ Nous sommes vrais d'abstraction charnelle,
 Et je t'embrasse, et je m'éveille encor.
 
 {{% notice style="primary" %}}
-Acrostiche : Il est cher, automne
+Acrostiche : Il est cher, automne.
 {{% /notice %}}

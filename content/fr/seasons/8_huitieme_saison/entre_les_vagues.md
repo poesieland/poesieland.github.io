@@ -3,11 +3,11 @@ title = "Entre les vagues"
 id = "entre_les_vagues_8"
 date = 1998-09-05
 weight = 31
-categories = ["Sommeil", "Mer", "Musique et chant"]
-tags = ["attitudes", "nature", "1998", "acrostiche"]
+categories = ["Sommeil", "Musique et chant", "Mer"]
+tags = ["attitudes", "nature", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Entre les vagues"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Entre le rêve et le sommeil,
@@ -41,5 +41,5 @@ Echappée au berceau mutin :
 Sourire, la mer au matin.
 
 {{% notice style="primary" %}}
-Acrostiche : Entre les vagues
+Acrostiche : Entre les vagues.
 {{% /notice %}}

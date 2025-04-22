@@ -4,11 +4,11 @@ id = "cours_mortels_10"
 date = 1999-03-29
 weight = 50
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 info = "\"Quand le jour sera nôtre\" en italien."
 acrostiche = "Quando il giorno sarà nostro"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Quand le soleil se lèvera
@@ -65,7 +65,7 @@ Ressent les signes plus discrets
 Offerts d'invisible prière.
 
 {{% notice style="primary" %}}
-\"Quand le jour sera nôtre\" en italien.
+"Quand le jour sera nôtre" en italien.
 
-Acrostiche : Quando il giorno sarà nostro
+Acrostiche : Quando il giorno sarà nostro.
 {{% /notice %}}

@@ -4,7 +4,7 @@ id = "partage_19"
 date = 2024-03-28
 weight = 30
 categories = ["Etre"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

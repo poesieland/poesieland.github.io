@@ -3,8 +3,8 @@ title = "La fièvre de t'aimer"
 id = "la_fievre_de_t_aimer_5"
 date = 1997-12-25
 weight = 17
-categories = [ "Passion" ]
-tags = [ "amour", "1997", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1997", "acrostiche", "hexasyllabe"]
 acrostiche = "La fièvre de t'aimer"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Et comme espoir l'élan
 Ravit l'âme moirée.
 
 {{% notice style="primary" %}}
-Acrostiche : La fièvre de t'aimer
+Acrostiche : La fièvre de t'aimer.
 {{% /notice %}}

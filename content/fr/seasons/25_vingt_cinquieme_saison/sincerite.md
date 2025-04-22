@@ -1,24 +1,15 @@
----
-weight: 36
-title: Sincérité
-id: sincerite_25
-date: 2025-03-27
-verseLength: 2
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2025"
-    - philosophie
-    - sonnet
-location: []
-info: ""
-pictures: []
-poemType: sonnet
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sincérité"
+id = "sincerite_25"
+date = 2025-03-27
+weight = 36
+categories = ["Etre"]
+tags = ["philosophie", "2025", "sonnet", "dissyllabe"]
+poemType = "sonnet"
+verseLength = 2
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ecoute
 
 Ton coeur

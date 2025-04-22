@@ -4,10 +4,10 @@ id = "mots_mime_15"
 date = 2001-08-09
 weight = 18
 categories = ["Création"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "heptasyllabe"]
 acrostiche = "Mots : mime"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Marions nos fleurs, soleils
@@ -28,5 +28,5 @@ Marions la vie en rose
 En l'arpège, cœurs et corps.
 
 {{% notice style="primary" %}}
-Acrostiche : Mots : mime
+Acrostiche : Mots : mime.
 {{% /notice %}}

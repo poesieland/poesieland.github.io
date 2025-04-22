@@ -1,26 +1,16 @@
----
-weight: 11
-title: "Noël : lumières"
-id: noel_lumieres_23
-date: 2024-12-07
-verseLength: 8
-divider: ""
-categories:
-    - Hiver
-    - Foi
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-    - acrostiche
-locations: []
-info: Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante)
-pictures: []
-poemType: ""
-acrostiche: "Noël : lumières"
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Noël : lumières"
+id = "noel_lumieres_23"
+date = 2024-12-07
+weight = 11
+categories = ["Hiver", "Foi"]
+tags = ["saisons", "philosophie", "2024", "acrostiche", "octosyllabe"]
+info = "Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante)"
+acrostiche = "Noël : lumières"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Noël a chanté sur le toit,
 
 Ouvre ton coeur à l'espérance !
@@ -48,7 +38,7 @@ Etoile guide, ciel s'imprègne...
 Serein, le monde s'assagit.
 
 {{% notice style="primary" %}}
-Acrostiche : Noël : lumières.
+Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante).
 
-Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante)
+Acrostiche : Noël : lumières.
 {{% /notice %}}

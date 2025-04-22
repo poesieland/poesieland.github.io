@@ -4,7 +4,7 @@ id = "solitude_marine_5"
 date = 1997-10-01
 weight = 31
 categories = ["Mer", "Temps"]
-tags = ["nature", "philosophie", "1997"]
+tags = ["nature", "philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

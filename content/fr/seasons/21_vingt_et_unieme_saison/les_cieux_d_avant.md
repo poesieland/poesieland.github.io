@@ -1,28 +1,18 @@
----
-weight: 12
-title: Les cieux d'avant
-id: les_cieux_d_avant_21
-date: 2024-07-08
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Temps
-    - Climat
-tags:
-    - "2024"
-    - nature
-    - philosophie
-locations: []
-info: |-
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les cieux d'avant"
+id = "les_cieux_d_avant_21"
+date = 2024-07-08
+weight = 12
+categories = ["Ciel", "Climat", "Temps"]
+tags = ["nature", "philosophie", "2024", "hexasyllabe"]
+info = """
+Les poèmes qui commencent par ce vers...
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
+
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il se pourrait qu'il pleuve
 
 Un peu, passionnément,
@@ -60,5 +50,5 @@ Rêveurs, aux cieux d'avant.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}.
 {{% /notice %}}

@@ -3,13 +3,13 @@ title = "L'air : rapsodie"
 id = "l_air_rapsodie_14"
 date = 2000-04-24
 weight = 16
-categories = [ "Jardin et paysage", "Printemps", "Temps" ]
-tags = [ "nature", "saisons", "philosophie", "2000", "acrostiche" ]
+categories = ["Jardin et paysage", "Printemps", "Temps"]
+tags = ["nature", "saisons", "philosophie", "2000", "acrostiche", "quatorze syllabes"]
 info = "D'après le parc de Choisy, Paris."
 acrostiche = "L'air : rapsodie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 14
-locations = [ "Paris" ]
+locations = ["Paris"]
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le vieux cèdre au pas immobile égrène les saisons ;
@@ -41,5 +41,5 @@ Emerveillé, le Printemps dort, renaquit, se dévoile.
 {{% notice style="primary" %}}
 D'après le parc de Choisy, Paris.
 
-Acrostiche : L'air : rapsodie
+Acrostiche : L'air : rapsodie.
 {{% /notice %}}

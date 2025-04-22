@@ -1,23 +1,14 @@
----
-weight: 48
-title: Saint Sylvestre
-id: saint_sylvestre_23
-date: 2024-12-30
-verseLength: 6
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Saint Sylvestre"
+id = "saint_sylvestre_23"
+date = 2024-12-30
+weight = 48
+categories = ["Temps"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Demain le réveillon,
 
 Dernier jour de l'année,

@@ -1,23 +1,14 @@
----
-weight: 7
-title: Orgie
-id: orgie_24
-date: 2025-01-03
-verseLength: 8
-divider: ""
-categories:
-    - Portraits
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Orgie"
+id = "orgie_24"
+date = 2025-01-03
+weight = 7
+categories = ["Portraits"]
+tags = ["philosophie", "2025", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 C'est pas demain qu'on s'ra moins gros,
 
 De libations en victuailles

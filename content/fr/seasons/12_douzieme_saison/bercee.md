@@ -4,10 +4,10 @@ id = "bercee_12"
 date = 1999-06-12
 weight = 42
 categories = ["Nuit"]
-tags = ["ombres et lumières", "1999", "acrostiche"]
+tags = ["ombres et lumières", "1999", "acrostiche", "hendécasyllabe"]
 acrostiche = "Bercée"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Brisé, le reflet de cette lune blanche
@@ -23,5 +23,5 @@ Etreignent caresse en promesse profonde,
 Eternelle, avant que s'éveille le monde...
 
 {{% notice style="primary" %}}
-Acrostiche : Bercée
+Acrostiche : Bercée.
 {{% /notice %}}

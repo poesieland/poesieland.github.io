@@ -4,7 +4,7 @@ id = "coucher_de_soleil_2"
 date = 1996-11-28
 weight = 34
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "1996"]
+tags = ["ombres et lumières", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

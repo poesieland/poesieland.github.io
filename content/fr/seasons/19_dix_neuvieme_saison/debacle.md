@@ -3,8 +3,8 @@ title = "Débâcle"
 id = "debacle_19"
 date = 2024-04-05
 weight = 38
-categories = [ "Climat", "Printemps", "Révolte", "Angoisse" ]
-tags = [ "2024", "philosophie", "saisons", "nature" ]
+categories = ["Climat", "Printemps", "Révolte", "Angoisse"]
+tags = ["nature", "saisons", "philosophie", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -1,23 +1,14 @@
----
-weight: 12
-title: Rangé !
-id: range_24
-date: 2025-01-07
-verseLength: 6
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2025"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rangé !"
+id = "range_24"
+date = 2025-01-07
+weight = 12
+categories = ["Temps"]
+tags = ["philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 J'ai rangé, tout est prêt,
 
 Mes guirlandes joyeuses

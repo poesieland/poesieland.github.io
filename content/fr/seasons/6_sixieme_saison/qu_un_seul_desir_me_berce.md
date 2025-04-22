@@ -4,10 +4,10 @@ id = "qu_un_seul_desir_me_berce_6"
 date = 1998-03-30
 weight = 32
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Qu'un seul désir me berce"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Qu'un seul désir me berce encor,
@@ -55,5 +55,5 @@ Caresse en paume de ta main
 Elle est parole retenue...
 
 {{% notice style="primary" %}}
-Acrostiche : Qu'un seul désir me berce
+Acrostiche : Qu'un seul désir me berce.
 {{% /notice %}}

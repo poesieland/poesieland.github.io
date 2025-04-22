@@ -3,11 +3,11 @@ title = "Saison fugace"
 id = "saison_fugace_4"
 date = 1997-08-05
 weight = 1
-categories = [ "Temps" ]
-tags = [ "1997", "acrostiche", "philosophie" ]
+categories = ["Temps"]
+tags = ["philosophie", "1997", "acrostiche", "octosyllabe"]
+acrostiche = "Trop tôt parti"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-acrostiche = "Trop tôt parti"
 +++
 
 Toute saison trop tôt venue
@@ -36,8 +36,6 @@ Toute saison... déjà s'envole,
 
 Il ne me reste que candeurs.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Trop tôt parti"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Trop tôt parti
+Acrostiche : Trop tôt parti.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

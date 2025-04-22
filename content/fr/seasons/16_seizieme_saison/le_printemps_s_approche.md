@@ -4,10 +4,10 @@ id = "le_printemps_s_approche_16"
 date = 2003-02-26
 weight = 13
 categories = ["Printemps", "Jardin et paysage"]
-tags = ["saisons", "nature", "2003", "acrostiche"]
+tags = ["saisons", "nature", "2003", "acrostiche", "pentasyllabe"]
 acrostiche = "Le printemps s'approche"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le printemps s'approche,
@@ -55,5 +55,5 @@ Horizon d'amante
 Emue : un printemps.
 
 {{% notice style="primary" %}}
-Acrostiche : Le printemps s'approche
+Acrostiche : Le printemps s'approche.
 {{% /notice %}}

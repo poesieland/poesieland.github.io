@@ -4,10 +4,10 @@ id = "berceuse_9"
 date = 1998-09-19
 weight = 18
 categories = ["Musique et chant", "Sommeil"]
-tags = ["attitudes", "1998", "acrostiche"]
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Tu sens..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu sens comme cette douceur

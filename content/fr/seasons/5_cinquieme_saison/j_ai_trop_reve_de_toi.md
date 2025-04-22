@@ -3,8 +3,8 @@ title = "J'ai trop rêvé de toi"
 id = "j_ai_trop_reve_de_toi_5"
 date = 1998-01-20
 weight = 4
-categories = [ "Création", "Amour platonique" ]
-tags = [ "amour", "philosophie", "1998", "acrostiche" ]
+categories = ["Création", "Amour platonique"]
+tags = ["philosophie", "amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "J'ai trop rêvé de toi"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ O ce ne sont que mes sanglots
 Irradiés de cette aventure !
 
 {{% notice style="primary" %}}
-Acrostiche : J'ai trop rêvé de toi
+Acrostiche : J'ai trop rêvé de toi.
 {{% /notice %}}

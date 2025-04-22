@@ -4,10 +4,10 @@ id = "dehors_12"
 date = 1999-06-01
 weight = 38
 categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Dehors"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dehors le ciel se couche
@@ -23,5 +23,5 @@ Rassemble une berceuse
 Sur les toits, amoureuse...
 
 {{% notice style="primary" %}}
-Acrostiche : Dehors
+Acrostiche : Dehors.
 {{% /notice %}}

@@ -3,11 +3,11 @@ title = "Dans tes nuits"
 id = "dans_tes_nuits_14"
 date = 1999-12-08
 weight = 42
-categories = [ "Etre", "Amour platonique" ]
-tags = [ "amour", "philosophie", "1999", "acrostiche" ]
+categories = ["Etre", "Amour platonique"]
+tags = ["philosophie", "amour", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Dans tes nuits"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans chaque nuit je vois ton cœur,
@@ -37,5 +37,5 @@ Tous les sourires d'un échange,
 Souviens-toi : bribes alentour.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans tes nuits
+Acrostiche : Dans tes nuits.
 {{% /notice %}}

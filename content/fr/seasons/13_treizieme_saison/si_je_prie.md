@@ -4,10 +4,10 @@ id = "si_je_prie_13"
 date = 1999-08-28
 weight = 2
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "décasyllabe"]
 acrostiche = "Si je prie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sans regretter ce qu'on ne fera plus,
@@ -28,5 +28,5 @@ Illuminée, ô Vierge: espoir vainqueur...
 En cet instant mon âme est-elle sage ou folle ?
 
 {{% notice style="primary" %}}
-Acrostiche : Si je prie
+Acrostiche : Si je prie.
 {{% /notice %}}

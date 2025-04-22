@@ -4,7 +4,7 @@ id = "vanite_1"
 date = 1994-01-01
 weight = 47
 categories = ["Révolte"]
-tags = ["philosophie", "1994"]
+tags = ["philosophie", "1994", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "vrai_sens_11"
 date = 1999-05-08
 weight = 27
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Vrai sens"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vois-tu comme un spectacle
@@ -28,5 +28,5 @@ Né l'artiste, esclavage
 Serein, tout partager.
 
 {{% notice style="primary" %}}
-Acrostiche : Vrai sens
+Acrostiche : Vrai sens.
 {{% /notice %}}

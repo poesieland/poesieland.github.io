@@ -4,10 +4,10 @@ id = "vertiges_15"
 date = 2001-07-02
 weight = 11
 categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche"]
+tags = ["philosophie", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Vertiges"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vertiges, passerelle alors
@@ -28,5 +28,5 @@ Etendu sur terre, pareil,
 Silence, à sa musique, sève.
 
 {{% notice style="primary" %}}
-Acrostiche : Vertiges
+Acrostiche : Vertiges.
 {{% /notice %}}

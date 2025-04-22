@@ -3,12 +3,12 @@ title = "Una pagina si torna"
 id = "una_pagina_si_torna_11"
 date = 1999-04-03
 weight = 13
-categories = [ "Temps", "Passion" ]
-tags = [ "philosophie", "amour", "1999", "acrostiche" ]
-info = '"Une page se tourne" en italien.'
+categories = ["Temps", "Passion"]
+tags = ["philosophie", "amour", "1999", "acrostiche", "hendécasyllabe"]
+info = "\"Une page se tourne\" en italien."
 acrostiche = "Una pagina si torna"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 11
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Un sourire qui ne veut plus rien me dire
@@ -47,7 +47,7 @@ Nécrose de l'âme au rocher du non-être
 Adieu ! Tu ne sais que je ne te revois !
 
 {{% notice style="primary" %}}
-\"Une page se tourne\" en italien.
+"Une page se tourne" en italien.
 
-Acrostiche : Una pagina si torna
+Acrostiche : Una pagina si torna.
 {{% /notice %}}

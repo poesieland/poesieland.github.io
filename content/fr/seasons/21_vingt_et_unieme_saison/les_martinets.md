@@ -1,25 +1,15 @@
----
-weight: 13
-title: Les martinets
-id: les_martinets_21
-date: 2024-07-08
-verseLength: 8
-divider: ""
-categories:
-    - Faune
-    - Ciel
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures:
-    - 08.07.2024
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Les martinets"
+id = "les_martinets_21"
+date = 2024-07-08
+weight = 13
+categories = ["Faune", "Ciel"]
+tags = ["nature", "2024", "octosyllabe"]
+pictures = ["08.07.2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Comme un mineur a sa lanterne
 
 Vous êtes du ciel les veilleurs,
@@ -37,6 +27,4 @@ Noirs fuseaux volages champêtres
 
 En un instant éparpillés.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"les_martinets_21_0.jpg"},{"name":"imageCaption","value":"08.07.2024"}]} -->
 {{< figure src="/images/les_martinets_21_0.jpg" title="08.07.2024" >}}
-<!-- FM:Snippet:End -->

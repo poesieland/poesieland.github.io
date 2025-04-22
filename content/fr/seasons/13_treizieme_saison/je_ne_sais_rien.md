@@ -4,11 +4,11 @@ id = "je_ne_sais_rien_13"
 date = 1999-08-24
 weight = 36
 categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 info = "Un jeu de mot suggère \"memoriam éveil\"."
 acrostiche = "Je ne sais rien"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'ai reconnu ta voix et mon cœur n'a battu
@@ -38,7 +38,7 @@ Extraits de la poussière en squelettes chantants
 Ne croyant plus au conte insensé de merveilles.
 
 {{% notice style="primary" %}}
-Un jeu de mot suggère \"memoriam éveil\".
+Un jeu de mot suggère "memoriam éveil".
 
-Acrostiche : Je ne sais rien
+Acrostiche : Je ne sais rien.
 {{% /notice %}}

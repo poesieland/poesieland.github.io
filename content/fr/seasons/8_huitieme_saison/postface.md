@@ -3,18 +3,17 @@ title = "Postface"
 id = "postface_8"
 date = 1998-08-05
 weight = 21
-categories = [ "Création" ]
-tags = [ "1998", "philosophie", "acrostiche" ]
+categories = ["Création"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 info = """
-Acrostiche : Andrea Andrea.
-
 Dernier poème de mon recueil En six lettres : t'aimer.
 
-[Lire le première poème...](../../5_cinquieme_saison/le_depart_de_l_amant)
+[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant)
 """
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-verseLength = 8
+
 acrostiche = "Andrea Andrea"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Avant de partir sans un signe,
@@ -44,9 +43,9 @@ Eteins-toi doux, sans amertume,
 A l'ombre où l'ombre se défait.
 
 {{% notice style="primary" %}}
-Acrostiche : Andrea Andrea.
-
 Dernier poème de mon recueil En six lettres : t'aimer.
 
-[Lire le première poème...](../../5_cinquieme_saison/le_depart_de_l_amant)
+[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant).
+
+Acrostiche : Andrea Andrea.
 {{% /notice %}}

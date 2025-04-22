@@ -4,7 +4,7 @@ id = "ode_a_l_amour_18"
 date = 2023-10-10
 weight = 2
 categories = ["Romantisme"]
-tags = ["amour", "2023", "acrostiche"]
+tags = ["amour", "2023", "acrostiche", "alexandrin"]
 acrostiche = "L'amor ti vieta"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Transcendant chaque mot de notre ritournelle
 A nous d'un glorieux lendemain résolu.
 
 {{% notice style="primary" %}}
-Acrostiche : L'amor ti vieta
+Acrostiche : L'amor ti vieta.
 {{% /notice %}}

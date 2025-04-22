@@ -3,11 +3,11 @@ title = "Miroirs de toi"
 id = "miroirs_de_toi_8"
 date = 1998-08-03
 weight = 20
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Miroirs de toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Mon souvenir flou se brisa,
@@ -37,5 +37,5 @@ Oratorio quand je me mire,
 Instants de toi me berceront.
 
 {{% notice style="primary" %}}
-Acrostiche : Miroirs de toi
+Acrostiche : Miroirs de toi.
 {{% /notice %}}

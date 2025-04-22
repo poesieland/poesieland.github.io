@@ -4,10 +4,10 @@ id = "emeus_moi_7"
 date = 1998-07-15
 weight = 2
 categories = ["Romantisme"]
-tags = ["amour", "1998", "acrostiche"]
+tags = ["amour", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Emeus-moi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Embrasse-moi d'un mot, d'un geste ou d'un sourire,
@@ -28,5 +28,5 @@ Ou dessine un souhait sur le bas d'une page;
 Il suffit de m'aimer en ce jour frémissant.
 
 {{% notice style="primary" %}}
-Acrostiche : Emeus-moi
+Acrostiche : Emeus-moi.
 {{% /notice %}}

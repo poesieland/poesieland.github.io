@@ -4,10 +4,10 @@ id = "monter_la_voie_13"
 date = 1999-08-29
 weight = 5
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Monter la voie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Monter plus haut que l'âme
@@ -37,5 +37,5 @@ Intact, son flux, la rive
 Eclate à cette mer...
 
 {{% notice style="primary" %}}
-Acrostiche : Monter la voie
+Acrostiche : Monter la voie.
 {{% /notice %}}

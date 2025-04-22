@@ -4,10 +4,10 @@ id = "dessin_13"
 date = 1999-11-01
 weight = 29
 categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "1999", "acrostiche"]
+tags = ["saisons", "philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Dessin"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans le parc silencieux tant de feuilles tombées
@@ -23,5 +23,5 @@ Intime l'assassin d'automne, d'un murmure
 Ne regrette qu'un cœur, oiseau sans sépulture.
 
 {{% notice style="primary" %}}
-Acrostiche : Dessin
+Acrostiche : Dessin.
 {{% /notice %}}

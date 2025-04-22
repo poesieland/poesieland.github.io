@@ -9,8 +9,9 @@ categories:
     - Faune
 tags:
     - "2024"
-    - nature
     - lovecat
+    - nature
+    - octosyllabe
 locations: []
 info: ""
 pictures:

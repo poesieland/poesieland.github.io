@@ -4,7 +4,7 @@ id = "sur_un_air_souffles_17"
 date = 2005-05-22
 weight = 21
 categories = ["Musique et chant", "Eau douce"]
-tags = ["attitudes", "nature", "2005", "acrostiche"]
+tags = ["attitudes", "nature", "2005", "acrostiche", "octosyllabe"]
 acrostiche = "Sur un air, souffles"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Elle est belle ma ville, élance
 Ses airs sur un passé bâtard.
 
 {{% notice style="primary" %}}
-Acrostiche : Sur un air, souffles
+Acrostiche : Sur un air, souffles.
 {{% /notice %}}

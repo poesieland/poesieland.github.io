@@ -1,25 +1,15 @@
----
-weight: 37
-title: Hiver lumineux
-id: hiver_lumineux_23
-date: 2024-12-28
-verseLength: 8
-divider: ""
-categories:
-    - Ciel
-    - Hiver
-tags:
-    - "2024"
-    - nature
-    - saisons
-locations: []
-info: La neige d'un [poème de la deuxième saison](../2_deuxieme_saison/neige) remplacée par le givre ce jour pour une même impression d'absolu.
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Hiver lumineux"
+id = "hiver_lumineux_23"
+date = 2024-12-28
+weight = 37
+categories = ["Ciel", "Hiver"]
+tags = ["nature", "saisons", "2024", "octosyllabe"]
+info = "La neige d'un [poème de la deuxième saison](../2_deuxieme_saison/neige) remplacée par le givre ce jour pour une même impression d'absolu."
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Il a givré tôt ce matin,
 
 Sur ma pelouse rit l'hermine
@@ -46,8 +36,6 @@ La lumière sans se presser
 
 Embrasse hiver en ses volutes !
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":""}]} -->
 {{% notice style="primary" %}}
 La neige d'un [poème de la deuxième saison](../2_deuxieme_saison/neige) remplacée par le givre ce jour pour une même impression d'absolu.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

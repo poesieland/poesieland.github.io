@@ -4,7 +4,7 @@ id = "music_hall_20"
 date = 2024-06-11
 weight = 33
 categories = ["Musique et chant", "Mouvement"]
-tags = ["attitudes", "2024"]
+tags = ["attitudes", "2024", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

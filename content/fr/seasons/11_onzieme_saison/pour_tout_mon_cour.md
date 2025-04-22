@@ -4,10 +4,10 @@ id = "pour_tout_mon_cour_11"
 date = 1999-05-12
 weight = 9
 categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche"]
+tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Pour tout mon cœur"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Près de toi la musique, un souffle me réveille
@@ -46,5 +46,5 @@ Une danse en tes bras, libres liens de la vie
 Reine où ce qui n'est toi semble s'évanouir.
 
 {{% notice style="primary" %}}
-Acrostiche : Pour tout mon cœur
+Acrostiche : Pour tout mon cœur.
 {{% /notice %}}

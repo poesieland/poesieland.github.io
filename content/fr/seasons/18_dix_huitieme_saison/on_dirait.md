@@ -1,23 +1,14 @@
----
-weight: 48
-title: On dirait
-id: on_dirait_18
-date: 2024-01-14
-verseLength: 8
-divider: ""
-categories:
-    - Neige
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "On dirait"
+id = "on_dirait_18"
+date = 2024-01-14
+weight = 48
+categories = ["Neige"]
+tags = ["nature", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 On dirait vols de moucheron
 
 Mais ce sont des flocons de neige

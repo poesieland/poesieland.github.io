@@ -3,11 +3,11 @@ title = "Il pleut sur ta figure..."
 id = "il_pleut_sur_ta_figure_8"
 date = 1998-07-27
 weight = 14
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Il pleut sur ta figure..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Il pleut sur ta figure d'homme;

@@ -3,8 +3,8 @@ title = "L'adieu"
 id = "l_adieu_3"
 date = 1997-05-10
 weight = 7
-categories = [ "Ciel", "Temps" ]
-tags = [ "1997", "nature", "philosophie" ]
+categories = ["Ciel", "Temps"]
+tags = ["nature", "philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "jeu_eclat_15"
 date = 2001-08-31
 weight = 26
 categories = ["Espoir", "Eté"]
-tags = ["philosophie", "saisons", "2001", "acrostiche"]
+tags = ["philosophie", "saisons", "2001", "acrostiche", "heptasyllabe"]
 acrostiche = "Jeu - éclat"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je m'en suis allée et toi
@@ -28,5 +28,5 @@ Azur, vert et blanc, coquet;
 Tressé de l'été, prunelle.
 
 {{% notice style="primary" %}}
-Acrostiche : Jeu - éclat
+Acrostiche : Jeu - éclat.
 {{% /notice %}}

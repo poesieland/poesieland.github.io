@@ -1,26 +1,15 @@
----
-weight: 24
-title: Automne croque-mitaine
-id: automne_croque_mitaine_23
-date: 2024-12-23
-verseLength: 8
-divider: ""
-categories:
-    - Automne
-    - Angoisse
-tags:
-    - "2024"
-    - philosophie
-    - saisons
-    - acrostiche
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Automne, temps
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Automne croque-mitaine"
+id = "automne_croque_mitaine_23"
+date = 2024-12-23
+weight = 24
+categories = ["Automne", "Angoisse"]
+tags = ["saisons", "philosophie", "2024", "acrostiche", "octosyllabe"]
+acrostiche = "Automne, temps"
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Automne intense et pénétrant,
 
 Un vain reflet d'été chatoie,
@@ -47,8 +36,6 @@ Puis quand la couleur a déteint
 
 Sourit saison croque-mitaine.
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Automne, temps"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Automne, temps
+Acrostiche : Automne, temps.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

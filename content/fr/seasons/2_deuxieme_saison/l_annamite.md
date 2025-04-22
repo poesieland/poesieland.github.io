@@ -3,11 +3,11 @@ title = "L'Annamite"
 id = "l_annamite_2"
 date = 1996-10-09
 weight = 5
-categories = [ "Portraits" ]
-tags = [ "philosophie", "1996" ]
+categories = ["Portraits"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
+locations = ["Où je n'ai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
 +++
 
 Mais dis-moi donc, belle Annamite

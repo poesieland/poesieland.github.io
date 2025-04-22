@@ -4,10 +4,10 @@ id = "elle_coule_musique_7"
 date = 1998-07-02
 weight = 46
 categories = ["Révolte"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Elle coule, musique"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Elle coule sur mon visage
@@ -46,5 +46,5 @@ Une rôdeuse qui s'attarde
 Et gémit, hurle et blesse à cœur !
 
 {{% notice style="primary" %}}
-Acrostiche : Elle coule, musique
+Acrostiche : Elle coule, musique.
 {{% /notice %}}

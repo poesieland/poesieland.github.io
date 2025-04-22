@@ -4,7 +4,7 @@ id = "necessite_13"
 date = 1999-09-06
 weight = 49
 categories = ["Création"]
-tags = ["philosophie", "1999", "acrostiche", "métrique variable"]
+tags = ["philosophie", "1999", "acrostiche", "métrique variable", "octosyllabe", "hexasyllabe"]
 info = "Métrique variable : 8, 6. \"Il y a tant de temps\" en italien."
 acrostiche = "Quanto tempo è"
 verseLength = -1
@@ -38,7 +38,7 @@ Ou sans plus goût chérir
 Erreurs venant de l'incréable.
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 6. \"Il y a tant de temps\" en italien.
+Métrique variable : 8, 6. "Il y a tant de temps" en italien.
 
-Acrostiche : Quanto tempo è
+Acrostiche : Quanto tempo è.
 {{% /notice %}}

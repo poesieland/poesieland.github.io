@@ -3,11 +3,11 @@ title = "Chimères"
 id = "chimeres_9"
 date = 1998-09-25
 weight = 28
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1998", "acrostiche" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "Chimères"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme une ancienne fleur
@@ -28,5 +28,5 @@ Entrave aux sens défunts;
 Soleil berce ombres folles...
 
 {{% notice style="primary" %}}
-Acrostiche : Chimères
+Acrostiche : Chimères.
 {{% /notice %}}

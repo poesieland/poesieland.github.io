@@ -1,27 +1,14 @@
----
-weight: 14
-title: L'enfant et l'hiver
-id: l_enfant_et_l_hiver_24
-date: 2025-01-09
-verseLength: 6
-divider: ""
-categories:
-    - Hiver
-    - Neige
-    - Enfance et adolescence
-tags:
-    - "2025"
-    - nature
-    - saisons
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'enfant et l'hiver"
+id = "l_enfant_et_l_hiver_24"
+date = 2025-01-09
+weight = 14
+categories = ["Hiver", "Neige", "Enfance et adolescence"]
+tags = ["saisons", "nature", "philosophie", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Monochrome étouffant
 
 La neige prend au piège

@@ -4,11 +4,11 @@ id = "stabat_mater_12"
 date = 1999-07-02
 weight = 19
 categories = ["Foi", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "décasyllabe"]
 info = "\"Vraie foi\" en italien."
 acrostiche = "Vera fede"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Vraie, en éclats transpercés par la grâce,
@@ -29,7 +29,7 @@ Dit tout le sens, en ce si doux visage...
 Ecoute encore, ô, ce chagrin profond !
 
 {{% notice style="primary" %}}
-\"Vraie foi\" en italien.
+"Vraie foi" en italien.
 
-Acrostiche : Vera fede
+Acrostiche : Vera fede.
 {{% /notice %}}

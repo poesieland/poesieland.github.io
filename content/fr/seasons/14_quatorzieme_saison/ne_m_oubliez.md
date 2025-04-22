@@ -4,9 +4,9 @@ id = "ne_m_oubliez_14"
 date = 2000-04-16
 weight = 3
 categories = ["Apprentissage"]
-tags = ["philosophie", "2000"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "2000", "alexandrin"]
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne m'oubliez jamais même si ça vous coûte,

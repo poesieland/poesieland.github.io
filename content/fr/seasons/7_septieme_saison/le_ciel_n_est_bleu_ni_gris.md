@@ -4,10 +4,10 @@ id = "le_ciel_n_est_bleu_ni_gris_7"
 date = 1998-07-05
 weight = 42
 categories = ["Création", "Lune", "Ciel"]
-tags = ["philosophie", "ombres et lumières", "nature", "1998", "acrostiche"]
+tags = ["philosophie", "ombres et lumières", "nature", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Le ciel n'est bleu ni gris..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le ciel n'est bleu ni gris, il n'a pas su choisir

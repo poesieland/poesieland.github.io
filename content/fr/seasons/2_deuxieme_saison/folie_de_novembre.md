@@ -3,11 +3,11 @@ title = "Folie de novembre"
 id = "folie_de_novembre_2"
 date = 1996-10-19
 weight = 19
-categories = [ "Automne", "Angoisse" ]
-tags = [ "1996", "saisons", "sonnet" ]
+categories = ["Automne", "Angoisse"]
+tags = ["saisons", "philosophie", "1996", "sonnet", "alexandrin"]
+poemType = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-poemType = "sonnet"
 +++
 
 Lumière inestimable, ô ma saison d'amour,

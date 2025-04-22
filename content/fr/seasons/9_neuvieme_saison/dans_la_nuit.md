@@ -4,10 +4,10 @@ id = "dans_la_nuit_9"
 date = 1998-12-21
 weight = 39
 categories = ["Nuit", "Temps"]
-tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Dans la nuit"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans la nuit cristalline entendais-tu la stèle
@@ -33,5 +33,5 @@ Illuminé d'étoile et de parfum si proches,
 Tiens dans tes mains la nuit quand tes pas s'y raccrochent.
 
 {{% notice style="primary" %}}
-Acrostiche : Dans la nuit
+Acrostiche : Dans la nuit.
 {{% /notice %}}

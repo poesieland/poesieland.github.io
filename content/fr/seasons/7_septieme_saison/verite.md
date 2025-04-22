@@ -4,10 +4,10 @@ id = "verite_7"
 date = 1998-07-08
 weight = 25
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Vérité"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Voir l'ombre d'un sourire, entendre le non-dit,
@@ -23,5 +23,5 @@ Ta main ne peut toucher ni ton nez la sentir,
 Et l'âme seule y goûte un nouvel élixir.
 
 {{% notice style="primary" %}}
-Acrostiche : Vérité
+Acrostiche : Vérité.
 {{% /notice %}}

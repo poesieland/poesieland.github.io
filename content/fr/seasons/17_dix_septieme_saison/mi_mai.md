@@ -4,7 +4,7 @@ id = "mi_mai_17"
 date = 2023-05-11
 weight = 46
 categories = ["Printemps"]
-tags = ["saisons", "2023"]
+tags = ["saisons", "2023", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

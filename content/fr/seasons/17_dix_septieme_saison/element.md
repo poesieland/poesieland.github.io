@@ -4,7 +4,7 @@ id = "element_17"
 date = 2005-06-27
 weight = 22
 categories = ["Eau douce", "Portraits"]
-tags = ["nature", "philosophie", "2005"]
+tags = ["nature", "philosophie", "2005", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

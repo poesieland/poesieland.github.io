@@ -4,7 +4,7 @@ id = "bourgeons_2"
 date = 1996-10-13
 weight = 18
 categories = ["Automne", "Flore"]
-tags = ["saisons", "nature", "1996"]
+tags = ["saisons", "nature", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

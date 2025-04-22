@@ -4,7 +4,7 @@ id = "foi_du_poete_17"
 date = 2004-10-26
 weight = 2
 categories = ["Espoir", "Création"]
-tags = ["philosophie", "2004"]
+tags = ["philosophie", "2004", "heptasyllabe"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

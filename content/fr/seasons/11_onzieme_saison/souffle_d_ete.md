@@ -4,10 +4,10 @@ id = "souffle_d_ete_11"
 date = 1999-05-21
 weight = 41
 categories = ["Eté", "Jardin et paysage"]
-tags = ["saisons", "nature", "1999", "acrostiche"]
+tags = ["saisons", "nature", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Ne rien faire, rêver..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ne rien faire, rêver

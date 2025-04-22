@@ -4,7 +4,7 @@ id = "le_saule_14"
 date = 2001-02-03
 weight = 37
 categories = ["Etre", "Flore"]
-tags = ["philosophie", "nature", "2001", "pantoun", "métrique variable"]
+tags = ["philosophie", "nature", "2001", "pantoun", "métrique variable", "octosyllabe", "hexasyllabe"]
 info = "Métrique variable : 8, 6"
 poemType = "pantoun"
 verseLength = -1
@@ -47,5 +47,5 @@ Lui sussurait sa flamme
 Au pied du vieux saule pleureur.
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 6
+Métrique variable : 8, 6.
 {{% /notice %}}

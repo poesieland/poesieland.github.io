@@ -1,24 +1,15 @@
----
-weight: 12
-title: Un ange revenu
-id: un_ange_revenu_23
-date: 2024-12-08
-verseLength: 6
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2024"
-    - acrostiche
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: Un ange revenu
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Un ange revenu"
+id = "un_ange_revenu_23"
+date = 2024-12-08
+weight = 12
+categories = ["Foi"]
+tags = ["philosophie", "2024", "acrostiche", "hexasyllabe"]
+acrostiche = "Un ange revenu"
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un ange est revenu,
 
 Nimbé, magnificence
@@ -46,5 +37,5 @@ Naïf alors que glisse
 Un monde en désarroi.
 
 {{% notice style="primary" %}}
-Acrostiche : un ange revenu.
+Acrostiche : Un ange revenu.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "monts_image_14"
 date = 2001-03-10
 weight = 8
 categories = ["Jardin et paysage"]
-tags = ["nature", "2001", "acrostiche"]
+tags = ["nature", "2001", "acrostiche", "octosyllabe"]
 acrostiche = "Monts : image"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Monts enneigés, monts éternels,
@@ -31,5 +31,5 @@ Gloire  du temps, mon cœur défait
 En ces rides d'un air parfait.
 
 {{% notice style="primary" %}}
-Acrostiche : Monts : image
+Acrostiche : Monts : image.
 {{% /notice %}}

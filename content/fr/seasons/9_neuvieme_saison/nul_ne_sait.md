@@ -4,11 +4,11 @@ id = "nul_ne_sait_9"
 date = 1998-10-02
 weight = 8
 categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
 info = "\"Nul ne le saura\" en italien."
 acrostiche = "Non lo nessun saprà"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Nul ne sait ce qu'il aime
@@ -47,7 +47,7 @@ Réécrivent le livre
 Aux amours délient cieux.
 
 {{% notice style="primary" %}}
-\"Nul ne le saura\" en italien.
+"Nul ne le saura" en italien.
 
-Acrostiche : Non lo nessun saprà
+Acrostiche : Non lo nessun saprà.
 {{% /notice %}}

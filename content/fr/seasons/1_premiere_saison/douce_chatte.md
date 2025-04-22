@@ -3,8 +3,8 @@ title = "Douce chatte"
 id = "douce_chatte_1"
 date = 1996-08-05
 weight = 36
-categories = [ "Faune" ]
-tags = [ "1996", "nature", "lovecat" ]
+categories = ["Faune"]
+tags = ["nature", "lovecat", "1996", "alexandrin"]
 info = "La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Goûter un instant pur de sublime paresse,
 Puis tu repartiras vers l'horizon d'amour.
 
 {{% notice style="primary" %}}
-La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella
+La chatte d'un couple d'amis, oxymoriquement nommée Mozzarella.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "cathedrale_8"
 date = 1998-09-01
 weight = 50
 categories = ["Foi"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "heptasyllabe"]
 acrostiche = "Cathédrale"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Croire et prier sous ton dôme,
@@ -31,5 +31,5 @@ La pierre comme un suaire
 Entend l'écho de prière...
 
 {{% notice style="primary" %}}
-Acrostiche : Cathédrale
+Acrostiche : Cathédrale.
 {{% /notice %}}

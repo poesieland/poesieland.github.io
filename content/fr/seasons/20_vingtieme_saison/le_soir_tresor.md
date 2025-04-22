@@ -4,7 +4,7 @@ id = "le_soir_tresor_20"
 date = 2024-05-13
 weight = 12
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2024", "acrostiche"]
+tags = ["ombres et lumières", "2024", "acrostiche", "hexasyllabe"]
 acrostiche = "Le soir, trésor"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Où je promène et vire
 Rieuse : un soir est là.
 
 {{% notice style="primary" %}}
-Acrostiche : Le soir, trésor
+Acrostiche : Le soir, trésor.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "reve_bleu_10"
 date = 1999-02-26
 weight = 32
 categories = ["Ciel", "Mer"]
-tags = ["nature", "1999", "acrostiche"]
+tags = ["nature", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Rêve bleu"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Rêve bleu : le ciel se confond,
@@ -28,5 +28,5 @@ Etreinte au soleil qui mit là
 Une merveille inachevée.
 
 {{% notice style="primary" %}}
-Acrostiche : Rêve bleu
+Acrostiche : Rêve bleu.
 {{% /notice %}}

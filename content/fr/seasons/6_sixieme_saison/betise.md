@@ -4,9 +4,9 @@ id = "betise_6"
 date = 1998-05-18
 weight = 8
 categories = ["Révolte"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Sous le ciel bas dans un rictus

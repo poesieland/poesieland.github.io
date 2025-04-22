@@ -4,7 +4,7 @@ id = "reve_d_automne_4"
 date = 1997-08-13
 weight = 6
 categories = ["Automne"]
-tags = ["saisons", "1997", "acrostiche"]
+tags = ["saisons", "1997", "acrostiche", "octosyllabe"]
 acrostiche = "Les rêves doux"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Use et sublime les couleurs :
 Xylophone de l'innocence.
 
 {{% notice style="primary" %}}
-Acrostiche : Les rêves doux
+Acrostiche : Les rêves doux.
 {{% /notice %}}

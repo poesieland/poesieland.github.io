@@ -4,7 +4,7 @@ id = "souvenir_de_bonheur_5"
 date = 1997-12-17
 weight = 11
 categories = ["Amitié", "Espoir"]
-tags = ["amour", "philosophie", "1997"]
+tags = ["amour", "philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

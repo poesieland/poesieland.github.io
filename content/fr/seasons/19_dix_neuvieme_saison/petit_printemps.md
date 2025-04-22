@@ -4,7 +4,7 @@ id = "petit_printemps_19"
 date = 2024-02-29
 weight = 14
 categories = ["Printemps"]
-tags = ["saisons", "2024"]
+tags = ["saisons", "2024", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

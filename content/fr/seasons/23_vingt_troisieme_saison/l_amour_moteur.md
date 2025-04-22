@@ -1,23 +1,14 @@
----
-weight: 17
-title: L'amour moteur
-id: l_amour_moteur_23
-date: 2024-12-15
-verseLength: 8
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'amour moteur"
+id = "l_amour_moteur_23"
+date = 2024-12-15
+weight = 17
+categories = ["Espoir"]
+tags = ["philosophie", "2024", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sans plus attendre on va s'aimer
 
 D'un amour fou comme on espère

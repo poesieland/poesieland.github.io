@@ -4,10 +4,10 @@ id = "germe_d_espoir_13"
 date = 1999-08-19
 weight = 4
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 acrostiche = "Germe d'espoir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Guéris nos cœurs de la souillure
@@ -37,5 +37,5 @@ Intime énergie, et devant,
 Reine, le souffle de prière.
 
 {{% notice style="primary" %}}
-Acrostiche : Germe d'espoir
+Acrostiche : Germe d'espoir.
 {{% /notice %}}

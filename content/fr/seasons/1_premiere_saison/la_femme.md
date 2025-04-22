@@ -3,8 +3,8 @@ title = "La Femme"
 id = "la_femme_1"
 date = 1994-01-01
 weight = 7
-categories = [ "Portraits", "Passion" ]
-tags = [ "amour", "philosophie", "1994" ]
+categories = ["Portraits", "Passion"]
+tags = ["philosophie", "amour", "1994", "hexasyllabe"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -64,5 +64,5 @@ Aux plis de sa peau nue
 Mit des reflets subtils.
 
 {{% notice style="primary" %}}
-Reprise en 1995/1996 d'un poème de 1994
+Reprise en 1995/1996 d'un poème de 1994.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "grave_pour_toi_7"
 date = 1998-07-13
 weight = 16
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "décasyllabe"]
 acrostiche = "Gravé pour toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Gravé pour toi, pour toujours dans mes veines,
@@ -37,5 +37,5 @@ O le poème est la branche où s'élance
 Inoublié le seul nom de l'amour !
 
 {{% notice style="primary" %}}
-Acrostiche : Gravé pour toi
+Acrostiche : Gravé pour toi.
 {{% /notice %}}

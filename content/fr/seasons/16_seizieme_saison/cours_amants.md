@@ -3,11 +3,11 @@ title = "Cœurs amants"
 id = "cours_amants_16"
 date = 2002-08-18
 weight = 2
-categories = [ "Passion" ]
-tags = [ "amour", "2002", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "2002", "acrostiche", "alexandrin"]
 acrostiche = "Cœurs amants"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Comme tu t'en vas, beau, je sais que tu reviens;
@@ -37,5 +37,5 @@ Tu me manques déjà, quand l'ombre de l'amour
 Seule, plane au plafond dans un rêve de femme.
 
 {{% notice style="primary" %}}
-Acrostiche : Cœurs amants
+Acrostiche : Cœurs amants.
 {{% /notice %}}

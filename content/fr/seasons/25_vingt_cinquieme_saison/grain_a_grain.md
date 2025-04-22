@@ -1,23 +1,15 @@
----
-weight: 12
-title: Grain à grain
-id: grain_a_grain_25
-date: 2025-03-06
-verseLength: 8
-divider: ""
-categories:
-    - Apprentissage
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/si_j_ai_du_sable).
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Grain à grain"
+id = "grain_a_grain_25"
+date = 2025-03-06
+weight = 12
+categories = ["Apprentissage"]
+tags = ["philosophie", "2025", "octosyllabe"]
+info = "Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/si_j_ai_du_sable)."
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Si j'ai du sable au fond du coeur
 
 Comme dans l'océan si vaste

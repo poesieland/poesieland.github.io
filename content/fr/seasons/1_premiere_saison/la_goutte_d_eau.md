@@ -4,7 +4,7 @@ id = "la_goutte_d_eau_1"
 date = 1996-06-10
 weight = 14
 categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

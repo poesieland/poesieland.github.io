@@ -4,10 +4,10 @@ id = "eternita_15"
 date = 2001-10-25
 weight = 45
 categories = ["Jardin et paysage", "Etre"]
-tags = ["nature", "philosophie", "2001", "acrostiche"]
+tags = ["nature", "philosophie", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Eternità"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Et rayons du soleil me disent tous ton nom,
@@ -27,5 +27,5 @@ Trouvé par les chemins, c'est l'âme qu'on embrasse,
 A l'éclat de ta bouche une éternité passe.
 
 {{% notice style="primary" %}}
-Acrostiche : Eternità
+Acrostiche : Eternità.
 {{% /notice %}}

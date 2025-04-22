@@ -1,25 +1,14 @@
----
-weight: 48
-title: Soir gélif
-id: soir_gelif_24
-date: 2025-02-16
-verseLength: 4
-divider: ""
-categories:
-    - Crépuscule
-    - Hiver
-tags:
-    - "2025"
-    - ombres et lumières
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir gélif"
+id = "soir_gelif_24"
+date = 2025-02-16
+weight = 48
+categories = ["Crépuscule", "Hiver"]
+tags = ["ombres et lumières", "saisons", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soit tombal
 
 Formera glaces,

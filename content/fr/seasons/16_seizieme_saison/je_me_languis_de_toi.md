@@ -3,11 +3,11 @@ title = "Je me languis de toi"
 id = "je_me_languis_de_toi_16"
 date = 2003-02-01
 weight = 12
-categories = [ "Amour platonique" ]
-tags = [ "amour", "2003", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "2003", "acrostiche", "décasyllabe"]
 acrostiche = "Je me languis de toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je n'ai l'idée, aimé, que de languir,
@@ -46,5 +46,5 @@ Oublieuse et le reste est un effort
 Insensé quand du néant je suis proche.
 
 {{% notice style="primary" %}}
-Acrostiche : Je me languis de toi
+Acrostiche : Je me languis de toi.
 {{% /notice %}}

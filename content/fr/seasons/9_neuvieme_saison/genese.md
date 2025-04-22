@@ -4,10 +4,10 @@ id = "genese_9"
 date = 1998-11-11
 weight = 15
 categories = ["Foi", "Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Ailleurs, sérénité"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Ailleurs sans lumière ni mots,
@@ -46,5 +46,5 @@ Trace Genèse de couleur...
 Elle est la vie, elle est secrète.
 
 {{% notice style="primary" %}}
-Acrostiche : Ailleurs, sérénité
+Acrostiche : Ailleurs, sérénité.
 {{% /notice %}}

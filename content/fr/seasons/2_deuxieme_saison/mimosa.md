@@ -4,7 +4,7 @@ id = "mimosa_2"
 date = 1996-11-20
 weight = 29
 categories = ["Flore"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

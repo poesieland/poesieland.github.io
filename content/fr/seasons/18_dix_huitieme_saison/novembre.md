@@ -44,6 +44,7 @@ ensureTagSaisons4: ""
 tags:
     - "2023"
     - saisons
+    - hexasyllabe
 info: ""
 poemType: ""
 acrostiche: ""

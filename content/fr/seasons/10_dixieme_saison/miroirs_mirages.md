@@ -4,10 +4,10 @@ id = "miroirs_mirages_10"
 date = 1999-03-20
 weight = 37
 categories = ["Création", "Crépuscule"]
-tags = ["philosophie", "ombres et lumières", "1999", "doubleAcrostiche"]
+tags = ["philosophie", "ombres et lumières", "1999", "doubleAcrostiche", "octosyllabe"]
 doubleAcrostiche = "Miroirs | mirages"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Miroirs, les rimes qui s'enchantent
@@ -39,5 +39,5 @@ Sublimés mirages du monde
 Soumis au temps qui les féconde.
 
 {{% notice style="primary" %}}
-Acrostiche double (lignes paires et impaires) : Miroirs / mirages
+Acrostiche double (lignes paires et impaires) : Miroirs / mirages.
 {{% /notice %}}

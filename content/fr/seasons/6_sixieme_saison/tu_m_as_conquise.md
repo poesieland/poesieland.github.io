@@ -4,9 +4,9 @@ id = "tu_m_as_conquise_6"
 date = 1998-05-18
 weight = 25
 categories = ["Amitié"]
-tags = ["amour", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["amour", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Tu m'as conquise d'un sourire,

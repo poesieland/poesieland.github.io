@@ -3,11 +3,11 @@ title = "Jeter l'ancre de ton départ..."
 id = "jeter_l_ancre_de_ton_depart_7"
 date = 1998-07-08
 weight = 14
-categories = [ "Mer", "Passion" ]
-tags = [ "amour", "nature", "1998", "acrostiche" ]
+categories = ["Mer", "Passion"]
+tags = ["nature", "amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Jeter l'ancre de ton départ..."
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Jeter l'ancre de ton départ

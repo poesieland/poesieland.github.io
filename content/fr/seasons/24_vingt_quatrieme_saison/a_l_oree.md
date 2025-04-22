@@ -1,25 +1,14 @@
----
-weight: 41
-title: A l'orée
-id: a_l_oree_24
-date: 2025-02-09
-verseLength: 3
-divider: ""
-categories:
-    - Printemps
-    - Jardin et paysage
-tags:
-    - "2025"
-    - nature
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "A l'orée"
+id = "a_l_oree_24"
+date = 2025-02-09
+weight = 41
+categories = ["Printemps", "Jardin et paysage"]
+tags = ["saisons", "nature", "2025", "trisyllabe"]
+verseLength = 3
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 A l'orée
 
 Je t'attends,

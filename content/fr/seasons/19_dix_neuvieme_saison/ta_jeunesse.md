@@ -4,7 +4,7 @@ id = "ta_jeunesse_19"
 date = 2024-02-11
 weight = 8
 categories = ["Portraits"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

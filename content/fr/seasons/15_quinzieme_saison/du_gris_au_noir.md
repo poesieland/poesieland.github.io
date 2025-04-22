@@ -4,10 +4,10 @@ id = "du_gris_au_noir_15"
 date = 2001-09-21
 weight = 34
 categories = ["Automne", "Ville", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "2001", "acrostiche"]
+tags = ["saisons", "ombres et lumières", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Du gris au noir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dans l'automne qui court et berce, flagellé,
@@ -37,5 +37,5 @@ Il est là, dans la nuit, et je ne sais encor...
 Riant de mon étoile en ses myriades froides.
 
 {{% notice style="primary" %}}
-Acrostiche : Du gris au noir
+Acrostiche : Du gris au noir.
 {{% /notice %}}

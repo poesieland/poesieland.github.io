@@ -4,10 +4,10 @@ id = "priere_10"
 date = 1999-02-17
 weight = 5
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Ave Maria"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Avant que je m'en aille
@@ -27,5 +27,5 @@ Ivre, blanche, la paix,
 Aube, exhale souhaits...
 
 {{% notice style="primary" %}}
-Acrostiche : Ave Maria
+Acrostiche : Ave Maria.
 {{% /notice %}}

@@ -4,9 +4,9 @@ id = "fleurs_de_memoire_6"
 date = 1998-04-21
 weight = 26
 categories = ["Temps"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au dernier rang du cimetière

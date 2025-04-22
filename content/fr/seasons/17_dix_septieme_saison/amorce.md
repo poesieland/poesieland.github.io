@@ -4,7 +4,7 @@ id = "amorce_17"
 date = 2005-03-14
 weight = 17
 categories = ["Eau douce", "Printemps"]
-tags = ["nature", "saisons", "2005"]
+tags = ["nature", "saisons", "2005", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,11 +3,11 @@ title = "A la folie"
 id = "a_la_folie_8"
 date = 1998-07-27
 weight = 5
-categories = [ "Passion" ]
-tags = [ "amour", "1998", "acrostiche" ]
+categories = ["Passion"]
+tags = ["amour", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "A la folie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 A la folie ô tu m'aimais,
@@ -28,5 +28,5 @@ Il ne nous sera plus promis
 Encor de vivre en cette image.
 
 {{% notice style="primary" %}}
-Acrostiche : A la folie
+Acrostiche : A la folie.
 {{% /notice %}}

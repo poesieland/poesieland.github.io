@@ -4,7 +4,7 @@ id = "beaute_du_matin_16"
 date = 2004-05-27
 weight = 34
 categories = ["Aube", "Etre"]
-tags = ["ombres et lumières", "philosophie", "2004", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "2004", "acrostiche", "alexandrin"]
 acrostiche = "Berceau matin"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Irisant jusqu'à l'âme et jusqu'au jour permien
 Nouveau matin retrace un monde beau, sans faille.
 
 {{% notice style="primary" %}}
-Acrostiche : Berceau matin
+Acrostiche : Berceau matin.
 {{% /notice %}}

@@ -4,11 +4,11 @@ id = "don_du_soir_13"
 date = 1999-11-05
 weight = 30
 categories = ["Foi", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
 info = "\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson, \"Ave Maria no morro\", dans la version des paroles chantées par Andrea Bocelli."
 acrostiche = "Arcobaleno preghier'"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Au ciel tout incendié le couchant qui s'emplit
@@ -48,7 +48,7 @@ Eternité, le don du Seigneur car tout l'or
 Rassemblé sur la Terre est au Ciel un décor.
 
 {{% notice style="primary" %}}
-\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson, \"Ave Maria no morro\", dans la version des paroles chantées par Andrea Bocelli.
+"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson, "Ave Maria no morro", dans la version des paroles chantées par Andrea Bocelli.
 
-Acrostiche : Arcobaleno preghier'
+Acrostiche : Arcobaleno preghier'.
 {{% /notice %}}

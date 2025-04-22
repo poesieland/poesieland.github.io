@@ -4,10 +4,10 @@ id = "aube_d_un_poeme_9"
 date = 1998-11-19
 weight = 11
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Aube d'un poème"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Alors pensé, crée, vivant à peine en germe,
@@ -37,5 +37,5 @@ Mettant les mots à vif sous la bise d'hivers...
 Et l'aube d'un poème où les songes accourent...
 
 {{% notice style="primary" %}}
-Acrostiche : Aube d'un poème
+Acrostiche : Aube d'un poème.
 {{% /notice %}}

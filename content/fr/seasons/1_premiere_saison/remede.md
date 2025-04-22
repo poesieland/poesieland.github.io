@@ -4,7 +4,7 @@ id = "remede_1"
 date = 1996-08-28
 weight = 44
 categories = ["Création"]
-tags = ["philosophie", "1996"]
+tags = ["philosophie", "1996", "alexandrin"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

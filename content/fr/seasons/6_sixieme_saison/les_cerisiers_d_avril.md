@@ -3,10 +3,10 @@ title = "Les cerisiers d'avril"
 id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34
-categories = [ "Flore", "Romantisme" ]
-tags = [ "1998", "nature", "amour" ]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+categories = ["Flore", "Romantisme"]
+tags = ["nature", "amour", "1998", "octosyllabe"]
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Aux pleurs des cerisiers d'avril

@@ -4,10 +4,10 @@ id = "le_seul_parfum_12"
 date = 1999-06-07
 weight = 4
 categories = ["Espoir"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Le seul parfum"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Le seul parfum que j'aime
@@ -37,5 +37,5 @@ Une joie, une odeur
 Mêle notre âme immense...
 
 {{% notice style="primary" %}}
-Acrostiche : Le seul parfum
+Acrostiche : Le seul parfum.
 {{% /notice %}}

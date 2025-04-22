@@ -1,24 +1,14 @@
----
-weight: 22
-title: Renouveau
-id: renouveau_23
-date: 2024-12-22
-verseLength: 6
-divider: ""
-categories:
-    - Ciel
-    - Climat
-tags:
-    - "2024"
-    - nature
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Renouveau"
+id = "renouveau_23"
+date = 2024-12-22
+weight = 22
+categories = ["Ciel", "Climat"]
+tags = ["nature", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 En ouvrant mon volet
 
 J'ai revu le bleu poindre,

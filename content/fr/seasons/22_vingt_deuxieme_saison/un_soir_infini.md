@@ -1,27 +1,16 @@
----
-weight: 11
-title: Un soir infini
-id: un_soir_infini_22
-date: 2024-09-18
-verseLength: 12
-divider: ""
-categories:
-    - Ciel
-    - Crépuscule
-tags:
-    - "2024"
-    - acrostiche
-    - nature
-    - ombres et lumières
-locations: []
-info: ""
-pictures:
-    - Le 11.09.2024 vers 18h
-poemType: ""
-acrostiche: Un soir infini
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Un soir infini"
+id = "un_soir_infini_22"
+date = 2024-09-18
+weight = 11
+categories = ["Ciel", "Crépuscule"]
+tags = ["nature", "ombres et lumières", "2024", "acrostiche", "alexandrin"]
+pictures = ["Le 11.09.2024 vers 18h"]
+acrostiche = "Un soir infini"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un souffle d'infini s'élève dans le soir,
 
 Nouvel aplat vibrant comme réminiscence,
@@ -48,12 +37,8 @@ Nuancier du ciel en son extase essaime
 
 Infiniment le soir en inlassable amant.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"un_soir_infini_22_0.jpg"},{"name":"imageCaption","value":"Le 11.09.2024 vers 18h"}]} -->
 {{< figure src="/images/un_soir_infini_22_0.jpg" title="Le 11.09.2024 vers 18h" >}}
-<!-- FM:Snippet:End -->
 
-<!-- FM:Snippet:Start data:{"id":"_simpleNotice","fields":[{"name":"content","value":"Acrostiche : Un soir infini"}]} -->
 {{% notice style="primary" %}}
-Acrostiche : Un soir infini
+Acrostiche : Un soir infini.
 {{% /notice %}}
-<!-- FM:Snippet:End -->

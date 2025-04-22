@@ -4,10 +4,10 @@ id = "harmonie_11"
 date = 1999-04-29
 weight = 34
 categories = ["Musique et chant", "Création"]
-tags = ["attitudes", "philosophie", "1999", "acrostiche"]
+tags = ["attitudes", "philosophie", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Harmonie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Hanté d'un souffle pur le chant qui s'abandonne
@@ -27,5 +27,5 @@ Irradié de vie étreint l'âme et le corps :
 En Toi vivre est immense et nos rêves si forts.
 
 {{% notice style="primary" %}}
-Acrostiche : Harmonie
+Acrostiche : Harmonie.
 {{% /notice %}}

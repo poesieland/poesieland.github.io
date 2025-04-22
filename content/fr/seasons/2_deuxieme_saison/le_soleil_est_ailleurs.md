@@ -4,7 +4,7 @@ id = "le_soleil_est_ailleurs_2"
 date = 1996-11-30
 weight = 35
 categories = ["Crépuscule", "Révolte"]
-tags = ["ombres et lumières", "philosophie", "1996"]
+tags = ["ombres et lumières", "philosophie", "1996", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

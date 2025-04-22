@@ -4,7 +4,7 @@ id = "flocons_2"
 date = 1996-11-19
 weight = 26
 categories = ["Neige"]
-tags = ["nature", "1996"]
+tags = ["nature", "1996", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

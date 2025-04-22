@@ -4,7 +4,7 @@ id = "cheminement_20"
 date = 2024-06-15
 weight = 37
 categories = ["Foi"]
-tags = ["philosophie", "2024"]
+tags = ["philosophie", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

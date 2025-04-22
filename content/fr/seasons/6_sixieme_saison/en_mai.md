@@ -4,9 +4,9 @@ id = "en_mai_6"
 date = 1998-05-01
 weight = 35
 categories = ["Espoir"]
-tags = ["philosophie", "1998"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "1998", "alexandrin"]
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 En mai dis-moi toujours le rêve et l'amitié,

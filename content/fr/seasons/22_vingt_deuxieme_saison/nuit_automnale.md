@@ -1,25 +1,14 @@
----
-weight: 17
-title: Nuit automnale
-id: nuit_automnale_22
-date: 2024-09-28
-verseLength: 4
-divider: ""
-categories:
-    - Nuit
-    - Automne
-tags:
-    - "2024"
-    - ombres et lumières
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Nuit automnale"
+id = "nuit_automnale_22"
+date = 2024-09-28
+weight = 17
+categories = ["Nuit", "Automne"]
+tags = ["ombres et lumières", "saisons", "2024", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sans un nuage
 
 Le soir place un

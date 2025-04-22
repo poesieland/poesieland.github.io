@@ -4,7 +4,7 @@ id = "neige_17"
 date = 2005-01-24
 weight = 11
 categories = ["Neige"]
-tags = ["nature", "2005"]
+tags = ["nature", "2005", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

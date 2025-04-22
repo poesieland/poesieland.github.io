@@ -3,8 +3,8 @@ title = "Au-delà d'un sourire"
 id = "au_dela_d_un_sourire_3"
 date = 1997-04-03
 weight = 17
-categories = [ "Amour platonique" ]
-tags = [ "amour", "1997", "acrostiche" ]
+categories = ["Amour platonique"]
+tags = ["amour", "1997", "acrostiche", "octosyllabe"]
 info = "Premier acrostiche..."
 acrostiche = "Au-delà d'un sourire"
 verseLength = 8
@@ -49,5 +49,5 @@ Ebauche d'esquisse infinie.
 {{% notice style="primary" %}}
 Premier acrostiche...
 
-Acrostiche : Au-delà d'un sourire
+Acrostiche : Au-delà d'un sourire.
 {{% /notice %}}

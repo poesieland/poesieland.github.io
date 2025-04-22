@@ -4,7 +4,7 @@ id = "chorale_20"
 date = 2024-05-21
 weight = 17
 categories = ["Foi", "Musique et chant"]
-tags = ["philosophie", "attitudes", "2024", "acrostiche", "sonnet"]
+tags = ["philosophie", "attitudes", "2024", "acrostiche", "sonnet", "hexasyllabe"]
 poemType = "sonnet"
 acrostiche = "Sauvée à nouveau"
 verseLength = 6
@@ -43,5 +43,5 @@ Aspiré, s'avalise :
 Une chorale, élan !
 
 {{% notice style="primary" %}}
-Acrostiche : Sauvée à nouveau
+Acrostiche : Sauvée à nouveau.
 {{% /notice %}}

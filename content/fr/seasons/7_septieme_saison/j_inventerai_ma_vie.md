@@ -4,10 +4,10 @@ id = "j_inventerai_ma_vie_7"
 date = 1998-07-07
 weight = 26
 categories = ["Espoir"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "J'inventerai ma vie"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 J'inventerai les mots, les mythes, les berceuses,
@@ -46,5 +46,5 @@ Illumination qui s'envole plus belle
 En chacun de mes vers à mes rêves bouclés !
 
 {{% notice style="primary" %}}
-Acrostiche : J'inventerai ma vie
+Acrostiche : J'inventerai ma vie.
 {{% /notice %}}

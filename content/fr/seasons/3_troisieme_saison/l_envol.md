@@ -4,7 +4,7 @@ id = "l_envol_3"
 date = 1997-02-18
 weight = 43
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

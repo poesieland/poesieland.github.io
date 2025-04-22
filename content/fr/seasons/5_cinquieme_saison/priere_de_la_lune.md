@@ -4,10 +4,10 @@ id = "priere_de_la_lune_5"
 date = 1998-02-26
 weight = 49
 categories = ["Lune", "Révolte"]
-tags = ["ombres et lumières", "philosophie", "1998", "acrostiche"]
+tags = ["ombres et lumières", "philosophie", "1998", "acrostiche", "alexandrin"]
 acrostiche = "Hijo de la luna"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Humble sur l'océan miroir de sa prière
@@ -37,5 +37,5 @@ Nuée absente aussi dans l'âme infortunée
 Alors que continue une guerre ici-bas...
 
 {{% notice style="primary" %}}
-Acrostiche : Hijo de la luna
+Acrostiche : Hijo de la luna.
 {{% /notice %}}

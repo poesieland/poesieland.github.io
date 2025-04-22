@@ -1,23 +1,14 @@
----
-weight: 26
-title: L'appel
-id: l_appel_25
-date: 2025-03-16
-verseLength: 4
-divider: ""
-categories:
-    - Angoisse
-tags:
-    - "2025"
-    - philosophie
-location: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'appel"
+id = "l_appel_25"
+date = 2025-03-16
+weight = 26
+categories = ["Angoisse"]
+tags = ["philosophie", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Quand sonne l'heure
 
 Viens sans remords

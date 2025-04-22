@@ -3,8 +3,8 @@ title = "L'infernale obscure"
 id = "l_infernale_obscure_4"
 date = 1997-08-16
 weight = 37
-categories = [ "Angoisse" ]
-tags = [ "philosophie", "1997" ]
+categories = ["Angoisse"]
+tags = ["philosophie", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

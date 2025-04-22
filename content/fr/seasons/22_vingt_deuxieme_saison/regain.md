@@ -1,23 +1,14 @@
----
-weight: 3
-title: Regain
-id: regain_22
-date: 2024-09-07
-verseLength: 6
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2024"
-    - saisons
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Regain"
+id = "regain_22"
+date = 2024-09-07
+weight = 3
+categories = ["Automne"]
+tags = ["saisons", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Voici dernier regain
 
 Tout fleuri qui s'étonne :

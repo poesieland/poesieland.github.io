@@ -4,10 +4,10 @@ id = "ensemble_10"
 date = 1999-03-07
 weight = 46
 categories = ["Romantisme", "Musique et chant"]
-tags = ["amour", "attitudes", "1999", "acrostiche"]
+tags = ["amour", "attitudes", "1999", "acrostiche", "hexasyllabe"]
 acrostiche = "Ensemble"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Etre avec toi, tout près...
@@ -28,5 +28,5 @@ Liberté, l'horizon
 Etreint le bonheur drôle.
 
 {{% notice style="primary" %}}
-Acrostiche : Ensemble
+Acrostiche : Ensemble.
 {{% /notice %}}

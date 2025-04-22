@@ -4,7 +4,7 @@ id = "vol_d_oiseaux_5"
 date = 1997-11-06
 weight = 41
 categories = ["Faune"]
-tags = ["nature", "1997"]
+tags = ["nature", "1997", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

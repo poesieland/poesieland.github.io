@@ -4,7 +4,7 @@ id = "minimal_3"
 date = 1997-02-13
 weight = 49
 categories = ["Temps"]
-tags = ["philosophie", "1997"]
+tags = ["philosophie", "1997", "trisyllabe"]
 verseLength = 3
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

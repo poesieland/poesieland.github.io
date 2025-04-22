@@ -4,10 +4,10 @@ id = "balade_du_soir_14"
 date = 2000-08-15
 weight = 18
 categories = ["Jardin et paysage", "Nuit"]
-tags = ["nature", "ombres et lumières", "2000", "acrostiche"]
+tags = ["nature", "ombres et lumières", "2000", "acrostiche", "heptasyllabe"]
 acrostiche = "Balade du soir"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 7
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Balade sous les étoiles
@@ -37,5 +37,5 @@ Installe en traces filantes
 Riche, l'astre gris-écru.
 
 {{% notice style="primary" %}}
-Acrostiche : Balade du soir
+Acrostiche : Balade du soir.
 {{% /notice %}}

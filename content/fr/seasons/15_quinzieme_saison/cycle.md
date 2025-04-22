@@ -4,9 +4,9 @@ id = "cycle_15"
 date = 2001-06-17
 weight = 8
 categories = ["Temps"]
-tags = ["philosophie", "2001"]
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+tags = ["philosophie", "2001", "décasyllabe"]
 verseLength = 10
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Doux, méditant, vois : le cœur interroge

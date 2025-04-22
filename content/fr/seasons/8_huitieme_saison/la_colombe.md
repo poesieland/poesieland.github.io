@@ -4,7 +4,7 @@ id = "la_colombe_8"
 date = 1998-08-10
 weight = 44
 categories = ["Faune", "Espoir"]
-tags = ["nature", "philosophie", "1998", "acrostiche"]
+tags = ["nature", "philosophie", "1998", "acrostiche", "hexasyllabe"]
 acrostiche = "La colombe s'envole"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -46,5 +46,5 @@ Lu d'une plume belle
 Envolée en ton cœur !
 
 {{% notice style="primary" %}}
-Acrostiche : La colombe s'envole
+Acrostiche : La colombe s'envole.
 {{% /notice %}}

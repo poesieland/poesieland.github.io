@@ -3,11 +3,11 @@ title = "Bord de mer intime"
 id = "bord_de_mer_intime_1"
 date = 1996-07-09
 weight = 25
-categories = [ "Mer" ]
-tags = [ "nature", "1996" ]
+categories = ["Mer"]
+tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
+locations = ["Côte atlantique"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Côte atlantique" ]
 +++
 
 Un souvenir marin m'emplissait tout à l'heure,

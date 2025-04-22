@@ -4,7 +4,7 @@ id = "amie_4"
 date = 1997-05-11
 weight = 27
 categories = ["Amitié"]
-tags = ["amour", "1997"]
+tags = ["amour", "1997", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,10 +4,10 @@ id = "adressee_a_toi_7"
 date = 1998-07-16
 weight = 5
 categories = ["Création"]
-tags = ["philosophie", "1998", "acrostiche"]
+tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 acrostiche = "Adressée à toi"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Adressée à toi, cette lettre
@@ -37,5 +37,5 @@ O de la couleur la plus vive,
 Intime, belle, à l'unisson.
 
 {{% notice style="primary" %}}
-Acrostiche : Adressée à toi
+Acrostiche : Adressée à toi.
 {{% /notice %}}

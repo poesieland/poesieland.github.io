@@ -4,10 +4,10 @@ id = "a_la_course_aux_saisons_14"
 date = 2001-03-24
 weight = 50
 categories = ["Printemps", "Temps"]
-tags = ["saisons", "philosophie", "2001", "acrostiche"]
+tags = ["saisons", "philosophie", "2001", "acrostiche", "alexandrin"]
 acrostiche = "D'une saison l'autre"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Dès que vient le printemps, oh je rêve aux hivers,
@@ -46,5 +46,5 @@ Revoici farandole, année où l'indécis
 Embrasse d'au-delà les saisonnières rimes !
 
 {{% notice style="primary" %}}
-Acrostiche : D'une saison l'autre
+Acrostiche : D'une saison l'autre.
 {{% /notice %}}

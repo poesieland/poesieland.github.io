@@ -1,23 +1,14 @@
----
-weight: 49
-title: Célébration
-id: celebration_18
-date: 2024-01-14
-verseLength: 6
-divider: ""
-categories:
-    - Création
-tags:
-    - "2024"
-    - philosophie
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Célébration"
+id = "celebration_18"
+date = 2024-01-14
+weight = 49
+categories = ["Création"]
+tags = ["philosophie", "2024", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je ne peux me lasser
 
 De vivre et de décrire

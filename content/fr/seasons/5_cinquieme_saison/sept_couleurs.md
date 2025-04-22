@@ -4,7 +4,7 @@ id = "sept_couleurs_5"
 date = 1997-10-30
 weight = 27
 categories = ["Création"]
-tags = ["philosophie", "1997", "acrostiche"]
+tags = ["philosophie", "1997", "acrostiche", "octosyllabe"]
 acrostiche = "Sept couleurs"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -37,5 +37,5 @@ Rouges, verts, jaunes qui détonnent !
 Sept couleurs... pour ton souvenir.
 
 {{% notice style="primary" %}}
-Acrostiche : Sept couleurs
+Acrostiche : Sept couleurs.
 {{% /notice %}}

@@ -4,10 +4,10 @@ id = "jeu_blanc_10"
 date = 1999-02-08
 weight = 41
 categories = ["Romantisme"]
-tags = ["amour", "1999", "acrostiche"]
+tags = ["amour", "1999", "acrostiche", "alexandrin"]
 acrostiche = "Jeu blanc"
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
 Je laisserai la neige ensevelir l'amour
@@ -28,5 +28,5 @@ Neige miraculeuse enlève en sa douceur
 Caresse, frisson, jeu de notre intime trace.
 
 {{% notice style="primary" %}}
-Acrostiche : Jeu blanc
+Acrostiche : Jeu blanc.
 {{% /notice %}}

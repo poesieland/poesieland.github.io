@@ -4,7 +4,7 @@ id = "pelerinage_12"
 date = 1999-05-26
 weight = 13
 categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche"]
+tags = ["philosophie", "1999", "acrostiche", "décasyllabe"]
 acrostiche = "Bijou sacre unions"
 verseLength = 10
 locations = ["Reims"]
@@ -46,5 +46,5 @@ Nouveau passage. Entre le blé, la vigne,
 Suspendu, Christ, présent, tu nous souris.
 
 {{% notice style="primary" %}}
-Acrostiche : Bijou sacre unions
+Acrostiche : Bijou sacre unions.
 {{% /notice %}}
