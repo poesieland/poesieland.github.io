@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Ciel !, écrit le 23.04.2025](./seasons/26_vingt_sixieme_saison/ciel/)
+
 [Avril s'en va, écrit le 21.04.2025](./seasons/26_vingt_sixieme_saison/avril_s_en_va/)
 
 [Conformité, écrit le 21.04.2025](./seasons/26_vingt_sixieme_saison/conformite/)
@@ -12,4 +14,3 @@ title = "Derniers ajouts"
 
 [Flamboyance de l'aube, écrit le 20.04.2025](./seasons/26_vingt_sixieme_saison/flamboyance_de_l_aube/)
 
-[Exubérance, écrit le 18.04.2025](./seasons/26_vingt_sixieme_saison/exuberance/)
