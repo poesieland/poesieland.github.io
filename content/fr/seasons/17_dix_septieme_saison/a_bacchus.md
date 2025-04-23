@@ -45,6 +45,7 @@ tags:
     - "2005"
     - philosophie
     - sonnet
+    - hexasyllabe
 info: Reprise d'un poème-chanson de 1994
 poemType: sonnet
 acrostiche: ""

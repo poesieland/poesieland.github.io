@@ -1,15 +1,25 @@
-+++
-title = "Présent simple"
-id = "present_simple_18"
-date = 2023-12-17
-weight = 37
-categories = ["Temps"]
-tags = ["philosophie", "2023", "hendécasyllabe"]
-pictures = ["17 décembre 2023", "Avec mon chien le 5 juillet 2022"]
-verseLength = 11
-LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-+++
-
+---
+weight: 37
+title: Présent simple
+id: present_simple_18
+date: 2023-12-17
+verseLength: 11
+divider: ""
+categories:
+    - Temps
+tags:
+    - "2023"
+    - philosophie
+    - hendécasyllabe
+info: ""
+pictures:
+    - 17 décembre 2023
+    - Avec mon chien le 5 juillet 2022
+poemType: ""
+acrostiche: ""
+doubleAcrostiche: ""
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+---
 Je fus et je suis lorsque l'ombre s'en vient,
 
 L'araignée heureuse est cachée et ne tisse
