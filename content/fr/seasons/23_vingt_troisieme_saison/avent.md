@@ -4,7 +4,7 @@ id = "avent_23"
 date = 2024-12-21
 weight = 19
 categories = ["Foi", "Enfance et adolescence"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+tags = ["philosophie", "2024", "hexasyllabe", "noël"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "bel_hiver_18"
 date = 2023-12-09
 weight = 35
 categories = ["Hiver", "Climat"]
-tags = ["saisons", "nature", "2023", "alexandrin"]
+tags = ["saisons", "nature", "2023", "alexandrin", "noël"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

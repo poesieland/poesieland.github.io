@@ -4,7 +4,7 @@ id = "l_apres_noel_23"
 date = 2024-12-25
 weight = 28
 categories = ["Temps", "Enfance et adolescence"]
-tags = ["philosophie", "2024", "octosyllabe"]
+tags = ["philosophie", "2024", "octosyllabe", "noël"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

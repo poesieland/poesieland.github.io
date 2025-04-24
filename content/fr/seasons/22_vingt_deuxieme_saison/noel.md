@@ -4,7 +4,7 @@ id = "noel_22"
 date = 2024-11-16
 weight = 49
 categories = ["Hiver", "Portraits", "Foi"]
-tags = ["saisons", "philosophie", "2024", "alexandrin"]
+tags = ["saisons", "philosophie", "2024", "alexandrin", "noël"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

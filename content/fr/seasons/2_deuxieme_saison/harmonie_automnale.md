@@ -4,7 +4,7 @@ id = "harmonie_automnale_2"
 date = 1996-09-15
 weight = 15
 categories = ["Automne"]
-tags = ["saisons", "1996", "alexandrin"]
+tags = ["saisons", "1996", "alexandrin", "noël"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
