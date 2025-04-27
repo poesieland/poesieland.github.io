@@ -11,7 +11,7 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season3Pie" width="22vw" margin="20px" padding="0" jsFile="../season-3/categories-pie.js" inline=true text="Quatre mois, dont ceux du printemps"/>}}
+{{< chartjs id="season3Pie" width="22vw" margin="20px" padding="0" jsFile="../season-3/categories-pie.js" inline=true text="Un peu plus de quatre mois, dont ceux du printemps"/>}}
 
 {{< chartjs id="season4Pie" width="22vw" margin="20px" padding="0" jsFile="../season-4/categories-pie.js" inline=true text="Quatre mois et demi, été et automne"/>}}
 </div>
@@ -53,13 +53,13 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season17Pie" width="22vw" margin="20px" padding="0" jsFile="../season-17/categories-pie.js" inline=true text="Dix-neuf ans... Les quatre saisons"/>}}
+{{< chartjs id="season17Pie" width="22vw" margin="20px" padding="0" jsFile="../season-17/categories-pie.js" inline=true text="Un peu plus de dix-neuf ans... Les quatre saisons"/>}}
 
 {{< chartjs id="season18Pie" width="22vw" margin="20px" padding="0" jsFile="../season-18/categories-pie.js" inline=true text="Trois mois et demi, été, automne, hiver !"/>}}
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season19Pie" width="22vw" margin="20px" padding="0" jsFile="../season-19/categories-pie.js" inline=true text="Trois mois, un printemps magnifique"/>}}
+{{< chartjs id="season19Pie" width="22vw" margin="20px" padding="0" jsFile="../season-19/categories-pie.js" inline=true text="Un peu plus de trois mois, un printemps magnifique"/>}}
 
 {{< chartjs id="season20Pie" width="22vw" margin="20px" padding="0" jsFile="../season-20/categories-pie.js" inline=true text="Deux mois, plein été"/>}}
 </div>
@@ -73,11 +73,11 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 <div style="display:flex;justify-content:space-around;">
 {{< chartjs id="season23Pie" width="22vw" margin="20px" padding="0" jsFile="../season-23/categories-pie.js" inline=true text="Un mois et demi, fin d'automne et pleinement l'hiver"/>}}
 
-{{< chartjs id="season24Pie" width="22vw" margin="20px" padding="0" jsFile="../season-24/categories-pie.js" inline=true text="Un mois et demi, l'hiver majestueux et le retour du printemps"/>}}
+{{< chartjs id="season24Pie" width="22vw" margin="20px" padding="0" jsFile="../season-24/categories-pie.js" inline=true text="Un peu plus d'un mois et demi, l'hiver majestueux et le retour du printemps"/>}}
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season25Pie" width="22vw" margin="20px" padding="0" jsFile="../season-25/categories-pie.js" inline=true text="Un mois et demi, le printemps joyeusement"/>}}
+{{< chartjs id="season25Pie" width="22vw" margin="20px" padding="0" jsFile="../season-25/categories-pie.js" inline=true text="Un peu plus d'un mois et demi, le printemps joyeusement"/>}}
 
 {{< chartjs id="season26Pie" width="22vw" margin="20px" padding="0" jsFile="../season-26/categories-pie.js" inline=true text="En cours..."/>}}
 </div>
