@@ -4,13 +4,12 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Ciel !, écrit le 23.04.2025](./seasons/26_vingt_sixieme_saison/ciel/)
+[Soir parfumé, écrit le 27.04.2025](./seasons/26_vingt_sixieme_saison/soir_parfume/)
 
-[Avril s'en va, écrit le 21.04.2025](./seasons/26_vingt_sixieme_saison/avril_s_en_va/)
+[Chez le fleuriste, écrit le 27.04.2025](./seasons/26_vingt_sixieme_saison/chez_le_fleuriste/)
 
-[Conformité, écrit le 21.04.2025](./seasons/26_vingt_sixieme_saison/conformite/)
+[Le prêtre perdu, écrit le 26.04.2025](./seasons/26_vingt_sixieme_saison/le_pretre_perdu/)
 
-[Ami qui passe, écrit le 20.04.2025](./seasons/26_vingt_sixieme_saison/ami_qui_passe/)
+[Les mots partout, écrit le 26.04.2025](./seasons/26_vingt_sixieme_saison/les_mots_partout/)
 
-[Flamboyance de l'aube, écrit le 20.04.2025](./seasons/26_vingt_sixieme_saison/flamboyance_de_l_aube/)
-
+[Floréales, écrit le 26.04.2025](./seasons/26_vingt_sixieme_saison/floreales/)

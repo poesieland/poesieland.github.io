@@ -18,7 +18,7 @@ Il frémit l'heure à venir,
 Lancers d'ombre en ses corbeilles.
 
  \
-Je t'offirai les couleurs,
+Je t'offrirai les couleurs,
 
 La grâce des aubépines.
 
