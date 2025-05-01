@@ -3,10 +3,10 @@ title = "Sous le sureau"
 id = "sous_le_sureau_3"
 date = 1997-01-07
 weight = 25
-categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1997", "octosyllabe"]
+categories = [ "Enfance et adolescence" ]
+tags = [ "1997", "octosyllabe", "philosophie", "rentrée scolaire" ]
 verseLength = 8
-locations = ["Lorraine"]
+locations = [ "Lorraine" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

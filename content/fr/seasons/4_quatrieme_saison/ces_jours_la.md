@@ -3,10 +3,10 @@ title = "Ces jours-là"
 id = "ces_jours_la_4"
 date = 1997-09-09
 weight = 36
-categories = ["Enfance et adolescence"]
-tags = ["philosophie", "1997", "hexasyllabe"]
+categories = [ "Enfance et adolescence" ]
+tags = [ "1997", "hexasyllabe", "philosophie", "rentrée scolaire" ]
 verseLength = 6
-locations = ["Lorraine"]
+locations = [ "Lorraine" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
@@ -23,7 +23,7 @@ La cour était trop grise
 
 Et le chemin si long,
 
-Ce temps qui s'éternise;
+Ce temps qui s'éternise ;
 
 Une année, à quoi bon ?
 

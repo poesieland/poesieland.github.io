@@ -3,8 +3,14 @@ title = "J'irai par ce chemin"
 id = "j_irai_par_ce_chemin_13"
 date = 1999-09-08
 weight = 7
-categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche", "hexasyllabe"]
+categories = [ "Foi" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "hexasyllabe",
+  "philosophie",
+  "chemin spirituel"
+]
 acrostiche = "J'irai par ce chemin"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

@@ -3,8 +3,14 @@ title = "Don, enfant, vie"
 id = "don_enfant_vie_13"
 date = 1999-08-29
 weight = 43
-categories = ["Apprentissage", "Espoir"]
-tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
+categories = [ "Apprentissage", "Espoir" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "philosophie",
+  "rentrée scolaire"
+]
 acrostiche = "Don, enfant, vie"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

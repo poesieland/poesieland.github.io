@@ -3,8 +3,14 @@ title = "La rentrée"
 id = "la_rentree_16"
 date = 2004-08-18
 weight = 43
-categories = ["Enfance et adolescence", "Temps", "Automne"]
-tags = ["philosophie", "saisons", "2004", "octosyllabe"]
+categories = [ "Enfance et adolescence", "Temps", "Automne" ]
+tags = [
+  "2004",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "rentrée scolaire"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

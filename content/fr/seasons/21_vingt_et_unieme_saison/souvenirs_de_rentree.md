@@ -3,8 +3,14 @@ title = "Souvenirs de rentrée"
 id = "souvenirs_de_rentree_21"
 date = 2024-09-02
 weight = 49
-categories = ["Automne", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "2024", "octosyllabe"]
+categories = [ "Automne", "Enfance et adolescence" ]
+tags = [
+  "2024",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "rentrée scolaire"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

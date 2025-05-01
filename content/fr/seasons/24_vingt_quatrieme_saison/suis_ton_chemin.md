@@ -3,8 +3,8 @@ title = "Suis ton chemin"
 id = "suis_ton_chemin_24"
 date = 2024-12-31
 weight = 1
-categories = ["Foi"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+categories = [ "Foi" ]
+tags = [ "2024", "hexasyllabe", "philosophie", "chemin spirituel" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
