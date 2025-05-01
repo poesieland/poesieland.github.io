@@ -1,6 +1,10 @@
-{{- if eq .location "header" }}
-    {{- $page := .page }}
-    {{- with $page }}
-        <script src="{{"js/chartjs/chart.umd.js" | relURL}}{{ if not .Site.Params.disableAssetsBusting }}?{{ now.Unix }}{{ end }}" defer></script>
+{{- $page := .page }}
+{{- $location := .location }}
+{{- if eq $location "header" }}
+  {{- with $page }}
+    {{- $assetBusting := partialCached "assetbusting.gotmpl" . }}
+    {{- with resources.Get "/js/chartjs/chartjs.js" }}
+    <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
     {{- end }}
+  {{- end }}
 {{- end }}
