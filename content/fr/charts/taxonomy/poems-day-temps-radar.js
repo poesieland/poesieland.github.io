@@ -121,7 +121,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: 'Mai', value: 1 },
     { label: '', value: 1 },
     { label: '', value: 1 },

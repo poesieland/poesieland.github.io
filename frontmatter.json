@@ -472,7 +472,7 @@
           "title": "Tags",
           "name": "tags",
           "type": "tags",
-          "description": "Don't forget to add the writing year in tags"
+          "description": "Don't forget to add the writing year and metric(s) in tags"
         },
         {
           "title": "Location",
