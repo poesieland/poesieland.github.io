@@ -1,5 +1,5 @@
 +++
-title = "Voyage"
+title = "Partir"
 id = "voyage_2"
 date = 1996-12-30
 weight = 50

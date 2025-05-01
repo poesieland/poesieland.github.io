@@ -1,5 +1,5 @@
 +++
-title = "Octobre"
+title = "Octobre servile"
 id = "octobre_22"
 date = 2024-10-17
 weight = 27
