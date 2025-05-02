@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - philosophie
-    - tétrasyllabe
+    - pentasyllabe
 location: []
 info: ""
 pictures: []
