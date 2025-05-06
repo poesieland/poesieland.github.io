@@ -9,16 +9,19 @@ window.relearn.runInitialSearch = function () {
         var value = input.value;
         searchDetail(value);
     }
-}
+};
 
 var lunrIndex, pagesIndex;
 
 function initLunrIndex(index) {
+    if (!window.lunr) {
+        return;
+      }
     pagesIndex = index;
     // Set up Lunr by declaring the fields we use
     // Also provide their boost level for the ranking
     lunrIndex = lunr(function () {
-        this.use(lunr.multiLanguage.apply(null, contentLangs));
+        this.use(lunr.multiLanguage.apply(null, window.relearn.contentLangs));
         this.ref('index');
         this.field('title', {
             boost: 15
@@ -33,7 +36,7 @@ function initLunrIndex(index) {
         this.pipeline.remove(lunr.stemmer);
         this.searchPipeline.remove(lunr.stemmer);
 
-        // Feed Lunr with each file and let LUnr actually index them
+        // Feed Lunr with each file and let Lunr actually index them
         pagesIndex.forEach(function (page, idx) {
             page.index = idx;
             this.add(page);
@@ -45,7 +48,7 @@ function initLunrIndex(index) {
 }
 
 function triggerSearch() {
-    //console.log('triggerSearch from search.custom.js' )
+    // console.log('triggerSearch from custom search.js' )
     var input = document.querySelector('#R-search-by-detail');
     if (!input) {
         return;
@@ -60,7 +63,7 @@ function triggerSearch() {
     var oldValue = url.searchParams.get('search-by');
     if (value != oldValue) {
         var state = window.history.state || {};
-        state = Object.assign({}, (typeof state === 'object') ? state : {});
+        state = Object.assign({}, typeof state === 'object' ? state : {});
         url.searchParams.set('search-by', value);
         state.search = url.toString();
         // with normal pages, this is handled by the 'pagehide' event, but this
@@ -75,7 +78,7 @@ window.addEventListener('popstate', function (event) {
     // restart search if browsed through history
     if (event.state) {
         var state = window.history.state || {};
-        state = Object.assign({}, (typeof state === 'object') ? state : {});
+        state = Object.assign({}, typeof state === 'object' ? state : {});
         if (state.search) {
             var url = new URL(state.search);
             if (url.searchParams.has('search-by')) {
@@ -104,18 +107,20 @@ if (input) {
         // if we are pressing ESC in the searchdetail our focus will
         // be stolen by the other event handlers, so we have to refocus
         // here after a short while
-        if (event.key == "Escape") {
-            setTimeout(function () { input.focus(); }, 0);
+        if (event.key == 'Escape') {
+            setTimeout(function () {
+                input.focus();
+            }, 0);
         }
     });
 }
 
 function initLunrJs() {
     // new way to load our search index
-    if (window.index_js_url) {
-        var js = document.createElement("script");
-        js.src = index_js_url;
-        js.setAttribute("async", "");
+    if (window.relearn.index_js_url) {
+        var js = document.createElement('script');
+        js.src = window.relearn.index_js_url;
+        js.setAttribute('async', '');
         js.onload = function () {
             initLunrIndex(relearn_searchindex);
         };
@@ -135,6 +140,9 @@ function initLunrJs() {
 function search(term) {
     // Find the item in our index corresponding to the Lunr one to have more info
     // Remove Lunr special search characters: https://lunrjs.com/guides/searching.html
+    if (!window.lunr) {
+        return [];
+      }
     //term = term.replace( /[*:^~+-]/g, ' ' );
     term = term.replace(/[:^~+]/g, ' '); // Keep hyphen and wilcard signs.
     var useExactSearchAndSearchTokens = useExactSearch(term);
@@ -199,7 +207,7 @@ function useExactSearch(searchTerm) {
 }
 
 function searchPatterns(word) {
-    // for short words high amount of typos doesn't make sense
+    // for short words high amounts of typos doesn't make sense
     // for long words we allow less typos because this largely increases search time
     var typos = [
         { len: -1, typos: 1 },
@@ -215,10 +223,14 @@ function searchPatterns(word) {
         word + '^100',
         word + '*^10',
         '*' + word + '^10',
-        word + '~' + typos.reduce(function (a, c, i) { return word.length < c.len ? c : a; }).typos + '^1'
-    ];
+        word +
+        '~' +
+        typos.reduce(function (a, c, i) {
+          return word.length < c.len ? c : a;
+        }).typos +
+        '^1',
+        ];
 }
-
 
 function resolvePlaceholders(s, args) {
     var args = args || [];
@@ -229,7 +241,7 @@ function resolvePlaceholders(s, args) {
         // check if the argument is present
         return typeof args[index] == 'undefined' ? match : args[index];
     });
-};
+}
 
 function searchDetail(value) {
     var results = document.querySelector('#R-searchresults');
@@ -242,9 +254,18 @@ function searchDetail(value) {
         a.forEach(function (item) {
             var page = pagesIndex[item.index];
             var numContextWords = 10;
-            var contextPattern = '(?:\\S+ +){0,' + numContextWords + '}\\S*\\b(?:' +
-                item.matches.map(function (match) { return match.replace(/\W/g, '\\$&') }).join('|') +
-                ')\\b\\S*(?: +\\S+){0,' + numContextWords + '}';
+            var contextPattern =
+            '(?:\\S+ +){0,' +
+            numContextWords +
+            '}\\S*\\b(?:' +
+            item.matches
+              .map(function (match) {
+                return match.replace(/\W/g, '\\$&');
+              })
+              .join('|') +
+            ')\\b\\S*(?: +\\S+){0,' +
+            numContextWords +
+            '}';
             var context = page.content.match(new RegExp(contextPattern, 'i'));
             var divsuggestion = document.createElement('a');
             divsuggestion.className = 'autocomplete-suggestion';
@@ -258,19 +279,18 @@ function searchDetail(value) {
             divsuggestion.appendChild(divtitle);
             var divbreadcrumb = document.createElement('div');
             divbreadcrumb.className = 'breadcrumbs';
-            divbreadcrumb.innerText = (page.breadcrumb || '');
+            divbreadcrumb.innerText = page.breadcrumb || '';
             divsuggestion.appendChild(divbreadcrumb);
             if (context) {
                 var divcontext = document.createElement('div');
                 divcontext.className = 'context';
-                divcontext.innerText = (context || '');
+                divcontext.innerText = context || '';
                 divsuggestion.appendChild(divcontext);
             }
             results.appendChild(divsuggestion);
         });
         window.relearn.markSearch();
-    }
-    else if (value.length) {
+    } else if (value.length) {
         hint.innerText = resolvePlaceholders(window.T_No_results_found, [value]);
     }
     input.focus();
@@ -281,7 +301,7 @@ function searchDetail(value) {
     // user previously has used; if this search isn't initiated
     // by a browser history operation, it simply does nothing
     var state = window.history.state || {};
-    state = Object.assign({}, (typeof state === 'object') ? state : {});
+    state = Object.assign({}, typeof state === 'object' ? state : {});
     if (state.hasOwnProperty('contentScrollTop')) {
         window.setTimeout(function () {
             elc.scrollTop = +state.contentScrollTop;
@@ -296,7 +316,7 @@ function startSearch() {
     var input = document.querySelector('#R-search-by-detail');
     if (input) {
         var state = window.history.state || {};
-        state = Object.assign({}, (typeof state === 'object') ? state : {});
+        state = Object.assign({}, typeof state === 'object' ? state : {});
         state.search = window.location.toString();
         window.history.replaceState(state, '', window.location);
     }
@@ -313,9 +333,18 @@ function startSearch() {
         renderItem: function (item, term) {
             var page = pagesIndex[item.index];
             var numContextWords = 2;
-            var contextPattern = '(?:\\S+ +){0,' + numContextWords + '}\\S*\\b(?:' +
-                item.matches.map(function (match) { return match.replace(/\W/g, '\\$&') }).join('|') +
-                ')\\b\\S*(?: +\\S+){0,' + numContextWords + '}';
+            var contextPattern =
+            '(?:\\S+ +){0,' +
+            numContextWords +
+            '}\\S*\\b(?:' +
+            item.matches
+              .map(function (match) {
+                return match.replace(/\W/g, '\\$&');
+              })
+              .join('|') +
+            ')\\b\\S*(?: +\\S+){0,' +
+            numContextWords +
+            '}';
             var context = page.content.match(new RegExp(contextPattern, 'i'));
             var divsuggestion = document.createElement('div');
             divsuggestion.className = 'autocomplete-suggestion';
@@ -330,7 +359,7 @@ function startSearch() {
             if (context) {
                 var divcontext = document.createElement('div');
                 divcontext.className = 'context';
-                divcontext.innerText = (context || '');
+                divcontext.innerText = context || '';
                 divsuggestion.appendChild(divcontext);
             }
             return divsuggestion.outerHTML;
@@ -339,9 +368,9 @@ function startSearch() {
         onSelect: function (e, term, item) {
             location.href = item.getAttribute('data-uri');
             e.preventDefault();
-        }
+        },
     });
-};
+}
 
 function ready(fn) {
     if (document.readyState == 'complete') {
