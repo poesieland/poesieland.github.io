@@ -9,7 +9,7 @@ verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-A tout volée
+A toute volée
 
 Célébrez bonheur,
 
