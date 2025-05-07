@@ -28,6 +28,7 @@ Quand le premier vers le met en valeur :
 - [indécent](../../seasons/25_vingt_cinquieme_saison/bleu_l_infini)
 - [plein d'étoiles](../../seasons/4_quatrieme_saison/l_amour_tendre)
 - [tombé sur la tête](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)
+- [tout sableux](../../seasons/26_vingt_sixieme_saison/ciel_sableux)
 - [triste et bas](../../seasons/9_neuvieme_saison/l_hiver_deja)
 - [triste et las](../../seasons/23_vingt_troisieme_saison/hiver_perdu)
 
