@@ -1,6 +1,6 @@
 ---
 weight: 30
-title: Notre amour n attend pas
+title: Notre amour n'attend pas
 id: notre_amour_n_attend_pas_26
 date: 2025-05-10
 verseLength: 12
