@@ -3,8 +3,8 @@ title = "Une étoile"
 id = "une_etoile_5"
 date = 1998-01-11
 weight = 47
-categories = ["Nuit"]
-tags = ["ombres et lumières", "1998", "octosyllabe"]
+categories = [ "Nuit" ]
+tags = [ "1998", "octosyllabe", "ombres et lumières", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

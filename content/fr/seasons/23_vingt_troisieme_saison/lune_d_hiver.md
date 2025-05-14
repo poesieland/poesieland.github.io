@@ -3,8 +3,14 @@ title = "Lune d'hiver"
 id = "lune_d_hiver_23"
 date = 2024-12-13
 weight = 15
-categories = ["Lune", "Hiver"]
-tags = ["ombres et lumières", "saisons", "2024", "pentasyllabe"]
+categories = [ "Lune", "Hiver" ]
+tags = [
+  "2024",
+  "ombres et lumières",
+  "pentasyllabe",
+  "saisons",
+  "refrain"
+]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

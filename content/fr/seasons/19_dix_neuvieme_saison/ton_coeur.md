@@ -3,8 +3,8 @@ title = "Ton coeur"
 id = "ton_coeur_19"
 date = 2024-01-24
 weight = 4
-categories = ["Etre"]
-tags = ["philosophie", "2024", "octosyllabe"]
+categories = [ "Etre" ]
+tags = [ "2024", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

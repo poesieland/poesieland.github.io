@@ -3,8 +3,8 @@ title = "Tournant"
 id = "tournant_21"
 date = 2024-07-11
 weight = 15
-categories = ["Climat", "Espoir", "Angoisse"]
-tags = ["nature", "philosophie", "2024", "octosyllabe"]
+categories = [ "Climat", "Espoir", "Angoisse" ]
+tags = [ "2024", "nature", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

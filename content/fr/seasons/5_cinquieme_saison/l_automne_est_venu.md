@@ -3,13 +3,11 @@ title = "L'automne est venu"
 id = "l_automne_est_venu_5"
 date = 1997-10-26
 weight = 45
-categories = ["Automne"]
-tags = ["saisons", "1997", "octosyllabe"]
+categories = [ "Automne" ]
+tags = [ "1997", "octosyllabe", "saisons", "refrain" ]
 info = """
-
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
-
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

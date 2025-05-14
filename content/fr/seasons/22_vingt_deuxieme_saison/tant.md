@@ -3,8 +3,8 @@ title = "Tant !"
 id = "tant_22"
 date = 2024-11-08
 weight = 41
-categories = ["Automne"]
-tags = ["saisons", "2024", "dissyllabe"]
+categories = [ "Automne" ]
+tags = [ "2024", "dissyllabe", "saisons", "refrain" ]
 verseLength = 2
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

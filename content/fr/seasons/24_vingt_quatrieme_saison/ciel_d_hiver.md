@@ -4,7 +4,7 @@ id = "ciel_d_hiver_24"
 date = 2025-02-12
 weight = 43
 categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2025", "hexasyllabe"]
+tags = ["nature", "saisons", "2025", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

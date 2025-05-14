@@ -3,8 +3,8 @@ title = "Credo"
 id = "credo_17"
 date = 2006-02-13
 weight = 34
-categories = ["Foi", "Espoir"]
-tags = ["philosophie", "2006", "hexasyllabe"]
+categories = [ "Foi", "Espoir" ]
+tags = [ "2006", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

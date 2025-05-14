@@ -4,7 +4,7 @@ id = "coeur_et_ame_23"
 date = 2024-12-31
 weight = 50
 categories = ["Passion"]
-tags = ["amour", "2024", "hexasyllabe"]
+tags = ["amour", "2024", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

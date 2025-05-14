@@ -3,8 +3,8 @@ title = "Vieillir ensemble"
 id = "vieillir_ensemble_21"
 date = 2024-07-12
 weight = 17
-categories = ["Romantisme", "Temps"]
-tags = ["amour", "philosophie", "2024", "alexandrin"]
+categories = [ "Romantisme", "Temps" ]
+tags = [ "2024", "alexandrin", "amour", "philosophie", "refrain" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

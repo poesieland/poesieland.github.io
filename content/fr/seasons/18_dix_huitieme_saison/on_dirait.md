@@ -3,8 +3,8 @@ title = "On dirait"
 id = "on_dirait_18"
 date = 2024-01-14
 weight = 48
-categories = ["Neige"]
-tags = ["nature", "2024", "octosyllabe"]
+categories = [ "Neige" ]
+tags = [ "2024", "nature", "octosyllabe", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

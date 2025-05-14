@@ -4,7 +4,7 @@ id = "suis_ton_chemin_24"
 date = 2024-12-31
 weight = 1
 categories = [ "Foi" ]
-tags = [ "2024", "hexasyllabe", "philosophie", "chemin spirituel" ]
+tags = [ "2024", "hexasyllabe", "philosophie", "chemin spirituel", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

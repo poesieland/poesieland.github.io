@@ -4,7 +4,7 @@ id = "rencontres_25"
 date = 2025-04-02
 weight = 46
 categories = ["Amitié"]
-tags = ["amour", "2025", "hexasyllabe"]
+tags = ["amour", "2025", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

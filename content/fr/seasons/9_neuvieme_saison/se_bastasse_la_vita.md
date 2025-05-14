@@ -3,9 +3,16 @@ title = "Se bastasse la vita"
 id = "se_bastasse_la_vita_9"
 date = 1998-11-08
 weight = 13
-categories = ["Musique et chant", "Etre"]
-tags = ["attitudes", "philosophie", "1998", "acrostiche", "octosyllabe"]
-info = "\"Si la vie suffisait\" en italien. Inspiré par plusieurs chansons."
+categories = [ "Musique et chant", "Etre" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "attitudes",
+  "octosyllabe",
+  "philosophie",
+  "refrain"
+]
+info = '"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.'
 acrostiche = "Se bastasse la vita"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

@@ -3,8 +3,8 @@ title = "Le soir est venu"
 id = "le_soir_est_venu_21"
 date = 2024-08-19
 weight = 39
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2024", "octosyllabe"]
+categories = [ "Crépuscule" ]
+tags = [ "2024", "octosyllabe", "ombres et lumières", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

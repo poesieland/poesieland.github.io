@@ -3,8 +3,15 @@ title = "Hiver pluvieux"
 id = "hiver_pluvieux_18"
 date = 2024-01-02
 weight = 43
-categories = ["Eau douce", "Climat", "Hiver", "Révolte"]
-tags = ["nature", "saisons", "philosophie", "2024", "hexasyllabe"]
+categories = [ "Eau douce", "Climat", "Hiver", "Révolte" ]
+tags = [
+  "2024",
+  "hexasyllabe",
+  "nature",
+  "philosophie",
+  "saisons",
+  "refrain"
+]
 info = "En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

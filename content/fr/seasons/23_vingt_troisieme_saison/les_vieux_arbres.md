@@ -4,7 +4,7 @@ id = "les_vieux_arbres_23"
 date = 2024-12-22
 weight = 21
 categories = ["Flore", "Temps"]
-tags = ["nature", "philosophie", "2024", "octosyllabe"]
+tags = ["nature", "philosophie", "2024", "octosyllabe", "refrain"]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""

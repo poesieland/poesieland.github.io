@@ -3,8 +3,8 @@ title = "Voici l'automne"
 id = "voici_l_automne_22"
 date = 2024-09-22
 weight = 12
-categories = ["Automne"]
-tags = ["saisons", "2024", "octosyllabe"]
+categories = [ "Automne" ]
+tags = [ "2024", "octosyllabe", "saisons", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "offrande_du_soir_25"
 date = 2025-03-27
 weight = 37
 categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2025", "hexasyllabe"]
+tags = ["ombres et lumières", "2025", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

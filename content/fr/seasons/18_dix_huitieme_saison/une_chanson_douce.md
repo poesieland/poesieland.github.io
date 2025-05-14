@@ -3,8 +3,14 @@ title = "Une chanson douce"
 id = "une_chanson_douce_18"
 date = 2024-01-03
 weight = 45
-categories = ["Musique et chant", "Espoir"]
-tags = ["attitudes", "philosophie", "2024", "pentasyllabe"]
+categories = [ "Musique et chant", "Espoir" ]
+tags = [
+  "2024",
+  "attitudes",
+  "pentasyllabe",
+  "philosophie",
+  "refrain"
+]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

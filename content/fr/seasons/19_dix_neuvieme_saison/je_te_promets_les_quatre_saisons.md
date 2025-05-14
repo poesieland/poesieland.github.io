@@ -3,13 +3,12 @@ title = "Je te promets les quatre saisons"
 id = "je_te_promets_les_quatre_saisons_19"
 date = 2024-02-25
 weight = 13
-categories = ["Automne", "Eté", "Hiver", "Printemps", "Romantisme"]
-tags = ["saisons", "amour", "2024", "alexandrin"]
+categories = [ "Automne", "Eté", "Hiver", "Printemps", "Romantisme" ]
+tags = [ "2024", "alexandrin", "amour", "saisons", "refrain" ]
 info = """
-[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
-
+[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.\r
+\r
 Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons)."""
-
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

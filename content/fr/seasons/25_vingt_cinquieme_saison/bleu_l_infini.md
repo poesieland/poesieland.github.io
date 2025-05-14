@@ -4,7 +4,7 @@ id = "bleu_l_infini_25"
 date = 2025-04-06
 weight = 49
 categories = ["Ciel"]
-tags = ["nature", "2025", "hexasyllabe"]
+tags = ["nature", "2025", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

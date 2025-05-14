@@ -3,10 +3,17 @@ title = "Couchant"
 id = "couchant_21"
 date = 2024-09-01
 weight = 48
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2024", "métrique variable", "pentasyllabe", "trisyllabe"]
+categories = [ "Crépuscule" ]
+tags = [
+  "2024",
+  "métrique variable",
+  "ombres et lumières",
+  "pentasyllabe",
+  "trisyllabe",
+  "refrain"
+]
 info = "Métrique variable : 5, 3"
-pictures = ["Le 01.09.2024"]
+pictures = [ "Le 01.09.2024" ]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

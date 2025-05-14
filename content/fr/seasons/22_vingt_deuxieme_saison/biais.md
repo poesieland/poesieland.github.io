@@ -3,8 +3,8 @@ title = "Biais"
 id = "biais_22"
 date = 2024-09-24
 weight = 15
-categories = ["Automne", "Angoisse"]
-tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+categories = [ "Automne", "Angoisse" ]
+tags = [ "2024", "hexasyllabe", "philosophie", "saisons", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

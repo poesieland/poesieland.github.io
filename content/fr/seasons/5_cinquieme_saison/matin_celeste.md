@@ -3,8 +3,14 @@ title = "Matin céleste"
 id = "matin_celeste_5"
 date = 1997-12-16
 weight = 42
-categories = ["Aube", "Ciel"]
-tags = ["ombres et lumières", "nature", "1997", "hexasyllabe"]
+categories = [ "Aube", "Ciel" ]
+tags = [
+  "1997",
+  "hexasyllabe",
+  "nature",
+  "ombres et lumières",
+  "refrain"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

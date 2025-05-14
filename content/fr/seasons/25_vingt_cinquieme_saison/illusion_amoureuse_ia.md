@@ -4,7 +4,7 @@ id = "illusion_amoureuse_ia_25"
 date = 2025-03-25
 weight = 35
 categories = ["Apprentissage", "Passion"]
-tags = ["philosophie", "amour", "2025", "octosyllabe"]
+tags = ["philosophie", "amour", "2025", "octosyllabe", "refrain"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -4,7 +4,7 @@ id = "temps_de_paix_23"
 date = 2024-12-25
 weight = 27
 categories = ["Foi", "Espoir"]
-tags = ["philosophie", "2024", "octosyllabe"]
+tags = ["philosophie", "2024", "octosyllabe", "refrain"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

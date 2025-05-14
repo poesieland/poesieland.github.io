@@ -3,8 +3,15 @@ title = "Dans tes nuits"
 id = "dans_tes_nuits_14"
 date = 1999-12-08
 weight = 42
-categories = ["Etre", "Amour platonique"]
-tags = ["philosophie", "amour", "1999", "acrostiche", "octosyllabe"]
+categories = [ "Etre", "Amour platonique" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "amour",
+  "octosyllabe",
+  "philosophie",
+  "refrain"
+]
 acrostiche = "Dans tes nuits"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

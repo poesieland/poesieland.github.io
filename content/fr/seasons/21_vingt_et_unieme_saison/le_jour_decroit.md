@@ -3,8 +3,8 @@ title = "Le jour décroît"
 id = "le_jour_decroit_21"
 date = 2024-08-07
 weight = 32
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2024", "tétrasyllabe"]
+categories = [ "Crépuscule" ]
+tags = [ "2024", "ombres et lumières", "tétrasyllabe", "refrain" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

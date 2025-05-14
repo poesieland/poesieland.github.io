@@ -3,8 +3,8 @@ title = "Automne chaperon"
 id = "automne_chaperon_22"
 date = 2024-10-19
 weight = 29
-categories = ["Automne"]
-tags = ["saisons", "2024", "hexasyllabe"]
+categories = [ "Automne" ]
+tags = [ "2024", "hexasyllabe", "saisons", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

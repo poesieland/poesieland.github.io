@@ -4,7 +4,7 @@ id = "ciel_d_hiver_22"
 date = 2024-11-07
 weight = 40
 categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2024", "hexasyllabe"]
+tags = ["nature", "saisons", "2024", "hexasyllabe", "refrain"]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""

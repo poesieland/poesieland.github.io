@@ -4,7 +4,7 @@ id = "laisse_les_mots_24"
 date = 2025-02-04
 weight = 39
 categories = ["Création", "Apprentissage"]
-tags = ["philosophie", "les mots", "2025", "métrique variable", "hexasyllabe", "trisyllabe"]
+tags = ["philosophie", "les mots", "2025", "métrique variable", "hexasyllabe", "trisyllabe", "refrain"]
 info = """
 Métrique variable : 6, 3.
 

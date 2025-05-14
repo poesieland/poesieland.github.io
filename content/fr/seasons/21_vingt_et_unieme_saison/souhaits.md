@@ -3,8 +3,8 @@ title = "Souhaits"
 id = "souhaits_21"
 date = 2024-08-31
 weight = 46
-categories = ["Amitié", "Temps"]
-tags = ["amour", "philosophie", "2024", "hexasyllabe"]
+categories = [ "Amitié", "Temps" ]
+tags = [ "2024", "amour", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

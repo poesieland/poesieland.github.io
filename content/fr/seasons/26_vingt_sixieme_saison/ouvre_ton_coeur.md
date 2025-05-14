@@ -9,8 +9,9 @@ categories:
     - Foi
 tags:
     - "2025"
-    - philosophie
     - octosyllabe
+    - philosophie
+    - refrain
 location: []
 info: ""
 pictures: []

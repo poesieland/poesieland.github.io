@@ -3,12 +3,11 @@ title = "L'air bleu"
 id = "l_air_bleu_22"
 date = 2024-09-15
 weight = 9
-categories = ["Amitié"]
-tags = ["amour", "maman", "2024", "octosyllabe"]
+categories = [ "Amitié" ]
+tags = [ "2024", "amour", "maman", "octosyllabe", "refrain" ]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
-
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

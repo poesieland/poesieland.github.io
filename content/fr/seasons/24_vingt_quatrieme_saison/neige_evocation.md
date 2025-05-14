@@ -4,7 +4,7 @@ id = "neige_evocation_24"
 date = 2025-02-16
 weight = 46
 categories = ["Neige"]
-tags = ["nature", "2025", "hexasyllabe"]
+tags = ["nature", "2025", "hexasyllabe", "refrain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

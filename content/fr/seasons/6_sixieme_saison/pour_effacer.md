@@ -3,8 +3,8 @@ title = "Pour effacer"
 id = "pour_effacer_6"
 date = 1998-04-07
 weight = 19
-categories = ["Espoir"]
-tags = ["philosophie", "1998", "hexasyllabe"]
+categories = [ "Espoir" ]
+tags = [ "1998", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

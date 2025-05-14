@@ -3,8 +3,8 @@ title = "Je partirai"
 id = "je_partirai_5"
 date = 1997-12-21
 weight = 15
-categories = ["Romantisme"]
-tags = ["amour", "1997", "octosyllabe"]
+categories = [ "Romantisme" ]
+tags = [ "1997", "amour", "octosyllabe", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

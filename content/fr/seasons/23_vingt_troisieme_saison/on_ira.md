@@ -4,7 +4,7 @@ id = "on_ira_23"
 date = 2024-12-26
 weight = 29
 categories = ["Etre", "Espoir"]
-tags = ["philosophie", "2024", "octosyllabe"]
+tags = ["philosophie", "2024", "octosyllabe", "refrain"]
 info = "Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis)."
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

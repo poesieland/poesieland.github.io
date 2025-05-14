@@ -3,8 +3,8 @@ title = "Détachement"
 id = "detachement_21"
 date = 2024-06-26
 weight = 1
-categories = ["Etre"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+categories = [ "Etre" ]
+tags = [ "2024", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
