@@ -4,7 +4,7 @@ id = "schizophrenie_24"
 date = 2025-01-10
 weight = 17
 categories = ["Angoisse", "Portraits"]
-tags = ["philosophie", "2025", "tétrasyllabe", "refrain"]
+tags = ["philosophie", "2025", "tétrasyllabe"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

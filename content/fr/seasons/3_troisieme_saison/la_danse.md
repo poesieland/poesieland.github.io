@@ -4,7 +4,7 @@ id = "la_danse_3"
 date = 1997-01-18
 weight = 11
 categories = ["Mouvement", "Amour platonique"]
-tags = ["attitudes", "amour", "1997", "octosyllabe"]
+tags = ["attitudes", "amour", "1997", "octosyllabe", "refrain"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
