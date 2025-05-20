@@ -5,7 +5,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '2 syllabes', value: 11, color: 'rgb(230, 176, 170)' },
     { label: '3 syllabes', value: 14, color: 'rgb(245, 183, 177)' },
     { label: '4 syllabes', value: 67, color: 'rgb(215, 189, 226)' },
-    { label: '5 syllabes', value: 50, color: 'rgb(169, 204, 227)' },
+    { label: '5 syllabes', value: 51, color: 'rgb(169, 204, 227)' },
     { label: '6 syllabes', value: 304, color: 'rgb(174, 214, 241)' },
     { label: '7 syllabes', value: 76, color: 'rgb(163, 228, 215)' },
     { label: '8 syllabes', value: 423, color: 'rgb(162, 217, 206)' },

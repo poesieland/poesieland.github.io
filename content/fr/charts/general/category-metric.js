@@ -186,7 +186,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 10, y: 0, r: 1.6, color: 'rgba(121, 248, 248, 1)' },
     { x: 29, y: 0, r: 0.8, color: 'rgba(121, 248, 248, 1)' },
     { x: 22, y: 5, r: 1.6, color: 'rgba(121, 248, 248, 1)' },
-    { x: 9, y: 5, r: 2.4, color: 'rgba(121, 248, 248, 1)' },
+    { x: 9, y: 5, r: 3.2, color: 'rgba(121, 248, 248, 1)' },
     { x: 4, y: 9, r: 0.8, color: 'rgba(121, 248, 248, 1)' },
     { x: 14, y: 2, r: 1.6, color: 'rgba(121, 248, 248, 1)' },
     { x: 23, y: 2, r: 0.8, color: 'rgba(121, 248, 248, 1)' },
