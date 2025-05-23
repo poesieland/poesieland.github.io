@@ -3,8 +3,8 @@ import { addBarChart } from '../add-chart.js'
   const data = [
 [
     { label: '8', value: 7 },
-    { label: '12', value: 13 },
-    { label: '16', value: 7 },
+    { label: '12', value: 16 },
+    { label: '16', value: 9 },
     { label: '20', value: 4 },
 ]
   ];
