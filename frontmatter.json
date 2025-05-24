@@ -51,7 +51,7 @@
           "type": "datetime",
           "required": true,
           "dateFormat": "yyyy-MM-dd",
-          "description": "Don't forget to add the writing year in tags"
+          "description": "Add year to TAGS"
         },
         {
           "title": "Verse length",
@@ -61,7 +61,7 @@
           "min": -1,
           "max": 14,
           "step": 1,
-          "description": "Put -1 here when variable length, add 'métrique variable' tag, and add 'Métrique variable : ' + comma-separated values in info. Repeat info in notice. Add metric name in tags"
+          "description": "Add metric name(s) to TAGS. When variable: put -1 here, add 'métrique variable' to TAGS, and add 'Métrique variable : ' + comma-separated values in info. Repeat info in notice."
         },
         {
           "name": "divider",
@@ -472,7 +472,7 @@
           "title": "Tags",
           "name": "tags",
           "type": "tags",
-          "description": "Don't forget to add the writing year and metric(s) in tags"
+          "description": "Check metric name(s), 'métrique variable'. Check year. Check poem type. Check acrostiche."
         },
         {
           "title": "Location",
@@ -498,7 +498,7 @@
           "title": "Poem type",
           "name": "poemType",
           "type": "choice",
-          "description": "Don't forget to add the chosen type tag",
+          "description": "Add poem type to TAGS",
           "choices": [
             "",
             "sonnet",
@@ -509,13 +509,13 @@
           "title": "Acrostiche",
           "name": "acrostiche",
           "type": "string",
-          "description": "Don't forget to add acrostiche tag and mention acrostiche in notice"
+          "description": "Add acrostiche to TAGS. Mention acrostiche in notice"
         },
         {
           "title": "Double acrostiche, with | separator",
           "name": "doubleAcrostiche",
           "type": "string",
-          "description": "Don't forget to add doubleAcrostiche tag and mention double acrostiche in notice"
+          "description": "Add doubleAcrostiche to TAGS. Mention double acrostiche in notice"
         },
         {
           "title": "LastModifierDisplayName",
