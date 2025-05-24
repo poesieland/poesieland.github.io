@@ -1,5 +1,5 @@
 +++
-title = "quatorze syllabes"
+title = "Quatorze syllabes"
 +++
 
 Il est possible de dépasser l'[alexandrin](../alexandrin). Je ne me souviens plus quelle chanson m'a donné envie d'expérimenter le vers de 14 syllabes, mais je trouve ce vers étrange car il n'a plus de rythme propre.

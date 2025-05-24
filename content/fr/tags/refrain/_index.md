@@ -1,5 +1,5 @@
 +++
-title = "refrain"
+title = "Refrain"
 date = 2025-05-15
 +++
 En poésie comme en chanson, le refrain ou la répétition relève de l'obsession : du créateur par son sentiment ou son idée, et de celui qui lit ou qui écoute par un objet imposé.
