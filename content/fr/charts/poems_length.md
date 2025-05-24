@@ -5,11 +5,15 @@ weight = 3
 
 ## Court ou long
 
-12 ou 16 vers sont les longueurs les plus communes, et représentent la moitié des poèmes. Les [sonnets](/tags/sonnet) comptent 14 vers.
+12 ou 16 vers sont les longueurs les plus communes, et représentent respectivement presque la moitié, et un quart, des poèmes.
 
-{{< chartjs id="poemLengthBar" width="100%" jsFile="../general/poems-length-bar.js" />}}
+Les [sonnets](/tags/sonnet) comptent 14 vers, mais tous les poèmes de 14 vers ne sont pas des sonnets.
 
 Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
+
+{{< chartjs id="poemLengthPie" width="60%" jsFile="../general/poems-length-pie.js" />}}
+
+
 
 ## L'art du quatrain
 
