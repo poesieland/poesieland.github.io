@@ -3,10 +3,11 @@ title = "Le parc"
 id = "le_parc_2"
 date = 1996-11-16
 weight = 11
-categories = ["Amitié", "Jardin et paysage"]
-tags = ["amour", "nature", "1996", "octosyllabe"]
+categories = [ "Amitié", "Jardin et paysage" ]
+tags = [ "amour", "nature", "1996", "octosyllabe" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+location = [ "Reims" ]
 +++
 
 Nous nous aimâmes en silence

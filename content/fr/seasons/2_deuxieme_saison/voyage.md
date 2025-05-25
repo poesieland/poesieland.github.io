@@ -3,11 +3,12 @@ title = "Partir"
 id = "voyage_2"
 date = 1996-12-30
 weight = 50
-categories = ["Etre"]
-tags = ["philosophie", "1996", "octosyllabe"]
+categories = [ "Etre" ]
+tags = [ "philosophie", "1996", "octosyllabe" ]
 verseLength = 8
-locations = ["Paris"]
+locations = [ "Paris" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+location = [ "Paris" ]
 +++
 
 Paris, Paris, ville lumière,

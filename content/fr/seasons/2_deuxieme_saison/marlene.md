@@ -3,10 +3,11 @@ title = "Marlène"
 id = "marlene_2"
 date = 1996-09-30
 weight = 8
-categories = ["Portraits"]
-tags = ["philosophie", "1996", "alexandrin"]
+categories = [ "Portraits" ]
+tags = [ "1996", "alexandrin", "philosophie", "l'air ou la chanson" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "[D'après cette chanson](https://fr.wikipedia.org/wiki/Lili_Marleen)"
 +++
 
 Es-tu blonde, es-tu brune ? Oui mais ton nom Marlène,
@@ -43,3 +44,7 @@ Ton harmonie encor malgré le temps qui passe
 Fait vibrer toute l'âme en sa plainte vivace
 
 Lorsque le disque tourne et tourne sans faillir.
+
+{{% notice style="primary" %}}
+[D'après cette chanson](https://fr.wikipedia.org/wiki/Lili_Marleen)
+{{% /notice %}}
