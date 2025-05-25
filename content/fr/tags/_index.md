@@ -2,7 +2,7 @@
 title = "Mots-clés"
 +++
 
-A la base, les catégories étaient regroupées sous un mot-clé, telle que j'avais définie la classification initiale sur deux niveaux.
+A la base, les catégories étaient regroupées sous un mot-clé, telle que j'avais définie la classification initiale sur deux niveaux. Cela donne 7 mots-clés parents d'à ce jour 35 catégories.
 
 Dès que la version moderne de ce site a été créée, de nouveaux usages se sont rapidement imposées :
 

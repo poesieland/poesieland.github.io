@@ -3,8 +3,8 @@ title = "Impression"
 id = "impression_1"
 date = 1996-06-08
 weight = 17
-categories = ["Jardin et paysage"]
-tags = ["nature", "1996", "octosyllabe"]
+categories = [ "Jardin et paysage", "Etre" ]
+tags = [ "1996", "nature", "octosyllabe", "philosophie" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

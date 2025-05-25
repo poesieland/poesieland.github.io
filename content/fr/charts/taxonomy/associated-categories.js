@@ -202,7 +202,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 23, y: 23, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 9, y: 24, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 4, y: 21, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
-    { x: 2, y: 6, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
+    { x: 2, y: 6, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 12, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 3, y: 26, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 11, y: 11, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
@@ -210,6 +210,7 @@ import { addBubbleChart } from '../add-chart.js'
 [
     { x: 11, y: 20, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 11, y: 12, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
+    { x: 14, y: 15, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 16, y: 15, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 2, y: 25, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 11, y: 23, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
@@ -220,7 +221,6 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 11, y: 15, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 27, y: 26, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 4, y: 10, r: 8.333333333333333333333333333, color: 'rgba(119, 181, 254, 1)' },
-    { x: 14, y: 15, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 1, y: 4, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 17, y: 14, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 5, y: 11, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
@@ -259,7 +259,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 29, y: 28, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 7, y: 8, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 12, y: 23, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
-    { x: 13, y: 10, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
+    { x: 13, y: 10, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 2, y: 2, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
 ],
 [
@@ -280,9 +280,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 5, y: 9, r: 8.750000000000000000000000000, color: 'rgba(0, 127, 255, 1)' },
     { x: 5, y: 14, r: 10.000000000000000000000000000, color: 'rgba(0, 127, 255, 1)' },
     { x: 7, y: 9, r: 7.5, color: 'rgba(0, 127, 255, 1)' },
-    { x: 7, y: 6, r: 10.000000000000000000000000000, color: 'rgba(0, 127, 255, 1)' },
     { x: 7, y: 25, r: 7.5, color: 'rgba(0, 127, 255, 1)' },
-    { x: 2, y: 3, r: 10.000000000000000000000000000, color: 'rgba(0, 127, 255, 1)' },
 ],
 [
     { x: 2, y: 1, r: 8.333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
@@ -292,7 +290,9 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 6, y: 5, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 19, y: 24, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 6, y: 14, r: 9.166666666666666666666666667, color: 'rgba(50, 122, 183, 1)' },
+    { x: 7, y: 6, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 6, y: 3, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
+    { x: 2, y: 3, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
   addBubbleChart('associatedCategories', ['Premier quartile','Deuxième quartile','Troisième quartile','Quatrième quartile'], data, {scales: { x: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Amitié','Amour platonique','Angoisse','Apprentissage','Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Romantisme','Temps'][index]; } } }, y: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Révolte','Romantisme','Sommeil','Temps','Toucher','Ville'][index]; } } } }});
