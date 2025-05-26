@@ -39,7 +39,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 7, y: 14, r: 2.4, color: 'rgba(121, 248, 248, 1)' },
     { x: 8, y: 18, r: 3.6, color: 'rgba(121, 248, 248, 1)' },
     { x: 12, y: 6, r: 7.80, color: 'rgba(121, 248, 248, 1)' },
-    { x: 4, y: 12, r: 15.6, color: 'rgba(121, 248, 248, 1)' },
+    { x: 4, y: 12, r: 16.8, color: 'rgba(121, 248, 248, 1)' },
     { x: 7, y: 10, r: 3.00, color: 'rgba(121, 248, 248, 1)' },
     { x: 7, y: 8, r: 6.60, color: 'rgba(121, 248, 248, 1)' },
     { x: 6, y: 18, r: 1.2, color: 'rgba(121, 248, 248, 1)' },
