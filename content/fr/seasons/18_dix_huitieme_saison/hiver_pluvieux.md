@@ -9,8 +9,9 @@ tags = [
   "hexasyllabe",
   "nature",
   "philosophie",
+  "refrain",
   "saisons",
-  "refrain"
+  "les mois"
 ]
 info = "En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂"
 verseLength = 6

@@ -3,8 +3,8 @@ title = "Janvier"
 id = "janvier_23"
 date = 2024-12-26
 weight = 32
-categories = ["Hiver", "Temps"]
-tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+categories = [ "Hiver", "Temps" ]
+tags = [ "2024", "hexasyllabe", "philosophie", "saisons", "les mois" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

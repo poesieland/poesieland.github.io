@@ -3,8 +3,8 @@ title = "Passer l'hiver"
 id = "passer_l_hiver_24"
 date = 2025-01-04
 weight = 8
-categories = ["Angoisse", "Hiver"]
-tags = ["philosophie", "saisons", "2025", "hexasyllabe"]
+categories = [ "Angoisse", "Hiver" ]
+tags = [ "2025", "hexasyllabe", "philosophie", "saisons", "les mois" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

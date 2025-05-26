@@ -3,8 +3,8 @@ title = "Germination"
 id = "germination_3"
 date = 1997-01-15
 weight = 35
-categories = ["Temps"]
-tags = ["philosophie", "1997", "octosyllabe"]
+categories = [ "Temps" ]
+tags = [ "1997", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

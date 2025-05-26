@@ -3,8 +3,8 @@ title = "L'orage du cœur"
 id = "l_orage_du_cour_5"
 date = 1998-01-04
 weight = 2
-categories = ["Amour platonique"]
-tags = ["amour", "1998", "alexandrin"]
+categories = [ "Amour platonique" ]
+tags = [ "1998", "alexandrin", "amour", "les mois" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

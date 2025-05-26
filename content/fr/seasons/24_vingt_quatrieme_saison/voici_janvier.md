@@ -3,8 +3,15 @@ title = "Voici janvier"
 id = "voici_janvier_24"
 date = 2025-01-01
 weight = 2
-categories = ["Hiver", "Temps"]
-tags = ["saisons", "philosophie", "2025", "octosyllabe", "refrain"]
+categories = [ "Hiver", "Temps" ]
+tags = [
+  "2025",
+  "octosyllabe",
+  "philosophie",
+  "refrain",
+  "saisons",
+  "les mois"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

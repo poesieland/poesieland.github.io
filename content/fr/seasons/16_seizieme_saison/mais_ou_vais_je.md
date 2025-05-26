@@ -3,8 +3,14 @@ title = "Mais où vais-je ?"
 id = "mais_ou_vais_je_16"
 date = 2004-01-14
 weight = 20
-categories = ["Angoisse"]
-tags = ["philosophie", "2004", "acrostiche", "alexandrin"]
+categories = [ "Angoisse" ]
+tags = [
+  "2004",
+  "acrostiche",
+  "alexandrin",
+  "philosophie",
+  "les mois"
+]
 acrostiche = "Mais où vais-je ?"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

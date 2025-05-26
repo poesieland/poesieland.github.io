@@ -3,9 +3,11 @@ title = "Ils furent heureux"
 id = "ils_furent_heureux_19"
 date = 2024-04-16
 weight = 44
-categories = ["Portraits", "Romantisme"]
-tags = ["philosophie", "amour", "2024", "alexandrin"]
-info = "Dans ce poème se cachent un surnom et un prénom"
+categories = [ "Portraits", "Romantisme" ]
+tags = [ "2024", "alexandrin", "amour", "philosophie", "maman" ]
+info = """
+[^1]: un surnom : michou.\r
+[^2]: un prénom : Angèle."""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -19,11 +21,11 @@ En cette autre jeunesse insouciante chantre
 De mes parents si beaux au rire cristallin.
 
  \
-Et parmi choux, iris, anémones et roses
+Et parmi choux[^1], iris, anémones et roses
 
 Il observait le monde et révérait l'humain :
 
-D'un regard doux qui change elle a primeur des proses
+D'un regard doux qui change elle[^2] a primeur des proses
 
 Et chaque jour qui passe ils se donnent la main.
 
@@ -36,6 +38,5 @@ Elle était plus que muse, artiste aussi sans peine ;
 
 Amateurs de voyage... un dernier trop tôt.
 
-{{% notice style="primary" %}}
-Dans ce poème se cachent un surnom et un prénom.
-{{% /notice %}}
+[^1]: un surnom : michou.
+[^2]: un prénom : Angèle.
