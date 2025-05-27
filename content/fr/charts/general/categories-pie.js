@@ -21,7 +21,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Révolte', value: 34, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 61, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 23, color: 'rgba(244, 254, 254, 1)' },
-    { label: 'Flore', value: 62, color: 'rgba(84, 114, 174, 1)' },
+    { label: 'Flore', value: 63, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 59, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 35, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 81, color: 'rgba(119, 181, 254, 1)' },
@@ -32,10 +32,10 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 21, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 16, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 13, color: 'rgba(209, 98, 4, 1)' },
-    { label: 'Printemps', value: 48, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Eté', value: 36, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 99, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 59, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Printemps', value: 49, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Eté', value: 37, color: 'rgba(0, 86, 27, 1)' },
+    { label: 'Automne', value: 100, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 60, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });
 })();

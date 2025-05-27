@@ -45,5 +45,6 @@ Certains poèmes évoquent plus d'une saison...
 - [Saisons (18e saison)](../../seasons/18_dix_huitieme_saison/saisons)
 - [Je te promets les quatre saisons (19e saison)](../../seasons/19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)
 - [A chacun sa saison (25e saison)](../../seasons/25_vingt_cinquieme_saison/a_chacun_sa_saison)
+- [Quatre arbres (26e saison)](../../seasons/26_vingt_sixieme_saison/quatre_arbres)
 
 [^1]: sauf printemps et été...
