@@ -19,7 +19,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Plus loin (16) 2002-04', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Destination bonheur (19) 2024', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Destination bonheur (19) 2024', value: 4, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 9, color: 'rgba(38, 9, 78, 0.5)' },

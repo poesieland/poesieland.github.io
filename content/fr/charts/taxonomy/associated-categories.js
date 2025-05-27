@@ -161,7 +161,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 7, y: 13, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 15, y: 21, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 28, y: 25, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
-    { x: 2, y: 24, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
+    { x: 2, y: 24, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 6, y: 25, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 6, y: 9, r: 6.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 13, y: 18, r: 3.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
@@ -212,7 +212,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 11, y: 12, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 14, y: 15, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 16, y: 15, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
-    { x: 2, y: 25, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
+    { x: 2, y: 25, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 11, y: 23, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 5, y: 8, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
     { x: 2, y: 8, r: 5.0, color: 'rgba(119, 181, 254, 1)' },
@@ -292,7 +292,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 5, y: 14, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 7, y: 6, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 6, y: 3, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
-    { x: 2, y: 3, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
+    { x: 2, y: 3, r: 8.333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
   addBubbleChart('associatedCategories', ['Premier quartile','Deuxième quartile','Troisième quartile','Quatrième quartile'], data, {scales: { x: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Amitié','Amour platonique','Angoisse','Apprentissage','Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Romantisme','Temps'][index]; } } }, y: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Révolte','Romantisme','Sommeil','Temps','Toucher','Ville'][index]; } } } }});

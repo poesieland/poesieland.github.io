@@ -291,7 +291,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 10, y: 8, r: 4.8, color: 'rgba(119, 181, 254, 1)' },
     { x: 17, y: 8, r: 7.2, color: 'rgba(119, 181, 254, 1)' },
     { x: 18, y: 8, r: 6.8, color: 'rgba(119, 181, 254, 1)' },
-    { x: 2, y: 8, r: 6.4, color: 'rgba(119, 181, 254, 1)' },
+    { x: 2, y: 8, r: 6.8, color: 'rgba(119, 181, 254, 1)' },
     { x: 17, y: 12, r: 6.4, color: 'rgba(119, 181, 254, 1)' },
     { x: 6, y: 12, r: 4.4, color: 'rgba(119, 181, 254, 1)' },
     { x: 17, y: 6, r: 8, color: 'rgba(119, 181, 254, 1)' },
