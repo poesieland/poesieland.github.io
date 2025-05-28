@@ -3,11 +3,12 @@ title = "A la course aux saisons"
 id = "a_la_course_aux_saisons_14"
 date = 2001-03-24
 weight = 50
-categories = ["Printemps", "Temps"]
-tags = ["saisons", "philosophie", "2001", "acrostiche", "alexandrin"]
+categories = [ "Automne", "Eté", "Printemps", "Temps", "Hiver" ]
+tags = [ "saisons", "philosophie", "2001", "acrostiche", "alexandrin" ]
 acrostiche = "D'une saison l'autre"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-)"
 +++
 
 Dès que vient le printemps, oh je rêve aux hivers,
@@ -47,4 +48,6 @@ Embrasse d'au-delà les saisonnières rimes !
 
 {{% notice style="primary" %}}
 Acrostiche : D'une saison l'autre.
+
+Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 {{% /notice %}}

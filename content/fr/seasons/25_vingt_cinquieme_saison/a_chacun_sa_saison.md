@@ -3,10 +3,11 @@ title = "A chacun sa saison"
 id = "a_chacun_sa_saison_25"
 date = 2025-03-01
 weight = 7
-categories = ["Automne", "Eté", "Hiver", "Printemps", "Etre"]
-tags = ["saisons", "philosophie", "2025", "hexasyllabe"]
+categories = [ "Automne", "Eté", "Hiver", "Printemps", "Etre" ]
+tags = [ "saisons", "philosophie", "2025", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-)"
 +++
 
 Un jour de funérailles
@@ -52,3 +53,7 @@ A chacun sa saison
 Pour clore un horizon :
 
 Souvenir s'exacerbe !
+
+{{% notice style="primary" %}}
+Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
+{{% /notice %}}

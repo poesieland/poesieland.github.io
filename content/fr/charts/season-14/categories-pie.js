@@ -24,8 +24,9 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 4, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Printemps', value: 4, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 3, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
+    { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 2, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season14Pie', [data], { plugins: { title: { display: true, text: 'Au long cours (14) novembre 1999 à mars 2001' } } });
 })();

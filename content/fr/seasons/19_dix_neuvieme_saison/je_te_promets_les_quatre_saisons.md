@@ -6,9 +6,9 @@ weight = 13
 categories = [ "Automne", "Eté", "Hiver", "Printemps", "Romantisme" ]
 tags = [ "2024", "alexandrin", "amour", "saisons", "refrain" ]
 info = """
-[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.\r
-\r
-Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons)."""
+[Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
+
+Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-)"""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -51,5 +51,5 @@ Je te promets l'espoir, demain n'a pas de terme.
 {{% notice style="primary" %}}
 [Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
 
-Toujours un jeu d'[évoquer les quatre saisons dans un seul poème](../14_quatorzieme_saison/a_la_course_aux_saisons).
+Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 {{% /notice %}}

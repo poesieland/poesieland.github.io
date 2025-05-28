@@ -18,7 +18,10 @@ tags:
     - saisons
     - octosyllabe
 location: []
-info: Reprise enjouée du début du premier vers d'un [poème de la dix-septième saison](../17_dix_septieme_saison/dormira)
+info: |-
+    Reprise enjouée du début du premier vers d'un [poème de la dix-septième saison](../17_dix_septieme_saison/dormira).
+
+    Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -62,4 +65,6 @@ Soupir de l'automne en ses fables.
 
 {{% notice style="primary" %}}
 Reprise enjouée du début du premier vers d'un [poème de la dix-septième saison](../17_dix_septieme_saison/dormira).
+
+Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 {{% /notice %}}
