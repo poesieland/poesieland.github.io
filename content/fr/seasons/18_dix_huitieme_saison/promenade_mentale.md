@@ -4,7 +4,7 @@ id = "promenade_mentale_18"
 date = 2023-11-12
 weight = 19
 categories = ["Temps", "Création"]
-tags = ["philosophie", "2023", "octosyllabe"]
+tags = ["philosophie", "2023", "octosyllabe", "les mois"]
 info = """
 Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""

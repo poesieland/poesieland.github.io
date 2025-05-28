@@ -4,7 +4,7 @@ id = "si_tu_pouvais_10"
 date = 1999-03-03
 weight = 45
 categories = ["Amour platonique"]
-tags = ["amour", "1999", "hexasyllabe"]
+tags = ["amour", "1999", "hexasyllabe", "les mois"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

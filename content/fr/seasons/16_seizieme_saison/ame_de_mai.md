@@ -4,7 +4,7 @@ id = "ame_de_mai_16"
 date = 2004-05-02
 weight = 29
 categories = ["Jardin et paysage", "Printemps"]
-tags = ["nature", "saisons", "2004", "alexandrin"]
+tags = ["nature", "saisons", "2004", "alexandrin", "les mois"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
