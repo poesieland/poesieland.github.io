@@ -10,6 +10,7 @@ enableEmoji = true
 removePathAccents = true
 cleanDestinationDir = true
 enableMissingTranslationPlaceholders = false
+titleCaseStyle = 'firstupper'
 
 [build]
 buildStats = false

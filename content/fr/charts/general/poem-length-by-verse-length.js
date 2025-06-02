@@ -37,7 +37,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 7, y: 12, r: 19.80, color: 'rgba(121, 248, 248, 1)' },
     { x: 8, y: 10, r: 15.00, color: 'rgba(121, 248, 248, 1)' },
     { x: 7, y: 14, r: 2.4, color: 'rgba(121, 248, 248, 1)' },
-    { x: 8, y: 18, r: 3.6, color: 'rgba(121, 248, 248, 1)' },
+    { x: 8, y: 18, r: 4.20, color: 'rgba(121, 248, 248, 1)' },
     { x: 12, y: 6, r: 7.80, color: 'rgba(121, 248, 248, 1)' },
     { x: 4, y: 12, r: 16.8, color: 'rgba(121, 248, 248, 1)' },
     { x: 7, y: 10, r: 3.00, color: 'rgba(121, 248, 248, 1)' },
@@ -85,7 +85,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 0, y: 10, r: 0.60, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 12, r: 7.80, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 20, r: 7.2, color: 'rgba(121, 248, 248, 1)' },
-    { x: 0, y: 16, r: 6.0, color: 'rgba(121, 248, 248, 1)' },
+    { x: 0, y: 16, r: 6.60, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 14, r: 0.60, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 3, r: 0.60, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 24, r: 1.2, color: 'rgba(121, 248, 248, 1)' },
@@ -97,7 +97,7 @@ import { addBubbleChart } from '../add-chart.js'
 ],
 [
     { x: 12, y: 12, r: 22.725, color: 'rgba(0, 127, 255, 1)' },
-    { x: 6, y: 12, r: 27.225, color: 'rgba(0, 127, 255, 1)' },
+    { x: 6, y: 12, r: 27.45, color: 'rgba(0, 127, 255, 1)' },
 ],
 [
     { x: 8, y: 12, r: 30, color: 'rgba(50, 122, 183, 1)' },

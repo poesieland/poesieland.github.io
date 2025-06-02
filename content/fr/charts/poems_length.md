@@ -19,7 +19,7 @@ Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
 ### Un seul quatrain
 
-Un sujet percutant.
+Un sujet percutant. Très souvent un acrostiche d'ailleurs, puisque le sujet est déterminé avant le contenu, dans ce cas.
 
 - [Couleurs (2e saison)](../seasons/2_deuxieme_saison/couleurs)
 - [Ange (9e saison)](../seasons/9_neuvieme_saison/ange)
