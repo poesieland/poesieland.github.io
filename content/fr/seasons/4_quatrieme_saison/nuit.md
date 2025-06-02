@@ -3,8 +3,13 @@ title = "Nuit"
 id = "nuit_4"
 date = 1997-08-19
 weight = 42
-categories = ["Lune"]
-tags = ["ombres et lumières", "1997", "hexasyllabe"]
+categories = [ "Lune" ]
+tags = [
+  "1997",
+  "hexasyllabe",
+  "ombres et lumières",
+  "l'air ou la chanson"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

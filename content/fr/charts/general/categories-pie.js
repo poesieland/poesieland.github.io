@@ -28,7 +28,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 28, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 55, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 35, color: 'rgb(50, 122, 183, 1)' },
-    { label: 'Musique et chant', value: 82, color: 'rgba(252, 191, 140, 1)' },
+    { label: 'Musique et chant', value: 83, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 21, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 16, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 13, color: 'rgba(209, 98, 4, 1)' },
