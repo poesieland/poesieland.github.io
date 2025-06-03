@@ -2,7 +2,7 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Amitié', value: 30, color: 'rgba(254, 231, 240, 1)' },
-    { label: 'Amour platonique', value: 34, color: 'rgba(255, 111, 125, 1)' },
+    { label: 'Amour platonique', value: 35, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 50, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 58, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 40, color: 'rgba(255, 203, 96, 1)' },
@@ -15,8 +15,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Création', value: 96, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 74, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 73, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 134, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Etre', value: 119, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Temps', value: 135, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Etre', value: 120, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 39, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 34, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 62, color: 'rgba(38, 9, 78, 1)' },
@@ -28,7 +28,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 28, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 55, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 35, color: 'rgb(50, 122, 183, 1)' },
-    { label: 'Musique et chant', value: 83, color: 'rgba(252, 191, 140, 1)' },
+    { label: 'Musique et chant', value: 84, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 21, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 16, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 13, color: 'rgba(209, 98, 4, 1)' },

@@ -3,9 +3,9 @@ title = "Dissonance"
 id = "dissonance_25"
 date = 2025-03-28
 weight = 39
-categories = ["Angoisse", "Temps"]
-tags = ["philosophie", "2025", "tétrasyllabe"]
-info = "En pensant à [la chanson \"Encore un soir\"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson))"
+categories = [ "Angoisse", "Temps" ]
+tags = [ "2025", "philosophie", "tétrasyllabe", "l'air ou la chanson" ]
+info = 'En pensant à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson))'
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
