@@ -41,5 +41,5 @@ De leurs arbrisseaux qui forcissent.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}.
+{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
 {{% /notice %}}

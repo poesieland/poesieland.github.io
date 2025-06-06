@@ -40,7 +40,7 @@ Ombre, le ciel, tu me souris.
 "Tu es beau" en italien.
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}.
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 
 Acrostiche : Tu sei bello.
 {{% /notice %}}

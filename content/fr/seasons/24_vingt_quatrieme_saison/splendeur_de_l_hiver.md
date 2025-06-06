@@ -32,5 +32,5 @@ Un photographe erre, lucide.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _l'orgue des arbres_ :
-{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}.
+{{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
 {{% /notice %}}

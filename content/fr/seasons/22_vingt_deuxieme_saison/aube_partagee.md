@@ -55,5 +55,5 @@ Tout notre amour.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}.
+{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}

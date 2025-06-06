@@ -3,8 +3,8 @@ title = "Le plus beau geste"
 id = "le_plus_beau_geste_5"
 date = 1998-01-17
 weight = 13
-categories = ["Etre"]
-tags = ["philosophie", "1998", "octosyllabe"]
+categories = [ "Etre" ]
+tags = [ "1998", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

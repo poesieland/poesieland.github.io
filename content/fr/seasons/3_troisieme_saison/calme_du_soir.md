@@ -41,5 +41,5 @@ Du reflet pâli de notre ville.
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}.
+{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
 {{% /notice %}}

@@ -57,7 +57,7 @@ Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 
-{{% include "../../includes/demain_etre" hidefirstheading %}}.
+{{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain nous serons.
 {{% /notice %}}

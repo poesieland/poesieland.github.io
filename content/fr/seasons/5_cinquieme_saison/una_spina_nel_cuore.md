@@ -3,14 +3,22 @@ title = "Una spina nel cuore"
 id = "una_spina_nel_cuore_5"
 date = 1998-01-21
 weight = 18
-categories = ["Flore", "Passion"]
-tags = ["nature", "amour", "1998", "acrostiche", "heptasyllabe"]
+categories = [ "Flore", "Passion" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "amour",
+  "heptasyllabe",
+  "nature",
+  "l'air ou la chanson"
+]
 acrostiche = "Una spina nel cuore"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "[^1]: Cette expression italienne si imagée, *una spina nel cuore*, dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli."
 +++
 
-Une épine dans le cœur
+Une épine dans le cœur[^1]
 
 N'est que reflet de la rose
 
@@ -44,6 +52,8 @@ O, d'un frisson presque infime :
 Retenir l'amour versé
 
 Et cette douleur intime...
+
+[^1]: Cette expression italienne si imagée, *una spina nel cuore*, dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli.
 
 {{% notice style="primary" %}}
 Acrostiche : Una spina nel cuore.

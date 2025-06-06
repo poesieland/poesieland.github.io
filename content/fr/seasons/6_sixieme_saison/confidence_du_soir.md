@@ -53,5 +53,5 @@ Qu'endormira d'un geste une antique pavane...
 {{% notice style="primary" %}}
 
 Les poèmes qui reprennent _la nuit faite mer_ :
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}.
+{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}

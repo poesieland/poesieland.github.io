@@ -58,7 +58,7 @@ Ainsi m'attache et me délivre.
 
 {{% notice style="primary" %}}
 Encore une variation sur cette question que j'adore...
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}.
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
 
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 {{% /notice %}}

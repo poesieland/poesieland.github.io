@@ -32,7 +32,7 @@ Ris au contraire comme on passe!
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}.
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 
 Acrostiche : Sur un air.
 {{% /notice %}}

@@ -41,5 +41,5 @@ L'hiver pour réceptacle.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}.
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

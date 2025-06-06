@@ -7,9 +7,7 @@ categories = [ "Amour platonique" ]
 tags = [ "2024", "amour", "octosyllabe", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = """
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
+info = ""
 +++
 
 Le ciel est beau pour tout vous dire

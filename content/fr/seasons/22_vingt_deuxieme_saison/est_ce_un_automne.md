@@ -52,5 +52,5 @@ Des deux saisons allées à l'amble.
 {{% notice style="primary" %}}
 
 Encore une variation sur cette question que j'adore...
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}.
+{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
 {{% /notice %}}

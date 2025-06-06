@@ -3,13 +3,14 @@ title = "Par amour"
 id = "par_amour_5"
 date = 1998-02-05
 weight = 6
-categories = ["Amour platonique"]
-tags = ["amour", "1998", "octosyllabe"]
+categories = [ "Amour platonique" ]
+tags = [ "1998", "amour", "octosyllabe", "l'air ou la chanson" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "[^1]: Référence à l'opéra Carmen : *la fleur que tu m'avais jetée*..."
 +++
 
-Les fleurs que je t'avais jetées
+Les fleurs que je t'avais jetées[^1]
 
 Ont-elles parfumé ton cœur ?
 
@@ -52,3 +53,5 @@ Reflètent ton image encor :
 Berce mon cœur de tes mains nues,
 
 Apaise-le de ta voix d'or.
+
+[^1]: Référence à l'opéra Carmen : *la fleur que tu m'avais jetée*...

@@ -45,5 +45,5 @@ Et danse la limace !
 Métrique variable : 8, 6.
       
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}.
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

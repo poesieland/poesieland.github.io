@@ -4,9 +4,16 @@ id = "je_partirai_5"
 date = 1997-12-21
 weight = 15
 categories = [ "Romantisme" ]
-tags = [ "1997", "amour", "octosyllabe", "refrain" ]
+tags = [
+  "1997",
+  "amour",
+  "octosyllabe",
+  "refrain",
+  "l'air ou la chanson"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "[^1]: une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"
 +++
 
 Je partirai dans une danse
@@ -33,4 +40,6 @@ Trouver les mots que je dirai,
 
 Dans leur musique je me plonge
 
-Car avec toi je partirai !
+Car avec toi je partirai[^1] !
+
+[^1]: une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)

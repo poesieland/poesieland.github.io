@@ -41,5 +41,5 @@ Tout lessivé, vert, pathétique.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}.
+{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 {{% /notice %}}

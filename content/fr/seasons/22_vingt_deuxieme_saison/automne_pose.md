@@ -42,5 +42,5 @@ Chanson de feuille jaune et rousse !
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par la variante principale du premier vers...
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}.
+{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

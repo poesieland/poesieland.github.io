@@ -50,5 +50,5 @@ Rêveurs, aux cieux d'avant.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}.
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}

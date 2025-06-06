@@ -41,5 +41,5 @@ C'était un souvenir volage.
 
 {{% notice style="primary" %}}
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}.
+{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 {{% /notice %}}

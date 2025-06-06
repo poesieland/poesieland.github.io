@@ -51,5 +51,5 @@ Ainsi se perd le monde.
 Métrique variable : 8, 6.
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}.
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 {{% /notice %}}

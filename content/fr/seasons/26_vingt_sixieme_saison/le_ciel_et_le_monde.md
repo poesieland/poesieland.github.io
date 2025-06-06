@@ -63,5 +63,5 @@ Bruissant.
 Métrique variable : 6, 2.
 
 Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}.
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}
