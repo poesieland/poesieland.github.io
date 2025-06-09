@@ -1,10 +1,10 @@
 +++
 title = "Vingt-sixième Saison : Chemins non balisés"
-summary = "A partir d'avril 2025"
+summary = "Philosophie et nature dominent. D'avril à juin 2025"
 weight = 26
 +++
 
-A partir d'avril 2025
+Eau douce, flore, temps... D'avril à juin 2025
 
 ---
 {{% children  %}}

@@ -13,8 +13,6 @@ Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 
 {{< chartjs id="poemLengthPie" width="60%" jsFile="../general/poems-length-pie.js" />}}
 
-
-
 ## L'art du quatrain
 
 ### Un seul quatrain
@@ -34,6 +32,7 @@ Un sujet percutant. Très souvent un acrostiche d'ailleurs, puisque le sujet est
 - [Givre (17e saison)](../seasons/17_dix_septieme_saison/givre)
 - [Inachevé (17e saison)](../seasons/17_dix_septieme_saison/inacheve)
 - [Eloge (19e saison)](../seasons/19_dix_neuvieme_saison/eloge)
+- [Juin (26e saison)](../seasons/26_vingt_sixieme_saison/juin)
 
 ### Sept quatrains
 

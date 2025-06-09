@@ -4,7 +4,7 @@ id = "juin_juillet_octobre_22"
 date = 2024-09-30
 weight = 19
 categories = ["Automne", "Eté", "Temps"]
-tags = ["saisons", "philosophie", "2024", "alexandrin"]
+tags = ["saisons", "philosophie", "2024", "alexandrin", "les mois"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
