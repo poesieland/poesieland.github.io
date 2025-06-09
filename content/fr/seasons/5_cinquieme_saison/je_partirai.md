@@ -13,7 +13,7 @@ tags = [
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = "[^1]: une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"
+info = "Une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"
 +++
 
 Je partirai dans une danse
@@ -40,6 +40,9 @@ Trouver les mots que je dirai,
 
 Dans leur musique je me plonge
 
-Car avec toi je partirai[^1] !
+Car avec toi je partirai !
 
-[^1]: une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)
+{{% notice style="primary" %}}
+Une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)
+{{% /notice %}}
+ 

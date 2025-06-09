@@ -15,10 +15,10 @@ tags = [
 acrostiche = "Una spina nel cuore"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = "[^1]: Cette expression italienne si imagée, *una spina nel cuore*, dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli."
+info = "Cette expression italienne si imagée, *una spina nel cuore*, que j'ai découverte dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli."
 +++
 
-Une épine dans le cœur[^1]
+Une épine dans le cœur
 
 N'est que reflet de la rose
 
@@ -53,8 +53,8 @@ Retenir l'amour versé
 
 Et cette douleur intime...
 
-[^1]: Cette expression italienne si imagée, *una spina nel cuore*, dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli.
-
 {{% notice style="primary" %}}
+Cette expression italienne si imagée, *una spina nel cuore*, que j'ai découverte dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli.
+
 Acrostiche : Una spina nel cuore.
 {{% /notice %}}
