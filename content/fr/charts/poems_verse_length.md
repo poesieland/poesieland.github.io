@@ -22,7 +22,9 @@ Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis d
 
 Au-delà de l'alexandrin, les poèmes en [vers de 14 syllabes](/tags/quatorze-syllabes)...
 
-### Et variable !
+### Variable...
+
+De plus en plus de poèmes utilisent plusieurs métriques car cela donne un effet particulier.
 
 [Vers ces {{% include "/content/common/variable_metric_poem_count.md" %}} poèmes](/tags/métrique-variable)
 
