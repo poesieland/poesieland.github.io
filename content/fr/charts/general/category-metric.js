@@ -306,10 +306,10 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 32, y: 6, r: 8.10, color: 'rgba(0, 127, 255, 1)' },
     { x: 14, y: 12, r: 8.70, color: 'rgba(0, 127, 255, 1)' },
     { x: 23, y: 8, r: 9.60, color: 'rgba(0, 127, 255, 1)' },
-    { x: 14, y: 6, r: 7.80, color: 'rgba(0, 127, 255, 1)' },
+    { x: 14, y: 6, r: 8.40, color: 'rgba(0, 127, 255, 1)' },
 ],
 [
-    { x: 14, y: 8, r: 7.6, color: 'rgba(50, 122, 183, 1)' },
+    { x: 14, y: 8, r: 7.8, color: 'rgba(50, 122, 183, 1)' },
     { x: 5, y: 8, r: 7.2, color: 'rgba(50, 122, 183, 1)' },
     { x: 32, y: 8, r: 10, color: 'rgba(50, 122, 183, 1)' },
 ]
