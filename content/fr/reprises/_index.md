@@ -19,8 +19,8 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 ### Reprises uniques en vrac
 
 **A la dix-neuvième saison**
-- Depuis la sixième saison : évocation d'un cimetière, dans [au dernier jour](../seasons/19_dix_neuvieme_saison/au_dernier_jour)
-- Depuis la sixième saison : à propos de ma maison d'enfance, dans [ce temps-là](../seasons/19_dix_neuvieme_saison/ce_temps_la)
+- Depuis la sixième saison : ["Au dernier rang du cimetière / J'aurai ma tombe sous les fleurs"](../seasons/19_dix_neuvieme_saison/au_dernier_jour)
+- Depuis la sixième saison : ["On a repeint jaune"](../seasons/19_dix_neuvieme_saison/ce_temps_la)
 - Depuis la cinquième saison : ["Avant de partir"](../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)
 - Depuis la troisième saison : ["Juste une valse..."](../seasons/19_dix_neuvieme_saison/charme)
 
@@ -52,3 +52,5 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 
 **A la vingt-septième saison**
 - Depuis la deuxième saison : ["[je me] brûle à [ma] braise"](../seasons/27_vingt_septieme_saison/si)
+- Depuis la cinquième saison : ["cueillir la nuit violine"](../seasons/27_vingt_septieme_saison/la_nuit_violine)
+- Depuis la cinquième saison : ["Mon coeur est libre de t'aimer"](../seasons/27_vingt_septieme_saison/reve_d_amour)

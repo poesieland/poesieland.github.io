@@ -1,15 +1,15 @@
 import { addLineChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Métrique variable', data: [2,0,4,4,2,0,0,0,0,4,0,0,2,2,2,2,2,4,2,6,2,6,8,10,8,10,0], borderColor: 'rgb(255, 255, 255)', backgroundColor: 'rgb(255, 255, 255)', fill: true },
+    { label: 'Métrique variable', data: [2,0,4,4,2,0,0,0,0,4,0,0,2,2,2,2,2,4,2,6,2,6,8,10,8,10,16.7], borderColor: 'rgb(255, 255, 255)', backgroundColor: 'rgb(255, 255, 255)', fill: true },
     { label: '1 syllabe', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0], borderColor: 'rgb(247, 249, 249)', backgroundColor: 'rgb(247, 249, 249)', fill: true },
-    { label: '2 syllabes', data: [0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,2,4,4,0,0], borderColor: 'rgb(230, 176, 170)', backgroundColor: 'rgb(230, 176, 170)', fill: true },
+    { label: '2 syllabes', data: [0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,2,4,2,4,4,0,16.7], borderColor: 'rgb(230, 176, 170)', backgroundColor: 'rgb(230, 176, 170)', fill: true },
     { label: '3 syllabes', data: [0,0,4,2,0,0,0,0,0,0,0,0,0,0,0,0,2,2,0,0,0,6,0,4,4,6,0], borderColor: 'rgb(245, 183, 177)', backgroundColor: 'rgb(245, 183, 177)', fill: true },
     { label: '4 syllabes', data: [0,10,2,2,0,2,4,2,0,0,4,0,0,0,0,0,2,4,10,4,10,20,10,24,18,16,0], borderColor: 'rgb(215, 189, 226)', backgroundColor: 'rgb(215, 189, 226)', fill: true },
     { label: '5 syllabes', data: [0,0,4,2,0,2,0,2,4,2,10,2,2,0,0,4,6,6,8,18,6,2,2,4,12,4,0], borderColor: 'rgb(169, 204, 227)', backgroundColor: 'rgb(169, 204, 227)', fill: true },
-    { label: '6 syllabes', data: [10,12,24,48,36,16,10,8,34,10,24,16,16,18,14,20,30,40,26,46,24,22,32,26,22,28,50], borderColor: 'rgb(174, 214, 241)', backgroundColor: 'rgb(174, 214, 241)', fill: true },
+    { label: '6 syllabes', data: [10,12,24,48,36,16,10,8,34,10,24,16,16,18,14,20,30,40,26,46,24,22,32,26,22,28,33.3], borderColor: 'rgb(174, 214, 241)', backgroundColor: 'rgb(174, 214, 241)', fill: true },
     { label: '7 syllabes', data: [0,0,0,0,8,6,10,14,4,16,10,8,8,8,8,12,14,2,4,4,8,0,4,2,2,0,0], borderColor: 'rgb(163, 228, 215)', backgroundColor: 'rgb(163, 228, 215)', fill: true },
-    { label: '8 syllabes', data: [30,30,46,42,46,52,42,58,24,36,30,28,28,38,40,32,30,26,32,10,32,30,34,22,16,22,50], borderColor: 'rgb(162, 217, 206)', backgroundColor: 'rgb(162, 217, 206)', fill: true },
+    { label: '8 syllabes', data: [30,30,46,42,46,52,42,58,24,36,30,28,28,38,40,32,30,26,32,10,32,30,34,22,16,22,33.3], borderColor: 'rgb(162, 217, 206)', backgroundColor: 'rgb(162, 217, 206)', fill: true },
     { label: '9 syllabes', data: [0,0,2,0,0,0,2,0,0,2,0,0,2,2,0,2,2,0,0,2,2,0,0,0,6,2,0], borderColor: 'rgb(171, 235, 198)', backgroundColor: 'rgb(171, 235, 198)', fill: true },
     { label: '10 syllabes', data: [0,0,0,0,2,10,6,4,4,4,2,4,4,4,12,4,6,2,2,0,0,0,0,0,0,0,0], borderColor: 'rgb(249, 231, 159)', backgroundColor: 'rgb(249, 231, 159)', fill: true },
     { label: '11 syllabes', data: [0,0,0,0,0,0,0,0,0,10,6,8,2,4,0,0,0,2,0,0,0,0,0,0,0,0,0], borderColor: 'rgb(250, 215, 160)', backgroundColor: 'rgb(250, 215, 160)', fill: true },
