@@ -10,7 +10,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Croire (7) 1998', value: 11, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Reflets perdus (8) 1998', value: 14, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Souffles (9) 1998', value: 5, color: 'rgba(253, 108, 158, 0.5)' },
-    { label: 'Pensées (10) 1998-99', value: 6, color: 'rgba(253, 108, 158, 0.5)' },
+    { label: 'Pensées (10) 1998-99', value: 7, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Perceptible (11) 1999', value: 5, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Tempo piano (12) 1999', value: 5, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Divina (13) 1999', value: 3, color: 'rgba(253, 108, 158, 0.5)' },
@@ -27,7 +27,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots respirent (24) 2024-25', value: 2, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Coeur et âme (25) 2025', value: 4, color: 'rgba(253, 108, 158, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 6, color: 'rgba(253, 108, 158, 0.5)' },
-    { label: 'D\'un rêve à l\'autre (27) 2025', value: 1, color: 'rgba(253, 108, 158, 0.5)' },
+    { label: 'D\'un rêve à l\'autre (27) 2025', value: 2, color: 'rgba(253, 108, 158, 0.5)' },
   ];
     addBarChart('poems-amourBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

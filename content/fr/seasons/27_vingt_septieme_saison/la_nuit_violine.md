@@ -6,17 +6,19 @@ date: 2025-06-06
 verseLength: 6
 divider: ""
 categories:
-    - Nuit
+    - Passion
+    - Musique et chant
 tags:
     - "2025"
-    - hexasyllabe
-    - ombres et lumières
     - acrostiche
+    - amour
+    - hexasyllabe
+    - attitudes
 location: []
 info: Reprise de *cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 pictures: []
 poemType: ""
-acrostiche: Cueillir
+acrostiche: Cueillir, nuit
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
@@ -37,8 +39,17 @@ Intime mille-feuille
 
 Riche de cors à choeurs.
 
+ \
+Noble, l'orgue s'empresse,
+
+Unit soupir et cri,
+
+Intime se redresse,
+
+Tendre note s'écrit.
+
 {{% notice style="primary" %}}
 Reprise de *cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 
-Acrostiche : Cueillir.
+Acrostiche : Cueillir, nuit.
 {{% /notice %}}

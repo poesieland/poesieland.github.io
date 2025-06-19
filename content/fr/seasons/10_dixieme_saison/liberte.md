@@ -1,10 +1,10 @@
 +++
-title = "Liberté"
+title = "A fleur"
 id = "liberte_10"
 date = 1999-03-03
 weight = 18
-categories = ["Espoir"]
-tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
+categories = [ "Romantisme" ]
+tags = [ "1999", "acrostiche", "octosyllabe", "amour" ]
 acrostiche = "A fleur"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

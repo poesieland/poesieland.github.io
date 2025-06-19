@@ -4,7 +4,7 @@ summary = "Pensées oniriques ou plus réelles, cette Saison trouve un équilibr
 weight = 10
 +++
 
-Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, en explorant la foi, l'espoir, l'être ainsi que des éléments plus concrets comme l'art musical, la mer, la neige.
+Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, en explorant la foi, le romantisme, l'espoir, l'être ainsi que des éléments plus concrets comme l'art musical, la mer, la neige.
 
 De janvier 1998 à mars 1999
 
