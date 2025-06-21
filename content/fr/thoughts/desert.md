@@ -13,5 +13,6 @@ Vu depuis le petit confort de ma vie occidentale, surtout à mon adolescence, le
 - [Je t'offrirai](../seasons/6_sixieme_saison/je_t_offrirai)
 - [Le sable, la vie](../seasons/9_neuvieme_saison/le_sable_la_vie)
 - [Ciel](../seasons/23_vingt_troisieme_saison/ciel)
+- [Un jour au désert](../seasons/27_vingt_septieme_saison/un_jour_au_desert)
 
 
