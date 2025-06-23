@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Oiseaux du soir, écrit le 17.06.2025](./seasons/27_vingt_septieme_saison/oiseaux_du_soir)
+
 [Sous le toit, écrit le 16.06.2025](./seasons/27_vingt_septieme_saison/sous_le_toit)
 
 [Soir rêveur, écrit le 15.06.2025](./seasons/27_vingt_septieme_saison/soir_reveur)

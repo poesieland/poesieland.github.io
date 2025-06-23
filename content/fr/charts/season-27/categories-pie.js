@@ -11,6 +11,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 1, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Eau douce', value: 1, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 2, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Faune', value: 1, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
   ];
