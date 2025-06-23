@@ -4,7 +4,7 @@ id = "demain_21"
 date = 2024-08-14
 weight = 34
 categories = ["Enfance et adolescence", "Temps"]
-tags = ["philosophie", "maman", "2024", "acrostiche", "octosyllabe"]
+tags = ["philosophie", "famille", "2024", "acrostiche", "octosyllabe"]
 info = """
 Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 

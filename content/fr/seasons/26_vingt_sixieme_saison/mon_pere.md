@@ -9,8 +9,9 @@ categories:
     - Portraits
 tags:
     - "2025"
-    - philosophie
     - pentasyllabe
+    - philosophie
+    - famille
 location: []
 info: ""
 pictures: []

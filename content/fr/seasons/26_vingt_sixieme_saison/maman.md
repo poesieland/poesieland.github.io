@@ -13,7 +13,7 @@ tags:
     - dissyllabe
     - métrique variable
     - pentasyllabe
-    - maman
+    - famille
 location: []
 info: "Métrique variable : 2, 5"
 pictures: []

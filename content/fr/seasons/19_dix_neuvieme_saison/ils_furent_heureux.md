@@ -4,7 +4,7 @@ id = "ils_furent_heureux_19"
 date = 2024-04-16
 weight = 44
 categories = [ "Portraits", "Romantisme" ]
-tags = [ "2024", "alexandrin", "amour", "philosophie", "maman" ]
+tags = [ "2024", "alexandrin", "amour", "philosophie", "famille" ]
 info = """
 [^1]: un surnom : michou.\r
 [^2]: un prénom : Angèle."""

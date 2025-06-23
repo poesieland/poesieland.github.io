@@ -4,7 +4,7 @@ id = "le_jardin_de_ma_grand_mere_19"
 date = 2024-01-21
 weight = 3
 categories = ["Enfance et adolescence", "Jardin et paysage"]
-tags = ["philosophie", "nature", "maman", "2024", "octosyllabe"]
+tags = ["philosophie", "nature", "famille", "2024", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

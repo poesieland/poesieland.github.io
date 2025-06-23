@@ -4,7 +4,7 @@ id = "tu_m_as_appris_6"
 date = 1998-05-12
 weight = 9
 categories = [ "Apprentissage", "Portraits" ]
-tags = [ "1998", "maman", "octosyllabe", "philosophie", "refrain" ]
+tags = [ "1998", "famille", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

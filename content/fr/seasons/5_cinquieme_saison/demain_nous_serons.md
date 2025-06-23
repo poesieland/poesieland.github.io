@@ -3,15 +3,14 @@ title = "Demain nous serons"
 id = "demain_nous_serons_5"
 date = 1997-11-21
 weight = 23
-categories = ["Temps", "Apprentissage"]
-tags = ["philosophie", "1997", "acrostiche", "alexandrin"]
+categories = [ "Temps", "Apprentissage" ]
+tags = [ "1997", "acrostiche", "alexandrin", "philosophie", "famille" ]
 info = """
 Dédié à mon neveu Louis.
 
 Les poèmes de ce mini-thème glissant vers la vieillesse :
 
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
-
 acrostiche = "Demain nous serons"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

@@ -4,7 +4,7 @@ id = "mere_et_fille_19"
 date = 2024-04-22
 weight = 48
 categories = ["Amitié"]
-tags = ["amour", "maman", "2024", "hexasyllabe"]
+tags = ["amour", "famille", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
