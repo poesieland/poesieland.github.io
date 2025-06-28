@@ -4,14 +4,15 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Oiseaux du soir, écrit le 17.06.2025](./seasons/27_vingt_septieme_saison/oiseaux_du_soir)
+[21 juin, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/21_juin)
 
-[Sous le toit, écrit le 16.06.2025](./seasons/27_vingt_septieme_saison/sous_le_toit)
+[Trèfle, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/trefle)
 
-[Soir rêveur, écrit le 15.06.2025](./seasons/27_vingt_septieme_saison/soir_reveur)
+[Le soir est doux, écrit le 20.06.2025](./seasons/27_vingt_septieme_saison/le_soir_est_doux)
 
-[Un jour au désert, écrit le 14.06.2025](./seasons/27_vingt_septieme_saison/un_jour_au_desert)
+[Liberté, écrit le 19.06.2025](./seasons/27_vingt_septieme_saison/liberte)
 
-[Mauvaise pioche, écrit le 13.06.2025](./seasons/27_vingt_septieme_saison/mauvaise_pioche)
+[Les petits vieux, écrit le 18.06.2025](./seasons/27_vingt_septieme_saison/les_petits_vieux)
 
-[Dans la brise, écrit le 11.06.2025](./seasons/27_vingt_septieme_saison/dans_la_brise)
+[Le grand-père, écrit le 17.06.2025](./seasons/27_vingt_septieme_saison/le_grand_pere)
+

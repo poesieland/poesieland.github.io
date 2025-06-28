@@ -15,6 +15,7 @@ Quelques poèmes liés aux solstices :
 **d'été :**
 - [Soleil voilé - écrit le 13.06.2024](../seasons/20_vingtieme_saison/soleil_voile)
 - [Peine - écrit le 20.06.2024](../seasons/20_vingtieme_saison/peine)
+- [21 juin - écrit le 21.06.2025](../seasons/27_vingt_septieme_saison/21_juin)
 
 **d'hiver :**
 - [Présent simple - écrit le 17.12.2023](../seasons/18_dix_huitieme_saison/present_simple)
