@@ -4,15 +4,10 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[21 juin, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/21_juin)
+[Eté rêveur, écrit le 24.06.2025](./seasons/27_vingt_septieme_saison/ete_reveur)
 
-[Trèfle, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/trefle)
+[Vent d'été, écrit le 23.06.2025](./seasons/27_vingt_septieme_saison/vent_d_ete)
 
-[Le soir est doux, écrit le 20.06.2025](./seasons/27_vingt_septieme_saison/le_soir_est_doux)
+[Concours de danse, écrit le 22.06.2025](./seasons/27_vingt_septieme_saison/concours_de_danse)
 
-[Liberté, écrit le 19.06.2025](./seasons/27_vingt_septieme_saison/liberte)
-
-[Les petits vieux, écrit le 18.06.2025](./seasons/27_vingt_septieme_saison/les_petits_vieux)
-
-[Le grand-père, écrit le 17.06.2025](./seasons/27_vingt_septieme_saison/le_grand_pere)
-
+[Les mots libres, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/les_mots_libres)
