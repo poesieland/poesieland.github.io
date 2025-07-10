@@ -33,7 +33,7 @@ dateFormat = ':date_full'
 # Shows a checkmark for visited pages on the menu
 showVisitedLinks = true
 # Disable search function. It will hide search bar
-disableSearch = false
+search.disable = false
 # Disable search in hidden pages, otherwise they will be shown in search box
 disableSearchHiddenPages = false
 # Disables hidden pages from showing up in the sitemap and on Google (et all), otherwise they may be indexed by search engines
@@ -60,8 +60,8 @@ disableBreadcrumb = false
 disableRootBreadcrumb = true
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
-# If set to true, load the MathJax module on every page regardless if a MathJax shortcode is present
-math = false
+# MathJax global disable
+math.disable = true
 # Specifies the remote location of the MathJax js
 customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 # Initialization parameter for MathJax, see MathJax documentation
