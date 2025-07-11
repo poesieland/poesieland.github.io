@@ -2,7 +2,7 @@
 weight: 19
 title: Les mots libres
 id: les_mots_libres_27
-date: 2025-06-20
+date: 2025-06-21
 verseLength: 4
 divider: ""
 categories:

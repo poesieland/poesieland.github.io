@@ -2,7 +2,7 @@
 weight: 22
 title: Eté rêveur
 id: ete_reveur_27
-date: 2025-06-23
+date: 2025-06-24
 verseLength: 4
 divider: ""
 categories:

@@ -4,10 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
-[Eté rêveur, écrit le 24.06.2025](./seasons/27_vingt_septieme_saison/ete_reveur)
+[Don de soi, écrit le 25.06.2025](./seasons/27_vingt_septieme_saison/don_de_soi)
 
-[Vent d'été, écrit le 23.06.2025](./seasons/27_vingt_septieme_saison/vent_d_ete)
+[Festival, écrit le 25.06.2025](./seasons/27_vingt_septieme_saison/festival)
 
-[Concours de danse, écrit le 22.06.2025](./seasons/27_vingt_septieme_saison/concours_de_danse)
-
-[Les mots libres, écrit le 21.06.2025](./seasons/27_vingt_septieme_saison/les_mots_libres)
+[La loco à vapeur, écrit le 24.06.2025](./seasons/27_vingt_septieme_saison/la_loco_a_vapeur)

@@ -1,15 +1,15 @@
 ---
-weight: 13
-title: Soir parfumé
-id: soir_parfume_26
-date: 2025-04-27
+weight: 24
+title: Festival
+id: festival_27
+date: 2025-06-25
 verseLength: 3
 divider: ""
 categories:
-    - Crépuscule
+    - Eté
 tags:
     - "2025"
-    - ombres et lumières
+    - saisons
     - trisyllabe
 location: []
 info: |-
@@ -21,31 +21,40 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
-Estival,
+Estival
 
-Florilège,
+Affabule
 
-Festival,
+Festival
 
-Privilège !
-
- \
-Sur ma peau
-
-Le soir rose
-
-D'un pipeau
-
-Crée osmose.
+Dans sa bulle.
 
  \
-Et sans fin
+Terminé
 
-Soir m'inspire,
+Temps scolaire,
 
-Doux parfum
+Ranimé
 
-Dans sa spire.
+Ciel solaire.
+
+ \
+On fera
+
+Tôt la fête,
+
+Tout sera
+
+Gai, qui pète !
+
+ \
+Viens, festif,
+
+Fol t'aspire
+
+L'été vif
+
+Dans sa spire !
 
 {{% notice style="primary" %}}
 Les poèmes qui reprennent _Estival_ :

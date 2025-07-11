@@ -2,7 +2,7 @@
 weight: 20
 title: Concours de danse
 id: concours_de_danse_27
-date: 2025-06-21
+date: 2025-06-22
 verseLength: 11
 divider: ""
 categories:

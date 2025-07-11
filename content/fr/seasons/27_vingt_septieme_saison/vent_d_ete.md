@@ -2,7 +2,7 @@
 weight: 21
 title: Vent d'été
 id: vent_d_ete_27
-date: 2025-06-22
+date: 2025-06-23
 verseLength: 3
 divider: ""
 categories:

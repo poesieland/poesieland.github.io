@@ -14,7 +14,9 @@ tags:
     - philosophie
     - trisyllabe
 location: []
-info: ""
+info: |-
+    Les poèmes qui reprennent _Estival_ :
+    {{% include "../../includes/estival" hidefirstheading %}}
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -48,5 +50,6 @@ S'inspirer,
 Je me grise !
 
 {{% notice style="primary" %}}
-Sur le même ton que [Soir parfumé](../26_vingt_sixieme_saison/soir_parfume).
+Les poèmes qui reprennent _Estival_ :
+{{% include "../../includes/estival" hidefirstheading %}}
 {{% /notice %}}
