@@ -30,7 +30,7 @@ Tes rires jettent en pâture
  \
 Et si sarabande s'éteint
 
-Mugit le vent sa capitaine
+Mugit le vent sans capitaine
 
 Puis quand la couleur a déteint
 
