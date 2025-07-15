@@ -1,5 +1,6 @@
 {
   "$schema": "https://frontmatter.codes/frontmatter.schema.json",
+  "frontMatter.global.timezone": "Europe/Brussels",
   "frontMatter.taxonomy.customTaxonomy": [
     {
       "id": "locationTaxonomy",
@@ -28,9 +29,11 @@
           "name": "weight",
           "type": "number",
           "required": true,
-          "min": 1,
-          "max": 50,
-          "step": 1
+          "numberOptions": {
+            "min": 1,
+            "max": 50,
+            "step": 1
+          }
         },
         {
           "title": "Poem title",
@@ -58,9 +61,11 @@
           "name": "verseLength",
           "type": "number",
           "required": false,
-          "min": -1,
-          "max": 14,
-          "step": 1,
+          "numberOptions": {
+            "min": -1,
+            "max": 14,
+            "step": 1
+          },
           "description": "Add metric name(s) to TAGS. When variable: put -1 here, add 'métrique variable' to TAGS, and add 'Métrique variable : ' + comma-separated values in info. Repeat info in notice."
         },
         {
@@ -574,7 +579,8 @@
     {
       "title": "18_dix_huitieme_saison",
       "path": "[[workspace]]/content/fr/seasons/18_dix_huitieme_saison"
-    },    {
+    },
+    {
       "title": "17_dix_septieme_saison",
       "path": "[[workspace]]/content/fr/seasons/17_dix_septieme_saison"
     },
@@ -585,11 +591,11 @@
     {
       "title": "15_quinzieme_saison",
       "path": "[[workspace]]/content/fr/seasons/15_quinzieme_saison"
-    },    
+    },
     {
       "title": "14_quatorzieme_saison",
       "path": "[[workspace]]/content/fr/seasons/14_quatorzieme_saison"
-    },    
+    },
     {
       "title": "13_treizieme_saison",
       "path": "[[workspace]]/content/fr/seasons/13_treizieme_saison"
@@ -597,19 +603,19 @@
     {
       "title": "12_douzieme_saison",
       "path": "[[workspace]]/content/fr/seasons/12_douzieme_saison"
-    },  
+    },
     {
       "title": "11_onzieme_saison",
       "path": "[[workspace]]/content/fr/seasons/11_onzieme_saison"
-    },    
+    },
     {
       "title": "10_dixieme_saison",
       "path": "[[workspace]]/content/fr/seasons/10_dixieme_saison"
-    },  
+    },
     {
       "title": "9_neuvieme_saison",
       "path": "[[workspace]]/content/fr/seasons/9_neuvieme_saison"
-    },    
+    },
     {
       "title": "8_huitieme_saison",
       "path": "[[workspace]]/content/fr/seasons/8_huitieme_saison"
