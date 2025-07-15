@@ -12,7 +12,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '18', value: 10, color: 'rgb(171, 235, 198)' },
     { label: '20', value: 102, color: 'rgb(249, 231, 159)' },
     { label: '22', value: 2, color: 'rgb(250, 215, 160)' },
-    { label: '24', value: 18, color: 'rgb(237, 187, 153)' },
+    { label: '24', value: 19, color: 'rgb(237, 187, 153)' },
     { label: '26', value: 1, color: 'rgb(247, 249, 249)' },
     { label: '28', value: 5, color: 'rgb(204, 209, 209)' },
   ];
