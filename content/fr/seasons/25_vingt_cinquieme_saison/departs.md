@@ -5,7 +5,9 @@ date = 2025-03-07
 weight = 13
 categories = ["Angoisse", "Temps"]
 tags = ["philosophie", "2025", "ennéasyllabe"]
-info = "Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales)"
+info = """
+Les poèmes qui commencent par ces deux premiers vers ou une variation...
+{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}"""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,5 +39,6 @@ Ont brûlé, calligrammes, arts, temps
 Revenu d'un monde qui s'altère.
 
 {{% notice style="primary" %}}
-Reprise enrichie des deux premiers vers d'un [poème de la quatrième saison](../4_quatrieme_saison/matinales).
+Les poèmes qui commencent par ces deux premiers vers ou une variation...
+{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 {{% /notice %}}

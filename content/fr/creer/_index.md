@@ -34,9 +34,9 @@ Je suis tombée sur un site [très détaillé et agréable à lire sur la versif
 
 Plus tard, sous l'impulsion d'une professeur de français poète est venu l'intérêt de l'acrostiche, message légèrement caché insistant sur le sens du poème. Bizarrement je constate qu'imposer la première lettre de chaque vers libère paradoxalement le rythme de la phrase, la rime n'est plus toujours une pause de lecture.
 
-[Vers mes acrostiches](/tags/acrostiche)
+[Vers mes acrostiches](../tags/acrostiche)
 
-[Vers mes acrostiches "doubles"](/tags/doubleacrostiche)
+[Vers mes acrostiches "doubles"](../tags/doubleacrostiche)
 
 Nous nous sommes également amusées à écrire des poèmes où les jeux de mots confinent à l'abstraction. A l'oreille, hormis les espaces et intonations, impossible de savoir quels mots précis constituent un vers de certains poèmes. [Mon poème le plus "extrêmiste"](../seasons/16_seizieme_saison/variations/). Cependant, nous n'avions pas le talent de celles et ceux qui ont su écrire des [holorimes](https://fr.wikipedia.org/wiki/Vers_holorimes).
 
@@ -44,9 +44,9 @@ Les formes classiques telles que le sonnet ou le pantoun me plaisent également,
 
 A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable Baudelaire. J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés, mais ce qui a été écrit restera comme il a été créé.
 
-[Vers mes sonnets](/tags/sonnet)
+[Vers mes sonnets](../tags/sonnet)
 
-[Vers mes pantouns](/tags/pantoun)
+[Vers mes pantouns](../tags/pantoun)
 
 Enfin, j'aime comparer le poète à un joueur d'échec, toujours un coup d'avance pour la prochaine rime, à mi-chemin entre la préparation et l'improvisation, c'est très agréable et cela permet de travailler et redécouvrir son vocabulaire. Plus on pratique une langue plus elle devient chère.
 

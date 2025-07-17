@@ -7,7 +7,7 @@ title = "Aube"
 
 Ce moment magique où la nuit se change en jour.
 
-Lire aussi les poèmes de la catégorie [Crépuscule](/categories/crepuscule).
+Lire aussi les poèmes de la catégorie [Crépuscule](../crépuscule/).
 
 {{< chartjs id="poemDay-aubeRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-aube-radar.js" />}}
 

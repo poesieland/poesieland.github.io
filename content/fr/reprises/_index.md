@@ -42,7 +42,6 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 
 **A la vingt-cinquième saison**
 - Depuis la cinquième saison : ["Si j'ai du sable au fond du coeur"](../seasons/25_vingt_cinquieme_saison/grain_a_grain)
-- Depuis la quatrième saison : ["Quand un avion trace / un trait de mille feux"](../seasons/25_vingt_cinquieme_saison/departs)
 
 **A la vingt-sixième saison**
 - Depuis la douzième saison : ["Va, quand (vers) le silence"](../seasons/26_vingt_sixieme_saison/va_dans_le_soir)

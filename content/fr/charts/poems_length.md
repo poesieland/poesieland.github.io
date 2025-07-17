@@ -7,7 +7,7 @@ weight = 3
 
 12 ou 16 vers sont les longueurs les plus communes, et représentent respectivement presque la moitié, et un quart, des poèmes.
 
-Les [sonnets](/tags/sonnet) comptent 14 vers, mais tous les poèmes de 14 vers ne sont pas des sonnets.
+Les [sonnets](../tags/sonnet/) comptent 14 vers, mais tous les poèmes de 14 vers ne sont pas des sonnets.
 
 Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
 

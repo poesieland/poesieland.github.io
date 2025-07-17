@@ -5,7 +5,7 @@ date = 1998-05-07
 weight = 2
 categories = ["Apprentissage"]
 tags = ["philosophie", "les mots", "1998", "tétrasyllabe"]
-info = "[Les poèmes du mini-thème \"les mots\"](/tags/les-mots)"
+info = "[Les poèmes du mini-thème \"les mots\"](../../tags/les-mots)"
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -55,5 +55,5 @@ On n'y peut voir
 Qu'en prenant l'âge...
 
 {{% notice style="primary" %}}
-[Les poèmes du mini-thème "les mots"](/tags/les-mots).
+[Les poèmes du mini-thème "les mots"](../../tags/les-mots).
 {{% /notice %}}

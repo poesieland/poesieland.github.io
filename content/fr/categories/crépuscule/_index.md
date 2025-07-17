@@ -6,7 +6,7 @@ title = "Crépuscule"
 <!-- FM:Snippet:End -->
 Ce moment magique où le jour se change en nuit.
 
-Lire aussi les poèmes de la catégorie [Aube](/categories/aube).
+Lire aussi les poèmes de la catégorie [Aube](../aube/).
 
 {{< chartjs id="poemDay-crepusculeRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-crepuscule-radar.js" />}}
 

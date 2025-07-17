@@ -8,6 +8,6 @@ Il y eut toute une période où l'idée poétique me venait en premier par l'acr
 
 Bizarrement je constate qu'imposer la première lettre de chaque vers libère paradoxalement le rythme de la phrase, la rime n'est plus toujours une pause de lecture.
 
-Lire aussi [mes acrostiches "doubles"](/tags/doubleacrostiche).
+Lire aussi [mes acrostiches "doubles"](../doubleacrostiche).
 
 {{< chartjs id="poems-acrosticheBar" width="90%" jsFile="../../charts/taxonomy/poems-acrostiche-bar.js" />}}

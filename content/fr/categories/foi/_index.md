@@ -10,7 +10,7 @@ Elle se distingue de l'espoir par son irrationalité.
 
 Fin 2024 il s'est produit une chose étonnante, certains poèmes où j'exprime ma foi, je les trouve parfaits pour être accompagnés à l'orgue... chantés dans une église, par une chorale. Les phonèmes de ces poèmes sont soigneusement travaillés. Ils comportent souvent un refrain.
 
-[Poèmes de la catégorie espoir](/categories/espoir)
+[Poèmes de la catégorie espoir](../espoir/)
 
 {{< chartjs id="poemDay-foiRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-foi-radar.js" />}}
 
