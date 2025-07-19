@@ -7,3 +7,5 @@ Long de cinq syllabes, le [pentasyllabe](https://fr.wikipedia.org/wiki/Pentasyll
 Je l'ai étrenné en avril [1997](../1997) dans [Mélodie](../../seasons/3_troisieme_saison/melodie).
 
 Il est associé à de nombreuses catégories, un peu plus [la musique et le chant](../../categories/musique-et-chant) et le [temps](../../categories/temps).
+
+{{< chartjs id="poems-metric5Bar" width="90%" jsFile="../../charts/taxonomy/poems-metric-5-bar.js" />}}
