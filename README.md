@@ -16,6 +16,8 @@ I made some styling customization: I added a border around article content, as w
 
 I also use a great javascript charting tool: Chart.js. The theme indeed has nice integration capabilities of custom scripts (umd modules).
 
+Side note: FrontMatter VS Code plugin needs the theme to be cloned else some settings files are missing, following [this instruction](https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart/index.html#use-as-a-git-submodule).
+
 This repository also uses two other repositories:
 
 - for specific content files and statistics data files generation: this website's back-office tools: [https://github.com/postb99/poesieland_back-office](https://github.com/postb99/poesieland_back-office)
