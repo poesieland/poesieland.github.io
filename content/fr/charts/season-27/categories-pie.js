@@ -4,7 +4,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amour platonique', value: 2, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(152, 151, 88, 1)' },
-    { label: 'Crépuscule', value: 3, color: 'rgba(179, 103, 0, 1)' },
+    { label: 'Crépuscule', value: 5, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 1, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 5, color: 'rgba(179, 51, 233, 1)' },
@@ -23,5 +23,5 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Automne', value: 1, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
-  addPieChart('season27Pie', [data], { plugins: { title: { display: true, text: 'D\'un rêve à l\'autre (27) juin à juin 2025' } } });
+  addPieChart('season27Pie', [data], { plugins: { title: { display: true, text: 'D\'un rêve à l\'autre (27) juin à juillet 2025' } } });
 })();
