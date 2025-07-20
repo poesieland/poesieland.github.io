@@ -4,7 +4,7 @@ title = "Lovecat"
 
 Rejoignez la [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr) 😸
 
-Quelques photos et les poèmes consacrés à nos chers petits maîtres 😽
+Quelques photos avant les poèmes consacrés à nos chers petits maîtres 😽
 
 {{< figure src="/images/paire_de_chats.jpg" title="Mes chats, juillet 2018" >}}
 
