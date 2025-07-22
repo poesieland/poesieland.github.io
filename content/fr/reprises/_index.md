@@ -53,3 +53,4 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 - Depuis la deuxième saison : ["[je me] brûle à [ma] braise"](../seasons/27_vingt_septieme_saison/si)
 - Depuis la cinquième saison : ["cueillir la nuit violine"](../seasons/27_vingt_septieme_saison/la_nuit_violine)
 - Depuis la cinquième saison : ["Mon coeur est libre de t'aimer"](../seasons/27_vingt_septieme_saison/reve_d_amour)
+- Depuis la vingtième saison : ["Coupe et je repousse / Brûle et je verdis"](../seasons/27_vingt_septieme_saison/la_revolte_de_gaia)

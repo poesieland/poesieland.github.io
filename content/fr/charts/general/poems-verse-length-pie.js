@@ -2,11 +2,11 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: '1 syllabe', value: 2, color: 'rgb(247, 249, 249)' },
-    { label: '2 syllabes', value: 27, color: 'rgb(230, 176, 170)' },
+    { label: '2 syllabes', value: 28, color: 'rgb(230, 176, 170)' },
     { label: '3 syllabes', value: 34, color: 'rgb(245, 183, 177)' },
-    { label: '4 syllabes', value: 89, color: 'rgb(215, 189, 226)' },
-    { label: '5 syllabes', value: 63, color: 'rgb(169, 204, 227)' },
-    { label: '6 syllabes', value: 338, color: 'rgb(174, 214, 241)' },
+    { label: '4 syllabes', value: 91, color: 'rgb(215, 189, 226)' },
+    { label: '5 syllabes', value: 64, color: 'rgb(169, 204, 227)' },
+    { label: '6 syllabes', value: 339, color: 'rgb(174, 214, 241)' },
     { label: '7 syllabes', value: 80, color: 'rgb(163, 228, 215)' },
     { label: '8 syllabes', value: 446, color: 'rgb(162, 217, 206)' },
     { label: '9 syllabes', value: 14, color: 'rgb(171, 235, 198)' },

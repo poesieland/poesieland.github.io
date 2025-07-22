@@ -3,13 +3,14 @@ import { addBarChart } from '../add-chart.js'
   const data = [
     { label: '2', value: 1 },
     { label: '3', value: 4 },
-    { label: '4', value: 6 },
-    { label: '5', value: 1 },
+    { label: '4', value: 8 },
+    { label: '5', value: 2 },
     { label: '6', value: 13 },
     { label: '8', value: 4 },
     { label: '10', value: 1 },
     { label: '11', value: 1 },
     { label: '1, 6', value: 1, color: 'rgba(72, 149, 239, 1)' },
+    { label: '2, 6', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '3, 2', value: 2, color: 'rgba(72, 149, 239, 1)' },
     { label: '6, 3', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];
