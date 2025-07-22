@@ -6,14 +6,6 @@ En poésie comme en chanson, le refrain ou la répétition relève de l'obsessio
 
 Les catégories où on trouve le plus souvent des refrains :
 
-- [l'espoir](../../categories/espoir)
-- [le temps](../../categories/temps)
-- [l'être](../../categories/etre)
-- [la foi](../../categories/foi)
-- [le ciel](../../categories/ciel)
-- [l'automne](../../categories/automne)
-- [l'apprentissage](../../categories/apprentissage)    
-- [l'amitié](../../categories/amitié)   
-- [l'hiver](../../categories/hiver)
+{{% include "../../includes/refrain_categories.md" hidefirstheading %}}
 
 {{< chartjs id="poems-refrainBar" width="90%" jsFile="../../charts/taxonomy/poems-refrain-bar.js" />}}
