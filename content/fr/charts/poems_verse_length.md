@@ -30,6 +30,8 @@ De plus en plus de poèmes utilisent plusieurs métriques car cela donne un effe
 
 ## Au fil du temps
 
+On constate l'influence de l'utilisation de plusieurs métriques dans un poème.
+
 {{< chartjs id="poemsVerseLengthLine" width="100%" jsFile="../general/poems-verseLength-line.js" />}}
 
 ## Données croisées : métrique, longueur du poème
