@@ -6,6 +6,10 @@ Au rayon des phénomènes, il existe le [monosyllabe](https://fr.wikipedia.org/w
 
 Je l'ai enfin étrenné en mars [2025](../2025) dans [Nuit noire](../../seasons/25_vingt_cinquieme_saison/nuit_noire).
 
+Les catégories les plus représentées :
+
+{{% include "../../includes/metric-1_categories.md" hidefirstheading %}}
+
 {{< chartjs id="poems-metric1Bar" width="90%" jsFile="../../charts/taxonomy/poems-metric-1-bar.js" />}}
 
 

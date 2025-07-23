@@ -6,6 +6,10 @@ Long de huit syllabes, l'[octosyllabe](https://fr.wikipedia.org/wiki/Octosyllabe
 
 Je l'ai utilisé dès mes débuts, c'est mon préféré, celui qui me vient le plus, pour un tiers de mes poèmes.
 
+Les catégories les plus représentées :
+
+{{% include "../../includes/metric-8_categories.md" hidefirstheading %}}
+
 {{< chartjs id="poems-metric8Bar" width="90%" jsFile="../../charts/taxonomy/poems-metric-8-bar.js" />}}
 
 

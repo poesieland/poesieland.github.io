@@ -6,4 +6,8 @@ Long de dix syllabes, le [décasyllabe](https://fr.wikipedia.org/wiki/D%C3%A9cas
 
 Je l'ai étrenné en mars [1998](../1998) dans [Quand l'heure sonne](../../seasons/5_cinquieme_saison/quand_l_heure_sonne). Un peu perdu de vue aussi à cause du travail supplémentaire causé par la césure.
 
+Les catégories les plus représentées :
+
+{{% include "../../includes/metric-10_categories.md" hidefirstheading %}}
+
 {{< chartjs id="poems-metric10Bar" width="90%" jsFile="../../charts/taxonomy/poems-metric-10-bar.js" />}}
