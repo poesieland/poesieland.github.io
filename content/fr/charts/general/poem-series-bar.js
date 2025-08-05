@@ -2,7 +2,7 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: '2j', value: 113, color: 'rgba(72, 149, 239, 1)' },
-    { label: '3j', value: 42, color: 'rgba(72, 149, 239, 1)' },
+    { label: '3j', value: 43, color: 'rgba(72, 149, 239, 1)' },
     { label: '4j', value: 18, color: 'rgba(72, 149, 239, 1)' },
     { label: '5j', value: 8, color: 'rgba(72, 149, 239, 1)' },
     { label: '6j', value: 7, color: 'rgba(72, 149, 239, 1)' },

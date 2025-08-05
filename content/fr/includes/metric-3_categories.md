@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Temps](/categories/temps)
 - [Crépuscule](/categories/crépuscule)
 - [Eté](/categories/eté)
+- [Portraits](/categories/portraits)
 - [Espoir](/categories/espoir)
 - [Eau douce](/categories/eau-douce)
 - [Climat](/categories/climat)
-- [Angoisse](/categories/angoisse)

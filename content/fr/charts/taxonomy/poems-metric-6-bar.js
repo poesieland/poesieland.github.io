@@ -27,7 +27,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots respirent (24) 2024-25', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Coeur et âme (25) 2025', value: 12, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 15, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'D\'un rêve à l\'autre (27) 2025', value: 16, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'D\'un rêve à l\'autre (27) 2025', value: 19, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-metric6Bar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
