@@ -9,8 +9,10 @@ categories:
     - Ciel
 tags:
     - "2025"
-    - nature
+    - dissyllabe
     - métrique variable
+    - nature
+    - trisyllabe
 location: []
 info: "Métrique variable : 3, 2."
 pictures: []

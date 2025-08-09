@@ -15,6 +15,7 @@ tags:
     - nature
     - philosophie
     - tétrasyllabe
+    - métrique variable
 location: []
 info: "Métrique variable : 2, 4"
 pictures: []
