@@ -13,7 +13,8 @@ enableMissingTranslationPlaceholders = false
 titleCaseStyle = 'firstupper'
 
 [build]
-buildStats = false
+  [build.buildStats]
+    enable = false
 
 [params]
 # This controls whether submenus will be expanded (true), or collapsed (false) in the
@@ -123,6 +124,50 @@ minify = true
   border = false
   lightbox = false
   shadow = true
+
+[cache]
+  [caches.assets]
+    dir = ':resourceDir/_gen'
+    maxAge = -1 # NE JAMAIS expirer
+  [caches.getcsv]
+    dir = ':cacheDir/:project'
+    maxAge = "1h"
+  [caches.getjson]
+    dir = ':cacheDir/:project'
+    maxAge = "1h"
+  [caches.getresource]
+    dir = ':cacheDir/:project'
+    maxAge = -1 # NE JAMAIS expirer
+  [caches.images]
+    dir = ':resourceDir/_gen'
+    maxAge = -1 # NE JAMAIS expirer
+  [caches.misc]
+    dir = ':cacheDir/:project'
+    maxAge = -1 # NE JAMAIS expirer
+  [caches.modules]
+    dir = ':cacheDir/modules'
+    maxAge = -1 # NE JAMAIS expirer
+
+# Minification HTML/CSS/JS/JSON/SVG/XML
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJS = false
+  disableJSON = false
+  disableSVG = false
+  disableXML = false
+  minifyOutput = true
+
+[minify.tdewolff]
+  [minify.tdewolff.html]
+    keepWhitespace = false
+  [minify.tdewolff.css]
+    keepCSS2 = true
+    precision = 0
+  [minify.tdewolff.js]
+    keepVarNames = false
+    version = 2022
+    precision = 0
 
 [outputs]
 home = ["HTML"]
