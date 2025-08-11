@@ -172,7 +172,7 @@ minify = true
 [outputs]
 home = ["HTML"]
 section = ["HTML"]
-page = ["HTML", "PRINT"]
+page = ["HTML"]
 
 [Languages]
     [Languages.en]
