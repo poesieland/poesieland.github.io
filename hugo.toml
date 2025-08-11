@@ -61,8 +61,6 @@ disableBreadcrumb = false
 disableRootBreadcrumb = true
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
-# MathJax global disable
-math.disable = true
 # Specifies the remote location of the MathJax js
 customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
 # Initialization parameter for MathJax, see MathJax documentation
