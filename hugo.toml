@@ -4,7 +4,6 @@ title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
 theme = "hugo-theme-relearn"
-#paginate = 5
 defaultContentLanguage = 'fr'
 enableEmoji = true
 removePathAccents = true
@@ -168,9 +167,12 @@ minify = true
     precision = 0
 
 [outputs]
-home = ["HTML"]
-section = ["HTML"]
-page = ["HTML"]
+  home = ['html']
+  page = ['html']
+  # rss = ['rss']
+  section = ['html']
+  taxonomy = ['html']
+  term = ['html']
 
 [Languages]
     [Languages.en]
