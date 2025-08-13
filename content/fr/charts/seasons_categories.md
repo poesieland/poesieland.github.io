@@ -66,12 +66,12 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season25Pie" width="22vw" margin="20px" padding="0" jsFile="../season-25/categories-pie.js" inline=true text="Un peu plus d'un mois et demi, le printemps joyeusement"/>}}
+{{< chartjs id="season25Pie" width="22vw" margin="20px" padding="0" jsFile="../season-25/categories-pie.js" inline=true text="Un peu plus d'un mois et demi, encore un peu l'hiver, puis le printemps joyeusement"/>}}
 {{< chartjs id="season26Pie" width="22vw" margin="20px" padding="0" jsFile="../season-26/categories-pie.js" inline=true text="Presque deux mois, printemps et été"/>}}
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season27Pie" width="22vw" margin="20px" padding="0" jsFile="../season-27/categories-pie.js" inline=true text="En cours, l'été..."/>}}
+{{< chartjs id="season27Pie" width="22vw" margin="20px" padding="0" jsFile="../season-27/categories-pie.js" inline=true text="Presque deux mois, l'été, vers l'automne"/>}}
 <div style="display:flex;justify-content:space-around;">
   <div style="position:relative;width:22vw;padding:0;margin:20px;">
   </div>

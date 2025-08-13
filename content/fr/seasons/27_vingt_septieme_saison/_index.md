@@ -1,10 +1,10 @@
 +++
 title = "Vingt-septième Saison : D'un rêve à l'autre"
-summary = "Depuis juin 2025"
+summary = "Toujours autant de place pour la philosophie rêveuse. Une explosion de refrains. De juin à juillet 2025"
 weight = 27
 +++
 
-Depuis juin 2025
+Qui dit rêves dit portraits, être, temps, été, crépuscule... De juin à juillet 2025
 
 ---
 {{% children  %}}
