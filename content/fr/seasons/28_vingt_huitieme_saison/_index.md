@@ -1,7 +1,7 @@
 +++
 title = "Vingt-huitième Saison : Les mots sur le chemin"
-summary = "Plus tard"
+summary = "A partir de juillet 2025"
 weight = 28
 +++
 
-Plus tard...
+A partir de juillet 2025
