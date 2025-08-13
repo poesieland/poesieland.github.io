@@ -1,12 +1,9 @@
 +++
-title = "Estival + seconde rime en -ège - depuis la vingt-sixième saison"
+title = "Trisyllabe : Estival - depuis la vingt-sixième saison"
 +++
 
-_Estival_
+Trisyllabe... _Estival_
 
-_...ège_
-
- \
-Les poèmes qui commencent par ce vers et ont une seconde rime en -ège :
+Et souvent une seconde rime en -ège.
 
 {{% include "../../includes/estival" hidefirstheading %}}

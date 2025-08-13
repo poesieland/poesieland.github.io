@@ -28,6 +28,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Coeur et âme (25) 2025', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 6, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Les mots sur le chemin (28) 2025', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-metric12Bar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

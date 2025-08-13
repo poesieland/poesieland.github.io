@@ -1,9 +1,0 @@
-+++
-
-+++
-
- \
-
- {{% notice style="primary" %}}
-
-{{% /notice %}}

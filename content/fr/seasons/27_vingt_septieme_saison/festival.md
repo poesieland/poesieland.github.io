@@ -12,9 +12,7 @@ tags:
     - saisons
     - trisyllabe
 location: []
-info: |-
-    Les poèmes qui reprennent _Estival_ :
-    {{% include "../../includes/estival" hidefirstheading %}}
+info: '{{% include "../../includes/estival" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -57,6 +55,5 @@ L'été vif
 Dans sa spire !
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _Estival_ :
 {{% include "../../includes/estival" hidefirstheading %}}
 {{% /notice %}}

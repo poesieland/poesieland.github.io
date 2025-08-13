@@ -1,0 +1,10 @@
+{
+  "description": "Displays a prefilled notice with primary style set",
+  "body": [
+    "{{% notice style=\"primary\" %}}",
+    "{{% include \"../../includes/a_specific_listing\" hidefirstheading %}}",
+    "{{% /notice %}}"
+  ],
+  "fields": [
+  ]
+}

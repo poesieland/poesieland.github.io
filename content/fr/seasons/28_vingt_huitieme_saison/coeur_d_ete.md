@@ -1,18 +1,16 @@
 ---
-weight: 7
-title: Dans la brise
-id: dans_la_brise_27
-date: 2025-06-11
+weight: 1
+title: Coeur d'été
+id: coeur_d_ete_28
+date: 2025-07-25
 verseLength: 3
 divider: ""
 categories:
-    - Etre
-    - Mouvement
+    - Eté
 tags:
     - "2025"
-    - attitudes
-    - philosophie
     - trisyllabe
+    - saisons
 location: []
 info: '{{% include "../../includes/estival" hidefirstheading %}}'
 pictures: []
@@ -25,27 +23,27 @@ Estival
 
 Privilège,
 
-D'un aval
+Vers l'aval :
 
-Tout s'allège !
-
- \
-Quand le vent
-
-S'équilibre,
-
-Comme avant
-
-Je suis libre !
+Ombre et neige ?
 
  \
-Respirer
+Temps meilleurs,
 
-Dans la brise,
+Abondance,
 
-S'inspirer,
+Vers l'ailleurs
 
-Je me grise !
+Souple danse.
+
+ \
+Vif et bref
+
+L'été charme,
+
+C'est le chef,
+
+Bleus et parme.
 
 {{% notice style="primary" %}}
 {{% include "../../includes/estival" hidefirstheading %}}

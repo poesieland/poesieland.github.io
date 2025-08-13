@@ -12,9 +12,7 @@ tags:
     - ombres et lumières
     - trisyllabe
 location: []
-info: |-
-    Les poèmes qui reprennent _Estival_ :
-    {{% include "../../includes/estival" hidefirstheading %}}
+info: '{{% include "../../includes/estival" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -48,6 +46,5 @@ Doux parfum
 Dans sa spire.
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _Estival_ :
 {{% include "../../includes/estival" hidefirstheading %}}
 {{% /notice %}}

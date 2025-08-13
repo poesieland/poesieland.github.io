@@ -1,0 +1,10 @@
+{
+  "description": "Displays a prefilled notice with primary style set",
+  "body": [
+    "{{% notice style=\"primary\" %}}",
+    "Reprise du premier vers d'un [poème de la enième saison](../n_enième_saison/poem_title).",
+    "{{% /notice %}}"
+  ],
+  "fields": [
+  ]
+}
