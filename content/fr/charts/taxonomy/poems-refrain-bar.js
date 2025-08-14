@@ -6,7 +6,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Vivace (3) 1997', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Rêves (4) 1997', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Espaces de vie (5) 1997-98', value: 5, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Sur le chemin (6) 1998', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Sur le chemin (6) 1998', value: 4, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Croire (7) 1998', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Reflets perdus (8) 1998', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Souffles (9) 1998', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
@@ -28,7 +28,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Coeur et âme (25) 2025', value: 4, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 7, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 21, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Les mots sur le chemin (28) 2025', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Les mots sur le chemin (28) 2025', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-refrainBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

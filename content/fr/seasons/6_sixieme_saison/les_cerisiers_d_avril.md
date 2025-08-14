@@ -3,8 +3,8 @@ title = "Les cerisiers d'avril"
 id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34
-categories = ["Flore", "Romantisme", "les mois"]
-tags = ["nature", "amour", "1998", "octosyllabe"]
+categories = [ "Flore", "Romantisme" ]
+tags = [ "1998", "amour", "nature", "octosyllabe", "les mois" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
