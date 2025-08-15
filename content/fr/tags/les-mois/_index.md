@@ -19,6 +19,10 @@ Mais où [le soleil et le bonheur reviennent](../../seasons/5_cinquieme_saison/l
 
 - juin : [brûlant voleur](../../seasons/2_deuxieme_saison/le_parc), [trou de mémoire](../../seasons/4_quatrieme_saison/juin), [un soir qui m'a marquée](../../seasons/6_sixieme_saison/un_regard), [souriant](../../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre), [prince mais aussi noceur](../../seasons/26_vingt_sixieme_saison/juin), [le mois du jour le plus long](../../seasons/27_vingt_septieme_saison/21_juin).
 
+- juillet : [éternel](../../seasons/1_premiere_saison/l_enfance_doree), [mois d'observation des oiseaux](../../seasons/16_seizieme_saison/oiseaux_de_juillet), [implacable](../../seasons/18_dix_huitieme_saison/la_maison_de_famille), [des langueurs vers les vacances [...] comme un air fragile](../../seasons/21_vingt_et_unieme_saison/juillet_aout), [insouciant [...] bleu oisif](../../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre).
+
+- août : [fin des vacances](../../seasons/1_premiere_saison/amour_de_vacances), [au soleil qui carbonise](../../seasons/2_deuxieme_saison/septembre), [mois des nuits chaudes](../../seasons/15_quinzieme_saison/nuit_d_aout), [sauvage](../../seasons/21_vingt_et_unieme_saison/juillet_aout), [troublé](../../seasons/21_vingt_et_unieme_saison/l_automne_clown), [prologue (des jours courts)](../../seasons/21_vingt_et_unieme_saison/le_jour_decroit), [centrifuge](../../seasons/28_vingt_huitieme_saison/aout).
+
 [^1]: en 2024 avril fut le début du paroxysme de ma souffrance causée par une anomalie climatique qui a duré une très grande partie de cette année-là. [Vers les poèmes sur le climat](../../categories/climat).
 
 [^2]: aussi [dans cette reprise](../../seasons/20_vingtieme_saison/au_bois).
