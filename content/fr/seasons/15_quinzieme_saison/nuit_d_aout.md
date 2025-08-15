@@ -3,8 +3,14 @@ title = "Nuit d'août"
 id = "nuit_d_aout_15"
 date = 2001-08-26
 weight = 25
-categories = ["Eté", "Ville", "Nuit"]
-tags = ["saisons", "ombres et lumières", "2001", "octosyllabe"]
+categories = [ "Eté", "Ville", "Nuit" ]
+tags = [
+  "2001",
+  "octosyllabe",
+  "ombres et lumières",
+  "saisons",
+  "les mois"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

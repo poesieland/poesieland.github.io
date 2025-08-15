@@ -3,8 +3,8 @@ title = "Juillet-août"
 id = "juillet_aout_21"
 date = 2024-06-27
 weight = 2
-categories = ["Eté", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "2024", "alexandrin"]
+categories = [ "Eté", "Enfance et adolescence" ]
+tags = [ "2024", "alexandrin", "philosophie", "saisons", "les mois" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
