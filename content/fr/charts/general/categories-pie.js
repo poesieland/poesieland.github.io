@@ -4,7 +4,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amitié', value: 30, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 37, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 55, color: 'rgba(253, 108, 158, 1)' },
-    { label: 'Passion', value: 60, color: 'rgba(199, 44, 72, 1)' },
+    { label: 'Passion', value: 61, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 40, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 37, color: 'rgba(253, 241, 184, 1)' },
     { label: 'Ville', value: 25, color: 'rgba(152, 151, 88, 1)' },
@@ -33,7 +33,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Toucher', value: 16, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 14, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 50, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Eté', value: 45, color: 'rgba(0, 86, 27, 1)' },
+    { label: 'Eté', value: 46, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 103, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 62, color: 'rgba(24, 57, 30, 1)' },
   ];
