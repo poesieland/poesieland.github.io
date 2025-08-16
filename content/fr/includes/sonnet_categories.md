@@ -3,8 +3,8 @@ title = "Associations privilégiées"
 +++
 - [Etre](/categories/etre)
 - [Angoisse](/categories/angoisse)
-- [Musique et chant](/categories/musique-et-chant)
 - [Portraits](/categories/portraits)
+- [Musique et chant](/categories/musique-et-chant)
 - [Révolte](/categories/révolte)
 - [Hiver](/categories/hiver)
 - [Amour platonique](/categories/amour-platonique)

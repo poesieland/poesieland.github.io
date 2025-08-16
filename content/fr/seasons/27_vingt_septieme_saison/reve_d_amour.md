@@ -13,7 +13,7 @@ tags:
     - amour
     - octosyllabe
 location: []
-info: Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/mon_cour_est_libre).
+info: '{{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: Mon coeur
@@ -38,7 +38,7 @@ Un rire... Entends-tu cristallin
 Rêve d'amour venu sans arme.
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/mon_cour_est_libre).
+{{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}
 
 Acrostiche : Mon coeur.
 {{% /notice %}}
