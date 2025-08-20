@@ -25,9 +25,10 @@ Quelques poèmes liés aux solstices :
 - [Renouveau - écrit le 22.12.2024](../seasons/23_vingt_troisieme_saison/renouveau)
 
 **sans oublier l'équinoxe** (d'automne seulement, celui de printemps n'étant pas aussi marquant) :
+
+- [Vers l'ombre - écrit le 08.08.2025](../seasons/28_vingt_huitieme_saison/vers_l_ombre)
 - [Langueur d'automne - écrit le 06.09.2024](../seasons/22_vingt_deuxieme_saison/langueur_d_automne)
 - [Demain l'automne - écrit le 22.09.1998](../seasons/9_neuvieme_saison/demain_l_automne)
 - [Voici l'automne - écrit le 22.09.2024](../seasons/22_vingt_deuxieme_saison/voici_l_automne)
 - [Toute saison - écrit le 23.09.2024](../seasons/22_vingt_deuxieme_saison/toute_saison)
 - [Juin, juillet, octobre - écrit le 30.09.2024](../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre)
-

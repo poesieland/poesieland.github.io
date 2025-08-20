@@ -8,7 +8,6 @@ tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
 info = """
 "Tu es beau" en italien.
 
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
 
 acrostiche = "Tu sei bello"
@@ -39,8 +38,7 @@ Ombre, le ciel, tu me souris.
 {{% notice style="primary" %}}
 "Tu es beau" en italien.
 
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-
 Acrostiche : Tu sei bello.
+
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 {{% /notice %}}
