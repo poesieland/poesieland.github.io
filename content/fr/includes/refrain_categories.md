@@ -2,12 +2,12 @@
 title = "Associations privilégiées"
 +++
 - [Temps](/categories/temps)
-- [Espoir](/categories/espoir)
 - [Etre](/categories/etre)
-- [Automne](/categories/automne)
-- [Romantisme](/categories/romantisme)
-- [Foi](/categories/foi)
-- [Eté](/categories/eté)
+- [Espoir](/categories/espoir)
 - [Hiver](/categories/hiver)
+- [Romantisme](/categories/romantisme)
+- [Automne](/categories/automne)
 - [Ciel](/categories/ciel)
-- [Flore](/categories/flore)
+- [Foi](/categories/foi)
+- [Climat](/categories/climat)
+- [Eté](/categories/eté)
