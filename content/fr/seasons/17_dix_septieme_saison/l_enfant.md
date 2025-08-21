@@ -14,9 +14,9 @@ C'est toi l'étranger,
 
 C'est moi la native
 
-Avant d'embarquer
+Avant qu'inchangé
 
-Au train comme rive.
+Mon train gagne rive.
 
  \
 C'est toi le présent,

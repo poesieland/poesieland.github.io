@@ -54,3 +54,6 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 - Depuis la cinquième saison : ["cueillir la nuit violine"](../seasons/27_vingt_septieme_saison/la_nuit_violine)
 - Depuis la vingtième saison : ["Coupe et je repousse / Brûle et je verdis"](../seasons/27_vingt_septieme_saison/la_revolte_de_gaia)
 - Depuis la vingtième saison : ["Encore une averse"](../seasons/27_vingt_septieme_saison/l_averse)
+
+**A la vingt-huitième saison**
+- Depuis la neuvième saison : ["A l'âge où le bonheur / Est un oiseau sans..."](../seasons/28_vingt_huitieme_saison/l_age_sourit)
