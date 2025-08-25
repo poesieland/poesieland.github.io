@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Ciel](/categories/ciel)
 - [Printemps](/categories/printemps)
 - [Eau douce](/categories/eau-douce)
+- [Faune](/categories/faune)
 - [Lune](/categories/lune)
 - [Révolte](/categories/révolte)
-- [Climat](/categories/climat)

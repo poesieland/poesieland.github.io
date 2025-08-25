@@ -3,8 +3,8 @@ title = "Déraisons"
 id = "deraisons_6"
 date = 1998-03-14
 weight = 16
-categories = ["Révolte"]
-tags = ["philosophie", "1998", "hexasyllabe"]
+categories = [ "Révolte" ]
+tags = [ "1998", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

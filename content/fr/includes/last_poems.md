@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Chat alors, écrit le 11.08.2025](./seasons/28_vingt_huitieme_saison/chat_alors)
+
 [Les adieux, écrit le 10.08.2025](./seasons/28_vingt_huitieme_saison/les_adieux)
 
 [Soir mage, écrit le 10.08.2025](./seasons/28_vingt_huitieme_saison/soir_mage)
@@ -13,5 +15,3 @@ title = "Derniers ajouts"
 [Soleil roi, écrit le 10.08.2025](./seasons/28_vingt_huitieme_saison/soleil_roi)
 
 [L'âge sourit, écrit le 09.08.2025](./seasons/28_vingt_huitieme_saison/l_age_sourit)
-
-[Les mots berceaux, écrit le 09.08.2025](./seasons/28_vingt_huitieme_saison/les_mots_berceaux)

@@ -3,11 +3,18 @@ title = "Qu'un seul désir me berce"
 id = "qu_un_seul_desir_me_berce_6"
 date = 1998-03-30
 weight = 32
-categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
+categories = [ "Etre" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "octosyllabe",
+  "philosophie",
+  "l'air ou la chanson"
+]
 acrostiche = "Qu'un seul désir me berce"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "\"Qu'un seul désir, un seul espoir...\" (opéra Carmen)."
 +++
 
 Qu'un seul désir me berce encor,
@@ -55,5 +62,7 @@ Caresse en paume de ta main
 Elle est parole retenue...
 
 {{% notice style="primary" %}}
+"Qu'un seul désir, un seul espoir..." (opéra Carmen).
+
 Acrostiche : Qu'un seul désir me berce.
 {{% /notice %}}

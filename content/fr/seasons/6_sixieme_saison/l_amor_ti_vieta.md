@@ -3,8 +3,15 @@ title = "L'amor ti vieta"
 id = "l_amor_ti_vieta_6"
 date = 1998-03-29
 weight = 31
-categories = ["Mouvement", "Romantisme"]
-tags = ["attitudes", "amour", "1998", "acrostiche", "alexandrin"]
+categories = [ "Mouvement", "Romantisme" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "alexandrin",
+  "amour",
+  "attitudes",
+  "l'air ou la chanson"
+]
 info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
 verseLength = 12

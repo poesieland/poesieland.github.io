@@ -14,6 +14,7 @@ tags:
     - philosophie
     - refrain
     - tétrasyllabe
+    - l'air ou la chanson
 location: []
 info: En pensant encore à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson)).
 pictures: []
