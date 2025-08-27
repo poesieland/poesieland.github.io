@@ -22,6 +22,7 @@ Certains poèmes évoquent plus d'une saison...
 - [L'été glacial (20e saison)](../../seasons/20_vingtieme_saison/l_ete_glacial)
 - [Destruction (21e saison)](../../seasons/21_vingt_et_unieme_saison/destruction)
 - [Juin, juillet, octobre (22e saison)](../../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre)
+- [Mi-été (28e saison)](../../seasons/28_vingt_huitieme_saison/mi_ete)
 
 ### Automne et hiver
 - [Dormira (17e saison)](../../seasons/17_dix_septieme_saison/dormira)

@@ -102,7 +102,9 @@ et[s'en va](../../seasons/26_vingt_sixieme_saison/avril_s_en_va).
    
 [prologue (des jours courts)](../../seasons/21_vingt_et_unieme_saison/le_jour_decroit),
 
-[centrifuge](../../seasons/28_vingt_huitieme_saison/aout).
+[centrifuge](../../seasons/28_vingt_huitieme_saison/aout),
+
+[du tri !](../../seasons/28_vingt_huitieme_saison/mi_aout)
 
 [^1]: en 2024 avril fut le début du paroxysme de ma souffrance causée par une anomalie climatique qui a duré une très grande partie de cette année-là. [Vers les poèmes sur le climat](../../categories/climat).
 
