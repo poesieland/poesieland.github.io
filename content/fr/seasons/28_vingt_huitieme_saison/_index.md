@@ -1,8 +1,10 @@
 +++
 title = "Vingt-huitième Saison : Les mots sur le chemin"
-summary = "A partir de juillet 2025"
+summary = "Philosophie, saisons, nature, amour... A partir de juillet 2025"
 weight = 28
 +++
+
+L'apprentissage et le temps... L'automne après l'été. Une place pour le romantisme.
 
 A partir de juillet 2025
 

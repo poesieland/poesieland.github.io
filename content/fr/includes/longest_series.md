@@ -8,6 +8,8 @@ title = "Les plus longues séries"
 - 13 jours :
   - Du 19.07.1998 au 01.08.1998
   - Du 12.06.2025 au 25.06.2025
+- 10 jours :
+  - Du 07.08.2025 au 17.08.2025
 - 9 jours :
   - Du 12.08.1997 au 21.08.1997
   - Du 22.08.1999 au 31.08.1999
@@ -15,4 +17,3 @@ title = "Les plus longues séries"
 - 8 jours :
   - Du 06.07.2024 au 14.07.2024
   - Du 01.06.2025 au 09.06.2025
-  - Du 07.08.2025 au 15.08.2025

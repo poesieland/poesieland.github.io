@@ -4,7 +4,7 @@ summary = "Mois obsédés, amour éperdu. Juin et juillet 1998"
 weight = 7
 +++
 
-Mois obsédés où la création le dispute à l'être et l'art musical, tandis qu'un amour éperdu se partage entre romantisme et passion.
+Mois obsédés où la création le dispute à l'être et l'art musical, tandis qu'un amour éperdu se partage entre romantisme et passion. La saison qui a le plus alimenté mon recueil.
 
 Juin et juillet 1998
 
