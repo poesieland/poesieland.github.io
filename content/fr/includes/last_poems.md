@@ -4,12 +4,12 @@ title = "Derniers ajouts"
 
 **Derniers ajouts:**
 
+[Sécheresse, écrit le 19.08.2025](./seasons/28_vingt_huitieme_saison/secheresse)
+
+[Matin d'automne, écrit le 19.08.2025](./seasons/28_vingt_huitieme_saison/matin_d_automne)
+
+[Essentiel, écrit le 19.08.2025](./seasons/28_vingt_huitieme_saison/essentiel)
+
+[Maturité, écrit le 17.08.2025](./seasons/28_vingt_huitieme_saison/maturite)
+
 [Chat roi, écrit le 17.08.2025](./seasons/28_vingt_huitieme_saison/chat_roi)
-
-[Fin d'été, rêve, écrit le 16.08.2025](./seasons/28_vingt_huitieme_saison/fin_d_ete_reve)
-
-[Mon père et moi, écrit le 16.08.2025](./seasons/28_vingt_huitieme_saison/mon_pere_et_moi)
-
-[Mi-août, écrit le 15.08.2025](./seasons/28_vingt_huitieme_saison/mi_aout)
-
-[Mi-été, écrit le 14.08.2025](./seasons/28_vingt_huitieme_saison/mi_ete)

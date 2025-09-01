@@ -14,7 +14,7 @@ tags:
     - pentasyllabe
     - refrain
 location: []
-info: ""
+info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -55,3 +55,7 @@ Gare au chat flâneur,
 Il vole bonheur
 
 Tout à son image.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/gare_au_chat" hidefirstheading %}}
+{{% /notice %}}

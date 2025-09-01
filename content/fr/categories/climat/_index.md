@@ -2,7 +2,9 @@
 title = "Climat"
 +++
 
-A cause du changement climatique qui impacte nos existences.
+Le changement climatique...
+
+L'excès ou le manque, souvent source d'[angoisse](../angoisse/) ou de [révolte](../révolte/).
 
 {{< chartjs id="poemDay-climatRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-climat-radar.js" />}}
 

@@ -13,7 +13,7 @@ tags:
     - pentasyllabe
     - lovecat
 location: []
-info: Reprise du premier vers d'un [poème de la vingt-septième saison](../27_vingt_septieme_saison/gare_au_chat).
+info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -47,5 +47,5 @@ Parti, quel envoi !
 Et tu peux l'attendre.
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la vingt-septième saison](../27_vingt_septieme_saison/gare_au_chat).
+{{% include "../../includes/gare_au_chat" hidefirstheading %}}
 {{% /notice %}}
