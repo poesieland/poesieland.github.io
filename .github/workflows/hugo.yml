@@ -32,7 +32,7 @@ jobs:
     runs-on: ubuntu-latest
     if: "!contains(github.event.head_commit.message, 'skip ci')"
     env:
-      HUGO_VERSION: 0.148.1
+      HUGO_VERSION: 0.149.1
     steps:
       - name: Install Hugo CLI
         run: |
