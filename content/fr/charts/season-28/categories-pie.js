@@ -15,10 +15,10 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 3, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Ciel', value: 1, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 1, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 2, color: 'rgba(4, 139, 154, 1)' },
-    { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Faune', value: 3, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Eté', value: 4, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 5, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 8, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season28Pie', [data], { plugins: { title: { display: true, text: 'Les mots sur le chemin (28) juillet à août 2025' } } });
 })();

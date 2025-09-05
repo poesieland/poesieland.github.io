@@ -14,9 +14,7 @@ tags:
     - philosophie
     - nature
 location: []
-info: |-
-    Les poèmes qui commencent par ce vers...
-    {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
+info: '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -59,5 +57,5 @@ Equilibre éphémère
 Et monde de douleurs.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers... {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
+{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}

@@ -8,7 +8,6 @@ tags = ["nature", "2025", "métrique variable", "hexasyllabe", "dissyllabe"]
 info = """
 Métrique variable : 6, 2.
 
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
 
 verseLength = -1
@@ -62,6 +61,5 @@ Bruissant.
 {{% notice style="primary" %}}
 Métrique variable : 6, 2.
 
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}

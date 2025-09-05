@@ -5,9 +5,7 @@ date = 2024-07-08
 weight = 12
 categories = ["Ciel", "Climat", "Temps"]
 tags = ["nature", "philosophie", "2024", "hexasyllabe"]
-info = """
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
+info = '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
 
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -49,6 +47,5 @@ Ce temps, main dans la mienne,
 Rêveurs, aux cieux d'avant.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}

@@ -233,9 +233,9 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 2 },
     { label: '', value: 3 },
     { label: '', value: 2 },
+    { label: '', value: 2 },
+    { label: '', value: 2 },
     { label: '', value: 1 },
-    { label: '', value: 1 },
-    { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 1 },
     { label: '', value: 0 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-saisonsRadar', ['Mois les plus représentés : septembre, novembre, octobre, août'], [data], { backgroundColor: 'rgba(130, 196, 108, 0.5)', borderColor: 'rgba(130, 196, 108, 1)', pointBackgroundColor: 'rgba(130, 196, 108, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-saisonsRadar', ['Mois les plus représentés : septembre, novembre, août, octobre'], [data], { backgroundColor: 'rgba(130, 196, 108, 0.5)', borderColor: 'rgba(130, 196, 108, 1)', pointBackgroundColor: 'rgba(130, 196, 108, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

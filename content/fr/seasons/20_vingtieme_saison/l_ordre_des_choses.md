@@ -3,12 +3,9 @@ title = "L'ordre des choses"
 id = "l_ordre_des_choses_20"
 date = 2024-06-04
 weight = 26
-categories = ["Temps"]
-tags = ["philosophie", "2024", "hexasyllabe"]
-info = """
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}"""
-
+categories = [ "Temps" ]
+tags = [ "philosophie", "2024", "hexasyllabe" ]
+info = '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -49,6 +46,5 @@ Les beaux jours se déposent
 Sublimés, à l'affût.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
 {{% /notice %}}
