@@ -57,3 +57,4 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 
 **A la vingt-huitième saison**
 - Depuis la neuvième saison : ["A l'âge où le bonheur / Est un oiseau sans..."](../seasons/28_vingt_huitieme_saison/l_age_sourit)
+- Depuis la deuxième saison : ["Septembre qui s'amène emporte..."](../seasons/2_deuxieme_saison/septembre)

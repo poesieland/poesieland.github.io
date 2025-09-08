@@ -18,7 +18,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 3, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Eté', value: 4, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 8, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 9, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season28Pie', [data], { plugins: { title: { display: true, text: 'Les mots sur le chemin (28) juillet à août 2025' } } });
 })();

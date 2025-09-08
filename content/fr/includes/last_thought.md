@@ -1,6 +1,6 @@
 +++
 title = "Dernière humeur du moment"
 +++
-{{% include "../thoughts/de_saison.md" %}}
+{{% include "../thoughts/solstice_et_climat.md" %}}
 
 Toutes les [humeurs du moment](../thoughts/)
