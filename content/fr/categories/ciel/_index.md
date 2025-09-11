@@ -8,7 +8,7 @@ Où l'on peut trouver le [soleil](/search?search-by=soleil) mais aussi les [écl
 
 [La lune](../lune), quant à elle, dispose de sa propre catégorie.
 
-{{< figure src="/images/ciel.jpg" title="Juin 2024" >}}
+{{< figure src="/images/ciel.jpg" title="Août 2025" >}}
 
 ## ...Dans tous ses états
 
@@ -19,6 +19,7 @@ Quand le premier vers le met en valeur :
 - [bas](../../seasons/22_vingt_deuxieme_saison/blues_d_automne)
 - [beau](../../seasons/22_vingt_deuxieme_saison/l_amour_courtois)
 - [beau comme...](../../seasons/28_vingt_huitieme_saison/au_couchant)
+- [beau, pastel](../../seasons/28_vingt_huitieme_saison/beau_ciel)
 - [bleu comme un mensonge](../../seasons/4_quatrieme_saison/ete)
 - [bleu comme un miracle](../../seasons/24_vingt_quatrieme_saison/ciel_printanier)
 - [bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
