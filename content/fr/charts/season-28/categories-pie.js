@@ -1,14 +1,14 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Romantisme', value: 4, color: 'rgba(253, 108, 158, 1)' },
+    { label: 'Romantisme', value: 5, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 2, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Crépuscule', value: 2, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Création', value: 2, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 1, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 6, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Temps', value: 7, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 4, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },

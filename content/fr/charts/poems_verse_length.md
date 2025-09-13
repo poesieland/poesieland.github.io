@@ -5,6 +5,8 @@ weight = 4
 
 ## Courte ou longue
 
+[Octosyllabes](../tags/octosyllabe) et [hexasyllabes](../tags/hexasyllabe) se taillent la part du lion. Ensuite viennent les [alexandrins](../tags/alexandrin).
+
 {{< chartjs id="poemVerseLengthPie" width="60%" jsFile="../general/poems-verse-length-pie.js" />}}
 
 ### Très courte...
