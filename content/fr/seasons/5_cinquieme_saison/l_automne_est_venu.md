@@ -5,9 +5,7 @@ date = 1997-10-26
 weight = 45
 categories = [ "Automne" ]
 tags = [ "1997", "octosyllabe", "saisons", "refrain" ]
-info = """
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}"""
+info = '{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -39,7 +37,5 @@ La brume enserre l'horizon :
 Ravir le soir et sa lumière !
 
 {{% notice style="primary" %}}
-
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 {{% /notice %}}

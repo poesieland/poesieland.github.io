@@ -1,13 +1,7 @@
 +++
 title = "L'automne est venu comme un songe - depuis la cinquième saison"
 +++
-
-_L'automne est venu comme un songe_
-
- \
-Une impression tellement agréable.
-
-Les poèmes qui élaborent autour de cette suggestion :
+Une impression tellement agréable : _L'automne est venu comme un songe_
 
 {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 
