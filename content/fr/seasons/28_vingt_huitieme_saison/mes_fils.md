@@ -10,8 +10,9 @@ categories:
 tags:
     - "2025"
     - famille
-    - philosophie
     - octosyllabe
+    - philosophie
+    - rentrée scolaire
 location: []
 info: ""
 pictures: []
