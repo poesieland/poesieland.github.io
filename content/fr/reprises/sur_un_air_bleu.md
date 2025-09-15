@@ -1,10 +1,7 @@
 +++
-title = "Sur un air bleu, sur un air blanc - depuis la huitième saison"
+title = "Sur un air bleu, sur un air blanc"
+description = "Depuis la huitième saison"
 +++
-
-_Sur un air bleu, sur un air blanc_
-
- \
 Tant de légèreté.
 
 Les poèmes qui commencent par ce vers :

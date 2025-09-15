@@ -1,5 +1,6 @@
 +++
-title = "Demain tu seras / demain nous serons - depuis la cinquième saison"
+title = "Demain tu seras / demain nous serons"
+description = "Depuis la cinquième saison"
 +++
 
 _Demain tu seras_

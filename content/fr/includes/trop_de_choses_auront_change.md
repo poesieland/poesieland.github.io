@@ -1,10 +1,7 @@
 +++
 title = "Liste des poèmes"
 +++
-
-_Trop de choses auront changé_
-
-Un constat doux-amer.
+Un constat doux-amer : _Trop de choses auront changé_
 
 Les poèmes qui commencent par ce vers :
 

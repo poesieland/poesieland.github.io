@@ -1,5 +1,6 @@
 +++
-title = "Est-ce un automne... - depuis la troisième saison"
+title = "Est-ce un automne..."
+description = "Depuis la troisième saison"
 +++
 
 _Est-ce un automne, est-ce un printemps_

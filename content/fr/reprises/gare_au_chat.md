@@ -1,5 +1,6 @@
 +++
-title = "Gare au chat... - depuis la vingt-sixième saison"
+title = "Gare au(x) chat(s)"
+description = "Depuis la vingt-sixième saison"
 +++
 
 {{% include "../../includes/gare_au_chat" hidefirstheading %}}

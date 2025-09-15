@@ -1,9 +1,7 @@
 +++
-title = "Le ciel est gris - depuis la vingtième saison"
+title = "Le ciel est gris"
+description = "Depuis la vingtième saison"
 +++
-
-_Le ciel est gris_
-
 Et une variante : _Les cieux sont gris_
 
  \

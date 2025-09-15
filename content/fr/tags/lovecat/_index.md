@@ -8,6 +8,8 @@ Si vous aimez l'humour de qualité, vous pouvez aussi rejoindre la [Société se
 
 Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
+{{% include "../../includes/gare_au_chat" hidefirstheading %}}
+
 {{< figure src="/images/paire_de_chats.jpg" title="Bah quoi, repos synchronisé, juillet 2018" >}}
 
 {{< figure src="/images/matou_noir_et_blanc.jpg" title="Moi, je suis un caïd du coin, octobre 2023" >}}

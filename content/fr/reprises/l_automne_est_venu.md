@@ -1,7 +1,8 @@
 +++
-title = "L'automne est venu comme un songe - depuis la cinquième saison"
+title = "L'automne est venu comme un songe"
+description = "Depuis la cinquième saison"
 +++
-Une impression tellement agréable : _L'automne est venu comme un songe_
+Une impression tellement agréable...
 
 {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 

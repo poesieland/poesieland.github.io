@@ -1,8 +1,9 @@
 +++
-title = "Trisyllabe : Estival - depuis la vingt-sixième saison"
+title = "Estival"
+description = "Depuis la vingt-sixième saison"
 +++
 
-Trisyllabe... _Estival_
+Un trisyllabe...
 
 Et souvent une seconde rime en -ège.
 
