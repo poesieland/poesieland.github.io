@@ -4,7 +4,7 @@ id = "debut_septembre_4"
 date = 1997-09-07
 weight = 5
 categories = ["Automne"]
-tags = ["saisons", "1997", "hexasyllabe"]
+tags = ["saisons", "1997", "hexasyllabe", "les mois"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

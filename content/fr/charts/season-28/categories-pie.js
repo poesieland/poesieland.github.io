@@ -6,7 +6,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Aube', value: 2, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Crépuscule', value: 3, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
-    { label: 'Création', value: 2, color: 'rgba(220, 147, 246, 1)' },
+    { label: 'Création', value: 3, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Portraits', value: 1, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 7, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
@@ -19,7 +19,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 3, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Eté', value: 4, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 12, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 13, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season28Pie', [data], { plugins: { title: { display: true, text: 'Les mots sur le chemin (28) juillet à août 2025' } } });

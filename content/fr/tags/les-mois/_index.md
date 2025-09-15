@@ -6,7 +6,7 @@ title = "Les mois"
 Douze mois... Chacun associé à des sentiments particuliers.
 
 ## Janvier
-Un mois d'hiver[aussi angoissé que les sentiments](../../seasons/16_seizieme_saison/mais_ou_vais_je),
+Un mois d'hiver [aussi angoissé que les sentiments](../../seasons/16_seizieme_saison/mais_ou_vais_je),
 
 [las](../../seasons/18_dix_huitieme_saison/hiver_pluvieux), 
 [triste et drôle](../../seasons/23_vingt_troisieme_saison/janvier),
@@ -15,26 +15,28 @@ Un mois d'hiver[aussi angoissé que les sentiments](../../seasons/16_seizieme_sa
 
 [plaintif](../../seasons/24_vingt_quatrieme_saison/orgie),
 
-qu'il faut laisser[passer](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver)...
+qu'il faut laisser [passer](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver)...
 
-Mais où[le soleil et le bonheur reviennent](../../seasons/5_cinquieme_saison/l_orage_du_cour) !
+Mais où [le soleil et le bonheur reviennent](../../seasons/5_cinquieme_saison/l_orage_du_cour) !
 
 ## Février
-Uniquement[associé à janvier](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver).
+Uniquement [associé à janvier](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver).
 
 ## Mars
-Uniquement[associé à avril](../../seasons/19_dix_neuvieme_saison/avril).
+[associé à avril](../../seasons/19_dix_neuvieme_saison/avril)
+
+[ouvre une charnière](../../seasons/28_vingt_huitieme_saison/equinoxes)
 
 ## Avril
-Le temps des[cerisiers](../../seasons/6_sixieme_saison/les_cerisiers_d_avril),
+Le temps des [cerisiers](../../seasons/6_sixieme_saison/les_cerisiers_d_avril),
 
-du[muguet](../../seasons/20_vingtieme_saison/muguet_sous_la_pluie),
+du [muguet](../../seasons/20_vingtieme_saison/muguet_sous_la_pluie),
 
-ce mois quelquefois[perturbé](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)[^1] 
+ce mois quelquefois [perturbé](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)[^1] 
 
-qui[arrive](../../seasons/19_dix_neuvieme_saison/avril)
+qui [arrive](../../seasons/19_dix_neuvieme_saison/avril)
 
-et[s'en va](../../seasons/26_vingt_sixieme_saison/avril_s_en_va).
+et [s'en va](../../seasons/26_vingt_sixieme_saison/avril_s_en_va).
 
 ## Mai
 [songeur](../../seasons/1_premiere_saison/automne)[^2],
@@ -105,6 +107,30 @@ et[s'en va](../../seasons/26_vingt_sixieme_saison/avril_s_en_va).
 [centrifuge](../../seasons/28_vingt_huitieme_saison/aout),
 
 [du tri !](../../seasons/28_vingt_huitieme_saison/mi_aout)
+
+## Septembre
+
+[souvenirs d'enfant, un univers](../../seasons/1_premiere_saison/fin_d_ete)
+
+[emporte mon image](../../seasons/2_deuxieme_saison/septembre)
+
+[mois auquel la fin d'été s'abandonne](../../seasons/4_quatrieme_saison/debut_septembre)
+
+[mois des rencontres](../../seasons/6_sixieme_saison/tu_m_as_conquise)
+
+[mois d'anniversaire](../../seasons/6_sixieme_saison/fils_d_automne)
+
+[l'été qui s'envole](../../seasons/7_septieme_saison/ce_jour_la)
+
+[sage](../../seasons/9_neuvieme_saison/une_chanson_boheme)
+
+[un chat pressé](../../seasons/21_vingt_et_unieme_saison/vie_de_chat)
+
+[à l'éclat particulier](../../seasons/28_vingt_huitieme_saison/septembre_approche)
+
+[ouvre une charnière](../../seasons/28_vingt_huitieme_saison/equinoxes)
+
+[concrétise rêves](../../seasons/28_vingt_huitieme_saison/promesse_d_automne)
 
 [^1]: en 2024 avril fut le début du paroxysme de ma souffrance causée par une anomalie climatique qui a duré une très grande partie de cette année-là. [Vers les poèmes sur le climat](../../categories/climat).
 

@@ -4,7 +4,7 @@ id = "fin_d_ete_1"
 date = 1996-08-18
 weight = 37
 categories = ["Automne", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "1996", "alexandrin"]
+tags = ["saisons", "philosophie", "1996", "alexandrin", "les mois"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

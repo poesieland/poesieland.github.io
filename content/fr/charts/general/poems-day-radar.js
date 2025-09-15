@@ -244,7 +244,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 4 },
     { label: '', value: 7 },
     { label: '', value: 4 },
-    { label: '', value: 7 },
+    { label: '', value: 8 },
     { label: 'Septembre', value: 7 },
     { label: '', value: 1 },
     { label: '', value: 4 },

@@ -4,7 +4,7 @@ id = "tu_m_as_conquise_6"
 date = 1998-05-18
 weight = 25
 categories = [ "Amitié" ]
-tags = [ "1998", "amour", "octosyllabe", "refrain" ]
+tags = [ "1998", "amour", "octosyllabe", "refrain", "les mois" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -12,7 +12,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Nuit', value: 36, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 51, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 73, color: 'rgba(234, 191, 250, 1)' },
-    { label: 'Création', value: 99, color: 'rgba(220, 147, 246, 1)' },
+    { label: 'Création', value: 100, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 74, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 82, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 149, color: 'rgba(140, 7, 221, 1)' },
@@ -34,7 +34,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 14, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 50, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 48, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 115, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 116, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 63, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });
