@@ -5,11 +5,7 @@ date = 2024-09-14
 weight = 7
 categories = ["Automne", "Printemps", "Temps"]
 tags = ["saisons", "philosophie", "2024", "octosyllabe"]
-info = """
-
-Encore une variation sur cette question que j'adore...
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}"""
-
+info = '{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -50,7 +46,5 @@ Le souvenir un peu lassé
 Des deux saisons allées à l'amble.
 
 {{% notice style="primary" %}}
-
-Encore une variation sur cette question que j'adore...
 {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
 {{% /notice %}}

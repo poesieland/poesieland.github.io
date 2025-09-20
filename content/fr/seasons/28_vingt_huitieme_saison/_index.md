@@ -1,12 +1,12 @@
 +++
 title = "Vingt-huitième Saison : Les mots sur le chemin"
-summary = "Saisons, philosophie, nature... A partir de juillet 2025"
+summary = "Saisons, philosophie, nature... De juillet à septembre 2025"
 weight = 28
 +++
 
 L'automne, le temps, une place pour l'apprentissage et le romantisme.
 
-A partir de juillet 2025
+De juillet à septembre 2025
 
 ---
 {{% children  %}}
