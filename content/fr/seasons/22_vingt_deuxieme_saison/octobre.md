@@ -4,7 +4,7 @@ id = "octobre_22"
 date = 2024-10-17
 weight = 27
 categories = ["Automne", "Angoisse"]
-tags = ["saisons", "philosophie", "2024", "hexasyllabe"]
+tags = ["saisons", "philosophie", "2024", "hexasyllabe", "les mois"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -15,7 +15,7 @@ Je plonge vers l'automne,
 
 Voyage en coup de vent
 
-Vers  le jour monotone.
+Vers le jour monotone.
 
  \
 Comme un rêve éveillé

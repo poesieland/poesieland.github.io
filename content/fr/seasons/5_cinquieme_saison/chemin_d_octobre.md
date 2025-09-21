@@ -4,7 +4,7 @@ id = "chemin_d_octobre_5"
 date = 1997-10-16
 weight = 44
 categories = ["Automne"]
-tags = ["saisons", "1997", "octosyllabe"]
+tags = ["saisons", "1997", "octosyllabe", "les mois"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
