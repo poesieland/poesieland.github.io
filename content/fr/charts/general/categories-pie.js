@@ -26,7 +26,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eau douce', value: 39, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 88, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 29, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 63, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Faune', value: 64, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 37, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 86, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 23, color: 'rgba(250, 152, 70, 1)' },

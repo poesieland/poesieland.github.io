@@ -16,7 +16,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 3, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Ciel', value: 2, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 1, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 4, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Faune', value: 5, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Eté', value: 4, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 14, color: 'rgba(27, 79, 8, 1)' },

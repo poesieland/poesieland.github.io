@@ -31,6 +31,6 @@ Je prends le vivant
 
 Libre, gratitude,
 
-Les cheveux au vant,
+Les cheveux au vent,
 
 Gaie, une attitude !

@@ -24,7 +24,7 @@ Demandait une enfant,
 
 La drôle de nacelle
 
-L'autre jour olifan !
+L'autre jour olifant !
 
  \
 La lune étend son règne,
