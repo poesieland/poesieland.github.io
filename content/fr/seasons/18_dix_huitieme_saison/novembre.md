@@ -45,6 +45,7 @@ tags:
     - "2023"
     - saisons
     - hexasyllabe
+    - "les mois"
 info: ""
 poemType: ""
 acrostiche: ""

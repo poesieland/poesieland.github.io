@@ -199,7 +199,6 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 23, y: 23, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 9, y: 24, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 4, y: 21, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
-    { x: 2, y: 6, r: 5.3333333333333333333333333332, color: 'rgba(121, 248, 248, 1)' },
     { x: 0, y: 12, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 3, y: 26, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
     { x: 11, y: 11, r: 2.6666666666666666666666666668, color: 'rgba(121, 248, 248, 1)' },
@@ -269,6 +268,8 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 7, y: 24, r: 5.3333333333333333333333333334, color: 'rgba(119, 181, 254, 1)' },
     { x: 7, y: 14, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 7, y: 9, r: 8, color: 'rgba(119, 181, 254, 1)' },
+    { x: 2, y: 6, r: 4, color: 'rgba(119, 181, 254, 1)' },
+    { x: 2, y: 2, r: 6.6666666666666666666666666666, color: 'rgba(119, 181, 254, 1)' },
     { x: 7, y: 15, r: 4, color: 'rgba(119, 181, 254, 1)' },
     { x: 10, y: 25, r: 4, color: 'rgba(119, 181, 254, 1)' },
     { x: 7, y: 25, r: 8, color: 'rgba(119, 181, 254, 1)' },
@@ -277,7 +278,6 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 7, y: 8, r: 4, color: 'rgba(119, 181, 254, 1)' },
     { x: 12, y: 23, r: 4, color: 'rgba(119, 181, 254, 1)' },
     { x: 13, y: 10, r: 5.3333333333333333333333333334, color: 'rgba(119, 181, 254, 1)' },
-    { x: 2, y: 2, r: 5.3333333333333333333333333334, color: 'rgba(119, 181, 254, 1)' },
     { x: 27, y: 28, r: 5.3333333333333333333333333334, color: 'rgba(119, 181, 254, 1)' },
 ],
 [
@@ -301,7 +301,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 5, y: 14, r: 7.3333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
     { x: 5, y: 9, r: 7.3333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
     { x: 6, y: 14, r: 7.3333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
-    { x: 2, y: 3, r: 7.3333333333333333333333333333, color: 'rgba(50, 122, 183, 1)' },
+    { x: 2, y: 3, r: 8, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
   addBubbleChart('associatedCategories', ['Premier quart (taille fois 4)','Deuxième quart (taille fois 2)','Troisième quart (taille fois 1.5)','Quatrième quart'], data, {scales: { x: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Amitié','Amour platonique','Angoisse','Apprentissage','Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Romantisme','Temps'][index]; } } }, y: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Révolte','Romantisme','Sommeil','Temps','Toucher','Ville'][index]; } } } }});

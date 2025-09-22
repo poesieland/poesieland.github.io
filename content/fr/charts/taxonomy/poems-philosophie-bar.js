@@ -18,7 +18,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'De place en place (15) 2001', value: 31, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Plus loin (16) 2002-04', value: 24, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 24, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Retour aux sources (18) 2023-24', value: 19, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Retour aux sources (18) 2023-24', value: 20, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Destination bonheur (19) 2024', value: 27, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 23, color: 'rgba(220, 147, 246, 0.5)' },

@@ -4,7 +4,7 @@ id = "armistice_18"
 date = 2023-11-11
 weight = 18
 categories = ["Portraits"]
-tags = ["philosophie", "2023", "hexasyllabe"]
+tags = ["philosophie", "2023", "hexasyllabe", "les mois"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
