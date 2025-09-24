@@ -4,7 +4,7 @@ id = "avant_les_fetes_18"
 date = 2023-11-23
 weight = 27
 categories = ["Hiver"]
-tags = ["saisons", "2023", "hexasyllabe", "noël"]
+tags = ["saisons", "2023", "hexasyllabe", "noël", "les mois"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

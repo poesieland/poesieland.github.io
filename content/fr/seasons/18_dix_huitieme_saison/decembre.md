@@ -4,7 +4,7 @@ id = "decembre_18"
 date = 2023-12-01
 weight = 30
 categories = ["Hiver"]
-tags = ["saisons", "2023", "octosyllabe"]
+tags = ["saisons", "2023", "octosyllabe", "les mois"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

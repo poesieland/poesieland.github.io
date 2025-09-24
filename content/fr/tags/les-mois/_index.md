@@ -1,8 +1,6 @@
 +++
 title = "Les mois"
 +++
-*Liste en cours de construction.*
-
 Douze mois... Chacun associé à des sentiments particuliers.
 
 ## Janvier
@@ -38,6 +36,9 @@ Le temps des [cerisiers](../../seasons/6_sixieme_saison/les_cerisiers_d_avril) �
 
 ## Novembre
 [en son élan](../../seasons/2_deuxieme_saison/folie_de_novembre) – [oublieux](../../seasons/2_deuxieme_saison/novembre_dompte) – [beau](../../seasons/4_quatrieme_saison/toussaint) – [a mangé les couleurs](../../seasons/14_quatorzieme_saison/l_ombre_de_novembre) – [aux jours rapides](../../seasons/15_quinzieme_saison/case_depart) – [vent (qui) effacera](../../seasons/16_seizieme_saison/en_paillettes) – [les feuilles poissent gras](../../seasons/16_seizieme_saison/novembre) – [trève](../../seasons/18_dix_huitieme_saison/armistice) – [à pas compté](../../seasons/18_dix_huitieme_saison/automne_genereux) – [jour sans ajour](../../seasons/18_dix_huitieme_saison/ciel_triste) – [triste sire](../../seasons/18_dix_huitieme_saison/novembre) – [douceâtre](../../seasons/22_vingt_deuxieme_saison/entre_deux) – [après Halloween](../../seasons/22_vingt_deuxieme_saison/octobre)
+
+## Décembre
+[un peu de neige](../../seasons/1_premiere_saison/fin_d_ete) – [ouvre sa porte](../../seasons/2_deuxieme_saison/voyage_d_hiver) – [pâle](../../seasons/14_quatorzieme_saison/jardin_dits_vers) – [aux sarabandes](../../seasons/18_dix_huitieme_saison/avant_les_fetes) – [chatoyant](../../seasons/18_dix_huitieme_saison/decembre)
 
 [^1]: en 2024 avril fut le début du paroxysme de ma souffrance causée par une anomalie climatique qui a duré une très grande partie de cette année–là. [Vers les poèmes sur le climat](../../categories/climat).
 

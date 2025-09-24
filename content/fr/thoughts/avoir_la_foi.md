@@ -1,5 +1,5 @@
 +++
-title = "Ma fois !"
+title = "Ma foi !"
 date = 2024-06-01
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Dernière humeur du moment"
 +++
-{{% include "../thoughts/solstice_et_climat.md" %}}
+Et si, en plus des saisons, on s'intéressait aux [mois](../tags/les-mois/) ?
 
 Toutes les [humeurs du moment](../thoughts/)
