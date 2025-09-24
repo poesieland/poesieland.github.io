@@ -3,6 +3,7 @@ import { addBarChart } from '../add-chart.js'
   const data = [
     { label: '1, 6', value: 1, color: 'rgb(237, 187, 153)' },
     { label: '12, 4', value: 1, color: 'rgb(174, 214, 241)' },
+    { label: '2, 3, 4, 5, 4, 3, 2, 1', value: 1, color: 'rgb(215, 189, 226)' },
     { label: '2, 4', value: 2, color: 'rgb(174, 214, 241)' },
     { label: '2, 5', value: 1, color: 'rgb(215, 189, 226)' },
     { label: '2, 6', value: 1, color: 'rgb(174, 214, 241)' },

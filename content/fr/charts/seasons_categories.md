@@ -72,7 +72,7 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 
 <div style="display:flex;justify-content:space-around;">
 {{< chartjs id="season27Pie" width="22vw" margin="20px" padding="0" jsFile="../season-27/categories-pie.js" inline=true text="Presque deux mois, l'été, vers l'automne"/>}}
-{{< chartjs id="season28Pie" width="22vw" margin="20px" padding="0" jsFile="../season-28/categories-pie.js" inline=true text="La fin de l'été, puis l'automne se déploie !"/>}}
+{{< chartjs id="season28Pie" width="22vw" margin="20px" padding="0" jsFile="../season-28/categories-pie.js" inline=true text="Un peu moins d'un mois et demi, la fin de l'été, puis l'automne se déploie !"/>}}
 </div>
 
 <!-- <div style="display:flex;justify-content:space-around;">

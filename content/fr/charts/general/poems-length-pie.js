@@ -8,7 +8,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '10', value: 60, color: 'rgb(169, 204, 227)' },
     { label: '12', value: 591, color: 'rgb(174, 214, 241)' },
     { label: '14', value: 69, color: 'rgb(163, 228, 215)' },
-    { label: '16', value: 316, color: 'rgb(162, 217, 206)' },
+    { label: '16', value: 318, color: 'rgb(162, 217, 206)' },
     { label: '18', value: 10, color: 'rgb(171, 235, 198)' },
     { label: '20', value: 108, color: 'rgb(249, 231, 159)' },
     { label: '22', value: 2, color: 'rgb(250, 215, 160)' },
