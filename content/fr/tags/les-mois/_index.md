@@ -47,3 +47,5 @@ Le temps des [cerisiers](../../seasons/6_sixieme_saison/les_cerisiers_d_avril) â
 [^3]: mois d'anniversaires dans ma famille.
 
 {{< chartjs id="poemDayLesMoisRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-les-mois-radar.js" />}}
+
+{{< chartjs id="poems-les-moisBar" width="90%" jsFile="../../charts/taxonomy/poems-les-mois-bar.js" />}}
