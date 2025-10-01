@@ -537,6 +537,10 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
+      "title": "29_vingt_neuvieme_saison",
+      "path": "[[workspace]]/content/fr/seasons/29_vingt_neuvieme_saison"
+    },
+    {
       "title": "28_vingt_huitieme_saison",
       "path": "[[workspace]]/content/fr/seasons/28_vingt_huitieme_saison"
     },
