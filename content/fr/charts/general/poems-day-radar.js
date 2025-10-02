@@ -251,7 +251,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 6 },
     { label: '', value: 6 },
     { label: '', value: 6 },
-    { label: '', value: 7 },
+    { label: '', value: 8 },
     { label: '', value: 6 },
     { label: '', value: 3 },
     { label: '', value: 3 },

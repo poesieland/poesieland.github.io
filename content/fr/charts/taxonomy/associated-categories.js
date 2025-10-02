@@ -300,7 +300,7 @@ import { addBubbleChart } from '../add-chart.js'
 [
     { x: 16, y: 24, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
     { x: 5, y: 28, r: 10, color: 'rgba(50, 122, 183, 1)' },
-    { x: 5, y: 9, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
+    { x: 5, y: 9, r: 8.125, color: 'rgba(50, 122, 183, 1)' },
     { x: 2, y: 3, r: 7.5, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
