@@ -9,5 +9,5 @@ title = "Associations privilégiées"
 - [Ciel](/categories/ciel)
 - [Printemps](/categories/printemps)
 - [Eau douce](/categories/eau-douce)
+- [Portraits](/categories/portraits)
 - [Lune](/categories/lune)
-- [Automne](/categories/automne)

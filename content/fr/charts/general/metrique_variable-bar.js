@@ -13,7 +13,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '4, 2', value: 1, color: 'rgb(174, 214, 241)' },
     { label: '4, 3', value: 4, color: 'rgb(215, 189, 226)' },
     { label: '5, 2', value: 2, color: 'rgb(237, 187, 153)' },
-    { label: '5, 3', value: 3, color: 'rgb(162, 217, 206)' },
+    { label: '5, 3', value: 4, color: 'rgb(162, 217, 206)' },
     { label: '5, 7, 5', value: 1, color: 'rgb(162, 217, 206)' },
     { label: '5, 8', value: 1, color: 'rgb(237, 187, 153)' },
     { label: '6, 2', value: 4, color: 'rgb(174, 214, 241)' },

@@ -43,6 +43,7 @@ Certains poèmes évoquent plus d'une saison...
 
 ### Printemps et automne
 - [Est-ce un automne ? (22e saison)](../../seasons/22_vingt_deuxieme_saison/est_ce_un_automne)
+- [Impression d'automne (29e saison)](../../seasons/29_vingt_neuvieme_saison/impression_d_automne)
 
 ## Les quatre saisons !
 - [A la course aux saisons (14e saison)](../../seasons/14_quatorzieme_saison/a_la_course_aux_saisons)
