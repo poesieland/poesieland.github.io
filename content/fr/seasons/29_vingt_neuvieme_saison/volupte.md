@@ -13,7 +13,7 @@ tags:
     - pentasyllabe
     - lovecat
 location: []
-info: ""
+info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -36,3 +36,8 @@ Les chats font du lard,
 Les troubler je n'aille !
 
 Dormir, c'est un art !
+
+{{% notice style="primary" %}}
+{{% include "../../includes/gare_au_chat" hidefirstheading %}}
+{{% /notice %}}
+

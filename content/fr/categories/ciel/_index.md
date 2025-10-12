@@ -24,6 +24,7 @@ Quand le premier vers le met en valeur :
 - [bleu comme un miracle](../../seasons/24_vingt_quatrieme_saison/ciel_printanier)
 - [bleu marine](../../seasons/5_cinquieme_saison/matin_celeste)
 - encore [bleu marine](../../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)
+- [calme, floconneux](../../seasons/29_vingt_neuvieme_saison/matin_froisse)
 - [comme un paravent](../../seasons/3_troisieme_saison/panoramique)
 - [doux](../../seasons/23_vingt_troisieme_saison/ciel)
 - [gris](../../reprises/le_ciel_est_gris)
