@@ -1,8 +1,10 @@
 +++
 title = "Vingt-neuvième Saison : Kaléidoscopes"
-summary = "A partir de septembre 2025"
+summary = "Surtout les saisons... A partir de septembre 2025"
 weight = 29
 +++
+
+Surtout l'automne...
 
 A partir de septembre 2025.
 

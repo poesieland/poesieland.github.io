@@ -34,7 +34,7 @@ Un jour nouveau rebalbutie
 
 Son appel à l'oisiveté,
 
-Déchire ciel et calvitie
+Déchire ciel en calvitie
 
 Artistique au temps breveté.
 

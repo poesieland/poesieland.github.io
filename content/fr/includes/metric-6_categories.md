@@ -3,8 +3,8 @@ title = "Associations privilégiées"
 +++
 - [Temps](/categories/temps)
 - [Etre](/categories/etre)
-- [Ciel](/categories/ciel)
 - [Automne](/categories/automne)
+- [Ciel](/categories/ciel)
 - [Espoir](/categories/espoir)
 - [Portraits](/categories/portraits)
 - [Hiver](/categories/hiver)
