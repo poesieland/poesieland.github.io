@@ -9,5 +9,5 @@ title = "Associations privilégiées"
 - [Musique et chant](/categories/musique-et-chant)
 - [Passion](/categories/passion)
 - [Romantisme](/categories/romantisme)
+- [Faune](/categories/faune)
 - [Jardin et paysage](/categories/jardin-et-paysage)
-- [Flore](/categories/flore)

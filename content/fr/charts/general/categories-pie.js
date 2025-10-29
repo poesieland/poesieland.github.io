@@ -5,7 +5,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amour platonique', value: 37, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 59, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 62, color: 'rgba(199, 44, 72, 1)' },
-    { label: 'Aube', value: 44, color: 'rgba(255, 203, 96, 1)' },
+    { label: 'Aube', value: 45, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 37, color: 'rgba(253, 241, 184, 1)' },
     { label: 'Ville', value: 25, color: 'rgba(152, 151, 88, 1)' },
     { label: 'Crépuscule', value: 68, color: 'rgba(179, 103, 0, 1)' },
@@ -26,7 +26,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eau douce', value: 40, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 90, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 29, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 67, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Faune', value: 68, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 37, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 86, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 23, color: 'rgba(250, 152, 70, 1)' },
@@ -34,7 +34,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 14, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 51, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 50, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 131, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 132, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 63, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });

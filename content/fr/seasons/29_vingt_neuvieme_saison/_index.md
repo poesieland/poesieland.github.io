@@ -4,7 +4,7 @@ summary = "Surtout les saisons... A partir de septembre 2025"
 weight = 29
 +++
 
-Surtout l'automne...
+L'automne... Aussi la faune, le temps, l'aube.
 
 A partir de septembre 2025.
 
