@@ -2,7 +2,7 @@
 title = "Pourquoi créer ?"
 weight = 1
 disableToc = false
-date = 2024-05-19
+date = 2025-11-01
 type = "chapter"
 +++
 
@@ -52,15 +52,17 @@ Enfin, j'aime comparer le poète à un joueur d'échec, toujours un coup d'avanc
 
 ## Inspiration
 
-Il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années, vers 2001 donc. Alors l'émotion suscitée par des scènes trop similaires passait par le filtre du questionnement intérieur : l'ai-je déjà exprimée dans un poème ? Elle ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie.
+Il m'a semblé par moments que j'étais un peu "blasée", dès que j'ai eu dépassé les 700 créations en toutes ces années, vers 2001 donc. L'émotion suscitée par des scènes trop similaires passait alors par le filtre du questionnement intérieur : l'ai-je déjà exprimée dans un poème ? Elle ne devenait souvent que du plaisir gardé pour soi et ne se tournait pas vers la poésie. Je n'avais pas encore assez découvert la photographie !
 
-On ne célèbre pas dix fois la même chose, me disais-je alors. Quoique, dès que le temps a passé suffisamment. Et surtout si on prend le temps de chercher les détails pas encore vus, dans une démarche analytique de ce qui fait le ressenti poétique.
+*On ne célèbre pas dix fois la même chose...* me disais-je alors. Quoique, dès que le temps a passé suffisamment et surtout qu'on a oublié ce qu'on a déjà écrit. 
 
-Relire d'anciens poèmes me fait penser des fois qu'il y a encore des choses à dire sur un sujet donné, même si le poème redécouvert peut sembler paralysant, tel un geyser d'émotions toujours nouvelles.
+En réalité, il est tout à fait possible d'*éreinter* un sujet, si on prend le temps de chercher les détails pas encore vus, dans une démarche analytique de ce qui fait le ressenti poétique.
+
+Relire d'anciens poèmes me fait penser des fois qu'il y a encore des choses à dire sur un sujet donné, même si le poème redécouvert peut sembler paralysant, tel un geyser d'émotions qui redeviennent nouvelles.
 
 Cela est également dû au fait que la langue française est un espace fini. C'est une certaine limitation de la poésie, d'ailleurs, la connaissance d'un ensemble linguistique dans lequel projeter des émotions.
 
-La poésie se ressource à l'amour de la vie et aux envies et projections qu'on fait.
+La meilleure définition ? La poésie se ressource à l'amour de la vie et aux envies et projections qu'on fait.
 
 ## Le médium
 

@@ -1,7 +1,7 @@
 +++
 title = "Poésieland"
 type = "home"
-date = 2024-10-27
+date = 2025-11-01
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
@@ -20,7 +20,7 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 ## Pourquoi la poésie ?
 
-Alors que cette belle année 2024 avait son entame amorcée, tandis que la [dix-neuvième Saison](./seasons/19_dix_neuvieme_saison) s'ouvrait également, je me suis posé quelques questions et ai picoré au hasard de Google : pourquoi la poésie, et que devient-elle de nos jour ?
+Au début de l'année 2024, quand la [dix-neuvième Saison](./seasons/19_dix_neuvieme_saison) s'ouvrait également, je me suis posé quelques questions et ai picoré au hasard de Google : pourquoi la poésie, et que devient-elle de nos jour ?
 
 Déjà en 1866, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait des travers, tels que les poètes qui écrivent plus sur leurs émotions en mode nombriliste, alors qu'il y aurait aussi un rôle de transmettre un message plutôt qu'uniquement des émotions. L'époque n'est plus ce qu'elle était, plus personne n'irait écrire de pièce de théâtre versifiée, et j'imagine que l'exercice est à la portée de peu de monde.
 
@@ -44,7 +44,7 @@ Enfin, je me suis retrouvée dans cet article, décrivant *un être doué de sen
 
 Depuis des années, les sensations précédant la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par un stimuli d'au moins un sens, et l'impression que quelque chose d'unique et précieux  est en germe, que je dois l'écrire pour le partager.
 
-Dans ma jeunesse, s'il ne naîssait pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtrait probablement jamais. La vie quotidienne fort occupée était alors quelque part l'ennemie de la fulgurance poétique.
+Dans ma jeunesse, s'il ne naissait pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtrait probablement jamais. La vie quotidienne fort occupée était alors quelque part l'ennemie de la fulgurance poétique.
 
 J'ai observé que j'arrivais à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je note un vers ou deux directement, mais pas plus !
 
@@ -58,7 +58,7 @@ De temps à autres le processus de maturation prend plusieurs jours, ou plusieur
 
 Il m'est arrivé que la composition donne lieu à une concentration tellement intense que j'ai eu l'impression, en finissant le poème, de l'avoir composé en apnée.
 
-Ecrire de la poésie, c'est une façon de cadrer les sensations en mots, les émotions en partages, essayer de se surprendre et surprendre le lecteur qui dirait : je n'avais pas encore imaginé cela, et c'est beau !
+Ecrire de la poésie, c'est une façon de cadrer les sensations en mots, les émotions en partages, essayer de se surprendre et surprendre le lecteur qui dirait : je n'avais pas encore imaginé cela, et c'est beau ! Le monde est un émerveillement constant et je veux le partager.
 
 J'aime l'art, et la poésie, si modeste soit-elle, représente une infinité, dans le cycle du monde et des hommes. J'ai choisi le jeu des mots, parce que c'est ce qui me convient le mieux. J'aime également transmettre des émotions par la photographie.
 
