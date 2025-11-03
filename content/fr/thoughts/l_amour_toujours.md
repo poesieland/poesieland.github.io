@@ -1,6 +1,7 @@
 +++
 title = "Autour de l'amour"
 date = 2024-07-17
+summary = "Juillet 2024"
 +++
 ### L'amour, toujours
 

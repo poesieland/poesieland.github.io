@@ -1,6 +1,7 @@
 +++
 title = "Jours symboliques"
 date = 2025-11-01
+summary = "Novembre 2025"
 +++
 
 *En cours de construction.*

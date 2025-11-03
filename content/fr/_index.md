@@ -20,7 +20,7 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 ## Pourquoi la poésie ?
 
-Au début de l'année 2024, quand la [dix-neuvième Saison](./seasons/19_dix_neuvieme_saison) s'ouvrait également, je me suis posé quelques questions et ai picoré au hasard de Google : pourquoi la poésie, et que devient-elle de nos jour ?
+Au début de l'année [2024](./tags/2024/), quand la [dix-neuvième Saison](./seasons/19_dix_neuvieme_saison) s'ouvrait également, je me suis posé quelques questions et ai picoré au hasard de Google : pourquoi la poésie, et que devient-elle de nos jour ?
 
 Déjà en 1866, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait des travers, tels que les poètes qui écrivent plus sur leurs émotions en mode nombriliste, alors qu'il y aurait aussi un rôle de transmettre un message plutôt qu'uniquement des émotions. L'époque n'est plus ce qu'elle était, plus personne n'irait écrire de pièce de théâtre versifiée, et j'imagine que l'exercice est à la portée de peu de monde.
 

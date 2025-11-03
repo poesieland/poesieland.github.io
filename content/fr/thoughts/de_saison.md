@@ -1,6 +1,7 @@
 +++
 title = "De saison..."
 date = 2025-08-27
+summary = "Août 2025"
 +++
 
 ### En vogue

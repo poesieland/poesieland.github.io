@@ -4,4 +4,4 @@ weight = 2
 type = "chapter"
 +++
 
-{{% children description="false" %}}
+{{% children description="true" %}}

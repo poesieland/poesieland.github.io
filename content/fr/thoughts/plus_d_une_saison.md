@@ -1,6 +1,7 @@
 +++
 title = "Plus d'une saison"
 date = 2025-05-28
+summary = "Mai 2025"
 +++
 
 Un petit inventaire des poèmes qui évoquent plus d'une saison.

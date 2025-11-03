@@ -1,6 +1,7 @@
 +++
 title = "Sur les chemins"
 date = 2024-08-19
+summary = "Août 2024"
 +++
 
 ### Sur le chemin de la rentrée
