@@ -6,7 +6,6 @@ weight = 14
 categories = ["Printemps"]
 tags = ["saisons", "2025", "ennéasyllabe"]
 info = """
-Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
 
 verseLength = 9
@@ -31,6 +30,5 @@ Coup d'éclat, soleil dans la nue, âge
 Apaisé, revoici le beau temps !
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
 {{% /notice %}}

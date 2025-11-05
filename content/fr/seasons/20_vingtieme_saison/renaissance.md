@@ -6,7 +6,6 @@ weight = 35
 categories = ["Aube"]
 tags = ["ombres et lumières", "2024", "ennéasyllabe"]
 info = """
-Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
 
 verseLength = 9
@@ -40,6 +39,5 @@ Discours faux qui ment comme respire :
 Je m'envole à l'orbe du matin.
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _dans mon coeur les oiseaux font leur nid_ :
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
 {{% /notice %}}

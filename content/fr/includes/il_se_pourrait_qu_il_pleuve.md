@@ -1,10 +1,6 @@
 +++
 title = "Liste des poèmes"
 +++
-
-_Il se pourrait qu'il pleuve_
-
- \
 Les poèmes qui commencent par ce vers :
 
 - [à la vingtième saison](../seasons/20_vingtieme_saison/l_ordre_des_choses)

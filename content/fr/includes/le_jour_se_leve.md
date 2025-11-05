@@ -1,8 +1,5 @@
 +++
 title = "Liste des poèmes"
-info = """
-Les poèmes qui commencent par ce vers...
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 +++
 
 - [à la deuxième saison](../seasons/2_deuxieme_saison/le_temps_des_heures)
