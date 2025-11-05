@@ -4,7 +4,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '3', value: 1, color: 'rgb(255, 255, 255)' },
     { label: '4', value: 14, color: 'rgb(230, 176, 170)' },
     { label: '6', value: 33, color: 'rgb(245, 183, 177)' },
-    { label: '8', value: 165, color: 'rgb(215, 189, 226)' },
+    { label: '8', value: 166, color: 'rgb(215, 189, 226)' },
     { label: '10', value: 60, color: 'rgb(169, 204, 227)' },
     { label: '12', value: 605, color: 'rgb(174, 214, 241)' },
     { label: '14', value: 69, color: 'rgb(163, 228, 215)' },

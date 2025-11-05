@@ -6,7 +6,6 @@ weight = 42
 categories = ["Etre"]
 tags = ["philosophie", "2024", "alexandrin"]
 info = """
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}"""
 
 verseLength = 12
@@ -37,9 +36,8 @@ Et pour prison dorée une planète infime :
 
 Gloire puis déchéance au suprême animal !
 
-Tu songeais dans le bleu de la nuit qui s'abime.
+Tu songeais dans le bleu de la nuit qui s'abîme.
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}

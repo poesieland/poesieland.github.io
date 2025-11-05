@@ -6,8 +6,6 @@ weight = 33
 categories = ["Etre"]
 tags = ["philosophie", "1998", "alexandrin"]
 info = """
-
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 """
 
@@ -51,7 +49,5 @@ Berceuse chantonnée au sable trop amer
 Qu'endormira d'un geste une antique pavane...
 
 {{% notice style="primary" %}}
-
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}

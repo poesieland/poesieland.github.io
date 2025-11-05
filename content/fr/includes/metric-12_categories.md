@@ -3,8 +3,8 @@ title = "Associations privilégiées"
 +++
 - [Etre](/categories/etre)
 - [Automne](/categories/automne)
-- [Temps](/categories/temps)
 - [Création](/categories/création)
+- [Temps](/categories/temps)
 - [Portraits](/categories/portraits)
 - [Foi](/categories/foi)
 - [Jardin et paysage](/categories/jardin-et-paysage)

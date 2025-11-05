@@ -6,8 +6,6 @@ weight = 42
 categories = ["Etre", "Nuit", "Ciel"]
 tags = ["philosophie", "ombres et lumières", "nature", "2024", "alexandrin"]
 info = """
-
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 """
 
@@ -42,7 +40,5 @@ J'ai rêvé d'une nef immense, un rêve nu
 Pour lier dans un souffle une nuit magistrale.
 
 {{% notice style="primary" %}}
-
-Les poèmes qui reprennent _la nuit faite mer_ :
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}
