@@ -33,4 +33,6 @@ S'envole au beau novembre :
 
 Ce n'est que l'antichambre,
 
-Renaître un cœur de mai.
+Renaître un cœur de mai[^1].
+
+[^1]: en mai : mon anniversaire 🙂

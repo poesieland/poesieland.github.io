@@ -1,9 +1,9 @@
 +++
 title = "De saison..."
-date = 2025-08-27
-summary = "Août 2025"
+date = 2025-11-05
+summary = "Novembre 2025"
 +++
 
 ### En vogue
 
-Je vous propose [la rentrée scolaire](../tags/rentrée-scolaire/) et déjà [l'automne](../categories/automne).
+Je vous propose [l'automne](../categories/automne), [l'aube](../categories/aube) et déjà un petit peu [Noël](../tags/noël).
