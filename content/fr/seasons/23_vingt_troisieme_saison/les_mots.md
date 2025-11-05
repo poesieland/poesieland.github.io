@@ -10,7 +10,7 @@ verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Les mots respirent
+Les mots respirent[^1]
 
 Echevelés,
 
@@ -57,3 +57,5 @@ D'eux-mêmes mus.
 {{% notice style="primary" %}}
 [Les poèmes du mini-thème "les mots"](../../tags/les-mots).
 {{% /notice %}}
+
+[^1]: Clin d'oeil à la [prochaine](../24_vingt_quatrieme_saison/) Saison.

@@ -22,7 +22,7 @@ LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Dans le miroitement de la nuit faite mer
 
-A l'intérieur grandi d'un kaléidoscope
+A l'intérieur grandi d'un kaléidoscope[^1]
 
 Se mélangent parfums du plus clair à l'amer
 
@@ -40,3 +40,5 @@ Reviens pour t'enivrer, sur, virtuel, ce livre.
 {{% notice style="primary" %}}
 {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}
+
+[^1]: Clin d'oeil au titre de cette Saison.

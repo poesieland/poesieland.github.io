@@ -5,7 +5,7 @@ date = 2024-09-05
 weight = 50
 categories = ["Temps"]
 tags = ["philosophie", "2024", "acrostiche", "octosyllabe"]
-info = "Ce dernier poème de la 21e saison annonce le titre de la 22e..."
+info = "Ce dernier poème de la 21e Saison annonce le titre de la 22e..."
 acrostiche = "Autant le dire"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -38,7 +38,7 @@ Reine éternité désormais
 Etreint mon temps de son temps sage.
 
 {{% notice style="primary" %}}
-Ce dernier poème de la 21e saison annonce le titre de la 22e...
+Ce dernier poème de la 21e Saison annonce le titre de la 22e...
 
 Acrostiche : Autant le dire.
 {{% /notice %}}
