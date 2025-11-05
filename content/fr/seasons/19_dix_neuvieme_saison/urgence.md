@@ -3,9 +3,19 @@ title = "Urgence"
 id = "urgence_19"
 date = 2024-03-23
 weight = 25
-categories = ["Angoisse", "Temps", "Climat"]
-tags = ["philosophie", "nature", "2024", "métrique variable", "pentasyllabe", "dissyllabe"]
-info = "Métrique variable : 5, 2"
+categories = [ "Angoisse", "Temps", "Climat" ]
+tags = [
+  "philosophie",
+  "nature",
+  "2024",
+  "métrique variable",
+  "pentasyllabe",
+  "dissyllabe"
+]
+info = """
+Métrique variable : 5, 2.
+
+{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}"""
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -47,4 +57,6 @@ Trop tard !
 
 {{% notice style="primary" %}}
 Métrique variable : 5, 2.
+
+{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}
 {{% /notice %}}

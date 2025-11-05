@@ -36,7 +36,7 @@ De chants qui sèment
 Brins d'infini !
 
  \
-De place en place
+De place en place[^1]
 
 Tout est joyeux,
 
@@ -52,3 +52,5 @@ Discrets chineurs,
 Chaque jour gère
 
 Temps de bonheurs.
+
+[^1]: Clin d'oeil à la [quinzième saison](../15_quinzieme_saison/).

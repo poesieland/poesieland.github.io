@@ -3,10 +3,11 @@ title = "Vivre"
 id = "vivre_19"
 date = 2024-03-31
 weight = 32
-categories = ["Temps"]
-tags = ["philosophie", "2024", "pentasyllabe"]
+categories = [ "Temps" ]
+tags = [ "philosophie", "2024", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = '{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}'
 +++
 
 Le temps qui nous reste
@@ -34,3 +35,7 @@ Vivons le présent,
 C'est inexorable :
 
 Chaque jour grisant.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}
+{{% /notice %}}

@@ -31,6 +31,8 @@ J'avancerai sans heurt
 
 Jusqu'au bout plus vivante,
 
-Destination bonheur,
+Destination bonheur[^1],
 
 Venez, tout nous enchante !
+
+[^1]: Le titre de cette Saison...
