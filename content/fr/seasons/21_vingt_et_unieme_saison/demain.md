@@ -6,9 +6,8 @@ weight = 34
 categories = ["Enfance et adolescence", "Temps"]
 tags = ["philosophie", "famille", "2024", "acrostiche", "octosyllabe"]
 info = """
-Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
+Cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
 
 acrostiche = "Demain nous serons"
@@ -52,9 +51,8 @@ Nouveau dans mon coeur baladin,
 Sourire de mère attendrie.
 
 {{% notice style="primary" %}}
-Reprise modifiée en deux vers du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/demain_nous_serons) mais cette fois-ci le message s'adresse à mon fils et plus mon neveu...
+Cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain nous serons.

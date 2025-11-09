@@ -6,7 +6,6 @@ weight = 41
 categories = ["Romantisme", "Temps"]
 tags = ["amour", "philosophie", "2024", "acrostiche", "alexandrin"]
 info = """
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
 
 acrostiche = "Demain, là"
@@ -32,7 +31,6 @@ Le temps passe et le monde a changé de partout,
 Amour, notre chemin continue, indicible.
 
 {{% notice style="primary" %}}
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain, là.

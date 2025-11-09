@@ -6,7 +6,6 @@ weight = 40
 categories = ["Romantisme"]
 tags = ["amour", "2024", "acrostiche", "alexandrin"]
 info = """
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}"""
 
 acrostiche = "Demain vivant"
@@ -41,7 +40,6 @@ Noces, une montagne à gravir, un effort,
 Tout notre amour demain n'est pas juste un miracle.
 
 {{% notice style="primary" %}}
-Les poèmes de ce mini-thème glissant vers la vieillesse :
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain vivant.
