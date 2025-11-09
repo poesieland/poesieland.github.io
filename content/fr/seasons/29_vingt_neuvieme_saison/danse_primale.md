@@ -1,6 +1,6 @@
 ---
 weight: 33
-title: danse primale
+title: Danse primale
 id: danse_primale_29
 date: 2025-10-16
 verseLength: 12
