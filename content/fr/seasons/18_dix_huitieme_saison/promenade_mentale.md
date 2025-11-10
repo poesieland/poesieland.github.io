@@ -6,7 +6,6 @@ weight = 19
 categories = ["Temps", "Création"]
 tags = ["philosophie", "2023", "octosyllabe", "les mois"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
 
 verseLength = 8
@@ -46,6 +45,5 @@ Le sens du monde à travers l'âge,
 Et je ris, je rêve, partage !
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 {{% /notice %}}

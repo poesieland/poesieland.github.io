@@ -6,7 +6,6 @@ weight = 9
 categories = [ "Amitié" ]
 tags = [ "2024", "amour", "famille", "octosyllabe", "refrain" ]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -39,6 +38,5 @@ Un air tout doux, et toi maman
 Etait heureuse de m'entendre.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 {{% /notice %}}

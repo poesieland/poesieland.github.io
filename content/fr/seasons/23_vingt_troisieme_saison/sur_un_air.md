@@ -6,7 +6,6 @@ weight = 39
 categories = ["Musique et chant"]
 tags = ["attitudes", "2024", "octosyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
 
 verseLength = 8
@@ -40,6 +39,5 @@ Las, nulle musique alentour,
 C'était un souvenir volage.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 {{% /notice %}}

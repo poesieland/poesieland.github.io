@@ -6,7 +6,6 @@ weight = 1
 categories = ["Musique et chant"]
 tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
 
 acrostiche = "Sur un air"
@@ -31,7 +30,6 @@ Imprimer sa plainte fugace!
 Ris au contraire comme on passe!
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
 
 Acrostiche : Sur un air.
