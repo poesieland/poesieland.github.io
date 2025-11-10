@@ -6,7 +6,6 @@ weight = 13
 categories = ["Angoisse", "Temps"]
 tags = ["philosophie", "2025", "ennéasyllabe"]
 info = """
-Les poèmes qui commencent par ces deux premiers vers ou une variation...
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}"""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -39,6 +38,5 @@ Ont brûlé, calligrammes, arts, temps
 Revenu d'un monde qui s'altère.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ces deux premiers vers ou une variation...
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 {{% /notice %}}

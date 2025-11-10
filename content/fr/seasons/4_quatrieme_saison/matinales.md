@@ -8,7 +8,6 @@ tags = [ "ombres et lumières", "philosophie", "1997", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = """
-Les poèmes qui commencent par ces deux premiers vers ou une variation...
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}"""
 +++
 
@@ -48,6 +47,5 @@ C'est la divine phrase
 Qui terre et ciel relit.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ces deux premiers vers ou une variation...
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 {{% /notice %}}

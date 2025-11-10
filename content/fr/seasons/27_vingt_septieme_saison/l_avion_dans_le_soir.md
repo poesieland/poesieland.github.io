@@ -15,7 +15,6 @@ tags:
     - nature
 location: []
 info: |-
-    Les poèmes qui commencent par ces deux premiers vers ou une variation...
     {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 pictures: []
 poemType: ""
@@ -59,6 +58,5 @@ Mon coeur donne l'obole
 Au soir tout de satin.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ces deux premiers vers ou une variation...
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 {{% /notice %}}

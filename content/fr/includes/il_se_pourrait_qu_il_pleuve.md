@@ -1,7 +1,7 @@
 +++
 title = "Liste des poèmes"
 +++
-Les poèmes qui commencent par ce vers :
+Les poèmes qui commencent par _Il se pourrait qu'il pleuve_ :
 
 - [à la vingtième saison](../seasons/20_vingtieme_saison/l_ordre_des_choses)
 - [à la vingt-et-unième saison](../seasons/21_vingt_et_unieme_saison/les_cieux_d_avant)

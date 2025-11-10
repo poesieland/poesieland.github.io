@@ -10,6 +10,4 @@ _Un trait de mille feux_
  \
 Repris en tant que vers ou partie de vers.
 
-Les poèmes qui incluent cette image :
-
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}

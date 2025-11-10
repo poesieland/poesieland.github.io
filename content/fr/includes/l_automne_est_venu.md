@@ -1,7 +1,7 @@
 +++
 title = "Liste des poèmes"
 +++
-Les poèmes qui commencent par ce vers :
+Les poèmes qui commencent par _L'automne est venu comme un songe_ :
 
 - [à la cinquième saison](../seasons/5_cinquieme_saison/l_automne_est_venu)
 - [à la vingt-et-unième saison](../seasons/21_vingt_et_unieme_saison/destruction)
