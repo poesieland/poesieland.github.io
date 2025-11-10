@@ -2,7 +2,7 @@
 title = "L'automne est venu comme un songe"
 description = "Depuis la cinquième saison"
 +++
-Une impression tellement agréable...
+Une impression tellement agréable.
 
 {{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
 

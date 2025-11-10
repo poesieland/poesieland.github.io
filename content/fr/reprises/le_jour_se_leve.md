@@ -8,12 +8,7 @@ _Le jour se lève,_
 
 _Il est glorieux_
 
- \
- Et ensuite, repris plus simplement :
-
-_Le jour se lève_
-
- \
+Et aussi repris plus simplement, juste le premier vers.
 
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 
