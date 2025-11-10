@@ -6,8 +6,6 @@ weight = 26
 categories = ["Temps"]
 tags = ["philosophie", "1997", "octosyllabe"]
 info = """
-
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
 
 verseLength = 8
@@ -41,7 +39,5 @@ Pour mesurer notre destin
 Et l'homme que son cœur habite.
 
 {{% notice style="primary" %}}
-
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
 {{% /notice %}}

@@ -6,7 +6,6 @@ weight = 21
 categories = ["Flore", "Temps"]
 tags = ["nature", "philosophie", "2024", "octosyllabe", "refrain"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
 
 verseLength = 8
@@ -40,6 +39,5 @@ Ils comptent les jours et les nuits
 De leurs arbrisseaux qui forcissent.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
 {{% /notice %}}
