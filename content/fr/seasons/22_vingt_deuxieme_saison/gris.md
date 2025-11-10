@@ -6,7 +6,6 @@ weight = 46
 categories = ["Ciel", "Hiver"]
 tags = ["nature", "saisons", "2024", "hexasyllabe", "refrain"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
 
 verseLength = 6
@@ -31,6 +30,5 @@ Le ciel est gris, si morne,
 D'un hiver imminent.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

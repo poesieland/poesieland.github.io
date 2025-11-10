@@ -6,7 +6,6 @@ weight = 34
 categories = ["Automne"]
 tags = ["saisons", "2024", "octosyllabe"]
 info = """
-Les poèmes qui commencent par la variante principale du premier vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 """
 
@@ -41,6 +40,5 @@ Un automne pour raconter
 Chanson de feuille jaune et rousse !
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par la variante principale du premier vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

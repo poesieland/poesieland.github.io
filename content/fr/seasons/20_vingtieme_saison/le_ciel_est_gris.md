@@ -8,7 +8,6 @@ tags = ["nature", "philosophie", "2024", "métrique variable", "octosyllabe", "h
 info = """
 Métrique variable : 8, 6.
       
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
 
 verseLength = -1
@@ -43,7 +42,6 @@ Et danse la limace !
 
 {{% notice style="primary" %}}
 Métrique variable : 8, 6.
-      
-Les poèmes qui commencent par ce vers...
+
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}

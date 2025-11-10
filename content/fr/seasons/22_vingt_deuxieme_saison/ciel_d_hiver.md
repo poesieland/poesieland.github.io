@@ -6,7 +6,6 @@ weight = 40
 categories = ["Ciel", "Hiver"]
 tags = ["nature", "saisons", "2024", "hexasyllabe", "refrain"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
 
 verseLength = 6
@@ -40,6 +39,5 @@ Le ciel est gris, voleur,
 L'hiver pour réceptacle.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
 {{% /notice %}}
