@@ -14,7 +14,6 @@ _Il est glorieux_
 _Le jour se lève_
 
  \
-Les poèmes qui commencent par cette affirmation :
 
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 

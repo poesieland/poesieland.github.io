@@ -6,8 +6,6 @@ weight = 33
 categories = ["Aube"]
 tags = ["ombres et lumières", "1996", "tétrasyllabe"]
 info = """
-
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 
 verseLength = 4
@@ -59,7 +57,5 @@ Le temps s'arrête
 Pour mon bonheur.
 
 {{% notice style="primary" %}}
-
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}

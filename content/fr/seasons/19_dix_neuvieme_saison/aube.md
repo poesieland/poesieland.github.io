@@ -6,7 +6,6 @@ weight = 6
 categories = ["Aube"]
 tags = ["ombres et lumières", "2024", "tétrasyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 
 verseLength = 4
@@ -58,6 +57,5 @@ Fin du murmure,
 Le jour est là.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}

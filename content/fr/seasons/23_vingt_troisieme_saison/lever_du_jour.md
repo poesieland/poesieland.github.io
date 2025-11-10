@@ -6,7 +6,6 @@ weight = 9
 categories = ["Ciel", "Aube"]
 tags = ["nature", "ombres et lumières", "2024", "tétrasyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 
 verseLength = 4
@@ -40,6 +39,5 @@ Douces patines
 Sans se lasser !
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}

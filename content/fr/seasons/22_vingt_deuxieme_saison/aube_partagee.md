@@ -6,7 +6,6 @@ weight = 24
 categories = ["Aube", "Amitié"]
 tags = ["ombres et lumières", "amour", "2024", "tétrasyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 
 pictures = ["Annecy ce matin-là", "Charleroi au même moment"]
@@ -54,6 +53,5 @@ Tout notre amour.
 {{< figure src="/images/aube_partagee_22_1.jpg" title="Charleroi au même moment" >}}
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}

@@ -1,6 +1,7 @@
 +++
 title = "Liste des poèmes"
 +++
+Les poèmes qui commencent par _Le jour se lève_ :
 
 - [à la deuxième saison](../seasons/2_deuxieme_saison/le_temps_des_heures)
 - [à la seizième saison](../seasons/16_seizieme_saison/le_jour)

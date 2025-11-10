@@ -6,7 +6,6 @@ weight = 16
 categories = ["Aube", "Ciel"]
 tags = ["ombres et lumières", "nature", "2024", "tétrasyllabe"]
 info = """
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
 
 verseLength = 4
@@ -40,6 +39,5 @@ Où rose et parme
 Sont teintes soeurs.
 
 {{% notice style="primary" %}}
-Les poèmes qui commencent par ce vers...
 {{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
 {{% /notice %}}
