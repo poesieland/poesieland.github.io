@@ -6,7 +6,6 @@ weight = 37
 categories = ["Hiver", "Jardin et paysage"]
 tags = ["saisons", "nature", "2025", "octosyllabe"]
 info = """
-Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
 
 verseLength = 8
@@ -31,6 +30,5 @@ Pastels mélangent leurs attraits,
 Un photographe erre, lucide.
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
 {{% /notice %}}

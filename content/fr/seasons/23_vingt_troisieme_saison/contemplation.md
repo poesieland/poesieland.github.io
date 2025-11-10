@@ -6,7 +6,6 @@ weight = 34
 categories = ["Hiver", "Etre"]
 tags = ["saisons", "philosophie", "2024", "octosyllabe"]
 info = """
-Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}"""
 
 verseLength = 8
@@ -31,6 +30,5 @@ Des troncs d'acajous et de marbres,
 Vois avec moi rêve natal.
 
 {{% notice style="primary" %}}
-Les poèmes qui reprennent _l'orgue des arbres_ :
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
 {{% /notice %}}
