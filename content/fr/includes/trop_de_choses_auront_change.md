@@ -1,9 +1,7 @@
 +++
 title = "Liste des poèmes"
 +++
-Un constat doux-amer : _Trop de choses auront changé_
-
-Les poèmes qui commencent par ce vers :
+Les poèmes qui commencent par _Trop de choses auront changé_ :
 
 - [à la onzième saison](../seasons/11_onzieme_saison/rester)
 - [à la dix-neuvième saison](../seasons/19_dix_neuvieme_saison/facettes)
