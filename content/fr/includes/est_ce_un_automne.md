@@ -1,14 +1,9 @@
 +++
 title = "Liste des poèmes"
 +++
-_Est-ce un automne, (est-ce un printemps)_
 
-_Qui dans mon coeur (se renouvelle) ?_
+Les poèmes qui commencent par _Est-ce un automne..._ :
 
- \
-Une question que j'adore... L'automne si proche du printemps parce que ces saisons ont des longueurs de jour semblable... des nuances climatiques.
-
-Les poèmes qui élaborent autour de cette suggestion :
 - [à la troisième saison](../seasons/3_troisieme_saison/est_ce_un_automne)
 - [à la dix-huitième saison](../seasons/18_dix_huitieme_saison/saisons)
 - [à la vingtième saison](../seasons/20_vingtieme_saison/l_ete_glacial)

@@ -9,3 +9,4 @@ Le mini-thème *Gare au(x) chat(s)...* :
 - [qui miaule / A tort à travers - à la vingt-huitième saison](../seasons/28_vingt_huitieme_saison/chat_roi)
 - [qui miaule / De plus en plus fort - à la vingt-huitième saison](../seasons/28_vingt_huitieme_saison/tyran)
 - [qui dorment / Ces gros patachons - à la vingt-neuvième saison](../seasons/29_vingt_neuvieme_saison/volupte)
+- [qui veut / Quelque chose encore - à la vingt-neuvième saison](../seasons/29_vingt_neuvieme_saison/l_incompris)

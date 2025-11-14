@@ -29,7 +29,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Chemins non balisés (26) 2025', value: 1, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 2, color: 'rgba(27, 79, 8, 0.5)' },
     { label: 'Les mots sur le chemin (28) 2025', value: 16, color: 'rgba(27, 79, 8, 0.5)' },
-    { label: 'Kaléidoscopes (29) 2025', value: 17, color: 'rgba(27, 79, 8, 0.5)' },
+    { label: 'Kaléidoscopes (29) 2025', value: 19, color: 'rgba(27, 79, 8, 0.5)' },
   ];
     addBarChart('poems-automneBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

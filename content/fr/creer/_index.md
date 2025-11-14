@@ -62,6 +62,8 @@ Relire d'anciens poèmes me fait penser des fois qu'il y a encore des choses à 
 
 Cela est également dû au fait que la langue française est un espace fini. C'est une certaine limitation de la poésie, d'ailleurs, la connaissance d'un ensemble linguistique dans lequel projeter des émotions.
 
+Ensuite sont venues les [reprises](../reprises/) volontaires, en général d'un premier vers ou d'une métaphore. La première reprise... peu après la nouvelle version de ce site qui a enfin contenu tous mes écrits : [en novembre 2023](../seasons/18_dix_huitieme_saison/saisons).
+
 La meilleure définition ? La poésie se ressource à l'amour de la vie et aux envies et projections qu'on fait.
 
 ## Le médium
