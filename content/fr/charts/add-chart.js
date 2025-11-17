@@ -46,7 +46,8 @@ const addPieChart = (chartId, datas, options) => { addChart(chartId, 'pie', ['']
 
 const addBarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'bar', chartLabels, datas, options); };
 
-const addRadarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'radar', chartLabels, datas, options); }
+const addRadarChart = (chartId, chartLabels, datas, options) => { addChart(chartId, 'radar', chartLabels, datas, 
+    Object.assign({ plugins: { tooltip: { callbacks: { label: function(context) { return context.parsed.r; } } } } }, options)) };
 
 const addBubbleChart = (chartId, chartLabels, datas, options) => { 
     var datasets = [];
