@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 30, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 37, color: 'rgba(255, 111, 125, 1)' },
-    { label: 'Romantisme', value: 59, color: 'rgba(253, 108, 158, 1)' },
+    { label: 'Romantisme', value: 60, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 62, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 46, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 37, color: 'rgba(253, 241, 184, 1)' },
@@ -19,7 +19,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Etre', value: 131, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 48, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 40, color: 'rgba(61, 0, 102, 1)' },
-    { label: 'Angoisse', value: 66, color: 'rgba(38, 9, 78, 1)' },
+    { label: 'Angoisse', value: 67, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 23, color: 'rgba(244, 254, 254, 1)' },
     { label: 'Flore', value: 70, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 60, color: 'rgba(121, 248, 248, 1)' },
@@ -34,7 +34,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 14, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 51, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 50, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 138, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 142, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 64, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });

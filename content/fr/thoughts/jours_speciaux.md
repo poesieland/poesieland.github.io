@@ -13,6 +13,7 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 
 - [Halloween](../seasons/18_dix_huitieme_saison/halloween)<br>*à la dix-huitième saison*
 - [Octobre servile](../seasons/22_vingt_deuxieme_saison/octobre)<br>*à la vingt-deuxième saison*
+- [D'octobre à novembre](../seasons/29_vingt_neuvieme_saison/d_octobre_a_novembre)<br>*à la vingt-neuvième saison*
 
 #### 1er novembre : la Toussaint
 - [Toussaint](../seasons/4_quatrieme_saison/toussaint)<br>*à la quatrième saison*

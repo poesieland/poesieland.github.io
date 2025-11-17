@@ -10,4 +10,4 @@ title = "Associations privilégiées"
 - [Hiver](/categories/hiver)
 - [Création](/categories/création)
 - [Flore](/categories/flore)
-- [Foi](/categories/foi)
+- [Angoisse](/categories/angoisse)
