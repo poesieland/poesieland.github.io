@@ -1,5 +1,5 @@
 {
-  "description": "Displays a notice with primary style set",
+  "description": "Displays a primary styled notice",
   "body": [
     "{{% notice style=\"primary\" %}}",
     "[[&content]]",

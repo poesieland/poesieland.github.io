@@ -8,8 +8,8 @@ Elle commence par un mot magique... Maman.
 
 Aussi bien celle que je suis, que la mienne dont je peux raconter l'histoire.
 
-Et par extension ma grand-mère aussi, et là, il y a pas mal de souvenirs également.
+Et par extension ma grand-mère, et là, il y a pas mal de souvenirs.
 
-Et c'est aussi... Papa.
+Et c'est également... Papa.
 
-Et aussi ceux qui nous suivent.
+Et ensuite ceux qui nous suivent ou nous entourent.

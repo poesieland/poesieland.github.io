@@ -20,27 +20,43 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 ### Quelques poèmes liés aux solstices
 
 **d'été :**
-- [Soleil voilé - écrit le 13.06.2024](../seasons/20_vingtieme_saison/soleil_voile)<br>*à la vingtième saison*
-- [Peine - écrit le 20.06.2024](../seasons/20_vingtieme_saison/peine)<br>*à la vingtième saison*
-- [21 juin - écrit le 21.06.2025](../seasons/27_vingt_septieme_saison/21_juin)<br>*à la vingt-septième saison*
+- [Soleil voilé - écrit le 13.06.2024](../seasons/20_vingtieme_saison/soleil_voile)  
+*à la vingtième saison*
+- [Peine - écrit le 20.06.2024](../seasons/20_vingtieme_saison/peine)  
+*à la vingtième saison*
+- [21 juin - écrit le 21.06.2025](../seasons/27_vingt_septieme_saison/21_juin)  
+*à la vingt-septième saison*
 
 **d'hiver :**
-- [Présent simple - écrit le 17.12.2023](../seasons/18_dix_huitieme_saison/present_simple)<br>*à la dix-huitième saison*
-- [Solstice d'hiver - écrit le 20.12.2004](../seasons/17_dix_septieme_saison/solstice_d_hiver)<br>*à la dix-septième saison*
-- [Solstice - écrit le 20.12.2024](../seasons/23_vingt_troisieme_saison/solstice)<br>*à la vingt-troisième saison*
-- [Hiver perdu - écrit le 21.12.2024](../seasons/23_vingt_troisieme_saison/hiver_perdu)<br>*à la vingt-troisième saison*
-- [Renouveau - écrit le 22.12.2024](../seasons/23_vingt_troisieme_saison/renouveau)<br>*à la vingt-troisième saison*
+- [Présent simple - écrit le 17.12.2023](../seasons/18_dix_huitieme_saison/present_simple)  
+*à la dix-huitième saison*
+- [Solstice d'hiver - écrit le 20.12.2004](../seasons/17_dix_septieme_saison/solstice_d_hiver)  
+*à la dix-septième saison*
+- [Solstice - écrit le 20.12.2024](../seasons/23_vingt_troisieme_saison/solstice)  
+*à la vingt-troisième saison*
+- [Hiver perdu - écrit le 21.12.2024](../seasons/23_vingt_troisieme_saison/hiver_perdu)  
+*à la vingt-troisième saison*
+- [Renouveau - écrit le 22.12.2024](../seasons/23_vingt_troisieme_saison/renouveau)  
+*à la vingt-troisième saison*
 
 ### Quelques poèmes liés à l'équinoxe
 
 **d'automne seulement**, celui de printemps n'étant pas aussi marquant, pourquoi est-il presque invisible à mes yeux... ? :
 
-- [Vers l'ombre - écrit le 08.08.2025](../seasons/28_vingt_huitieme_saison/vers_l_ombre)<br>*à la vingt-huitième saison*
-- [Equinoxes - écrit le 24.08.2025](../seasons/28_vingt_huitieme_saison/equinoxes)<br>*à la vingt-huitième saison*
-- [Langueur d'automne - écrit le 06.09.2024](../seasons/22_vingt_deuxieme_saison/langueur_d_automne)<br>*à la vingt-deuxième saison*
-- [L'automne est là - écrit le 09.09.2025](../seasons/29_vingt_neuvieme_saison/l_automne_est_la)<br>*à la vingt-neuvième saison*
-- [Demain l'automne - écrit le 22.09.1998](../seasons/9_neuvieme_saison/demain_l_automne)<br>*à la neuvième saison*
-- [Voici l'automne - écrit le 22.09.2024](../seasons/22_vingt_deuxieme_saison/voici_l_automne)<br>*à la vingt-deuxième saison*
-- [Toute saison - écrit le 23.09.2024](../seasons/22_vingt_deuxieme_saison/toute_saison)<br>*à la vingt-deuxième saison*
-- [Juin, juillet, octobre - écrit le 30.09.2024](../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre)<br>*à la vingt-deuxième saison*
+- [Vers l'ombre - écrit le 08.08.2025](../seasons/28_vingt_huitieme_saison/vers_l_ombre)  
+*à la vingt-huitième saison*
+- [Equinoxes - écrit le 24.08.2025](../seasons/28_vingt_huitieme_saison/equinoxes)  
+*à la vingt-huitième saison*
+- [Langueur d'automne - écrit le 06.09.2024](../seasons/22_vingt_deuxieme_saison/langueur_d_automne)  
+*à la vingt-deuxième saison*
+- [L'automne est là - écrit le 09.09.2025](../seasons/29_vingt_neuvieme_saison/l_automne_est_la)  
+*à la vingt-neuvième saison*
+- [Demain l'automne - écrit le 22.09.1998](../seasons/9_neuvieme_saison/demain_l_automne)  
+*à la neuvième saison*
+- [Voici l'automne - écrit le 22.09.2024](../seasons/22_vingt_deuxieme_saison/voici_l_automne)  
+*à la vingt-deuxième saison*
+- [Toute saison - écrit le 23.09.2024](../seasons/22_vingt_deuxieme_saison/toute_saison)  
+*à la vingt-deuxième saison*
+- [Juin, juillet, octobre - écrit le 30.09.2024](../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre)  
+*à la vingt-deuxième saison*
 

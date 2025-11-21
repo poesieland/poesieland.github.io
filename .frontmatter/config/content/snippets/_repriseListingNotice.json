@@ -1,10 +1,17 @@
 {
-  "description": "Displays a prefilled notice with primary style set",
+  "description": "Displays a primary styled notice for specific listing inclusion",
   "body": [
     "{{% notice style=\"primary\" %}}",
-    "{{% include \"../../includes/a_specific_listing\" hidefirstheading %}}",
+    "{{% include \"../../includes/[[&specificListing]]\" hidefirstheading %}}",
     "{{% /notice %}}"
   ],
   "fields": [
+    {
+      "name": "specificListing",
+      "title": "specific listing page name",
+      "type": "string",
+      "single": true,
+      "default": "a_specific_listing"
+    }
   ]
 }

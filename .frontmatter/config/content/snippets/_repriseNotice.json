@@ -1,10 +1,31 @@
 {
-  "description": "Displays a prefilled notice with primary style set",
+  "description": "Displays a primary styled notice for repeat of a poem first verse",
   "body": [
     "{{% notice style=\"primary\" %}}",
-    "Reprise du premier vers d'un [poème de la enième saison](../n_enième_saison/poem_title).",
+    "Reprise du premier vers d'un [poème de la [[&seasonNumberedName]] saison](../[[&seasonDirectory]]/[[&poemFileName]]).",
     "{{% /notice %}}"
   ],
   "fields": [
+    {
+      "name": "seasonNumberedName",
+      "title": "season numbered name",
+      "type": "string",
+      "single": true,
+      "default": "enième"
+    },
+    {
+      "name": "seasonDirectory",
+      "title": "season directory",
+      "type": "string",
+      "single": true,
+      "default": "n_enième_saison"
+    },
+    {
+      "name": "poemFileName",
+      "title": "poem file name",
+      "type": "string",
+      "single": true,
+      "default": "poem_title"
+    }
   ]
 }

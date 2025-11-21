@@ -1,0 +1,30 @@
+{
+  "description": "Insert a custom list item",
+  "body": [
+    "- [ [[&poemTitle]] ]([[&poemPath]])  ",
+  "*à la [[&seasonNumberedName]] saison*"
+  ],
+  "fields": [
+    {
+      "name": "poemTitle",
+      "title": "poem title",
+      "type": "string",
+      "single": true,
+      "default": "Poem title"
+    },
+    {
+      "name": "poemPath",
+      "title": "Path to poem file",
+      "type": "string",
+      "single": true,
+      "default": "../"
+    },
+    {
+      "name": "seasonNumberedName",
+      "title": "season numbered name",
+      "type": "string",
+      "single": true,
+      "default": "enième"
+    }
+  ]
+}
