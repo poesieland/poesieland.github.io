@@ -76,7 +76,7 @@ Sur cette page qui rassemble les affinités saisonnières des Saisons, figurent 
 </div>
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season29Pie" width="22vw" margin="20px" padding="0" jsFile="../season-29/categories-pie.js" inline=true text="En cours... Automne"/>}}
+{{< chartjs id="season29Pie" width="22vw" margin="20px" padding="0" jsFile="../season-29/categories-pie.js" inline=true text="Deux mois et demi, aussi follement l'automne que la 22e saison un an plus tôt"/>}}
 <div style="display:flex;justify-content:space-around;">
   <div style="position:relative;width:22vw;padding:0;margin:20px;">
   </div>

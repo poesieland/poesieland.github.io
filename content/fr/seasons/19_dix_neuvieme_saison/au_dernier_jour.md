@@ -5,7 +5,7 @@ date = 2024-03-05
 weight = 18
 categories = [ "Temps", "Espoir" ]
 tags = [ "2024", "octosyllabe", "philosophie", "refrain" ]
-info = "Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire)"
+info = '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -46,5 +46,5 @@ Notre présence sur la terre
 Et sans regret fermons les yeux.
 
 {{% notice style="primary" %}}
-Reprise des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/fleurs_de_memoire).
+{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
 {{% /notice %}}

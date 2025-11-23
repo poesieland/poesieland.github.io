@@ -3,10 +3,11 @@ title = "Fleurs de mémoire"
 id = "fleurs_de_memoire_6"
 date = 1998-04-21
 weight = 26
-categories = ["Temps"]
-tags = ["philosophie", "1998", "octosyllabe"]
+categories = [ "Temps" ]
+tags = [ "philosophie", "1998", "octosyllabe" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
 +++
 
 Au dernier rang du cimetière
@@ -52,3 +53,7 @@ Egrène un chapelet d'espoir :
 L'ombre ricoche et puis résonne
 
 Dans notre paix jusqu'au grand soir.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
+{{% /notice %}}

@@ -4,9 +4,7 @@ summary = "Saisons, philosophie, nature... De juillet à septembre 2025"
 weight = 28
 +++
 
-L'automne, le temps, une place pour l'apprentissage et le romantisme.
-
-De juillet à septembre 2025
+L'automne, le temps, une place pour l'apprentissage et le romantisme. De juillet à septembre 2025
 
 ---
 {{% children  %}}

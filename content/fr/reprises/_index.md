@@ -8,20 +8,20 @@ Reprendre pour mieux redonner : l'art de la reprise.
 
 Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
 
-### Reprise spéciale : mini-thème
+### Reprise "syntaxique" : mini-thème
 
   - [Les mots](../tags/les-mots/)  
   *Depuis la sixième saison*
 
-### Reprises multiples
+### Reprises d'un ou plusieurs vers ou d'une image
+
+#### Plusieurs fois
 
 {{% children description="true" %}}
 
-### Reprises uniques en vrac
+#### Une seule fois pour le moment
 
 **A la dix-neuvième saison**
-- ["Au dernier rang du cimetière / J'aurai ma tombe sous les fleurs"](../seasons/19_dix_neuvieme_saison/au_dernier_jour)  
-*Depuis la sixième saison*
 - ["On a repeint jaune"](../seasons/19_dix_neuvieme_saison/ce_temps_la)  
 *Depuis la sixième saison*
 - ["Avant de partir"](../seasons/19_dix_neuvieme_saison/cerisiers_du_printemps)  
