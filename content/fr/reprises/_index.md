@@ -94,3 +94,8 @@ Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveaut�
 **A la vingt-neuvième saison**
 - ["Virevolte"](../seasons/29_vingt_neuvieme_saison/l_automne_est_vraiment_la)  
 *Depuis la vingt-huitième saison*
+
+**A la trentième saison**
+- ["En attendant décembre et puis un peu de neige](../seasons/30_trentieme_saison/avant_decembre)  
+*Depuis la première saison*
+
