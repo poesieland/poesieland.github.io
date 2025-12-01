@@ -4,7 +4,7 @@ date = 2000-02-22
 title = "A sign"
 LastModifierDisplayName = "Barbara Post - License CC BY-NC-ND 4.0"
 id = "a_sign_14"
-categories = [ "Love" ]
+categories = [ "Romanticism" ]
 +++
 
 Under the sign of sun,
