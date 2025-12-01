@@ -30,7 +30,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 6, color: 'rgba(130, 196, 108, 0.5)' },
     { label: 'Les mots sur le chemin (28) 2025', value: 20, color: 'rgba(130, 196, 108, 0.5)' },
     { label: 'Kaléidoscopes (29) 2025', value: 24, color: 'rgba(130, 196, 108, 0.5)' },
-    { label: 'Tout fait sens (30) 2025', value: 3, color: 'rgba(130, 196, 108, 0.5)' },
+    { label: 'Tout fait sens (30) 2025', value: 4, color: 'rgba(130, 196, 108, 0.5)' },
   ];
     addBarChart('poems-saisonsBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

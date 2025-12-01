@@ -2,8 +2,8 @@
 title = "Associations privilégiées"
 +++
 - [Temps](/categories/temps)
-- [Musique et chant](/categories/musique-et-chant)
 - [Faune](/categories/faune)
+- [Musique et chant](/categories/musique-et-chant)
 - [Automne](/categories/automne)
 - [Crépuscule](/categories/crépuscule)
 - [Etre](/categories/etre)
