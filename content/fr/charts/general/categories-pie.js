@@ -20,7 +20,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Apprentissage', value: 48, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 40, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 69, color: 'rgba(38, 9, 78, 1)' },
-    { label: 'Neige', value: 23, color: 'rgba(244, 254, 254, 1)' },
+    { label: 'Neige', value: 24, color: 'rgba(244, 254, 254, 1)' },
     { label: 'Flore', value: 70, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 60, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 40, color: 'rgba(0, 127, 255, 1)' },

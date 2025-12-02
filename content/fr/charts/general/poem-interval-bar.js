@@ -3,7 +3,7 @@ import { addBarChart } from '../add-chart.js'
   const data = [
     { label: 'Moins d\'un jour', value: 320, color: 'rgba(72, 149, 239, 1)' },
     { label: 'Un jour', value: 518, color: 'rgba(72, 149, 239, 0.9)' },
-    { label: '2j', value: 203, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '2j', value: 204, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '3j', value: 127, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 80, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '5j', value: 55, color: 'rgba(72, 149, 239, 0.7)' },

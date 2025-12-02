@@ -10,7 +10,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '14', value: 70, color: 'rgb(163, 228, 215)' },
     { label: '16', value: 334, color: 'rgb(162, 217, 206)' },
     { label: '18', value: 10, color: 'rgb(171, 235, 198)' },
-    { label: '20', value: 112, color: 'rgb(249, 231, 159)' },
+    { label: '20', value: 113, color: 'rgb(249, 231, 159)' },
     { label: '22', value: 2, color: 'rgb(250, 215, 160)' },
     { label: '24', value: 28, color: 'rgb(237, 187, 153)' },
     { label: '26', value: 1, color: 'rgb(247, 249, 249)' },
