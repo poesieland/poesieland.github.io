@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Flore](/categories/flore) et [Printemps](/categories/printemps)
 - [Automne](/categories/automne) et [Hiver](/categories/hiver)
 - [Angoisse](/categories/angoisse) et [Climat](/categories/climat)
-- [Ciel](/categories/ciel) et [Hiver](/categories/hiver)
 - [Ciel](/categories/ciel) et [Crépuscule](/categories/crépuscule)
+- [Ciel](/categories/ciel) et [Hiver](/categories/hiver)
 - [Climat](/categories/climat) et [Eau douce](/categories/eau-douce)
 - [Ciel](/categories/ciel) et [Climat](/categories/climat)
