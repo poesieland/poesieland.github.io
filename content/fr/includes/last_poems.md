@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
+[Whatever, écrit le 20.11.2025](/original_texts/2025/whatever?lang=en)
+
 [L'avion dans le soir, écrit le 20.11.2025](./seasons/30_trentieme_saison/l_avion_dans_le_soir)
 
 [Revoici la neige, écrit le 19.11.2025](./seasons/30_trentieme_saison/revoici_la_neige)
@@ -12,5 +14,4 @@ title = "Derniers ajouts"
 
 [Le chat territorial, écrit le 16.11.2025](./seasons/30_trentieme_saison/le_chat_territorial)
 
-[Signes d'hiver, écrit le 16.11.2025](./seasons/30_trentieme_saison/signes_d_hiver)
 

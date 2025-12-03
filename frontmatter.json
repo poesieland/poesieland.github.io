@@ -541,6 +541,10 @@
       "path": "[[workspace]]/content/fr/seasons/30_trentieme_saison"
     },
     {
+      "title": "EN poems 2025",
+      "path": "[[workspace]]/content/en/original_texts/2025"
+    },
+    {
       "title": "29_vingt_neuvieme_saison",
       "path": "[[workspace]]/content/fr/seasons/29_vingt_neuvieme_saison"
     },
@@ -560,10 +564,6 @@
       "title": "25_vingt_cinquieme_saison",
       "path": "[[workspace]]/content/fr/seasons/25_vingt_cinquieme_saison"
     },
-    // {
-    //   "title": "EN poems 2025",
-    //   "path": "[[workspace]]/content/en/original_texts/2025"
-    // },
     {
       "title": "24_vingt_quatrieme_saison",
       "path": "[[workspace]]/content/fr/seasons/24_vingt_quatrieme_saison"
