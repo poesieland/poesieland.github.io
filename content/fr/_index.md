@@ -1,7 +1,7 @@
 +++
 title = "Poésieland"
 type = "home"
-date = 2025-11-01
+date = 2025-12-07
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
@@ -102,8 +102,6 @@ L'espace limité d'une langue est un grand terrain de jeu, entre les jeux de mot
 
 Bon voyage.
 
-Pour toute remarque ou suggestion : [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
+Pour toute remarque ou suggestion : [Page Facebook](https://www.facebook.com/profile.php?id=61584635947640) ou [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-## Licence
-
-Poesieland © 2023-2025 par Barbara Post est sous licence CC BY-NC-ND 4.0. Pour accéder à une copie de cette licence, allez sur [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+**[Licence du site](./about/#licence)**

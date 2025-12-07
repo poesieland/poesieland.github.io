@@ -1,7 +1,7 @@
 +++
 title = "Poesieland"
 type = "home"
-date = 2024-10-15
+date = 2025-12-07
 +++
 
 ## In French but not only
@@ -42,9 +42,9 @@ Summarizing some thoughts I originally developed in French, poetry first has psy
 
 Have a great trip.
 
-For any feedback: [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
+For any feedback: [Facebook Page](https://www.facebook.com/profile.php?id=61584635947640) or [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
-Last update of this page: 10/15/2024.
+**[Site's license](./about/#license)**
 
 ## Quote
 
@@ -65,8 +65,4 @@ A contemporary poet, Evelina Jarosz Clark, wrote on August 4th, 2001:
 > One other
 > \
 > To be complete.
-
-## License
-
-Poesieland © 2023-2025 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
 

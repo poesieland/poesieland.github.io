@@ -196,6 +196,10 @@ minify = true
             url = "/more/credits"
             weight = 70
         [[Languages.en.menu.shortcuts]]
+            name = "<i class='fa-brands fa-facebook'></i> Facebook"
+            url = "https://www.facebook.com/profile.php?id=61584635947640"
+            weight = 75
+        [[Languages.en.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
             url = "https://github.com/postb99"
             weight = 80
@@ -232,6 +236,10 @@ minify = true
             name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
             url = "/more/credits"
             weight = 80
+        [[Languages.fr.menu.shortcuts]]
+            name = "<i class='fa-brands fa-facebook'></i> Facebook"
+            url = "https://www.facebook.com/profile.php?id=61584635947640"
+            weight = 85
         [[Languages.fr.menu.shortcuts]]
             name = "<i class='fa-brands fa-github'></i> Github"
             url = "https://github.com/postb99"
