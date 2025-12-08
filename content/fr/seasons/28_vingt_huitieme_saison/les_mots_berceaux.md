@@ -1,6 +1,6 @@
 ---
 weight: 11
-title: les mots berceaux
+title: Les mots berceaux
 id: les_mots_berceaux_28
 date: 2025-08-09
 verseLength: 4
@@ -73,3 +73,4 @@ Pour tout prédire,
 En sentiments
 
 Les mots, pour dire.
+

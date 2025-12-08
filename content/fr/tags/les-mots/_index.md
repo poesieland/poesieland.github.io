@@ -1,6 +1,6 @@
 +++
 title = "Les mots"
 +++
-Tous les qualificatifs possibles...
+Tous les qualificatifs possibles, égrenés, une sorte d'incantation.
 
-Exclusivement en tétrasyllabes.
+Par choix rythmique, exclusivement en tétrasyllabes sauf une exception [Laisse les mots](../../seasons/24_vingt_quatrieme_saison/laisse_les_mots).

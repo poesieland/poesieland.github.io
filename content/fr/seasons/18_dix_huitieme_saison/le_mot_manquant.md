@@ -5,7 +5,7 @@ date = 2024-01-03
 weight = 44
 categories = ["Espoir", "Création"]
 tags = ["philosophie", "les mots", "2024", "tétrasyllabe"]
-info = "[Les poèmes du mini-thème \"les mots\"](../../tags/les-mots)"
+info = ""
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -72,6 +72,3 @@ Apaisé quand
 
 Les "merci" s'osent !
 
-{{% notice style="primary" %}}
-[Les poèmes du mini-thème "les mots"](../../tags/les-mots).
-{{% /notice %}}

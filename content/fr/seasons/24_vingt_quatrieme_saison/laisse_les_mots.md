@@ -5,10 +5,7 @@ date = 2025-02-04
 weight = 39
 categories = ["Création", "Apprentissage"]
 tags = ["philosophie", "les mots", "2025", "métrique variable", "hexasyllabe", "trisyllabe", "refrain"]
-info = """
-Métrique variable : 6, 3.
-
-[Les poèmes du mini-thème "les mots"](../../tags/les-mots)"""
+info = "Métrique variable : 6, 3."
 
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -60,6 +57,4 @@ Mots-images.
 
 {{% notice style="primary" %}}
 Métrique variable : 6, 3.
-
-[Les poèmes du mini-thème "les mots"](../../tags/les-mots).
 {{% /notice %}}
