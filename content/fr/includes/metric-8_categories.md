@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Musique et chant](/categories/musique-et-chant)
 - [Création](/categories/création)
 - [Passion](/categories/passion)
+- [Jardin et paysage](/categories/jardin-et-paysage)
 - [Flore](/categories/flore)
 - [Faune](/categories/faune)
-- [Jardin et paysage](/categories/jardin-et-paysage)
 - [Enfance et adolescence](/categories/enfance-et-adolescence)

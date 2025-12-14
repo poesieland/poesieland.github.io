@@ -4,12 +4,16 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
-[Aube d'hiver, écrit le 22.11.2025](./seasons/30_trentieme_saison/aube_d_hiver)
+[L'âme soeur, écrit le 29.11.2025](./seasons/30_trentieme_saison/l_ame_soeur)
 
-[Humeurs du ciel, écrit le 21.11.2025](./seasons/30_trentieme_saison/humeurs_du_ciel)
+[Aube enchantée, écrit le 29.11.2025](./seasons/30_trentieme_saison/aube_enchantee)
 
-[Les mots chansons, écrit le 20.11.2025](./seasons/30_trentieme_saison/les_mots_chansons)
+[Petit hiver, écrit le 24.11.2025](./seasons/30_trentieme_saison/petit_hiver)
 
-[Whatever, écrit le 20.11.2025](/original_texts/2025/whatever?lang=en)
+[La conscription, écrit le 23.11.2025](./seasons/30_trentieme_saison/la_conscription)
 
-[L'avion dans le soir, écrit le 20.11.2025](./seasons/30_trentieme_saison/l_avion_dans_le_soir)
+[Si la guerre, écrit le 23.11.2025](./seasons/30_trentieme_saison/si_la_guerre)
+
+[Il avait neigé, écrit le 23.11.2025](./seasons/30_trentieme_saison/il_avait_neige)
+
+[Naissance de l'hiver, écrit le 22.11.2025](./seasons/30_trentieme_saison/naissance_de_l_hiver)
