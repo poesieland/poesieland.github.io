@@ -8,18 +8,9 @@ Reprendre pour mieux redonner : l'art de la reprise.
 
 Dans beaucoup d'arts, ce sont de bons ingrédients et ce qu'il faut de nouveauté ajoutée.
 
-### Reprise "syntaxique" : mini-thème
-
-  - [Les mots](../tags/les-mots/)  
-  *Depuis la sixième saison*
-
-### Reprises d'un ou plusieurs vers ou d'une image
-
-#### Plusieurs fois
-
 {{% children description="true" %}}
 
-#### Une seule fois pour le moment
+Ainsi que les reprises une seule fois pour le moment...
 
 **A la dix-neuvième saison**
 - ["On a repeint jaune"](../seasons/19_dix_neuvieme_saison/ce_temps_la)  
