@@ -13,8 +13,9 @@ tags:
     - nature
     - pentasyllabe
     - refrain
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -56,6 +57,3 @@ Il vole bonheur
 
 Tout à son image.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}

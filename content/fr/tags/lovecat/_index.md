@@ -16,8 +16,8 @@ Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
 {{< figure src="/images/matou_noir_et_blanc.jpg" title="Un caïd du coin, octobre 2023" >}}
 
-## Le mini-thème *Gare au(x) chat(s)...*
+## Sans oublier une facétie
 
-{{% include "../../includes/gare_au_chat_list" hidefirstheading %}}
+[Le mini-thème *Gare au(x) chat(s)...*](../gare-au-chat).
 
 {{< chartjs id="poems-lovecatBar" width="90%" jsFile="../../charts/taxonomy/poems-lovecat-bar.js" />}}

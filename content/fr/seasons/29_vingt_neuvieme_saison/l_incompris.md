@@ -10,10 +10,11 @@ categories:
 tags:
     - "2025"
     - lovecat
-    - pentasyllabe
     - nature
+    - pentasyllabe
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -54,7 +55,3 @@ Pars bouder en rond,
 D'un fougueux ronron
 
 Reviens et pardonne !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}

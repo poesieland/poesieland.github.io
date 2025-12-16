@@ -12,8 +12,9 @@ tags:
     - lovecat
     - nature
     - pentasyllabe
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -45,7 +46,3 @@ C'est un vrai tyran,
 Lancé, mort dans l'âme,
 
 Comédien, marrant !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}

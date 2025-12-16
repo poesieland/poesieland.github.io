@@ -12,8 +12,9 @@ tags:
     - lovecat
     - nature
     - pentasyllabe
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
+info: ""
 pictures:
     - Fripouille en juillet 2022, du temps où il ne se faisait pas rétamer par les jeunes matous du quartier comme maintenant
 poemType: ""
@@ -48,7 +49,3 @@ Quel stress et quel drame,
 Et le chat poursuit !
 
 {{< figure src="/images/le_chat_territorial_30_0.jpg" title="Fripouille en juillet 2022, du temps où il ne se faisait pas rétamer par les jeunes matous du quartier comme maintenant" >}}
-
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}

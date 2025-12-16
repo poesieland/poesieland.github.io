@@ -9,11 +9,12 @@ categories:
     - Faune
 tags:
     - "2025"
+    - lovecat
     - nature
     - pentasyllabe
-    - lovecat
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -72,7 +73,3 @@ De chats trop mignons
 Puis un jour ces braves
 
 Changent de pignons !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}

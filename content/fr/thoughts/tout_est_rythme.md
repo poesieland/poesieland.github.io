@@ -28,3 +28,5 @@ Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses 
 12. l'[alexandrin](../tags/alexandrin)
 13. le vers de 13 syllabes, pas essayé, existe t-il même ?
 14. le [vers de 14 syllabes](../tags/quatorze-syllabes) qui n'a pas de nom d'origine grecque associé.
+
+Et puis... [le rythme variable](../tags/métrique-variable).
