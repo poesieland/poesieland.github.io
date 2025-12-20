@@ -17,12 +17,10 @@ ensureTagSaisons4: ""
 tags:
     - "2023"
     - nature
-    - saisons
     - octosyllabe
-info: |-
-    {{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-
-    Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
+    - saisons
+    - saison incertaine
+info: Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -56,7 +54,5 @@ Intenses phases du climat,
 Ainsi m'attache et me délivre.
 
 {{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
 {{% /notice %}}

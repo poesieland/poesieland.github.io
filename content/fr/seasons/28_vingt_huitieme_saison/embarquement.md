@@ -10,9 +10,10 @@ categories:
     - Apprentissage
 tags:
     - "2025"
+    - octosyllabe
     - philosophie
     - saisons
-    - octosyllabe
+    - saison incertaine
 location: []
 info: ""
 pictures: []
@@ -46,7 +47,3 @@ Plus loin que l'horizon qui s'arque ?
 Précieux, cet automne à chérir
 
 Me l'a redit : viens, on embarque !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}

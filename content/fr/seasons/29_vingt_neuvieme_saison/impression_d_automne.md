@@ -12,8 +12,9 @@ tags:
     - "2025"
     - octosyllabe
     - saisons
+    - saison incertaine
 location: []
-info: '{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -63,7 +64,3 @@ Je suis assise à sa margelle,
 Le printemps vert rit gaiement puis
 
 Le vent d'automne me flagelle.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}

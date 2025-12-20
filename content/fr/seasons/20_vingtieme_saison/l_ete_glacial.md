@@ -4,8 +4,14 @@ id = "l_ete_glacial_20"
 date = 2024-06-11
 weight = 32
 categories = [ "Automne", "Eté", "Climat" ]
-tags = [ "saisons", "nature", "2024", "octosyllabe" ]
-info = '{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}'
+tags = [
+  "2024",
+  "nature",
+  "octosyllabe",
+  "saisons",
+  "saison incertaine"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -35,7 +41,3 @@ Si même pas parcheminée
 Belle saison tremble et rancit
 
 Je rallume ma cheminée !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}

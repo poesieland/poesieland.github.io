@@ -13,7 +13,7 @@ tags:
     - saisons
     - alexandrin
 location: []
-info: Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a un clin d'oeil à la série [Est-ce un automne](../../reprises/est_ce_un_automne).
+info: Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a un clin d'oeil à l'avant-dernier vers au mini-thème [saison incertaine](../../tags/saison-incertaine).
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -38,5 +38,5 @@ Est-ce un automne au coeur qui chante et se révèle ?
 Novembre, mois ombreux où la bascule échoit.
 
 {{% notice style="primary" %}}
-Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a un clin d'oeil à la série [Est-ce un automne](../../reprises/est_ce_un_automne).
+Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a à l'avant-dernier vers un clin d'oeil au mini-thème [saison incertaine](../../tags/saison-incertaine).
 {{% /notice %}}

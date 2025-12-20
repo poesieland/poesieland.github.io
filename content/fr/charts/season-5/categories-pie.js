@@ -25,7 +25,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Toucher', value: 2, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Hiver', value: 2, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season5Pie', [data], { plugins: { title: { display: true, text: 'Espaces de vie (5) septembre 1997 à mars 1998' } } });
 })();

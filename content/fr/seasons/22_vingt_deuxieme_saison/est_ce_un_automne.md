@@ -3,9 +3,15 @@ title = "Est-ce un automne ?"
 id = "est_ce_un_automne_22"
 date = 2024-09-14
 weight = 7
-categories = ["Automne", "Printemps", "Temps"]
-tags = ["saisons", "philosophie", "2024", "octosyllabe"]
-info = '{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}'
+categories = [ "Automne", "Printemps", "Temps" ]
+tags = [
+  "2024",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "saison incertaine"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -45,6 +51,3 @@ Le souvenir un peu lassé
 
 Des deux saisons allées à l'amble.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}

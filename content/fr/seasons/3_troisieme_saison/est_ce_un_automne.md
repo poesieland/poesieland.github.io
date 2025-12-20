@@ -4,8 +4,14 @@ id = "est_ce_un_automne_3"
 date = 1997-04-27
 weight = 23
 categories = [ "Temps", "Printemps" ]
-tags = [ "philosophie", "saisons", "1997", "octosyllabe" ]
-info = '{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}'
+tags = [
+  "1997",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "saison incertaine"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -35,7 +41,3 @@ Trop de tendresse ?... en nostalgie,
 Et dans l'attente trop d'envie ?
 
 Est-ce une fin, nouveau début ?
-
-{{% notice style="primary" %}}
-{{% include "../../includes/est_ce_un_automne" hidefirstheading %}}
-{{% /notice %}}

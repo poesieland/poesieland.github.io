@@ -10,4 +10,4 @@ title = "Associations privilégiées"
 - [Ciel](/categories/ciel)
 - [Eté](/categories/eté)
 - [Crépuscule](/categories/crépuscule)
-- [Apprentissage](/categories/apprentissage)
+- [Faune](/categories/faune)

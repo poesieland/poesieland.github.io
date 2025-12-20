@@ -9,3 +9,5 @@ title = "Le mini-thème *Gare au(x) chat(s)...*"
 - [qui dorment / Ces gros patachons - à la vingt-neuvième saison](../seasons/29_vingt_neuvieme_saison/volupte)
 - [qui veut / Quelque chose encore - à la vingt-neuvième saison](../seasons/29_vingt_neuvieme_saison/l_incompris)
 - [qui marque / Jardins et maison - à la trentième saison](../seasons/30_trentieme_saison/le_chat_territorial)
+- [qui dorment / Rêveurs, les aimons ! - à la trentième saison](../seasons/30_trentieme_saison/matous_nocturnes)
+- [qui rêve / D'un air innocent - à la trentième saison](../seasons/30_trentieme_saison/mignonnerie)
