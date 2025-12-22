@@ -29,6 +29,8 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
         })
     };
 
+        console.debug(options);
+
     new Chart(
         document.getElementById(chartId),
         {
@@ -40,6 +42,8 @@ const addChart = (chartId, chartType, chartLabels, datas, options) => {
             options: Object.assign({ responsive: true }, options)
         }
     );
+
+
 };
 
 const addPieChart = (chartId, datas, options) => { addChart(chartId, 'pie', [''], datas, options); };
