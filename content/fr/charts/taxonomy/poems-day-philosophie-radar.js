@@ -356,7 +356,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 1 },
     { label: '', value: 1 },
-    { label: 'Hiver', value: 3 },
+    { label: 'Hiver', value: 4 },
     { label: '', value: 1 },
     { label: '', value: 3 },
     { label: '', value: 3 },

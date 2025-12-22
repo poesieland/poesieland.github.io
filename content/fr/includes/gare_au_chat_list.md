@@ -11,3 +11,4 @@ title = "Le mini-thème *Gare au(x) chat(s)...*"
 - [qui marque / Jardins et maison - à la trentième saison](../seasons/30_trentieme_saison/le_chat_territorial)
 - [qui dorment / Rêveurs, les aimons ! - à la trentième saison](../seasons/30_trentieme_saison/matous_nocturnes)
 - [qui rêve / D'un air innocent - à la trentième saison](../seasons/30_trentieme_saison/mignonnerie)
+- [qui dort / Toute la journée - à la trentième saison](../seasons/30_trentieme_saison/petit_demon)

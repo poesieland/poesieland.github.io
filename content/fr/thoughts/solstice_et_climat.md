@@ -38,6 +38,8 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 *à la vingt-troisième saison*
 - [Renouveau - écrit le 22.12.2024](../seasons/23_vingt_troisieme_saison/renouveau)  
 *à la vingt-troisième saison*
+- [Solstice joyeux - écrit le 22.12.2025](../seasons/30_trentieme_saison/solstice_joyeux.md)  
+*à la trentième saison*
 
 ### Quelques poèmes liés à l'équinoxe
 
