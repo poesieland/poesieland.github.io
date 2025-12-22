@@ -3,8 +3,15 @@ title = "Céleste"
 id = "celeste_8"
 date = 1998-09-03
 weight = 30
-categories = ["Nuit", "Musique et chant"]
-tags = ["ombres et lumières", "attitudes", "1998", "acrostiche", "octosyllabe"]
+categories = [ "Nuit", "Musique et chant" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "attitudes",
+  "octosyllabe",
+  "ombres et lumières",
+  "l'air ou la chanson"
+]
 acrostiche = "Spente le stelle (titre d'une chanson)"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

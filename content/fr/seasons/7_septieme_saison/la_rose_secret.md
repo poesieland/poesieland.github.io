@@ -21,7 +21,7 @@ Ondée en son mystère et senteurs : fols sanglots.
  \
 Serait-elle d'un livre où se tournent les pages
 
-- Est-elle rouge, est-elle blanche ou bien entre les deux ? -
+\- Est-elle rouge, est-elle blanche ou bien entre les deux ? -
 
 Sérénades d'un jour aux frêles paysages,
 

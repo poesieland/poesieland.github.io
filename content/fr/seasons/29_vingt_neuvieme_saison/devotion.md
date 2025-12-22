@@ -59,5 +59,3 @@ Ils t'entendent.
 {{% notice style="primary" %}}
 Métrique variable : 4, 3.
 {{% /notice %}}
-- [ Poem title ](../)  
-*à la enième saison*

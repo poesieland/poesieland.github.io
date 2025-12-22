@@ -10,7 +10,8 @@ tags = [
   "attitudes",
   "octosyllabe",
   "philosophie",
-  "refrain"
+  "refrain",
+  "l'air ou la chanson"
 ]
 info = '"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.'
 acrostiche = "Se bastasse la vita"

@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Je ne sais si demain
 
-- Et l'aube nous condamne -
+\- Et l'aube nous condamne -
 
 Naîtra monde profane
 
