@@ -36,10 +36,6 @@ On constate l'influence de l'utilisation de plusieurs métriques dans un poème.
 
 {{< chartjs id="poemsVerseLengthLine" width="100%" jsFile="../general/poems-verseLength-line.js" />}}
 
-## Données croisées : métrique, longueur du poème
-
-{{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../general/poem-length-by-verse-length.js" />}}
-
 ## Données croisées : catégorie, métrique
 
 {{< chartjs id="categoryMetric" width="100%" jsFile="../general/category-metric.js" />}}

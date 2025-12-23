@@ -18,7 +18,5 @@ De janvier 1998 à mars 1999
 {{< chartjs id="season10Pie" width="75%" jsFile="../../charts/season-10/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season10VerseLengthBar" width="75%" jsFile="../../charts/season-10/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season10PoemLengthBar" width="75%" jsFile="../../charts/season-10/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season10PoemIntervalBar" width="75%" jsFile="../../charts/season-10/poem-interval-bar.js" />}}

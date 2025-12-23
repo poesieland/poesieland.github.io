@@ -18,7 +18,5 @@ De septembre 1997 à mars 1998
 {{< chartjs id="season5Pie" width="75%" jsFile="../../charts/season-5/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season5VerseLengthBar" width="75%" jsFile="../../charts/season-5/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season5PoemLengthBar" width="75%" jsFile="../../charts/season-5/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season5PoemIntervalBar" width="75%" jsFile="../../charts/season-5/poem-interval-bar.js" />}}

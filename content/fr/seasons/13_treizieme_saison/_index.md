@@ -18,7 +18,5 @@ De juillet à novembre 1999
 {{< chartjs id="season13Pie" width="75%" jsFile="../../charts/season-13/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season13VerseLengthBar" width="75%" jsFile="../../charts/season-13/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season13PoemLengthBar" width="75%" jsFile="../../charts/season-13/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season13PoemIntervalBar" width="75%" jsFile="../../charts/season-13/poem-interval-bar.js" />}}

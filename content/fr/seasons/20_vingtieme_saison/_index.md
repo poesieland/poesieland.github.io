@@ -4,7 +4,7 @@ summary = "Philosophie, nature, et puis l'été... D'avril à juin 2024"
 weight = 20
 +++
 
-Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette Saison. D'avril à juin 2024
+Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette saison. D'avril à juin 2024
 
 ---
 {{% children  %}}
@@ -16,7 +16,5 @@ Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette Sai
 {{< chartjs id="season20Pie" width="75%" jsFile="../../charts/season-20/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season20VerseLengthBar" width="75%" jsFile="../../charts/season-20/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season20PoemLengthBar" width="75%" jsFile="../../charts/season-20/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season20PoemIntervalBar" width="75%" jsFile="../../charts/season-20/poem-interval-bar.js" />}}

@@ -18,7 +18,5 @@ Juin et juillet 1998
 {{< chartjs id="season7Pie" width="75%" jsFile="../../charts/season-7/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season7VerseLengthBar" width="75%" jsFile="../../charts/season-7/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season7PoemLengthBar" width="75%" jsFile="../../charts/season-7/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season7PoemIntervalBar" width="75%" jsFile="../../charts/season-7/poem-interval-bar.js" />}}

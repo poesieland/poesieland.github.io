@@ -20,7 +20,5 @@ De mars 2002 à octobre 2004
 {{< chartjs id="season16Pie" width="75%" jsFile="../../charts/season-16/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season16VerseLengthBar" width="75%" jsFile="../../charts/season-16/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season16PoemLengthBar" width="75%" jsFile="../../charts/season-16/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season16PoemIntervalBar" width="75%" jsFile="../../charts/season-16/poem-interval-bar.js" />}}

@@ -1,5 +1,9 @@
 +++
 title = "2013"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      breadcrumb = false
 +++
 
 L'année de mes 34 ans.

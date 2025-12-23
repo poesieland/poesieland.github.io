@@ -18,7 +18,5 @@ De janvier à mai 1997
 {{< chartjs id="season3Pie" width="75%" jsFile="../../charts/season-3/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season3VerseLengthBar" width="75%" jsFile="../../charts/season-3/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season3PoemLengthBar" width="75%" jsFile="../../charts/season-3/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season3PoemIntervalBar" width="75%" jsFile="../../charts/season-3/poem-interval-bar.js" />}}

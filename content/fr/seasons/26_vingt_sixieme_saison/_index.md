@@ -16,7 +16,5 @@ Eau douce, flore, être, temps... D'avril à juin 2025
 {{< chartjs id="season26Pie" width="75%" jsFile="../../charts/season-26/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season26VerseLengthBar" width="75%" jsFile="../../charts/season-26/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season26PoemLengthBar" width="75%" jsFile="../../charts/season-26/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season26PoemIntervalBar" width="75%" jsFile="../../charts/season-26/poem-interval-bar.js" />}}

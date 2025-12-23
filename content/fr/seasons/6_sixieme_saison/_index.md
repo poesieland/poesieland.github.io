@@ -18,7 +18,5 @@ De mars à juin 1998
 {{< chartjs id="season6Pie" width="75%" jsFile="../../charts/season-6/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season6VerseLengthBar" width="75%" jsFile="../../charts/season-6/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season6PoemLengthBar" width="75%" jsFile="../../charts/season-6/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season6PoemIntervalBar" width="75%" jsFile="../../charts/season-6/poem-interval-bar.js" />}}

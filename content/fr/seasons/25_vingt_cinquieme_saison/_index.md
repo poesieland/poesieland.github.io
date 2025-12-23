@@ -16,7 +16,5 @@ Printemps, crépuscule, angoisse, temps, apprentissage, flore... De février à 
 {{< chartjs id="season25Pie" width="75%" jsFile="../../charts/season-25/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season25VerseLengthBar" width="75%" jsFile="../../charts/season-25/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season25PoemLengthBar" width="75%" jsFile="../../charts/season-25/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season25PoemIntervalBar" width="75%" jsFile="../../charts/season-25/poem-interval-bar.js" />}}

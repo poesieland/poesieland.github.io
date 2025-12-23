@@ -18,7 +18,5 @@ De mars à mai 1999
 {{< chartjs id="season11Pie" width="75%" jsFile="../../charts/season-11/categories-pie.js" />}}
 ## Métrique
 {{< chartjs id="season11VerseLengthBar" width="75%" jsFile="../../charts/season-11/poems-verse-length-bar.js" />}}
-## Longueur des poèmes
-{{< chartjs id="season11PoemLengthBar" width="75%" jsFile="../../charts/season-11/poems-length-bar.js" />}}
 ## Intervalle
 {{< chartjs id="season11PoemIntervalBar" width="75%" jsFile="../../charts/season-11/poem-interval-bar.js" />}}

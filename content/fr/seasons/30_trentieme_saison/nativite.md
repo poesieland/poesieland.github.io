@@ -15,10 +15,10 @@ tags:
     - philosophie
     - octosyllabe
 location: []
-info: "Acrostiche : Douce nuit, vie."
+info: ""
 pictures: []
 poemType: ""
-acrostiche: ""
+acrostiche: Douce nuit, vie.
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---

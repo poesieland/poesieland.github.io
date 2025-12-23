@@ -21,6 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: "Gare au chat qui rêve / D'un air innocent"
 ---
 Gare au chat qui rêve
 

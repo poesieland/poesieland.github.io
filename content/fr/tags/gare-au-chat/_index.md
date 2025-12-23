@@ -1,5 +1,10 @@
 +++
 title = "Gare au chat"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      breadcrumb = false
+      description = true
 +++
 Un chat, ou plusieurs...
 

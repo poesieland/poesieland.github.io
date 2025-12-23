@@ -6,13 +6,15 @@ date: 2025-05-17
 verseLength: 4
 divider: ""
 categories:
-    - Eté
     - Etre
+    - Eté
+    - Sommeil
 tags:
     - "2025"
     - philosophie
     - saisons
     - tétrasyllabe
+    - attitudes
 location: []
 info: Reprise modifiée des deux premiers vers d'un [poème de la première saison](../1_premiere_saison/impression)
 pictures: []
