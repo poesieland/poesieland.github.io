@@ -1,8 +1,9 @@
 +++
 title = "Trentième Saison : Tout fait sens"
-summary = "Saison vedette, l'hiver. Et de la philosophie. A partir de novembre 2025"
+summary = "Saisons (l'hiver...), nature (les chats...), philosophie. A partir de novembre 2025"
 weight = 30
 +++
+La saison en vedette : l'hiver. Aussi la faune, les chats occupent mon coeur.
 
 A partir de novembre 2025
 

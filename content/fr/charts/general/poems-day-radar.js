@@ -362,10 +362,10 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 5 },
     { label: '', value: 5 },
     { label: '', value: 10 },
+    { label: '', value: 8 },
+    { label: '', value: 10 },
     { label: '', value: 7 },
     { label: '', value: 8 },
-    { label: '', value: 6 },
-    { label: '', value: 5 },
     { label: '', value: 3 },
   ];
   addRadarChart('poemDayRadar', ['Mois les plus représentés : août, juillet, septembre, juin'], [data], { backgroundColor: 'rgba(76, 201, 240)', borderColor: 'rgba(0, 0, 0, 0.1)', pointBackgroundColor: 'rgba(0, 0, 0, 0.1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });

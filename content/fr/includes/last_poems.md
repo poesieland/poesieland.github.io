@@ -4,20 +4,16 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
-[Le chat au jardin, écrit le 27.12.2025](./seasons/30_trentieme_saison/le_chat_au_jardin)
+[Ame de la neige, écrit le 30.12.2025](./seasons/30_trentieme_saison/ame_de_la_neige)
 
-[Deuil, écrit le 27.12.2025](./seasons/30_trentieme_saison/deuil)
+[Jeu d'hiver, écrit le 30.12.2025](./seasons/30_trentieme_saison/jeu_d_hiver)
 
-[Rose-âme, écrit le 26.12.2025](./seasons/30_trentieme_saison/rose_ame)
+[Evidence, écrit le 30.12.2025](./seasons/30_trentieme_saison/evidence)
 
-[Trêve, écrit le 26.12.2025](./seasons/30_trentieme_saison/treve)
+[Vieil hiver, écrit le 29.12.2025](./seasons/30_trentieme_saison/vieil_hiver)
 
-[Départ, écrit le 26.12.2025](./seasons/30_trentieme_saison/depart)
+[Tourment, écrit le 28.12.2025](./seasons/30_trentieme_saison/tourment)
 
-[Le carré des animaux, écrit le 26.12.2025](./seasons/30_trentieme_saison/le_carre_des_animaux)
+[Fripouille, écrit le 28.12.2025](./seasons/30_trentieme_saison/fripouille)
 
-[Mère, écrit le 25.12.2025](./seasons/30_trentieme_saison/mere)
-
-[Hiver lumineux, écrit le 25.12.2025](./seasons/30_trentieme_saison/hiver_lumineux)
-
-[Christmas, écrit le 23.12.2025](/original_texts/2025/christmas?lang=en)
+[Le chat ponctuel, écrit le 27.12.2025](./seasons/30_trentieme_saison/le_chat_ponctuel)
