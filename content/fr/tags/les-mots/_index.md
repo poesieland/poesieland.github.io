@@ -1,5 +1,10 @@
 +++
 title = "Les mots"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      type = "tree"
+      sort = "date"
 +++
 Tous les qualificatifs possibles, égrenés, une sorte d'incantation.
 
