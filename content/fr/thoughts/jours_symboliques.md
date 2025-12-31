@@ -1,9 +1,9 @@
 +++
 title = "Jours symboliques"
-date = 2025-11-01
-summary = "Novembre 2025"
+date = 2025-12-31
+summary = "Décembre 2025"
 +++
-Certains jour sont marqués "d'une pierre blanche" au calendrier.
+Certains jour sont marqués d'une "pierre blanche" au calendrier.
 
 *En cours de construction.*
 
@@ -41,6 +41,21 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 *à la vingt-deuxième saison*
 
 #### 6 et 25 décembre : Saint-Nicolas et Noël
-- [Noël](../seasons/22_vingt_deuxieme_saison/noel)  
-*à la vingt-deuxième saison*
-- [Tous les poèmes autour de Noël](../tags/noël/)
+- [Vers tous les poèmes autour de Noël](../tags/noël/)  
+*depuis la deuxième saison*
+
+#### 31 décembre et 1er janvier : Saint-Sylvestre et jour de l'An
+- [Bal de l'an](../seasons/14_quatorzieme_saison/bal_de_l_an)  
+*à la quatorzième saison*
+- [Souhaits](../seasons/23_vingt_troisieme_saison/souhaits)  
+*à la vingt-troisième saison*
+- [Saint-Sylvestre](../seasons/23_vingt_troisieme_saison/saint_sylvestre)  
+*à la vingt-troisième saison*
+- [Valse l'an](../seasons/24_vingt_quatrieme_saison/valse_l_an)  
+*à la vingt-quatrième saison*
+- [Viens, on réveillonne](../seasons/30_trentieme_saison/viens_on_reveillonne)  
+*à la trentième saison*
+
+#### 6 janvier : Epiphanie
+- [Epiphanie](../seasons/24_vingt_quatrieme_saison/epiphanie)  
+*à la vingt-quatrième saison*

@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
+[Viens, on réveillonne, écrit le 31.12.2025](./seasons/30_trentieme_saison/viens_on_reveillonne)
+
 [Ame de la neige, écrit le 30.12.2025](./seasons/30_trentieme_saison/ame_de_la_neige)
 
 [Jeu d'hiver, écrit le 30.12.2025](./seasons/30_trentieme_saison/jeu_d_hiver)
