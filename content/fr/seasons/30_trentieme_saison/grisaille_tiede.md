@@ -21,6 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: "Est-ce un hiver, est-ce un printemps / Qui dans mon coeur se renouvelle ?"
 ---
 Est-ce un hiver, est-ce un printemps
 

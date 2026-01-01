@@ -14,6 +14,7 @@ tags = [
 info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Est-ce un automne, est-ce un printemps / Qui dans mon coeur se renouvelle ?"
 +++
 
 Est-ce un automne, est-ce un printemps

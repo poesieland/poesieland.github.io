@@ -1,6 +1,6 @@
 ---
 weight: 5
-title: L'automne est venu
+title: L'automne venu
 id: l_automne_est_venu_22
 date: 2024-09-08
 verseLength: 8

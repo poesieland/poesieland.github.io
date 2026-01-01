@@ -1,5 +1,5 @@
 +++
-title = "Vivre"
+title = "Inexorable"
 id = "vivre_19"
 date = 2024-03-31
 weight = 32

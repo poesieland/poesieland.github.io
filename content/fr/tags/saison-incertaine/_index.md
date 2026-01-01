@@ -1,5 +1,12 @@
 +++
 title = "Saison incertaine"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      breadcrumb = true
+      description = true
+      type = "tree"
+      sort = "date"
 +++
 
 _Est-ce un automne, (est-ce un printemps)_
