@@ -14,7 +14,7 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
   - [chemin spirituel](./chemin-spirituel)
   - [les mois](./les-mois/)
   - [les mots](./les-mots/)
-  - [l'air ou la chanson](./l'air-ou-la-chanson/)
+  - [l'air ou la chanson](./lair-ou-la-chanson/)
   - [lovecat](./lovecat/) et [gare au chat](./gare-au-chat)
   - [famille](./famille/)
   - [Noël](./noël/)
