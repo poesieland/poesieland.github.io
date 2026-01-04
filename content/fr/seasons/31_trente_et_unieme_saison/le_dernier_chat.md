@@ -21,7 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: ""
+description: "Gare au chat qui gueule / Tristement d'ennui"
 ---
 Gare au chat qui gueule
 
