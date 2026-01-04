@@ -1,9 +1,9 @@
 import { addRadarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Janvier', value: 1 },
+    { label: 'Janvier', value: 2 },
     { label: '', value: 1 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 1 },
     { label: '', value: 0 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-fauneRadar', ['Mois les plus représentés : octobre, septembre, décembre, août'], [data], { backgroundColor: 'rgba(4, 139, 154, 0.5)', borderColor: 'rgba(4, 139, 154, 1)', pointBackgroundColor: 'rgba(4, 139, 154, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-fauneRadar', ['Mois les plus représentés : octobre, septembre, décembre, janvier'], [data], { backgroundColor: 'rgba(4, 139, 154, 0.5)', borderColor: 'rgba(4, 139, 154, 1)', pointBackgroundColor: 'rgba(4, 139, 154, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

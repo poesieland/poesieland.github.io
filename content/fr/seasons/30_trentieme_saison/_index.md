@@ -1,11 +1,11 @@
 +++
 title = "Trentième Saison : Tout fait sens"
-summary = "Saisons (l'hiver...), nature (les chats...), philosophie. A partir de novembre 2025"
+summary = "Saisons (l'hiver...), philosophie, nature. De novembre 2025 à janvier 2026."
 weight = 30
 +++
-La saison en vedette : l'hiver. Aussi la faune, les chats occupent mon coeur.
+La saison en vedette : l'hiver. Aussi la faune, les chats occupent mon coeur. Et une petite place pour la neige.
 
-A partir de novembre 2025
+De novembre 2025 à janvier 2026.
 
 ---
 {{% children  %}}
