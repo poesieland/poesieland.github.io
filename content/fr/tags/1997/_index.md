@@ -12,4 +12,6 @@ Fréquentation du club de poésie, arts plastiques et musique de Reims, le Salon
 
 Dernière année d'études secondaires, expérimentations poétiques en tout genre avec une amie poète.
 
+{{< chartjs id="categories1997Pie" width="90%" jsFile="../../charts/taxonomy/categories-1997-pie.js" />}}
+
 {{< chartjs id="poemDay-1997Radar" width="90%" jsFile="../../charts/taxonomy/poems-day-1997-radar.js" />}}

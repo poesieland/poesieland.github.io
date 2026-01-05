@@ -1,6 +1,6 @@
 +++
 title = "Métrique"
-weight = 4
+weight = 5
 +++
 
 ## Courte ou longue
