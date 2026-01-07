@@ -15,7 +15,7 @@ tags:
     - hexasyllabe
     - attitudes
 location: []
-info: Reprise de *cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
+info: Reprise de *Cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 pictures: []
 poemType: ""
 acrostiche: Cueillir, nuit
@@ -49,7 +49,7 @@ Intime se redresse,
 Tendre note s'écrit.
 
 {{% notice style="primary" %}}
-Reprise de *cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
+Reprise de *Cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 
 Acrostiche : Cueillir, nuit.
 {{% /notice %}}

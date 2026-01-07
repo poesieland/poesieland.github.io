@@ -69,7 +69,7 @@ Ainsi que les reprises une seule fois pour le moment...
 **A la vingt-septième saison**
 - ["[je me] brûle à [ma] braise"](../seasons/27_vingt_septieme_saison/si)  
 *Depuis la deuxième saison*
-- ["cueillir la nuit violine"](../seasons/27_vingt_septieme_saison/la_nuit_violine)  
+- ["Cueillir la nuit violine"](../seasons/27_vingt_septieme_saison/la_nuit_violine)  
 *Depuis la cinquième saison*
 - ["Coupe et je repousse / Brûle et je verdis"](../seasons/27_vingt_septieme_saison/la_revolte_de_gaia)  
 *Depuis la vingtième saison*
@@ -81,10 +81,6 @@ Ainsi que les reprises une seule fois pour le moment...
 *Depuis la neuvième saison*
 - ["Septembre qui s'amène emporte..."](../seasons/28_vingt_huitieme_saison/equinoxes)  
 *Depuis la deuxième saison*
-
-**A la vingt-neuvième saison**
-- ["Virevolte"](../seasons/29_vingt_neuvieme_saison/l_automne_est_vraiment_la)  
-*Depuis la vingt-huitième saison*
 
 **A la trentième saison**
 - ["En attendant décembre et puis un peu de neige"](../seasons/30_trentieme_saison/avant_decembre)  

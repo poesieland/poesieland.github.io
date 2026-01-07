@@ -12,7 +12,7 @@ tags:
     - saisons
     - trisyllabe
 location: []
-info: ""
+info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -55,5 +55,5 @@ Sans voyance :
 Il est là !
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la vingt-huitième saison](../28_vingt_huitieme_saison/papillon_d_automne).
+{{% include "../../includes/virevolte" hidefirstheading %}}
 {{% /notice %}}

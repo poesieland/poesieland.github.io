@@ -6,4 +6,5 @@ Quand le souffle se poursuit et que le sujet est toujours inspirant.
 
 - [Les mots](../../tags/les-mots/)  
   *Depuis la sixième saison*
-- [Je te promets](../../thoughts/je_te_promets)
+- [Je te promets](../../thoughts/je_te_promets)  
+  *Depuis la dix-neuvième saison*

@@ -1,18 +1,16 @@
 ---
-weight: 33
-title: Papillon d'automne
-id: papillon_d_automne_28
-date: 2025-08-22
+weight: 2
+title: Hiver blanc
+id: hiver_blanc_31
+date: 2026-01-05
 verseLength: 3
 divider: ""
 categories:
-    - Faune
-    - Automne
+    - Neige
 tags:
-    - "2025"
+    - "2026"
     - nature
     - trisyllabe
-    - saisons
 location: []
 info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 pictures: []
@@ -23,38 +21,38 @@ LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 Virevolte
 
-Imprécis,
+Flocon lent,
 
 Désinvolte,
 
-Indécis.
+Tout est blanc !
 
  \
-De blanc sale
+Vire, drue,
 
-Papillon,
+Neige, amas
 
-Faux pétale,
+Et la rue
 
-Bref haillon.
-
- \
-Vire, frêle,
-
-Un lambeau,
-
-Tire-d'aile
-
-Au jour beau.
+Dit : frimas !
 
  \
-Dans l'automne
+Tant de neige
 
-Il repart
+Pique aux yeux,
 
-Et chantonne
+Presque beige
 
-Son départ.
+Ciel, ô cieux !
+
+ \
+Vire parme
+
+Au couchant,
+
+Hiver, charme
+
+Blanc, touchant.
 
 {{% notice style="primary" %}}
 {{% include "../../includes/virevolte" hidefirstheading %}}
