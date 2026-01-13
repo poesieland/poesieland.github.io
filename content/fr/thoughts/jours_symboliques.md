@@ -59,3 +59,5 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 #### 6 janvier : Epiphanie
 - [Epiphanie](../seasons/24_vingt_quatrieme_saison/epiphanie)  
 *à la vingt-quatrième saison*
+- [Mon roi](../seasons/31_trente_et_unieme_saison/mon_roi)  
+*à la trente-et-unième saison*
