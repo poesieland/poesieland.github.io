@@ -13,6 +13,7 @@ tags:
     - philosophie
     - tétrasyllabe
     - trisyllabe
+    - la mort
 location: []
 info: "Métrique variable : 4, 3."
 pictures: []

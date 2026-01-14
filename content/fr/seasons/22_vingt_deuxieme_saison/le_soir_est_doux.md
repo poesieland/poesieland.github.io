@@ -4,7 +4,7 @@ id = "le_soir_est_doux_22"
 date = 2024-09-23
 weight = 14
 categories = [ "Temps", "Angoisse" ]
-tags = [ "2024", "octosyllabe", "philosophie", "refrain" ]
+tags = [ "2024", "octosyllabe", "philosophie", "refrain", "la mort" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

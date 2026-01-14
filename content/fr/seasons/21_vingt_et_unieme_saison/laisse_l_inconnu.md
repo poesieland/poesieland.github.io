@@ -4,7 +4,7 @@ id = "laisse_l_inconnu_21"
 date = 2024-06-30
 weight = 6
 categories = ["Temps"]
-tags = ["philosophie", "2024", "heptasyllabe"]
+tags = ["philosophie", "2024", "heptasyllabe", "la mort"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

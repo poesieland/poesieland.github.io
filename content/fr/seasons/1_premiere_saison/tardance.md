@@ -4,7 +4,7 @@ id = "tardance_1"
 date = 1996-08-02
 weight = 41
 categories = ["Création"]
-tags = ["philosophie", "1996", "octosyllabe"]
+tags = ["philosophie", "1996", "octosyllabe", "la mort"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

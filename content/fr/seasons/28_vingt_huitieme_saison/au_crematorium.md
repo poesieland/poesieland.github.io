@@ -12,6 +12,7 @@ tags:
     - octosyllabe
     - philosophie
     - sonnet
+    - la mort
 location: []
 info: ""
 pictures: []

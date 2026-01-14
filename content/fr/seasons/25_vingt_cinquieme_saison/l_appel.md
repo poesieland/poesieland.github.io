@@ -4,7 +4,7 @@ id = "l_appel_25"
 date = 2025-03-16
 weight = 26
 categories = ["Angoisse"]
-tags = ["philosophie", "2025", "tétrasyllabe"]
+tags = ["philosophie", "2025", "tétrasyllabe", "la mort"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

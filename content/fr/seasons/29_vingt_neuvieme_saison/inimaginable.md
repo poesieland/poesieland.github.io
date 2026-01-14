@@ -12,6 +12,7 @@ tags:
     - philosophie
     - refrain
     - octosyllabe
+    - la mort
 location: []
 info: '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
 pictures: []

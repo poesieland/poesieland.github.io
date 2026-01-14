@@ -4,7 +4,7 @@ id = "au_cimetiere_22"
 date = 2024-10-06
 weight = 21
 categories = ["Angoisse"]
-tags = ["philosophie", "2024", "octosyllabe"]
+tags = ["philosophie", "2024", "octosyllabe", "la mort"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
