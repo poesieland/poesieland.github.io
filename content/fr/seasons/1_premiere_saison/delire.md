@@ -16,7 +16,7 @@ Des chiffres en colonne et nombres enfilés,
 
 En délire je vois des monstres empalés
 
-Sur l'écran bicolores en longs fantômes hâves,
+Sur l'écran bicolore en longs fantômes hâves,
 
  \
 Le long de mon bateau je ne sens rien qu'épaves

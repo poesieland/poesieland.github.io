@@ -15,6 +15,7 @@ tags:
     - pentasyllabe
     - philosophie
     - métrique variable
+    - la mort
 location: []
 info: "Métrique variable : 2, 5."
 pictures: []

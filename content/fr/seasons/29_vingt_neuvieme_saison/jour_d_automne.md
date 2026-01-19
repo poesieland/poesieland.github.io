@@ -19,7 +19,6 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-info: '{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}'
 ---
 L'automne est guet-apens
 

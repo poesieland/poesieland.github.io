@@ -8,7 +8,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '5 syllabes', value: 99, color: 'rgb(169, 204, 227)' },
     { label: '6 syllabes', value: 392, color: 'rgb(174, 214, 241)' },
     { label: '7 syllabes', value: 83, color: 'rgb(163, 228, 215)' },
-    { label: '8 syllabes', value: 480, color: 'rgb(162, 217, 206)' },
+    { label: '8 syllabes', value: 481, color: 'rgb(162, 217, 206)' },
     { label: '9 syllabes', value: 15, color: 'rgb(171, 235, 198)' },
     { label: '10 syllabes', value: 36, color: 'rgb(249, 231, 159)' },
     { label: '11 syllabes', value: 17, color: 'rgb(250, 215, 160)' },

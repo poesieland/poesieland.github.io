@@ -8,7 +8,7 @@ import { addLineChart } from '../add-chart.js'
     { label: '5 syllabes', data: [0,0,3,1,0,1,0,1,2,3,5,1,1,0,0,3,4,3,5,9,4,1,1,3,6,4,5,5,7,16,22.2], borderColor: 'rgb(169, 204, 227)', backgroundColor: 'rgb(169, 204, 227)', fill: true },
     { label: '6 syllabes', data: [5,6,13,26,19,8,5,4,17,6,12,8,9,10,7,10,15,22,13,25,12,13,17,14,12,15,19,15,21,12,11.1], borderColor: 'rgb(174, 214, 241)', backgroundColor: 'rgb(174, 214, 241)', fill: true },
     { label: '7 syllabes', data: [0,0,0,0,4,3,5,7,2,8,5,4,4,4,5,7,7,1,2,3,4,0,2,2,1,0,0,0,1,2,0], borderColor: 'rgb(163, 228, 215)', backgroundColor: 'rgb(163, 228, 215)', fill: true },
-    { label: '8 syllabes', data: [15,15,25,22,23,26,21,29,12,19,15,14,15,20,20,16,15,13,16,6,16,17,18,13,10,11,5,14,8,10,5.6], borderColor: 'rgb(162, 217, 206)', backgroundColor: 'rgb(162, 217, 206)', fill: true },
+    { label: '8 syllabes', data: [15,15,25,22,23,26,21,29,12,19,15,15,15,20,20,16,15,13,16,6,16,17,18,13,10,11,5,14,8,10,5.6], borderColor: 'rgb(162, 217, 206)', backgroundColor: 'rgb(162, 217, 206)', fill: true },
     { label: '9 syllabes', data: [0,0,1,0,0,0,1,0,0,1,0,0,1,1,1,1,1,0,0,1,1,0,0,0,3,1,0,1,0,0,0], borderColor: 'rgb(171, 235, 198)', backgroundColor: 'rgb(171, 235, 198)', fill: true },
     { label: '10 syllabes', data: [0,0,0,0,1,5,3,2,2,2,1,2,2,2,6,2,3,1,1,0,0,0,0,0,0,0,1,0,0,0,0], borderColor: 'rgb(249, 231, 159)', backgroundColor: 'rgb(249, 231, 159)', fill: true },
     { label: '11 syllabes', data: [0,0,0,0,0,0,0,0,0,5,3,4,1,2,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0], borderColor: 'rgb(250, 215, 160)', backgroundColor: 'rgb(250, 215, 160)', fill: true },

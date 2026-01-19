@@ -3,11 +3,18 @@ title = "Essence"
 id = "essence_12"
 date = 1999-07-09
 weight = 34
-categories = ["Etre", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "doubleAcrostiche", "alexandrin"]
+categories = [ "Etre", "Musique et chant" ]
+tags = [
+  "philosophie",
+  "attitudes",
+  "1999",
+  "doubleAcrostiche",
+  "alexandrin"
+]
 doubleAcrostiche = "A la place | un double"
-verseLength = 12
+verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = "Métrique variable : 12, 8."
 +++
 
 A la place du cœur une étoile immortelle :
@@ -46,5 +53,7 @@ Et le rêve entrouvrit son sens, la quille,
 Etrave bleue au vent d'un cor.
 
 {{% notice style="primary" %}}
+Métrique variable : 12, 8.
+
 Acrostiche double (lignes paires et impaires) : A la place / un double.
 {{% /notice %}}

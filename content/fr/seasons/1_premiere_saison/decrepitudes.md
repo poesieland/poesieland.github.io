@@ -4,7 +4,7 @@ id = "decrepitudes_1"
 date = 1994-01-01
 weight = 45
 categories = ["Révolte", "Angoisse"]
-tags = ["philosophie", "1994", "alexandrin"]
+tags = ["philosophie", "1994", "alexandrin", "la mort"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

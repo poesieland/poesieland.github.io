@@ -12,7 +12,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Souffles (9) 1998', value: 12, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Pensées (10) 1998-99', value: 19, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Perceptible (11) 1999', value: 15, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Tempo piano (12) 1999', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Tempo piano (12) 1999', value: 15, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Divina (13) 1999', value: 15, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Au long cours (14) 1999-2001', value: 20, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'De place en place (15) 2001', value: 20, color: 'rgba(72, 149, 239, 0.5)' },
