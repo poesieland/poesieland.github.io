@@ -50,3 +50,11 @@ Vous voici donc arrivés à la [liste des poèmes traitant de ce sujet](./#a).
 
 [^7]: Un signal : [Soir naufragé](../seasons/22_vingt_deuxieme_saison/le_soir_est_doux) car ce soir-là je vis passer l'âme d'une connaissance du quartier dans le ciel, [L'appel](../seasons/25_vingt_cinquieme_saison/l_appel).
 
+{{< chartjs id="poemDayLaMortRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-la-mort-radar.js" />}}
+
+{{< chartjs id="poems-la-mortBar" width="90%" jsFile="../../charts/taxonomy/poems-la-mort-bar.js" />}}
+
+Les catégories associées :
+
+{{% include "../../includes/la_mort_categories.md" hidefirstheading %}}
+
