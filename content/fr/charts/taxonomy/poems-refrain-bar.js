@@ -25,7 +25,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Au temps le dire (22) 2024', value: 13, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Jamais trop (23) 2024', value: 8, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Les mots respirent (24) 2024-25', value: 7, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Coeur et âme (25) 2025', value: 4, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Coeur et âme (25) 2025', value: 5, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 7, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 21, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Les mots sur le chemin (28) 2025', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
