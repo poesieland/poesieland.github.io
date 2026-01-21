@@ -4,7 +4,7 @@ id = "lucidite_3"
 date = 1997-02-14
 weight = 27
 categories = ["Espoir", "Ciel"]
-tags = ["philosophie", "nature", "1997", "octosyllabe"]
+tags = ["philosophie", "nature", "1997", "octosyllabe", "la mort"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

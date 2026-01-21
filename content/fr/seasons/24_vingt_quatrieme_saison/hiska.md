@@ -4,7 +4,7 @@ id = "hiska_24"
 date = 2025-01-19
 weight = 28
 categories = [ "Faune" ]
-tags = [ "nature", "2025", "octosyllabe" ]
+tags = [ "nature", "2025", "octosyllabe", "la mort" ]
 info = """
 🚼 12.03.2012 - 🪦 03.10.2022.
 Un autre poème qui l'évoque légèrement : [Présent simple](../18_dix_huitieme_saison/present_simple)"""

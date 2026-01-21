@@ -12,6 +12,7 @@ tags:
     - famille
     - philosophie
     - hexasyllabe
+    - la mort
 location: []
 info: "[^1]: mon fils de 3 ans en 2014..."
 pictures: []

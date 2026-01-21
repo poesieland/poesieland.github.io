@@ -12,6 +12,7 @@ tags:
     - octosyllabe
     - philosophie
     - refrain
+    - la mort
 location: []
 info: ""
 pictures: []

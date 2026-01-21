@@ -11,6 +11,7 @@ tags:
     - "2025"
     - philosophie
     - hexasyllabe
+    - la mort
 location: []
 info: ""
 pictures: []

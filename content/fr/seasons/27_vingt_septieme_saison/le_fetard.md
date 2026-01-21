@@ -11,6 +11,7 @@ tags:
     - "2025"
     - trisyllabe
     - philosophie
+    - la mort
 location: []
 info: ""
 pictures: []

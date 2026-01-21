@@ -4,7 +4,7 @@ id = "fragilite_10"
 date = 1999-03-24
 weight = 19
 categories = ["Espoir"]
-tags = ["philosophie", "1999", "heptasyllabe"]
+tags = ["philosophie", "1999", "heptasyllabe", "refrain"]
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

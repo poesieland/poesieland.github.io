@@ -12,11 +12,12 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
 - des mini-thèmes...
 
   - [chemin spirituel](./chemin-spirituel)
+  - [famille](./famille/)
+  - [l'air ou la chanson](./lair-ou-la-chanson/)
+  - [la mort](./la-mort/)
   - [les mois](./les-mois/)
   - [les mots](./les-mots/)
-  - [l'air ou la chanson](./lair-ou-la-chanson/)
   - [lovecat](./lovecat/) et [gare au chat](./gare-au-chat)
-  - [famille](./famille/)
   - [Noël](./noël/)
   - [refrain](./refrain/)
   - [rentrée scolaire](./rentree-scolaire/)

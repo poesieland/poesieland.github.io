@@ -4,7 +4,7 @@ id = "fin_de_combat_1"
 date = 1994-01-01
 weight = 46
 categories = ["Révolte"]
-tags = ["philosophie", "1994", "alexandrin"]
+tags = ["philosophie", "1994", "alexandrin", "la mort"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

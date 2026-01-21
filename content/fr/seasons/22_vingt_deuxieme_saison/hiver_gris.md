@@ -4,7 +4,7 @@ id = "hiver_gris_22"
 date = 2024-11-10
 weight = 43
 categories = ["Hiver", "Ciel"]
-tags = ["saisons", "nature", "2024", "tétrasyllabe"]
+tags = ["saisons", "nature", "2024", "tétrasyllabe", "refrain"]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

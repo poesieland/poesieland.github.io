@@ -4,7 +4,7 @@ id = "le_temps_mortel_1"
 date = 1996-02-11
 weight = 50
 categories = ["Temps"]
-tags = ["philosophie", "1996", "alexandrin"]
+tags = ["philosophie", "1996", "alexandrin", "la mort"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

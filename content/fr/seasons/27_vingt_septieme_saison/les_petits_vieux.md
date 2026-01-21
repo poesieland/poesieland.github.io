@@ -13,6 +13,7 @@ tags:
     - hexasyllabe
     - philosophie
     - refrain
+    - la mort
 location: []
 info: ""
 pictures: []

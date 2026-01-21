@@ -4,7 +4,7 @@ id = "ne_m_oubliez_14"
 date = 2000-04-16
 weight = 3
 categories = ["Apprentissage"]
-tags = ["philosophie", "2000", "alexandrin"]
+tags = ["philosophie", "2000", "alexandrin", "la mort", "refrain"]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
