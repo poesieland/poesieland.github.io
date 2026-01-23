@@ -4,16 +4,10 @@ title: Christmas
 id: christmas_30
 date: 2025-12-23
 verseLength: 0
-divider: ""
 categories:
     - Being
 tags: []
-location: []
 info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 You don't know

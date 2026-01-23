@@ -9,5 +9,5 @@ title = "Associations privilégiées"
 - [Angoisse](/categories/angoisse) et [Climat](/categories/climat)
 - [Ciel](/categories/ciel) et [Crépuscule](/categories/crépuscule)
 - [Ciel](/categories/ciel) et [Hiver](/categories/hiver)
-- [Climat](/categories/climat) et [Eau douce](/categories/eau-douce)
 - [Ciel](/categories/ciel) et [Climat](/categories/climat)
+- [Climat](/categories/climat) et [Eau douce](/categories/eau-douce)

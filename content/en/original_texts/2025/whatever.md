@@ -4,16 +4,10 @@ title: Whatever
 id: whatever_30
 date: 2025-11-20
 verseLength: 0
-divider: ""
 categories:
     - Learning
     - Hope
-locations: []
 info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 Whatever you try,

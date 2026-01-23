@@ -1,11 +1,11 @@
 +++
 title = "De saison..."
-date = 2025-12-31
-summary = "Décembre 2025"
+date = 2026-01-23
+summary = "Janvier 2026"
 +++
 
 ### En vogue
 
-Je vous propose [l'hiver](../categories/hiver) ainsi que le jour symbolique du [l'épiphanie](./jours_symboliques/#6-janvier--epiphanie).
+Je vous propose [l'aube](../categories/aube), [le ciel](../categories/ciel/) et la prochaine saison, [le printemps](../categories/printemps/).
 
-Et pourquoi ne pas parcourir au hasard de la méta-catégorie [ombres et lumières](../tags/ombres-et-lumières/) ?
+Et pourquoi ne pas parcourir également au hasard [ombres et lumières](../tags/ombres-et-lumières/) ?

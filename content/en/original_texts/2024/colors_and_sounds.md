@@ -4,15 +4,9 @@ title: Colors and sounds
 id: colors_and_sounds_20
 date: 2024-06-14
 verseLength: 0
-divider: ""
 categories:
     - Faith
-locations: []
 info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 Blue and white,

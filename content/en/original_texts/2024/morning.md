@@ -4,15 +4,9 @@ title: Morning
 id: morning_19
 date: 2024-03-13
 verseLength: 0
-divider: ""
 categories:
     - Dawn
-locations: []
 info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 Morning dance,

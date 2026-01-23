@@ -4,15 +4,9 @@ title: Wisdom
 id: wisdom_21
 date: 2024-07-09
 verseLength: 0
-divider: ""
 categories:
     - Being
-locations: []
 info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 One step at a time

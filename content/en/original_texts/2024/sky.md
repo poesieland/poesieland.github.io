@@ -4,15 +4,9 @@ title: Sky
 id: sky_20
 date: 2024-06-16
 verseLength: 0
-divider: ""
 categories:
     - Hope
-locations: []
 info: ""
-pictures: []
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 Give the sky a try

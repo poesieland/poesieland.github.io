@@ -4,15 +4,9 @@ title: My darling cat
 id: my_darling_cat_22
 date: 2024-10-03
 verseLength: 0
-divider: ""
 categories:
     - Animals
-locations: []
 info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - License CC BY-NC-ND 4.0
 ---
 My darling cat
