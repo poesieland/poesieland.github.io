@@ -167,7 +167,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 2 },
     { label: '', value: 0 },
     { label: '', value: 3 },
-    { label: '', value: 1 },
+    { label: '', value: 2 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
@@ -339,7 +339,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: 'Décembre', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 0 },
-    { label: '', value: 0 },
+    { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 0 },
     { label: '', value: 1 },
@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-attitudesRadar', ['Mois les plus représentés : mai, juin, mars, juillet'], [data], { backgroundColor: 'rgba(250, 152, 70, 0.5)', borderColor: 'rgba(250, 152, 70, 1)', pointBackgroundColor: 'rgba(250, 152, 70, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-attitudesRadar', ['Mois les plus représentés : juin, mai, mars, juillet'], [data], { backgroundColor: 'rgba(250, 152, 70, 0.5)', borderColor: 'rgba(250, 152, 70, 1)', pointBackgroundColor: 'rgba(250, 152, 70, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

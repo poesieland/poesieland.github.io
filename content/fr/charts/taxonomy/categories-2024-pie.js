@@ -29,7 +29,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 15, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 24, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 7, color: 'rgba(252, 191, 140, 1)' },
-    { label: 'Mouvement', value: 3, color: 'rgba(250, 152, 70, 1)' },
+    { label: 'Mouvement', value: 4, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Printemps', value: 11, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 18, color: 'rgba(0, 86, 27, 1)' },

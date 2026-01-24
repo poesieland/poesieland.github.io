@@ -3,8 +3,15 @@ title = "Cheminement"
 id = "cheminement_20"
 date = 2024-06-15
 weight = 37
-categories = [ "Foi" ]
-tags = [ "2024", "hexasyllabe", "philosophie", "chemin spirituel" ]
+categories = [ "Foi", "Mouvement" ]
+tags = [
+  "2024",
+  "chemin spirituel",
+  "hexasyllabe",
+  "philosophie",
+  "attitudes",
+  "refrain"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

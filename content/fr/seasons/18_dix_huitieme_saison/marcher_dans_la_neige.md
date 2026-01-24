@@ -3,8 +3,8 @@ title = "Marcher dans la neige"
 id = "marcher_dans_la_neige_18"
 date = 2023-12-04
 weight = 33
-categories = ["Neige"]
-tags = ["nature", "2023", "pentasyllabe"]
+categories = [ "Neige", "Mouvement" ]
+tags = [ "2023", "nature", "pentasyllabe", "attitudes" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

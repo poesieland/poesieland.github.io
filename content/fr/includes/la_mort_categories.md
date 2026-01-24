@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Automne](/categories/automne)
 - [Etre](/categories/etre)
 - [Apprentissage](/categories/apprentissage)
+- [Création](/categories/création)
 - [Révolte](/categories/révolte)
 - [Espoir](/categories/espoir)
 - [Foi](/categories/foi)
-- [Faune](/categories/faune)
