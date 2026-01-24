@@ -10,4 +10,4 @@ title = "Associations privilégiées"
 - [Ciel](/categories/ciel) et [Crépuscule](/categories/crépuscule)
 - [Ciel](/categories/ciel) et [Hiver](/categories/hiver)
 - [Ciel](/categories/ciel) et [Climat](/categories/climat)
-- [Climat](/categories/climat) et [Eau douce](/categories/eau-douce)
+- [Aube](/categories/aube) et [Ciel](/categories/ciel)

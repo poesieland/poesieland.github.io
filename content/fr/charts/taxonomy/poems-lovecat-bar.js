@@ -31,7 +31,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots sur le chemin (28) 2025', value: 4, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Kaléidoscopes (29) 2025', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Tout fait sens (30) 2025-26', value: 8, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Emotions mouvantes (31) 2026', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Emotions mouvantes (31) 2026', value: 4, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-lovecatBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

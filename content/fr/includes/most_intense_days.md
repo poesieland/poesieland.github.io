@@ -19,3 +19,4 @@ title = "Les jours les plus intenses"
   - 2004 : lun. 26 avr.
   - 2024 : dim. 31 mars, lun. 29 avr., sam. 15 juin, sam. 24 août, dim. 22 déc.
   - 2025 : sam. 11 janv., dim. 16 févr., dim. 09 mars, dim. 16 mars, jeu. 27 mars, sam. 26 avr., dim. 27 avr., sam. 10 mai, dim. 11 mai, sam. 21 juin, sam. 28 juin, mar. 08 juil., mar. 19 août, mar. 26 août, dim. 31 août, sam. 11 oct., jeu. 20 nov., dim. 23 nov., sam. 27 déc., mar. 30 déc.
+  - 2026 : mar. 20 janv.
