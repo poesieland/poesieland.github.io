@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui dort / Quand tu le caresses"
+description: "Gare au chat qui **dort** / Quand tu le caresses"
 ---
 Gare au chat qui dort
 

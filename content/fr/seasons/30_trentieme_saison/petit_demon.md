@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui dort / Toute la journée"
+description: "Gare au chat qui **dort** / Toute la journée"
 ---
 Gare au chat qui dort
 

@@ -21,7 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat soudain / Comme une sirène"
+description: "Gare au chat **soudain** / Comme une sirène"
 ---
 Gare au chat soudain
 

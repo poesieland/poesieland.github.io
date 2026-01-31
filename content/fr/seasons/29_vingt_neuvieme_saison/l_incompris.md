@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui veut / Quelque chose encore"
+description: "Gare au chat qui **veut** / Quelque chose encore"
 ---
 Gare au chat qui veut
 

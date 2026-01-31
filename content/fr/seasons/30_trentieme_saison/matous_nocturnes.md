@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare aux chats qui dorment, / Rêveurs, les aimons !"
+description: "Gare aux chats qui **dorment**, / Rêveurs, les aimons !"
 ---
 Gare aux chats qui dorment,
 

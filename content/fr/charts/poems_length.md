@@ -61,7 +61,9 @@ Certaines fois une mini-nouvelle.
 - [Le mot manquant](../seasons/18_dix_huitieme_saison/le_mot_manquant)  
 *à la dix-huitième saison* 
 - [La mariée rose](../seasons/21_vingt_et_unieme_saison/la_mariee_rose)  
-*à la vingt-et-unième saison* 
+*à la vingt-et-unième saison*
+- [Nous](../seasons/31_trente_et_unieme_saison/nous)  
+*à la trente-et-unième saison*
 
 ## Données croisées : métrique, longueur du poème
 

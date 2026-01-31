@@ -21,7 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui vibre, / Fait rire bébé"
+description: "Gare au chat qui **vibre**, / Fait rire bébé"
 ---
 Gare au chat qui vibre,
 

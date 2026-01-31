@@ -65,6 +65,4 @@ Libres comme vent dans les voiles
 
 Et nous partagent leurs humeurs.
 
-<!-- FM:Snippet:Start data:{"id":"_figure","fields":[{"name":"imageName","value":"humeurs_de_chats_21_0.jpg"},{"name":"imageCaption","value":"Chat du quartier, juillet 2024"}]} -->
-{{< figure src="/images/humeurs_de_chats_21_0.jpg" title="Chat du quartier, juillet 2024" >}}
-<!-- FM:Snippet:End -->
+{{< figure src="/images/humeurs_de_chats_21_0.jpg" title="Caïd du coin, octobre 2023" >}}

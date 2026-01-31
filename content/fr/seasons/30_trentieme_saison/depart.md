@@ -21,7 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: Gare au chat qui clame / Qu'il est éternel
+description: Gare au chat qui **clame** / Qu'il est éternel
 ---
 Gare au chat qui clame
 

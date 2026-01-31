@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui sème / Tant de poils d'un coup !"
+description: "Gare au chat qui **sème** / Tant de poils d'un coup !"
 ---
 Gare au chat qui sème
 

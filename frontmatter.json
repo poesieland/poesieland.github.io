@@ -57,7 +57,7 @@
           "description": "Add year to TAGS"
         },
         {
-          "title": "Verse length",
+          "title": "Metric",
           "name": "verseLength",
           "type": "number",
           "required": false,
@@ -490,9 +490,16 @@
           "type": "divider"
         },
         {
-          "title": "Additional description",
+          "title": "Information",
           "name": "info",
-          "type": "string"
+          "type": "string",
+          "description": "Add a notice with INFORMATION to poem's end using snippets"
+        },
+        {
+          "title": "Short description for display by parent page",
+          "name": "description",
+          "type": "string",
+          "description": "Required with these TAGS: 'gare au chat', 'les mois', 'saison incertaine'"
         },
         {
           "title": "Associated picture(s) caption",

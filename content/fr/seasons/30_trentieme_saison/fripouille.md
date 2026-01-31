@@ -22,7 +22,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui saute / Tout droit dans ton coeur"
+description: "Gare au chat qui **saute** / Tout droit dans ton coeur"
 ---
 Gare au chat qui saute
 

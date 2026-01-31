@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui miaule / De plus en plus fort"
+description: "Gare au chat qui **miaule** / De plus en plus fort"
 ---
 Gare au chat qui miaule
 

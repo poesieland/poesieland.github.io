@@ -89,3 +89,7 @@ Ainsi que les reprises une seule fois pour le moment...
 *Depuis la deuxième saison*
 - ["Et s'il neigeait sur nos amours"](../seasons/30_trentieme_saison/la_neige_sans_limite)  
 *Depuis la quinzième saison*
+
+**A la trente-et-unième saison**
+- ["A mon dernier rendez-vous / J'irai sans baisser la tête"](../seasons/31_trente_et_unieme_saison/il_faut_venir)  
+*Depuis la sixième saison*

@@ -25,6 +25,9 @@
 			},
 			"editor.minimap.enabled": false
 		},
-		"cSpell.language": "en,fr"
+		"cSpell.language": "en,fr",
+		"cSpell.words": [
+			"saillance"
+		]
 	}
 }

@@ -12,9 +12,9 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Souffles (9) 1998', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Pensées (10) 1998-99', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Perceptible (11) 1999', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Tempo piano (12) 1999', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Tempo piano (12) 1999', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Divina (13) 1999', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Au long cours (14) 1999-2001', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Au long cours (14) 1999-2001', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'De place en place (15) 2001', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Plus loin (16) 2002-04', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
@@ -31,7 +31,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots sur le chemin (28) 2025', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Kaléidoscopes (29) 2025', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Tout fait sens (30) 2025-26', value: 6, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Emotions mouvantes (31) 2026', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Emotions mouvantes (31) 2026', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-la-mortBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

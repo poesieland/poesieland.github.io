@@ -34,6 +34,8 @@ Les lieux comme le cimetière[^4] mais aussi, découvert plus tard, le crémator
 
 Les symboles empruntés à d'autres cultures mais qui me parlent : la barque[^6], un signal[^7].
 
+Les mots que j'aime reprendre : [tombeau](/search?search-by=tombeau), [(un poème pour) épitaphe](/search?search-by=épitaphe).
+
 Vous voici donc arrivés à la [liste des poèmes traitant de ce sujet](./#a).
 
 [^1]: Les animaux : [Hiska](../seasons/24_vingt_quatrieme_saison/hiska), ma première chienne, lui rendre hommage m'a demandé beaucoup de temps. [Fripouille](../seasons/30_trentieme_saison/fripouille), un chat qui m'a inspirée souvent de son vivant aussi.

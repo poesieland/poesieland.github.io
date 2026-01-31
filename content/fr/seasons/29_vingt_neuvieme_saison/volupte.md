@@ -9,16 +9,17 @@ categories:
     - Faune
 tags:
     - "2025"
+    - lovecat
     - nature
     - pentasyllabe
-    - lovecat
+    - gare au chat
 location: []
-info: '{{% include "../../includes/gare_au_chat" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Gare aux chats qui **dorment**, / Ces gros patachons
 ---
 Gare aux chats qui dorment,
 
@@ -37,7 +38,4 @@ Les troubler je n'aille !
 
 Dormir, c'est un art !
 
-{{% notice style="primary" %}}
-{{% include "../../includes/gare_au_chat" hidefirstheading %}}
-{{% /notice %}}
 

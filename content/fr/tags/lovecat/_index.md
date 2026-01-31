@@ -14,10 +14,12 @@ Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
 {{< figure src="/images/paire_de_chats.jpg" title="Repos synchronisé ! juillet 2018" >}}
 
-{{< figure src="/images/matou_noir_et_blanc.jpg" title="Un caïd du coin, octobre 2023" >}}
+{{< figure src="/images/humeurs_de_chats_21_0.jpg" title="Un caïd du coin, octobre 2023" >}}
+
+{{< figure src="/images/le_chat_chasseur_31_0.jpg" title="Près du métro, janvier 2026" >}}
 
 ## Sans oublier une facétie
 
-[Le mini-thème *Gare au(x) chat(s)...*](../gare-au-chat).
+[Le mini-thème drôle *Gare au(x) chat(s)...*](../gare-au-chat).
 
 {{< chartjs id="poems-lovecatBar" width="90%" jsFile="../../charts/taxonomy/poems-lovecat-bar.js" />}}

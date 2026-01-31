@@ -20,7 +20,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat nocturne / Qui miaule si fort"
+description: "Gare au chat **nocturne** / Qui miaule si fort"
 ---
 Gare au chat nocturne
 
