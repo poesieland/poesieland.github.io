@@ -83,4 +83,4 @@ Et c'est moi ton horloge,
 
 Ce sont nous, nous vraiment,
 
-L'amour pour seul éloge 
+L'amour pour seul éloge.
