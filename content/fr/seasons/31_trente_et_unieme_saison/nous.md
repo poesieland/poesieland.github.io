@@ -36,7 +36,7 @@ Et c'est nous que voilà,
 
 Et c'est nous au coeur tendre,
 
-Le soleil se voilà
+Le soleil se voila
 
 Et puis se fit attendre.
 
@@ -81,6 +81,6 @@ Et c'est toi mon moment,
 
 Et c'est moi ton horloge,
 
-Et c'est nous quand vraiment
+Ce sont nous, nous vraiment,
 
-Plus rien ne nous déloge.
+L'amour pour seul éloge 
