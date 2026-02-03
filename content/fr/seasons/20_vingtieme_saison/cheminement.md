@@ -6,7 +6,6 @@ weight = 37
 categories = [ "Foi", "Mouvement" ]
 tags = [
   "2024",
-  "chemin spirituel",
   "hexasyllabe",
   "philosophie",
   "attitudes",

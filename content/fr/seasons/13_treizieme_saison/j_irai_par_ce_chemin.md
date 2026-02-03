@@ -8,8 +8,7 @@ tags = [
   "1999",
   "acrostiche",
   "hexasyllabe",
-  "philosophie",
-  "chemin spirituel"
+  "philosophie"
 ]
 acrostiche = "J'irai par ce chemin"
 verseLength = 6

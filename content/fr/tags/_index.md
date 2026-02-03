@@ -12,8 +12,7 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
 - des mini-thèmes...
 
   - [l'air ou la chanson](./lair-ou-la-chanson/)
-  - le [chemin spirituel](./chemin-spirituel)
-  - la [famille](./famille/)
+   - la [famille](./famille/)
   - [lovecat](./lovecat/) et [gare au chat](./gare-au-chat)
   - [les mois](./les-mois/)
   - [la mort](./la-mort/)

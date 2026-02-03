@@ -4,7 +4,7 @@ id = "vers_l_abbaye_21"
 date = 2024-08-02
 weight = 30
 categories = [ "Foi" ]
-tags = [ "2024", "hexasyllabe", "philosophie", "chemin spirituel" ]
+tags = [ "2024", "hexasyllabe", "philosophie" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
