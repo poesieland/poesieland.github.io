@@ -93,3 +93,5 @@ Ainsi que les reprises une seule fois pour le moment...
 **A la trente-et-unième saison**
 - ["A mon dernier rendez-vous / J'irai sans baisser la tête"](../seasons/31_trente_et_unieme_saison/il_faut_venir)  
 *Depuis la sixième saison*
+- ["Le poète oublieux que sa muse délaisse"](../seasons/31_trente_et_unieme_saison/desespoir_du_poete_revisite)  
+*Depuis la première saison*

@@ -7,7 +7,7 @@ Douze mois... Chacun associé à des sentiments particuliers.
 Un mois d'hiver où brille une [flamme](../../seasons/5_cinquieme_saison/l_orage_du_cour) – [satyre](../../seasons/16_seizieme_saison/mais_ou_vais_je) – [las](../../seasons/18_dix_huitieme_saison/hiver_pluvieux) – [triste et drôle](../../seasons/23_vingt_troisieme_saison/janvier) – [pâle et frileux](../../seasons/24_vingt_quatrieme_saison/voici_janvier) – [plaintif](../../seasons/24_vingt_quatrieme_saison/orgie) – qu'il faut laisser [gémir et passer](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver) - [frais, lumineux](../../seasons/31_trente_et_unieme_saison/redemarrage).
 
 ## Février
-[désarroi](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver).
+[désarroi](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver) - [demain](../../seasons/31_trente_et_unieme_saison/fevrier).
 
 ## Mars
 [schizophrène](../../seasons/19_dix_neuvieme_saison/avril) – [ouvre une charnière](../../seasons/28_vingt_huitieme_saison/equinoxes).

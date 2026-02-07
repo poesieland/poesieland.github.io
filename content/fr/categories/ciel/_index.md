@@ -32,6 +32,8 @@ Quand le premier vers le met en valeur :
 *à la cinquième saison*
 - encore [bleu marine](../../seasons/24_vingt_quatrieme_saison/naissance_de_l_aube)  
 *à la vingt-quatrième saison*
+- [bleu très clair](../../seasons/31_trente_et_unieme_saison/ciel_de_printemps)  
+*à la trente-et-unième saison*
 - [calme, floconneux](../../seasons/29_vingt_neuvieme_saison/matin_froisse)  
 *à la vingt-neuvième saison*
 - [comme un paravent](../../seasons/3_troisieme_saison/panoramique)  

@@ -1,8 +1,9 @@
 +++
 title = "Trente-et-unième Saison : Emotions mouvantes"
-summary = "A partir de janvier 2026"
+summary = "Philosophie, nature... A partir de janvier 2026"
 weight = 31
 +++
+Faune, création, temps, apprentissage...
 
 A partir de janvier 2026.
 

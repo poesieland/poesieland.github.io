@@ -33,7 +33,7 @@ Car à tes yeux n'existe en mort que page blanche,
 
 Et tu cherches, stupide, à prendre ta revanche.
 
-Sans ta création tu n'es rien qu'animal!
+Sans ta création tu n'es rien qu'animal !
 
  \
 Mais tu devrais savoir qu'en force tu t'obstines,
@@ -42,4 +42,4 @@ Ressassant un poème ou quelques mots perdus,
 
 Et tu prierais l'Enfer qu'enfin te soient rendus
 
-Les dons pour l'avenir auquel tu te destines!
+Les dons pour l'avenir auquel tu te destines !
