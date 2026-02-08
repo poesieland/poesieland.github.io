@@ -29,8 +29,6 @@ Ainsi que les reprises une seule fois pour le moment...
 *Depuis la quatrième saison*
 - ["Avant que l'hiver ne vous prenne"](../seasons/22_vingt_deuxieme_saison/automne_serein)  
 *Depuis la cinquième saison*
-- ["(j')écoute un coeur qui bat tout bas"](../seasons/22_vingt_deuxieme_saison/vers_plus_d_amour)  
-*Depuis la dix-neuvième saison*
 - ["Funèbre parfum d'une rose / A la boutonnière du temps"](../seasons/22_vingt_deuxieme_saison/parfum_d_octobre)  
 *Depuis la deuxième saison*
 

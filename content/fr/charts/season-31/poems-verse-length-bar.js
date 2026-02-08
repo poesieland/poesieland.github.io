@@ -5,7 +5,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '4', value: 6 },
     { label: '5', value: 8 },
     { label: '6', value: 9 },
-    { label: '8', value: 4 },
+    { label: '8', value: 5 },
     { label: '9', value: 1 },
   ];
     addBarChart('season31VerseLengthBar', ['Poèmes'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});

@@ -14,7 +14,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Espoir', value: 75, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 108, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 78, color: 'rgba(203, 93, 241, 1)' },
-    { label: 'Portraits', value: 85, color: 'rgba(179, 51, 233, 1)' },
+    { label: 'Portraits', value: 86, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 163, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 135, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 55, color: 'rgba(70, 24, 115, 1)' },

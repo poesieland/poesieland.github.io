@@ -15,7 +15,7 @@ tags:
     - philosophie
     - refrain
 location: []
-info: ""
+info: '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
 description: Toi, la lune
 pictures: []
 poemType: ""
@@ -48,3 +48,7 @@ Tant que je te vois bouger,
 Depuis l'enfance qui s'attarde
 
 Trop de choses auront changé.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
+{{% /notice %}}

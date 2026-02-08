@@ -34,7 +34,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 7 },
     { label: 'Février', value: 8 },
     { label: '', value: 3 },
-    { label: '', value: 2 },
+    { label: '', value: 3 },
     { label: '', value: 3 },
     { label: '', value: 3 },
     { label: '', value: 1 },

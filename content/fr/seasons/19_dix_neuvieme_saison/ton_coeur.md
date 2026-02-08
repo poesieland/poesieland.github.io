@@ -7,6 +7,7 @@ categories = [ "Etre" ]
 tags = [ "2024", "octosyllabe", "philosophie", "refrain" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
 +++
 
 J'écoute un coeur qui bat tout bas,
@@ -34,3 +35,7 @@ Et c'est ta vie et c'est mon âme,
 J'écoute un coeur qui bat si fort,
 
 Ton coeur joyeux tout feu tout flamme.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
+{{% /notice %}}

@@ -3,9 +3,9 @@ title = "Vers plus d'amour"
 id = "vers_plus_d_amour_22"
 date = 2024-10-20
 weight = 31
-categories = ["Foi"]
-tags = ["philosophie", "2024", "octosyllabe", "refrain"]
-info = "Reprise modifiée du premier vers \"J'écoute un coeur qui bat tout bas\" d'un [poème de la dix-neuvième saison](../19_dix_neuvieme_saison/ton_coeur)."
+categories = [ "Foi" ]
+tags = [ "philosophie", "2024", "octosyllabe", "refrain" ]
+info = '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,5 +37,5 @@ Vite jeté c'est un bon sort
 Vers plus d'amour et d'allégresse !
 
 {{% notice style="primary" %}}
-Reprise modifiée du premier vers "J'écoute un coeur qui bat tout bas" d'un [poème de la dix-neuvième saison](../19_dix_neuvieme_saison/ton_coeur).
+{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
 {{% /notice %}}
