@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Etre](/categories/etre)
 - [Climat](/categories/climat)
 - [Eau douce](/categories/eau-douce)
+- [Hiver](/categories/hiver)
 - [Angoisse](/categories/angoisse)
 - [Temps](/categories/temps)
-- [Espoir](/categories/espoir)

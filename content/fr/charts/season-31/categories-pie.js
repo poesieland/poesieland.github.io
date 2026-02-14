@@ -14,13 +14,14 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Apprentissage', value: 4, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 3, color: 'rgba(244, 254, 254, 1)' },
+    { label: 'Flore', value: 1, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Eau douce', value: 1, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 3, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 6, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 3, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Hiver', value: 2, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season31Pie', [data], { plugins: { title: { display: true, text: 'Emotions mouvantes (31) janvier à février 2026' } } });
 })();

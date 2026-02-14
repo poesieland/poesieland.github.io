@@ -15,6 +15,7 @@ import { addPieChart } from '../add-chart.js'
     { label: '24', value: 32, color: 'rgb(237, 187, 153)' },
     { label: '26', value: 1, color: 'rgb(247, 249, 249)' },
     { label: '28', value: 6, color: 'rgb(204, 209, 209)' },
+    { label: '32', value: 1, color: 'rgb(247, 249, 249)' },
   ];
   addPieChart('poemLengthPie', [data], { plugins: { title: { display: true, text: 'Poèmes' } } });
 })();

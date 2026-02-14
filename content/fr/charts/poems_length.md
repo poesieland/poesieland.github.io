@@ -65,6 +65,13 @@ Certaines fois une mini-nouvelle.
 - [Nous](../seasons/31_trente_et_unieme_saison/nous)  
 *à la trente-et-unième saison*
 
+## Et même huit
+
+La métrique variable est tentatrice...
+
+- [Rêve de l'arbre d'hiver](../seasons/31_trente_et_unieme_saison/reve_de_l_arbre_d_hiver)  
+*à la trente-et-unième saison*
+
 ## Données croisées : métrique, longueur du poème
 
 {{< chartjs id="poemLengthByVerseLength" width="100%" jsFile="../general/poem-length-by-verse-length.js" />}}

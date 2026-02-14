@@ -36,7 +36,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 3 },
     { label: '', value: 3 },
     { label: '', value: 4 },
-    { label: '', value: 3 },
+    { label: '', value: 4 },
     { label: '', value: 1 },
     { label: '', value: 3 },
     { label: '', value: 2 },

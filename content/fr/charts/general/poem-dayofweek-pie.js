@@ -4,7 +4,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Lundi', value: 213, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
     { label: 'Mardi', value: 218, color: 'rgba(72, 149, 239, 0.4)' },
     { label: 'Mercredi', value: 212, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Jeudi', value: 169, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
+    { label: 'Jeudi', value: 170, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: 'Vendredi', value: 204, color: 'rgba(72, 149, 239, 0.7)' },
     { label: 'Samedi', value: 245, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 285, color: 'rgba(72, 149, 239, 0.9000000000000001)' },
