@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
+[Le droit de partir, écrit le 04.02.2026](../seasons/31_trente_et_unieme_saison/le_droit_de_partir)
+
 [Coeur miraculé, écrit le 03.02.2026](../seasons/31_trente_et_unieme_saison/coeur_miracule)
 
 [Toi, la lune, écrit le 03.02.2026](../seasons/31_trente_et_unieme_saison/toi_la_lune)
