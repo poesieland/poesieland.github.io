@@ -7,12 +7,14 @@ verseLength: 12
 divider: ""
 categories:
     - Amitié
+    - Temps
 tags:
     - "2026"
+    - alexandrin
     - amour
     - la mort
     - refrain
-    - alexandrin
+    - philosophie
 location: []
 info: ""
 description: Je t'ai donné le droit
