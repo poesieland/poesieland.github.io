@@ -22,7 +22,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 7, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
-    { label: 'Printemps', value: 3, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Printemps', value: 4, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Hiver', value: 2, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categories2026Pie', [data], { plugins: { title: { display: true, text: '2026' } } });

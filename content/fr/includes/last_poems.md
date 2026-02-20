@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
+[Printemps rieur, écrit le 14.02.2026](../seasons/31_trente_et_unieme_saison/printemps_rieur)
+
 [Oser l'amour, écrit le 12.02.2026](../seasons/31_trente_et_unieme_saison/oser_l_amour)
 
 [Prémices, écrit le 07.02.2026](../seasons/31_trente_et_unieme_saison/premices)
