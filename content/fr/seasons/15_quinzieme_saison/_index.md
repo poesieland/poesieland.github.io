@@ -1,12 +1,14 @@
 +++
 title = "Quinzième Saison : De place en place"
-summary = "De ruelle en avenue, de cabane en palace, de lieux rêvés aux lieux vécus, philosophie, ombres et lumières. D'avril à décembre 2001"
 weight = 15
+type = "seasonIndex"
+description = """
+De ruelle en avenue, de cabane en palace, de lieux rêvés aux lieux vécus, comme mon inspiration flâne à travers l'être, la ville, le temps .Les poèmes qui la composent sont à présent dans l'ordre chronologique.
+
+D'avril à décembre 2001"""
 +++
 
-Les poèmes qui la conposent sont à présent dans l'ordre chronologique, comme mon inspiration flâne à travers l'être, la ville, le temps.
-
-D'avril à décembre 2001
+{{% param "description" %}}
 
 ---
 {{% children  %}}

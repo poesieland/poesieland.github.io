@@ -1,10 +1,14 @@
 +++
 title = "Vingt-troisième Saison : Jamais trop"
-summary = "La philosophie règne, ainsi que les saisons et la nature. Novembre-décembre 2024"
 weight = 23
+type = "seasonIndex"
+description = """
+La foi, exacerbée par la période jusqu'à Noël. L'hiver, le ciel... Aussi l'être et le temps.
+
+Novembre et décembre 2024"""
 +++
 
-La foi, exacerbée par la période jusqu'à Noël. L'hiver, le ciel... Aussi l'être et le temps. Novembre-décembre 2024
+{{% param "description" %}}
 
 ---
 {{% children  %}}

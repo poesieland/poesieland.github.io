@@ -1,10 +1,14 @@
 +++
 title = "Vingt-huitième Saison : Les mots sur le chemin"
-summary = "Saisons, philosophie, nature... De juillet à septembre 2025"
 weight = 28
+type = "seasonIndex"
+description = """
+L'automne, le temps, une place pour l'apprentissage et le romantisme.
+
+De juillet à septembre 2025"""
 +++
 
-L'automne, le temps, une place pour l'apprentissage et le romantisme. De juillet à septembre 2025
+{{% param "description" %}}
 
 ---
 {{% children  %}}

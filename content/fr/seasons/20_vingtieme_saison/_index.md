@@ -1,10 +1,14 @@
 +++
 title = "Vingtième Saison : Le temps qui nous reste"
-summary = "Philosophie, nature, et puis l'été... D'avril à juin 2024"
 weight = 20
+type = "seasonIndex"
+description = """
+Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette saison.
+
+D'avril à juin 2024"""
 +++
 
-Climat, été, portraits, crépuscule et eau douce sont les thèmes de cette saison. D'avril à juin 2024
+{{% param "description" %}}
 
 ---
 {{% children  %}}

@@ -1,12 +1,14 @@
 +++
 title = "Neuvième Saison : Souffles"
-summary = "A la recherche de nouvelles inspirations. De septembre à décembre 1998"
 weight = 9
-+++
-
+type = "seasonIndex"
+description = """
 A la recherche de nouvelles inspirations, l'amour prenant bien moins de place. Toujours la création, l'être, l'art musical, mais également l'espoir.
 
-De septembre à décembre 1998
+De septembre à décembre 1998"""
++++
+
+{{% param "description" %}}
 
 ---
 {{% children  %}}

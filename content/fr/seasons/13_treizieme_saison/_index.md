@@ -1,12 +1,14 @@
 +++
 title = "Treizième Saison : Divina"
-summary = "D'un lieu de vie à l'autre, retrouver ses repères, la philosophie dominée par la foi et le temps. De juillet à novembre 1999"
 weight = 13
+type = "seasonIndex"
+description = """
+D'un lieu de vie à l'autre... Découvrir Paris... Retrouver ses repères, la philosophie dominée par la foi et le temps.
+
+De juillet à novembre 1999"""
 +++
 
-D'un lieu de vie à l'autre, retrouver ses repères, la philosophie dominée par la foi et le temps.
-
-De juillet à novembre 1999
+{{% param "description" %}}
 
 ---
 {{% children  %}}

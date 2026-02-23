@@ -1,7 +1,8 @@
 +++
 title = "Trente-troisième Saison : D'un jour à l'autre"
-summary = "Plus tard"
+description = "Plus tard"
 weight = 33
+type = "seasonIndex"
 +++
 
-Plus tard...
+{{% param "description" %}}

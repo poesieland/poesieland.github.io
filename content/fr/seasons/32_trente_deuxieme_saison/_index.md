@@ -1,7 +1,8 @@
 +++
 title = "Trente-deuxième Saison : Petit Poucet des mots"
-summary = "Plus tard"
+description = "Plus tard"
 weight = 32
+type = "seasonIndex"
 +++
 
-Plus tard...
+{{% param "description" %}}

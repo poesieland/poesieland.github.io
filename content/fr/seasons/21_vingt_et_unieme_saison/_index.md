@@ -1,10 +1,14 @@
 +++
 title = "Vingt-et-unième Saison : C'est vivre qui compte"
-summary = "Philosophie, nature, ombres et lumières. De juin à septembre 2024"
 weight = 21
+type = "seasonIndex"
+description = """
+Une vraie fascination pour le soir. L'été, le temps... le ciel, l'automne, la faune.
+
+De juin à septembre 2024"""
 +++
 
-Une vraie fascination pour le soir. L'été, le temps... le ciel, l'automne, la faune. De juin à septembre 2024
+{{% param "description" %}}
 
 ---
 {{% children  %}}

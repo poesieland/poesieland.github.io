@@ -1,12 +1,14 @@
 +++
 title = "Quatorzième Saison : Au long cours"
-summary = "Rares, mais précieux, les moments de cette Saison très variée. De novembre 1999 à mars 2001"
 weight = 14
-+++
-
+type = "seasonIndex"
+description = """
 Rares, mais précieux, les moments de cette Saison très variée : le temps omniprésent, les jardins et paysages, l'art musical.
 
-De novembre 1999 à mars 2001
+De novembre 1999 à mars 2001"""
++++
+
+{{% param "description" %}}
 
 ---
 {{% children  %}}
