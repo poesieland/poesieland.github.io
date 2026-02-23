@@ -1,12 +1,14 @@
 +++
 title = "Huitième Saison : Reflets perdus"
-summary = "La fin d'un amour, mais également une période de doute, et quelques \"diamants\". De juillet à septembre 1998"
 weight = 8
+type = "seasonIndex"
+description = """
+Toujours l'exploration de l'être, de la création, de l'art musical pour exprimer mes doutes, et la fin d'un amour partagée entre tellement de passion et le romantisme. Beaucoup de poèmes de cette Saison sont allés clore mon recueil.
+
+De juillet à septembre 1998"""
 +++
 
-Toujours l'exploration de l'être, de la création, de l'art musical pour exprimer mes doutes, et la fin d'un amour partagée entre tellement de passion et le romantisme. Beaucoup de poèmes sont allés clore mon recueil.
-
-De juillet à septembre 1998
+{{% param "description" %}}
 
 ---
 {{% children  %}}

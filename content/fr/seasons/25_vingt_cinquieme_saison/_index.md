@@ -1,10 +1,14 @@
 +++
 title = "Vingt-cinquième Saison : Coeur et âme"
-summary = "Assez équilibrée, cette saison est variée : philosophie, saisons, nature, et le retour d'ombres et lumières. De février à avril 2025"
 weight = 25
+type = "seasonIndex"
+description = """
+Une Saison assez équilibrée, variée, avec le retour d'ombres et lumières... Thèmes du moment : printemps, crépuscule, angoisse, temps, apprentissage, flore.
+
+De février à avril 2025"""
 +++
 
-Printemps, crépuscule, angoisse, temps, apprentissage, flore... De février à avril 2025
+{{% param "description" %}}
 
 ---
 {{% children  %}}

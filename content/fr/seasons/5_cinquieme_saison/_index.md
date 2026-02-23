@@ -1,12 +1,14 @@
 +++
 title = "Cinquième Saison : Espaces de vie"
-summary = "Amour et philosophie décrivent de multiples bonheurs. De septembre 1997 à mars 1998"
 weight = 5
+type = "seasonIndex"
+description = """
+Saison de multiples bonheurs : passion et amour platonique, être, mais aussi temps, apprentissage et automne.
+
+De septembre 1997 à mars 1998"""
 +++
 
-Passion et amour platonique, être, mais aussi temps, apprentissage et automne.
-
-De septembre 1997 à mars 1998
+{{% param "description" %}}
 
 ---
 {{% children  %}}

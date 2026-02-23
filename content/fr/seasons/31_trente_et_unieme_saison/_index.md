@@ -1,14 +1,14 @@
 +++
 title = "Trente-et-unième Saison : Emotions mouvantes"
-summary = "Philosophie, nature... A partir de janvier 2026"
 weight = 31
+type = "seasonIndex"
+description = """
+Faune, création, temps, apprentissage... Lorsque j'ai choisi le titre de cette saison (toujours à l'avance, forcément), je ne savais pas encore que j'allais retranscrire des émotions aussi variées... Je suis observatrice-éponge de mon entourage, toujours.
+
+A partir de janvier 2026."""
 +++
-Faune, création, temps, apprentissage...
 
-Lorsque j'ai choisi le titre de cette saison (toujours à l'avance, forcément), je ne savais pas encore que j'allais retranscrire des émotions variées... Je suis observatrice-éponge de mon entourage, toujours.
-
-A partir de janvier 2026.
-
+{{% param "description" %}}
 ---
 {{% children  %}}
 

@@ -1,14 +1,14 @@
 +++
 title = "Seizième Saison : Plus loin"
-summary = "Très autobiographique, cette Saison mêle plusieurs amours puis retrouve un nouveau souffle après un changement de lieu de vie. De mars 2002 à octobre 2004"
 weight = 16
+type = "seasonIndex"
+description = """
+Une Saison très autobiographique, tournée vers le temps, les jardins et paysages, l'automne, l'être, l'aube. Elle tend vers l'abstraction, avec des jeux de mots poussés, dans un duel avec une amie poète. Heureusement, la vie n'est pas statique. Quitter Paris pour Bordeaux m'a fait retrouver une nouvelle inspiration.
+
+De mars 2002 à octobre 2004"""
 +++
 
-Une Saison très autobiographique, tournée vers le temps, les jardins et paysages, l'automne, l'être, l'aube. Elle tend vers l'abstraction, avec des jeux de mots poussés, dans un duel avec une amie poète.
-
-Heureusement, la vie n'est pas statique. Quitter Paris pour Bordeaux m'a fait retrouver une nouvelle inspiration.
-
-De mars 2002 à octobre 2004
+{{% param "description" %}}
 
 ---
 {{% children  %}}

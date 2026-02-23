@@ -1,10 +1,14 @@
 +++
 title = "Vingt-septième Saison : D'un rêve à l'autre"
-summary = "Toujours autant de place pour la philosophie rêveuse. Une explosion de refrains. De juin à juillet 2025"
 weight = 27
+type = "seasonIndex"
+description = """
+Qui dit rêves dit portraits, être, temps, été, crépuscule. Ainsi qu'une explosion de refrains.
+
+Juin et juillet 2025"""
 +++
 
-Qui dit rêves dit portraits, être, temps, été, crépuscule... De juin à juillet 2025
+{{% param "description" %}}
 
 ---
 {{% children  %}}

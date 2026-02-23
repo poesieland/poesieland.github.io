@@ -19,6 +19,37 @@
   ],
   "frontMatter.taxonomy.contentTypes": [
     {
+      "name": "seasonIndex",
+      "pageBundle": false,
+      "previewPath": null,
+      "filePrefix": "",
+      "fields": [
+        {
+          "title": "Weight",
+          "name": "weight",
+          "type": "number",
+          "required": true,
+          "numberOptions": {
+            "min": 1,
+            "max": 100,
+            "step": 1
+          }
+        },
+        {
+          "title": "Season title",
+          "name": "title",
+          "type": "string",
+          "required": true
+        },
+        {
+          "title": "description for inclusion here and display by parent page",
+          "name": "description",
+          "type": "string",
+          "required": true
+        }
+      ]
+    },
+    {
       "name": "default",
       "pageBundle": false,
       "previewPath": null,

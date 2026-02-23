@@ -1,10 +1,14 @@
 +++
 title = "Vingt-sixième Saison : Chemins non balisés"
-summary = "Philosophie et nature dominent. D'avril à juin 2025"
 weight = 26
+type = "seasonIndex"
+description = """
+Eau douce, flore, être, temps...
+
+D'avril à juin 2025"""
 +++
 
-Eau douce, flore, être, temps... D'avril à juin 2025
+{{% param "description" %}}
 
 ---
 {{% children  %}}
