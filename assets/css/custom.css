@@ -64,9 +64,9 @@ a#logo:hover {
 }
 
 :root {
-    --MENU-WIDTH-M: 20rem;
-    --MENU-WIDTH-L: 20rem;
-    --MAIN-WIDTH-MAX: 100rem;
+    --MENU-M-width: 20rem;
+    --MENU-L-width: 25rem;
+    /* --MAIN-MAX-width: 100rem; */
 }
 
 .chartjs-wrapper {
