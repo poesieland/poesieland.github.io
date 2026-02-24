@@ -3,7 +3,7 @@ title = "Deuxième Saison : Tableaux"
 weight = 2
 type = "seasonIndex"
 description = """
-Une Saison toute de petites touches : l'inspiration guidée par l'automne puis l'hiver advenus, l'envie de dresser quelques portraits, également l'amitié, le crépuscule et la flore.
+Par petites touches, l'inspiration guidée par l'automne puis l'hiver, l'envie de dresser quelques portraits, également l'amitié, le crépuscule et la flore.
 
 De septembre à décembre 1996"""
 +++

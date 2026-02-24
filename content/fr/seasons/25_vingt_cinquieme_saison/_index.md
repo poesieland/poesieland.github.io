@@ -3,7 +3,7 @@ title = "Vingt-cinquième Saison : Coeur et âme"
 weight = 25
 type = "seasonIndex"
 description = """
-Une Saison assez équilibrée, variée, avec le retour d'ombres et lumières... Thèmes du moment : printemps, crépuscule, angoisse, temps, apprentissage, flore.
+Quelques mois printaniers d'inspiration assez équilibrée et variée, avec le retour d'ombres et lumières... Thèmes principaux : printemps, crépuscule, angoisse, temps, apprentissage, flore.
 
 De février à avril 2025"""
 +++

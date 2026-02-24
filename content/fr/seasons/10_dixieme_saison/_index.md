@@ -3,7 +3,7 @@ title = "Dixième Saison : Pensées"
 weight = 10
 type = "seasonIndex"
 description = """
-Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, en explorant de nombreux thèmes : la foi, le romantisme, l'espoir, l'être ainsi que des éléments plus concrets comme l'art musical, la mer, la neige.
+Pensées oniriques ou plus réelles, cette Saison est riche de vie intérieure, en explorant de nombreux thèmes concrets ou abstraits : la foi, la mer, l'art musical, ainsi que la neige, le romantisme, l'espoir, l'être.
 
 De janvier 1998 à mars 1999"""
 +++

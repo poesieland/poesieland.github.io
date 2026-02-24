@@ -3,7 +3,7 @@ title = "Troisième Saison : Vivace"
 weight = 3
 type = "seasonIndex"
 description = """
-Ces quelques mois presque exaltés philosophiquement, avant de connaître d'autres bonheurs. Sur les thèmes du temps, du printemps, de la nuit principalement, avec également l'être, la lune et les portraits.
+Ces quelques mois presque exaltés philosophiquement, avant de connaître d'autres bonheurs. Sur les thèmes du temps, du printemps, mais aussi un peu de la nuit, l'être, la lune, l'amour platonique et les portraits.
 
 De janvier à mai 1997"""
 +++

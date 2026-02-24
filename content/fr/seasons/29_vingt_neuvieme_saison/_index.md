@@ -3,7 +3,7 @@ title = "Vingt-neuvième Saison : Kaléidoscopes"
 weight = 29
 type = "seasonIndex"
 description = """
-La saison-phare, l'automne... Aussi le temps, la faune, l'aube, le crépuscule. 
+La saison omniprésente : l'automne. Aussi le temps, la faune, l'aube, le crépuscule. 
 
 De septembre à novembre 2025."""
 +++

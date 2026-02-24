@@ -3,7 +3,7 @@ title = "Cinquième Saison : Espaces de vie"
 weight = 5
 type = "seasonIndex"
 description = """
-Saison de multiples bonheurs : passion et amour platonique, être, mais aussi temps, apprentissage et automne.
+Multiples bonheurs : passion, apprentissage, amour platonique, être... mais aussi temps, être, flore, faune et automne.
 
 De septembre 1997 à mars 1998"""
 +++

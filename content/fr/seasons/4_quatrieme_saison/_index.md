@@ -3,7 +3,7 @@ title = "Quatrième Saison : Rêves"
 weight = 4
 type = "seasonIndex"
 description = """
-Une Saison riche d'un essor romantique et passionné, célébration de l'automne et également de la lune. 
+Quelques mois riches d'un essor romantique et passionné, la célébration de l'automne, avec la présence de l'été, la lune et la faune.
 
 De mai à septembre 1997"""
 +++

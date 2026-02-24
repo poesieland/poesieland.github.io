@@ -3,7 +3,7 @@ title = "Septième Saison : Croire"
 weight = 7
 type = "seasonIndex"
 description = """
-Mois obsédés où la création le dispute à l'être et l'art musical, tandis qu'un amour éperdu se partage entre romantisme et passion. La saison qui a le plus alimenté mon recueil.
+Mois obsédés où la création m'a envahie, sur fond de dispute entre l'être et l'art musical, tandis qu'un amour éperdu se partage entre romantisme et passion. La saison qui a le plus alimenté mon recueil.
 
 Juin et juillet 1998"""
 +++

@@ -3,7 +3,7 @@ title = "Huitième Saison : Reflets perdus"
 weight = 8
 type = "seasonIndex"
 description = """
-Toujours l'exploration de l'être, de la création, de l'art musical pour exprimer mes doutes, et la fin d'un amour partagée entre tellement de passion et le romantisme. Beaucoup de poèmes de cette Saison sont allés clore mon recueil.
+Tant de passion pour signer la fin d'un amour, beaucoup de poèmes de cette Saison sont allés clore mon recueil... Toujours l'exploration de l'être, de la création, de l'art musical pour exprimer mes doutes.
 
 De juillet à septembre 1998"""
 +++

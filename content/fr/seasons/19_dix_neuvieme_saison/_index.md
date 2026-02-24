@@ -3,7 +3,7 @@ title = "Dix-neuvième Saison : Destination bonheur"
 weight = 19
 type = "seasonIndex"
 description = """
-En gros plan : le printemps, le temps... un peu de climat.
+Mis en avant : le printemps et le temps. Le climat encore présent.
 
 De janvier à avril 2024"""
 +++

@@ -3,7 +3,7 @@ title = "Vingt-septième Saison : D'un rêve à l'autre"
 weight = 27
 type = "seasonIndex"
 description = """
-Qui dit rêves dit portraits, être, temps, été, crépuscule. Ainsi qu'une explosion de refrains.
+Qui dit rêves dit portraits, temps, être, été, crépuscule. Ainsi qu'une explosion de refrains.
 
 Juin et juillet 2025"""
 +++
