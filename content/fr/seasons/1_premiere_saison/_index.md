@@ -1,7 +1,9 @@
 +++
 title = "Première Saison : Premiers élans"
 description = """
-Mes premiers poèmes suivant strictement la versification néoclassique, apprise courant 1995, mais aussi des poèmes plus anciens et remaniés. Ce nouveau "moule" qu'est la versification exacerbe l'écriture pour laisser libre cours à mes sentiments adolescents : réflexions sur mon enfance, nombreux sujets de révolte, rêves d'amour platonique et passionné, rêveries dans des paysages marins ou campagnards.
+Mes premiers poèmes suivant strictement la versification néoclassique, apprise courant 1995, mais aussi des poèmes plus anciens et remaniés.
+
+Ce nouveau "moule" qu'est la versification exacerbe l'écriture pour laisser libre cours à mes sentiments adolescents : réflexions sur mon enfance, nombreux sujets de révolte, rêves d'amour platonique et passionné, rêveries dans des paysages marins ou campagnards.
 
 De 1994 à septembre 1996"""
 weight = 1

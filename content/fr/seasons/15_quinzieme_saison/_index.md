@@ -3,7 +3,9 @@ title = "Quinzième Saison : De place en place"
 weight = 15
 type = "seasonIndex"
 description = """
-De ruelle en avenue, de cabane en palace, de lieux rêvés aux lieux vécus, comme mon inspiration flâne à travers principalement l'être et la ville, un peu le temps. Les poèmes qui la composent sont à présent dans l'ordre chronologique.
+De ruelle en avenue, de cabane en palace, de lieux rêvés aux lieux vécus, comme mon inspiration flâne à travers principalement l'être et la ville, un peu le temps.
+
+Les poèmes qui la composent sont à présent dans l'ordre chronologique.
 
 D'avril à décembre 2001"""
 +++
