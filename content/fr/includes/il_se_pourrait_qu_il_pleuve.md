@@ -8,3 +8,4 @@ Les poèmes qui commencent par _Il se pourrait qu'il pleuve_ :
 - [à la vingt-sixième saison : Le ciel et le monde](../seasons/26_vingt_sixieme_saison/le_ciel_et_le_monde)
 - [encore à la vingt-sixième saison : Douleurs](../seasons/26_vingt_sixieme_saison/douleurs)
 - [à la vingt-huitième saison : Manque](../seasons/28_vingt_huitieme_saison/manque)
+- [à la trente-et-unième saison : Neige de février](../seasons/31_trente_et_unieme_saison/neige_de_fevrier)

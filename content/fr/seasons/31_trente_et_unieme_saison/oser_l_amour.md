@@ -7,10 +7,12 @@ verseLength: 6
 divider: ""
 categories:
     - Romantisme
+    - Temps
 tags:
     - "2026"
     - amour
     - hexasyllabe
+    - philosophie
 location: []
 info: ""
 description: ""
