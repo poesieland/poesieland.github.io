@@ -5,6 +5,8 @@ Plus lisible que la [page wikipedia](https://fr.wikipedia.org/wiki/Sonnet), [ce 
 
 Plutôt en alexandrins mais aussi souvent octosyllabes, hexasyllabes, ou autre... il n'y a pas de limite imposée.
 
+{{< chartjs id="sonnetVerseLengthPie" width="90%" jsFile="../../charts/taxonomy/sonnet-verse-length-pie.js" />}}
+
 Les catégories où on trouve le plus souvent des sonnets :
 
 {{% include "../../includes/sonnet_categories.md" hidefirstheading %}}

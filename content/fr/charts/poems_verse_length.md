@@ -1,24 +1,25 @@
 +++
 title = "Métrique"
 weight = 5
+date = 2026-02-25
 +++
 
 ## Courte ou longue
 
-[Octosyllabes](../tags/octosyllabe) et [hexasyllabes](../tags/hexasyllabe) se taillent la part du lion. Ensuite viennent les [alexandrins](../tags/alexandrin).
+[Octosyllabes](../tags/octosyllabe) et [hexasyllabes](../tags/hexasyllabe) se taillent la part du lion. Ensuite viennent les [alexandrins](../tags/alexandrin). Les [tétrasyllabes](../tags/tétrasyllabe/) et les [pentasyllabes](../tags/pentasyllabe/) suivent gaiement.
 
 {{< chartjs id="poemVerseLengthPie" width="60%" jsFile="../general/poems-verse-length-pie.js" />}}
 
 ### Très courte...
 Au départ c'était une expérimentation. Puis c'est devenu une possibilité.
 
-Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non. Et même... une.
+Deux syllabes mais aussi trois syllabes parce que pendant longtemps je me suis dit que deux syllabes c'était juste impossible. Mais non. Et même... une. Plus souvent en métrique variable que "pur".
 
-[Le monosyllabe...](../tags/monosyllabe)
+[Le monosyllabe](../tags/monosyllabe)
 
-[Mes dissyllabes](../tags/dissyllabe)
+[Les dissyllabes](../tags/dissyllabe)
 
-[Mes trisyllabes](../tags/trisyllabe)
+[Les trisyllabes](../tags/trisyllabe)
 
 ### Très longue...
 
