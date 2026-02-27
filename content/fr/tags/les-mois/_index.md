@@ -3,21 +3,6 @@ title = "Les mois"
 +++
 Douze mois... Chacun associé à des sentiments particuliers.
 
-## Janvier
-Un mois d'hiver où brille une [flamme](../../seasons/5_cinquieme_saison/l_orage_du_cour) – [satyre](../../seasons/16_seizieme_saison/mais_ou_vais_je) – [las](../../seasons/18_dix_huitieme_saison/hiver_pluvieux) – [triste et drôle](../../seasons/23_vingt_troisieme_saison/janvier) – [pâle et frileux](../../seasons/24_vingt_quatrieme_saison/voici_janvier) – [plaintif](../../seasons/24_vingt_quatrieme_saison/orgie) – qu'il faut laisser [gémir et passer](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver) - [frais, lumineux](../../seasons/31_trente_et_unieme_saison/redemarrage).
-
-## Février
-[désarroi](../../seasons/24_vingt_quatrieme_saison/passer_l_hiver) - [demain](../../seasons/31_trente_et_unieme_saison/fevrier) - [gras, qui rit](../../seasons/31_trente_et_unieme_saison/printemps_rieur) - [neige](../../seasons/31_trente_et_unieme_saison/neige_de_fevrier).
-
-## Mars
-[schizophrène](../../seasons/19_dix_neuvieme_saison/avril) – [ouvre une charnière](../../seasons/28_vingt_huitieme_saison/equinoxes).
-
-## Avril
-Le temps des [cerisiers](../../seasons/6_sixieme_saison/les_cerisiers_d_avril) – [des petites pousses](../../seasons/17_dix_septieme_saison/le_chant_des_vents) – du [muguet](../../seasons/20_vingtieme_saison/muguet_sous_la_pluie) – quelquefois [perturbé](../../seasons/19_dix_neuvieme_saison/sens_dessus_dessous)[^1] – qui [arrive](../../seasons/19_dix_neuvieme_saison/avril) – [beau](../../seasons/20_vingtieme_saison/muguet_sous_la_pluie) – qui [s'en va](../../seasons/26_vingt_sixieme_saison/avril_s_en_va).
-
-## Mai
-[songeur](../../seasons/1_premiere_saison/automne)[^2] – [fugitif](../../seasons/4_quatrieme_saison/anticipation) – [de renaissance](../../seasons/4_quatrieme_saison/toussaint) – [de rêve et d'amitié](../../seasons/6_sixieme_saison/en_mai) – [ neige (en rêve)](../../seasons/10_dixieme_saison/dans_un_reve) – [annonce notre fête](../../seasons/10_dixieme_saison/si_tu_pouvais) – [naissance](../../seasons/11_onzieme_saison/le_mai_nouveau) – [un jour plaisant](../../seasons/11_onzieme_saison/mai)[^3] – [l'âme fleurit](../../seasons/16_seizieme_saison/ame_de_mai) – [liberté matinale](../../seasons/17_dix_septieme_saison/aubade) – [jardins transfigurés](../../seasons/18_dix_huitieme_saison/promenade_mentale) – [beau](../../seasons/20_vingtieme_saison/muguet_sous_la_pluie) – [sacre roi](../../seasons/20_vingtieme_saison/mai) – [joli](../../seasons/25_vingt_cinquieme_saison/tous_les_printemps) – [qui séduit](../../seasons/26_vingt_sixieme_saison/avril_s_en_va) – [le mois le plus joli](../../seasons/26_vingt_sixieme_saison/voici_mai).
-
 ## Juin
 [brûlant voleur](../../seasons/2_deuxieme_saison/le_parc) – [trou de mémoire](../../seasons/4_quatrieme_saison/juin) – [un soir pas oublié](../../seasons/6_sixieme_saison/un_regard) – [jardins transfigurés](../../seasons/18_dix_huitieme_saison/promenade_mentale) – [souriant](../../seasons/22_vingt_deuxieme_saison/juin_juillet_octobre) – [rieur](../../seasons/26_vingt_sixieme_saison/juin) – [du jour le plus long](../../seasons/27_vingt_septieme_saison/21_juin).
 

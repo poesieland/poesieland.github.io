@@ -3,10 +3,11 @@ title = "Tous les printemps"
 id = "tous_les_printemps_25"
 date = 2025-04-01
 weight = 44
-categories = ["Printemps", "Jardin et paysage"]
-tags = ["saisons", "nature", "2025", "alexandrin", "les mois"]
+categories = [ "Printemps", "Jardin et paysage" ]
+tags = [ "saisons", "nature", "2025", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "J'élève mes soupirs au joli mois de mai"
 +++
 
 Un même ciel très pâle embrassé de printemps

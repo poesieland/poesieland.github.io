@@ -10,10 +10,15 @@ tags = [
   "philosophie",
   "refrain",
   "saisons",
-  "les mois"
+  "les mois",
+  "janvier"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Voici janvier pâle et frileux
+Voici janvier, ce chien galeux !
+Voici janvier, frileux et pâle !"""
 +++
 
 Voici janvier pâle et frileux,

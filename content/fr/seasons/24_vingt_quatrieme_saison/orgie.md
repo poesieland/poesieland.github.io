@@ -4,9 +4,10 @@ id = "orgie_24"
 date = 2025-01-03
 weight = 7
 categories = [ "Portraits" ]
-tags = [ "2025", "octosyllabe", "philosophie", "les mois" ]
+tags = [ "2025", "octosyllabe", "philosophie", "les mois", "janvier" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Voici janvier d'un coup plaintif"
 +++
 
 C'est pas demain qu'on s'ra moins gros,

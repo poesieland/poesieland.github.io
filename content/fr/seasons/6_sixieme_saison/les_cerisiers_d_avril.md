@@ -4,9 +4,17 @@ id = "les_cerisiers_d_avril_6"
 date = 1998-04-10
 weight = 34
 categories = [ "Flore", "Romantisme" ]
-tags = [ "1998", "amour", "nature", "octosyllabe", "les mois" ]
+tags = [
+  "1998",
+  "amour",
+  "nature",
+  "octosyllabe",
+  "les mois",
+  "avril"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Aux pleurs des cerisiers d'avril"
 +++
 
 Aux pleurs des cerisiers d'avril

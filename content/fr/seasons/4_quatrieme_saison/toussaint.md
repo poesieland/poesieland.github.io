@@ -3,10 +3,18 @@ title = "Toussaint"
 id = "toussaint_4"
 date = 1997-09-07
 weight = 10
-categories = ["Automne", "Temps"]
-tags = ["saisons", "philosophie", "1997", "hexasyllabe", "les mois"]
+categories = [ "Automne", "Temps" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "1997",
+  "hexasyllabe",
+  "les mois",
+  "mai"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Renaître un cœur de mai"
 +++
 
 Pour que cette Toussaint

@@ -3,10 +3,11 @@ title = "Mai"
 id = "mai_20"
 date = 2024-05-01
 weight = 6
-categories = ["Jardin et paysage"]
-tags = ["nature", "2024", "hexasyllabe", "les mois"]
+categories = [ "Jardin et paysage" ]
+tags = [ "nature", "2024", "hexasyllabe", "les mois", "mai" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le sacre de mai roi"
 +++
 
 Doux friselis sur l'herbe

@@ -3,10 +3,18 @@ title = "Aubade"
 id = "aubade_17"
 date = 2006-04-29
 weight = 35
-categories = ["Aube", "Sommeil"]
-tags = ["ombres et lumières", "attitudes", "2006", "hexasyllabe", "les mois"]
+categories = [ "Aube", "Sommeil" ]
+tags = [
+  "ombres et lumières",
+  "attitudes",
+  "2006",
+  "hexasyllabe",
+  "les mois",
+  "mai"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Mai jouera d'un cerceau"
 +++
 
 Sous mes paupières closes

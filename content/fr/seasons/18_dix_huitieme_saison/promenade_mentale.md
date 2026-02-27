@@ -3,13 +3,12 @@ title = "Promenade mentale"
 id = "promenade_mentale_18"
 date = 2023-11-12
 weight = 19
-categories = ["Temps", "Création"]
-tags = ["philosophie", "2023", "octosyllabe", "les mois"]
-info = """
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
-
+categories = [ "Temps", "Création" ]
+tags = [ "philosophie", "2023", "octosyllabe", "les mois", "mai" ]
+info = '{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Transfigurés des juins aux mais"
 +++
 
 Sur un air bleu, sur un air blanc

@@ -11,10 +11,12 @@ tags = [
   "philosophie",
   "saisons",
   "refrain",
-  "les mois"
+  "les mois",
+  "avril"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Cet avril fait fi de leur cas"
 +++
 
 Le ciel est tombé sur la tête :

@@ -3,10 +3,11 @@ title = "Avril"
 id = "avril_19"
 date = 2024-03-30
 weight = 31
-categories = ["Printemps"]
-tags = ["saisons", "2024", "alexandrin", "les mois"]
+categories = [ "Printemps" ]
+tags = [ "saisons", "2024", "alexandrin", "les mois", "mars", "avril" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Rêveur au songe doux, voici venir l'avril"
 +++
 
 Rêveur au songe doux, voici venir l'avril

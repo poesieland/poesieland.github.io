@@ -4,9 +4,18 @@ id = "avril_s_en_va_26"
 date = 2025-04-21
 weight = 7
 categories = [ "Printemps", "Temps" ]
-tags = [ "2025", "octosyllabe", "philosophie", "saisons", "les mois" ]
+tags = [
+  "2025",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "les mois",
+  "avril",
+  "mai"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Avril s'en va puis mai séduit"
 +++
 
 C'est bientôt mon anniversaire,

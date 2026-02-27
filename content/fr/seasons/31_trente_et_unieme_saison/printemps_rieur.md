@@ -12,6 +12,7 @@ tags:
     - octosyllabe
     - saisons
     - les mois
+    - février
 location: []
 info: ""
 description: Février gras, qui rit tout sot
