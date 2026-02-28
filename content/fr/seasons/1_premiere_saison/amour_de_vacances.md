@@ -3,10 +3,11 @@ title = "Amour de vacances"
 id = "amour_de_vacances_1"
 date = 1996-08-21
 weight = 6
-categories = ["Passion"]
-tags = ["amour", "1996", "alexandrin"]
+categories = [ "Passion" ]
+tags = [ "amour", "1996", "alexandrin", "les mois", "août" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Au creux de la fin d'août, en mon cœur baladin"
 +++
 
 Et l'amour et l'amante, un instant confondus

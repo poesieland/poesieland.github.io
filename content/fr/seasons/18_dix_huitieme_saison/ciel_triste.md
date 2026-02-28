@@ -3,10 +3,21 @@ title = "Ciel triste"
 id = "ciel_triste_18"
 date = 2023-11-16
 weight = 22
-categories = ["Ciel", "Eau douce", "Climat", "Angoisse"]
-tags = ["nature", "2023", "trisyllabe", "philosophie", "les mois"]
+categories = [ "Ciel", "Eau douce", "Climat", "Angoisse" ]
+tags = [
+  "nature",
+  "2023",
+  "trisyllabe",
+  "philosophie",
+  "les mois",
+  "novembre"
+]
 verseLength = 3
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+C'est un jour
+De novembre
+Sans ajour"""
 +++
 
 Il fait nuit

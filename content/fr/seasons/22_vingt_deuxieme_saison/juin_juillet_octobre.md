@@ -3,10 +3,25 @@ title = "Juin, juillet, octobre"
 id = "juin_juillet_octobre_22"
 date = 2024-09-30
 weight = 19
-categories = ["Automne", "Eté", "Temps"]
-tags = ["saisons", "philosophie", "2024", "alexandrin", "les mois"]
+categories = [ "Automne", "Eté", "Temps" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2024",
+  "alexandrin",
+  "les mois",
+  "juin",
+  "juillet",
+  "octobre"
+]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Souvenir de l'été quand se pointe l'octobre,
+Tout souriant c'est juin, insouciant juillet
+Juin épanouissait au jardin toute affaire
+Puis juillet bleu oisif reposait l'étudiant
+Mille feuilles ! Octobre à l'automne obédient"""
 +++
 
 Souvenir de l'été quand se pointe l'octobre,

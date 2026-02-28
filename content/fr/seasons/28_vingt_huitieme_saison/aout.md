@@ -13,6 +13,7 @@ tags:
     - les mois
     - saisons
     - refrain
+    - août
 location: []
 info: ""
 pictures: []
@@ -20,6 +21,13 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Le mois d'août centrifuge
+    Le mois d'août est spectacles
+    Le mois d'août a donné
+    Le mois d'août forcit tige
+    Le mois d'août brûle, intense
+    Du mois d'août en partance
 ---
 Le mois d'août centrifuge
 

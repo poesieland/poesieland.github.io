@@ -3,12 +3,22 @@ title = "Farfalle d'ottobre"
 id = "farfalle_d_ottobre_9"
 date = 1998-10-18
 weight = 4
-categories = ["Automne", "Faune", "Angoisse"]
-tags = ["saisons", "nature", "philosophie", "1998", "acrostiche", "alexandrin", "les mois"]
+categories = [ "Automne", "Faune", "Angoisse" ]
+tags = [
+  "saisons",
+  "nature",
+  "philosophie",
+  "1998",
+  "acrostiche",
+  "alexandrin",
+  "les mois",
+  "octobre"
+]
 info = "\"Papillons d'octobre\" en italien."
 acrostiche = "Farfalle d'ottobre"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Frémissants, trop légers, les papillons d'octobre"
 +++
 
 Frémissants, trop légers, les papillons d'octobre

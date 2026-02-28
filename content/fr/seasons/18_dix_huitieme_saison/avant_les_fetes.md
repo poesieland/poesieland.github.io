@@ -3,10 +3,18 @@ title = "Avant les fêtes"
 id = "avant_les_fetes_18"
 date = 2023-11-23
 weight = 27
-categories = ["Hiver"]
-tags = ["saisons", "2023", "hexasyllabe", "noël", "les mois"]
+categories = [ "Hiver" ]
+tags = [
+  "saisons",
+  "2023",
+  "hexasyllabe",
+  "noël",
+  "les mois",
+  "décembre"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Décembre aux sarabandes"
 +++
 
 Ces jours avant les fêtes...

@@ -12,6 +12,8 @@ tags:
     - les mois
     - saisons
     - alexandrin
+    - novembre
+    - décembre
 location: []
 info: Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a un clin d'oeil à l'avant-dernier vers au mini-thème [saison incertaine](../../tags/saison-incertaine).
 pictures: []
@@ -19,7 +21,10 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Est-ce un automne au coeur qui chante et se révèle ?"
+description: |-
+    Est-ce un automne au coeur qui chante et se révèle ?
+    En attendant décembre et puis un peu de neige
+    Novembre, mois ombreux où la bascule échoit
 ---
 En attendant décembre et puis un peu de neige
 

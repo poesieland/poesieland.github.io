@@ -3,11 +3,20 @@ title = "Pantoun d'octobre"
 id = "pantoun_d_octobre_18"
 date = 2023-10-07
 weight = 1
-categories = ["Automne", "Angoisse"]
-tags = ["saisons", "philosophie", "2023", "pantoun", "octosyllabe", "les mois"]
+categories = [ "Automne", "Angoisse" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2023",
+  "pantoun",
+  "octosyllabe",
+  "les mois",
+  "octobre"
+]
 poemType = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Octobre passe, magnifique"
 +++
 
 L'ombre est longue et mélancolique,

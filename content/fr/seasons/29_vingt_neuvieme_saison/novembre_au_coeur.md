@@ -14,6 +14,7 @@ tags:
     - hexasyllabe
     - saisons
     - les mois
+    - novembre
 location: []
 info: En pensant à la rose à la boutonnière de [ce poème de la vingt-deuxième saison](../22_vingt_deuxieme_saison/parfum_d_octobre).
 pictures: []
@@ -21,6 +22,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Novembre au coeur torpille
 ---
 Tout doucement dernière
 

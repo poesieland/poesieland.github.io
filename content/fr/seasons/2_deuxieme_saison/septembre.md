@@ -4,9 +4,19 @@ id = "septembre_2"
 date = 1996-09-04
 weight = 14
 categories = [ "Automne" ]
-tags = [ "1996", "alexandrin", "saisons", "les mois" ]
+tags = [
+  "1996",
+  "alexandrin",
+  "saisons",
+  "les mois",
+  "août",
+  "septembre"
+]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Septembre qui s'amène emporte mon image
+Du soleil du mois d'août qui les carbonisa"""
 +++
 
 Septembre qui s'amène emporte mon image,

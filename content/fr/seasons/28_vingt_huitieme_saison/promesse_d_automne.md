@@ -15,6 +15,7 @@ tags:
     - philosophie
     - saisons
     - rentrée scolaire
+    - septembre
 location: []
 info: ""
 pictures: []
@@ -22,6 +23,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Voici septembre et ses alliés
+    Septembre concrétise rêves
 ---
 Voici le mois des écoliers,
 

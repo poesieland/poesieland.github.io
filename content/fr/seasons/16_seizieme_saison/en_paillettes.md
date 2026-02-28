@@ -3,11 +3,19 @@ title = "En paillettes"
 id = "en_paillettes_16"
 date = 2002-11-03
 weight = 6
-categories = ["Passion"]
-tags = ["amour", "2002", "acrostiche", "alexandrin", "les mois"]
+categories = [ "Passion" ]
+tags = [
+  "amour",
+  "2002",
+  "acrostiche",
+  "alexandrin",
+  "les mois",
+  "novembre"
+]
 acrostiche = "En paillettes"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Et le vent de novembre effacera, rempart"
 +++
 
 En paillettes de verre, éclats de carrelage

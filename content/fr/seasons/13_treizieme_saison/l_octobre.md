@@ -3,11 +3,20 @@ title = "L'octobre"
 id = "l_octobre_13"
 date = 1999-10-05
 weight = 40
-categories = ["Automne", "Espoir"]
-tags = ["saisons", "philosophie", "1999", "acrostiche", "alexandrin", "les mois"]
+categories = [ "Automne", "Espoir" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "les mois",
+  "octobre"
+]
 acrostiche = "L'octobre"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "L'octobre"
 +++
 
 L'automne ourle sa lèvre en d'infinis baisers,

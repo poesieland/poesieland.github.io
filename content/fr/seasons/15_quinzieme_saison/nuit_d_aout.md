@@ -9,10 +9,12 @@ tags = [
   "octosyllabe",
   "ombres et lumières",
   "saisons",
-  "les mois"
+  "les mois",
+  "août"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Nuit d'août"
 +++
 
 La nuit n'a pas chassé l'odeur

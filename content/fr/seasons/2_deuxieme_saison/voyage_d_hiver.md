@@ -3,11 +3,12 @@ title = "Voyage d'hiver"
 id = "voyage_d_hiver_2"
 date = 1996-12-06
 weight = 23
-categories = ["Hiver"]
-tags = ["saisons", "1996", "hexasyllabe", "les mois"]
+categories = [ "Hiver" ]
+tags = [ "saisons", "1996", "hexasyllabe", "les mois", "décembre" ]
 verseLength = 6
-locations = ["Où je n'ai pas été"]
+locations = [ "Où je n'ai pas été" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Décembre ouvre sa porte"
 +++
 
 Le souvenir s'enfuit

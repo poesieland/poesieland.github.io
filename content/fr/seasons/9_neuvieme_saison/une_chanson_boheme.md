@@ -3,11 +3,20 @@ title = "Une chanson bohème"
 id = "une_chanson_boheme_9"
 date = 1998-09-30
 weight = 20
-categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche", "hexasyllabe", "les mois"]
+categories = [ "Etre" ]
+tags = [
+  "philosophie",
+  "1998",
+  "acrostiche",
+  "hexasyllabe",
+  "les mois",
+  "septembre",
+  "octobre"
+]
 acrostiche = "Une chanson bohème"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Septembre, octobre sages"
 +++
 
 Une idée en mon cœur

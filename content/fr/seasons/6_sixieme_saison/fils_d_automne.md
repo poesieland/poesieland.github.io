@@ -3,11 +3,19 @@ title = "Fils d'automne"
 id = "fils_d_automne_6"
 date = 1998-03-24
 weight = 27
-categories = ["Portraits"]
-tags = ["philosophie", "1998", "acrostiche", "octosyllabe", "les mois"]
+categories = [ "Portraits" ]
+tags = [
+  "philosophie",
+  "1998",
+  "acrostiche",
+  "octosyllabe",
+  "les mois",
+  "septembre"
+]
 acrostiche = "Fils d'automne"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel pleurait la fin septembre"
 +++
 
 Fils d'automne ton cœur naquit

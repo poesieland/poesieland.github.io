@@ -3,14 +3,25 @@ title = "L'ombre de novembre"
 id = "l_ombre_de_novembre_14"
 date = 2000-11-11
 weight = 6
-categories = ["Temps", "Automne"]
-tags = ["philosophie", "saisons", "2000", "doubleAcrostiche", "octosyllabe", "les mois"]
+categories = [ "Temps", "Automne" ]
+tags = [
+  "philosophie",
+  "saisons",
+  "2000",
+  "doubleAcrostiche",
+  "octosyllabe",
+  "les mois",
+  "novembre"
+]
 doubleAcrostiche = "L'ombre de | novembre"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Novembre a mangé les couleurs
+Et novembre en ombres mêlables"""
 +++
 
-Le ciel rosit le soir si pâle:
+Le ciel rosit le soir si pâle :
 
 Novembre a mangé les couleurs
 
@@ -21,7 +32,7 @@ Où l'opéra s'achève en pleurs.
  \
 Me revoici marchant sans cesse
 
-Victoire du temps sur l'ennui;
+Victoire du temps sur l'ennui ;
 
 Belle, la feuille me caresse
 
@@ -32,7 +43,7 @@ Rêveuse je n'ai plus de rêve
 
 Murmures ancrés de douceur,
 
-Eternelle, ma vie est brève;
+Eternelle, ma vie est brève ;
 
 Béni l'automne comme sœur.
 
@@ -41,7 +52,7 @@ Dispersés, les éclats semblables
 
 Reforment un cœur inconnu;
 
-Et novembre en ombre mêlables
+Et novembre en ombres mêlables
 
 Esquisse à son écheveau nu.
 

@@ -14,6 +14,7 @@ tags:
     - pentasyllabe
     - philosophie
     - saisons
+    - octobre
 location: []
 info: ""
 pictures: []
@@ -21,6 +22,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Octobre est précieux
+    Si l'octobre danse
 ---
 Un dernier trimestre
 

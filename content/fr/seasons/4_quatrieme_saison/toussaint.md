@@ -10,11 +10,14 @@ tags = [
   "1997",
   "hexasyllabe",
   "les mois",
-  "mai"
+  "mai",
+  "novembre"
 ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "Renaître un cœur de mai"
+description = """
+Renaître un cœur de mai
+S'envole au beau novembre"""
 +++
 
 Pour que cette Toussaint

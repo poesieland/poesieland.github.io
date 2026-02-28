@@ -14,6 +14,8 @@ tags:
     - philosophie
     - saisons
     - les mois
+    - octobre
+    - novembre
 location: []
 info: ""
 pictures: []
@@ -21,6 +23,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Scelle lèvres d'octobre
+    Novembre sans remords
 ---
 Demain tout pourrira
 

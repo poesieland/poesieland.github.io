@@ -3,11 +3,20 @@ title = "Ce jour-là"
 id = "ce_jour_la_7"
 date = 1998-07-17
 weight = 7
-categories = ["Création", "Amitié"]
-tags = ["philosophie", "amour", "1998", "acrostiche", "alexandrin", "les mois"]
+categories = [ "Création", "Amitié" ]
+tags = [
+  "philosophie",
+  "amour",
+  "1998",
+  "acrostiche",
+  "alexandrin",
+  "les mois",
+  "septembre"
+]
 acrostiche = "Ce jour-là tu disais"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Un été qui s'envole endormira septembre"
 +++
 
 Ce jour-là tu disais : un autre temps viendra

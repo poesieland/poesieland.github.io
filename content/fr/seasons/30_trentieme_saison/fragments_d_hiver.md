@@ -13,6 +13,7 @@ tags:
     - refrain
     - saisons
     - hexasyllabe
+    - décembre
 location: []
 info: ""
 pictures: []
@@ -20,6 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Pour célébrer décembre
 ---
 L'hiver en demi-deuil
 

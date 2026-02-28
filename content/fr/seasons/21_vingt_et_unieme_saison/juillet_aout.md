@@ -4,9 +4,21 @@ id = "juillet_aout_21"
 date = 2024-06-27
 weight = 2
 categories = [ "Eté", "Enfance et adolescence" ]
-tags = [ "2024", "alexandrin", "philosophie", "saisons", "les mois" ]
+tags = [
+  "2024",
+  "alexandrin",
+  "philosophie",
+  "saisons",
+  "les mois",
+  "juillet",
+  "août"
+]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Aux portes de juillet, c'est le mois des langueurs
+C'est le mois le plus pur avant qu'août le sauvage
+juillet tout neuf a comme un air fragile"""
 +++
 
 Aux portes de juillet, c'est le mois des langueurs,

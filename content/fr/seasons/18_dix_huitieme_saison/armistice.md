@@ -3,10 +3,11 @@ title = "Armistice"
 id = "armistice_18"
 date = 2023-11-11
 weight = 18
-categories = ["Portraits"]
-tags = ["philosophie", "2023", "hexasyllabe", "les mois"]
+categories = [ "Portraits" ]
+tags = [ "philosophie", "2023", "hexasyllabe", "les mois", "novembre" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "De novembre la trève"
 +++
 
 Un clairon solennel

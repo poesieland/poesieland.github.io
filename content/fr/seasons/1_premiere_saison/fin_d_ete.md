@@ -3,10 +3,21 @@ title = "Fin d'été"
 id = "fin_d_ete_1"
 date = 1996-08-18
 weight = 37
-categories = ["Automne", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "1996", "alexandrin", "les mois"]
+categories = [ "Automne", "Enfance et adolescence" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "1996",
+  "alexandrin",
+  "les mois",
+  "septembre",
+  "décembre"
+]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Ces souvenirs d'enfant, septembre, un univers
+En attendant décembre et puis un peu de neige"""
 +++
 
 L'été, sa triste fin, me dit toujours mon cœur,

@@ -3,12 +3,21 @@ title = "Automne généreux"
 id = "automne_genereux_18"
 date = 2023-11-03
 weight = 15
-categories = ["Automne"]
-tags = ["saisons", "2023", "métrique variable", "hexasyllabe", "trisyllabe", "les mois"]
+categories = [ "Automne" ]
+tags = [
+  "saisons",
+  "2023",
+  "métrique variable",
+  "hexasyllabe",
+  "trisyllabe",
+  "les mois",
+  "novembre"
+]
 info = "Métrique variable : 6, 3"
-pictures = ["Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023"]
+pictures = [ "Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023" ]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Novembre à pas compté"
 +++
 
 Respire à pleins poumons !
@@ -17,7 +26,7 @@ Invective
 
 Olfactive
 
-D'automne que blamons
+D'automne que blâmons
 
  \
 De connaître tempête.

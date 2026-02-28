@@ -3,11 +3,20 @@ title = "Jardin, dits vers"
 id = "jardin_dits_vers_14"
 date = 2000-12-28
 weight = 22
-categories = ["Hiver", "Temps"]
-tags = ["saisons", "philosophie", "2000", "acrostiche", "décasyllabe", "les mois"]
+categories = [ "Hiver", "Temps" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2000",
+  "acrostiche",
+  "décasyllabe",
+  "les mois",
+  "décembre"
+]
 acrostiche = "Jardin, dits vers"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Décembre est pâle, en ayant trop mangé"
 +++
 
 Jetées sur les chemins sans ombre, ternes,

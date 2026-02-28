@@ -3,13 +3,22 @@ title = "Dans le jardin"
 id = "dans_le_jardin_13"
 date = 1999-10-17
 weight = 27
-categories = ["Jardin et paysage", "Automne"]
-tags = ["nature", "saisons", "1999", "acrostiche", "octosyllabe", "les mois"]
+categories = [ "Jardin et paysage", "Automne" ]
+tags = [
+  "nature",
+  "saisons",
+  "1999",
+  "acrostiche",
+  "octosyllabe",
+  "les mois",
+  "octobre"
+]
 info = "Le parc Kellerman, à Paris."
 acrostiche = "Dans le jardin"
 verseLength = 8
-locations = ["Paris"]
+locations = [ "Paris" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Nu d'une rose, octobre, en verre"
 +++
 
 Dans le vieux jardin déserté

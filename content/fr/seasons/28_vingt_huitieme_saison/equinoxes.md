@@ -13,6 +13,7 @@ tags:
     - saisons
     - les mois
     - mars
+    - septembre
 location: []
 info: Reprise d'une partie du premier vers d'un [poème de la deuxième saison](../2_deuxieme_saison/septembre).
 pictures: []
@@ -20,6 +21,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Septembre est comme mars, il ouvre une charnière
+    Septembre qui s'amène emporte faux-semblants
 ---
 Septembre est comme mars, il ouvre une charnière
 
