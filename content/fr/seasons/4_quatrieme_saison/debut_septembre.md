@@ -3,10 +3,11 @@ title = "Début septembre"
 id = "debut_septembre_4"
 date = 1997-09-07
 weight = 5
-categories = ["Automne"]
-tags = ["saisons", "1997", "hexasyllabe", "les mois"]
+categories = [ "Automne" ]
+tags = [ "saisons", "1997", "hexasyllabe", "les mois", "septembre" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "S'abandonne à septembre"
 +++
 
 La fin d'été se cambre :

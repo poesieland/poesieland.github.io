@@ -3,11 +3,20 @@ title = "Le mai nouveau"
 id = "le_mai_nouveau_11"
 date = 1999-04-30
 weight = 44
-categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "1999", "acrostiche", "tétrasyllabe", "les mois"]
+categories = [ "Flore", "Printemps" ]
+tags = [
+  "nature",
+  "saisons",
+  "1999",
+  "acrostiche",
+  "tétrasyllabe",
+  "les mois",
+  "mai"
+]
 acrostiche = "Le mai nouveau"
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le mai nouveau"
 +++
 
 Le vent s'évade

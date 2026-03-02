@@ -3,10 +3,14 @@ title = "En mai"
 id = "en_mai_6"
 date = 1998-05-01
 weight = 35
-categories = ["Espoir"]
-tags = ["philosophie", "1998", "alexandrin", "les mois"]
+categories = [ "Espoir" ]
+tags = [ "philosophie", "1998", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+En mai dis-moi toujours le rêve et l'amitié
+Dis-moi les fleurs de mai, leur parfum d'espérance
+"""
 +++
 
 En mai dis-moi toujours le rêve et l'amitié,

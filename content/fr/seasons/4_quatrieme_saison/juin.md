@@ -3,10 +3,13 @@ title = "Juin"
 id = "juin_4"
 date = 1997-05-30
 weight = 3
-categories = ["Eté"]
-tags = ["saisons", "1997", "tétrasyllabe", "les mois"]
+categories = [ "Eté" ]
+tags = [ "saisons", "1997", "tétrasyllabe", "les mois", "juin" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Trou de mémoire
+Ce mois de juin"""
 +++
 
 Le cœur s'emballe,

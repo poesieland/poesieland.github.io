@@ -3,11 +3,12 @@ title = "L'automne clown"
 id = "l_automne_clown_21"
 date = 2024-08-18
 weight = 36
-categories = ["Automne"]
-tags = ["saisons", "2024", "acrostiche", "octosyllabe"]
+categories = [ "Automne" ]
+tags = [ "saisons", "2024", "acrostiche", "octosyllabe", "les mois", "août" ]
 acrostiche = "On reparle : automne"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Et le creux d'août, troublé, sans tain"
 +++
 
 On reparle de lui bientôt,

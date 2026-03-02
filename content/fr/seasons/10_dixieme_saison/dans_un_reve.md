@@ -3,11 +3,19 @@ title = "Dans un rêve"
 id = "dans_un_reve_10"
 date = 1999-01-29
 weight = 11
-categories = ["Neige", "Mer"]
-tags = ["nature", "1999", "acrostiche", "alexandrin", "les mois"]
+categories = [ "Neige", "Mer" ]
+tags = [
+  "nature",
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "les mois",
+  "mai"
+]
 acrostiche = "Dans un rêve"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Dans un verger tremblant sous la neige de mai"
 +++
 
 Dans un verger tremblant sous la neige de mai,

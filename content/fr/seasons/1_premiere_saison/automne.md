@@ -3,10 +3,11 @@ title = "Automne"
 id = "automne_1"
 date = 1996-05-11
 weight = 38
-categories = ["Automne"]
-tags = ["saisons", "1996", "alexandrin", "les mois"]
+categories = [ "Automne" ]
+tags = [ "saisons", "1996", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "O pourquoi donc en mai songé-je au sombre automne"
 +++
 
 O pourquoi donc en mai songé-je au sombre automne,

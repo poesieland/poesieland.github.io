@@ -3,10 +3,13 @@ title = "Muguet sous la pluie"
 id = "muguet_sous_la_pluie_20"
 date = 2024-04-29
 weight = 5
-categories = ["Flore"]
-tags = ["nature", "2024", "hexasyllabe", "les mois"]
+categories = [ "Flore" ]
+tags = [ "nature", "2024", "hexasyllabe", "les mois", "avril", "mai" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Les avrils et les mais
+Beaux comme jeunes pâtres"""
 +++
 
 Il pleut sur mon muguet,

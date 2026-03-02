@@ -3,11 +3,19 @@ title = "La maison de famille"
 id = "la_maison_de_famille_18"
 date = 2023-10-24
 weight = 7
-categories = ["Portraits", "Enfance et adolescence"]
-tags = ["philosophie", "famille", "2023", "octosyllabe"]
+categories = [ "Portraits", "Enfance et adolescence" ]
+tags = [
+  "philosophie",
+  "famille",
+  "2023",
+  "octosyllabe",
+  "les mois",
+  "juillet"
+]
 verseLength = 8
-locations = ["Reims"]
+locations = [ "Reims" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Que ce fût juillet l'implacable"
 +++
 
 Reims ! Ici Reims ! disait le train.

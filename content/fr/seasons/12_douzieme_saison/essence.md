@@ -5,11 +5,13 @@ date = 1999-07-09
 weight = 34
 categories = [ "Etre", "Musique et chant" ]
 tags = [
-  "philosophie",
-  "attitudes",
   "1999",
+  "alexandrin",
+  "attitudes",
   "doubleAcrostiche",
-  "alexandrin"
+  "octosyllabe",
+  "philosophie",
+  "métrique variable"
 ]
 doubleAcrostiche = "A la place | un double"
 verseLength = -1

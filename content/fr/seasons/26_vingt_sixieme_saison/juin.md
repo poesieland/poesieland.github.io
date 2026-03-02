@@ -13,6 +13,7 @@ tags:
     - alexandrin
     - saisons
     - les mois
+    - juin
 location: []
 info: ""
 pictures: []
@@ -20,6 +21,7 @@ poemType: ""
 acrostiche: Juin
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Juin
 ---
 Joignant les chants aux fruits, rieur, prince héritier
 

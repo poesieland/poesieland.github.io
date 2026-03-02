@@ -3,10 +3,11 @@ title = "Décembre"
 id = "decembre_18"
 date = 2023-12-01
 weight = 30
-categories = ["Hiver"]
-tags = ["saisons", "2023", "octosyllabe", "les mois"]
+categories = [ "Hiver" ]
+tags = [ "saisons", "2023", "octosyllabe", "les mois", "décembre" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Voici décembre chatoyant"
 +++
 
 Enfin le dernier décompte,

@@ -4,9 +4,21 @@ id = "passer_l_hiver_24"
 date = 2025-01-04
 weight = 8
 categories = [ "Angoisse", "Hiver" ]
-tags = [ "2025", "hexasyllabe", "philosophie", "saisons", "les mois" ]
+tags = [
+  "2025",
+  "hexasyllabe",
+  "philosophie",
+  "saisons",
+  "les mois",
+  "janvier",
+  "février"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+Laisse janvier gémir
+Laisse janvier passer
+Février, désarroi"""
 +++
 
 Laisse janvier gémir

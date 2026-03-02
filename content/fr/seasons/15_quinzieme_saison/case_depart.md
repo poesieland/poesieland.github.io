@@ -3,11 +3,21 @@ title = "Case départ"
 id = "case_depart_15"
 date = 2001-10-11
 weight = 43
-categories = ["Automne", "Angoisse"]
-tags = ["saisons", "philosophie", "2001", "acrostiche", "octosyllabe", "les mois"]
+categories = [ "Automne", "Angoisse" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2001",
+  "acrostiche",
+  "octosyllabe",
+  "les mois",
+  "octobre",
+  "novembre"
+]
 acrostiche = "Case départ"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Comme l'octobre lit novembre"
 +++
 
 Comme l'octobre lit novembre,

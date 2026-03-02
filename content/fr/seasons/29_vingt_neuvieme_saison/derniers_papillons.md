@@ -14,6 +14,8 @@ tags:
     - octosyllabe
     - saisons
     - les mois
+    - septembre
+    - octobre
 location: []
 info: ""
 pictures: []
@@ -21,6 +23,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Septembre, octobre vont, fluctuent
 ---
 Tourbillonnez, papillons blancs
 

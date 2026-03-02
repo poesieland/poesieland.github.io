@@ -12,6 +12,8 @@ tags:
     - hexasyllabe
     - saisons
     - les mois
+    - octobre
+    - novembre
 location: []
 info: ""
 pictures: []
@@ -19,6 +21,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Octobre est un manant
+    Et puis voici novembre
 ---
 La tempête en point d'orgue
 

@@ -3,12 +3,20 @@ title = "Le chant des vents"
 id = "le_chant_des_vents_17"
 date = 2005-04-11
 weight = 20
-categories = ["Flore", "Temps"]
-tags = ["nature", "philosophie", "2005", "décasyllabe", "les mois"]
-pictures = ["Photo du 29.08.2004"]
+categories = [ "Flore", "Temps" ]
+tags = [
+  "nature",
+  "philosophie",
+  "2005",
+  "décasyllabe",
+  "les mois",
+  "avril"
+]
+pictures = [ "Photo du 29.08.2004" ]
 verseLength = 10
-locations = ["Reims"]
+locations = [ "Reims" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Petite pousse, au mois d'avril à l'heure"
 +++
 
 Dans mon jardin, treize ans plus tôt déjà

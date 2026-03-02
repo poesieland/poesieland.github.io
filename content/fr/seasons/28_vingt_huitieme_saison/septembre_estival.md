@@ -13,6 +13,7 @@ tags:
     - saisons
     - trisyllabe
     - les mois
+    - septembre
 location: []
 info: '{{% include "../../includes/estival" hidefirstheading %}}'
 pictures: []
@@ -20,6 +21,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Vois lueur
+    De septembre
 ---
 Estival
 

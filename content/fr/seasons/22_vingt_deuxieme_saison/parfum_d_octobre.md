@@ -3,13 +3,14 @@ title = "Parfum d'octobre"
 id = "parfum_d_octobre_22"
 date = 2024-10-27
 weight = 35
-categories = ["Automne"]
-tags = ["saisons", "2024", "octosyllabe", "les mois"]
+categories = [ "Automne" ]
+tags = [ "saisons", "2024", "octosyllabe", "les mois", "octobre" ]
 info = """
-Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)
+Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)\r
 """
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "C'est octobre qui prend la pose"
 +++
 
 Funèbre parfum d'une rose

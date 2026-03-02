@@ -3,10 +3,18 @@ title = "Oiseaux de juillet"
 id = "oiseaux_de_juillet_16"
 date = 2004-07-16
 weight = 41
-categories = ["Faune", "Eté"]
-tags = ["nature", "saisons", "2004", "octosyllabe"]
+categories = [ "Faune", "Eté" ]
+tags = [
+  "nature",
+  "saisons",
+  "2004",
+  "octosyllabe",
+  "les mois",
+  "juillet"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Oiseaux de juillet"
 +++
 
 J'avais oublié les oiseaux

@@ -11,11 +11,13 @@ tags = [
   "philosophie",
   "refrain",
   "saisons",
-  "les mois"
+  "les mois",
+  "janvier"
 ]
 info = "En cette longue période hivernale douce et pluvieuse dont on voit enfin arriver le terme, une pensée de circonstance 🙂"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Janvier est las d'attendre"
 +++
 
 Là-bas vois-tu le vent

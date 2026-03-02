@@ -3,11 +3,20 @@ title = "Mai"
 id = "mai_11"
 date = 1999-05-01
 weight = 45
-categories = ["Flore", "Printemps"]
-tags = ["nature", "saisons", "1999", "acrostiche", "octosyllabe", "les mois"]
+categories = [ "Flore", "Printemps" ]
+tags = [
+  "nature",
+  "saisons",
+  "1999",
+  "acrostiche",
+  "octosyllabe",
+  "les mois",
+  "mai"
+]
 acrostiche = "Un an de plus"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Un an de plus"
 +++
 
 Une fleur cueillie au jardin

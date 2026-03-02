@@ -16,6 +16,7 @@ tags:
     - refrain
     - saisons
     - les mois
+    - juin
 location: []
 info: ""
 pictures: []
@@ -23,6 +24,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Si ce jour
 ---
 Si ce jour se termine
 

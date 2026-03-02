@@ -3,10 +3,18 @@ title = "Novembre dompté"
 id = "novembre_dompte_2"
 date = 1996-11-03
 weight = 22
-categories = ["Automne", "Espoir"]
-tags = ["saisons", "philosophie", "1996", "alexandrin", "les mois"]
+categories = [ "Automne", "Espoir" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "1996",
+  "alexandrin",
+  "les mois",
+  "novembre"
+]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Dans l'oublieux novembre en dernier qui flamboie"
 +++
 
 L'automne et ses couleurs comme un charme d'adieu :

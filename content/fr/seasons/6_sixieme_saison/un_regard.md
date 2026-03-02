@@ -3,11 +3,19 @@ title = "Un regard"
 id = "un_regard_6"
 date = 1998-04-26
 weight = 28
-categories = ["Amitié"]
-tags = ["amour", "1998", "acrostiche", "décasyllabe", "les mois"]
+categories = [ "Amitié" ]
+tags = [
+  "amour",
+  "1998",
+  "acrostiche",
+  "décasyllabe",
+  "les mois",
+  "juin"
+]
 acrostiche = "Un regard"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Un soir de juin, je n'ai pas oublié"
 +++
 
 Un soir de juin, je n'ai pas oublié :

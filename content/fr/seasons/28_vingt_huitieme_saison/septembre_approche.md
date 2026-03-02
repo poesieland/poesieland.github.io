@@ -13,6 +13,7 @@ tags:
     - octosyllabe
     - saisons
     - rentrée scolaire
+    - septembre
 location: []
 info: ""
 pictures: []
@@ -20,6 +21,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: |-
+    Septembre approche et son éclat
+    Septembre est gai, tout chamarré
 ---
 Septembre approche et son éclat
 

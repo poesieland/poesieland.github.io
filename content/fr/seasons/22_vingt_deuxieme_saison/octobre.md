@@ -3,10 +3,21 @@ title = "Octobre servile"
 id = "octobre_22"
 date = 2024-10-17
 weight = 27
-categories = ["Automne", "Angoisse"]
-tags = ["saisons", "philosophie", "2024", "hexasyllabe", "les mois"]
+categories = [ "Automne", "Angoisse" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2024",
+  "hexasyllabe",
+  "les mois",
+  "octobre",
+  "novembre"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = """
+A l'octobre servile
+Halloween puis novembre"""
 +++
 
 Comme on entre au couvent

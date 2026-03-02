@@ -3,10 +3,19 @@ title = "Entre deux"
 id = "entre_deux_22"
 date = 2024-11-03
 weight = 38
-categories = ["Automne", "Hiver", "Enfance et adolescence"]
-tags = ["saisons", "philosophie", "2024", "hexasyllabe", "noël", "les mois"]
+categories = [ "Automne", "Hiver", "Enfance et adolescence" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2024",
+  "hexasyllabe",
+  "noël",
+  "les mois",
+  "novembre"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Si novembre est douceâtre"
 +++
 
 Sourire monotone

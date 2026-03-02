@@ -14,6 +14,7 @@ tags:
     - nature
     - saisons
     - les mois
+    - mai
 location: []
 info: ""
 pictures: []
@@ -21,6 +22,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Voici le plus beau mois, voici mai dans sa bulle
 ---
 Le mois le plus joli berce de ses ramures
 
