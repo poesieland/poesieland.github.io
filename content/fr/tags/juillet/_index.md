@@ -6,3 +6,4 @@ title = "Juillet"
       breadcrumb = true
       description = true
 +++
+{{< figure src="../../other-perspectives/les-mois/juillet/featured.png" >}}

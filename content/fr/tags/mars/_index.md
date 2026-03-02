@@ -6,3 +6,4 @@ title = "Mars"
       breadcrumb = true
       description = true
 +++
+{{< figure src="../../other-perspectives/les-mois/mars/featured.png" >}}
