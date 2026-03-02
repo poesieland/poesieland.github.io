@@ -24,3 +24,5 @@ Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses 
 
 {{% children description="false" %}}
 
+Sans oublier les [poèmes qui combinent plusieurs métriques](../../tags/métrique-variable/).
+

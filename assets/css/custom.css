@@ -104,6 +104,22 @@ h1#huitième-saison--reflets-perdus~ul.children>li:nth-child(n + 1):nth-child(-n
     padding-left: 5px;
 }
 
+main.other-perspectives ul.children {
+  list-style: none;
+  counter-reset: item;
+  padding-left: 2rem;
+}
+
+main.other-perspectives ul.children li {
+  counter-increment: item;
+  margin-bottom: 0.5rem;
+}
+
+main.other-perspectives ul.children li::before {
+  content: counter(item) ". ";
+  margin-right: 0.5rem;
+}
+
 div.caption {
     text-align: center;
     font-weight: 500;
