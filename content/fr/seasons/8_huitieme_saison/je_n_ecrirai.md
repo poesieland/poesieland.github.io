@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Je n'écrirai plus de poème
 
-Ecrin d'un faux malheur bohème;
+Ecrin d'un faux malheur bohème ;
 
 N'as-tu pas compris qu'un remords
 

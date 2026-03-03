@@ -21,7 +21,7 @@ Odieuses traces d'un éclair.
  \
 Un arbre est tombé, le silence
 
-Rougit ses branches, son bois vert;
+Rougit ses branches, son bois vert ;
 
 Nudité brève, remontrance,
 

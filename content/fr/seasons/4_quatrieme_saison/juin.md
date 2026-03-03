@@ -32,7 +32,7 @@ L'endroit, l'envers.
  \
 Trou de mémoire,
 
-Ce mois de juin;
+Ce mois de juin ;
 
 Couleurs de moire,
 

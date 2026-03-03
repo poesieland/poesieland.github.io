@@ -16,7 +16,7 @@ La pluie éteint tous les sourires
 Aux ombres grises qui désirent
 
  \
-Plâner sur les toits des cités.
+Planer sur les toits des cités.
 
 Les chants venus précipités
 
@@ -34,7 +34,7 @@ Unifiés d'un ciel lointain, l'autre
 Rivage essaime son épeautre.
 
  \
-Les chants sacrés venus plâner
+Les chants sacrés venus planer
 
 Emmêlent nuages. Glaner
 
@@ -45,7 +45,7 @@ Toi que voici, sous les charpentes,
 
 Oseras-tu dire à ces cieux
 
-Illuminés seuls par tes yeux:
+Illuminés seuls par tes yeux :
 
 Tu ne sourirais qu'au poète,
 

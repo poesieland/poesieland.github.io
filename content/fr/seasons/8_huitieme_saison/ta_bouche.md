@@ -21,7 +21,7 @@ Ourlé, d'un baiser décide.
  \
 Unie à la mienne, fleur,
 
-Cherche réponse; la langue
+Cherche réponse ; la langue
 
 Hante ce bateau voleur,
 

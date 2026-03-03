@@ -10,7 +10,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Comme tu t'en vas, beau, je sais que tu reviens;
+Comme tu t'en vas, beau, je sais que tu reviens ;
 
 Ocre, le ciel penché murmure notre histoire
 

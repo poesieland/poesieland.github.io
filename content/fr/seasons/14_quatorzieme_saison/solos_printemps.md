@@ -31,7 +31,7 @@ Naïf, des feuilles fardées, primes
 
 Touche les souffles, rires, rimes
 
-Enlacées aux branches et troncs;
+Enlacées aux branches et troncs ;
 
 Murailles d'oiseaux, l'aube, en ronds,
 

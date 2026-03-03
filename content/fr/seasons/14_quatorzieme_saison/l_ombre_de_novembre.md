@@ -50,7 +50,7 @@ Béni l'automne comme sœur.
  \
 Dispersés, les éclats semblables
 
-Reforment un cœur inconnu;
+Reforment un cœur inconnu ;
 
 Et novembre en ombres mêlables
 

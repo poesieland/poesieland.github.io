@@ -16,7 +16,7 @@ Invités de saison mature :
 
 Sur les sentiers le cheval blanc
 
-Mêle au tien son bonheur plus lent;
+Mêle au tien son bonheur plus lent ;
 
 Ouvragé le sabot dit chance
 

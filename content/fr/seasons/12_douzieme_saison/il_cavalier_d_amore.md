@@ -11,7 +11,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Il galope, droit, fier, sur son grand cheval bai;
+Il galope, droit, fier, sur son grand cheval bai ;
 
 Luisant comme l'armure, à son côté le sabre...
 

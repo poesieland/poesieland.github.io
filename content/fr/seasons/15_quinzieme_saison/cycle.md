@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Doux, méditant, vois : le cœur interroge
 
-Unie au temps, la pluie en son parfum;
+Unie au temps, la pluie en son parfum ;
 
 Le ciel répond : monde, nul n'y déroge,
 
@@ -20,7 +20,7 @@ Le ciel répond : monde, nul n'y déroge,
  \
 Voici le fleuve, à l'homme tait sa source,
 
-Et les lacs bleus, ou noires profondeurs;
+Et les lacs bleus, ou noires profondeurs ;
 
 Le ciel répond : infime immense course
 

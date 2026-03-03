@@ -23,7 +23,7 @@ Serre-moi dans tes bras le temps d'un doux voyage
 
 Miraculé d'amour, berceau, rêve naissant,
 
-Ou dessine un souhait sur le bas d'une page;
+Ou dessine un souhait sur le bas d'une page ;
 
 Il suffit de m'aimer en ce jour frémissant.
 

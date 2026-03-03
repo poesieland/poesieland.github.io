@@ -23,7 +23,7 @@ Emporte de parfums
 
 Rires et mots, paroles,
 
-Entrave aux sens défunts;
+Entrave aux sens défunts ;
 
 Soleil berce ombres folles...
 

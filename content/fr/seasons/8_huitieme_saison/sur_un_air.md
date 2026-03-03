@@ -25,9 +25,9 @@ Ne laisse pas le battement
 
 Aviver silence dément,
 
-Imprimer sa plainte fugace!
+Imprimer sa plainte fugace !
 
-Ris au contraire comme on passe!
+Ris au contraire comme on passe !
 
 {{% notice style="primary" %}}
 {{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}

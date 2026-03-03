@@ -21,7 +21,7 @@ Ont tué comme on se grisa.
  \
 Illuminer gerbe d'années
 
-Ravie en morceaux de cristal;
+Ravie en morceaux de cristal ;
 
 Secret, le miroir germinal
 

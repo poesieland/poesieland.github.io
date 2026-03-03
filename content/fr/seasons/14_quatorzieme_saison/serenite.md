@@ -13,7 +13,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Silence murmuré, blanc mont
 
-Etreint l'éclat brisé de moire:
+Etreint l'éclat brisé de moire :
 
 Rive, le ciel dit bleue et noire,
 

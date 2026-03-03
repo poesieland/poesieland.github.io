@@ -25,7 +25,7 @@ D'un âge commerçant.
 
 Gargouilles et façades...
 
-Un pas: l'art frémissant
+Un pas : l'art frémissant
 
  \
 De liberté, richesse,

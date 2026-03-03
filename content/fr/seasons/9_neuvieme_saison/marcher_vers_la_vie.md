@@ -16,7 +16,7 @@ Arrivent les voyages,
 
 Rêver que les mirages
 
-Cassent chaque verrou;
+Cassent chaque verrou ;
 
  \
 Histoire que la Terre

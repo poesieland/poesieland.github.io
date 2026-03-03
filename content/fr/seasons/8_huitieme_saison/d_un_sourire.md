@@ -20,7 +20,7 @@ Songe parfumé murmurant...
 
 O si chaque mot reste même
 
-Une éternité dit: je t'aime,
+Une éternité dit : je t'aime,
 
 Rire comme on ne peut briser
 

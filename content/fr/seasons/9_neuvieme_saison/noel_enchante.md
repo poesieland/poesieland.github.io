@@ -21,7 +21,7 @@ Libre, la bohème avec toi !
  \
 Entre les pas et les étoiles
 
-Nous trouverons le sens du vrai;
+Nous trouverons le sens du vrai ;
 
 Chaque âme est ivre, on la dirait
 

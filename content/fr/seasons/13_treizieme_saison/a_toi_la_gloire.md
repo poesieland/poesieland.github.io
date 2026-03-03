@@ -24,12 +24,12 @@ L'argent sur ta face exalte le regard
 
 Aimant le Fils né, mort, l'orgue chante,
 
-Grave, et marie à la flûte une aile lente:
+Grave, et marie à la flûte une aile lente :
 
 La procession, l'encens pour seul fard.
 
  \
-O berce la vie, âme et chair immortelles!
+O berce la vie, âme et chair immortelles !
 
 Insinue en nous la gloire de ton rang !
 

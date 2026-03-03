@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Je passe d'une langue à l'autre
 
-Sans fixer de repère au temps;
+Sans fixer de repère au temps ;
 
 Chaque syllabe écrit l'apôtre,
 

@@ -22,7 +22,7 @@ Uni d'un rêve doux le sourire et l'archange.
 
 A nous d'un seul moment si parler te dérange
 
-Noue alors la musique en guirlandes de fleurs;
+Noue alors la musique en guirlandes de fleurs ;
 
 Orchestre, mariage, un monde où les douleurs
 

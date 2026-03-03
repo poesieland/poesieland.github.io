@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Sur le grand stade de mon cœur
 
-Une ombre: peux-tu me séduire ?
+Une ombre : peux-tu me séduire ?
 
 Riche d'un songe au vent vainqueur
 

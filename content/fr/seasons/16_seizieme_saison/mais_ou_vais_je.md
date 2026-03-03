@@ -33,14 +33,14 @@ Un coeur qui semble vieux, qui n'a plus d'espérance :
 
 Voici l'angoisse grise et voilà l'âpre lien,
 
-Arraisonnant le mât de ma raison; démence.
+Arraisonnant le mât de ma raison ; démence.
 
  \
 Il me semble muraille à mes sens, et sans but
 
-Serpentent les jours las, l'âme cherche passage;
+Serpentent les jours las, l'âme cherche passage ;
 
-Juste un instant la pluie éclôt dans un fol ut
+Juste un instant la pluie éclot dans un fol ut
 
 Et chaque goutte abat son infini tapage.
 

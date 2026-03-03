@@ -33,7 +33,7 @@ Forme des mots,
 
 Comme un délice
 
-Les sons éclôts.
+Les sons éclos.
 
  \
 Moment mature,

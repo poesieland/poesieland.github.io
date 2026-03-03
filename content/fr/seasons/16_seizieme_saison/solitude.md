@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Sur le sol des traces de lune
 
-Ombrent le regard noir-bleuté;
+Ombrent le regard noir-bleuté ;
 
 Lisse la fenêtre à la brune
 

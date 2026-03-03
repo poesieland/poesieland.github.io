@@ -28,7 +28,7 @@ Ricochent sur l'ombre. Les gens
 Ne se pressent, souffle fantôme.
 
  \
-Et la ville perd ses chemins;
+Et la ville perd ses chemins ;
 
 Immobile, je rêve à d'autres
 

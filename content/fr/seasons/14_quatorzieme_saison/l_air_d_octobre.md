@@ -39,7 +39,7 @@ Triste, à ce requiem, or.
  \
 On dit que l'automne ne cache,
 
-Brûlé, que d'immenses regrets;
+Brûlé, que d'immenses regrets ;
 
 Rêveuse, je sais qu'il m'arrache
 

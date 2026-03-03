@@ -23,7 +23,7 @@ Sur le mensonge, les chagrins
 
 Tombe le sable au vent céleste,
 
-D'un souffle rassemble ses grains;
+D'un souffle rassemble ses grains ;
 
 Eternel cycle, le cœur reste.
 

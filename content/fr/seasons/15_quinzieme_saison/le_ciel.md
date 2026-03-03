@@ -20,7 +20,7 @@ Et quel bonheur, quelle douleur...
  \
 Le ciel ne me dit rien qui vaille
 
-La peine de n'être vécu;
+La peine de n'être vécu ;
 
 Le ciel n'a jamais cru vaincu
 

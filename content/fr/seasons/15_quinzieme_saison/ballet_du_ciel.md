@@ -25,7 +25,7 @@ Tressé d'air magnétique...
  \
 Dans ce monde d'arctique
 
-Un dieu mit son peignoir:
+Un dieu mit son peignoir :
 
  \
 Ciel ! L'élément s'effrite !

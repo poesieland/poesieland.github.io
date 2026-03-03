@@ -21,7 +21,7 @@ Adieu l'unique objet de mon ressentiment !
  \
 Il faut se confirmer dans un nouveau baptême,
 
-Pardonner, mais qui donc en bercera l'espoir?
+Pardonner, mais qui donc en bercera l'espoir ?
 
 Admettre l'existence en chœur jusqu'au grand soir,
 

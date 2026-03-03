@@ -21,7 +21,7 @@ Peut-être que l'âme change,
  \
 Osant visiter plus loin,
 
-Emportant le vent des rimes;
+Emportant le vent des rimes ;
 
 Mes poèmes sont des crimes
 

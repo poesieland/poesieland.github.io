@@ -27,7 +27,7 @@ Aux ailes de rubis s'ébattent sans soleil,
 
 Rêvés comme l'amour de saison sans éveil...
 
-Feuilles, mirages, vie, un cœur s'entrouvre; sobre
+Feuilles, mirages, vie, un cœur s'entrouvre ; sobre
 
  \
 Aux élixirs du ciel dont le chant triste est doux...
@@ -43,7 +43,7 @@ D'où viennent nos désirs ? L'été qui vous fit naître
 
 Oublié désormais, alors pourquoi rester,
 
-Traces d'un passé flou qu'on ne peut détester;
+Traces d'un passé flou qu'on ne peut détester ;
 
 Tournoyez, fragmentés, avant de disparaître,
 

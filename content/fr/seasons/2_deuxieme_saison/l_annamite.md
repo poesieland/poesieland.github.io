@@ -18,7 +18,7 @@ Ton bel œil sombre et si rêveur
 
 Quand tu trimes sous la chaleur
 
-A l'ombre d'un chapeau conique?
+A l'ombre d'un chapeau conique ?
 
 Serait-ce ton penchant lubrique
 

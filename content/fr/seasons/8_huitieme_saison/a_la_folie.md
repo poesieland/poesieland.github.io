@@ -21,7 +21,7 @@ Fleurir de moi l'ombre attachante.
  \
 Oublie à ton tour le permis
 
-Livresque d'aimer sans partage;
+Livresque d'aimer sans partage ;
 
 Il ne nous sera plus promis
 

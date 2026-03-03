@@ -22,7 +22,7 @@ Tournoi de troublés désirs.
 
 Attache au cœur, souvenirs
 
-Trouve l'éclat: sage inonde
+Trouve l'éclat : sage inonde
 
 Inflorescence, vers, un monde
 

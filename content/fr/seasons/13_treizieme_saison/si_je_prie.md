@@ -23,7 +23,7 @@ Par le chant clair ma vie offre à ton cœur
 
 Rêves du temps, ta présence console,
 
-Illuminée, ô Vierge: espoir vainqueur...
+Illuminée, ô Vierge : espoir vainqueur...
 
 En cet instant mon âme est-elle sage ou folle ?
 

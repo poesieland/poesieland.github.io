@@ -11,7 +11,7 @@ locations = ["Paris"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Enivré de soleil et de vent doux...: le parc.
+Enivré de soleil et de vent doux... : le parc.
 
 Le vol d'un pigeon bleu ne trouble pas l'allure
 

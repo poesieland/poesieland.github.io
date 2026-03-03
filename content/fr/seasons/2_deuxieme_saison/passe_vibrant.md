@@ -38,8 +38,8 @@ Que je garde la pose,
  \
 Me promène à l'endroit
 
-Où nous fûmes heureuses?
+Où nous fûmes heureuses ?
 
 Mes idées désireuses
 
-Gardent mémoire en toi!
+Gardent mémoire en toi !

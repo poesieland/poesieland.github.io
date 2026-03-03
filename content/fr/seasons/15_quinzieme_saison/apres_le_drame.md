@@ -21,7 +21,7 @@ Dans ce grand soir, trop calme soir.
  \
 Après le drame, après les larmes
 
-Viennent les temps de l'incertain;
+Viennent les temps de l'incertain ;
 
 On se découvre un beau matin
 

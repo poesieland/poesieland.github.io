@@ -14,7 +14,7 @@ Monts enneigés, monts éternels,
 
 Où suivez-vous nos pas mortels ?
 
-Nés du ciel, et terre féconde;
+Nés du ciel, et terre féconde ;
 
 Troublants miroirs de notre monde.
 

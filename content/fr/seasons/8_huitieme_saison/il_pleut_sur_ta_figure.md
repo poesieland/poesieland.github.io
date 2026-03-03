@@ -10,7 +10,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Il pleut sur ta figure d'homme;
+Il pleut sur ta figure d'homme ;
 
 Larmes se divisent, en somme,
 
@@ -24,7 +24,7 @@ Une paupière m'a brouillée,
 
 Tait son adieu dans un sanglot
 
-Sur la ville grise; un grelot
+Sur la ville grise ; un grelot
 
 Unira l'ombre où l'on repasse.
 

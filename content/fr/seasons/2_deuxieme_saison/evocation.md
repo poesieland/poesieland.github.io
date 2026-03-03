@@ -20,7 +20,7 @@ Pour aboutir sans doute à la lointaine rive
  \
 Où, primitif, l'orange attire l'immortel,
 
-Comme un carré défait de tous ses bords tressaille;
+Comme un carré défait de tous ses bords tressaille ;
 
 Purifié, ton éclat chasse toute grisaille
 

@@ -22,7 +22,7 @@ Le voile mouillé des yeux.
  \
 L'encens berce la narine
 
-Intense d'un nouveau chœur;
+Intense d'un nouveau chœur ;
 
 Bonté, le soleil s'incline
 

@@ -17,7 +17,7 @@ Imaginer le départ,
 
 Vivre, c'est hurler son âme,
 
-Etre sur le fil d'un drame;
+Etre sur le fil d'un drame ;
 
 Rêver c'est rire du ciel,
 

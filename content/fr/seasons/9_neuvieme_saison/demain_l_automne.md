@@ -18,7 +18,7 @@ Mirage dans le ciel sans ombre et sans parfum...
 
 Atteindre l'équinoxe où l'immobile embrun
 
-Insulte les saisons qui se croyaient coupables;
+Insulte les saisons qui se croyaient coupables ;
 
 Ne bercent-elles mots, vérités incurables ?
 

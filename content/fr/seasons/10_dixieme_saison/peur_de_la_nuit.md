@@ -32,7 +32,7 @@ Ne crains pas la nuit si proche,
 
 Un soleil vivra bientôt,
 
-Il verra l'amour s'éclôt,
+Il verra l'amour s'éclot,
 
 Tes mains berceront leur cloche...
 

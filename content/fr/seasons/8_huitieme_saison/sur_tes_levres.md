@@ -30,7 +30,7 @@ En ravivant ce fol désir.
  \
 Vivre au-delà, vie irréelle
 
-Ressentie au cœur-vérité:
+Ressentie au cœur-vérité :
 
 Embrasse-moi, ta lèvre belle
 

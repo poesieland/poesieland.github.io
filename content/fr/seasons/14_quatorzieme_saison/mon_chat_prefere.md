@@ -34,7 +34,7 @@ Et le satin de ton passage
 
 Faufilé dans le grand salon...
 
-Est-ce t'avoir trouvé chaton?
+Est-ce t'avoir trouvé chaton ?
 
 Reviens mon chat, mon infidèle !
 
