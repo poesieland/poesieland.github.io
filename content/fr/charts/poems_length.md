@@ -64,6 +64,8 @@ Certaines fois une mini-nouvelle.
 *à la vingt-et-unième saison*
 - [Nous](../seasons/31_trente_et_unieme_saison/nous)  
 *à la trente-et-unième saison*
+- [Les mots chassés](../seasons/31_trente_et_unieme_saison/les_mots_chasses)  
+*à la trente-et-unième saison*
 
 ## Et même huit
 
