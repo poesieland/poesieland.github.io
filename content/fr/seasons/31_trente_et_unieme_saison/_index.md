@@ -3,11 +3,11 @@ title = "Trente-et-unième Saison : Emotions mouvantes"
 weight = 31
 type = "seasonIndex"
 description = """
-Temps, faune, printemps, création, neige... Des thèmes qui se bousculent.
+Temps, faune, printemps, mais aussi création et neige... Des thèmes qui se bousculent.
 
 Lorsque j'ai choisi le titre de cette saison (toujours à l'avance, forcément), je ne savais pas encore que j'allais retranscrire des émotions aussi variées. Je suis observatrice-éponge de mon entourage, toujours.
 
-A partir de janvier 2026."""
+Janvier à mars 2026."""
 +++
 
 {{% param "description" %}}

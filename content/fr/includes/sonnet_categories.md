@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Portraits](/categories/portraits)
 - [Révolte](/categories/révolte)
 - [Hiver](/categories/hiver)
+- [Jardin et paysage](/categories/jardin-et-paysage)
 - [Amour platonique](/categories/amour-platonique)
 - [Ciel](/categories/ciel)
 - [Enfance et adolescence](/categories/enfance-et-adolescence)
-- [Automne](/categories/automne)
