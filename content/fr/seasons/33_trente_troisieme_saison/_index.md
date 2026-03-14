@@ -1,5 +1,5 @@
 +++
-title = "Trente-troisième Saison : D'un jour à l'autre"
+title = "Trente-troisième Saison : Petit Poucet des mots"
 description = "Plus tard"
 weight = 33
 type = "seasonIndex"

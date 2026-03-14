@@ -25,7 +25,9 @@ Et les jours où j'écris plus d'un poème ?
 
 {{< chartjs id="poemIntensityPie" width="60%" jsFile="../general/poem-intensity-pie.js" />}}
 
-{{% include "../includes/most_intense_days.md" true %}}
+Et quel jour de la semaine j'écris plus de deux poèmes ?
+
+{{< chartjs id="intenseDaysDayOfWeekPie" width="60%" jsFile="../general/intenseDays-dayofweek-pie.js" />}}
 
 ## Des jours entre
 

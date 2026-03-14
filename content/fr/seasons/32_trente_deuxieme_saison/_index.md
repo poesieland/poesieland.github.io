@@ -1,6 +1,6 @@
 +++
-title = "Trente-deuxième Saison : Petit Poucet des mots"
-description = "Plus tard"
+title = "Trente-deuxième Saison : D'un jour à l'autre"
+description = "A partir de mars 2026"
 weight = 32
 type = "seasonIndex"
 +++
