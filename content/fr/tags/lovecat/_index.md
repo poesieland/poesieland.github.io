@@ -18,6 +18,8 @@ Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
 {{< figure src="/images/le_chat_chasseur_31_0.jpg" title="Près du métro, janvier 2026" >}}
 
+{{< figure src="/images/le_siamois_32_0.png" title="Mars 2026" >}}
+
 ## Sans oublier une facétie
 
 [Le mini-thème drôle *Gare au(x) chat(s)...*](../gare-au-chat).
