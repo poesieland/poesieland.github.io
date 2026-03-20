@@ -4,9 +4,9 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Lundi', value: 214, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
     { label: 'Mardi', value: 219, color: 'rgba(72, 149, 239, 0.4)' },
     { label: 'Mercredi', value: 216, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Jeudi', value: 174, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
-    { label: 'Vendredi', value: 205, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: 'Samedi', value: 252, color: 'rgba(72, 149, 239, 0.8)' },
+    { label: 'Jeudi', value: 175, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
+    { label: 'Vendredi', value: 206, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: 'Samedi', value: 254, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 289, color: 'rgba(72, 149, 239, 0.9000000000000001)' },
   ];
   addPieChart('poemDayOfWeekPie', [data], { plugins: { title: { display: true, text: 'Par jour de la semaine' } } });

@@ -9,12 +9,13 @@ categories:
     - Angoisse
 tags:
     - "2025"
+    - la mort
+    - octosyllabe
     - philosophie
     - refrain
-    - octosyllabe
-    - la mort
+    - au dernier rang du cimetière
 location: []
-info: '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""

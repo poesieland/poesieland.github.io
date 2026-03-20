@@ -9,11 +9,12 @@ categories:
     - Temps
 tags:
     - "2025"
-    - philosophie
-    - octosyllabe
     - la mort
+    - octosyllabe
+    - philosophie
+    - au dernier rang du cimetière
 location: []
-info: '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""

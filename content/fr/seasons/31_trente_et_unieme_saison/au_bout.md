@@ -11,11 +11,12 @@ categories:
 tags:
     - "2026"
     - amour
+    - la mort
     - octosyllabe
     - philosophie
-    - la mort
+    - au dernier rang du cimetière
 location: []
-info: '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""

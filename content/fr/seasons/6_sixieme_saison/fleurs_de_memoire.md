@@ -4,10 +4,16 @@ id = "fleurs_de_memoire_6"
 date = 1998-04-21
 weight = 26
 categories = [ "Temps" ]
-tags = [ "philosophie", "1998", "octosyllabe", "la mort" ]
+tags = [
+  "1998",
+  "la mort",
+  "octosyllabe",
+  "philosophie",
+  "au dernier rang du cimetière"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
+info = ""
 +++
 
 Au dernier rang du cimetière

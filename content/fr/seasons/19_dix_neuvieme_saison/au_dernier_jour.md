@@ -4,8 +4,15 @@ id = "au_dernier_jour_19"
 date = 2024-03-05
 weight = 18
 categories = [ "Temps", "Espoir" ]
-tags = [ "2024", "octosyllabe", "philosophie", "refrain", "la mort" ]
-info = '{{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}'
+tags = [
+  "2024",
+  "la mort",
+  "octosyllabe",
+  "philosophie",
+  "refrain",
+  "au dernier rang du cimetière"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
