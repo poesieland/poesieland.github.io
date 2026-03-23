@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 L'astre bleuté d'un reflet vague
 
-Unit le monde; ce parfum
+Unit le monde ; ce parfum
 
 Nu, descend vers la terre, bague
 

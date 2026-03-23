@@ -11,7 +11,7 @@ locations = ["Reims"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-La cathédrale est ma demeure;
+La cathédrale est ma demeure ;
 
 A la flèche de chaque tour
 

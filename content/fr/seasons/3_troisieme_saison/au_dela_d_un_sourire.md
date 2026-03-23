@@ -22,7 +22,7 @@ Elle serait à peine éclose.
  \
 Lune, mystère du printemps
 
-A la lumière douce, ombrée;
+A la lumière douce, ombrée ;
 
 Dans mon jardin caché j'attends
 

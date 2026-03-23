@@ -24,7 +24,7 @@ M'était si doux ce fol frisson...
 
 Il mariait rêve à l'étoile,
 
-D'aube bonheur brisait le voile;
+D'aube bonheur brisait le voile ;
 
 Ailleurs c'était le firmament
 

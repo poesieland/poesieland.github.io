@@ -15,7 +15,7 @@ Mais plutôt par élan mystique
 
 Que je connus, un jour, un soir,
 
-Au bord du lit me laissant choir;
+Au bord du lit me laissant choir ;
 
 Tes cheveux doux contre ma tête
 

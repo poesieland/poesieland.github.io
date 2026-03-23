@@ -25,7 +25,7 @@ Pour le monde immobile et le cycle du Temps,
 
 Retiens la folle larme arrachée au calice
 
-Ivre de mon murmure à l'aube du printemps!
+Ivre de mon murmure à l'aube du printemps !
 
  \
 En ta si blanche main cueille la foi vivace,
