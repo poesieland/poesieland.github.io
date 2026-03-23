@@ -3,13 +3,19 @@ title = "Gris"
 id = "gris_22"
 date = 2024-11-14
 weight = 46
-categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2024", "hexasyllabe", "refrain"]
-info = """
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
-
+categories = [ "Ciel", "Hiver" ]
+tags = [
+  "2024",
+  "hexasyllabe",
+  "nature",
+  "refrain",
+  "saisons",
+  "le ciel est"
+]
+info = '{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}'
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **gris, livide**"
 +++
 
 Le ciel est gris, livide,

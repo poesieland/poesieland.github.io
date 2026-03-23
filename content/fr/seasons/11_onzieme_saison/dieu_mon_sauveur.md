@@ -26,7 +26,7 @@ Nouveau présent dans la confiance...
 
 Sourire n'est pas une science
 
-Auréolé de ton accent;
+Auréolé de ton accent ;
 
 Une voix, prière, ressent
 

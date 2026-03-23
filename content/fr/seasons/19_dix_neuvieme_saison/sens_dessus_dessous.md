@@ -6,17 +6,20 @@ weight = 45
 categories = [ "Climat", "Printemps", "Révolte", "Angoisse" ]
 tags = [
   "2024",
+  "avril",
+  "les mois",
   "nature",
   "octosyllabe",
   "philosophie",
-  "saisons",
   "refrain",
-  "les mois",
-  "avril"
+  "saisons",
+  "le ciel est"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "Cet avril fait fi de leur cas"
+description = """
+Le ciel est **tombé sur la tête**
+Cet avril fait fi de leur cas"""
 +++
 
 Le ciel est tombé sur la tête :

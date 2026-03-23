@@ -3,13 +3,19 @@ title = "Ciel d'hiver"
 id = "ciel_d_hiver_22"
 date = 2024-11-07
 weight = 40
-categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2024", "hexasyllabe", "refrain"]
-info = """
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
-
+categories = [ "Ciel", "Hiver" ]
+tags = [
+  "2024",
+  "hexasyllabe",
+  "nature",
+  "refrain",
+  "saisons",
+  "le ciel est"
+]
+info = '{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}'
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **gris plombé**"
 +++
 
 Le ciel est gris plombé,

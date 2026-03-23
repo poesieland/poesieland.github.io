@@ -3,15 +3,22 @@ title = "Le ciel est gris"
 id = "le_ciel_est_gris_20"
 date = 2024-05-28
 weight = 21
-categories = ["Ciel", "Eau douce", "Climat", "Révolte"]
-tags = ["nature", "philosophie", "2024", "métrique variable", "octosyllabe", "hexasyllabe"]
+categories = [ "Ciel", "Eau douce", "Climat", "Révolte" ]
+tags = [
+  "2024",
+  "hexasyllabe",
+  "métrique variable",
+  "nature",
+  "octosyllabe",
+  "philosophie",
+  "le ciel est"
+]
 info = """
 Métrique variable : 8, 6.
-      
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
-
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **gris débilitant**"
 +++
 
 Le ciel est gris débilitant

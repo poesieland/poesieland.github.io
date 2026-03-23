@@ -41,7 +41,7 @@ Tu me dis l'au revoir, caresse chaude encor :
 
 Un été qui s'envole endormira septembre
 
-D'un souffle bleu, violon en sa touche qui s'ambre;
+D'un souffle bleu, violon en sa touche qui s'ambre ;
 
 Il rouvrira la page où s'inscrivait l'accord.
 

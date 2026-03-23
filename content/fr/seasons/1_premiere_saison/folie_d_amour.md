@@ -38,7 +38,7 @@ Sans compter un parfum qui d'ivresse m'inonde,
  \
 Me fait perdre les sens, ô sublime senteur
 
-Mêlée à votre poudre à la douce couleur;
+Mêlée à votre poudre à la douce couleur ;
 
 De votre voix le son me fait tourner la tête,
 
@@ -47,7 +47,7 @@ Vous entrapercevoir me met le cœur en fête,
  \
 Mais m'accorderez-vous un brin d'attention,
 
-Belle virevoltante? Ou bien la passion
+Belle virevoltante ? Ou bien la passion
 
 Point ne vous effleura, dardant sa longue flèche
 

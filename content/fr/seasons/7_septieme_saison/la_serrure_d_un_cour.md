@@ -24,7 +24,7 @@ Elégie, offertoire au bonheur d'hirondelle,
 
 Frisson d'une chanson, rire voilé, larme et...
 
-Destin tracé, livré vécu, sens alarmé;
+Destin tracé, livré vécu, sens alarmé ;
 
 Un jour la mer oublie un doux refrain loin d'elle.
 

@@ -28,7 +28,7 @@ Oser le croire fou vraiment.
  \
 Rêver, c'est lui qu'on crucifie
 
-En papillon, palpite encor;
+En papillon, palpite encor ;
 
 Brisé son cœur pourtant défie
 

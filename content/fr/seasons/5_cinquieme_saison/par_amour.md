@@ -23,7 +23,7 @@ Le murmure de mes paroles
 
 S'est envolé vers ton regard
 
-Baissé; lumières t'auréolent,
+Baissé ; lumières t'auréolent,
 
 Tu ne vas dire qu'au revoir.
 

@@ -13,7 +13,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Prier, croire en ce sens, en ce lieu, l'éternelle
 
-Réminiscence, vie au chapelet tombé;
+Réminiscence, vie au chapelet tombé ;
 
 Esquisser l'infini d'un verre au bord plombé,
 

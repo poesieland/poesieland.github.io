@@ -33,9 +33,9 @@ Rêvons au creux des mots très doux.
  \
 Ecoute : nos cœurs se ressemblent...
 
-Attarde ton doigt sensitif!
+Attarde ton doigt sensitif !
 
-Ah ! Ce départ, nos cœurs à vif;
+Ah ! Ce départ, nos cœurs à vif ;
 
 Noyés mon âme et mes yeux tremblent.
 

@@ -3,10 +3,11 @@ title = "Bleu, l'infini"
 id = "bleu_l_infini_25"
 date = 2025-04-06
 weight = 49
-categories = ["Ciel"]
-tags = ["nature", "2025", "hexasyllabe", "refrain"]
+categories = [ "Ciel" ]
+tags = [ "2025", "hexasyllabe", "nature", "refrain", "le ciel est" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **indécent**"
 +++
 
 Le ciel est indécent,

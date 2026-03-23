@@ -22,7 +22,7 @@ Tu berces douce l'ogive
 
 Libre pour qu'un cœur survive
 
-Hanté de profond bonheur!
+Hanté de profond bonheur !
 
 Une pierre est une fleur
 

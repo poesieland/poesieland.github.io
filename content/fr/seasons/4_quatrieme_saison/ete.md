@@ -3,10 +3,11 @@ title = "Eté"
 id = "ete_4"
 date = 1997-06-06
 weight = 4
-categories = ["Eté", "Jardin et paysage"]
-tags = ["saisons", "nature", "1997", "octosyllabe"]
+categories = [ "Eté", "Jardin et paysage" ]
+tags = [ "1997", "nature", "octosyllabe", "saisons", "le ciel est" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **bleu comme un mensonge**"
 +++
 
 Le ciel est bleu comme un mensonge,

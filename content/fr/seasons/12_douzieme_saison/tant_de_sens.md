@@ -14,7 +14,7 @@ Tu sais : les choses les plus belles
 
 Au monde ne seront jamais celles
 
-Nées sans âme, sans cet espoir;
+Nées sans âme, sans cet espoir ;
 
 Tu leur donnas le chant du soir.
 

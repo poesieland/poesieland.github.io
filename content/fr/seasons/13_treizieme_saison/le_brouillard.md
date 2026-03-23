@@ -16,7 +16,7 @@ En cet été donne
 
 Baiser, l'air d'automne
 
-Refusé: trop tard !
+Refusé : trop tard !
 
  \
 Ombres sur la branche

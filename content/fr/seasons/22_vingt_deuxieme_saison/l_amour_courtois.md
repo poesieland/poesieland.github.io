@@ -4,10 +4,11 @@ id = "l_amour_courtois_22"
 date = 2024-09-07
 weight = 4
 categories = [ "Amour platonique" ]
-tags = [ "2024", "amour", "octosyllabe", "refrain" ]
+tags = [ "2024", "amour", "octosyllabe", "refrain", "le ciel est" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = ""
+description = "Le ciel est **beau**"
 +++
 
 Le ciel est beau pour tout vous dire
