@@ -1,6 +1,6 @@
 +++
 title = "Métriques"
-weight = 2
+weight = 3
 date = 2026-02-27
 +++
 
