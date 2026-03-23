@@ -14,8 +14,7 @@ tags = [
   "le ciel est"
 ]
 info = """
-Métrique variable : 8, 6.\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
-      \r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r\r
+Métrique variable : 8, 6.
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
