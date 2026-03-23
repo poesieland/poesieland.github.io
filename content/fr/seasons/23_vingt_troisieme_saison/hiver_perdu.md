@@ -3,10 +3,11 @@ title = "Hiver perdu"
 id = "hiver_perdu_23"
 date = 2024-12-21
 weight = 20
-categories = ["Ciel", "Hiver"]
-tags = ["nature", "saisons", "2024", "alexandrin"]
+categories = [ "Ciel", "Hiver" ]
+tags = [ "2024", "alexandrin", "nature", "saisons", "le ciel est" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **triste et las**"
 +++
 
 Le ciel est triste et las de n'imaginer qu'ombres,

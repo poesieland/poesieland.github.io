@@ -11,8 +11,9 @@ categories:
 tags:
     - "2025"
     - nature
-    - ombres et lumières
     - octosyllabe
+    - ombres et lumières
+    - le ciel est
 location: []
 info: ""
 pictures: []
@@ -20,6 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Le ciel est **calme, floconneux**
 ---
 Le ciel est calme, floconneux
 

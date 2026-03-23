@@ -3,11 +3,18 @@ title = "L'amour tendre"
 id = "l_amour_tendre_4"
 date = 1997-08-10
 weight = 13
-categories = ["Romantisme"]
-tags = ["amour", "1997", "acrostiche", "hexasyllabe"]
+categories = [ "Romantisme" ]
+tags = [
+  "1997",
+  "acrostiche",
+  "amour",
+  "hexasyllabe",
+  "le ciel est"
+]
 acrostiche = "L'amour tendre"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **plein d'étoiles**"
 +++
 
 Le ciel est plein d'étoiles

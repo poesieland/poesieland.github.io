@@ -3,11 +3,12 @@ title = "Ciel !"
 id = "ciel_23"
 date = 2024-12-28
 weight = 38
-categories = ["Ciel"]
-tags = ["nature", "2024", "octosyllabe"]
+categories = [ "Ciel" ]
+tags = [ "2024", "nature", "octosyllabe", "le ciel est" ]
 info = "Le ciel bleu roi est un souvenir d'adolescence en visite à [Tataouine](https://www.google.com/search?q=tataouine)."
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **doux comme un émail**"
 +++
 
 Le ciel est doux comme un émail

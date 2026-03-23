@@ -3,11 +3,19 @@ title = "L'hiver déjà"
 id = "l_hiver_deja_9"
 date = 1998-10-04
 weight = 2
-categories = ["Hiver", "Angoisse"]
-tags = ["saisons", "philosophie", "1998", "acrostiche", "alexandrin"]
+categories = [ "Hiver", "Angoisse" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "alexandrin",
+  "philosophie",
+  "saisons",
+  "le ciel est"
+]
 acrostiche = "L'hiver déjà"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **triste et bas** comme une chanson grise"
 +++
 
 Le ciel est triste et bas comme une chanson grise,

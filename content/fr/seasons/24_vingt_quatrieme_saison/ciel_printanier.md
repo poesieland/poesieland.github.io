@@ -3,10 +3,18 @@ title = "Ciel printanier"
 id = "ciel_printanier_24"
 date = 2025-01-27
 weight = 32
-categories = ["Ciel", "Printemps"]
-tags = ["nature", "saisons", "2025", "octosyllabe", "refrain"]
+categories = [ "Ciel", "Printemps" ]
+tags = [
+  "2025",
+  "nature",
+  "octosyllabe",
+  "refrain",
+  "saisons",
+  "le ciel est"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **bleu comme un miracle**"
 +++
 
 Le ciel est bleu comme un miracle

@@ -3,11 +3,17 @@ title = "Naissance de l'aube"
 id = "naissance_de_l_aube_24"
 date = 2025-01-28
 weight = 33
-categories = ["Aube"]
-tags = ["ombres et lumières", "2025", "hexasyllabe"]
+categories = [ "Aube" ]
+tags = [
+  "2025",
+  "hexasyllabe",
+  "ombres et lumières",
+  "le ciel est"
+]
 info = "Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/matin_celeste)."
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **bleu marine**"
 +++
 
 Le ciel est bleu marine

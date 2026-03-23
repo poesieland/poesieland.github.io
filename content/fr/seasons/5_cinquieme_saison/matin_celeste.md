@@ -9,10 +9,12 @@ tags = [
   "hexasyllabe",
   "nature",
   "ombres et lumières",
-  "refrain"
+  "refrain",
+  "le ciel est"
 ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **bleu marine**"
 +++
 
 Le ciel est bleu marine

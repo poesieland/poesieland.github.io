@@ -3,11 +3,21 @@ title = "Blues d'automne"
 id = "blues_d_automne_22"
 date = 2024-09-11
 weight = 6
-categories = ["Automne", "Ciel", "Angoisse"]
-tags = ["saisons", "nature", "philosophie", "2024", "métrique variable", "octosyllabe", "trisyllabe"]
+categories = [ "Automne", "Ciel", "Angoisse" ]
+tags = [
+  "2024",
+  "métrique variable",
+  "nature",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "trisyllabe",
+  "le ciel est"
+]
 info = "Métrique variable : 8, 3."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Le ciel est **bas comme un couvercle**"
 +++
 
 Le ciel est bas comme un couvercle

@@ -9,10 +9,11 @@ categories:
     - Crépuscule
 tags:
     - "2025"
+    - dissyllabe
     - métrique variable
     - octosyllabe
     - ombres et lumières
-    - dissyllabe
+    - le ciel est
 location: []
 info: "Métrique variable : 8, 2."
 pictures: []
@@ -20,6 +21,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Le ciel est **beau comme un terroir**
 ---
 Le ciel est beau comme un terroir
 

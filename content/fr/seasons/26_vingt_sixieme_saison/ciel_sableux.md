@@ -9,8 +9,9 @@ categories:
     - Ciel
 tags:
     - "2025"
-    - nature
     - hexasyllabe
+    - nature
+    - le ciel est
 location: []
 info: ""
 pictures: []
@@ -18,6 +19,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: Le ciel est **tout sableux**
 ---
 Le ciel est tout sableux,
 
