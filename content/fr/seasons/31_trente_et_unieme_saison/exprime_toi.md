@@ -15,7 +15,6 @@ tags:
     - refrain
 location: []
 info: ""
-description: Jette un poème
 pictures: []
 poemType: ""
 acrostiche: ""

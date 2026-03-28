@@ -14,7 +14,6 @@ tags:
     - hexasyllabe
 location: []
 info: ""
-description: Je te rends...
 pictures: []
 poemType: ""
 acrostiche: ""

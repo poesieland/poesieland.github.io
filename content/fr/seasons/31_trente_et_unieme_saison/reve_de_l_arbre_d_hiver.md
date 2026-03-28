@@ -18,7 +18,6 @@ tags:
     - métrique variable
 location: []
 info: "Métrique variable : 4, 2."
-description: Un arbre...
 pictures: []
 poemType: ""
 acrostiche: ""

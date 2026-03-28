@@ -15,7 +15,6 @@ tags:
     - refrain
 location: []
 info: ""
-description: Le ciel
 pictures: []
 poemType: ""
 acrostiche: ""

@@ -16,7 +16,7 @@ tags:
     - le ciel est
 location: []
 info: ""
-description: Le ciel est bleu très clair
+description: Le ciel est **bleu très clair**
 pictures: []
 poemType: ""
 acrostiche: ""

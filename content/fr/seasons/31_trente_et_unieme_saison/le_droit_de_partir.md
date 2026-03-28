@@ -17,7 +17,6 @@ tags:
     - philosophie
 location: []
 info: ""
-description: Je t'ai donné le droit
 pictures: []
 poemType: ""
 acrostiche: ""

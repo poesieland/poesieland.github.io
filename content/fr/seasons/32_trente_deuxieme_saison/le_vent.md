@@ -16,7 +16,6 @@ tags:
     - refrain
 location: []
 info: ""
-description: Le vent
 pictures: []
 poemType: ""
 acrostiche: ""

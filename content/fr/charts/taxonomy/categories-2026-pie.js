@@ -1,11 +1,11 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Amitié', value: 2, color: 'rgba(254, 231, 240, 1)' },
+    { label: 'Amitié', value: 3, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Romantisme', value: 2, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 5, color: 'rgba(255, 203, 96, 1)' },
-    { label: 'Lune', value: 1, color: 'rgba(253, 241, 184, 1)' },
+    { label: 'Lune', value: 2, color: 'rgba(253, 241, 184, 1)' },
     { label: 'Crépuscule', value: 3, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
@@ -20,8 +20,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 1, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 2, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 3, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Ciel', value: 6, color: 'rgba(119, 181, 254, 1)' },
-    { label: 'Faune', value: 11, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Ciel', value: 7, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Faune', value: 13, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },

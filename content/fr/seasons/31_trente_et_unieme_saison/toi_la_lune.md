@@ -16,7 +16,6 @@ tags:
     - refrain
 location: []
 info: '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
-description: Toi, la lune
 pictures: []
 poemType: ""
 acrostiche: ""
