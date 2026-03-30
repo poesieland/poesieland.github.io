@@ -10,9 +10,9 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Nostalgique de toi comme un parfum s'embrume;
+Nostalgique de toi comme un parfum s'embrume ;
 
-O fleurissent les mots de ton nom silencieux
+Ô fleurissent les mots de ton nom silencieux
 
 Serrés sur une page et lissés sous la plume,
 
@@ -21,7 +21,7 @@ Ton souvenir me berce et se closent mes yeux.
  \
 Amie, un jour viendra : d'ultimes transcendances
 
-Liront lettres de nuit, de lune et de senteurs;
+Liront lettres de nuit, de lune et de senteurs ;
 
 Givre des sentiments sur la glace où tu danses,
 
@@ -41,7 +41,7 @@ Et je laisse tomber le stylo sur la page,
 
 Tache qui s'auréole et perce le papier :
 
-O mais ne laissons plus les paroles en cage !
+Ô mais ne laissons plus les paroles en cage !
 
 Image imaginaire à l'ombre d'amitié.
 

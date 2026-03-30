@@ -28,7 +28,7 @@ Ta main fermement assure
 Caresse du lendemain.
 
  \
-O ce souffle sait te dire
+Ô ce souffle sait te dire
 
 Même les petits bonheurs !
 

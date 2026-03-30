@@ -11,11 +11,11 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Senteurs troublées des clématites,
 
-O sombres berceaux qui m'abritent
+Ô sombres berceaux qui m'abritent
 
 De tout, du monde et de sa loi.
 
-O Fleur, je me confonds en toi,
+Ô Fleur, je me confonds en toi,
 
 Ma profonde, céleste étoile
 

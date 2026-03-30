@@ -16,7 +16,7 @@ Et toujours tu viendras
 
 Triste où mon cœur se laisse
 
-O combien tu prieras !
+Ô combien tu prieras !
 
  \
 Un automne me peine

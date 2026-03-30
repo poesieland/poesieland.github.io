@@ -15,7 +15,7 @@ Flocons d'argent de neige douce,
 
 Blancs vaporeux comme une mousse,
 
-Chassez la pluie et son sanglot!
+Chassez la pluie et son sanglot !
 
  \
 Au fond du cœur prenez la place

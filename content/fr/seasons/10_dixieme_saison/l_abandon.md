@@ -23,7 +23,7 @@ N'entends-tu pas le souffle et la douleur du monde
 
 Dessiner sur la voûte une nouvelle nuit ?
 
-O muet, triste et sourd, expirant son ennui,
+Ô muet, triste et sourd, expirant son ennui,
 
 N'entends-tu pas ce cœur, ombre à chaque seconde ?
 

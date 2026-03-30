@@ -43,7 +43,7 @@ Et souviens-toi de nous, le passé se ressert.
  \
 Rêver, n'est-ce grandir, abri de l'innocence?
 
-O tout petit Poucet de rires et de pleurs,
+Ô tout petit Poucet de rires et de pleurs,
 
 Noircis de ton crayon les pages de l'enfance,
 

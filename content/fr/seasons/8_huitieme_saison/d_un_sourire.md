@@ -18,7 +18,7 @@ Nuage au doux cœur expirant,
 
 Songe parfumé murmurant...
 
-O si chaque mot reste même
+Ô si chaque mot reste même
 
 Une éternité dit : je t'aime,
 

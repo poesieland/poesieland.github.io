@@ -16,7 +16,7 @@ Et l'ombre neuve accouche
 
 Humaine, d'un lutin,
 
-O la fée à son teint
+Ô la fée à son teint
 
 Rassemble une berceuse
 

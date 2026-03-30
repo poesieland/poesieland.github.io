@@ -21,7 +21,7 @@ description = "L'octobre"
 
 L'automne ourle sa lèvre en d'infinis baisers,
 
-O la procession dans cette flamme ardente
+Ô la procession dans cette flamme ardente
 
 Caresse d'un sourire un éclat : d'ors brisés
 

@@ -16,7 +16,7 @@ Nul autre son plus fort ne troublait cet instant,
 
 Soir triste où mon humeur vagabondait d'autant,
 
-O qu'avais-je vieilli dans ces saisons à naître !
+Ô qu'avais-je vieilli dans ces saisons à naître !
 
  \
 Immobile et placide, un air urbain d'ailleurs

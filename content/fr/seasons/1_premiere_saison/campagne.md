@@ -15,7 +15,7 @@ Ouverte aux horizons si bleus,
 
 Remplis de rires et de jeux,
 
-Où traînerait une comptine;
+Où traînerait une comptine ;
 
  \
 Dans l'air vibrant sous le soleil
@@ -38,7 +38,7 @@ Tandis que tombe la poussière
  \
 Et que s'apaise le grand ciel
 
-S'endormiront les forêts drues;
+S'endormiront les forêts drues ;
 
 Dans la fraîcheur tombant des nues
 

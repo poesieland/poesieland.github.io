@@ -20,7 +20,7 @@ Tracent sourire, l'histoire
 Un songe des firmaments.
 
  \
-O l'ombre sur le rivage
+Ô l'ombre sur le rivage
 
 Cache l'âme de nos Dieux ;
 

@@ -23,7 +23,7 @@ Si le brouillard dissipe
 
 Rêvés les ombres, l'or,
 
-O naîtra la tulipe :
+Ô naîtra la tulipe :
 
 Silence ! dort encor...
 

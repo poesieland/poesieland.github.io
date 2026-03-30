@@ -26,7 +26,7 @@ Onde, un parfum m'y jeta
 
 Vers ce sable, cette flore;
 
-O terra incognita !
+Ô terra incognita !
 
 {{% notice style="primary" %}}
 "Soleil nouveau" en italien.

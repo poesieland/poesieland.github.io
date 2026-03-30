@@ -16,7 +16,7 @@ Eveillez vers la vie
 
 Votre si bel atour !
 
-O ce n'est qu'une envie :
+Ô ce n'est qu'une envie :
 
  \
 Un chœur accentué
@@ -39,7 +39,7 @@ A cette clarté pure
  \
 Mes yeux sont comme sourds
 
-O Jésus, tu nous guides
+Ô Jésus, tu nous guides
 
 Unis hier à toujours,
 

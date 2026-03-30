@@ -1,16 +1,16 @@
 +++
-title = "O printemps si beau"
+title = "Ô printemps si beau"
 id = "o_printemps_si_beau_6"
 date = 1998-04-12
 weight = 11
 categories = ["Printemps"]
 tags = ["saisons", "1998", "acrostiche", "décasyllabe"]
-acrostiche = "O printemps si beau"
+acrostiche = "Ô printemps si beau"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O doux printemps aux magiques senteurs !
+Ô doux printemps aux magiques senteurs !
 
 Parfum nacré d'une aube musicale !
 
@@ -46,5 +46,5 @@ Ardente au creux du soir dans son refrain :
 Un souffle d'ange endort la jouvencelle !
 
 {{% notice style="primary" %}}
-Acrostiche : O printemps si beau.
+Acrostiche : Ô printemps si beau.
 {{% /notice %}}

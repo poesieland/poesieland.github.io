@@ -23,7 +23,7 @@ Aimer tout ce qu'on a, vouloir donner encore...
 
 Vivre c'est toujours dire et jouer les Pandore;
 
-O la boîte est l'esprit des gens avides, vils !
+Ô la boîte est l'esprit des gens avides, vils !
 
 Il faut dompter les loups et délier les fils...
 

@@ -41,7 +41,7 @@ Et trouverai-je encor les mots
 
 Touchants pour bercer ton murmure,
 
-O ce ne sont que mes sanglots
+Ô ce ne sont que mes sanglots
 
 Irradiés de cette aventure !
 

@@ -17,7 +17,7 @@ A travers le vent son râle,
 
 Mis doucement, un pétale
 
-O s'échappe, flore à mort
+Ô s'échappe, flore à mort
 
  \
 Rejoignant l'oiseau, l'immense

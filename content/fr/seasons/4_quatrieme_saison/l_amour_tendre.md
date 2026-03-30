@@ -23,7 +23,7 @@ Au cœur bleu, si profond,
 
 Marines se dévoilent :
 
-O l'amour est si bon !
+Ô l'amour est si bon !
 
  \
 Une vague caresse,

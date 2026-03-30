@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Homme, ne vois-tu pas qu'après la multitude
 
-Il ne reste plus rien, pas même une habitude?
+Il ne reste plus rien, pas même une habitude ?
 
 Niveleuse du monde en croisant nos chemins,
 
@@ -19,9 +19,9 @@ Vagabonde Méduse, elle fait nos destins.
 
 C'est elle qui toujours verse de sombres houles :
 
-Vous ne resterez roi devant de telles foules!
+Vous ne resterez roi devant de telles foules !
 
-Dans son ardeur nocturne elle brandit drapeaux;
+Dans son ardeur nocturne elle brandit drapeaux ;
 
 Hormis la liberté, sait-elle d'autres mots ?
 

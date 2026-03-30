@@ -31,7 +31,7 @@ Sais-tu qu'au fruit du verger, dans son pli
  \
 Demain n'aura laissé de sens plus guère ?
 
-O ris ! On perd ce qu'on aime et pourtant
+Ô ris ! On perd ce qu'on aime et pourtant
 
 Immortelle, une autre saison sans guerre
 
@@ -42,7 +42,7 @@ N'entend sa plainte au-delà de ses feuilles,
 
 Ne sent son corps au-delà de son tronc.
 
-O ce lieu dit : amours qui ne se cueillent
+Ô ce lieu dit : amours qui ne se cueillent
 
 Imitent verts, et bleu, rose, marron.
 

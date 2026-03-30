@@ -33,7 +33,7 @@ Gris dans vos yeux le temps est mort
 
 Incertain fleuve sans rivage,
 
-O vous ne chercherez l'accord
+Ô vous ne chercherez l'accord
 
 Ressuscité sur le visage,
 

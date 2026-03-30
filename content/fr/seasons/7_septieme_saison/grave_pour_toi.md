@@ -32,7 +32,7 @@ Reviendras-tu chercher cette espérance
 
 Taillée à cœur de l'arbre nuit et jour ?
 
-O le poème est la branche où s'élance
+Ô le poème est la branche où s'élance
 
 Inoublié le seul nom de l'amour !
 

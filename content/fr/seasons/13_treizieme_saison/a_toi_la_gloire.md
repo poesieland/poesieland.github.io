@@ -29,7 +29,7 @@ Grave, et marie à la flûte une aile lente :
 La procession, l'encens pour seul fard.
 
  \
-O berce la vie, âme et chair immortelles !
+Ô berce la vie, âme et chair immortelles !
 
 Insinue en nous la gloire de ton rang !
 

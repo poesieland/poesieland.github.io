@@ -21,7 +21,7 @@ Furtive larme au levant.
  \
 Réchauffe de bras-poèmes
 
-O cœur gelé qui fut tien :
+Ô cœur gelé qui fut tien :
 
 L'onde du ciel le retient
 

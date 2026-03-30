@@ -19,7 +19,7 @@ Cueilli d'une étoile, musique,
 Ris l'autre soleil au levant !
 
  \
-O quand mes mots perdent leurs notes
+Ô quand mes mots perdent leurs notes
 
 Illuminés s'en vont tes pas
 

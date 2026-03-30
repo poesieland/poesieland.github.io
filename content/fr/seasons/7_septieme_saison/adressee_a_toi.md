@@ -32,7 +32,7 @@ Ainsi, pliée, à l'autre rive
 
 T'aurait formé douce chanson,
 
-O de la couleur la plus vive,
+Ô de la couleur la plus vive,
 
 Intime, belle, à l'unisson.
 

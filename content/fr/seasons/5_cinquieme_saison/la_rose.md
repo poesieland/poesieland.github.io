@@ -50,7 +50,7 @@ Et si fanés tes pétales
 
 Rêvent l'amour au coucher
 
-O je suivrai les Vestales
+Ô je suivrai les Vestales
 
 S'il faut loin l'aller chercher.
 

@@ -38,7 +38,7 @@ Défile les contours :
 
 Etoiles en cortège
 
-Régnez avant les jours!
+Régnez avant les jours !
 
  \
 Lune blonde pâlie

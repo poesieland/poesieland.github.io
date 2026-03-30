@@ -13,7 +13,7 @@ Pourquoi chanter les vers ?
 
 Le bonheur d'univers ?
 
-O Muse inassouvie,
+Ô Muse inassouvie,
 
 Viens, éclaire ma vie
 

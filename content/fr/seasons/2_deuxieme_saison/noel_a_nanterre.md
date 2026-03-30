@@ -19,7 +19,7 @@ Dans ce faux paradis, miracle de couleurs,
 Je me perds en brisure au mille flous visages.
 
  \
-Un reflet de soleil, l'éclat d'un regard clair;
+Un reflet de soleil, l'éclat d'un regard clair ;
 
 Une peau toute d'ambre offre son nouveau charme
 

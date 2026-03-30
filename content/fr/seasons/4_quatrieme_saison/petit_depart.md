@@ -36,7 +36,7 @@ Sur mon corps se recueille :
 Brumeuse exhalaison.
 
  \
-O le temps de la vie,
+Ô le temps de la vie,
 
 Le lac rythme un espoir :
 

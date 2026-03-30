@@ -29,7 +29,7 @@ Emporté d'applaudissement.
  \
 Concerts, les foules automates
 
-D'ivresse, bissent en beauté;
+D'ivresse, bissent en beauté ;
 
 Dans le silence répété
 

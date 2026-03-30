@@ -24,7 +24,7 @@ Sans relief, la rue est mon toit.
 
 Trop de flambeaux et je m'affole !
 
-O ta main guère ne console
+Ô ta main guère ne console
 
 Ni ne me donnera de cœur...
 

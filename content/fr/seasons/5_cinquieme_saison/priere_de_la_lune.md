@@ -24,7 +24,7 @@ Intime, car la Lune a cessé de pleurer,
 
 Joue un reflet pâli bercé de sa lumière,
 
-O souhaite la paix sans cesser d'espérer !
+Ô souhaite la paix sans cesser d'espérer !
 
  \
 De sa fille la Terre elle admire le galbe

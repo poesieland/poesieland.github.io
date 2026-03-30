@@ -69,4 +69,4 @@ T'empêchait donc de vivre,
 
 Et pour moi c'est pareil,
 
-Que la paix nous délivre!
+Que la paix nous délivre !

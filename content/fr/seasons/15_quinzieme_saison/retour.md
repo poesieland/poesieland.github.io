@@ -15,7 +15,7 @@ Et ce n'est plus la même ville,
 
 Un souvenir au pas tranquille,
 
-O mon cœur doux, qui te défend
+Ô mon cœur doux, qui te défend
 
  \
 D'aimer ces lieux, nouveau semblable ?

@@ -31,7 +31,7 @@ Travestissant les lieux,
 
 La neige maternelle
 
--O fraîcheur éternelle ! -
+\- Ô fraîcheur éternelle ! -
 
 Tombe du haut des cieux,
 

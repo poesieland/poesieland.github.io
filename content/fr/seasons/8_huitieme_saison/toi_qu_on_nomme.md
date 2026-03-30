@@ -21,7 +21,7 @@ Quitter cet univers en autre paysage ?
  \
 Un jour sur le chemin quand l'ombre disparaît
 
-O tu pourras chanter pour que nul ne l'entende
+Ô tu pourras chanter pour que nul ne l'entende
 
 Notes d'un souvenir dont s'efface le trait,
 

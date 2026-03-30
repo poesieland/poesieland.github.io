@@ -27,4 +27,4 @@ Sous les climats d'amour où chantent les berceaux.
 
 Le thé remplit le cœur de sublime paresse,
 
-Son haleine est légère ainsi qu'une caresse!
+Son haleine est légère ainsi qu'une caresse !

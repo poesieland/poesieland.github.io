@@ -18,7 +18,7 @@ Nouvelles. Si peu de choses...
 
 Pour évoquer se déposent
 
-Rêves en moi. O tu sais
+Rêves en moi. Ô tu sais
 
 En l'écoutant je tissais
 

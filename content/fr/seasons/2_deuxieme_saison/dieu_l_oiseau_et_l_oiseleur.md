@@ -19,7 +19,7 @@ Quand chacun par vivacité
 
 Veut de l'autre devenir maître,
 
-Mais est-il sûr de vraiment l'être?
+Mais est-il sûr de vraiment l'être ?
 
 Bel oiseleur, ne vois-tu pas
 
@@ -55,7 +55,7 @@ Glisse d'amour, reflet d'enfance...
 
 Alors range tous tes cageots,
 
-Laisse les vivre, ils sont si beaux!"
+Laisse les vivre, ils sont si beaux !"
 
 Et l'oiseleur en fit un songe
 

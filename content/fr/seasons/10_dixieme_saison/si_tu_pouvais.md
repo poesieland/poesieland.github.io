@@ -19,7 +19,7 @@ Des mots moins malheureux,
 Si tu pouvais sourire !
 
  \
-O voudrais-tu m'aimer
+Ô voudrais-tu m'aimer
 
 Comme le temps qui passe ?
 

@@ -28,7 +28,7 @@ L'immobile me gagne,
 Ecrasant de pâleur.
 
  \
-O ma saison trop courte,
+Ô ma saison trop courte,
 
 Mon souvenir à vif
 

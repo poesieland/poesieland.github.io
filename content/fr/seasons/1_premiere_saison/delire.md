@@ -10,7 +10,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O fièvre insidieuse, et lente, tu me braves :
+Ô fièvre insidieuse, et lente, tu me braves :
 
 Des chiffres en colonne et nombres enfilés,
 

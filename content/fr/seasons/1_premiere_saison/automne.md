@@ -7,10 +7,10 @@ categories = [ "Automne" ]
 tags = [ "saisons", "1996", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "O pourquoi donc en mai songé-je au sombre automne"
+description = "Ô pourquoi donc en mai songé-je au sombre automne"
 +++
 
-O pourquoi donc en mai songé-je au sombre automne,
+Ô pourquoi donc en mai songé-je au sombre automne,
 
 A la fuite du jour, aux vieux soleils pâlis ?
 

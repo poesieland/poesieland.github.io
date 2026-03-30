@@ -9,7 +9,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O corbeaux, freux, corneilles noires,
+Ô corbeaux, freux, corneilles noires,
 
 Chacun de vos longs cris rouillés
 

@@ -28,7 +28,7 @@ Andante le pays perdu sans qu'on saisisse
 
 Tous les temps du passé, du présent, du futur...
 
-O l'exil a blessé ce souvenir si pur !
+Ô l'exil a blessé ce souvenir si pur !
 
 {{% notice style="primary" %}}
 Acrostiche : Core 'ngrato.

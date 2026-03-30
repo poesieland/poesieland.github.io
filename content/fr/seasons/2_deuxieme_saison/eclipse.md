@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 En fragment souverain, petit morceau de gypse
 
-O toi ma lune ronde au secret merveilleux,
+Ô toi ma lune ronde au secret merveilleux,
 
 Tu cours après ton frère en mirifiques jeux
 

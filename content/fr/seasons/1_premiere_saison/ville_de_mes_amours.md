@@ -35,4 +35,4 @@ Pour oublier l'absence avec peine et lenteur,
 
 Comme tout se confond, les rues et la romance
 
-Je vais te dire adieu, ville d'indifférence!
+Je vais te dire adieu, ville d'indifférence !

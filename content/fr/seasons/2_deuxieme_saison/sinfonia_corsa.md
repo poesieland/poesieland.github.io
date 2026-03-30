@@ -38,6 +38,6 @@ Ce qui reste de paix et subsiste de l'âme.
  \
 Leur cervelle débile aveugle ton regard,
 
-Corse, villes d'amour, mais n'est-il pas trop tard?
+Corse, villes d'amour, mais n'est-il pas trop tard ?
 
-Sauras-tu leur renaître, ô forte et tendre femme?
+Sauras-tu leur renaître, ô forte et tendre femme ?

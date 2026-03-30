@@ -27,7 +27,7 @@ Ne chantera plus
 
 Sur les blessures des exclus.
 
-O quand tu protèges
+Ô quand tu protèges
 
 Un monde né de tes arpèges
 

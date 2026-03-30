@@ -5,7 +5,7 @@ summary = "Décembre 2025"
 +++
 Certains jour sont marqués d'une "pierre blanche" au calendrier.
 
-*En cours de construction.*
+*Page en cours de construction.*
 
 #### 31 octobre : Halloween !
 

@@ -44,7 +44,7 @@ Rassemblent lueurs et sur les yeux ouverts
 
 Rien... Quand tout vacille et puis l'ombre s'installe...
 
-O Marie, arrose un désir, nos déserts !
+Ô Marie, arrose un désir, nos déserts !
 
 {{% notice style="primary" %}}
 D'après une chanson presque homonyme. En portugais : "Ave Maria no morro" signifie "Ave Maria sur la colline" tandis qu'en italien "Ave Maria non morrò" signifie "Ave Maria je ne mourrai pas".

@@ -23,7 +23,7 @@ Si pour vivre un espoir vieux,
 
 Dansant berce tes paupières,
 
-O nuages de tes yeux
+Ô nuages de tes yeux
 
 Nus d'un excès de lumière !
 
@@ -34,7 +34,7 @@ Et ce n'était qu'une image :
 
 Ton bonheur mien désormais,
 
-O clarté de ton visage !
+Ô clarté de ton visage !
 
  \
 Noce des cœurs entr'ouverts

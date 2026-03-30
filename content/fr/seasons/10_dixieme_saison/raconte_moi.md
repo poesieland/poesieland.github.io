@@ -16,7 +16,7 @@ Apprends-moi la vie où l'ombre et la lumière
 
 Caressent le chant d'angélique douceur...
 
-O le midi mêle un éclat : le bonheur
+Ô le midi mêle un éclat : le bonheur
 
 Nouveau, ton pays s'approche de mes lèvres...
 

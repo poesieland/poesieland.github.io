@@ -42,4 +42,4 @@ En valse d'harmonie
 
 Nous ouvre un humble jour,
 
-O ma bien noble amie.
+Ô ma bien noble amie.

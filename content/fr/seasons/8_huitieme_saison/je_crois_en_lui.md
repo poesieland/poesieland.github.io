@@ -19,7 +19,7 @@ Chercher l'amour comme un présage
 Rêvé, ce jour-là se vivra !
 
  \
-O tous les océans du monde
+Ô tous les océans du monde
 
 Irradieront pâles reflets
 

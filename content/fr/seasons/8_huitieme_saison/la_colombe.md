@@ -21,7 +21,7 @@ Offre un monde enfantin.
  \
 Légère, elle est sensible,
 
-O d'un frisson si doux,
+Ô d'un frisson si doux,
 
 Menant d'aile paisible
 

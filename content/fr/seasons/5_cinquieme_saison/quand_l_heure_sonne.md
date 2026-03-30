@@ -37,7 +37,7 @@ Elle s'arrête... et dans mon cœur j'entends
 Sourire, amie, éternelles ivresses !
 
  \
-O l'heure passe et ce sera demain;
+Ô l'heure passe et ce sera demain;
 
 Naîtrons-nous donc encor à la lumière ?
 

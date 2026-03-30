@@ -19,7 +19,7 @@ Une ombre folle a cru bonheur
 Troublé : j'aborde d'autres rives.
 
  \
-O tonne silence profond
+Ô tonne silence profond
 
 Mis en musique aux pas du songe !
 
@@ -37,7 +37,7 @@ Naissant : s'envole le cerceau
 Cassé d'un astre qui s'efface.
 
  \
-O ton erreur, saison, ne fut
+Ô ton erreur, saison, ne fut
 
 Ecoutée en couleurs, manège,
 

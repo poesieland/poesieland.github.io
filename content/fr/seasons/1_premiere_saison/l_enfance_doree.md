@@ -23,9 +23,9 @@ Les bois d'un si beau vert me semblaient éloignés :
 
 Un instant trop lointain déjà lentement glisse,
 
-Ah ! Cette odeur de mousse et ces fûts alignés;
+Ah ! Cette odeur de mousse et ces fûts alignés ;
 
-Pourquoi ce souvenir ? Faut-il qu'il ressurgisse?
+Pourquoi ce souvenir ? Faut-il qu'il ressurgisse ?
 
  \
 Ils resteront gravés, tous ces rires ténus :

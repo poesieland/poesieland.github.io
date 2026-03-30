@@ -19,7 +19,7 @@ Renaît sur l'onde dans le soir
 Le naufragé sans port ni voile.
 
  \
-O sans quêter l'oubli, pardon
+Ô sans quêter l'oubli, pardon
 
 Comme la brise du rivage
 

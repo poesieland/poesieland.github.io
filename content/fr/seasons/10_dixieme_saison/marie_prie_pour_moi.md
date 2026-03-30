@@ -41,7 +41,7 @@ Ravis mon espérance en l'éclat de ton voile,
 
 Mystère de ton cœur, secrète Vérité,
 
-O la vie en ton sein révélée à l'étoile
+Ô la vie en ton sein révélée à l'étoile
 
 Irradie en amour, en subtile bonté !
 

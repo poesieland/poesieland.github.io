@@ -18,7 +18,7 @@ Qui confondait le son, l'image
 Mais rien ne te fait revenir.
 
  \
-O tendre ami, quelle bravade
+Ô tendre ami, quelle bravade
 
 A séparé mes bras des tiens ?
 

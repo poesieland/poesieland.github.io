@@ -32,7 +32,7 @@ Avait trompé, mauvais apôtre,
 
 Mais je n'avais su résister !
 
-O seul l'espoir a pu rester
+Ô seul l'espoir a pu rester
 
 Un grand désir où se confondent
 

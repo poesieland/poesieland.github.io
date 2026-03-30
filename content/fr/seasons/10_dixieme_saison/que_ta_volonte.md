@@ -23,7 +23,7 @@ A la saison se marie
 
 Vertige d'un ciel serein,
 
-O rêver comme s'écrie
+Ô rêver comme s'écrie
 
 L'imaginaire refrain...
 

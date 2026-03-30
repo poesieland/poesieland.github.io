@@ -15,7 +15,7 @@ Sur portées de feuillage gris
 
 Comme un point d'orgue ou ronde franche
 
-Mets la musique dans nos nuits!
+Mets la musique dans nos nuits !
 
  \
 Lune tendre, presque fœtale

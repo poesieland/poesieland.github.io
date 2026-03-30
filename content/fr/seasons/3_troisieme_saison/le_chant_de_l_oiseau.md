@@ -18,7 +18,7 @@ Le ramier lui répond qu'il a pareille envie
 De conquérir les cœurs, perché sur un nichoir.
 
  \
-"O belle viendras-tu ?" dit chaque roucoulade.
+"Ô belle viendras-tu ?" dit chaque roucoulade.
 
 "Regarde le soleil, il est temps de s'aimer.
 

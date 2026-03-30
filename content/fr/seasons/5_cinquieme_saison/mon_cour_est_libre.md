@@ -20,7 +20,7 @@ Ne te plaît-il, ce cœur rebelle ?
 Comme il a su tôt te charmer !
 
  \
-O mon cœur tendre se passionne;
+Ô mon cœur tendre se passionne;
 
 Et l'espérance de l'amour,
 

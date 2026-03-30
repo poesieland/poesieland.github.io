@@ -15,12 +15,12 @@ De voir de l'ennemi le corps tout pantelant
 
 Qui balance au gibet, ultime assaut de guerre,
 
-Avec mille senteurs imprégnant tout le champ;
+Avec mille senteurs imprégnant tout le champ ;
 
  \
 Où se livra tantôt toute une stratégie,
 
-S'abattirent bien plus que cent glaives levés;
+S'abattirent bien plus que cent glaives levés ;
 
 Réduit au blanc linceul taché par de la vie,
 
@@ -29,7 +29,7 @@ Une étendue fantôme aux drapeaux enlevés.
  \
 Par delà les grands monts gravés d'anciennes runes
 
-S'est éteinte clameur issue du vil combat;
+S'est éteinte clameur issue du vil combat ;
 
 Touchant le bord de mer en plainte dans les dunes,
 

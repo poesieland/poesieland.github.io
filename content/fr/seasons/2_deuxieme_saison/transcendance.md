@@ -29,7 +29,7 @@ Eblouit d'ouverture un humble enfant des Dieux.
  \
 Par quel miracle, objet, l'oubli des temps modernes
 
-Nous ravit, nous révèle en appelant l'espoir?
+Nous ravit, nous révèle en appelant l'espoir ?
 
 Ta contemplation mène aux sources internes
 

@@ -18,7 +18,7 @@ De leurs longs cris familiers
 C'est leurs départs qui se prolongent.
 
  \
-O saltimbanques de l'espoir,
+Ô saltimbanques de l'espoir,
 
 Amis ! Adieu d'un seul coup d'aile...
 

@@ -24,7 +24,7 @@ Incapable d'éteindre une flamme volage,
 
 Quand elle passe on dit que c'est un beau mirage,
 
-O belle, pourquoi donc vis-tu dans les romans ?
+Ô belle, pourquoi donc vis-tu dans les romans ?
 
  \
 Peut-être que ton âme encor se croit trop frêle

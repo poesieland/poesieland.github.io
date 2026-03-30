@@ -3,10 +3,11 @@ title = "Décrépitudes"
 id = "decrepitudes_1"
 date = 1994-01-01
 weight = 45
-categories = ["Révolte", "Angoisse"]
-tags = ["philosophie", "1994", "alexandrin", "la mort"]
+categories = [ "Révolte", "Angoisse" ]
+tags = [ "1994", "alexandrin", "la mort", "philosophie", "citation" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Alea jacta est"
 +++
 
 Même si l'on voulut que n'adviennent ces faits,
@@ -24,7 +25,7 @@ Mais la reddition, sans appel et dernière,
 
 Nécrosera les corps, en d'autres eaux lavés.
 
-Alea jacta est, la règle est séculaire.
+*Alea jacta est*, la règle est séculaire.
 
  \
 Bientôt le vain espoir au seuil de l'avenir

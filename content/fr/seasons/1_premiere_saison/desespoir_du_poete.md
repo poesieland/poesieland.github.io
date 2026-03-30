@@ -9,7 +9,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O malheureux poète, ô cœur infortuné
+Ô malheureux poète, ô cœur infortuné
 
 Quand te fuit ta compagne en fière rebuffade,
 

@@ -27,7 +27,7 @@ Mais cette matière est fragile
 A vouloir l'embrasser toujours.
 
  \
-O tendre bouche si gourmande,
+Ô tendre bouche si gourmande,
 
 Quels mots te font donc frissonner ?
 

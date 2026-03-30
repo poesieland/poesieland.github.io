@@ -41,14 +41,14 @@ Tu souriais tout simplement,
 
 Une tendresse qui désarme,
 
-O ce jour-là je sus vraiment
+Ô ce jour-là je sus vraiment
 
 Comprendre la force du charme.
 
  \
 Un souvenir d'avant-printemps,
 
-O grâce à toi je me délivre,
+Ô grâce à toi je me délivre,
 
 Rêver encor quelques instants
 

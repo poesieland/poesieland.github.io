@@ -18,7 +18,7 @@ Mais dusses-tu les déchirer,
 
 Ecraser afin de maudire
 
-O ce que tu peux désirer !
+Ô ce que tu peux désirer !
 
  \
 Car sous la lune d'obsidienne

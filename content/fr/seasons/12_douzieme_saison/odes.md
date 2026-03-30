@@ -10,7 +10,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O je repense encore à ce soir : la nuit noire
+Ô je repense encore à ce soir : la nuit noire
 
 Dessinait sous la lune aux étranges pianos...
 

@@ -32,7 +32,7 @@ Tu berçais d'un trémolo
 
 Ma musique déchirée;
 
-O la tombe désirée
+Ô la tombe désirée
 
 Refleurissait d'un oubli :
 

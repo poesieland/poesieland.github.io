@@ -18,13 +18,13 @@ Tu te mépris pourtant sur leurs sombres présages
 Troublant tes actions puis tout pur sentiment.
 
  \
-Ton cœur, hélas! flétrit, sans plus aucune place
+Ton cœur, hélas ! flétrit, sans plus aucune place
 
-Pour tout un collectif, bout de société;
+Pour tout un collectif, bout de société ;
 
 Mais regretteras-tu qu'avant d'être de glace
 
-Tu t'isolas tout seul, empli de vanité?
+Tu t'isolas tout seul, empli de vanité ?
 
  \
 Voulant toujours avoir une vie personnelle,

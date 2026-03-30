@@ -40,7 +40,7 @@ A toi je serai toute, étreinte sur ton torse,
  \
 Ma vie est une maille à ton corset d'acier,
 
-O cavalier serein, l'amour pour tout bagage
+Ô cavalier serein, l'amour pour tout bagage
 
 Rassemble l'avenir, et pour te remercier,
 

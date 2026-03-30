@@ -38,7 +38,7 @@ Nu, quand l'oiseau de mer hurle au vent dominant :
 
 "Ne partez pas au loin sur l'océan farouche
 
-O marins, sans prier ! Que le salut vous touche !".
+Ô marins, sans prier ! Que le salut vous touche !".
 
 {{% notice style="primary" %}}
 "Croix d'automne" en italien. Le premier paragraphe dont l'acrostiche est "croix" décrit l'automne et inversement.

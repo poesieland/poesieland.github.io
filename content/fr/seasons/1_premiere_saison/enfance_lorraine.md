@@ -10,7 +10,7 @@ locations = ["Lorraine"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-O forêt mon amour, tes arbres mes châteaux
+Ô forêt mon amour, tes arbres mes châteaux
 
 Abritèrent les jeux d'une jeune innocente,
 

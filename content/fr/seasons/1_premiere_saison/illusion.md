@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 L'ennui ronge nos âmes,
 
-Défigure les femmes;
+Défigure les femmes ;
 
 C'est un poison mortel
 

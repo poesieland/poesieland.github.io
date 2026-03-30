@@ -29,7 +29,7 @@ Le savoure : être là, le présent, ce chemin
 
 Scintillant sous la neige, une page à écrire...
 
-O mon si bel ami, si tu veux tout me dire,
+Ô mon si bel ami, si tu veux tout me dire,
 
 Figurer l'immortel, partager le destin...
 

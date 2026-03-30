@@ -37,7 +37,7 @@ Ne chante l'essentiel,
 Car se tromper c'est vivre.
 
  \
-O la nuit offre au cœur
+Ô la nuit offre au cœur
 
 Esseulé son refuge;
 

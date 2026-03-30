@@ -33,6 +33,6 @@ Et par-delà l'absence et l'océan d'abîme
 
 Je cultive l'espoir en ma douleur intime
 
-Car je te reverrai... du cœur ou des regards?
+Car je te reverrai... du cœur ou des regards ?
 
 Parce que cette nuit sans dire un mot je pars.
