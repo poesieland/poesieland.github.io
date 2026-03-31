@@ -29,7 +29,7 @@ En pétales de fleurs.
  \
 Et sa voix qui résonne
 
-Trace le pas léger;
+Trace le pas léger ;
 
 Son cœur qui se questionne,
 
@@ -47,7 +47,7 @@ Et ses mots hésitants.
  \
 Elle saura que vivre
 
-C'est de plus en plus fort;
+C'est de plus en plus fort ;
 
 Bohémienne, comme ivre :
 

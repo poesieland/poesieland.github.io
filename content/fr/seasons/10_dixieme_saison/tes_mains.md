@@ -16,7 +16,7 @@ Esquissent le souffle des choses.
 
 Sauront-elles redessiner,
 
-Mains sculptures, m'imaginer?
+Mains sculptures, m'imaginer ?
 
 Alors le mystère colore,
 

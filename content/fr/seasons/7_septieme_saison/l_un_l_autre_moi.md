@@ -14,7 +14,7 @@ L'un, l'autre, moi,
 
 Un mot d'émoi
 
-Naît en musique;
+Naît en musique ;
 
  \
 L'aube mystique

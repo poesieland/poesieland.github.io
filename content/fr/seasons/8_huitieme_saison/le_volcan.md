@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Le volcan sous la lune endormi comme étoile
 
-Epelle l'univers sur son flanc murmurant:
+Epelle l'univers sur son flanc murmurant :
 
 Vivre c'est comme aimer, ce qui détruit dévoile
 

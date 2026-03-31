@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Elle a rejoint le Créateur,
 
-Libre à présent d'un ciel menteur;
+Libre à présent d'un ciel menteur ;
 
 Laissez son âme tendre et belle
 

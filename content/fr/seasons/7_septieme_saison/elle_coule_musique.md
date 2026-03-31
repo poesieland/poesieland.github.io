@@ -3,8 +3,8 @@ title = "Elle coule, musique"
 id = "elle_coule_musique_7"
 date = 1998-07-02
 weight = 46
-categories = ["Révolte"]
-tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
+categories = [ "Angoisse" ]
+tags = [ "philosophie", "1998", "acrostiche", "octosyllabe" ]
 acrostiche = "Elle coule, musique"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Elle coule sur mon visage
 
-La douce musique de nuit;
+La douce musique de nuit ;
 
 L'a-t-elle vue, au moins, l'image
 
@@ -30,7 +30,7 @@ Luit lune pâle lumignon.
  \
 Elle est le cri d'âme damnée
 
-Mise au tombeau qui vibre encor;
+Mise au tombeau qui vibre encor ;
 
 Un fol reflet d'ombre fanée
 

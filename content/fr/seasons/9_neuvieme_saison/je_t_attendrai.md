@@ -10,11 +10,11 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Je n'attends qu'un regard; un non-dit plus suave
+Je n'attends qu'un regard ; un non-dit plus suave
 
 Envole un songe ancien quand frémissait l'oiseau
 
-Troublant l'aube du monde et le chant d'un roseau;
+Troublant l'aube du monde et le chant d'un roseau ;
 
 Auras-tu cet espoir qui rend le cœur plus brave ?
 

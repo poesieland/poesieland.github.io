@@ -13,7 +13,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 La neige est froide, et ses cristaux déposent
 
-A l'orée ombre et reflets de pâleur;
+A l'orée ombre et reflets de pâleur ;
 
 Naissent dessins d'une étrange couleur
 
@@ -24,7 +24,7 @@ Il reste un cœur qu'on sent battre sans pause,
 
 Grisé, semblable au pétale de fleur
 
-Encor vivace échappé d'un bonheur;
+Encor vivace échappé d'un bonheur ;
 
 Don de l'hiver sur le cercueil de rose.
 

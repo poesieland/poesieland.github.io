@@ -21,7 +21,7 @@ Eternité, tombeau floral.
  \
 Vers le silencieux murmure
 
-Eveiller le regard du Temps;
+Eveiller le regard du Temps ;
 
 A l'étoffe d'un vert printemps
 

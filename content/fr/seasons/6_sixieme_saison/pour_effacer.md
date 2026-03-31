@@ -38,7 +38,7 @@ A l'aube du printemps.
  \
 L'amour qui se répète
 
-Nous livre à l'univers;
+Nous livre à l'univers ;
 
 Et d'un rire, à travers,
 

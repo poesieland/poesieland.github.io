@@ -32,7 +32,7 @@ Devrais-je dire des mots doux
 
 Inspirés d'une âme berceuse :
 
-Ravis mon cœur; pour être heureuse
+Ravis mon cœur ; pour être heureuse
 
 En le tien je veux lire : nous ?
 

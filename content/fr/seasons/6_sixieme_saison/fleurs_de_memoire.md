@@ -40,7 +40,7 @@ Pour refleurir notre bonheur :
 
 Cache d'un geste trop de peine;
 
-Au fond du tien vibre mon cœur!
+Au fond du tien vibre mon cœur !
 
  \
 D'un souvenir lointain tu berces

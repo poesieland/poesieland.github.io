@@ -22,7 +22,7 @@ Naît, meurt, renaît ce sentiment.
 
 Car elle seule ne ment,
 
-Ô Muse ! ... Noie en ton silence
+Ô Muse !... Noie en ton silence
 
 Le chagrin étiolé d'absence,
 

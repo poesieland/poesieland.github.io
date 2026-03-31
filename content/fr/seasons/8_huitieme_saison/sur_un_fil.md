@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Sur un fil un funambule,
 
-Une ombre passe; chacun
+Une ombre passe ; chacun
 
 Rêve, pleure, gèle, brûle...
 

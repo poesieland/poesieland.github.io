@@ -20,7 +20,7 @@ Rire au cœur innocent :
 
 Intimité berceuse
 
-En aube nue, heureuse;
+En aube nue, heureuse ;
 
 Ravie avant la nuit
 

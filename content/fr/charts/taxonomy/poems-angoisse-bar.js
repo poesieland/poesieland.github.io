@@ -7,7 +7,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Rêves (4) 1997', value: 1, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Espaces de vie (5) 1997-98', value: 1, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Sur le chemin (6) 1998', value: 0, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'Croire (7) 1998', value: 4, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'Croire (7) 1998', value: 5, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Reflets perdus (8) 1998', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Souffles (9) 1998', value: 3, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Pensées (10) 1998-99', value: 1, color: 'rgba(38, 9, 78, 0.5)' },

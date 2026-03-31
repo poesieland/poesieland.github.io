@@ -29,7 +29,7 @@ Son sourire, berceau, t'acquit.
  \
 De l'enfance tout son mystère
 
-Au gré des jours tu découvrais;
+Au gré des jours tu découvrais ;
 
 Uniques sentiments si vrais,
 
@@ -38,7 +38,7 @@ Tous ces bonheurs gravés, poussière...
  \
 Ô comme l'ombre se souvient,
 
-Mélodieux nouveau message;
+Mélodieux nouveau message ;
 
 Né pour aimer, chante l'image
 

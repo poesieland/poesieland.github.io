@@ -23,7 +23,7 @@ Et je ne trouve pas son clair disque d'opale,
 
 Liseuse au rêve fou du jour et de la nuit,
 
-Nocturne ambassadrice, alors que Dieu s'enfuit;
+Nocturne ambassadrice, alors que Dieu s'enfuit ;
 
 Eternelle en prière, immortelle vestale.
 
@@ -46,7 +46,7 @@ Nue, un instant semblable au voile de piété,
 Ivresse ou s'affranchit l'ombre d'une odalisque.
 
  \
-Gris, le ciel, ou bien bleu, je ne sais plus vraiment;
+Gris, le ciel, ou bien bleu, je ne sais plus vraiment ;
 
 Raconterai-je un songe où la lune s'envole ?
 

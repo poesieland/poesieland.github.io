@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Dans ton cœur tendre, embrasse, étreins le mien
 
-Amoureux doux de ta folle bohème;
+Amoureux doux de ta folle bohème ;
 
 Ne l'entends-tu ? Le souffle du poème
 

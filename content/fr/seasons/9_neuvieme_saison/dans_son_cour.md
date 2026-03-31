@@ -30,7 +30,7 @@ Cacher ce qu'on voudrait rieur.
  \
 Osera t'on dire l'espace,
 
-Embrasser le songe immortel?
+Embrasser le songe immortel ?
 
 Uni dans l'infini pastel
 

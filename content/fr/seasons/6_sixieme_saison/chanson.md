@@ -29,7 +29,7 @@ Tes lèvres comme farandoles...
  \
 La musique forme parfum :
 
-Tu ne peux pas d'un coup te taire;
+Tu ne peux pas d'un coup te taire ;
 
 Dans ton talent tu sus me plaire,
 

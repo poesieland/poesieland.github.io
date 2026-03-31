@@ -3,8 +3,14 @@ title = "La mer : feu"
 id = "la_mer_feu_10"
 date = 1999-03-04
 weight = 35
-categories = ["Mer"]
-tags = ["nature", "1999", "acrostiche", "octosyllabe"]
+categories = [ "Mer", "Crépuscule" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "nature",
+  "octosyllabe",
+  "ombres et lumières"
+]
 acrostiche = "La mer : feu"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

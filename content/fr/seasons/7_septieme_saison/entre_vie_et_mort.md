@@ -30,7 +30,7 @@ Eternel d'un fol solo
 
 Tu berçais d'un trémolo
 
-Ma musique déchirée;
+Ma musique déchirée ;
 
 Ô la tombe désirée
 

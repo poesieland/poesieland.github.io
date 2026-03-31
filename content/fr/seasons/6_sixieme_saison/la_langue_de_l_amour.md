@@ -39,7 +39,7 @@ Aux gérondifs à la sanguine.
  \
 Malgré cela tout imparfait
 
-Offense l'âme pour attendre;
+Offense l'âme pour attendre ;
 
 Une trame qui se défait :
 

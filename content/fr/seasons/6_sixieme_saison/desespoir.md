@@ -22,7 +22,7 @@ De ton silence endort une faiblesse
 
 Ou forge-la, poésie, écrits vains
 
-Quand se côtoie absurde ou bien sagesse;
+Quand se côtoie absurde ou bien sagesse ;
 
 Ode à la vie, espoirs qu'on veut devins...
 

@@ -39,7 +39,7 @@ Ces mots qui nous rapprochent.
  \
 On m'a cousu le cœur,
 
-Enfin je me délivre;
+Enfin je me délivre ;
 
 Un murmure de vivre
 

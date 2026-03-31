@@ -30,7 +30,7 @@ Chaque jour ta gloire à chaque heure !
  \
 Omniscience de la foi
 
-Et le songe d'un monastère:
+Et le songe d'un monastère :
 
 Un cœur d'homme dit là qu'il croit
 

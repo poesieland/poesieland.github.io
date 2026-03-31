@@ -21,7 +21,7 @@ En chœur qu'elle a voulu charmer.
  \
 A l'aube elle effeuille une rose
 
-Cachée en sa vive splendeur:
+Cachée en sa vive splendeur :
 
 Ronde sa joue à la couleur
 

@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Copier l'ancien bonheur au papier-catafalque,
 
-Offrande au cimetière en noir et blanc, au calque;
+Offrande au cimetière en noir et blanc, au calque ;
 
 Perdre l'ombre des mots bercés d'un ostensoir,
 

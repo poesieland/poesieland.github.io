@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 J'ai perdu ton image
 
-Au-delà du miroir;
+Au-delà du miroir ;
 
 Insensible le soir
 

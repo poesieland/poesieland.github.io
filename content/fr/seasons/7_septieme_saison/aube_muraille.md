@@ -19,7 +19,7 @@ Berce canaille
 Encre de feu.
 
  \
-Mes pas se taisent;
+Mes pas se taisent ;
 
 Ultime cœur
 

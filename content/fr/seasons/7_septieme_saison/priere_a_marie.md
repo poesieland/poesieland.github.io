@@ -22,9 +22,9 @@ Réécrire, Marie, où se brise la page...
 
 Elle est sensible, douce, et j'y vois ton visage
 
-Admirable, éternel; compassion, douceur.
+Admirable, éternel ; compassion, douceur.
 
-Marie, ô tu comprends la joie et la douleur;
+Marie, ô tu comprends la joie et la douleur ;
 
 Apaisement divin, quelques phrases, un signe
 

@@ -3,8 +3,8 @@ title = "Dans l'aurore"
 id = "dans_l_aurore_7"
 date = 1998-06-20
 weight = 39
-categories = ["Etre"]
-tags = ["philosophie", "1998", "hexasyllabe"]
+categories = [ "Etre" ]
+tags = [ "1998", "hexasyllabe", "philosophie", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

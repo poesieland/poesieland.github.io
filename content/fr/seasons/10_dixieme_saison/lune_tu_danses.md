@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Légère, tu danses,
 
-Un ciel doux, serein;
+Un ciel doux, serein ;
 
 Née en son refrain,
 

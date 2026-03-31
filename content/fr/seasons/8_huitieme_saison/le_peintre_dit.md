@@ -30,7 +30,7 @@ Ricochent sans trouver naissances...
  \
 Elles s'égrènent, ces saisons
 
-Douces; Poète, ton suicide
+Douces ; Poète, ton suicide
 
 Irradie, offre aux horizons
 

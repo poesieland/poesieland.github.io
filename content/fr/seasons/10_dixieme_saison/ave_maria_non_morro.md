@@ -3,8 +3,14 @@ title = "Ave Maria non morrò"
 id = "ave_maria_non_morro_10"
 date = 1999-03-04
 weight = 6
-categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche", "hendécasyllabe"]
+categories = [ "Foi" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "hendécasyllabe",
+  "philosophie",
+  "l'air ou la chanson"
+]
 info = "D'après une chanson presque homonyme. En portugais : \"Ave Maria no morro\" signifie \"Ave Maria sur la colline\" tandis qu'en italien \"Ave Maria non morrò\" signifie \"Ave Maria je ne mourrai pas\"."
 acrostiche = "Ave Maria non morro"
 verseLength = 11

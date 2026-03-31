@@ -22,7 +22,7 @@ Audace de sentir un cœur,
 
 Papier qui bat tout son bonheur
 
-Instantané; clic-clac, en boîte !
+Instantané ; clic-clac, en boîte !
 
 Et la lune aussi resta coite.
 

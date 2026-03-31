@@ -30,7 +30,7 @@ L'imaginaire refrain...
  \
 Opale couleur de lune
 
-Naît l'amour dans sa bonté;
+Naît l'amour dans sa bonté ;
 
 Tiens nos mains que la Fortune
 

@@ -30,7 +30,7 @@ Absente la nuée encore...
  \
 Mes fenêtres sont des miroirs
 
-Au nocturne subtil silence;
+Au nocturne subtil silence ;
 
 Immolée, une lune danse
 

@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 La nuit se lève, embrasse et serre
 
-Au soir sur le sein de la Terre;
+Au soir sur le sein de la Terre ;
 
 Noie un regret dans un reflet,
 

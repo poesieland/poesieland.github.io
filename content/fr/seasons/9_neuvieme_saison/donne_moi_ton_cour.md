@@ -39,7 +39,7 @@ Croisent le ciel bohème...
  \
 Oser croire et partir
 
-En l'océan-silence;
+En l'océan-silence ;
 
 Un songe peut mourir,
 

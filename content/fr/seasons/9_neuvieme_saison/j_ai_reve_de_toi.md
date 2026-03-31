@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 J'ai rêvé sans comprendre,
 
-Aimé sans recevoir;
+Aimé sans recevoir ;
 
 Ivresse : chaque soir
 

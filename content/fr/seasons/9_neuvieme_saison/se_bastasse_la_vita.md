@@ -8,15 +8,17 @@ tags = [
   "1998",
   "acrostiche",
   "attitudes",
+  "l'air ou la chanson",
   "octosyllabe",
   "philosophie",
   "refrain",
-  "l'air ou la chanson"
+  "citation"
 ]
 info = '"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.'
 acrostiche = "Se bastasse la vita"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "S'il suffisait d'aimer"
 +++
 
 S'il suffisait d'une chanson,

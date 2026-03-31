@@ -28,7 +28,7 @@ Offert au creux d'âme bohème :
 Y vois-tu, le soir bercera
 
  \
-A l'abri de ton heaume images;
+A l'abri de ton heaume images ;
 
 Gai chevalier fais-toi conteur
 

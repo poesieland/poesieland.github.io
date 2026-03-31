@@ -14,7 +14,7 @@ Jeter l'ancre de ton départ
 
 Et les ébauches sur le tard,
 
-Ternes miroirs; on ne sait dire
+Ternes miroirs ; on ne sait dire
 
 Entre grimace et fol sourire,
 

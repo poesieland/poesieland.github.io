@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Sur les routes désertes,
 
-"Ohé ! " chante l'hiver,
+"Ohé !" chante l'hiver,
 
 Les lèvres entrouvertes,
 

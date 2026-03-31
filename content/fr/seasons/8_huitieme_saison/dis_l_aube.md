@@ -37,7 +37,7 @@ Comme des mâts d'étoiles
 Ravissent leurs démons,
 
  \
-Etreinte chaste; l'ombre
+Etreinte chaste ; l'ombre
 
 Paraît vieillir soudain,
 

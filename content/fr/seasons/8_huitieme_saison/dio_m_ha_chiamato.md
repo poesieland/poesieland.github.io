@@ -21,7 +21,7 @@ Midi résonne, les chœurs
 
 Hantent légers de musique
 
-A l'âme ivre, basilique!
+A l'âme ivre, basilique !
 
 Croire et renaître aux vitraux
 

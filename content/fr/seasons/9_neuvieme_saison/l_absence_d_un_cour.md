@@ -39,7 +39,7 @@ Car se tromper c'est vivre.
  \
 Ô la nuit offre au cœur
 
-Esseulé son refuge;
+Esseulé son refuge ;
 
 Un mot t'attend, vainqueur,
 

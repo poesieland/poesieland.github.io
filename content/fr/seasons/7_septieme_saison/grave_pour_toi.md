@@ -21,7 +21,7 @@ Volaient le ciel, l'ombre d'un cœur plus vrai.
  \
 Eternité, le souffle sous la plume
 
-Parle d'une âme où grandit souvenir;
+Parle d'une âme où grandit souvenir ;
 
 Oser sourire à la fleur que l'on hume,
 

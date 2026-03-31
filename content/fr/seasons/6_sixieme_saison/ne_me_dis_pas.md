@@ -26,7 +26,7 @@ Sous ta main douce apaise donc la fièvre
 
 Pour effleurer le papier sous ta lèvre :
 
-Ardents ton souffle et les mots écrivains;
+Ardents ton souffle et les mots écrivains ;
 
 Surtout ne dis l'âme que tu retiens.
 

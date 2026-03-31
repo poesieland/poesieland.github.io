@@ -28,7 +28,7 @@ Berce un pétale au ton mystique !
 
 On dirait que ta majesté
 
-N'attendait que ce fol été;
+N'attendait que ce fol été ;
 
 Heureuses amours d'une étreinte.
 

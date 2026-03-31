@@ -21,7 +21,7 @@ Ocre, vert, un ciel s'enlève.
  \
 Rire : où suis-je en ce bonheur ?
 
-Des parfums chassent la lumière;
+Des parfums chassent la lumière ;
 
 Du lac, divine profondeur
 

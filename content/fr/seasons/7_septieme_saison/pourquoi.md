@@ -23,7 +23,7 @@ Que dois-je penser d'une larme,
 
 Unique reflet d'un souci ?
 
-Ô la vie est dure en son charme;
+Ô la vie est dure en son charme ;
 
 Il reste à lui dire : merci.
 

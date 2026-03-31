@@ -15,7 +15,7 @@ Comme des ailes blanches
 
 Tombent en avalanches
 
-Aux faces de poupons;
+Aux faces de poupons ;
 
  \
 Masquant le paysage
