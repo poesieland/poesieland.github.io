@@ -25,7 +25,7 @@ Quand la forêt s'habille en préparant le deuil
 
 Du bel été défunt, alors que là-bas bouge
 
-Une ombre lunatique... Ah! Ce n'est qu'un chevreuil,
+Une ombre lunatique... Ah ! Ce n'est qu'un chevreuil,
 
  \
 Car dans les fourrés noirs de fantômes les rondes

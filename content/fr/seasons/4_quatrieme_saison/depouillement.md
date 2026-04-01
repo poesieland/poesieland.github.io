@@ -29,7 +29,7 @@ Neuve luminescence.
  \
 Pour renaître à nouveau
 
-Chasser toute matière;
+Chasser toute matière ;
 
 Dans un calme dévot,
 

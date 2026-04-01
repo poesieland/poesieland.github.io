@@ -46,7 +46,7 @@ Qui dans son air débile approche la démence,
 Et la brume de l'âme envahit l'univers,
 
  \
-Pourchasse mon refus en fol lion de Norvège;
+Pourchasse mon refus en fol lion de Norvège ;
 
 Puis l'Infernale obscure enfin me désagrège,
 

@@ -20,7 +20,7 @@ Les frissons doux de nos bonheurs.
  \
 Sous la frange de tes paupières
 
-Dissimulons notre trésor;
+Dissimulons notre trésor ;
 
 D'un chant qui virevolte encor
 

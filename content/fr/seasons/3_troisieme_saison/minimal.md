@@ -29,7 +29,7 @@ De la vue.
  \
 Souvenir,
 
-Vieille histoire;
+Vieille histoire ;
 
 Revenir :
 

@@ -39,7 +39,7 @@ Envoûtante atmosphère !
  \
 Dis-moi seuls quelques mots :
 
-Image tendre, intime;
+Image tendre, intime ;
 
 Rends le joyau sublime
 
