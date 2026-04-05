@@ -4,8 +4,13 @@ id = "l_ordre_des_choses_20"
 date = 2024-06-04
 weight = 26
 categories = [ "Temps" ]
-tags = [ "philosophie", "2024", "hexasyllabe" ]
-info = '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
+tags = [
+  "2024",
+  "hexasyllabe",
+  "philosophie",
+  "il se pourrait qu'il pleuve"
+]
+info = ""
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -44,7 +49,3 @@ Passé, présent... turfu ?
 Les beaux jours se déposent
 
 Sublimés, à l'affût.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-{{% /notice %}}

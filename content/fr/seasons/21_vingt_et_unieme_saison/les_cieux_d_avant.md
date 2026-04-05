@@ -3,10 +3,15 @@ title = "Les cieux d'avant"
 id = "les_cieux_d_avant_21"
 date = 2024-07-08
 weight = 12
-categories = ["Ciel", "Climat", "Temps"]
-tags = ["nature", "philosophie", "2024", "hexasyllabe"]
-info = '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
-
+categories = [ "Ciel", "Climat", "Temps" ]
+tags = [
+  "2024",
+  "hexasyllabe",
+  "nature",
+  "philosophie",
+  "il se pourrait qu'il pleuve"
+]
+info = ""
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -46,6 +51,3 @@ Ce temps, main dans la mienne,
 
 Rêveurs, aux cieux d'avant.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-{{% /notice %}}

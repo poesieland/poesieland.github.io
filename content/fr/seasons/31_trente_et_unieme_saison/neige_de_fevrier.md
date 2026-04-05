@@ -9,12 +9,13 @@ categories:
     - Neige
 tags:
     - "2026"
+    - février
+    - hexasyllabe
     - les mois
     - nature
-    - hexasyllabe
-    - février
+    - il se pourrait qu'il pleuve
 location: []
-info: '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
+info: ""
 description: Neige de février
 pictures: []
 poemType: ""
@@ -56,7 +57,3 @@ C'est si beau ! S'écrier
 Lorsque frappe à la porte
 
 Neige de février.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-{{% /notice %}}

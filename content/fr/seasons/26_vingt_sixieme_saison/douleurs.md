@@ -11,10 +11,11 @@ categories:
 tags:
     - "2025"
     - hexasyllabe
-    - philosophie
     - nature
+    - philosophie
+    - il se pourrait qu'il pleuve
 location: []
-info: '{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -55,7 +56,3 @@ Qu'entend-t-elle des pleurs ?
 Equilibre éphémère
 
 Et monde de douleurs.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-{{% /notice %}}

@@ -1,10 +1,10 @@
 +++
 title = "Adolescence"
 date = 2026-04-05
-draft = true
+hidden = true
 +++
-
-1992. Déjà deux ans que j'avais accès à l'immensité de la bibliothèque de la grande école. Et puis, cette affinité pour l'écriture imagée et rythmée de mes émotions, j'ai nommé la poésie.
+1992.
+Déjà deux ans que j'avais accès à l'immensité de la bibliothèque de la grande école. Et puis, cette affinité pour l'écriture imagée et rythmée de mes émotions, j'ai nommé la poésie.
 
 J'habitais à la campagne, les fameux rurbains, comme on disait à l'époque, et il fallait compter sur mes parents pour aller "en ville". Internet n'était pas encore démocratisé.
 
@@ -18,4 +18,4 @@ Les années passèrent, tout le monde vieillit un peu, les membres du club chang
 
 De nos jours, derrière le confort de nos écrans, l'implication sociale et affective est différente.
 
-Voilà pourquoi, je pense, j'aime réutiliser le vers suivant, en souvenir de ma jeunesse : trop de choses auront changé.
+Voilà pourquoi, je pense, j'aime réutiliser le vers suivant, en souvenir de ma jeunesse : [trop de choses auront changé](../tags/trop-de-choses-auront-changé/).

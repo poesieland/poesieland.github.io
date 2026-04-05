@@ -10,9 +10,10 @@ categories:
     - Climat
 tags:
     - "2025"
+    - hexasyllabe
     - nature
     - saisons
-    - hexasyllabe
+    - il se pourrait qu'il pleuve
 location: []
 info: ""
 pictures: []
@@ -46,7 +47,3 @@ Aussi chant virginal
 Mais mon ombre recueille
 
 Absent l'air automnal.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/il_se_pourrait_qu_il_pleuve" hidefirstheading %}}
-{{% /notice %}}
