@@ -1,6 +1,6 @@
 +++
 title = "Trop de choses auront changé"
 description = "Depuis la onzième saison"
-[params]
-  menuPageRef = '/tags/trop-de-choses-auront-changé'
 +++
+
+Un vers implacable, repris à l'envi...

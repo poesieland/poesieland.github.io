@@ -4,8 +4,13 @@ id = "facettes_19"
 date = 2024-03-07
 weight = 20
 categories = [ "Temps" ]
-tags = [ "philosophie", "2024", "octosyllabe" ]
-info = '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
+tags = [
+  "2024",
+  "octosyllabe",
+  "philosophie",
+  "trop de choses auront changé"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -36,6 +41,3 @@ Un rêve retrouvé, primaire,
 
 Chaque saison neuve un moment.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-{{% /notice %}}

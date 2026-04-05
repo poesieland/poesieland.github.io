@@ -10,10 +10,11 @@ categories:
   - Temps
 tags:
   - "2026"
-  - philosophie
   - octosyllabe
+  - philosophie
+  - trop de choses auront changé
 location: []
-info: '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -55,7 +56,3 @@ Rire de tant de cheveux blancs,
 Dans tes yeux bleus brille l'enfance
 
 Quand je m'en vais à pas plus lents.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-{{% /notice %}}

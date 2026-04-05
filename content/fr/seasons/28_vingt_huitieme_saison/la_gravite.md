@@ -9,10 +9,11 @@ categories:
     - Temps
 tags:
     - "2025"
-    - philosophie
     - octosyllabe
+    - philosophie
+    - trop de choses auront changé
 location: []
-info: '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -53,7 +54,3 @@ Dans ton dos t'a rapetissé
 Mais la besace du passé
 
 Sauve le présent dans sa chute.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-{{% /notice %}}

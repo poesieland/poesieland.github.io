@@ -10,12 +10,10 @@ tags = [
   "métrique variable",
   "octosyllabe",
   "philosophie",
-  "refrain"
+  "refrain",
+  "trop de choses auront changé"
 ]
-info = """
-Métrique variable : 8, 6.
-
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
+info = "Métrique variable : 8, 6."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -48,6 +46,4 @@ Ainsi se perd le monde.
 
 {{% notice style="primary" %}}
 Métrique variable : 8, 6.
-
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 {{% /notice %}}

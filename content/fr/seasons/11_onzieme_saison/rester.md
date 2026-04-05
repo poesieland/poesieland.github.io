@@ -3,13 +3,15 @@ title = "Rester"
 id = "rester_11"
 date = 1999-04-01
 weight = 2
-categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
-info = """
-"Tu es beau" en italien.
-
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}"""
-
+categories = [ "Temps" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "octosyllabe",
+  "philosophie",
+  "trop de choses auront changé"
+]
+info = '"Tu es beau" en italien.'
 acrostiche = "Tu sei bello"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -39,6 +41,4 @@ Ombre, le ciel, tu me souris.
 "Tu es beau" en italien.
 
 Acrostiche : Tu sei bello.
-
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
 {{% /notice %}}

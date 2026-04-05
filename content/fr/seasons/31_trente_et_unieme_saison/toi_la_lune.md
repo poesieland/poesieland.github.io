@@ -14,8 +14,9 @@ tags:
     - ombres et lumières
     - philosophie
     - refrain
+    - trop de choses auront changé
 location: []
-info: '{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -47,7 +48,3 @@ Tant que je te vois bouger,
 Depuis l'enfance qui s'attarde
 
 Trop de choses auront changé.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/trop_de_choses_auront_change" hidefirstheading %}}
-{{% /notice %}}
