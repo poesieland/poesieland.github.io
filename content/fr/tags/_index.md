@@ -7,8 +7,8 @@ A la base, les catégories étaient regroupées sous une méta catégorie, telle
 Dès que la version moderne de ce site a été créée, de nouveaux usages se sont rapidement imposés pour les mots-clés :
 
 - mettre en avant l'année
-- regrouper par caractéristique de forme, telle que [sonnet](./sonnet/), [acrostiche](./acrostiche/)...
-- ou par caractéristique de [métrique](../thoughts/tout_est_rythme)
+- regrouper par caractéristique de forme, telle que [sonnet](./sonnet/), [acrostiche](./acrostiche/), [pantoun](./pantoun/).
+- ou par valeur(s) de [métrique](../thoughts/tout_est_rythme)
 - Et puis, ensuite, créer des mini-thèmes, d'après un ressenti...
 
   - transverse :
@@ -24,4 +24,4 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
     - [Noël](./noël/)
     - la [rentrée scolaire](./rentree-scolaire/)
 
-  Certaines [reprises multiples](../reprises/multiples/) ont également évolué en mini-thèmes.
+  Certaines [reprises multiples](../reprises/multiples/) ont également évolué en mots-clés, plutôt des phrases-clés dans ce cas.
