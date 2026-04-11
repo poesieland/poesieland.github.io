@@ -30,6 +30,6 @@
 			"immémoriel",
 			"saillance"
 		],
-		"frontMatter.sponsors.ai.enabled": false
+		"frontMatter.ai.enabled": false
 	}
 }

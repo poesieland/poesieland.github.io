@@ -4,9 +4,14 @@ id = "le_vieux_verger_19"
 date = 2024-04-07
 weight = 40
 categories = [ "Jardin et paysage" ]
-tags = [ "nature", "famille", "2024", "octosyllabe" ]
-info = """
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
+tags = [
+  "2024",
+  "famille",
+  "nature",
+  "octosyllabe",
+  "tous les vieux arbres ont des fleurs"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 location = [ "Lorraine" ]
@@ -47,6 +52,3 @@ Quand les moutons sans plus berger
 
 S'interpellent et se répondent.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-{{% /notice %}}

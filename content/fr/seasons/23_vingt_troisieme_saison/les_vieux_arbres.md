@@ -3,11 +3,16 @@ title = "Les vieux arbres"
 id = "les_vieux_arbres_23"
 date = 2024-12-22
 weight = 21
-categories = ["Flore", "Temps"]
-tags = ["nature", "philosophie", "2024", "octosyllabe", "refrain"]
-info = """
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
-
+categories = [ "Flore", "Temps" ]
+tags = [
+  "2024",
+  "nature",
+  "octosyllabe",
+  "philosophie",
+  "refrain",
+  "tous les vieux arbres ont des fleurs"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +42,3 @@ Tout doucement qui rétrécissent,
 Ils comptent les jours et les nuits
 
 De leurs arbrisseaux qui forcissent.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-{{% /notice %}}

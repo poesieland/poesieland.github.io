@@ -3,11 +3,14 @@ title = "Saisons terrestres"
 id = "saisons_terrestres_3"
 date = 1997-02-15
 weight = 26
-categories = ["Temps"]
-tags = ["philosophie", "1997", "octosyllabe"]
-info = """
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}"""
-
+categories = [ "Temps" ]
+tags = [
+  "1997",
+  "octosyllabe",
+  "philosophie",
+  "tous les vieux arbres ont des fleurs"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -38,6 +41,3 @@ Pour mesurer notre destin
 
 Et l'homme que son cœur habite.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/tous_les_vieux_arbres" hidefirstheading %}}
-{{% /notice %}}

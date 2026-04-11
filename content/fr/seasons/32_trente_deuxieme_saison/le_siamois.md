@@ -48,4 +48,4 @@ Printemps sera tendre,
 
 Peut-être fécond.
 
-{{< figure src="/images/le_siamois_32_0.png" title="" >}}
+{{< figure src="/images/le_siamois_32_0.jpg" title="" >}}

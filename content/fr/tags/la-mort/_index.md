@@ -38,19 +38,21 @@ Les mots que j'aime reprendre : [tombeau](/search?search-by=tombeau), [(un poèm
 
 Vous voici donc arrivés à la [liste des poèmes traitant de ce sujet](./#a).
 
-[^1]: Les animaux : [Hiska](../seasons/24_vingt_quatrieme_saison/hiska), ma première chienne, lui rendre hommage m'a demandé beaucoup de temps. [Fripouille](../seasons/30_trentieme_saison/fripouille), un chat qui m'a inspirée souvent de son vivant aussi.
+[^1]: Les animaux : [Hiska](../../seasons/24_vingt_quatrieme_saison/hiska), ma première chienne, lui rendre hommage m'a demandé beaucoup de temps... [Fripouille](../../seasons/30_trentieme_saison/fripouille), un chat qui m'a inspirée souvent de son vivant aussi.
 
-[^2]: Les hommages : à [mon père](../seasons/26_vingt_sixieme_saison/mon_pere) mais aussi [mon père vu comme un grand-père](../seasons/27_vingt_septieme_saison/le_grand_pere), ainsi que des souvenirs hommages à ma grand-mère, sans évocation de la mort, dans [famille](../tags/famille/).
+[^2]: Les hommages : à [mon père](../../seasons/26_vingt_sixieme_saison/mon_pere) mais aussi [vu comme un grand-père](../../seasons/27_vingt_septieme_saison/le_grand_pere), ainsi que des souvenirs hommages à ma grand-mère, sans évocation de la mort, dans [famille](../tags/famille/).
 
-[^3]: Dans le poème [Deuil](../seasons/30_trentieme_saison/deuil).
+[^3]: Dans le poème [Deuil](../../seasons/30_trentieme_saison/deuil).
 
 [^4]: Le cimetière : en particulier dans une série de [reprises](../reprises/multiples/au_dernier_rang_du_cimetiere).
 
-[^5]: Le crématorium : j'ai capturé le souvenir d'une cérémonie émouvante, une disparition inopinée, à peu de choses près mon âge actuel... [Au crématorium](../seasons/28_vingt_huitieme_saison/au_crematorium).
+[^5]: Le crématorium : j'ai capturé le souvenir d'une cérémonie émouvante, une disparition inopinée, à peu de choses près mon âge actuel... [Au crématorium](../../seasons/28_vingt_huitieme_saison/au_crematorium).
 
-[^6]: La barque : [Le dernier rendez-vous](../seasons/6_sixieme_saison/le_dernier_rendez_vous), [Départ](../seasons/30_trentieme_saison/depart).
+[^6]: La barque :
+[Le dernier rendez-vous](../../seasons/6_sixieme_saison/le_dernier_rendez_vous) et [Départ](../../seasons/30_trentieme_saison/depart).
 
-[^7]: Un signal : [Soir naufragé](../seasons/22_vingt_deuxieme_saison/le_soir_est_doux) car ce soir-là je vis passer l'âme d'une connaissance du quartier dans le ciel, [L'appel](../seasons/25_vingt_cinquieme_saison/l_appel).
+[^7]: Un signal : [Soir naufragé](../../seasons/22_vingt_deuxieme_saison/le_soir_est_doux) car ce soir-là je regardais le ciel et éprouvais une drôle de sensation, je ne comprenais pas pourquoi je "devais" écrire ces mots-là, et juste après j'appris qu'une connaissance du quartier venait de décéder...
+[L'appel](../../seasons/25_vingt_cinquieme_saison/l_appel).
 
 {{< chartjs id="poemDayLaMortRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-la-mort-radar.js" />}}
 
