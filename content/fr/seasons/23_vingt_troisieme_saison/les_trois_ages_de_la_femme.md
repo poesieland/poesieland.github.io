@@ -41,7 +41,7 @@ Donnez votre main, capitaine
 Devant le seuil bientôt franchi.
 
 ![Peinture de Gustav Klimt](https://upload.wikimedia.org/wikipedia/commons/c/c4/Gustav_Klimt_020.jpg?height=480px)
-<div class="caption">Peinture de Gustav Klimt</div>
+<div class="caption">Peinture de Gustav Klimt (image Wikimedia)</div>
 
 {{% notice style="primary" %}}
 Reprise du premier vers d'un [poème de la huitième saison](../8_huitieme_saison/je_crois_en_lui).

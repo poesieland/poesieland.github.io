@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Foi](/categories/foi)
 - [Temps](/categories/temps)
 - [Musique et chant](/categories/musique-et-chant)
-- [Passion](/categories/passion)
 - [Romantisme](/categories/romantisme)
+- [Passion](/categories/passion)
 - [Faune](/categories/faune)
 - [Jardin et paysage](/categories/jardin-et-paysage)

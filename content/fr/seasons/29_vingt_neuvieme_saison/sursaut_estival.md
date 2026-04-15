@@ -12,8 +12,9 @@ tags:
     - "2025"
     - saisons
     - trisyllabe
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -63,7 +64,3 @@ Même danse,
 Horizons
 
 En cadence.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}

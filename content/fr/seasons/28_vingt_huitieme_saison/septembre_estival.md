@@ -14,8 +14,9 @@ tags:
     - trisyllabe
     - les mois
     - septembre
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -59,7 +60,3 @@ Précipice,
 Arrivé :
 
 L'été glisse.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}

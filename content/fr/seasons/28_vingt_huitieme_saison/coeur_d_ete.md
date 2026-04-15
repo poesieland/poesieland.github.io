@@ -11,8 +11,9 @@ tags:
     - "2025"
     - trisyllabe
     - saisons
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -45,6 +46,3 @@ C'est le chef,
 
 Bleus et parme.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}

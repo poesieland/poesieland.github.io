@@ -11,8 +11,9 @@ tags:
     - "2025"
     - saisons
     - trisyllabe
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -53,7 +54,3 @@ Fol t'aspire
 L'été vif
 
 Dans sa spire !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}

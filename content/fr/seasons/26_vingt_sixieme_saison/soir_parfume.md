@@ -11,8 +11,9 @@ tags:
     - "2025"
     - ombres et lumières
     - trisyllabe
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -45,6 +46,3 @@ Doux parfum
 
 Dans sa spire.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}

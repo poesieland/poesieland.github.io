@@ -13,8 +13,9 @@ tags:
     - attitudes
     - philosophie
     - trisyllabe
+    - estival
 location: []
-info: '{{% include "../../includes/estival" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -46,7 +47,3 @@ Dans la brise,
 S'inspirer,
 
 Je me grise !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/estival" hidefirstheading %}}
-{{% /notice %}}
