@@ -13,7 +13,7 @@ A la lumière de la lune
 
 L'ombre n'est ni blonde ni brune,
 
-Accentuée en dessins gris;
+Accentuée en dessins gris ;
 
 Larme douce, la nuit, je ris.
 

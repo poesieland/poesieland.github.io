@@ -3,9 +3,15 @@ title = "Stabat Mater"
 id = "stabat_mater_12"
 date = 1999-07-02
 weight = 19
-categories = ["Foi", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche", "décasyllabe"]
-info = "\"Vraie foi\" en italien."
+categories = [ "Foi", "Portraits" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "décasyllabe",
+  "philosophie",
+  "l'air ou la chanson"
+]
+info = '"Vraie foi" en italien.'
 acrostiche = "Vera fede"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -13,7 +19,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Vraie, en éclats transpercés par la grâce,
 
-Ecoute, Mère, un abîme divin;
+Ecoute, Mère, un abîme divin ;
 
 Ruissellent sang et pleurs car sur ta face
 

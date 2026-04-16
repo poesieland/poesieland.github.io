@@ -3,8 +3,14 @@ title = "Soleil"
 id = "soleil_12"
 date = 1999-07-22
 weight = 22
-categories = ["Ciel"]
-tags = ["nature", "1999", "acrostiche", "alexandrin"]
+categories = [ "Ciel" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "nature",
+  "l'air ou la chanson"
+]
 acrostiche = "O sole mio"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

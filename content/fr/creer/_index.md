@@ -42,7 +42,7 @@ Nous nous sommes également amusées à écrire des poèmes où les jeux de mots
 
 Les formes classiques telles que le sonnet ou le pantoun me plaisent également, cependant cela demande de la concentration et de la préparation pour garantir une certaine originalité pour le sonnet ou soigneusement sélectionner et explorer le  double thème pour le pantoun.
 
-A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable Baudelaire. J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés, mais ce qui a été écrit restera comme il a été créé.
+A la relecture, je me suis rendue compte que les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles, à commencer par l'ineffable [Baudelaire](https://www.poetica.fr/categories/charles-baudelaire/). J'ai encore un peu de chemin à faire, j'ai par ignorance pris des libertés, mais ce qui a été écrit restera comme il a été créé.
 
 [Vers mes sonnets](../tags/sonnet)
 

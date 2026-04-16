@@ -9,8 +9,9 @@ categories:
     - Apprentissage
 tags:
     - "2025"
-    - philosophie
     - octosyllabe
+    - philosophie
+    - citation
 location: []
 info: ""
 pictures: []
@@ -18,6 +19,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: "Forme modifiée de : l'essentiel est invisible pour les yeux"
 ---
 Même si l'amour rend aveugle
 

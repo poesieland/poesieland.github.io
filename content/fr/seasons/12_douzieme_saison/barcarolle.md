@@ -3,8 +3,14 @@ title = "Barcarolle"
 id = "barcarolle_12"
 date = 1999-06-28
 weight = 32
-categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche", "alexandrin"]
+categories = [ "Musique et chant" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "attitudes",
+  "l'air ou la chanson"
+]
 info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"
 verseLength = 12
@@ -21,7 +27,7 @@ Cacheront leur tendresse, et sèment firmaments...
 
 Au-delà des soupirs, à l'océan, la terre
 
-Rime sur la lagune en douceur adultère;
+Rime sur la lagune en douceur adultère ;
 
 Onde, le charme fol ne démasque le chant,
 

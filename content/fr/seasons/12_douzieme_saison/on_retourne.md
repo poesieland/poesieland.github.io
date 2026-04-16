@@ -22,11 +22,11 @@ Trompeuse, mélodieuse, en ce printemps sans teint,
 
 Oisif, soudain... Le ciel terreux, gémit, se blesse et geint...
 
-Un passé qui s'aveugle, et déchire l'histoire;
+Un passé qui s'aveugle, et déchire l'histoire ;
 
 Revenir, perdre ensuite en vérité, mémoire...
 
-Naïf, parti trop loin, il ne faut plus penser;
+Naïf, parti trop loin, il ne faut plus penser ;
 
 Eternité, l'oubli, la mémoire à panser.
 

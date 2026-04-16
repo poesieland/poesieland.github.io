@@ -3,8 +3,8 @@ title = "Aube de la nuit"
 id = "aube_de_la_nuit_12"
 date = 1999-07-17
 weight = 35
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "1999", "acrostiche", "alexandrin"]
+categories = [ "Crépuscule", "Nuit" ]
+tags = [ "ombres et lumières", "1999", "acrostiche", "alexandrin" ]
 acrostiche = "Aube de la nuit"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Aux lueurs du ciel rose éternelles les voiles :
 
-Uni canto pieno, le soir tout apaisé
+Uni *canto pieno*, le soir tout apaisé
 
 Berce le monde, ogive en parfum déposé
 
@@ -21,7 +21,7 @@ Encensé quand la nuit allume ses étoiles...
  \
 D'un souffle un champ fertile exhibe ses moissons
 
-Et le chaume crissant scintille sous la lune;
+Et le chaume crissant scintille sous la lune ;
 
 La terre libertine au sein d'argile brune
 

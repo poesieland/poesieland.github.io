@@ -18,7 +18,7 @@ Même le temps qu'on croit mortel,
 
 Entre les jours, partagé, tel
 
-La liberté, ne trouvent vie;
+La liberté, ne trouvent vie ;
 
 Etonner, suggérer l'envie
 
@@ -28,7 +28,7 @@ Ecoute un sens, les lendemains
 
 Ne pourront tout savoir ou croire...
 
-Souviens-toi; rêves en mémoire.
+Souviens-toi ; rêves en mémoire.
 
 {{% notice style="primary" %}}
 Acrostiche : Même le sens.

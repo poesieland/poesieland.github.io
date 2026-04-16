@@ -26,7 +26,7 @@ Alors nous confondrons sang, pierre, étoile, saxifrage...
  \
 Voile, indomptable éternité : le présent, à travers,
 
-Oratorio d'un cœur bercé pour connaître tout l'univers;
+Oratorio d'un cœur bercé pour connaître tout l'univers ;
 
 Immense, une autre nuit s'éclaire et l'écho nous renvoie
 
