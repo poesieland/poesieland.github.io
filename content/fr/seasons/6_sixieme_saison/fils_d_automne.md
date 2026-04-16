@@ -5,12 +5,13 @@ date = 1998-03-24
 weight = 27
 categories = [ "Portraits" ]
 tags = [
-  "philosophie",
   "1998",
   "acrostiche",
-  "octosyllabe",
   "les mois",
-  "septembre"
+  "octosyllabe",
+  "philosophie",
+  "septembre",
+  "anniversaire"
 ]
 acrostiche = "Fils d'automne"
 verseLength = 8

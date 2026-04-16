@@ -3,10 +3,17 @@ title = "La cloche"
 id = "la_cloche_17"
 date = 2016-05-31
 weight = 44
-categories = ["Jardin et paysage"]
-tags = ["nature", "famille", "2016", "sonnet", "octosyllabe"]
+categories = [ "Jardin et paysage" ]
+tags = [
+  "2016",
+  "famille",
+  "nature",
+  "octosyllabe",
+  "sonnet",
+  "anniversaire"
+]
 info = "Pour célébrer un joli anniversaire de ma maman"
-pictures = ["Là où tu passas ta jeunesse (photo de 2005)"]
+pictures = [ "Là où tu passas ta jeunesse (photo de 2005)" ]
 poemType = "sonnet"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

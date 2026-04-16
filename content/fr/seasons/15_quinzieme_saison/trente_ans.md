@@ -3,8 +3,14 @@ title = "Trente ans"
 id = "trente_ans_15"
 date = 2001-07-14
 weight = 12
-categories = ["Etre"]
-tags = ["philosophie", "2001", "pantoun", "alexandrin"]
+categories = [ "Etre" ]
+tags = [
+  "2001",
+  "alexandrin",
+  "pantoun",
+  "philosophie",
+  "anniversaire"
+]
 info = "Composé pour une amie."
 poemType = "pantoun"
 verseLength = 12

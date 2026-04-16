@@ -6,12 +6,13 @@ weight = 7
 categories = [ "Printemps", "Temps" ]
 tags = [
   "2025",
+  "avril",
+  "les mois",
+  "mai",
   "octosyllabe",
   "philosophie",
   "saisons",
-  "les mois",
-  "avril",
-  "mai"
+  "anniversaire"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

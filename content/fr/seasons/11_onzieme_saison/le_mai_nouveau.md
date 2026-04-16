@@ -5,13 +5,14 @@ date = 1999-04-30
 weight = 44
 categories = [ "Flore", "Printemps" ]
 tags = [
-  "nature",
-  "saisons",
   "1999",
   "acrostiche",
-  "tétrasyllabe",
   "les mois",
-  "mai"
+  "mai",
+  "nature",
+  "saisons",
+  "tétrasyllabe",
+  "anniversaire"
 ]
 acrostiche = "Le mai nouveau"
 verseLength = 4

@@ -5,13 +5,15 @@ date = 1999-05-01
 weight = 45
 categories = [ "Flore", "Printemps" ]
 tags = [
-  "nature",
-  "saisons",
   "1999",
   "acrostiche",
-  "octosyllabe",
+  "anniversaire",
   "les mois",
-  "mai"
+  "mai",
+  "nature",
+  "octosyllabe",
+  "saisons",
+  "famille"
 ]
 acrostiche = "Un an de plus"
 verseLength = 8
