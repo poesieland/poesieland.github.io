@@ -3,9 +3,15 @@ title = "Ave Maria prega per me"
 id = "ave_maria_prega_per_me_11"
 date = 1999-05-17
 weight = 31
-categories = ["Foi"]
-tags = ["philosophie", "1999", "acrostiche", "octosyllabe"]
-info = "\"Ave Maria prie pour moi\", chanson homonyme de Luciano Pavarotti."
+categories = [ "Foi" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "octosyllabe",
+  "philosophie",
+  "l'air ou la chanson"
+]
+info = '"Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.'
 acrostiche = "Ave Maria prega per me"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -33,7 +39,7 @@ Par-delà les mots du silence
 
 Rêvé, le cœur qui ne sait lance
 
-Entier son désir incompris;
+Entier son désir incompris ;
 
 Guérissez-le d'un voile pris
 
@@ -44,7 +50,7 @@ Protège le jour qui s'apprête
 
 En ses flamboyances, rideaux
 
-Révélant vocalise, oiseaux;
+Révélant vocalise, oiseaux ;
 
  \
 Mirages nuptiaux, l'âme élève

@@ -16,7 +16,7 @@ Note le miroir de ce flot doux, puissant.
 
 Vers Vous monte, calme, une ultime prière
 
-Offrant l'onde vraie à Votre cœur pressant;
+Offrant l'onde vraie à Votre cœur pressant ;
 
  \
 Invitez ma main pour caresser l'espace

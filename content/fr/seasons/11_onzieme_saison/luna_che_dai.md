@@ -20,7 +20,7 @@ Nés silencieux d'espoir
 Arraisonnés du soir.
 
  \
-Collier cassé; la perle
+Collier cassé ; la perle
 
 Hante le chant du merle
 

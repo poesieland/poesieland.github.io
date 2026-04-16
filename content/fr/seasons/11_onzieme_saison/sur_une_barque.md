@@ -30,7 +30,7 @@ Andante, se mêle au
  \
 Rivage. Un coup de rame
 
-Quête le sens du vent;
+Quête le sens du vent ;
 
 Un trait de feu dit l'âme
 

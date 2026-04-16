@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Clos seuls tes yeux, et laisse-moi rêver
 
-Oublions tout ce qu'on ne peut prouver;
+Oublions tout ce qu'on ne peut prouver ;
 
 Nouvel espace indéfini, pour prendre
 

@@ -34,7 +34,7 @@ Insensé le temps, autres corps ou regard...
 
 Eteint, frémi, tu, le souvenir, trop tard...
 
-Retenir avant; oublier, tout s'échappe.
+Retenir avant ; oublier, tout s'échappe.
 
 {{% notice style="primary" %}}
 Acrostiche : Ne pas oublier.

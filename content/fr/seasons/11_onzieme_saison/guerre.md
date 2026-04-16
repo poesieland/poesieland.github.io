@@ -10,18 +10,18 @@ verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Marcher sur une âme
+Marcher sur une âme,
 
-Ecraser un cœur
+Ecraser un cœur,
 
-Mêler sang et peur
+Mêler sang et peur,
 
 En guerre, le drame.
 
  \
 Car à l'essentiel
 
-Ils ne peuvent croire
+Ils ne peuvent croire,
 
 Et malgré l'Histoire
 

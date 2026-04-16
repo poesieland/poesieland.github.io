@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Une étoile sur la veste
 
-Noue un foulard à ton cou;
+Noue un foulard à ton cou ;
 
 Rythmé le chant de ton geste
 

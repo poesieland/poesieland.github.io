@@ -30,7 +30,7 @@ Touche la mienne, ivresse en ce sombre bouquet.
  \
 Mettons nos pas jumeaux dans l'immense sillage
 
-Ouvrant le berceau neuf de nos jeux enfantins;
+Ouvrant le berceau neuf de nos jeux enfantins ;
 
 Nue une âme vole et confond le paysage
 

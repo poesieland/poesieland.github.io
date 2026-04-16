@@ -30,7 +30,7 @@ Mêlées au chant mature...
  \
 Doucement change au ciel
 
-Un refrain moins pastel;
+Un refrain moins pastel ;
 
  \
 Souple, la nuit s'approche

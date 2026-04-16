@@ -19,7 +19,7 @@ Aube lente où s'émerveille
 Tremblant, le ciel, chant lointain
 
  \
-Offert où mûrit ramure;
+Offert où mûrit ramure ;
 
 Notre cabane en roseaux
 
@@ -30,7 +30,7 @@ Danse parmi les oiseaux.
  \
 En mes bras je réconforte
 
-Suggéré, ce que tu dis;
+Suggéré, ce que tu dis ;
 
 Invite lorsque s'emporte
 

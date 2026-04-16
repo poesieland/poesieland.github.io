@@ -16,7 +16,7 @@ Eblouit la saison, l'abeille
 
 Entrouvre dans sa chasteté
 
-A la fleur corolle, merveille;
+A la fleur corolle, merveille ;
 
  \
 Ivresse au vent qui la surprit.

@@ -5,12 +5,12 @@ date = 1999-05-21
 weight = 41
 categories = ["Eté", "Jardin et paysage"]
 tags = ["saisons", "nature", "1999", "acrostiche", "hexasyllabe"]
-acrostiche = "Ne rien faire, rêver..."
+acrostiche = "Ne rien faire, rêver"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Ne rien faire, rêver
+Ne rien faire, rêver,
 
 Ecouter la Nature...
 
@@ -46,5 +46,5 @@ En l'accord frémissant
 Ravi, puis le soir plonge...
 
 {{% notice style="primary" %}}
-Acrostiche : Ne rien faire, rêver...
+Acrostiche : Ne rien faire, rêver
 {{% /notice %}}
