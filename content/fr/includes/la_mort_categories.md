@@ -10,4 +10,4 @@ title = "Associations privilégiées"
 - [Apprentissage](/categories/apprentissage)
 - [Faune](/categories/faune)
 - [Révolte](/categories/révolte)
-- [Espoir](/categories/espoir)
+- [Flore](/categories/flore)

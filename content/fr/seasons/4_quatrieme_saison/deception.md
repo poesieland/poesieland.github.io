@@ -31,6 +31,6 @@ Ce n'est qu'ébauche malhabile
 
 Notre amour d'hier, mais qu'oublier ?
 
-Ah! Le cœur humain si fragile,
+Ah ! Le cœur humain si fragile,
 
 Le mien qui voudrait tant crier !

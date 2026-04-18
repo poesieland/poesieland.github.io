@@ -2,7 +2,7 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Amitié', value: 1, color: 'rgba(254, 231, 240, 1)' },
-    { label: 'Romantisme', value: 1, color: 'rgba(253, 108, 158, 1)' },
+    { label: 'Romantisme', value: 2, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Aube', value: 2, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 1, color: 'rgba(253, 241, 184, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(152, 151, 88, 1)' },
@@ -15,12 +15,13 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Etre', value: 3, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 1, color: 'rgba(244, 254, 254, 1)' },
-    { label: 'Flore', value: 1, color: 'rgba(84, 114, 174, 1)' },
+    { label: 'Flore', value: 2, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Ciel', value: 3, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 5, color: 'rgba(4, 139, 154, 1)' },
+    { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
-    { label: 'Printemps', value: 3, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Printemps', value: 4, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
   ];
   addPieChart('season32Pie', [data], { plugins: { title: { display: true, text: 'Témoin jour après jour (32) mars à avril 2026' } } });

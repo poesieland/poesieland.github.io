@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 La fièvre de t'aimer,
 
-Ah! Mon cœur qui s'ébrèche,
+Ah ! Mon cœur qui s'ébrèche,
 
 Folie et panne sèche :
 

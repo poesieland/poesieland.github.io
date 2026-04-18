@@ -2,7 +2,7 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Amitié', value: 3, color: 'rgba(254, 231, 240, 1)' },
-    { label: 'Romantisme', value: 3, color: 'rgba(253, 108, 158, 1)' },
+    { label: 'Romantisme', value: 4, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 5, color: 'rgba(255, 203, 96, 1)' },
     { label: 'Lune', value: 2, color: 'rgba(253, 241, 184, 1)' },
@@ -19,16 +19,16 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Apprentissage', value: 4, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Angoisse', value: 3, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 7, color: 'rgba(244, 254, 254, 1)' },
-    { label: 'Flore', value: 2, color: 'rgba(84, 114, 174, 1)' },
+    { label: 'Flore', value: 3, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 2, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 3, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 7, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 14, color: 'rgba(4, 139, 154, 1)' },
-    { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
-    { label: 'Printemps', value: 10, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Printemps', value: 11, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Hiver', value: 2, color: 'rgba(24, 57, 30, 1)' },
   ];

@@ -27,7 +27,7 @@ Le cœur tait sa chanson lustrée
 Au voile d'immense pardon.
 
  \
-Adieu dans un sens ou dans l'autre;
+Adieu dans un sens ou dans l'autre ;
 
 Oublier ce songe à jamais :
 

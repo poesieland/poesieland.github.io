@@ -38,7 +38,7 @@ Vibrante dans l'azur aux calices féconds !
  \
 Instantané l'essor où grelotte la harpe
 
-Enivrante, fluide, en valse pour charmer;
+Enivrante, fluide, en valse pour charmer ;
 
 Tournoyer sans plus fin, dis-moi l'âme en écharpe :
 

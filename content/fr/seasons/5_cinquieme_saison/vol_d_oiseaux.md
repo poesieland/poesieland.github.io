@@ -33,4 +33,4 @@ Déferlez sans plus fin !
 
 Messagers des royaumes :
 
-Chaque oiseau séraphin!
+Chaque oiseau séraphin !

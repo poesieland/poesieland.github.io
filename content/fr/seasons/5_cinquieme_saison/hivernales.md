@@ -18,7 +18,7 @@ Et dérobé d'une plume ivre
 Le frémissement du bonheur.
 
  \
-Puis dans sa morne flambloyance
+Puis dans sa morne flamboyance
 
 Le soleil moire son écrin :
 
@@ -29,7 +29,7 @@ Déroule traces d'un destin.
  \
 Au loin d'un arbre un cri se fige
 
-Car ce n'était qu'un faux départ;
+Car ce n'était qu'un faux départ ;
 
 Au-dehors mue en son vestige
 

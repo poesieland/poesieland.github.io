@@ -3,10 +3,11 @@ title = "A coeur vaillant"
 id = "a_coeur_vaillant_24"
 date = 2025-01-11
 weight = 18
-categories = ["Espoir"]
-tags = ["philosophie", "2025", "tétrasyllabe"]
+categories = [ "Espoir" ]
+tags = [ "2025", "philosophie", "tétrasyllabe", "citation" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "A coeur vaillant / Rien d'impossible"
 +++
 
 Parle à mon coeur
@@ -18,9 +19,9 @@ Chasser rancoeur
 Et ses délires.
 
  \
-A coeur vaillant
+*A coeur vaillant
 
-Rien d'impossible,
+Rien d'impossible*,
 
 Vogue, saillant
 

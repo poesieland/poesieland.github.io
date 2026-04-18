@@ -10,7 +10,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Sept couleurs pour peindre ton nom;
+Sept couleurs pour peindre ton nom ;
 
 Encriers, magiques octaves,
 

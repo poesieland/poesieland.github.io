@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 J'inventerai les mots, les mythes, les berceuses,
 
-Illusionniste ou mage à l'alambic du cœur;
+Illusionniste ou mage à l'alambic du cœur ;
 
 Nouvel élixir doux, brûlant, parfois vainqueur,
 

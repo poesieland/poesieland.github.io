@@ -38,7 +38,7 @@ Qui ne savent, ne dansent.
  \
 Sur l'adieu des gisants
 
-L'amour que je murmure;
+L'amour que je murmure ;
 
 Lèvres, nouvelle épure
 

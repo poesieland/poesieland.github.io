@@ -31,6 +31,6 @@
 			"inapprise",
 			"saillance"
 		],
-		"frontMatter.ai.enabled": false
+		"frontMatter.copilot.enabled": false
 	}
 }

@@ -28,7 +28,7 @@ Sérénades d'un jour aux frêles paysages,
 Encrier de merveille aux pinceaux plus soyeux ?
 
  \
-Chaque pétale joie, ou sourire, ou pensée;
+Chaque pétale joie, ou sourire, ou pensée ;
 
 Radieuse en mes deux mains, pourquoi se fanera
 

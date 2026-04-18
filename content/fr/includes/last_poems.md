@@ -4,8 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
-[Volupté, écrit le 07.04.2026](../seasons/32_trente_deuxieme_saison/volupte)
+[L'amour printanier, écrit le 13.04.2026](../seasons/32_trente_deuxieme_saison/l_amour_printanier)
 
-[Le tram bleu, écrit le 06.04.2026](../seasons/32_trente_deuxieme_saison/le_tram_bleu)
+[Visite, écrit le 11.04.2026](../seasons/32_trente_deuxieme_saison/visite)
 
-[A tes lèvres, écrit le 05.04.2026](../seasons/32_trente_deuxieme_saison/a_tes_levres)
+[Il se pourrait, écrit le 09.04.2026](../seasons/32_trente_deuxieme_saison/il_se_pourrait)

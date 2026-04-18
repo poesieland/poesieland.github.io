@@ -23,7 +23,7 @@ Souriez sans rien dire et quand minuit s'approche
 
 Quittez la farandole, et l'ombre du décor
 
-Unira nos regards d'ivresse sans reproche;
+Unira nos regards d'ivresse sans reproche ;
 
 Et tombera le masque, et valsera l'accord !
 

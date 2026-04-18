@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Soleil, mon encrier
 
-Aux gouaches de nuages;
+Aux gouaches de nuages ;
 
 Un ciel à s'écrier :
 

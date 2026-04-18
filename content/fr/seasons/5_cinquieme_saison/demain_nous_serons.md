@@ -41,7 +41,7 @@ Sache les mots transis d'angoisse et solitude,
 Et souviens-toi de nous, le passé se ressert.
 
  \
-Rêver, n'est-ce grandir, abri de l'innocence?
+Rêver, n'est-ce grandir, abri de l'innocence ?
 
 Ô tout petit Poucet de rires et de pleurs,
 

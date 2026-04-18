@@ -23,7 +23,7 @@ Evanescents, les fins bouleaux
 
 Se sont parés : ramures belles
 
-D'amours et de neiges nouvelles;
+D'amours et de neiges nouvelles ;
 
 Recueillir l'espoir en cristaux.
 

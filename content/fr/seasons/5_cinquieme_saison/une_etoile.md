@@ -29,7 +29,7 @@ Sème l'espoir, céleste dame.
  \
 Une étoile a bercé l'amour,
 
-De ses scintillements résonne;
+De ses scintillements résonne ;
 
 Elle murmure : je pardonne
 

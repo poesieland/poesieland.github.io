@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Clarté pâle d'étoiles
 
-Pour déflorer la nuit;
+Pour déflorer la nuit ;
 
 Les ombres se dévoilent :
 

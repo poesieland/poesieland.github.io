@@ -30,7 +30,7 @@ Ravi de chaque vers.
  \
 Et même le silence
 
-Murmurerait son nom;
+Murmurerait son nom ;
 
 Offert d'un cœur immense :
 

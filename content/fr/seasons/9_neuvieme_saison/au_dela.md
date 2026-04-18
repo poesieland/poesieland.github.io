@@ -30,7 +30,7 @@ Sourire sans visage, en une paix profonde
 
 Tenir dans son esprit chaque planète ronde,
 
-Berceaux d'autres départs vers la force des Dieux;
+Berceaux d'autres départs vers la force des Dieux ;
 
 Exister sans matière, et voir enfin sans yeux...
 

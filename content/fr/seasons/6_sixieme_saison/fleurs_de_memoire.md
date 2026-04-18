@@ -38,7 +38,7 @@ Le printemps du rêve s'amène
 
 Pour refleurir notre bonheur :
 
-Cache d'un geste trop de peine;
+Cache d'un geste trop de peine ;
 
 Au fond du tien vibre mon cœur !
 

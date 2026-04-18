@@ -20,7 +20,7 @@ Ne te plaît-il, ce cœur rebelle ?
 Comme il a su tôt te charmer !
 
  \
-Ô mon cœur tendre se passionne;
+Ô mon cœur tendre se passionne ;
 
 Et l'espérance de l'amour,
 
@@ -42,7 +42,7 @@ Il est pourtant bien ordinaire,
 
 Battements longs rythmés aux tiens,
 
-Ressac qui murmure "Reviens"
+Ressac qui murmure "reviens"
 
 Et c'est cela qui sut nous plaire !
 

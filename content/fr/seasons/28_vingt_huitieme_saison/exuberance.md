@@ -10,10 +10,12 @@ tags:
     - "2025"
     - philosophie
     - tétrasyllabe
+    - citation
+description: A coeur vaillant Rien d'impossible
 ---
-A coeur vaillant
+*A coeur vaillant
 
-Rien d'impossible,
+Rien d'impossible*,
 
 Bonheur saillant,
 

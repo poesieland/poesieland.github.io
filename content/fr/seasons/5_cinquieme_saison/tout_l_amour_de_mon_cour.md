@@ -24,7 +24,7 @@ Aux paumes si petiotes :
 
 Mais il n'a rien écrit,
 
-O, ton doigt si petit!
+Ô, ton doigt si petit !
 
 Un doux rêve te berce :
 
@@ -36,7 +36,7 @@ Eveil tendre, charmant,
 
 Mets dans tes jeux la vie
 
-Originale envie!
+Originale envie !
 
 Naissance, a dit ton cœur,
 

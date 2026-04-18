@@ -24,7 +24,7 @@ D'hier, il reste le mot : aimé,
 
 Hanté d'une absence soudaine.
 
-Inoubliable ta voix reine;
+Inoubliable ta voix reine ;
 
 Et la tourelle de mon cœur
 
