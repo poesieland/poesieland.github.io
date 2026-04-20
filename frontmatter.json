@@ -595,5 +595,6 @@
     "./themes/hugo-theme-relearn/vscode-frontmatter/snippets.en.json"
   ],
   "frontMatter.file.preserveCasing": true,
-  "frontMatter.snippets.wrapper.enabled": false
+  "frontMatter.snippets.wrapper.enabled": false,
+  "frontMatter.copilot.enabled": false
 }

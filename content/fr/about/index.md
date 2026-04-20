@@ -3,6 +3,9 @@ title = "A propos"
 weight = 10
 date = 2025-12-07
 +++
+
+{{< figure src="/images/barbara_post_2026.jpg" title="L'auteur en 2026" >}}
+
 ## Licence
 
 Le contenu de ce site est sous licence Creative Commons BY-NC-ND 4.0, ce qui signifie :
