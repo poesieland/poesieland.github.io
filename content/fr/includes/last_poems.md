@@ -4,8 +4,10 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
-[L'amour printanier, écrit le 13.04.2026](../seasons/32_trente_deuxieme_saison/l_amour_printanier)
+[Offrons-nous, écrit le 16.04.2026](../seasons/32_trente_deuxieme_saison/offrons_nous)
 
-[Visite, écrit le 11.04.2026](../seasons/32_trente_deuxieme_saison/visite)
+[Sous les arbres, écrit le 15.04.2026](../seasons/32_trente_deuxieme_saison/sous_les_arbres)
 
-[Il se pourrait, écrit le 09.04.2026](../seasons/32_trente_deuxieme_saison/il_se_pourrait)
+[Le chat qui crie, écrit le 15.04.2026](../seasons/32_trente_deuxieme_saison/le_chat_qui_crie)
+
+[Papa, écrit le 14.04.2026](../seasons/32_trente_deuxieme_saison/papa)

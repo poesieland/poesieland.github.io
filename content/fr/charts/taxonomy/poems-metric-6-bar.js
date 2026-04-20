@@ -32,7 +32,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Kaléidoscopes (29) 2025', value: 21, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Tout fait sens (30) 2025-26', value: 12, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Emotions mouvantes (31) 2026', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Témoin jour après jour (32) 2026', value: 6, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Témoin jour après jour (32) 2026', value: 8, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-metric6Bar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
