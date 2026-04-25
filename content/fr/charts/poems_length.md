@@ -47,6 +47,8 @@ Un sujet percutant. Très souvent un acrostiche d'ailleurs, puisque le sujet est
 *à la dix-neuvième saison*
 - [Juin](../seasons/26_vingt_sixieme_saison/juin)  
 *à la vingt-sixième saison*
+- [Echo](../seasons/32_trente_deuxieme_saison/echo2)  
+*à la trente-deuxième saison*
 
 ### Sept quatrains
 

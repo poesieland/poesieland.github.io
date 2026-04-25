@@ -5,7 +5,7 @@ type = "seasonIndex"
 description = """
 Depuis un moment me trottaient en tête les mots témoin et jour. Les voici associés dans le titre de cette Saison printanière. Une de plus. Qui prétend comme toutes les autres, donner juste ma vision du monde, mais je souligne le rôle de l'artiste qui est de témoigner.
 
-Rêveries philosophiques : le temps surtout. La faune toujours.
+Rêveries philosophiques : le temps surtout. La faune toujours. Le printemps et le création.
  
 A partir de mars 2026"""
 +++
