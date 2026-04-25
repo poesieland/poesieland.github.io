@@ -16,7 +16,7 @@ Sculpter l'espace, cet éclat
 
 Où tourbillonne et puis s'amarre
 
-Ton pas; le mien revécut là
+Ton pas ; le mien revécut là
 
  \
 En sa folie, en son suaire,

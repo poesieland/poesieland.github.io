@@ -7,7 +7,7 @@ hidden = true
 
 ## Poème
 
-En 1997, dans ["Bohème"](../seasons/3_troisieme_saison/boheme), à la troisième Saison, une impression de douceur :
+Ce terme n'apparaît qu'en 1997, à la troisième Saison, dans ["Bohème"](../seasons/3_troisieme_saison/boheme), une impression de douceur :
 
 *Les mots,*
 
@@ -45,17 +45,120 @@ Comme dit également dans ["Maux de mots"](../seasons/6_sixieme_saison/maux_de_m
 
 *Des maux-poèmes*
 
-*TODO : Lister les occurrences de "poème" de la 7e à la 9e Saisons*
+ \
+Un élan nostalgique et créatif dans ["Qu'un seul désir me berce"](../seasons/6_sixieme_saison/qu_un_seul_desir_me_berce) :
+
+*Dis-moi les couleurs d'autrefois*
+
+*Et leurs berceaux, nouveaux poèmes*
 
  \
-Les deux premiers vers écrits en 1999 (["Un poème : trésors"](../seasons/11_onzieme_saison/un_poeme_tresors), à la onzième Saison) décrivent parfaitement l'élan créatif, de l'intime vers l'universel, et qui se cristallise en une unité d'écriture :
+A la septième saison, où le mot "poème" est très présent (9 fois), évoquant un voyageur chevalier dans ["Adieu : voyages"](../seasons/7_septieme_saison/adieu_voyages) :
+
+*Un jour peut-être reviendra*
+
+*Vivant joyau tel un poème*
+
+ \
+Confusion créative dans ["Ce jour-là"](../seasons/7_septieme_saison/ce_jour_la) :
+
+*[...] un peintre a fait poème*
+
+*Rimé de couleur douce et songe dans le vent*
+
+ \
+Le réconfort, dans ["D'un frôlement"](../seasons/7_septieme_saison/d_un_frolement) :
+
+*Réchauffe de bras-poèmes*
+
+*Ô cœur gelé qui fut tien*
+
+ \
+Une évocation de la chanson dans ["Dans ton coeur"](../seasons/7_septieme_saison/dans_ton_cour) :
+
+*Ne l'entends-tu ? Le souffle du poème*
+
+*Suggère au doigt : ne défais pas le lien.*
+
+ \
+Le destin, dans ["Du rêve au réel"](../seasons/7_septieme_saison/du_reve_au_reel) :
+
+*Vivre, mourir : quelques poèmes,*
+
+*Et révéler ce fol destin.*
+
+ \
+Une forme d'angoisse dans ["Ecrire sans savoir"](../seasons/7_septieme_saison/ecrire_sans_savoir) :
+
+*Rêve d'une prière*
+
+*Et le papier tombeau,*
+
+*Sans poème plus beau*
+
+*Artiste à sa manière,*
+
+ \
+Le poème comme expression ultime dans ["Gravé pour toi"](../seasons/7_septieme_saison/grave_pour_toi) :
+
+*Ô le poème est la branche où s'élance*
+
+*Inoublié le seul nom de l'amour !*
+
+ \
+Encore cet élan créatif nostalgique dans ["J'inventerai ma vie"](../seasons/7_septieme_saison/j_inventerai_ma_vie) :
+
+*Aux poèmes nouveaux bercer un souvenir*
+
+ \
+Puis une belle image dans ["Le moindre mot"](../seasons/7_septieme_saison/le_moindre_mot) :
+
+*Il est flocon, poème,*
+
+*Nuage d'univers,*
+
+ \
+La huitième Saison incarne la cassure entre l'illusion de l'amour et la poésie, dans ["Je n'écrirai"](../seasons/8_huitieme_saison/je_n_ecrirai) :
+
+*Je n'écrirai plus de poème*
+
+*Ecrin d'un faux malheur bohème*
+
+ \
+La neuvième Saison se réconcilie dans ["Aube d'un poème"](../seasons/9_neuvieme_saison/aube_d_un_poeme) :
+
+*Et l'aube d'un poème où les songes accourent...*
+
+ \
+Puis une image de l'automne dans ["Demain l'automne"](../seasons/9_neuvieme_saison/demain_l_automne) :
+
+*Eclats pâlis d'un cœur qui chante ses poèmes*
+
+ \
+Puis, dans ["Donne-moi ton coeur"](../seasons/9_neuvieme_saison/donne_moi_ton_cour) :
+
+*Tenir entre nos mains*
+
+*Oiseau blessé, poème*
+
+ \
+L'audace de la création abordée dans ["Mon poème"](../seasons/9_neuvieme_saison/mon_poeme) :
+
+*Mon poème, c'est étrange*
+
+*Offense les silencieux*
+
+*Noms de nos Saints et Dieux...*
+
+ \
+Les deux premiers vers écrits en 1999, à la onzième Saison, dans (["Un poème : trésors"](../seasons/11_onzieme_saison/un_poeme_tresors)) décrivent parfaitement l'élan créatif, de l'intime vers l'universel, et qui se cristallise en une unité d'écriture :
 
 *Un poème, quelques vers*
 
 *Nés d'un cœur à l'univers*
 
  \
-Un peu plus tard (["Joie"](../seasons/12_douzieme_saison/joie), à la douzième Saison) termine par une riche association d'idées : la musicalité, l'expression, la générosité, la vision, la métaphore, qui se combinent grâce au poème :
+Un peu plus tard, à la douzième Saison, (["Joie"](../seasons/12_douzieme_saison/joie)) termine par une riche association d'idées : la musicalité, l'expression, la générosité, la vision, la métaphore, qui se combinent grâce au poème :
 
 *Invitant l'oiseau, j'offrirais*
 
@@ -87,7 +190,7 @@ Beaucoup plus tard, à la dix-huitième Saison, ["Le mot manquant"](../seasons/1
 *Les mots poèmes !*
 
  \
-Dans la même Saison, ["Ma poésie"](../seasons/18_dix_huitieme_saison/ma_poesie), la force créatrice :
+Dans la même Saison, ["Ma poésie"](../seasons/18_dix_huitieme_saison/ma_poesie), la force créatrice revenue :
 
 *J'ai retrouvé l'essence*
 
@@ -148,7 +251,28 @@ Un peu plus de réalisme dans ["Il faut venir"](../seasons/31_trente_et_unieme_s
 
 ## Poésie
 
-*Analyse des occurrences de ce terme ainsi que ma définition personnelle qui en découle*
+En 1996, à la première Saison, seul le titre y fait référence, dans ["La Poésie"](../seasons/1_premiere_saison/la_poesie)... De même en 1999, à la treizième Saison, dans ["Poésie, statue"](../seasons/13_treizieme_saison/poesie_statue).
+
+ \
+Elle serait inutile ? A la sixième Saison, en 1998, dans ["Désespoir"](../seasons/6_sixieme_saison/desespoir) :
+
+*De ton silence endort une faiblesse*
+
+*Ou forge-la, poésie, écrits vains*
+
+ \
+Elle fait partie de la définition de la chanson, dans mon hommage à [Balavoine](../seasons/12_douzieme_saison/un_destin) à la douzième Saison :
+
+*Au-delà du message ou de la poésie*
+
+ \
+A la dix-huitième Saison, une affirmation disséminée dans l'ensemble du poème, et il n'y eut plus rien à ajouter après, dans ["Ma poésie"](../seasons/18_dix_huitieme_saison/ma_poesie) :
+
+*Poésie est puissance,*
+
+*Poésie est calame*
+
+*Poésie est humaine,*
 
 ## Poète
 
