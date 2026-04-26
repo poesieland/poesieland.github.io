@@ -43,7 +43,7 @@ Le plus doux des papas.
  \
 Et d'un clin d'oeil plus tendre
 
-Ton sourire le fait
+Ton sourire me fait
 
 Patienter pour attendre
 
