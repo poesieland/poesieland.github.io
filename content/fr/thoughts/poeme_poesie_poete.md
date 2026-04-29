@@ -1,8 +1,7 @@
 +++
 title = "Poème, poésie, poète..."
-date = 2026-04-21
+date = 2026-04-29
 summary = "Avril 2026"
-hidden = true
 +++
 
 ## Poème
@@ -135,7 +134,7 @@ Puis une image de l'automne dans ["Demain l'automne"](../seasons/9_neuvieme_sais
 *Eclats pâlis d'un cœur qui chante ses poèmes*
 
  \
-Puis, dans ["Donne-moi ton coeur"](../seasons/9_neuvieme_saison/donne_moi_ton_cour) :
+Ensuite, la fragilité précieuse, dans ["Donne-moi ton coeur"](../seasons/9_neuvieme_saison/donne_moi_ton_cour) :
 
 *Tenir entre nos mains*
 
@@ -151,14 +150,14 @@ L'audace de la création abordée dans ["Mon poème"](../seasons/9_neuvieme_sais
 *Noms de nos Saints et Dieux...*
 
  \
-Les deux premiers vers écrits en 1999, à la onzième Saison, dans (["Un poème : trésors"](../seasons/11_onzieme_saison/un_poeme_tresors)) décrivent parfaitement l'élan créatif, de l'intime vers l'universel, et qui se cristallise en une unité d'écriture :
+En 1999, à la onzième Saison, dans ["Un poème : trésors"](../seasons/11_onzieme_saison/un_poeme_tresors), les deux premiers vers  décrivent parfaitement l'élan créatif, de l'intime vers l'universel, et qui se cristallise en une unité d'écriture :
 
 *Un poème, quelques vers*
 
 *Nés d'un cœur à l'univers*
 
  \
-Un peu plus tard, à la douzième Saison, (["Joie"](../seasons/12_douzieme_saison/joie)) termine par une riche association d'idées : la musicalité, l'expression, la générosité, la vision, la métaphore, qui se combinent grâce au poème :
+Un peu plus tard, à la douzième Saison, ["Joie"](../seasons/12_douzieme_saison/joie) termine par une riche association d'idées : la musicalité, l'expression, la générosité, la vision, la métaphore, qui se combinent grâce au poème :
 
 *Invitant l'oiseau, j'offrirais*
 
@@ -197,7 +196,7 @@ Dans la même Saison, ["Ma poésie"](../seasons/18_dix_huitieme_saison/ma_poesie
 *Des poèmes-projets*
 
  \
-A la dix-neuvième Saison, ["I.A."](../seasons/19_dix_neuvieme_saison/ia), petit clin d'oeil :
+A la dix-neuvième Saison, ["I.A."](../seasons/19_dix_neuvieme_saison/ia), petit clin d'oeil à Jacques Brel :
 
 *D'un poème aux accents bréliens*
 
@@ -278,4 +277,102 @@ A la dix-huitième Saison, une affirmation disséminée dans l'ensemble du poèm
 
 Je n'ai jamais aimé le terme "poétesse". Comme si le fait de féminiser le terme le rendait un peu péjoratif.
 
-*Analyse des occurrences de ce terme ainsi que ma définition personnelle qui en découle*
+ \
+En 1996, la première Saison était l'occasion de plaindre l'artiste, en pensant à Baudelaire sûrement, dans ["Désespoir du poète"](../seasons/1_premiere_saison/desespoir_du_poete) :
+
+*Ô malheureux poète, ô cœur infortuné*
+
+ \
+Puis dans ["Remède"](../seasons/1_premiere_saison/remede) :
+
+*Le poète oublieux que sa muse délaisse*
+
+ \
+La deuxième Saison s'émerveille tendrement dans ["Tous les chemins"](../seasons/2_deuxieme_saison/tous_les_chemins) :
+
+*Chaque chemin mène à ma muse*
+
+*Car le poète est un enfant*
+
+*[...]*
+
+*Avant de grignoter son rêve*
+
+*Notre poète heureux s'endort*
+
+ \
+En 1998, la sixième Saison affirme mon identité, dans ["Le dernier rendez-vous"](../seasons/6_sixieme_saison/le_dernier_rendez_vous) :
+
+*A mon dernier rendez-vous*
+
+*J'irai sans baisser la tête*
+
+*Au bal des sages, des fous*
+
+*Bercer mon cœur de poète.*
+
+ \
+La huitième Saison évoque l'horizon dans ["Beau lac"](../seasons/8_huitieme_saison/beau_lac) :
+
+*Il est refuge, nuit berceau*
+
+*Rimée au songe du poète*
+
+ \
+Puis cette opposition avec le peintre, dans ["Le peintre dit"](../seasons/8_huitieme_saison/le_peintre_dit) :
+
+*[...] Poète, ton suicide*
+
+*Irradie, offre aux horizons*
+
+*Triste palette déicide.*
+
+ \
+En 2001, à la quatorzième Saison, le lien entre le poète et la mémoire dans ["A la course aux saisons"](../seasons/14_quatorzieme_saison/a_la_course_aux_saisons) :
+
+*Le poète a germé comme un fruit sur la route,*
+
+*Aux souvenirs plus chers il emmène ses dieux...*
+
+ \
+A la quinzième Saison, dans ["La pluie sur les toits"](../seasons/15_quinzieme_saison/la_pluie_sur_les_toits), la ville pluvieuse :
+
+*Tu ne sourirais qu'au poète,*
+
+*Seule est la ville, onde prophète.*
+
+ \
+A la dix-septième Saison, une affirmation joyeuse en 2004 dans ["Foi du poète"](../seasons/17_dix_septieme_saison/foi_du_poete) :
+
+*Comme la vague a mère,*
+
+*Le poète a les jours*
+
+*Qui scandent : "beau !"*
+
+ainsi qu'en 2008 dans ["Automne, renaissance"](../seasons/17_dix_septieme_saison/automne_renaissance) :
+
+*Le poète a l'essence*
+
+*Des festins neufs vainqueurs.*
+
+ \
+En 2026, à la trente-et-unième Saison, un petit jeu faisant référence aux poèmes de la première Saison, dans ["Désespoir du poète revisité"](../seasons/31_trente_et_unieme_saison/desespoir_du_poete_revisite) :
+
+*Le poète oublieux*
+
+*Que sa muse délaisse*
+
+*[...]*
+
+*Le poète gémit,*
+
+*Coeur écorché trépigne,*
+
+*[...]*
+
+*Pauvre poète flanche*
+
+*Devant tant redouté*
+
+*L'aplat de page blanche !*
