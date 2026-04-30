@@ -84,3 +84,7 @@ description = "Une seule reprise pour le moment"
 *Depuis la sixième saison*
 - ["Le poète oublieux que sa muse délaisse"](../seasons/31_trente_et_unieme_saison/desespoir_du_poete_revisite)  
 *Depuis la première saison*
+
+**A la trente-deuxième saison**
+- ["En relisant" (acrostiche)](../seasons/32_trente_deuxieme_saison/les_mots_naifs)  
+*Depuis la onzième saison*

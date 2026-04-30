@@ -6,6 +6,8 @@ Long de trois syllabes, le [trisyllabe](https://fr.wikipedia.org/wiki/Trisyllabe
 
 Je l'ai enfin étrenné en février [1997](../1997) dans [Minimal](../../seasons/3_troisieme_saison/minimal). Avant de réussir le défi du [dissyllabe](../../tags/dissyllabe).
 
+Je pense que c'est un vers parfait pour (d)écrire de façon impressionniste.
+
 Les catégories les plus représentées :
 
 {{% include "../../includes/metric-3_categories.md" hidefirstheading %}}
