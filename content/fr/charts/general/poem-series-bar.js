@@ -10,7 +10,8 @@ import { addBarChart } from '../add-chart.js'
     { label: '8j', value: 3, color: 'rgba(72, 149, 239, 1)' },
     { label: '9j', value: 4, color: 'rgba(72, 149, 239, 1)' },
     { label: '10j', value: 2, color: 'rgba(72, 149, 239, 1)' },
-    { label: '13j', value: 3, color: 'rgba(72, 149, 239, 1)' },
+    { label: '13j', value: 2, color: 'rgba(72, 149, 239, 1)' },
+    { label: '14j', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '19j', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: '31j', value: 1, color: 'rgba(72, 149, 239, 1)' },
   ];

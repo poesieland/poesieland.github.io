@@ -11,7 +11,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 3, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
-    { label: 'Création', value: 10, color: 'rgba(220, 147, 246, 1)' },
+    { label: 'Création', value: 11, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 3, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 20, color: 'rgba(140, 7, 221, 1)' },

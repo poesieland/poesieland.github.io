@@ -241,6 +241,8 @@ A la trente-et-unième Saison, ["Exprime-toi"](../seasons/31_trente_et_unieme_sa
 
 *Puis vois-le qui s'envole*
 
+Avec aussi une [reprise de cet élan dans le refrain à la trente-deuxième Saison : "Nécessité"](../seasons/32_trente_deuxieme_saison/necessite).
+
  \
 Un peu plus de réalisme dans ["Il faut venir"](../seasons/31_trente_et_unieme_saison/il_faut_venir) :
 
