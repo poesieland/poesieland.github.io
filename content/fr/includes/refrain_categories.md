@@ -10,4 +10,4 @@ title = "Associations privilégiées"
 - [Espoir](/categories/espoir)
 - [Automne](/categories/automne)
 - [Apprentissage](/categories/apprentissage)
-- [Passion](/categories/passion)
+- [Eté](/categories/eté)

@@ -33,6 +33,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Tout fait sens (30) 2025-26', value: 3, color: 'rgba(72, 149, 239, 1)' },
     { label: 'Emotions mouvantes (31) 2026', value: 1, color: 'rgba(72, 149, 239, 1)' },
     { label: 'Témoin jour après jour (32) 2026', value: 0, color: 'rgba(72, 149, 239, 1)' },
+    { label: 'La musique des mots (33) 2026', value: 0, color: 'rgba(72, 149, 239, 1)' },
   ];
     addBarChart('poems-metrique_variableBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
