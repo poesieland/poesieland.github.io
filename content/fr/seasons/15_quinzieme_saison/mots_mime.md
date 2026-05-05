@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Marions nos fleurs, soleils
 
-Ornés d'émotions, pétales;
+Ornés d'émotions, pétales ;
 
 Tressons chaque branche, ors pâles
 
@@ -21,7 +21,7 @@ Sur gestes-oiseaux, pareils.
  \
 Marions nos chants, hypnose,
 
-Inspirés de ciel, accords;
+Inspirés de ciel, accords ;
 
 Marions la vie en rose
 

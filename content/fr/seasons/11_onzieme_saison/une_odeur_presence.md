@@ -39,7 +39,7 @@ Sur les fleurs, leurs tiges.
  \
 Envolé, printemps
 
-Né d'un jour qui passe;
+Né d'un jour qui passe ;
 
 Croisant chaque trace
 

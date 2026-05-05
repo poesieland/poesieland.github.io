@@ -27,7 +27,7 @@ Rieuse, humaine, vit d'instants.
 
 Immense, je rythme le temps
 
-Vers la route; mes arbres rêvent,
+Vers la route ; mes arbres rêvent,
 
 Inconscients babils de sèves.
 

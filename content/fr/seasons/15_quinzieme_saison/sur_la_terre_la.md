@@ -16,7 +16,7 @@ Une lumière en ce soir apaisé,
 
 Revenu, calme, un silence, mirages
 
-Libre d'oiseaux; demain le ciel braisé...
+Libre d'oiseaux ; demain le ciel braisé...
 
  \
 Ai-je trouvé le sens du monde à terre ?

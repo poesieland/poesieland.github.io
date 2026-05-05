@@ -20,7 +20,7 @@ Un souvenir au pas tranquille,
  \
 D'aimer ces lieux, nouveau semblable ?
 
-Un souvenir… un cœur… un cœur?
+Un souvenir… un cœur… un cœur ?
 
 Et cette ville au temps charmeur,
 

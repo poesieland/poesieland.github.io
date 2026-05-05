@@ -17,7 +17,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Voici bien venu l'an, voilà nombre des sages:
+Voici bien venu l'an, voilà nombre des sages :
 
 La pyramide à l'arbre étrenne son regard,
 
@@ -39,7 +39,7 @@ Bercé par la violette, un parfum - des mirages -
 
 Amène arbre grandi, sur la terre il est tard.
 
-Immensité du cœur, au-delà sans égard:
+Immensité du cœur, au-delà sans égard :
 
 Voici bien venu l'an, voilà nombre des sages.
 

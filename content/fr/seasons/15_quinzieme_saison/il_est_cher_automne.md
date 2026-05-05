@@ -23,14 +23,14 @@ Tressé de vent, de larmes de son chant,
 
 Cher à mon cœur, c'est mère de légendes,
 
-Harmonie au sens, à ces sarabandes:
+Harmonie au sens, à ces sarabandes :
 
 Enfants d'hier, rêvions. Se détachant
 
  \
 Rougi d'une encre à la source des sèves
 
-Automne dit: tout ce qui paraissait
+Automne dit : tout ce qui paraissait
 
 Un éphémère instant qui se berçait
 

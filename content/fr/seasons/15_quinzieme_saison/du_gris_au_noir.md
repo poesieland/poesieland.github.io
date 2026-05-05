@@ -14,7 +14,7 @@ Dans l'automne qui court et berce, flagellé,
 
 Un rêve de soleil, en mon sein je promène
 
-Griserie à ces jours: l'ombre d'un ciel gelé
+Griserie à ces jours : l'ombre d'un ciel gelé
 
 Revit battant de toi, puisque demain t'amène.
 

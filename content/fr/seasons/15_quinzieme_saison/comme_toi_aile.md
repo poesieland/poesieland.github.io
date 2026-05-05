@@ -14,7 +14,7 @@ Caresse-moi de tes respirs,
 
 Où je n'ai besoin de comprendre,
 
-Mêlé, que l'amour aux désirs;
+Mêlé, que l'amour aux désirs ;
 
 Mirés, mots d'âme et mots à prendre.
 

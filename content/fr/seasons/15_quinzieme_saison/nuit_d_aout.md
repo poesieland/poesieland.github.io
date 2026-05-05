@@ -28,7 +28,7 @@ De bords roses même fadeur.
  \
 Dans la moiteur d'étoiles s'orne
 
-Horizon pollué; les cœurs
+Horizon pollué ; les cœurs
 
 Non plus ne goûtent les rancœurs
 

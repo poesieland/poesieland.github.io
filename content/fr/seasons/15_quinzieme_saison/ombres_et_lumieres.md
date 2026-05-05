@@ -30,16 +30,16 @@ Tout ce qu'Il sait. Le temps vibre, un cristal vainqueur...
  \
 L'éclat, le cri : lumière ! enivre, primordiale,
 
-Une planète, deux...pendule de couleurs,
+Une planète, deux... pendule de couleurs,
 
-Mirant le ciel, puis l'eau; versants riches, pâleurs
+Mirant le ciel, puis l'eau ; versants riches, pâleurs
 
 Irradiées. Demain, l'alliance radiale
 
  \
 Et l'autrefois, exergue, alternent chant...
 
-Rives nommées, ici; le jour, la nuit, tout passe,
+Rives nommées, ici ; le jour, la nuit, tout passe,
 
 Existe au nouvel oeil, globe d'un sens qui trace,
 

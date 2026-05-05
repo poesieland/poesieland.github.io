@@ -23,7 +23,7 @@ Ce jour je serai nouvelle,
 
 Libre, l'âme en un bouquet
 
-Azur, vert et blanc, coquet;
+Azur, vert et blanc, coquet ;
 
 Tressé de l'été, prunelle.
 

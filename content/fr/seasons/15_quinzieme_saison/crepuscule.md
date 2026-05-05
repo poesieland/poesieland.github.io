@@ -12,11 +12,11 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Chaque éclat de verre ou marbre
 
-Rit dans le soir: foncé l'arbre,
+Rit dans le soir : foncé l'arbre,
 
 Et carmin plus haut, la nuit,
 
-Poudre de sang, d'encre. Lui:
+Poudre de sang, d'encre. Lui :
 
 Un jour brisé dans un rêve,
 

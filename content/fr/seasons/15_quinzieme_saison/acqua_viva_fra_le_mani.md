@@ -11,9 +11,9 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Aller vers toi pour bercer chances;
+Aller vers toi pour bercer chances ;
 
-Claire, danser contre tes hanches:
+Claire, danser contre tes hanches :
 
 Qui n'a pas joint coupe des mains,
 
@@ -47,7 +47,7 @@ Attraper avec toi l'espace,
 
 Nuée ou vague qui s'enlace,
 
-Instants; l'onde perlée aux cils.
+Instants ; l'onde perlée aux cils.
 
 {{% notice style="primary" %}}
 "Eau vive entre les mains" en italien.

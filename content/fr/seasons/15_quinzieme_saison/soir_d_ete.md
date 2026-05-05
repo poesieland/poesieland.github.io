@@ -11,7 +11,7 @@ locations = ["Paris"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Silencieux l'espace en la longue avenue:
+Silencieux l'espace en la longue avenue :
 
 Oisifs, mon pas savoure en rythmes arborés
 

@@ -10,7 +10,7 @@ locations = ["Côte atlantique"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-La cité m'interpelle:
+La cité m'interpelle :
 
 Bon roi, huguenot fut
 
