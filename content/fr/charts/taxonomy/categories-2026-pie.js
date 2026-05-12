@@ -9,7 +9,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ville', value: 1, color: 'rgba(152, 151, 88, 1)' },
     { label: 'Crépuscule', value: 6, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
-    { label: 'Enfance et adolescence', value: 3, color: 'rgba(247, 235, 253, 1)' },
+    { label: 'Enfance et adolescence', value: 4, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 11, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },

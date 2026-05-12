@@ -12,8 +12,7 @@ tags = [
   "mai",
   "nature",
   "octosyllabe",
-  "saisons",
-  "famille"
+  "saisons"
 ]
 acrostiche = "Un an de plus"
 verseLength = 8

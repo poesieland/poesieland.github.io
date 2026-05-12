@@ -596,5 +596,6 @@
   ],
   "frontMatter.file.preserveCasing": true,
   "frontMatter.snippets.wrapper.enabled": false,
-  "frontMatter.copilot.enabled": false
+  "frontMatter.copilot.enabled": false,
+  "frontMatter.file.slugSeparator": "_"
 }
