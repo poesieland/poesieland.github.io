@@ -15,7 +15,11 @@ Ce mot-clé regroupe les catégories suivantes :
 
 Certains poèmes évoquent plus d'une saison...
 
-## Deux qui se suivent[^1]
+## Deux qui se suivent...
+
+### Printemps et été
+- [Du printemps à l'été](../../seasons/33_trente_troisieme_saison/du_printemps_a_l_ete)  
+*à la trente-troisième saison*
 
 ### Eté et automne
 - [Par omission](../../seasons/16_seizieme_saison/par_omission)  
@@ -77,5 +81,3 @@ Certains poèmes évoquent plus d'une saison...
 *à la vingt-sixième saison*
 - [On passera](../../seasons/27_vingt_septieme_saison/on_passera)  
 *à la vingt-septième saison*
-
-[^1]: sauf printemps et été...
