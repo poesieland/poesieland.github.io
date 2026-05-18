@@ -39,7 +39,7 @@ Attends mon coeur, là-bas t'attendent des écoles,
 La fille devient femme et le garçon velu !
 
  \
-Revoici face à moi l'alphabet, rayonnages
+Revoici face à moi l'alphabet, rayonnage
 
 Somptueux, que choisir ? Merveilleux Barjavel
 
