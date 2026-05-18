@@ -24,7 +24,7 @@ Au-delà du bonheur
 
 Elle chantait rêves et drame,
 
-Elle était presque femme:
+Elle était presque femme :
 
 Aux arbres emmêlant leur fleur
 

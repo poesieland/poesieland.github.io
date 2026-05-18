@@ -16,7 +16,7 @@ Les corps liés, déliés, désarmés
 
 Annoncent rêve et souffle de l'espace,
 
-Nuée en or, et vert, et blanc; plus lasse
+Nuée en or, et vert, et blanc ; plus lasse
 
 Seule la brume envoie au lac sans teint
 

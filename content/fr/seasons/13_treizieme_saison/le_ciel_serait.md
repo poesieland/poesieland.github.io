@@ -19,7 +19,7 @@ Ce songe doux quand au-dessus,
 Intense, des toits, sa chandelle
 
  \
-Eclaire un peu d'un jaune blanc:
+Eclaire un peu d'un jaune blanc :
 
 La lune à son destin de femme
 

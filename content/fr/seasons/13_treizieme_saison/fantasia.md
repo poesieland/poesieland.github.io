@@ -21,7 +21,7 @@ Touchée à chaque mur qui s'ambre...
  \
 Amour, pour deux je rêverai
 
-Sur les reflets roses d'icône;
+Sur les reflets roses d'icône ;
 
 Intimité se bercerait
 

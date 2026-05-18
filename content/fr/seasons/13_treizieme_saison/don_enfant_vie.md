@@ -36,7 +36,7 @@ Né de l'imaginaire un temps que sans railler
 Tous ont cru le plus beau, grandir, des joies et crises...
 
  \
-Vois-tu, la saison dit: à ton tour de partir,
+Vois-tu, la saison dit : à ton tour de partir,
 
 Intimement confiant, demain, pour découvrir
 

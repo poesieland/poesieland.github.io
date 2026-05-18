@@ -10,7 +10,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Chanter sans mot: je veux, l'écho
+Chanter sans mot : je veux, l'écho
 
 Hanté de nuit verse en écot
 

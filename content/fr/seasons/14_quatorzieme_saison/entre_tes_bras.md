@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Emmène-moi, ce monde étrange
 
-N'a pas de ciel, pas d'avenir;
+N'a pas de ciel, pas d'avenir ;
 
 Tous les silences à venir
 
@@ -23,7 +23,7 @@ Entre tes bras le temps d'un bal.
  \
 Troublé, tu sais ce chant : éclore...
 
-En arabesques se colore;
+En arabesques se colore ;
 
 Suave un souffle madrigal.
 

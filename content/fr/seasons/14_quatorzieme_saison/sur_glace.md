@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Souples, les corps dansent au lac
 
-Une vertu: d'apothéose
+Une vertu : d'apothéose
 
 Relient et joignent, portée ose
 

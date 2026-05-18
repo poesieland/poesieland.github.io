@@ -11,23 +11,23 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-Ne cherche pas ce qui te manque:
+Ne cherche pas ce qui te manque :
 
 On ne peut pas mettre à la banque
 
-Noces d'un jour; un square vert
+Noces d'un jour ; un square vert
 
 A traversé la neige, on perd
 
 Mémoire, essence, ailleurs, pétales
 
-Otés un par un, ovales,
+Ôtés un par un, ovales,
 
 Ronds, toujours si frais...
 
 Passer c'est vivre, les coffrets
 
-Inventoriés n'ont plus richesse:
+Inventoriés n'ont plus richesse :
 
 Un parfum fané sans détresse.
 

@@ -32,13 +32,13 @@ Désir confond couleur criarde.
 
 Echarpe au cou leur crie harde :
 
-Paysage aux loups blesse l'air;
+Paysage aux loups blesse l'air ;
 
 Arbres, eaux, l'oubli du clair
 
 Rêve nous charrie en des fauves
 
-Terreurs; un chat rit d'ombres mauves.
+Terreurs ; un chat rit d'ombres mauves.
 
 {{% notice style="primary" %}}
 Acrostiche : Case départ.

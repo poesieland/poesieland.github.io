@@ -14,7 +14,7 @@ Pleurer comme une petite fille
 
 Laisse un jeu pour suivre sa famille,
 
-Etrangère au départ tout d'un coup;
+Etrangère au départ tout d'un coup ;
 
 Une larme a glissé dans son cou.
 

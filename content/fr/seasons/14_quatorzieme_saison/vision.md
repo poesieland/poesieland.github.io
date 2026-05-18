@@ -20,7 +20,7 @@ Ou mes rêves dans leurs élans...
  \
 A mon adieu la lune belle
 
-Salue : un sourire figé;
+Salue : un sourire figé ;
 
 Juste un bouton, pas de tige et
 

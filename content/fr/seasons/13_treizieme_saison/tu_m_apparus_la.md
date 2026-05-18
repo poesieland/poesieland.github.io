@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Tu m'apparus comme on s'approche
 
-Un peu hésitant d'un bonheur:
+Un peu hésitant d'un bonheur :
 
 Mes pas résonnent sur la roche
 

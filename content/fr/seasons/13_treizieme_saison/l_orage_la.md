@@ -14,9 +14,9 @@ Le ciel soudain plus sombre imite un cinéma
 
 Ordinaire où le film après la bande-annonce
 
-Ravira le spectacle, un thème pour climat;
+Ravira le spectacle, un thème pour climat ;
 
-A l'oreille le Sud souffle, le ciel se fronce:
+A l'oreille le Sud souffle, le ciel se fronce :
 
  \
 Gerbes d'éclairs sans lieu d'un trait aux angles secs

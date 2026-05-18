@@ -33,7 +33,7 @@ Offrira fête belle, et les verres remplis
 
 Germeront de discours, puis la nuit, lune, étoile,
 
-Naîtront d'une main libre; collines en leurs plis
+Naîtront d'une main libre ; collines en leurs plis
 
 Ouvrent l'éternel art de notes et de toile.
 

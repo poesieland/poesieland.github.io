@@ -25,7 +25,7 @@ Ne me regarde ou n'imagine, moi,
 
 Eclat de vie au lieu de solitude,
 
-Adieu, n'ai pas trouvé ma plénitude;
+Adieu, n'ai pas trouvé ma plénitude ;
 
 Néant nous mange, et demain pour chacun
 

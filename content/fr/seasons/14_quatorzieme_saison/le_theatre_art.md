@@ -21,7 +21,7 @@ Humble théâtre, obscur, fausse joie ou démence
  \
 Exsangue, vivifiée... Portraits vrais sans miroir,
 
-Abîment l'être; cri sans fin: spectacle
+Abîment l'être ; cri sans fin : spectacle
 
 Trouve son unisson, profane tabernacle
 
@@ -30,11 +30,11 @@ Renversé dans l'échange et le rêve d'un soir.
  \
 Etre, plus qu'autrefois, l'alliance charmeuse
 
-A laquelle se tisse un brin plus revanchard;
+A laquelle se tisse un brin plus revanchard ;
 
 Revoici passions, intrigues, panache, art,
 
-Tressés à d'autres jours, immortels: scène heureuse.
+Tressés à d'autres jours, immortels : scène heureuse.
 
 {{% notice style="primary" %}}
 Acrostiche : Le théâtre, art.

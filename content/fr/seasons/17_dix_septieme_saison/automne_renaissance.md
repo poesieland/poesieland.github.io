@@ -11,7 +11,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 L'automne est atomique
 
-De feuilles, de couleurs;
+De feuilles, de couleurs ;
 
 La nature en panique :
 

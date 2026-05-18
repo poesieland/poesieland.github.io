@@ -29,7 +29,7 @@ Invisible l'espace où sans soir ni matin
 S'envole le seul sens effleuré par ta bouche.
 
  \
-Retisser le présent par la corde du temps:
+Retisser le présent par la corde du temps :
 
 Infernal jeu mortel, mes mots rient à mes veilles,
 

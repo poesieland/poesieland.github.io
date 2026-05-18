@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Viens bel amant, d'un cœur floral
 
-Illuminer l'onde: choral
+Illuminer l'onde : choral
 
 Epris de toi comme un présage
 

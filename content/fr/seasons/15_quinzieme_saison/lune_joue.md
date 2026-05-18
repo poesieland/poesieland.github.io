@@ -12,7 +12,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 
 Lune au ciel crénelé,
 
-Un nuage te charme;
+Un nuage te charme ;
 
 Nué, ô l'écervelé
 

@@ -26,7 +26,7 @@ Sur les chemins de son départ.
 
 Ambré le ciel sans un regard
 
-Inachevé ne dit son geste;
+Inachevé ne dit son geste ;
 
 Tourné vers l'ouest le cœur n'y reste.
 

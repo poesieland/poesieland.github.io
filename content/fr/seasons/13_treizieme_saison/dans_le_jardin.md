@@ -36,7 +36,7 @@ En chatoyant sous les trois saules,
 
 J'entends résonner soudain l'ut
 
-Au ciel; les oiseaux bruns s'envolent,
+Au ciel ; les oiseaux bruns s'envolent,
 
  \
 Rires du temps voilé, planeur.

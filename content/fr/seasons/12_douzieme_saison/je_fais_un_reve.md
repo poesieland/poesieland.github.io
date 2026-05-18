@@ -32,7 +32,7 @@ Rosi, le monde me berce
 
 Et je vogue d'un vol blanc
 
-Vers l'éveil; cet instant lent
+Vers l'éveil ; cet instant lent
 
 En ce songe se disperse.
 

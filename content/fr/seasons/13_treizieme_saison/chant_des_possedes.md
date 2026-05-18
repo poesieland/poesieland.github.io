@@ -16,7 +16,7 @@ Habiterai-je ton cœur,
 
 A la veine de ton marbre,
 
-Naissant, c'est moi le sculpteur:
+Naissant, c'est moi le sculpteur :
 
  \
 Tous les rêves sous mon charme...

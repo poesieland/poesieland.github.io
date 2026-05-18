@@ -23,7 +23,7 @@ Au-delà de tout espérable
 
 Partager quelques pas, le sable
 
-Lisse le temps, ciel bien-aimé;
+Lisse le temps, ciel bien-aimé ;
 
 Ailleurs se bercera l'acmé,
 

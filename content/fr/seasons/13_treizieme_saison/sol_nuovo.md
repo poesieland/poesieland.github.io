@@ -24,7 +24,7 @@ Une barque s'évapore :
 
 Onde, un parfum m'y jeta
 
-Vers ce sable, cette flore;
+Vers ce sable, cette flore ;
 
 Ô terra incognita !
 

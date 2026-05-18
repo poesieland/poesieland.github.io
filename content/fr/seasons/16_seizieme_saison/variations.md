@@ -13,7 +13,7 @@ Au bout du train c'est la mer
 
 Et tous mes rêves de gosse.
 
-Eau bout; d'ut rince l'amer
+Eau bout ; d'ut rince l'amer
 
 Soleil qui creuse sa fosse.
 

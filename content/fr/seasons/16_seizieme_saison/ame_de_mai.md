@@ -23,7 +23,7 @@ Perles d'un écrin rose, au matin l'heure rit
  \
 Pour grandir avec l'arbre en feuilles soliloques.
 
-Au merle, au ramier bleu, répond chardonneret;
+Au merle, au ramier bleu, répond chardonneret ;
 
 Pour protéger leur nid de brindilles, de loques
 

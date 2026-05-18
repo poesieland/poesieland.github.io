@@ -10,7 +10,7 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
-... Car il n'est de soleil pour bercer la cité;
+... Car il n'est de soleil pour bercer la cité ;
 
 Où sont partis le rêve, et le temps, la gaîté ?
 

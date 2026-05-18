@@ -24,7 +24,7 @@ Doux et parfaits, élans, visage et main
 
 Entre mes doigts. Vous êtes de ma taille,
 
-Simplement beau; je touche et je détaille…
+Simplement beau ; je touche et je détaille...
 
 L'éclat du monde aura changé de ciel
 
