@@ -18,7 +18,7 @@ I also use a great javascript charting tool: Chart.js. The theme indeed has nice
 
 Side note: FrontMatter VS Code extension needs the theme to be cloned else some settings files are missing, following [this instruction](https://mcshelby.github.io/hugo-theme-relearn/introduction/quickstart/index.html#use-as-a-git-submodule).
 
-My standard is to have poem files using underscores for spaces (like poem IDs), so I need to update the file name after adding it using FrontMatter VS Code extension.
+My standard is to have poem files using underscores for spaces (like poem IDs), so I need to have the expected file name after creating a new file using FrontMatter VS Code extension. Thanks to a newly added option (`frontMatter.file.slugSeparator`) I just have to enter title in lowercase without accents and spaces get converted to underscore. Then edit title to real value.
 
 This repository also uses two other repositories:
 

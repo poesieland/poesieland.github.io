@@ -4,6 +4,8 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
+[L'insouciance, écrit le 18.05.2026](../seasons/33_trente_troisieme_saison/l_insouciance)
+
 [La bibliothèque, écrit le 15.05.2026](../seasons/33_trente_troisieme_saison/la_bibliotheque)
 
 [Pluie de printemps, écrit le 14.05.2026](../seasons/33_trente_troisieme_saison/pluie_de_printemps)

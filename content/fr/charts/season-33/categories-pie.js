@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Romantisme', value: 1, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(179, 103, 0, 1)' },
-    { label: 'Enfance et adolescence', value: 3, color: 'rgba(247, 235, 253, 1)' },
+    { label: 'Enfance et adolescence', value: 4, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Etre', value: 1, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Eau douce', value: 3, color: 'rgba(0, 127, 255, 1)' },
