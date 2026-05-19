@@ -197,57 +197,55 @@ div.caption {
     line-height: 1.3;
 }
 
-/* 1. Masquer l'icône générée automatiquement par Relearn à gauche du bloc */
+/* =============================================
+   Taxonomy : locations (badge orange FA)
+   ============================================= */
+
+/* Masque l'icône auto-générée par Relearn si présente */
 .custom-locations > i {
-    display: none !important;
+  display: none;
 }
 
-/* 2. Nettoyage de la structure de liste */
+/* Conteneur inline */
 .custom-locations {
-    display: inline-block !important;
-    margin: 0.5rem 0;
-}
-.custom-locations ul {
-    list-style: none !important;
-    padding: 0 !important;
-    margin: 0 !important;
-    display: inline-flex;
-    gap: 0.4rem;
-}
-.custom-locations ul li {
-    display: inline-block;
+  display: inline-block;
+  margin: 0.5rem 0;
 }
 
-/* 3. Style du bloc orange */
+/* Liste horizontale */
+.custom-locations ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+/* Chaque badge */
 .custom-locations ul li a.term-link {
-    display: inline-flex;
-    align-items: center;
-    padding: 0.25rem 0.6rem;
-    font-size: 0.85rem;
-    border-radius: 4px;
-    text-decoration: none !important;
-    background-color: var(--VARIABLE-TAGS-BG-color, orange) !important;
-    color: var(--INTERNAL-TAGS-TEXT-color, #ffffff) !important;
-    transition: opacity 0.2s ease;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  padding: 0.25rem 0.6rem;
+  font-size: 0.8125rem;
+  border-radius: 4px;
+  text-decoration: none;
+  background-color: #ed9909; /* orange */
+  color: #ffffff;
+  transition: opacity 0.2s ease;
 }
 
 .custom-locations ul li a.term-link:hover {
-    opacity: 0.85;
+  text-decoration: underline;
 }
 
-/* 4. Réparation et injection de l'icône dans le badge */
+/* Icône Font Awesome location-dot (fa-solid fa-location-dot \f3c5) */
 .custom-locations ul li a.term-link::before {
-    content: "\f3c5" !important; /* Code Unicode location-dot */
-    
-    /* Correction de l'affichage Font Awesome pour éviter l'icône cassée */
-    font-family: "Font Awesome 6 Free", "Font Awesome 5 Free", "FontAwesome" !important;
-    font-style: normal !important;
-    font-variant: normal !important;
-    text-rendering: auto !important;
-    -webkit-font-smoothing: antialiased !important;
-    font-weight: 900 !important; /* Force le mode Solid */
-    
-    color: inherit !important; 
-    margin-right: 0.4rem;
-    font-size: 0.95em;
+  content: "\f3c5";
+  font-family: "Font Awesome 6 Free", "Font Awesome 5 Free", FontAwesome;
+  font-weight: 900; /* Solid requis pour cette icône */
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  font-size: 0.95em;
 }
