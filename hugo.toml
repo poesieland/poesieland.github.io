@@ -3,7 +3,7 @@ languageCode = 'fr-FR'
 title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
-theme = "hugo-theme-relearn"
+theme = 'hugo-theme-relearn'
 defaultContentLanguage = 'fr'
 enableEmoji = true
 removePathAccents = true
@@ -20,12 +20,12 @@ titleCaseStyle = 'firstupper'
 # menu; if no setting is given, the first menu level is set to false, all others to true;
 # this can be overridden in the pages frontmatter
 alwaysopen = false
-# Prefix URL to edit current page. Will display an "Edit" button on top right hand corner of every page.
+# Prefix URL to edit current page. Will display an "Edit' button on top right hand corner of every page.
 # Useful to give opportunity to people to create merge request for your doc.
 # See the config.toml file from this documentation site to have an example.
-editURL = ""
+editURL = ''
 # Author of the site, will be used in meta information
-author.name = "Barbara Post"
+author.name = 'Barbara Post'
 # Disable Display of Author’s Email
 hideAuthorEmail = true
 # Adjust the Timestamp Format
@@ -61,61 +61,61 @@ disableRootBreadcrumb = true
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
 # Specifies the remote location of the MathJax js
-customMathJaxURL = "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+customMathJaxURL = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
 # Initialization parameter for MathJax, see MathJax documentation
-mathJaxInitialize = "{}"
+mathJaxInitialize = '{}'
 # If set to true, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
 mermaid.force = false
 # Specifies the remote location of the Mermaid js
-customMermaidURL = "https://unpkg.com/mermaid/dist/mermaid.min.js"
+customMermaidURL = 'https://unpkg.com/mermaid/dist/mermaid.min.js'
 # Initialization parameter for Mermaid, see Mermaid documentation
-mermaidInitialize = "{ \"theme\": \"default\" }"
+mermaidInitialize = '{ "theme": "default" }'
 # If set to true, load the OpenAPI module on every page regardless if a Swagger shortcode is present
 openapi.force = false
 # Hide Next and Previous page buttons normally displayed full height beside content
 disableNextPrev = false
 # Order sections in menu by "weight" or "title". Default to "weight";
 # this can be overridden in the pages frontmatter
-ordersectionsby = "weight"
+ordersectionsby = 'weight'
 # Change the title separator. Default to "::".
-titleSeparator = "-"
+titleSeparator = '-'
 # If set to true, the menu in the sidebar will be displayed in a collapsible tree view. Although the functionality works with old browsers (IE11), the display of the expander icons is limited to modern browsers
 collapsibleMenu = false
 # If a single page can contain content in multiple languages, add those here
-additionalContentLanguage = [ "en" ]
+additionalContentLanguage = [ 'en' ]
 # If set to true, no index.html will be appended to prettyURLs; this will cause pages not
 # to be servable from the file system
 disableExplicitIndexURLs = false
 # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
-externalLinkTarget = "_blank"
-themeVariantAuto = [ "relearn-custom-light", "relearn-dark" ]
+externalLinkTarget = '_blank'
+themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   [[params.themeVariant]]
-    identifier = "relearn-auto"
-    name = "Relearn Light/Dark"
+    identifier = 'relearn-auto'
+    name = 'Relearn Light/Dark'
     auto = []
   [[params.themeVariant]]
-    identifier = "relearn-custom-light"
+    identifier = 'relearn-custom-light'
   [[params.themeVariant]]
-    identifier = "relearn-dark"
+    identifier = 'relearn-dark'
   [[params.themeVariant]]
-    identifier = "zen-auto"
-    name = "Zen Light/Dark"
-    auto = [ "zen-custom-light", "zen-dark" ]
+    identifier = 'zen-auto'
+    name = 'Zen Light/Dark'
+    auto = [ 'zen-custom-light', 'zen-dark' ]
   [[params.themeVariant]]
-    identifier = "zen-custom-light"
+    identifier = 'zen-custom-light'
   [[params.themeVariant]]
-    identifier = "zen-dark"
+    identifier = 'zen-dark'
   [[params.themeVariant]]
-    identifier = "neon"
+    identifier = 'neon'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
-    name = "Chartjs"
+    name = 'Chartjs'
 
 [params.imageEffects]
   border = false
@@ -153,77 +153,77 @@ minify = true
 
 [Languages]
     [Languages.en]
-        languageName = "English"
-        contentDir = "content/en"
-        title = "Poesieland"
+        languageName = 'English'
+        contentDir = 'content/en'
+        title = 'Poesieland'
         weight = 2
         [languages.en.params]
             landingPageName = "<i class='fas fa-home'></i> Home"
 
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-layer-group'></i> Categories"
-            url = "/categories"
+            name = '<i class="fas fa-fw fa-layer-group"></i> Categories'
+            url = '/categories'
             weight = 50
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-search'></i> Freetext search"
-            url = "/search/index.html"
+            name = '<i class="fas fa-fw fa-search"></i> Freetext search'
+            url = '/search/index.html'
             weight = 60
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-bullhorn'></i> Credits"
-            url = "/more/credits"
+            name = '<i class="fas fa-fw fa-bullhorn"></i> Credits'
+            url = '/more/credits'
             weight = 70
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fa-brands fa-facebook'></i> Facebook"
-            url = "https://www.facebook.com/profile.php?id=61584635947640"
+            name = '<i class="fa-brands fa-facebook"></i> Facebook'
+            url = 'https://www.facebook.com/profile.php?id=61584635947640'
             weight = 75
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fa-brands fa-github'></i> Github"
-            url = "https://github.com/postb99"
+            name = '<i class="fa-brands fa-github"></i> Github'
+            url = 'https://github.com/postb99'
             weight = 80
         [[Languages.en.menu.shortcuts]]
-            name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
-            url = "https://www.linkedin.com/in/barbara-post-1b323714"
+            name = '<i class="fa-brands fa-linkedin"></i> LinkedIn'
+            url = 'https://www.linkedin.com/in/barbara-post-1b323714'
             weight = 90
 
     [Languages.fr]
-        languageName = "Français"
-        contentDir = "content/fr"
-        title = "Poésieland"
+        languageName = 'Français'
+        contentDir = 'content/fr'
+        title = 'Poésieland'
         weight = 1
         [languages.fr.params]
-            landingPageName = "<i class='fas fa-home'></i> Accueil"
+            landingPageName = '<i class="fas fa-home"></i> Accueil'
 
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-tags'></i> Mots-clés"
-            url = "/tags"
+            name = '<i class="fas fa-fw fa-tags"></i> Mots-clés'
+            url = '/tags'
             weight = 40
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-layer-group'></i> Catégories"
-            url = "/categories"
+            name = '<i class="fas fa-fw fa-layer-group"></i> Catégories'
+            url = '/categories'
             weight = 50
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-search'></i> Recherche libre"
-            url = "/search/index.html"
+            name = '<i class="fas fa-fw fa-search"></i> Recherche libre'
+            url = '/search/index.html'
             weight = 60
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fa fas fa-feather-pointed'></i> Mes poèmes anglophones"
-            url = "../en/"
+            name = '<i class="fa fas fa-feather-pointed"></i> Mes poèmes anglophones'
+            url = '../en/'
             weight = 70
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fas fa-fw fa-bullhorn'></i> Crédits"
-            url = "/more/credits"
+            name = '<i class="fas fa-fw fa-bullhorn"></i> Crédits'
+            url = '/more/credits'
             weight = 80
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fa-brands fa-facebook'></i> Facebook"
-            url = "https://www.facebook.com/profile.php?id=61584635947640"
+            name = '<i class="fa-brands fa-facebook"></i> Facebook'
+            url = 'https://www.facebook.com/profile.php?id=61584635947640'
             weight = 85
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fa-brands fa-github'></i> Github"
-            url = "https://github.com/postb99"
+            name = '<i class="fa-brands fa-github"></i> Github'
+            url = 'https://github.com/postb99'
             weight = 90
         [[Languages.fr.menu.shortcuts]]
-            name = "<i class='fa-brands fa-linkedin'></i> LinkedIn"
-            url = "https://www.linkedin.com/in/barbara-post-1b323714"
+            name = '<i class="fa-brands fa-linkedin"></i> LinkedIn'
+            url = 'https://www.linkedin.com/in/barbara-post-1b323714'
             weight = 100
 
 [markup]
@@ -233,3 +233,8 @@ minify = true
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
       block=true
+
+      [taxonomies]
+        category = 'categories'
+        tag = 'tags'
+        location = 'locations'
