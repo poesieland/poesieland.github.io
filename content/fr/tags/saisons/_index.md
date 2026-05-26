@@ -5,7 +5,7 @@ title = "Saisons"
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Printemps](../../categories/printemps)
-- [Eté](../../categories/ete)
+- [Eté](../../categories/eté)
 - [Automne](../../categories/automne)
 - [Hiver](../../categories/hiver)
 

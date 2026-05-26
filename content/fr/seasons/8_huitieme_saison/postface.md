@@ -8,7 +8,7 @@ tags = ["philosophie", "1998", "acrostiche", "octosyllabe"]
 info = """
 Dernier poème de mon recueil En six lettres : t'aimer.
 
-[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant)
+[Lire le première poème du recueil](../5_cinquieme_saison/le_depart_de_l_amant)
 """
 
 acrostiche = "Andrea Andrea"
@@ -45,7 +45,7 @@ A l'ombre où l'ombre se défait.
 {{% notice style="primary" %}}
 Dernier poème de mon recueil En six lettres : t'aimer.
 
-[Lire le première poème du recueil](../../5_cinquieme_saison/le_depart_de_l_amant).
+[Lire le première poème du recueil](../5_cinquieme_saison/le_depart_de_l_amant).
 
 Acrostiche : Andrea Andrea.
 {{% /notice %}}
