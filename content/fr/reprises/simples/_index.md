@@ -60,8 +60,6 @@ description = "Une seule reprise pour le moment"
 *Depuis la deuxième saison*
 - ["Cueillir la nuit violine"](../../seasons/27_vingt_septieme_saison/la_nuit_violine)  
 *Depuis la cinquième saison*
-- ["Coupe et je repousse / Brûle et je verdis"](../../seasons/27_vingt_septieme_saison/la_revolte_de_gaia)  
-*Depuis la vingtième saison*
 - ["Encore une averse"](../../seasons/27_vingt_septieme_saison/l_averse)  
 *Depuis la vingtième saison*
 
@@ -90,3 +88,7 @@ description = "Une seule reprise pour le moment"
 *Depuis la onzième saison*
 - ["Jette un poème au vent"](../../seasons/32_trente_deuxieme_saison/necessite)  
 *Depuis la trente-et-unième saison*
+
+**A la trente-troisième saison**
+- ["A petits pas lassés / Les petits vieux se disent"](../../seasons/33_trente_troisieme_saison/les_reves_des_petits_vieux)  
+*Depuis la vingt-septième saison*

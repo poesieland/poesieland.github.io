@@ -1,8 +1,8 @@
 +++
 title = "Associations privilégiées"
 +++
-- [Temps](/categories/temps)
 - [Création](/categories/création)
+- [Temps](/categories/temps)
 - [Etre](/categories/etre)
 - [Foi](/categories/foi)
 - [Ciel](/categories/ciel)

@@ -43,3 +43,7 @@ Tombe le grand soir,
 Je me suis battue,
 
 Il reste un espoir !
+
+{{% notice style="primary" %}}
+{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}
+{{% /notice %}}
