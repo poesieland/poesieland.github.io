@@ -13,9 +13,10 @@ tags:
     - les mois
     - octosyllabe
     - philosophie
-    - saisons
     - rentrée scolaire
+    - saisons
     - septembre
+    - voici
 location: []
 info: ""
 pictures: []

@@ -13,7 +13,7 @@ tags:
     - philosophie
     - refrain
 location: []
-info: Reprise des deux premiers vers d'un [poème de la vingtième saison](../20_vingtieme_saison/monologue_de_la_nature)
+info: '{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""

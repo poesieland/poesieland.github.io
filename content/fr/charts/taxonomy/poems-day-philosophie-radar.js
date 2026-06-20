@@ -155,7 +155,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 1 },
     { label: 'Juin', value: 3 },
     { label: '', value: 2 },
-    { label: '', value: 2 },
+    { label: '', value: 3 },
     { label: '', value: 2 },
     { label: '', value: 5 },
     { label: '', value: 3 },

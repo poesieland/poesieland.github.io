@@ -2,7 +2,7 @@
 title = "Trente-troisième Saison : La musique des mots"
 weight = 33
 type = "seasonIndex"
-description = "Enfance et adolescence, faune, printemps, été, eau douce. A partir d'avril 2026."
+description = "Faune, enfance et adolescence, été, printemps, eau douce. A partir d'avril 2026."
 +++
 
 {{% param "description" %}}

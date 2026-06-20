@@ -10,11 +10,12 @@ categories:
     - Temps
 tags:
     - "2026"
+    - janvier
+    - les mois
     - octosyllabe
     - philosophie
     - saisons
-    - les mois
-    - janvier
+    - voici
 location: []
 info: Petits clins d'oeil à [ce poème de la vingt-quatrième saison](../24_vingt_quatrieme_saison/voici_janvier) ainsi que [ce poème de la quatrième saison](../4_quatrieme_saison/autant_le_dire).
 pictures: []
