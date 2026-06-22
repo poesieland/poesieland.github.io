@@ -35,5 +35,5 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Témoin jour après jour (32) 2026', value: 6, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
   ];
-    addBarChart('poems-la-mortBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
+    addBarChart('poems-la_mortBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

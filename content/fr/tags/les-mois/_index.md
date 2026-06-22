@@ -18,6 +18,6 @@ Et si vous préférez un mois en particulier...
 - [Novembre](../novembre/)
 - [Décembre](../décembre/)
 
-{{< chartjs id="poemDayLesMoisRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-les-mois-radar.js" />}}
+{{< chartjs id="poemDay-les_moisRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-les-mois-radar.js" />}}
 
-{{< chartjs id="poems-les-moisBar" width="90%" jsFile="../../charts/taxonomy/poems-les-mois-bar.js" />}}
+{{< chartjs id="poems-les_moisBar" width="90%" jsFile="../../charts/taxonomy/poems-les-mois-bar.js" />}}

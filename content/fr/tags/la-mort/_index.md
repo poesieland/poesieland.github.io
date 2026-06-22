@@ -53,9 +53,9 @@ Vous voici donc arrivés à la [liste des poèmes traitant de ce sujet](./#a).
 
 [^7]: Un signal : [Soir naufragé](../../seasons/22_vingt_deuxieme_saison/le_soir_est_doux) car ce soir-là je regardais le ciel et éprouvais une drôle de sensation, je ne comprenais pas pourquoi je "devais" écrire ces mots-là, et juste après j'appris qu'une connaissance du quartier venait de décéder. Plus tard en imagination : [L'appel](../../seasons/25_vingt_cinquieme_saison/l_appel).
 
-{{< chartjs id="poemDayLaMortRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-la-mort-radar.js" />}}
+{{< chartjs id="poemDay-la_mortRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-la-mort-radar.js" />}}
 
-{{< chartjs id="poems-la-mortBar" width="90%" jsFile="../../charts/taxonomy/poems-la-mort-bar.js" />}}
+{{< chartjs id="poems-la_mortBar" width="90%" jsFile="../../charts/taxonomy/poems-la-mort-bar.js" />}}
 
 Les catégories associées :
 

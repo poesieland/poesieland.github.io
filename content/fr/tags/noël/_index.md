@@ -8,4 +8,4 @@ Chaque année, une rêverie m'envahit à partir de mi-novembre : bientôt Saint 
 
 Fête des lumières, grand rassemblement familial, cette période m'est particulière.
 
-{{< chartjs id="poemDayNoelRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-noel-radar.js" />}}
+{{< chartjs id="poemDay-noelRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-noel-radar.js" />}}
