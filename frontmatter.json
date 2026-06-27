@@ -97,7 +97,7 @@
             "max": 14,
             "step": 1
           },
-          "description": "Add metric name(s) to TAGS. When variable: put -1 here, add 'métrique variable' to TAGS, and add 'Métrique variable : ' + comma-separated values in info. Repeat info in notice."
+          "description": "Add metric name(s) to TAGS. When variable: put -1 here, add 'métrique variable' to TAGS, and add 'Métrique variable : ' + comma-separated values in info."
         },
         {
           "name": "divider",

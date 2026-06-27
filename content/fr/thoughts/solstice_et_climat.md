@@ -20,8 +20,12 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 ### Quelques poèmes liés aux solstices
 
 **d'été :**
+- [Eté : passage - écrit le 12.06.2026](../seasons/33_trente_troisieme_saison/ete_passage)  
+*à la trente-troisième saison*
 - [Soleil voilé - écrit le 13.06.2024](../seasons/20_vingtieme_saison/soleil_voile)  
 *à la vingtième saison*
+- [Passera - écrit le 13.06.2026](../seasons/33_trente_troisieme_saison/passera)  
+*à la trente-troisième saison*
 - [Peine - écrit le 20.06.2024](../seasons/20_vingtieme_saison/peine)  
 *à la vingtième saison*
 - [21 juin - écrit le 21.06.2025](../seasons/27_vingt_septieme_saison/21_juin)  
@@ -43,7 +47,7 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 
 ### Quelques poèmes liés à l'équinoxe
 
-**d'automne seulement**, celui de printemps n'étant pas aussi marquant, pourquoi est-il presque invisible à mes yeux... ? :
+**d'automne seulement**, celui de printemps n'étant pas aussi marquant... pourquoi est-il presque invisible à mes yeux ?
 
 - [Vers l'ombre - écrit le 08.08.2025](../seasons/28_vingt_huitieme_saison/vers_l_ombre)  
 *à la vingt-huitième saison*
