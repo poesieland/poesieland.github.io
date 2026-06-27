@@ -1,27 +1,15 @@
----
-weight: 44
-title: Soir rose
-id: soir_rose_28
-date: 2025-08-31
-verseLength: -1
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2025"
-    - dissyllabe
-    - métrique variable
-    - ombres et lumières
-    - refrain
-    - tétrasyllabe
-location: []
-info: "Métrique variable : 4, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir rose"
+id = "soir_rose_28"
+date = 2025-08-31
+weight = 44
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "refrain", "2025", "métrique variable", "tétrasyllabe", "dissyllabe"]
+info = "Métrique variable : 4, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir est rose,
 
 Douceur,
@@ -47,7 +35,3 @@ Ouest, nord,
 Son âme mûre,
 
 Ténor.
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 2.
-{{% /notice %}}

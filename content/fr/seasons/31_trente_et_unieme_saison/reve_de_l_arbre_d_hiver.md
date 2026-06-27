@@ -1,29 +1,15 @@
----
-weight: 32
-title: Rêve de l'arbre d'hiver
-id: reve_de_l_arbre_d_hiver_31
-date: 2026-02-05
-verseLength: -1
-divider: ""
-categories:
-    - Hiver
-    - Flore
-tags:
-    - "2026"
-    - dissyllabe
-    - nature
-    - refrain
-    - saisons
-    - tétrasyllabe
-    - métrique variable
-location: []
-info: "Métrique variable : 4, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rêve de l'arbre d'hiver"
+id = "reve_de_l_arbre_d_hiver_31"
+date = 2026-02-05
+weight = 32
+categories = ["Hiver", "Flore"]
+tags = ["saisons", "nature", "refrain", "2026", "métrique variable", "tétrasyllabe", "dissyllabe"]
+info = "Métrique variable : 4, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un arbre noir
 
 Protège
@@ -94,7 +80,3 @@ Dévoile
 Rêve chétif
 
 Sans voile.
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 2.
-{{% /notice %}}

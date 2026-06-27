@@ -4,9 +4,8 @@ id = "laisse_les_mots_24"
 date = 2025-02-04
 weight = 39
 categories = ["Création", "Apprentissage"]
-tags = ["philosophie", "les mots", "2025", "métrique variable", "hexasyllabe", "trisyllabe", "refrain"]
+tags = ["philosophie", "les mots", "refrain", "2025", "métrique variable", "hexasyllabe", "trisyllabe"]
 info = "Métrique variable : 6, 3."
-
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -54,7 +53,3 @@ Du prime âge,
 Laisse-les consoler,
 
 Mots-images.
-
-{{% notice style="primary" %}}
-Métrique variable : 6, 3.
-{{% /notice %}}

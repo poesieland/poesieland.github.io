@@ -53,7 +53,3 @@ Crépuscule
 L'accueille et fait trembler ses cils :
 
 Ne recule !
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 3.
-{{% /notice %}}

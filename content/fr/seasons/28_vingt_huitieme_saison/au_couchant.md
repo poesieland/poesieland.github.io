@@ -1,28 +1,16 @@
----
-weight: 20
-title: Au couchant
-id: au_couchant_28
-date: 2025-08-12
-verseLength: -1
-divider: ""
-categories:
-    - Crépuscule
-tags:
-    - "2025"
-    - dissyllabe
-    - métrique variable
-    - octosyllabe
-    - ombres et lumières
-    - le ciel est
-location: []
-info: "Métrique variable : 8, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: Le ciel est **beau comme un terroir**
----
++++
+title = "Au couchant"
+id = "au_couchant_28"
+date = 2025-08-12
+weight = 20
+categories = ["Crépuscule"]
+tags = ["ombres et lumières", "le ciel est", "2025", "métrique variable", "octosyllabe", "dissyllabe"]
+info = "Métrique variable : 8, 2."
+description = "Le ciel est **beau comme un terroir**"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le ciel est beau comme un terroir
 
 Magique,
@@ -48,7 +36,3 @@ Mystère,
 Nuages taisent laminoir
 
 Sur terre.
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 2.
-{{% /notice %}}

@@ -1,26 +1,15 @@
----
-weight: 15
-title: Liberté
-id: liberte_27
-date: 2025-06-19
-verseLength: -1
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2025"
-    - monosyllabe
-    - métrique variable
-    - philosophie
-    - hexasyllabe
-location: []
-info: "Métrique variable : 1, 6."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Liberté"
+id = "liberte_27"
+date = 2025-06-19
+weight = 15
+categories = ["Etre"]
+tags = ["philosophie", "2025", "métrique variable", "monosyllabe", "hexasyllabe"]
+info = "Métrique variable : 1, 6."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Vois
 
 Le bonheur à ta porte,
@@ -64,7 +53,3 @@ De liberté vivace
 Rend
 
 Si doux le temps qui passe !
-
-{{% notice style="primary" %}}
-Métrique variable : 1, 6.
-{{% /notice %}}

@@ -35,7 +35,3 @@ Sur votre route,
 Rentrez chez vous en vainqueurs,
 
 Dieu vous écoute !
-
-{{% notice style="primary" %}}
-Métrique variable : 7, 4.
-{{% /notice %}}

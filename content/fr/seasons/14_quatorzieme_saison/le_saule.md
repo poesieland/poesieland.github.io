@@ -45,7 +45,3 @@ Effleurant l'onde d'un calame
 Lui sussurait sa flamme
 
 Au pied du vieux saule pleureur.
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 6.
-{{% /notice %}}

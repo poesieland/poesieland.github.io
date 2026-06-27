@@ -3,15 +3,8 @@ title = "Fais ta prière"
 id = "fais_ta_priere_23"
 date = 2024-11-30
 weight = 8
-categories = [ "Foi", "Etre" ]
-tags = [
-  "2024",
-  "alexandrin",
-  "métrique variable",
-  "philosophie",
-  "tétrasyllabe",
-  "refrain"
-]
+categories = ["Foi", "Etre"]
+tags = ["philosophie", "refrain", "2024", "métrique variable", "alexandrin", "tétrasyllabe"]
 info = "Métrique variable : 12, 4."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -60,7 +53,3 @@ En chaque geste,
 La vie offre en cadeau ton bonheur sans mentir
 
 Avant le reste !
-
-{{% notice style="primary" %}}
-Métrique variable : 12, 4.
-{{% /notice %}}

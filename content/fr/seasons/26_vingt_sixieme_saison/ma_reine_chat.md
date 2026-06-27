@@ -1,27 +1,15 @@
----
-weight: 18
-title: Ma reine chat
-id: ma_reine_chat_26
-date: 2025-05-01
-verseLength: -1
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - dissyllabe
-    - lovecat
-    - métrique variable
-    - nature
-    - tétrasyllabe
-location: []
-info: "Métrique variable : 2, 4."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Ma reine chat"
+id = "ma_reine_chat_26"
+date = 2025-05-01
+weight = 18
+categories = ["Faune"]
+tags = ["nature", "lovecat", "2025", "métrique variable", "dissyllabe", "tétrasyllabe"]
+info = "Métrique variable : 2, 4."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ma reine
 
 A les yeux verts
@@ -65,7 +53,3 @@ Roulée en rond,
 Caresse
 
 Dans un ronron !
-
-{{% notice style="primary" %}}
-Métrique variable : 2, 4.
-{{% /notice %}}

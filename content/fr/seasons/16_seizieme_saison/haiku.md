@@ -15,7 +15,3 @@ Au bord de l'asphalte
 Lancés, les troncs verts et noirs.
 
 Que veulent-ils fuir ?
-
-{{% notice style="primary" %}}
-Métrique variable : 5, 7, 5.
-{{% /notice %}}

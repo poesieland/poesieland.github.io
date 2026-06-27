@@ -50,7 +50,5 @@ Tombe la neige autour en ronde,
 Riant !
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 2.
-
 Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige).
 {{% /notice %}}

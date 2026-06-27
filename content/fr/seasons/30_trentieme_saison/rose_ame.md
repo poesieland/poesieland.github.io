@@ -1,29 +1,15 @@
----
-weight: 37
-title: Rose-âme
-id: rose_ame_30
-date: 2025-12-26
-verseLength: -1
-divider: ""
-categories:
-    - Apprentissage
-    - Flore
-tags:
-    - "2025"
-    - dissyllabe
-    - nature
-    - pentasyllabe
-    - philosophie
-    - métrique variable
-    - la mort
-location: []
-info: "Métrique variable : 2, 5."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Rose-âme"
+id = "rose_ame_30"
+date = 2025-12-26
+weight = 37
+categories = ["Apprentissage", "Flore"]
+tags = ["philosophie", "nature", "la mort", "2025", "métrique variable", "dissyllabe", "pentasyllabe"]
+info = "Métrique variable : 2, 5."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Pourquoi
 
 Ni fleur ni couronne ?
@@ -76,7 +62,3 @@ Juste intemporelle,
 Douleur
 
 Pour toi, pour lui, elle.
-
-{{% notice style="primary" %}}
-Métrique variable : 2, 5.
-{{% /notice %}}

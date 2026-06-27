@@ -1,26 +1,15 @@
----
-weight: 5
-title: Cieux
-id: cieux_27
-date: 2025-06-08
-verseLength: -1
-divider: ""
-categories:
-    - Ciel
-tags:
-    - "2025"
-    - dissyllabe
-    - métrique variable
-    - nature
-    - trisyllabe
-location: []
-info: "Métrique variable : 3, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Cieux"
+id = "cieux_27"
+date = 2025-06-08
+weight = 5
+categories = ["Ciel"]
+tags = ["nature", "2025", "métrique variable", "trisyllabe", "dissyllabe"]
+info = "Métrique variable : 3, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Blancs, gris, bleus
 
 Nuages
@@ -46,7 +35,3 @@ Paisibles,
 Cieux épris,
 
 Miscibles.
-
-{{% notice style="primary" %}}
-Métrique variable : 3, 2.
-{{% /notice %}}

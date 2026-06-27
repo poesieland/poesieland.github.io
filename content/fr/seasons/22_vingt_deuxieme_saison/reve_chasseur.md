@@ -3,16 +3,8 @@ title = "Rêve chasseur"
 id = "reve_chasseur_22"
 date = 2024-10-04
 weight = 20
-categories = [ "Faune" ]
-tags = [
-  "2024",
-  "hexasyllabe",
-  "lovecat",
-  "métrique variable",
-  "nature",
-  "tétrasyllabe",
-  "refrain"
-]
+categories = ["Faune"]
+tags = ["nature", "lovecat", "refrain", "2024", "métrique variable", "hexasyllabe", "tétrasyllabe"]
 info = "Métrique variable : 6, 4"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -43,7 +35,3 @@ Tout en douceur,
 Retombe en son canaille
 
 Rêve chasseur.
-
-{{% notice style="primary" %}}
-Métrique variable : 6, 4.
-{{% /notice %}}

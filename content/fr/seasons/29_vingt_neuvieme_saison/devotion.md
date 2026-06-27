@@ -1,27 +1,15 @@
----
-weight: 45
-title: Dévotion
-id: devotion_29
-date: 2025-11-02
-verseLength: -1
-divider: ""
-categories:
-    - Foi
-tags:
-    - "2025"
-    - métrique variable
-    - philosophie
-    - tétrasyllabe
-    - trisyllabe
-    - la mort
-location: []
-info: "Métrique variable : 4, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Dévotion"
+id = "devotion_29"
+date = 2025-11-02
+weight = 45
+categories = ["Foi"]
+tags = ["philosophie", "la mort", "2025", "métrique variable", "tétrasyllabe", "trisyllabe"]
+info = "Métrique variable : 4, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au jour des morts
 
 On se recueille ;
@@ -56,7 +44,3 @@ Que ton bonheur
 Dans ton coeur
 
 Ils t'entendent.
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 3.
-{{% /notice %}}

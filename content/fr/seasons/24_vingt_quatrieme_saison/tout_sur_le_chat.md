@@ -41,7 +41,5 @@ Heureux l'esclave qui survit
 Soumis au maître !
 
 {{% notice style="primary" %}}
-Métrique variable : 8, 4.
-
 Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr).
 {{% /notice %}}

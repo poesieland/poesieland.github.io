@@ -53,7 +53,3 @@ Un ultime songe,
 Et ta tendresse fait surseoir
 
 Le temps qui nous ronge...
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 5.
-{{% /notice %}}

@@ -44,7 +44,3 @@ Sereine,
 Voici la nuit, fauve rondeur,
 
 Sirène.
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 2.
-{{% /notice %}}

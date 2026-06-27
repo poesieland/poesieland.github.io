@@ -53,7 +53,3 @@ Promesse
 Et du bonheur poindra
 
 L'ivresse !
-
-{{% notice style="primary" %}}
-Métrique variable : 6, 2.
-{{% /notice %}}

@@ -1,28 +1,15 @@
----
-weight: 1
-title: Soir d'automne
-id: soir_d_automne_29
-date: 2025-09-04
-verseLength: -1
-divider: ""
-categories:
-    - Crépuscule
-    - Automne
-tags:
-    - "2025"
-    - métrique variable
-    - ombres et lumières
-    - saisons
-    - tétrasyllabe
-    - trisyllabe
-location: []
-info: "Métrique variable : 4, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Soir d'automne"
+id = "soir_d_automne_29"
+date = 2025-09-04
+weight = 1
+categories = ["Crépuscule", "Automne"]
+tags = ["ombres et lumières", "saisons", "2025", "métrique variable", "tétrasyllabe", "trisyllabe"]
+info = "Métrique variable : 4, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le soir dément,
 
 Voix sans bouche,
@@ -57,7 +44,3 @@ Dévergonde
 Le temps placé
 
 Sur le monde.
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 3.
-{{% /notice %}}

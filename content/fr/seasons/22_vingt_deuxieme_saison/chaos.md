@@ -3,16 +3,8 @@ title = "Chaos"
 id = "chaos_22"
 date = 2024-10-13
 weight = 25
-categories = [ "Angoisse" ]
-tags = [
-  "2024",
-  "hexasyllabe",
-  "métrique variable",
-  "octosyllabe",
-  "philosophie",
-  "refrain",
-  "trop de choses auront changé"
-]
+categories = ["Angoisse"]
+tags = ["philosophie", "refrain", "trop de choses auront changé", "2024", "métrique variable", "octosyllabe", "hexasyllabe"]
 info = "Métrique variable : 8, 6."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -43,7 +35,3 @@ Mon âme moribonde,
 C'est blanc, c'est noir, mais plus grisé,
 
 Ainsi se perd le monde.
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 6.
-{{% /notice %}}

@@ -1,27 +1,15 @@
----
-weight: 5
-title: Genèse
-id: genese_29
-date: 2025-09-10
-verseLength: -1
-divider: ""
-categories:
-    - Portraits
-    - Temps
-tags:
-    - "2025"
-    - métrique variable
-    - pentasyllabe
-    - philosophie
-    - trisyllabe
-location: []
-info: "Métrique variable : 5, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Genèse"
+id = "genese_29"
+date = 2025-09-10
+weight = 5
+categories = ["Portraits", "Temps"]
+tags = ["philosophie", "2025", "métrique variable", "pentasyllabe", "trisyllabe"]
+info = "Métrique variable : 5, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au commencement
 
 Rien pour mordre,
@@ -74,7 +62,3 @@ Pur mystère,
 Voici grand passé
 
 Vu de Terre.
-
-{{% notice style="primary" %}}
-Métrique variable : 5, 3.
-{{% /notice %}}

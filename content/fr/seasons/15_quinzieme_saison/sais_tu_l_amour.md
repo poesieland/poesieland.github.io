@@ -38,7 +38,5 @@ Un vent froid s'emporte de mots fourbes
 Renvoyés, un amour à tisser.
 
 {{% notice style="primary" %}}
-Métrique variable : 7, 9.
-
 Acrostiche : Sais-tu l'amour...
 {{% /notice %}}

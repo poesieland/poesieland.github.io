@@ -3,21 +3,12 @@ title = "Blues d'automne"
 id = "blues_d_automne_22"
 date = 2024-09-11
 weight = 6
-categories = [ "Automne", "Ciel", "Angoisse" ]
-tags = [
-  "2024",
-  "métrique variable",
-  "nature",
-  "octosyllabe",
-  "philosophie",
-  "saisons",
-  "trisyllabe",
-  "le ciel est"
-]
+categories = ["Automne", "Ciel", "Angoisse"]
+tags = ["saisons", "nature", "philosophie", "le ciel est", "2024", "métrique variable", "octosyllabe", "trisyllabe"]
 info = "Métrique variable : 8, 3."
+description = "Le ciel est **bas comme un couvercle**"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "Le ciel est **bas comme un couvercle**"
 +++
 
 Le ciel est bas comme un couvercle
@@ -54,7 +45,3 @@ Ses émaux,
 Le jour est mort, comme il ne reste
 
 Que des mots.
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 3.
-{{% /notice %}}

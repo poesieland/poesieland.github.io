@@ -53,7 +53,3 @@ Ma mère,
 Promenade-univers,
 
 Chimère.
-
-{{% notice style="primary" %}}
-Métrique variable : 6, 2.
-{{% /notice %}}

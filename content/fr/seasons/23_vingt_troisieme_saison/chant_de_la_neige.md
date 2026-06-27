@@ -62,7 +62,3 @@ En tapis,
 Fondra, taiseuse,
 
 Et tant pis !
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 3.
-{{% /notice %}}

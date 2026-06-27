@@ -44,7 +44,3 @@ Comme un plat
 Dégusté quand la table est mise
 
 Juste là !
-
-{{% notice style="primary" %}}
-Métrique variable : 8, 3.
-{{% /notice %}}

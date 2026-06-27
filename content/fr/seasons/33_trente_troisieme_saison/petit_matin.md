@@ -12,7 +12,10 @@ tags:
     - ombres et lumières
     - pentasyllabe
 location: []
-info: Avec la même sensation de douceur que dans [ce poème de la onzième saison](../11_onzieme_saison/le_midi_tranquille).
+info: |-
+    Avec la même sensation de douceur que dans [ce poème de la onzième saison](../11_onzieme_saison/le_midi_tranquille).
+
+    {{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 description: ""
 pictures: []
 poemType: ""

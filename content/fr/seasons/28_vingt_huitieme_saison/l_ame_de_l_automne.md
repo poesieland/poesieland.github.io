@@ -1,26 +1,15 @@
----
-weight: 31
-title: L'âme... de l'automne
-id: l_ame_de_l_automne_28
-date: 2025-08-20
-verseLength: -1
-divider: ""
-categories:
-    - Automne
-tags:
-    - "2025"
-    - métrique variable
-    - saisons
-    - trisyllabe
-    - hexasyllabe
-location: []
-info: "Métrique variable : 3, 6."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'âme... de l'automne"
+id = "l_ame_de_l_automne_28"
+date = 2025-08-20
+weight = 31
+categories = ["Automne"]
+tags = ["saisons", "2025", "métrique variable", "trisyllabe", "hexasyllabe"]
+info = "Métrique variable : 3, 6."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Au printemps,
 
 Sourire après l'apnée,

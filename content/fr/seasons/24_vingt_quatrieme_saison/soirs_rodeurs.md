@@ -44,7 +44,3 @@ Fin croissant,
 Rôdeur, suis ta voie,
 
 Va, puissant !
-
-{{% notice style="primary" %}}
-Métrique variable : 5, 3.
-{{% /notice %}}

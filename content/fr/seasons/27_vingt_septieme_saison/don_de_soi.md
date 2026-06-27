@@ -1,27 +1,15 @@
----
-weight: 25
-title: Don de soi
-id: don_de_soi_27
-date: 2025-06-25
-verseLength: -1
-divider: ""
-categories:
-    - Espoir
-tags:
-    - "2025"
-    - hexasyllabe
-    - métrique variable
-    - philosophie
-    - trisyllabe
-    - refrain
-location: []
-info: "Métrique variable : 6, 3"
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Don de soi"
+id = "don_de_soi_27"
+date = 2025-06-25
+weight = 25
+categories = ["Espoir"]
+tags = ["philosophie", "refrain", "2025", "métrique variable", "hexasyllabe", "trisyllabe"]
+info = "Métrique variable : 6, 3"
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je te donne mon coeur
 
 Sans limite,

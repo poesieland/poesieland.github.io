@@ -1,27 +1,15 @@
----
-weight: 40
-title: Renaissance
-id: renaissance_27
-date: 2025-07-11
-verseLength: -1
-divider: ""
-categories:
-    - Etre
-tags:
-    - "2025"
-    - métrique variable
-    - philosophie
-    - refrain
-    - tétrasyllabe
-    - trisyllabe
-location: []
-info: "Métrique variable : 4, 3."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Renaissance"
+id = "renaissance_27"
+date = 2025-07-11
+weight = 40
+categories = ["Etre"]
+tags = ["philosophie", "refrain", "2025", "métrique variable", "tétrasyllabe", "trisyllabe"]
+info = "Métrique variable : 4, 3."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Jamais n'oublie
 
 D'où tu viens
@@ -65,7 +53,3 @@ Danse et cours,
 L'ombre méchante
 
 N'a plus cours.
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 3.
-{{% /notice %}}

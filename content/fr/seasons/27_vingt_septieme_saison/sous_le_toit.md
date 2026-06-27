@@ -1,28 +1,15 @@
----
-weight: 11
-title: Sous le toit
-id: sous_le_toit_27
-date: 2025-06-16
-verseLength: -1
-divider: ""
-categories:
-    - Ville
-    - Ciel
-tags:
-    - "2025"
-    - métrique variable
-    - nature
-    - ombres et lumières
-    - trisyllabe
-    - dissyllabe
-location: []
-info: "Métrique variable : 3, 2."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sous le toit"
+id = "sous_le_toit_27"
+date = 2025-06-16
+weight = 11
+categories = ["Ville", "Ciel"]
+tags = ["ombres et lumières", "nature", "2025", "métrique variable", "trisyllabe", "dissyllabe"]
+info = "Métrique variable : 3, 2."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Sous le toit
 
 Soupente
@@ -48,7 +35,3 @@ Peut-être,
 Je souris :
 
 Fenêtre !
-
-{{% notice style="primary" %}}
-Métrique variable : 3, 2.
-{{% /notice %}}

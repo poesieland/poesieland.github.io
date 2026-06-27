@@ -44,7 +44,3 @@ L'orage éteint
 Ses furieux cris de guerre
 
 Au ciel déteint.
-
-{{% notice style="primary" %}}
-Métrique variable : 6, 4.
-{{% /notice %}}

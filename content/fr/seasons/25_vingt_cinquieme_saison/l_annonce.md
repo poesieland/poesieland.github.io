@@ -44,7 +44,3 @@ Qu'on annonce,
 Sonne cent ans,
 
 Cloche-nonce !
-
-{{% notice style="primary" %}}
-Métrique variable : 4, 3.
-{{% /notice %}}

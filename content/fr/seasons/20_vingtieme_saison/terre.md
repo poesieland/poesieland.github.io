@@ -62,7 +62,3 @@ Nous relancerons ton coeur,
 Coupelle
 
 D'un sacrifice vainqueur.
-
-{{% notice style="primary" %}}
-Métrique variable : 2, 7.
-{{% /notice %}}

@@ -1,28 +1,15 @@
----
-weight: 19
-title: Halo de lune
-id: halo_de_lune_30
-date: 2025-12-02
-verseLength: -1
-divider: ""
-categories:
-    - Lune
-    - Hiver
-tags:
-    - "2025"
-    - monosyllabe
-    - métrique variable
-    - ombres et lumières
-    - saisons
-    - heptasyllabe
-location: []
-info: "Métrique variable : 1, 7."
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Halo de lune"
+id = "halo_de_lune_30"
+date = 2025-12-02
+weight = 19
+categories = ["Lune", "Hiver"]
+tags = ["ombres et lumières", "saisons", "2025", "métrique variable", "monosyllabe", "heptasyllabe"]
+info = "Métrique variable : 1, 7."
+verseLength = -1
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Vois
 
 Si l'hiver chante à la lune,
@@ -75,7 +62,3 @@ Je retiens mon souffle pâle,
 Plat
 
 De la lune le pétale.
-
-{{% notice style="primary" %}}
-Métrique variable : 1, 7.
-{{% /notice %}}
