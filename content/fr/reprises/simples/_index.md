@@ -86,8 +86,6 @@ description = "Une seule reprise pour le moment"
 **A la trente-deuxième saison**
 - ["En relisant" (acrostiche)](../../seasons/32_trente_deuxieme_saison/les_mots_naifs)  
 *Depuis la onzième saison*
-- ["Jette un poème au vent"](../../seasons/32_trente_deuxieme_saison/necessite)  
-*Depuis la trente-et-unième saison*
 
 **A la trente-troisième saison**
 - ["A petits pas lassés / Les petits vieux se disent"](../../seasons/33_trente_troisieme_saison/les_reves_des_petits_vieux)  

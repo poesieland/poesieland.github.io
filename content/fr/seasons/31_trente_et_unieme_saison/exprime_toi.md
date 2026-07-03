@@ -6,31 +6,31 @@ date: 2026-01-31
 verseLength: 6
 divider: ""
 categories:
-    - Création
-    - Apprentissage
+  - Création
+  - Apprentissage
 tags:
-    - "2026"
-    - hexasyllabe
-    - philosophie
-    - refrain
+  - "2026"
+  - hexasyllabe
+  - philosophie
+  - refrain
 location: []
-info: ""
+info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
 pictures: []
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
-Jette  un poème au vent
+Jette un poème au vent
 
 Puis vois-le qui s'envole,
 
-Jette  un poème avant
+Jette un poème avant
 
 Que se taise parole,
 
  \
-Jette  un poème au coeur
+Jette un poème au coeur
 
 Comme un bébé s'apaise ;
 
@@ -39,9 +39,9 @@ Un poème vainqueur
 Libère ce qui pèse ;
 
  \
-Jette  un poème à vif,
+Jette un poème à vif,
 
-Jette  un poème en vie,
+Jette un poème en vie,
 
 Si tu vois un récif
 
@@ -50,17 +50,21 @@ Ne perds pas ton envie.
  \
 Jette un poème vrai,
 
-Jette  un poème étoile,
+Jette un poème étoile,
 
 Le monde te croirait
 
 Perdu sur une toile.
 
  \
-Jette  un poème fleur
+Jette un poème fleur
 
 Qui te suivra, qui sème,
 
 Jette amour et douleur
 
 Et sois-juste toi-même.
+
+{{% notice style="primary" %}}
+{{% include "../../includes/jette_un_poeme" hidefirstheading %}}
+{{% /notice %}}

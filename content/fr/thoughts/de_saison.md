@@ -1,11 +1,11 @@
 +++
 title = "De saison..."
-date = 2026-03-08
-summary = "Mars 2026"
+date = 2026-07-03
+summary = "Juillet 2026"
 +++
 
 ### En vogue
 
-Je vous propose le [printemps](../categories/printemps/), le [temps](../categories/temps/), l'[être](../categories/etre/).
+Royal, l'[été](../categories/eté/).
 
-Et pourquoi ne pas parcourir également au hasard [ombres et lumières](../tags/ombres-et-lumières/) ?
+Présent, le [temps](../categories/temps/).

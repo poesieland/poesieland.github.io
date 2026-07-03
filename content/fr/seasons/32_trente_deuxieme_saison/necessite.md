@@ -13,7 +13,7 @@ tags:
     - refrain
     - hexasyllabe
 location: []
-info: ""
+info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
 description: ""
 pictures: []
 poemType: ""
@@ -66,5 +66,5 @@ Ecrire est essentiel,
 Nécessité profonde.
 
 {{% notice style="primary" %}}
-Reprise du premier vers d'un [poème de la trente-et-unième saison](../31_trente_et_unieme_saison/exprime_toi).
+{{% include "../../includes/jette_un_poeme" hidefirstheading %}}
 {{% /notice %}}

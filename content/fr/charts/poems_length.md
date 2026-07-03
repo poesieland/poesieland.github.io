@@ -74,7 +74,12 @@ Certaines fois une mini-nouvelle.
 La métrique variable est tentatrice...
 
 - [Rêve de l'arbre d'hiver](../seasons/31_trente_et_unieme_saison/reve_de_l_arbre_d_hiver)  
-*à la trente-et-unième saison*
+*à la trente-et-unième saison*  
+
+Ou bien c'est le mini-thème [les mots](../tags/les-mots/)...
+
+- [Les mots puits](../seasons/33_trente_troisieme_saison/les_mots_puits)  
+*à la trente-troisième saison*  
 
 ## Données croisées : métrique, longueur du poème
 
