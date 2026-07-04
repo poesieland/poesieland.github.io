@@ -8,6 +8,7 @@ tags = [ "saisons", "1996", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Ô pourquoi donc en mai songé-je au sombre automne"
+wordcloud = "Ô pourquoi donc en mai songé-je au sombre automne"
 +++
 
 Ô pourquoi donc en mai songé-je au sombre automne,

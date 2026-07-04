@@ -17,6 +17,7 @@ acrostiche = "L'octobre"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "L'octobre"
+wordcloud = "L'octobre"
 +++
 
 L'automne ourle sa lèvre en d'infinis baisers,

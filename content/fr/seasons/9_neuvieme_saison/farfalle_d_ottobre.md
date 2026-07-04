@@ -19,6 +19,7 @@ acrostiche = "Farfalle d'ottobre"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Frémissants, trop légers, les papillons d'octobre"
+wordcloud = "Frémissants, trop légers, les papillons d'octobre"
 +++
 
 Frémissants, trop légers, les papillons d'octobre

@@ -7,7 +7,8 @@ categories = [ "Espoir" ]
 tags = [ "philosophie", "1998", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "En mai dis-moi toujours le rêve et l'amitié"
+wordcloud = """
 En mai dis-moi toujours le rêve et l'amitié
 Dis-moi les fleurs de mai, leur parfum d'espérance
 """

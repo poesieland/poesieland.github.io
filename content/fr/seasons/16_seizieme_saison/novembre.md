@@ -15,6 +15,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Novembre"
+wordcloud = "Novembre"
 +++
 
 Les feuilles poissent gras

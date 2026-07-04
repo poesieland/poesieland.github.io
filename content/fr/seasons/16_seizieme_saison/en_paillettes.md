@@ -16,6 +16,7 @@ acrostiche = "En paillettes"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Et le vent de novembre effacera, rempart"
+wordcloud = "Et le vent de novembre effacera, rempart"
 +++
 
 En paillettes de verre, éclats de carrelage

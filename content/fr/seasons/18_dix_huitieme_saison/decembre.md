@@ -15,6 +15,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Voici décembre chatoyant"
+wordcloud = "Voici décembre chatoyant"
 +++
 
 Enfin le dernier décompte,

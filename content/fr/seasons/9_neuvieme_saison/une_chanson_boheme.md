@@ -17,6 +17,7 @@ acrostiche = "Une chanson bohème"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Septembre, octobre sages"
+wordcloud = "Septembre, octobre sages"
 +++
 
 Une idée en mon cœur

@@ -7,7 +7,8 @@ categories = [ "Eté" ]
 tags = [ "saisons", "1997", "tétrasyllabe", "les mois", "juin" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "Trou de mémoire / Ce mois de juin"
+wordcloud = """
 Trou de mémoire
 Ce mois de juin"""
 +++

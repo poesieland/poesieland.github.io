@@ -17,6 +17,7 @@ verseLength = 12
 locations = [ "Lorraine" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Quand l'éternel juillet s'envole comme flèche"
+wordcloud = "Quand l'éternel juillet s'envole comme flèche"
 +++
 
 Les bois d'un si beau vert me semblaient éloignés :

@@ -3,11 +3,13 @@ title = "Au bois"
 id = "au_bois_20"
 date = 2024-05-27
 weight = 20
-categories = ["Automne"]
-tags = ["saisons", "2024", "alexandrin", "les mois"]
+categories = [ "Automne" ]
+tags = [ "saisons", "2024", "alexandrin", "les mois", "mai" ]
 info = "Reprise modifiée du premier vers d'un [poème de la première saison](../1_premiere_saison/automne)"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Un drôle jour de mai je songeais à l'automne"
+wordcloud = "Un drôle jour de mai je songeais à l'automne"
 +++
 
 Un drôle jour de mai je songeais à l'automne
@@ -25,7 +27,7 @@ Qui dévora jadis tous les pétales fins
 
 Recommence un périple et se sent soudain lasse
 
-Enivrée au sous-sous où montent les parfums.
+Enivrée au sous-bois où montent les parfums.
 
  \
 La forêt murmurante aux deux saisons moins franches

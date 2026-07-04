@@ -15,6 +15,8 @@ tags = [
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = """
+Septembre qui s'amène emporte mon image"""
+wordcloud = """
 Septembre qui s'amène emporte mon image
 Du soleil du mois d'août qui les carbonisa"""
 +++

@@ -8,6 +8,7 @@ tags = [ "amour", "1996", "alexandrin", "les mois", "août" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Au creux de la fin d'août, en mon cœur baladin"
+wordcloud = "Au creux de la fin d'août, en mon cœur baladin"
 +++
 
 Et l'amour et l'amante, un instant confondus

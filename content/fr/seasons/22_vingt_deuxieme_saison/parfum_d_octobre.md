@@ -6,11 +6,12 @@ weight = 35
 categories = [ "Automne" ]
 tags = [ "saisons", "2024", "octosyllabe", "les mois", "octobre" ]
 info = """
-Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)\r
+Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage)
 """
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "C'est octobre qui prend la pose"
+wordcloud = "C'est octobre qui prend la pose"
 +++
 
 Funèbre parfum d'une rose

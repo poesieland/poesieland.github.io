@@ -16,7 +16,8 @@ tags = [
 poemType = "sonnet"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "Novembre en son élan connaît des gloires reines"
+wordcloud = """
 Novembre en son élan connaît des gloires reines
 Novembre en son esprit m'emporte en folle danse"""
 +++

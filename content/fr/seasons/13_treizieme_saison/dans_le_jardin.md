@@ -19,6 +19,7 @@ verseLength = 8
 locations = [ "Paris" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Nu d'une rose, octobre, en verre"
+wordcloud = "Nu d'une rose, octobre, en verre"
 +++
 
 Dans le vieux jardin déserté

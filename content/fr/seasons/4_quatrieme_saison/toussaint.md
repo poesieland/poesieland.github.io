@@ -16,8 +16,11 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = """
-Renaître un cœur de mai
-S'envole au beau novembre"""
+S'envole au beau novembre
+Renaître un cœur de mai"""
+wordcloud = """
+S'envole au beau novembre
+Renaître un cœur de mai"""
 +++
 
 Pour que cette Toussaint

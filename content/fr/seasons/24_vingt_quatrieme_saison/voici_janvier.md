@@ -15,7 +15,8 @@ tags = [
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "Voici janvier pâle et frileux"
+wordcloud = """
 Voici janvier pâle et frileux
 Voici janvier, ce chien galeux !
 Voici janvier, frileux et pâle !"""

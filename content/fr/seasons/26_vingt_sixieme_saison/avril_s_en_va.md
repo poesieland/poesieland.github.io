@@ -17,6 +17,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Avril s'en va puis mai séduit"
+wordcloud = "Avril s'en va puis mai séduit"
 +++
 
 C'est bientôt mon anniversaire,

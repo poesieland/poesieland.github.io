@@ -8,6 +8,7 @@ tags = [ "2025", "octosyllabe", "philosophie", "les mois", "janvier" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Voici janvier d'un coup plaintif"
+wordcloud = "Voici janvier d'un coup plaintif"
 +++
 
 C'est pas demain qu'on s'ra moins gros,

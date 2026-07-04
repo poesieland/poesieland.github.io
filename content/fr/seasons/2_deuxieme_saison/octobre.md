@@ -8,6 +8,7 @@ tags = [ "saisons", "1996", "alexandrin", "les mois", "octobre" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Octobre qui s'avance emporte mon espoir"
+wordcloud = "Octobre qui s'avance emporte mon espoir"
 +++
 
 Octobre qui s'avance emporte mon espoir

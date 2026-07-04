@@ -8,6 +8,7 @@ tags = [ "saisons", "amour", "1997", "hexasyllabe", "les mois", "mai" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Mois de mai fugitif"
+wordcloud = "Mois de mai fugitif"
 +++
 
 En sa candeur native :

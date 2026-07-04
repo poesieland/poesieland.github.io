@@ -16,6 +16,7 @@ acrostiche = "Mais où vais-je ?"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Satyre de janvier, la saison s'est flétrie"
+wordcloud = "Satyre de janvier, la saison s'est flétrie"
 +++
 
 Mes désirs ont craqué d'un bouquet crissant, sec,

@@ -18,6 +18,7 @@ info = "En cette longue période hivernale douce et pluvieuse dont on voit enfin
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Janvier est las d'attendre"
+wordcloud = "Janvier est las d'attendre"
 +++
 
 Là-bas vois-tu le vent

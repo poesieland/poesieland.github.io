@@ -8,6 +8,7 @@ tags = [ "saisons", "1997", "octosyllabe", "les mois", "octobre" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Chemin d'octobre"
+wordcloud = "Chemin d'octobre"
 +++
 
 Marcher dans les pas de l'automne :

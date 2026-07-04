@@ -15,6 +15,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Mai jouera d'un cerceau"
+wordcloud = "Mai jouera d'un cerceau"
 +++
 
 Sous mes paupières closes

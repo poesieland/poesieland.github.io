@@ -15,6 +15,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Tu m'as conquise au clair septembre"
+wordcloud = "Tu m'as conquise au clair septembre"
 +++
 
 Tu m'as conquise d'un sourire,

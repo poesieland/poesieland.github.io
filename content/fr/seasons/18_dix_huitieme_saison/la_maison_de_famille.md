@@ -16,6 +16,7 @@ verseLength = 8
 locations = [ "Reims" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Que ce fût juillet l'implacable"
+wordcloud = "Que ce fût juillet l'implacable"
 +++
 
 Reims ! Ici Reims ! disait le train.

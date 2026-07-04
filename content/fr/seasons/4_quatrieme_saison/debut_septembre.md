@@ -8,6 +8,7 @@ tags = [ "saisons", "1997", "hexasyllabe", "les mois", "septembre" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "S'abandonne à septembre"
+wordcloud = "S'abandonne à septembre"
 +++
 
 La fin d'été se cambre :

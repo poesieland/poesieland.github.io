@@ -16,6 +16,7 @@ acrostiche = "Un regard"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Un soir de juin, je n'ai pas oublié"
+wordcloud = "Un soir de juin, je n'ai pas oublié"
 +++
 
 Un soir de juin, je n'ai pas oublié :

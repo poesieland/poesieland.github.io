@@ -16,7 +16,8 @@ tags = [
 doubleAcrostiche = "L'ombre de | novembre"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "Novembre a mangé les couleurs"
+wordcloud = """
 Novembre a mangé les couleurs
 Et novembre en ombres mêlables"""
 +++

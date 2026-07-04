@@ -7,7 +7,8 @@ categories = [ "Jardin et paysage", "Printemps" ]
 tags = [ "nature", "saisons", "2004", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
+description = "Inspirée, au jardin, l'âme de mai fleurit"
+wordcloud = """
 Inspirée, au jardin, l'âme de mai fleurit
 Et mai qui se déploie annonce rêve aux champs"""
 +++

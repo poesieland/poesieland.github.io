@@ -9,6 +9,7 @@ verseLength = 6
 locations = [ "Où je n'ai pas été" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Décembre ouvre sa porte"
+wordcloud = "Décembre ouvre sa porte"
 +++
 
 Le souvenir s'enfuit

@@ -15,6 +15,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Décembre aux sarabandes"
+wordcloud = "Décembre aux sarabandes"
 +++
 
 Ces jours avant les fêtes...

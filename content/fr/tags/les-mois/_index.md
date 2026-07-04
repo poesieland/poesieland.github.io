@@ -1,5 +1,10 @@
 +++
 title = "Les mois"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      breadcrumb = true
+      description = true
 +++
 Douze mois... Chacun associé à des sentiments particuliers.
 

@@ -17,6 +17,7 @@ acrostiche = "Ce jour-là tu disais"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Un été qui s'envole endormira septembre"
+wordcloud = "Un été qui s'envole endormira septembre"
 +++
 
 Ce jour-là tu disais : un autre temps viendra

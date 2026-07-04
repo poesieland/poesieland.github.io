@@ -6,7 +6,7 @@ weight = 44
 categories = [ "Portraits", "Romantisme" ]
 tags = [ "2024", "alexandrin", "amour", "philosophie", "famille" ]
 info = """
-[^1]: un surnom : michou.\r
+[^1]: un surnom : michou.
 [^2]: un prénom : Angèle."""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

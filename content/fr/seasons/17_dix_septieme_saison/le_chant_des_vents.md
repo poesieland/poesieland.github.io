@@ -17,6 +17,7 @@ verseLength = 10
 locations = [ "Reims" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Petite pousse, au mois d'avril à l'heure"
+wordcloud = "Petite pousse, au mois d'avril à l'heure"
 +++
 
 Dans mon jardin, treize ans plus tôt déjà

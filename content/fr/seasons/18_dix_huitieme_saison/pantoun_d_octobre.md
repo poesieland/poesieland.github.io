@@ -17,6 +17,7 @@ poemType = "pantoun"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Octobre passe, magnifique"
+wordcloud = "Octobre passe, magnifique"
 +++
 
 L'ombre est longue et mélancolique,

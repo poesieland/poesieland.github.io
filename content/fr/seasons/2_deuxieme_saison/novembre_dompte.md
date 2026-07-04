@@ -15,6 +15,7 @@ tags = [
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Dans l'oublieux novembre en dernier qui flamboie"
+wordcloud = "Dans l'oublieux novembre en dernier qui flamboie"
 +++
 
 L'automne et ses couleurs comme un charme d'adieu :

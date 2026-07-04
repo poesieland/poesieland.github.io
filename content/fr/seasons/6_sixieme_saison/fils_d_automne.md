@@ -17,6 +17,7 @@ acrostiche = "Fils d'automne"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Le ciel pleurait la fin septembre"
+wordcloud = "Le ciel pleurait la fin septembre"
 +++
 
 Fils d'automne ton cœur naquit

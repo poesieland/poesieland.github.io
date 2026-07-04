@@ -16,6 +16,7 @@ pictures = [ "Août 2024" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Voici septembre"
+wordcloud = "Voici septembre"
 +++
 
 Le chat surveille

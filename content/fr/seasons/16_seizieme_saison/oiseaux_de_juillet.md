@@ -15,6 +15,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Oiseaux de juillet"
+wordcloud = "Oiseaux de juillet"
 +++
 
 J'avais oublié les oiseaux

@@ -8,6 +8,7 @@ tags = [ "philosophie", "2023", "hexasyllabe", "les mois", "novembre" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "De novembre la trève"
+wordcloud = "De novembre la trève"
 +++
 
 Un clairon solennel

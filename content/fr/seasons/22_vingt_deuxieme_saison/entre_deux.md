@@ -16,6 +16,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Si novembre est douceâtre"
+wordcloud = "Si novembre est douceâtre"
 +++
 
 Sourire monotone

@@ -15,6 +15,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Aux pleurs des cerisiers d'avril"
+wordcloud = "Aux pleurs des cerisiers d'avril"
 +++
 
 Aux pleurs des cerisiers d'avril
