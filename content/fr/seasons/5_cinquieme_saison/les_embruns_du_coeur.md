@@ -1,6 +1,6 @@
 +++
-title = "Les embruns du cœur"
-id = "les_embruns_du_cur_5"
+title = "Les embruns du coeur"
+id = "les_embruns_du_coeur_5"
 date = 1997-11-21
 weight = 19
 categories = ["Passion"]
@@ -53,3 +53,7 @@ Charnière,
 Roule nos cœurs jumeaux,
 
 Mystère...
+
+{{% notice style="primary" %}}
+Métrique variable : 6, 2.
+{{% /notice %}}
