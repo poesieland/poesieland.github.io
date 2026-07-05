@@ -17,6 +17,7 @@ tags:
 location: []
 info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
 description: Jette un poème, un jour septembre
+wordcloud: Jette un poème, un jour septembre
 pictures: []
 poemType: ""
 acrostiche: ""

@@ -21,7 +21,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
+description: Octobre est un manant [...] Et puis voici novembre
+wordcloud: |-
     Octobre est un manant
     Et puis voici novembre
 ---

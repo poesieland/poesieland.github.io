@@ -24,7 +24,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
+description: Voici septembre et ses alliés
+wordcloud: |-
     Voici septembre et ses alliés
     Septembre concrétise rêves
 ---

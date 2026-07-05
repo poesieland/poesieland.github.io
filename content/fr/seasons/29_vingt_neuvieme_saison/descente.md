@@ -22,7 +22,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
+description: Octobre est précieux
+wordcloud: |-
     Octobre est précieux
     Si l'octobre danse
 ---

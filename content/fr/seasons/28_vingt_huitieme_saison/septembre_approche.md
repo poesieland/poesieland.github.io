@@ -21,7 +21,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
+description: Septembre approche et son éclat
+wordcloud: |-
     Septembre approche et son éclat
     Septembre est gai, tout chamarré
 ---

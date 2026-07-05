@@ -22,7 +22,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
+description: Vois lueur / De septembre
+wordcloud: |-
     Vois lueur
     De septembre
 ---

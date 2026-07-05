@@ -21,8 +21,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: |-
-    Est-ce un automne au coeur qui chante et se révèle ?
+description: En attendant décembre et puis un peu de neige [...] Est-ce un automne au coeur qui chante et se révèle ? / Novembre, mois ombreux où la bascule échoit
+wordcloud: |-
     En attendant décembre et puis un peu de neige
     Novembre, mois ombreux où la bascule échoit
 ---

@@ -24,6 +24,7 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Voici le plus beau mois, voici mai dans sa bulle
+wordcloud: Voici le plus beau mois, voici mai dans sa bulle
 ---
 Le mois le plus joli berce de ses ramures
 
