@@ -13,8 +13,9 @@ tags:
   - hexasyllabe
   - philosophie
   - refrain
+  - jette un poème
 location: []
-info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -64,7 +65,3 @@ Qui te suivra, qui sème,
 Jette amour et douleur
 
 Et sois-juste toi-même.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/jette_un_poeme" hidefirstheading %}}
-{{% /notice %}}

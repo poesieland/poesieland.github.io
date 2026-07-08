@@ -9,11 +9,12 @@ categories:
     - Création
 tags:
     - "2026"
+    - hexasyllabe
     - philosophie
     - refrain
-    - hexasyllabe
+    - jette un poème
 location: []
-info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -64,7 +65,3 @@ Jette un poème au monde,
 Ecrire est essentiel,
 
 Nécessité profonde.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/jette_un_poeme" hidefirstheading %}}
-{{% /notice %}}

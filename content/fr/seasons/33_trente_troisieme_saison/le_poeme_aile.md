@@ -12,10 +12,11 @@ tags:
     - les mois
     - octosyllabe
     - philosophie
-    - septembre
     - refrain
+    - septembre
+    - jette un poème
 location: []
-info: '{{% include "../../includes/jette_un_poeme" hidefirstheading %}}'
+info: ""
 description: Jette un poème, un jour septembre
 wordcloud: Jette un poème, un jour septembre
 pictures: []
@@ -49,7 +50,3 @@ Jette un poème, un jour septembre
 Reviendra briser sans fracas
 
 Ton âme bleue en son coeur d'ambre.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/jette_un_poeme" hidefirstheading %}}
-{{% /notice %}}

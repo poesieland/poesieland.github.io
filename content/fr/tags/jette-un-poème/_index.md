@@ -1,6 +1,6 @@
 +++
 title = "Jette un poème"
 description = "Depuis la trente-et-unième saison"
-[params]
-  menuPageRef = '/tags/jette-un-poème'
 +++
+
+L'exubérance de la créativité dans _Jette un poème_.
