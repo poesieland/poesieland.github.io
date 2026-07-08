@@ -235,7 +235,7 @@ A la vingt-troisième Saison, ["Chant de la neige"](../seasons/23_vingt_troisiem
 *Blanc perlé*
 
  \
-A la trente-et-unième Saison, ["Exprime-toi"](../seasons/31_trente_et_unieme_saison/exprime_toi), l'énergie créative, avec le refrain "jette un poème" :
+A partir de la trente-et-unième Saison, ["Exprime-toi"](../seasons/31_trente_et_unieme_saison/exprime_toi), l'énergie créative, avec le refrain devenu mini-thème "[jette un poème](../tags/jette-un-poème/)" :
 
 *Jette  un poème au vent*
 

@@ -46,4 +46,4 @@ Lance-toi, vis, surtout n'attends
 
 D'être trop vieux, d'être trop sage.
 
-[^1]: clin d'oeil à [ce poème de la sixième saison](../6_sixieme_saison/la_vie_est_comme_un_manege).
+[^1]: Clin d'oeil à [ce poème de la sixième saison](../6_sixieme_saison/la_vie_est_comme_un_manege).

@@ -47,4 +47,4 @@ De jeunesse l'antienne
 
 Viendrait me réveiller.
 
-[^1]: clin d'oeil à [ce poème de la première saison](../1_premiere_saison/soif) ainsi qu'à [celui-ci de la cinquième saison](../5_cinquieme_saison/l_orage_du_cour).
+[^1]: Clin d'oeil à [ce poème de la première saison](../1_premiere_saison/soif) ainsi qu'à [celui-ci de la cinquième saison](../5_cinquieme_saison/l_orage_du_cour).
