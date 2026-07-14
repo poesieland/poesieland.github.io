@@ -34,6 +34,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Emotions mouvantes (31) 2026', value: 5, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Témoin jour après jour (32) 2026', value: 1, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 0, color: 'rgba(119, 181, 254, 0.5)' },
+    { label: 'TODO (34) 2026', value: 0, color: 'rgba(119, 181, 254, 0.5)' },
   ];
     addBarChart('poems-neigeBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
