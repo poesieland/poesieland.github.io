@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Révolte](/categories/révolte)
 - [Hiver](/categories/hiver)
 - [Jardin et paysage](/categories/jardin-et-paysage)
+- [Climat](/categories/climat)
 - [Amour platonique](/categories/amour-platonique)
 - [Ciel](/categories/ciel)
-- [Enfance et adolescence](/categories/enfance-et-adolescence)

@@ -81,3 +81,5 @@ Certains poèmes évoquent plus d'une saison...
 *à la vingt-sixième saison*
 - [On passera](../../seasons/27_vingt_septieme_saison/on_passera)  
 *à la vingt-septième saison*
+- [Laisse passer, avance](../../seasons/33_trente_troisieme_saison/laisse_passer_avance)  
+*à la trente-troisième saison*

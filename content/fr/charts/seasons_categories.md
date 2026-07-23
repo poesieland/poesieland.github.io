@@ -86,11 +86,8 @@ Sur cette page qui rassemble les inspirations des Saisons, figurent aussi la dur
 </div>  
 
 <div style="display:flex;justify-content:space-around;">
-{{< chartjs id="season33Pie" width="21vw" margin="20px" padding="0" jsFile="../season-33/categories-pie.js" inline=true text="En cours"/>}}
- <div style="display:flex;justify-content:space-around;">
-  <div style="position:relative;width:21vw;padding:0;margin:20px;">
-  </div>
- </div>
+{{< chartjs id="season33Pie" width="21vw" margin="20px" padding="0" jsFile="../season-33/categories-pie.js" inline=true text="Deux mois et demi"/>}}
+{{< chartjs id="season34Pie" width="21vw" margin="20px" padding="0" jsFile="../season-34/categories-pie.js" inline=true text="En cours"/>}}
 </div>
 
 <!-- <div style="display:flex;justify-content:space-around;">

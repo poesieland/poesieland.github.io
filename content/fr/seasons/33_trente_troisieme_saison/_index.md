@@ -3,9 +3,9 @@ title = "Trente-troisième Saison : La musique des mots"
 weight = 33
 type = "seasonIndex"
 description = """
-Eté, temps, faune, enfance et adolescence, climat, ciel...
+Eté, temps, climat, faune, enfance et adolescence, ciel...
 
-A partir d'avril 2026."""
+D'avril à juillet 2026."""
 +++
 
 {{% param "description" %}}
