@@ -33,7 +33,7 @@ Le feu qui détruit puis qui sacre.
  \
 L'été brûlant tout chahuté,
 
-Mon coeur ressens tout sauf de la joie,
+Je ressens tout sauf de la joie,
 
 Ere nouvelle à tant lutter
 
