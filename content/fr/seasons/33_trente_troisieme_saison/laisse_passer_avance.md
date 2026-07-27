@@ -43,7 +43,7 @@ Chante aux feuilles d'automne
 
 Laisse-le s'iriser,
 
-Avance et puis frissonne !
+Avance, et puis frissonne !
 
  \
 Laisse passer l'hiver...

@@ -1,11 +1,9 @@
 +++
 title = "De saison..."
-date = 2026-07-03
+date = 2026-07-27
 summary = "Juillet 2026"
 +++
 
 ### En vogue
 
-Royal, l'[été](../categories/eté/).
-
-Présent, le [temps](../categories/temps/).
+L'[été](../categories/eté/) et le [climat](../categories/climat/) dont le texte introductif a été mise à jour.
