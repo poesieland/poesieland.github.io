@@ -8,6 +8,8 @@ title = "Derniers ajouts"
 
 [L'incendie de la forêt de Fontainebleau, écrit le 13.07.2026](../seasons/34_trente_quatrieme_saison/l_incendie_de_la_foret)
 
+[Supplique, écrit le 09.07.2026](../seasons/33_trente_troisieme_saison/supplique)
+
 [Au gré, écrit le 07.07.2026](../seasons/33_trente_troisieme_saison/au_gre)
 
 [De bout en bout, écrit le 07.07.2026](../seasons/33_trente_troisieme_saison/de_bout_en_bout)

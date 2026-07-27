@@ -580,9 +580,6 @@
   "frontMatter.preview.host": "http://localhost:1313",
   "frontMatter.content.pageFolders": [
     {
-      "title": "33_trente_troisieme_saison",
-      "path": "[[workspace]]/content/fr/seasons/33_trente_troisieme_saison"
-    },{
       "title": "34_trente_quatrieme_saison",
       "path": "[[workspace]]/content/fr/seasons/34_trente_quatrieme_saison"
     },

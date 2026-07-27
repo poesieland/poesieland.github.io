@@ -3,7 +3,9 @@ title = "Trente-troisième Saison : La musique des mots"
 weight = 33
 type = "seasonIndex"
 description = """
-Eté, temps, climat, faune, enfance et adolescence, ciel...
+Cette Saison se clôt sur une [supplique](./supplique) très symbolique.
+
+Les inspirations : été, temps, climat, faune, enfance et adolescence, ciel...
 
 D'avril à juillet 2026."""
 +++
