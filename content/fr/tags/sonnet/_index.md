@@ -1,11 +1,13 @@
 +++
 title = "Sonnet"
 +++
-Plus lisible que la [page wikipedia](https://fr.wikipedia.org/wiki/Sonnet), [ce site de vulgarisation de la langue et de la littérature francophone](https://www.espacefrancais.com/le-sonnet/) expose bien l'histoire et la construction du sonnet. Dont le dénouement dans le deuxième tercet. La structure la plus courante des tercets étant CCD EDE. C'est un défi plaisir de créer ce genre de petit poème.
+Plus lisible que la [page wikipedia](https://fr.wikipedia.org/wiki/Sonnet), [ce site de vulgarisation de la langue et de la littérature francophone](https://www.espacefrancais.com/le-sonnet/) expose bien l'histoire et la construction du sonnet, dont le dénouement dans le deuxième tercet. La structure la plus courante des tercets étant CCD EDE.
+
+C'est un défi plaisir de créer ce genre de petit poème.
 
 Plutôt en alexandrins mais aussi souvent octosyllabes, hexasyllabes, ou autre... il n'y a pas de limite imposée.
 
-{{< chartjs id="sonnetVerseLengthPie" width="90%" jsFile="../../charts/taxonomy/sonnet-verse-length-pie.js" />}}
+{{< chartjs id="sonnetVerseLengthPie" width="60%" jsFile="../../charts/taxonomy/sonnet-verse-length-pie.js" />}}
 
 Les catégories où on trouve le plus souvent des sonnets :
 

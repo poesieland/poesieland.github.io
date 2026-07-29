@@ -9,7 +9,7 @@ weight = 4
 
 Les [sonnets](../tags/sonnet/) comptent 14 vers, mais tous les poèmes de 14 vers ne sont pas des sonnets.
 
-Le [poème de 3 vers](../../seasons/16_seizieme_saison/haiku/) est un haiku.
+Les [haïkus](../tags/haiku/) comptent trois vers.
 
 {{< chartjs id="poemLengthPie" width="60%" jsFile="../general/poems-length-pie.js" />}}
 
