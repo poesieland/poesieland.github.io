@@ -2,10 +2,10 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Moins d\'un jour', value: 372, color: 'rgba(72, 149, 239, 1)' },
-    { label: 'Un jour', value: 618, color: 'rgba(72, 149, 239, 0.9)' },
+    { label: 'Un jour', value: 619, color: 'rgba(72, 149, 239, 0.9)' },
     { label: '2j', value: 234, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: '3j', value: 133, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: '4j', value: 86, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '3j', value: 134, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '4j', value: 85, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '5j', value: 58, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '6j', value: 26, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '7j', value: 24, color: 'rgba(72, 149, 239, 0.7)' },

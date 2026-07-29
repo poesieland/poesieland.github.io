@@ -192,7 +192,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 9 },
     { label: '', value: 10 },
     { label: '', value: 6 },
-    { label: '', value: 6 },
+    { label: '', value: 7 },
     { label: '', value: 6 },
     { label: '', value: 5 },
     { label: '', value: 6 },

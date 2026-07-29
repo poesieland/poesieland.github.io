@@ -2,7 +2,10 @@
 title = "Trente-quatrième Saison : A mi-chemin du paradis"
 weight = 34
 type = "seasonIndex"
-description = "A partir de juillet 2026"
+description = """
+Cette Saison s'ouvre sur [l'émerveillement de la création](./le_peintre_de_la_lumiere).
+
+A partir de juillet 2026"""
 +++
 
 {{% param "description" %}}
