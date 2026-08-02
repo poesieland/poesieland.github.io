@@ -8,7 +8,7 @@ tags = [ "philosophie", "2024", "acrostiche", "alexandrin" ]
 acrostiche = "Haut lieu, sainteté"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Mont des Cats" ]
+locations = [ "Mont des Cats" ]
 +++
 
 Hors du temps tu bâtis une simple chapelle

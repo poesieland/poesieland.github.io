@@ -8,7 +8,7 @@ tags = [ "ombres et lumières", "2024", "octosyllabe" ]
 pictures = [ "Mont des Cats - 31.07.2024" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Mont des Cats" ]
+locations = [ "Mont des Cats" ]
 +++
 
 Chaque jour différent s'impose :

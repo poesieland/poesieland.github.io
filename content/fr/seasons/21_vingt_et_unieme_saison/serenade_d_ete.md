@@ -7,7 +7,7 @@ categories = [ "Eté" ]
 tags = [ "saisons", "2024", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Mont des Cats" ]
+locations = [ "Mont des Cats" ]
 +++
 
 Le vent dans les branches

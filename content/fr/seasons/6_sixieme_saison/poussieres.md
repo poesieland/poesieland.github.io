@@ -7,7 +7,7 @@ categories = [ "Enfance et adolescence", "Temps" ]
 tags = [ "philosophie", "1998", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 On a repeint jaune

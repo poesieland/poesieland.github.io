@@ -8,7 +8,7 @@ tags = [ "nature", "ombres et lumières", "2024", "dissyllabe" ]
 pictures = [ "Mont des Cats - 01.08.2024" ]
 verseLength = 2
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Mont des Cats" ]
+locations = [ "Mont des Cats" ]
 +++
 
 Un ange

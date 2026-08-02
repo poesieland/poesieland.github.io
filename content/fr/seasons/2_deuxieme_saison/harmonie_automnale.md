@@ -7,7 +7,7 @@ categories = [ "Automne" ]
 tags = [ "saisons", "1996", "alexandrin", "noël" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Lorraine" ]
+locations = [ "Lorraine" ]
 +++
 
 L'automne et son feuillage attirent le mystère,

@@ -8,7 +8,7 @@ tags = [ "nature", "ombres et lumières", "2024", "pentasyllabe" ]
 pictures = [ "Mont des Cats - 02.08.2024" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Mont des Cats" ]
+locations = [ "Mont des Cats" ]
 +++
 
 Le soleil s'en va,

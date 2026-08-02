@@ -7,7 +7,7 @@ categories = [ "Flore" ]
 tags = [ "nature", "1997", "octosyllabe" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-location = [ "Reims" ]
+locations = [ "Reims" ]
 +++
 
 Les cerisiers, pommiers en fleurs
