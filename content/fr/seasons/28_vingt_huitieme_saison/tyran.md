@@ -13,7 +13,7 @@ tags:
     - nature
     - pentasyllabe
     - gare au chat
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

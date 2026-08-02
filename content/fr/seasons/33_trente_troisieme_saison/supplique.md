@@ -15,7 +15,7 @@ tags:
     - nature
     - philosophie
     - attitudes
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

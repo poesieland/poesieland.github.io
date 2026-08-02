@@ -15,7 +15,7 @@ tags:
     - refrain
     - saisons
     - ombres et lumières
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

@@ -15,7 +15,7 @@ tags:
     - philosophie
     - refrain
     - lovecat
-location: []
+locations: []
 info: Entendez-vous aussi "Stone, le monde est stone..." ?
 description: ""
 pictures: []

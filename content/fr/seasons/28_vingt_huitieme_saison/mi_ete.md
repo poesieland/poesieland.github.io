@@ -13,7 +13,7 @@ tags:
     - hexasyllabe
     - saisons
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

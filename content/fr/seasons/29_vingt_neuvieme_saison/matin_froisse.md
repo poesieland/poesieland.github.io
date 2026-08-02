@@ -14,7 +14,7 @@ tags:
     - octosyllabe
     - ombres et lumières
     - le ciel est
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

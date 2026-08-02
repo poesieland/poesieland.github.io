@@ -13,7 +13,7 @@ tags:
     - attitudes
     - hendécasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -14,7 +14,7 @@ tags:
     - les mois
     - mars
     - septembre
-location: []
+locations: []
 info: Reprise d'une partie du premier vers d'un [poème de la deuxième saison](../2_deuxieme_saison/septembre).
 pictures: []
 poemType: ""

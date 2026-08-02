@@ -13,7 +13,7 @@ tags:
     - lovecat
     - philosophie
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: Gare au chat qui **perd** / Doucement **souplesse**
 pictures: []

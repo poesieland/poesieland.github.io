@@ -12,7 +12,7 @@ tags:
     - nature
     - octosyllabe
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

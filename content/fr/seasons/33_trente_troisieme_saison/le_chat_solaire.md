@@ -14,7 +14,7 @@ tags:
     - nature
     - pentasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 description: Gare au chat **bonheur** / Dans l'été qui brille
 pictures: []

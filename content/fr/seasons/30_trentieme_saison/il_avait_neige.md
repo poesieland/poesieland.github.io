@@ -13,7 +13,7 @@ tags:
     - octosyllabe
     - refrain
     - nature
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de la deuxième saison](../2_deuxieme_saison/neige).
 pictures: []
 poemType: ""

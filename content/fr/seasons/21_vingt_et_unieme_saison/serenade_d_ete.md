@@ -3,10 +3,11 @@ title = "Sérénade d'été"
 id = "serenade_d_ete_21"
 date = 2024-07-23
 weight = 21
-categories = ["Eté"]
-tags = ["saisons", "2024", "pentasyllabe"]
+categories = [ "Eté" ]
+tags = [ "saisons", "2024", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+location = [ "Mont des Cats" ]
 +++
 
 Le vent dans les branches

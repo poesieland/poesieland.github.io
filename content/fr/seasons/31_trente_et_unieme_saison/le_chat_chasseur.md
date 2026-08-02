@@ -13,7 +13,7 @@ tags:
     - lovecat
     - nature
     - pentasyllabe
-location: []
+locations: []
 info: ""
 pictures:
     - Près du métro, janvier 2026

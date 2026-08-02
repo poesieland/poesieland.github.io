@@ -15,7 +15,7 @@ tags:
     - nature
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: |-
     Gare au chat qui **pire / Qu'ombre dans la nuit**

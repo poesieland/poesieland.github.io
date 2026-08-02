@@ -7,6 +7,7 @@ categories = [ "Foi" ]
 tags = [ "2024", "hexasyllabe", "philosophie" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+location = [ "Mont des Cats" ]
 +++
 
 J'irai par tes sentiers

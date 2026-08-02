@@ -13,7 +13,7 @@ tags:
     - nature
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

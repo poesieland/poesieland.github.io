@@ -14,7 +14,7 @@ tags:
     - ombres et lumières
     - refrain
     - hexasyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}'
 pictures: []
 poemType: ""

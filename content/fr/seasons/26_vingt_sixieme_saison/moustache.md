@@ -12,7 +12,7 @@ tags:
     - octosyllabe
     - philosophie
     - famille
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -12,7 +12,7 @@ tags:
     - acrostiche
     - ombres et lumières
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

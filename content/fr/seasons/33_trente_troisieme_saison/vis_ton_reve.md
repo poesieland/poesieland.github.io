@@ -13,7 +13,7 @@ tags:
     - il se pourrait qu'il pleuve
     - philosophie
     - citation
-location: []
+locations: []
 info: ""
 description: La vie est un (long) fleuve tranquille
 pictures: []

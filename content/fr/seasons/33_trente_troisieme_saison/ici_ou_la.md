@@ -12,7 +12,7 @@ tags:
     - "2026"
     - philosophie
     - pentasyllabe
-location:
+locations:
     - Lorraine
     - Charleroi
 info: ""

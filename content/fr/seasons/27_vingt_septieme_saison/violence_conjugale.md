@@ -12,7 +12,7 @@ tags:
     - "2025"
     - tétrasyllabe
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

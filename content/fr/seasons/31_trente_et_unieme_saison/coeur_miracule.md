@@ -12,7 +12,7 @@ tags:
     - octosyllabe
     - philosophie
     - refrain
-location: []
+locations: []
 info: '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
 description: ""
 pictures: []

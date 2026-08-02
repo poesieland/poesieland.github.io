@@ -14,7 +14,7 @@ tags:
     - nature
     - philosophie
     - ennéasyllabe
-location:
+locations:
     - Lorraine
 info: Il fallait que je raconte l'histoire associée au sureau évoqué dans [ce poème de la troisième saison](../3_troisieme_saison/sous_le_sureau)
 pictures: []

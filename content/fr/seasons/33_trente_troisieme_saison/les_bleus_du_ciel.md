@@ -11,7 +11,7 @@ tags:
     - "2026"
     - nature
     - hexasyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}'
 description: ""
 pictures: []

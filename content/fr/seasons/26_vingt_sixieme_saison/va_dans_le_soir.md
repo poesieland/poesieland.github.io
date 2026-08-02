@@ -11,7 +11,7 @@ tags:
     - "2025"
     - ombres et lumières
     - pentasyllabe
-location: []
+locations: []
 info: Reprise modifiée du premier vers d'un [poème de la douzième saison](../12_douzieme_saison/va_in_pace) car je repensais à la chanson qui l'avait inspiré.
 pictures: []
 poemType: ""

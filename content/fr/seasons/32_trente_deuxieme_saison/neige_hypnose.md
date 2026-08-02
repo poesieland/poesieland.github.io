@@ -11,7 +11,7 @@ tags:
     - "2026"
     - nature
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

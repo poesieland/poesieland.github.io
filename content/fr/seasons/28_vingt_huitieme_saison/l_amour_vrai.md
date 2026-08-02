@@ -13,7 +13,7 @@ tags:
     - amour
     - ennéasyllabe
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

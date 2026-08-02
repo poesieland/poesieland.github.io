@@ -15,7 +15,7 @@ tags:
     - octosyllabe
     - philosophie
     - au dernier rang du cimetière
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

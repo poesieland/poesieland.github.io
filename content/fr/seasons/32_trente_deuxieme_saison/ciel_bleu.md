@@ -13,7 +13,7 @@ tags:
     - nature
     - octosyllabe
     - refrain
-location: []
+locations: []
 info: ""
 description: Le ciel est **bleu comme un mensonge**
 pictures: []

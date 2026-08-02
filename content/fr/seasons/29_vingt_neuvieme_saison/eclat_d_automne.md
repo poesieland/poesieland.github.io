@@ -11,7 +11,7 @@ tags:
     - "2025"
     - hexasyllabe
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

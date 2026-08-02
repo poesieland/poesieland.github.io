@@ -11,7 +11,7 @@ tags:
     - "2026"
     - philosophie
     - alexandrin
-location:
+locations:
     - Reims
 info: ""
 description: ""

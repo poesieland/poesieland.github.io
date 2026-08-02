@@ -12,7 +12,7 @@ tags:
     - décasyllabe
     - nature
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

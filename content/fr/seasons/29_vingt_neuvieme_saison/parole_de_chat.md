@@ -13,7 +13,7 @@ tags:
     - nature
     - tétrasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

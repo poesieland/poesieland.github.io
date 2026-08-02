@@ -13,7 +13,7 @@ tags:
     - octosyllabe
     - philosophie
     - rentrée scolaire
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

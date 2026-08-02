@@ -15,7 +15,7 @@ tags:
     - saisons
     - les mois
     - novembre
-location: []
+locations: []
 info: En pensant à la rose à la boutonnière de [ce poème de la vingt-deuxième saison](../22_vingt_deuxieme_saison/parfum_d_octobre).
 pictures: []
 poemType: ""

@@ -13,7 +13,7 @@ tags:
     - attitudes
     - sonnet
     - alexandrin
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: sonnet

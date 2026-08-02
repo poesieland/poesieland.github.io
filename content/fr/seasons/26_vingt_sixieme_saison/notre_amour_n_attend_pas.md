@@ -13,7 +13,7 @@ tags:
     - amour
     - philosophie
     - alexandrin
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

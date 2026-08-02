@@ -13,7 +13,7 @@ tags:
     - ombres et lumières
     - pentasyllabe
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

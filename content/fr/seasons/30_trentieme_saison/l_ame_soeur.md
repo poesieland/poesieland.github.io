@@ -11,7 +11,7 @@ tags:
     - "2025"
     - alexandrin
     - amour
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -15,7 +15,7 @@ tags:
     - saisons
     - tétrasyllabe
     - attitudes
-location: []
+locations: []
 info: Reprise modifiée des deux premiers vers d'un [poème de la première saison](../1_premiere_saison/impression)
 pictures: []
 poemType: ""

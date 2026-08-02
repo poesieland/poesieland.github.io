@@ -14,7 +14,7 @@ tags:
     - attitudes
     - tétrasyllabe
     - l'air ou la chanson
-location: []
+locations: []
 info: En pensant à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson))
 pictures: []
 poemType: ""

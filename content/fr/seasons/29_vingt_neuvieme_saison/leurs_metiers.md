@@ -12,7 +12,7 @@ tags:
     - famille
     - philosophie
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

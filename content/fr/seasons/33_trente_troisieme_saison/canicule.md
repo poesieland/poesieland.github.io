@@ -13,7 +13,7 @@ tags:
     - nature
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

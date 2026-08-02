@@ -14,7 +14,7 @@ tags:
     - philosophie
     - trisyllabe
     - estival
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

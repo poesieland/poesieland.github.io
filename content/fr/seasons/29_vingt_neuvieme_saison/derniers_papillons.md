@@ -16,7 +16,7 @@ tags:
     - les mois
     - septembre
     - octobre
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

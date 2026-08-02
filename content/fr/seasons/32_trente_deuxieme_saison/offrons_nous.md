@@ -12,7 +12,7 @@ tags:
     - philosophie
     - refrain
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

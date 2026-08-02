@@ -12,7 +12,7 @@ tags:
     - amour
     - refrain
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

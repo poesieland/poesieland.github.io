@@ -12,7 +12,7 @@ tags:
     - "2025"
     - ombres et lumières
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

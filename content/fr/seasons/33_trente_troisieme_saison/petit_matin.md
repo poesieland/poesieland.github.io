@@ -11,7 +11,7 @@ tags:
     - "2026"
     - ombres et lumières
     - pentasyllabe
-location: []
+locations: []
 info: |-
     Avec la même sensation de douceur que dans [ce poème de la onzième saison](../11_onzieme_saison/le_midi_tranquille).
 

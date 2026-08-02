@@ -13,7 +13,7 @@ tags:
     - alexandrin
     - philosophie
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

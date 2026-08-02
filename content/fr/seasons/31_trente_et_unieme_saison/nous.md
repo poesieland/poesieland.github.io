@@ -14,7 +14,7 @@ tags:
     - hexasyllabe
     - philosophie
     - refrain
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

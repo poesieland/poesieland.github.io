@@ -11,7 +11,7 @@ tags:
     - "2026"
     - amour
     - alexandrin
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

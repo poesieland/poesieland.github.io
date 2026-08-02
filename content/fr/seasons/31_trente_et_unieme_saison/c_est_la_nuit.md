@@ -12,7 +12,7 @@ tags:
     - ennéasyllabe
     - ombres et lumières
     - refrain
-location: []
+locations: []
 info: '{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}'
 pictures: []
 poemType: ""

@@ -14,7 +14,7 @@ tags:
     - octosyllabe
     - saisons
     - saison incertaine
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

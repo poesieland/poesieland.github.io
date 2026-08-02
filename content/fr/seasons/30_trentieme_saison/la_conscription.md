@@ -11,7 +11,7 @@ tags:
     - "2025"
     - octosyllabe
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

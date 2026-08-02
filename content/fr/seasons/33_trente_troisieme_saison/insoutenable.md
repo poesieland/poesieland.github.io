@@ -13,7 +13,7 @@ tags:
     - nature
     - tétrasyllabe
     - dissyllabe
-location: []
+locations: []
 info: "Métrique variable : 4, 2. "
 description: ""
 wordcloud: ""

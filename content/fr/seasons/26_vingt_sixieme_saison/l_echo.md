@@ -11,7 +11,7 @@ tags:
     - "2025"
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de de la vingt-cinquième saison](../25_vingt_cinquieme_saison/l_appel)
 pictures: []
 poemType: ""

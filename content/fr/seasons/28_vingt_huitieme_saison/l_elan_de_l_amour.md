@@ -12,7 +12,7 @@ tags:
     - amour
     - hexasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

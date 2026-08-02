@@ -12,7 +12,7 @@ tags:
     - acrostiche
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

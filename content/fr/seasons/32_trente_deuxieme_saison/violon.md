@@ -11,7 +11,7 @@ tags:
     - "2026"
     - attitudes
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

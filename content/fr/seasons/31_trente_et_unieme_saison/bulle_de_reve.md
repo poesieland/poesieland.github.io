@@ -11,7 +11,7 @@ tags:
     - "2026"
     - attitudes
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

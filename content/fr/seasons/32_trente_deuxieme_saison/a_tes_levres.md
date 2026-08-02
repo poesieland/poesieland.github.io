@@ -13,7 +13,7 @@ tags:
     - citation
     - heptasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 description: L'arbre cache la forêt
 pictures: []

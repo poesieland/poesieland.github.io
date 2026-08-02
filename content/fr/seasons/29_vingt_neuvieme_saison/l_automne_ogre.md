@@ -11,7 +11,7 @@ tags:
     - "2025"
     - saisons
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

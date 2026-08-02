@@ -11,7 +11,7 @@ tags:
     - "2026"
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

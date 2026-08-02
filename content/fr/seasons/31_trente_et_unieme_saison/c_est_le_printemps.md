@@ -11,7 +11,7 @@ tags:
     - "2026"
     - saisons
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

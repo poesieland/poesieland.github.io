@@ -12,7 +12,7 @@ tags:
     - "2026"
     - philosophie
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

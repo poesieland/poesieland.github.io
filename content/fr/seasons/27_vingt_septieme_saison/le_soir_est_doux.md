@@ -14,7 +14,7 @@ tags:
     - ombres et lumières
     - refrain
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

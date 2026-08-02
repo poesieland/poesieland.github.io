@@ -14,7 +14,7 @@ tags:
     - saisons
     - les mois
     - juin
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

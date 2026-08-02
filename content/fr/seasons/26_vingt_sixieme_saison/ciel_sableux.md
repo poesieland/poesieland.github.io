@@ -12,7 +12,7 @@ tags:
     - hexasyllabe
     - nature
     - le ciel est
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

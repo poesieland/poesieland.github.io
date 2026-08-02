@@ -15,7 +15,7 @@ tags:
     - philosophie
     - saisons
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

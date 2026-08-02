@@ -14,7 +14,7 @@ tags:
     - nature
     - saisons
     - le ciel est
-location: []
+locations: []
 info: ""
 description: Le ciel est **bleu très clair**
 pictures: []

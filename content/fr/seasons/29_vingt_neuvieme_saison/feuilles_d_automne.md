@@ -12,7 +12,7 @@ tags:
     - saisons
     - tétrasyllabe
     - la mort
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

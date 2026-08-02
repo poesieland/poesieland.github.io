@@ -12,7 +12,7 @@ tags:
     - nature
     - octosyllabe
     - tous les vieux arbres ont des fleurs
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

@@ -13,7 +13,7 @@ tags:
     - philosophie
     - hexasyllabe
     - la mort
-location: []
+locations: []
 info: "[^1]: mon fils de 3 ans en 2014..."
 pictures: []
 poemType: ""

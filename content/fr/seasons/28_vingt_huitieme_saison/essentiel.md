@@ -12,7 +12,7 @@ tags:
     - octosyllabe
     - philosophie
     - citation
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

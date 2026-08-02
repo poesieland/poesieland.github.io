@@ -11,7 +11,7 @@ tags:
     - "2026"
     - saisons
     - trisyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 description: ""
 pictures: []

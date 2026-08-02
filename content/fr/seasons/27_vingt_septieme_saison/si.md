@@ -11,7 +11,7 @@ tags:
     - "2025"
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: Reprise de la jolie image *je me brûle à ma braise* d'un [poème de la deuxième saison](../2_deuxieme_saison/passion).
 pictures: []
 poemType: ""

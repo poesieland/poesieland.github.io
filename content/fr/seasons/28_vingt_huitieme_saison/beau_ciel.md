@@ -12,7 +12,7 @@ tags:
     - nature
     - octosyllabe
     - le ciel est
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

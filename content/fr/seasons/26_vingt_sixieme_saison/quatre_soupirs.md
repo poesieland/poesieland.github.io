@@ -19,7 +19,7 @@ tags:
     - refrain
     - saisons
     - attitudes
-location: []
+locations: []
 info: |-
     Reprise enjouée du début du premier vers d'un [poème de la dix-septième saison](../17_dix_septieme_saison/dormira).
 

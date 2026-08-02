@@ -13,7 +13,7 @@ tags:
     - nature
     - philosophie
     - octosyllabe
-location:
+locations:
     - Reims
 info: ""
 pictures: []

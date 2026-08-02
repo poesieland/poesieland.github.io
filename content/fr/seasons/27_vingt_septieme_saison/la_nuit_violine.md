@@ -14,7 +14,7 @@ tags:
     - amour
     - hexasyllabe
     - attitudes
-location: []
+locations: []
 info: Reprise de *Cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 pictures: []
 poemType: ""

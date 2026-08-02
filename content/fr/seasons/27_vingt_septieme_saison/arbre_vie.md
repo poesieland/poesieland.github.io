@@ -12,7 +12,7 @@ tags:
     - acrostiche
     - nature
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

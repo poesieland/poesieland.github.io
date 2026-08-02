@@ -14,7 +14,7 @@ tags:
     - saisons
     - hexasyllabe
     - décembre
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

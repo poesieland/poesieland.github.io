@@ -12,7 +12,7 @@ tags:
     - hexasyllabe
     - philosophie
     - famille
-location: []
+locations: []
 info: J'ai atteint l'âge que mon père avait quand j'étais adolescente...
 pictures: []
 poemType: ""

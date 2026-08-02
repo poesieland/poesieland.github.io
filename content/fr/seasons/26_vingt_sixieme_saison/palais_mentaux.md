@@ -11,7 +11,7 @@ tags:
     - "2025"
     - philosophie
     - trisyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

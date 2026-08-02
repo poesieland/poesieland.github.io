@@ -3,11 +3,12 @@ title = "Le soleil s'endort"
 id = "le_soleil_s_endort_21"
 date = 2024-08-02
 weight = 31
-categories = ["Ciel", "Crépuscule"]
-tags = ["nature", "ombres et lumières", "2024", "pentasyllabe"]
-pictures = ["Mont des Cats - 02.08.2024"]
+categories = [ "Ciel", "Crépuscule" ]
+tags = [ "nature", "ombres et lumières", "2024", "pentasyllabe" ]
+pictures = [ "Mont des Cats - 02.08.2024" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+location = [ "Mont des Cats" ]
 +++
 
 Le soleil s'en va,

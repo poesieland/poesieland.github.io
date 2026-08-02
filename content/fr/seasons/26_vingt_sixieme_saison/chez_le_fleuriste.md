@@ -13,7 +13,7 @@ tags:
     - nature
     - philosophie
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

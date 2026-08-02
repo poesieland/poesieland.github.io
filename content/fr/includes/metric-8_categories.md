@@ -9,5 +9,5 @@ title = "Associations privilégiées"
 - [Flore](/categories/flore)
 - [Enfance et adolescence](/categories/enfance-et-adolescence)
 - [Faune](/categories/faune)
-- [Passion](/categories/passion)
 - [Jardin et paysage](/categories/jardin-et-paysage)
+- [Passion](/categories/passion)

@@ -15,7 +15,7 @@ tags:
     - nature
     - philosophie
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: Gare au chat qui **passe** / Quand l'autre est absent
 pictures: []

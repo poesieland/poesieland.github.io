@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Automne](/categories/automne)
 - [Lune](/categories/lune)
 - [Etre](/categories/etre)
+- [Espoir](/categories/espoir)
 - [Eau douce](/categories/eau-douce)
 - [Hiver](/categories/hiver)
 - [Angoisse](/categories/angoisse)
-- [Temps](/categories/temps)

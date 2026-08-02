@@ -17,7 +17,7 @@ tags:
     - saisons
     - septembre
     - voici
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

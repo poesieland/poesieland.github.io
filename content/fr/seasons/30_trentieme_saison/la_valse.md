@@ -12,7 +12,7 @@ tags:
     - "2025"
     - octosyllabe
     - attitudes
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

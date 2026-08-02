@@ -15,7 +15,7 @@ tags:
     - refrain
     - tétrasyllabe
     - l'air ou la chanson
-location: []
+locations: []
 info: En pensant encore à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson)).
 pictures: []
 poemType: ""

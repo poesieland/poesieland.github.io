@@ -13,7 +13,7 @@ tags:
     - nature
     - saisons
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

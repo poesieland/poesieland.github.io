@@ -11,7 +11,7 @@ tags:
     - "2025"
     - saisons
     - trisyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 pictures: []
 poemType: ""

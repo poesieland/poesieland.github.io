@@ -10,7 +10,7 @@ categories:
 tags:
     - "2025"
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

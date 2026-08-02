@@ -11,7 +11,7 @@ tags:
     - "2026"
     - ombres et lumières
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

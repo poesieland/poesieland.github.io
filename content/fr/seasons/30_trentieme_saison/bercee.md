@@ -12,7 +12,7 @@ tags:
     - attitudes
     - noël
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

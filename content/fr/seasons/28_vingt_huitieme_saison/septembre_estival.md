@@ -15,7 +15,7 @@ tags:
     - les mois
     - septembre
     - estival
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

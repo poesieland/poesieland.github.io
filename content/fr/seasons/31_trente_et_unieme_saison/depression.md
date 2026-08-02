@@ -12,7 +12,7 @@ tags:
     - "2026"
     - philosophie
     - trisyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

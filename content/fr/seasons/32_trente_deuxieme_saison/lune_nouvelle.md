@@ -12,7 +12,7 @@ tags:
     - ombres et lumières
     - refrain
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures:

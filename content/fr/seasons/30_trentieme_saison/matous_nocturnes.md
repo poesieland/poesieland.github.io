@@ -13,7 +13,7 @@ tags:
     - nature
     - pentasyllabe
     - lovecat
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

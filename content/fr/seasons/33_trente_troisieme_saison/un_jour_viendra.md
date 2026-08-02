@@ -14,7 +14,7 @@ tags:
     - la mort
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

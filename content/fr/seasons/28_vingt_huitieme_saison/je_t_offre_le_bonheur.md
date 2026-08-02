@@ -14,7 +14,7 @@ tags:
     - hexasyllabe
     - refrain
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

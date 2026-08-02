@@ -12,7 +12,7 @@ tags:
     - lovecat
     - nature
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -12,7 +12,7 @@ tags:
     - les mots
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

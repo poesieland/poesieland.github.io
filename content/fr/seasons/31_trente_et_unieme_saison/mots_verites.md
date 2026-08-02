@@ -13,7 +13,7 @@ tags:
     - les mots
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

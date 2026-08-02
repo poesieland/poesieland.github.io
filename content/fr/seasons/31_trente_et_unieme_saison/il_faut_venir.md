@@ -12,7 +12,7 @@ tags:
     - la mort
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: Reprise modifiée des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/le_dernier_rendez_vous).
 description: ""
 pictures: []

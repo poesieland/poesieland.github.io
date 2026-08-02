@@ -13,7 +13,7 @@ tags:
     - philosophie
     - tétrasyllabe
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

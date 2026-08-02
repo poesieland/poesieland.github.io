@@ -12,7 +12,7 @@ tags:
     - il se pourrait qu'il pleuve
     - nature
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

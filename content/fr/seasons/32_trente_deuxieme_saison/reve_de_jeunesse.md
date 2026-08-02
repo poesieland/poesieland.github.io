@@ -12,7 +12,7 @@ tags:
     - hexasyllabe
     - philosophie
     - il se pourrait qu'il pleuve
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

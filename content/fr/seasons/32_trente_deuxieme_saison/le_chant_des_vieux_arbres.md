@@ -13,7 +13,7 @@ tags:
     - octosyllabe
     - tous les vieux arbres ont des fleurs
     - refrain
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

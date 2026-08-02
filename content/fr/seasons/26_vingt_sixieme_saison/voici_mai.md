@@ -16,7 +16,7 @@ tags:
     - nature
     - saisons
     - voici
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

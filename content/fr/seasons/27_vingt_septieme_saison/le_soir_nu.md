@@ -11,7 +11,7 @@ tags:
     - "2025"
     - ombres et lumières
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -12,7 +12,7 @@ tags:
     - amour
     - octosyllabe
     - refrain
-location: []
+locations: []
 info: '{{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}'
 pictures: []
 poemType: ""

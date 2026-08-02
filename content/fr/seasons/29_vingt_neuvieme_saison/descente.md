@@ -15,7 +15,7 @@ tags:
     - philosophie
     - saisons
     - octobre
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

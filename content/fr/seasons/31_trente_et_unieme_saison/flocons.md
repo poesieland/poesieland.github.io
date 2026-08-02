@@ -11,7 +11,7 @@ tags:
     - "2026"
     - nature
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

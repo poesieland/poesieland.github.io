@@ -11,7 +11,7 @@ tags:
     - "2026"
     - philosophie
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""
@@ -30,11 +30,11 @@ Du bois jusqu'au rivage
 Pour tordre les boyaux,
 
  \
-Pour effacer symboles
+Pour effacer symbole
 
 D'un rire calciné ;
 
-Je n'ai plus de paroles
+Je n'ai plus de parole
 
 Quand ainsi sous mon nez
 

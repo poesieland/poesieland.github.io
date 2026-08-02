@@ -14,7 +14,7 @@ tags:
     - ombres et lumières
     - refrain
     - nature
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

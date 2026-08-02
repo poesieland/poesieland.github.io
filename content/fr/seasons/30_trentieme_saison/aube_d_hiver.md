@@ -13,7 +13,7 @@ tags:
     - ombres et lumières
     - saisons
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

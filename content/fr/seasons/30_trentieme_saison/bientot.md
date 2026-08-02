@@ -12,7 +12,7 @@ tags:
     - hexasyllabe
     - saisons
     - noël
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -14,7 +14,7 @@ tags:
     - nature
     - saisons
     - sonnet
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

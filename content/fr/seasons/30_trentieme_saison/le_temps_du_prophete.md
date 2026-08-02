@@ -12,7 +12,7 @@ tags:
     - noël
     - philosophie
     - pentasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

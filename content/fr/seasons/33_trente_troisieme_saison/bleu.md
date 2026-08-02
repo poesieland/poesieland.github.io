@@ -15,7 +15,7 @@ tags:
     - nature
     - saisons
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: Le ciel est **uniforme**
 wordcloud: ""

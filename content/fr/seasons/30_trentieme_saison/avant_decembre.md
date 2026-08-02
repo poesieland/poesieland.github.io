@@ -14,7 +14,7 @@ tags:
     - alexandrin
     - novembre
     - décembre
-location: []
+locations: []
 info: Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a un clin d'oeil à l'avant-dernier vers au mini-thème [saison incertaine](../../tags/saison-incertaine).
 pictures: []
 poemType: ""

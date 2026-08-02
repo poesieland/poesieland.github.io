@@ -13,7 +13,7 @@ tags:
     - ombres et lumières
     - philosophie
     - octosyllabe
-location:
+locations:
     - Bordeaux
 info: ""
 description: ""

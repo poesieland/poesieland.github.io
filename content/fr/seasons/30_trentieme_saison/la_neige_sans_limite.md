@@ -12,7 +12,7 @@ tags:
     - nature
     - refrain
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

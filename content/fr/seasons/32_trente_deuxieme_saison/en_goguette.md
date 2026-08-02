@@ -14,7 +14,7 @@ tags:
     - nature
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: Gare au chat qui **sort**, / Qui rentre et qui crie
 pictures: []

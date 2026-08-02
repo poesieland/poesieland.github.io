@@ -13,7 +13,7 @@ tags:
     - nature
     - trisyllabe
     - saisons
-location: []
+locations: []
 info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 pictures: []
 poemType: ""

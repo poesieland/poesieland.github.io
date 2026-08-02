@@ -511,8 +511,8 @@
           "description": "Check metric name(s), 'métrique variable'. Check year. Check poem type. Check acrostiche."
         },
         {
-          "title": "Location",
-          "name": "location",
+          "title": "Locations",
+          "name": "locations",
           "type": "taxonomy",
           "taxonomyId": "locationTaxonomy"
         },

@@ -13,7 +13,7 @@ tags:
     - ombres et lumières
     - refrain
     - trop de choses auront changé
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

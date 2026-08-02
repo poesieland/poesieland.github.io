@@ -12,7 +12,7 @@ tags:
     - "2025"
     - alexandrin
     - philosophie
-location: []
+locations: []
 info: '{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}'
 pictures: []
 poemType: ""

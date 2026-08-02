@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Ciel](/categories/ciel)
 - [Hiver](/categories/hiver)
 - [Romantisme](/categories/romantisme)
+- [Eté](/categories/eté)
 - [Espoir](/categories/espoir)
 - [Automne](/categories/automne)
-- [Eté](/categories/eté)
 - [Apprentissage](/categories/apprentissage)

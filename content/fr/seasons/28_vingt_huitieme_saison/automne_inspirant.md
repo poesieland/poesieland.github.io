@@ -14,7 +14,7 @@ tags:
     - philosophie
     - saisons
     - refrain
-location: []
+locations: []
 info: '{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}'
 pictures: []
 poemType: ""

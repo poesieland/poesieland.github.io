@@ -14,7 +14,7 @@ tags:
     - saisons
     - refrain
     - août
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

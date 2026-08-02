@@ -11,7 +11,7 @@ tags:
     - "2026"
     - philosophie
     - décasyllabe
-location:
+locations:
     - Lorraine
     - Reims
 info: ""

@@ -13,7 +13,7 @@ tags:
     - hexasyllabe
     - ombres et lumières
     - nature
-location: []
+locations: []
 info: |-
     {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
 pictures: []

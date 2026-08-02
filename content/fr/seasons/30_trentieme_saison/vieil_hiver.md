@@ -12,7 +12,7 @@ tags:
     - saisons
     - tétrasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

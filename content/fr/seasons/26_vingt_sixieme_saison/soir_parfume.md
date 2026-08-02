@@ -12,7 +12,7 @@ tags:
     - ombres et lumières
     - trisyllabe
     - estival
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

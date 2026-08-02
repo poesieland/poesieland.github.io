@@ -12,7 +12,7 @@ tags:
     - pentasyllabe
     - saisons
     - refrain
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

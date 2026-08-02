@@ -15,7 +15,7 @@ tags:
     - nature
     - pantoun
     - la mort
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

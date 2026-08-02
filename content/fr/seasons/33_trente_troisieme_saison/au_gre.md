@@ -14,7 +14,7 @@ tags:
     - octosyllabe
     - philosophie
     - refrain
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

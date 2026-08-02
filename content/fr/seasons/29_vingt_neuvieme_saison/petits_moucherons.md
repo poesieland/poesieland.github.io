@@ -12,7 +12,7 @@ tags:
     - heptasyllabe
     - nature
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

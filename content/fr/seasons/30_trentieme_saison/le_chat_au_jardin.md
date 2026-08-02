@@ -13,7 +13,7 @@ tags:
     - lovecat
     - nature
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -14,7 +14,7 @@ tags:
     - saisons
     - les mois
     - août
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

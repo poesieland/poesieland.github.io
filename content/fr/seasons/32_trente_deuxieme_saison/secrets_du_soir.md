@@ -11,7 +11,7 @@ tags:
     - "2026"
     - ombres et lumières
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

@@ -14,7 +14,7 @@ tags:
     - nature
     - pentasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 description: "Gare au chat qui **clame** / L'heure de jouer "
 pictures: []

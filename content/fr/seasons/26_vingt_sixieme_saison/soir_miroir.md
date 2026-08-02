@@ -13,7 +13,7 @@ tags:
     - ombres et lumières
     - philosophie
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

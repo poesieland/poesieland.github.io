@@ -13,7 +13,7 @@ tags:
     - amour
     - hexasyllabe
     - philosophie
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

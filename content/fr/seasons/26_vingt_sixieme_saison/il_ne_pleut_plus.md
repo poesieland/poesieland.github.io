@@ -15,7 +15,7 @@ tags:
     - philosophie
     - refrain
     - octosyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -12,7 +12,7 @@ tags:
     - amour
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

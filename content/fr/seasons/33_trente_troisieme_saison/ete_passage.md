@@ -14,7 +14,7 @@ tags:
     - saison incertaine
     - saisons
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: Est-ce un automne, est-ce un printemps, / Est-ce même un été qui passe ?
 pictures: []

@@ -12,7 +12,7 @@ tags:
     - philosophie
     - hexasyllabe
     - la mort
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

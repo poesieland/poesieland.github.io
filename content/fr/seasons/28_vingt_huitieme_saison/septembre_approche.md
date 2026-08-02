@@ -14,7 +14,7 @@ tags:
     - saisons
     - rentrée scolaire
     - septembre
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

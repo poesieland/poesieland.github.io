@@ -12,7 +12,7 @@ tags:
     - hexasyllabe
     - philosophie
     - acrostiche
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

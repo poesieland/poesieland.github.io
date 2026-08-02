@@ -14,7 +14,7 @@ tags:
     - nature
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

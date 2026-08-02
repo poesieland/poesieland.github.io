@@ -14,7 +14,7 @@ tags:
     - amour
     - nature
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

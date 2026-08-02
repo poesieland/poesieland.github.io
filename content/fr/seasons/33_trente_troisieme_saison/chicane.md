@@ -13,7 +13,7 @@ tags:
     - nature
     - saisons
     - hexasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

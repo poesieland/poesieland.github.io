@@ -12,7 +12,7 @@ tags:
     - nature
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: Reprise du premier vers d'un [poème de de la vingtième saison](../20_vingtieme_saison/encore_une_averse).
 pictures: []
 poemType: ""

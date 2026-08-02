@@ -11,7 +11,7 @@ tags:
     - "2026"
     - philosophie
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

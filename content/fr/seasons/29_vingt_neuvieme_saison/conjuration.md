@@ -14,7 +14,7 @@ tags:
     - hexasyllabe
     - philosophie
     - saisons
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

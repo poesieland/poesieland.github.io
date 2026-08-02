@@ -14,7 +14,7 @@ tags:
     - pentasyllabe
     - refrain
     - gare au chat
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

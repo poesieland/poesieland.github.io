@@ -15,7 +15,7 @@ tags:
     - la mort
     - refrain
     - philosophie
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

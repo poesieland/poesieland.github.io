@@ -14,7 +14,7 @@ tags:
     - refrain
     - tétrasyllabe
     - amour
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

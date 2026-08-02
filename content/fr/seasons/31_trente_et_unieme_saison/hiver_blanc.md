@@ -11,7 +11,7 @@ tags:
     - "2026"
     - nature
     - trisyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
 pictures: []
 poemType: ""

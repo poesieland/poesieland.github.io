@@ -13,7 +13,7 @@ tags:
     - nature
     - saisons
     - tétrasyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

@@ -12,7 +12,7 @@ tags:
     - pentasyllabe
     - philosophie
     - refrain
-location: []
+locations: []
 info: '{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}'
 description: ""
 pictures: []

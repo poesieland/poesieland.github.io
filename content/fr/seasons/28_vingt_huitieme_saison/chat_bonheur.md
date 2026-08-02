@@ -13,7 +13,7 @@ tags:
     - nature
     - refrain
     - hexasyllabe
-location: []
+locations: []
 info: ""
 pictures:
     - Mon chat, 3 septembre 2022

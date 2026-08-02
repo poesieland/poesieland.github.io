@@ -15,7 +15,7 @@ tags:
     - philosophie
     - saisons
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

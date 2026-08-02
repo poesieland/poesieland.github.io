@@ -18,7 +18,7 @@ tags:
     - philosophie
     - saisons
     - refrain
-location: []
+locations: []
 info: ""
 description: ""
 wordcloud: ""

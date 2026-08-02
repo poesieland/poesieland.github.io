@@ -12,7 +12,7 @@ tags:
     - philosophie
     - tétrasyllabe
     - refrain
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

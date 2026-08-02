@@ -12,7 +12,7 @@ tags:
     - acrostiche
     - amour
     - octosyllabe
-location: []
+locations: []
 info: '{{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}'
 pictures: []
 poemType: ""

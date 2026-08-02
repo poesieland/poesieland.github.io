@@ -17,7 +17,7 @@ tags:
     - refrain
     - saisons
     - mai
-location: []
+locations: []
 info: ""
 description: Printemps d'avril et mai !
 pictures: []

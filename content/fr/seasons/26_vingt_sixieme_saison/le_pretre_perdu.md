@@ -12,7 +12,7 @@ tags:
     - "2025"
     - philosophie
     - hexasyllabe
-location: []
+locations: []
 info: Inspiré par [le film Conclave (2024)](https://www.google.com/search?q=film+conclave+2024)
 pictures: []
 poemType: ""

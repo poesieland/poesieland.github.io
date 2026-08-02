@@ -12,7 +12,7 @@ tags:
     - nature
     - octosyllabe
     - acrostiche
-location: []
+locations: []
 info: '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
 description: ""
 pictures: []

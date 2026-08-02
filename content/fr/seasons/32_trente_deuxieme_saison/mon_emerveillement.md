@@ -13,7 +13,7 @@ tags:
     - hexasyllabe
     - philosophie
     - refrain
-location: []
+locations: []
 info: Reprise détournée de l'idée [Pour déployer mes ailes](../5_cinquieme_saison/pour_deployer_mes_ailes)
 description: ""
 pictures: []

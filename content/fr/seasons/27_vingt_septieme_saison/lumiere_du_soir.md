@@ -12,7 +12,7 @@ tags:
     - octosyllabe
     - ombres et lumières
     - acrostiche
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

@@ -13,7 +13,7 @@ tags:
   - hexasyllabe
   - philosophie
   - famille
-location: []
+locations: []
 info: |-
   {{< figure src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifBoA4u6b1PkkjsAuvh6F1S3kq3cHSswYhKcsF88CfiniatDVCsZQqwqRcXfT1htij8K3Ap22MptzCeiU5mxAfUlY_4-B9H0XLaxYrfUuhll4NPDoRguEE5MneBOx2RUNv2vrF50OCzOM/s400/Chateau+Varsberg1.JPG" title="Grotte de Lourdes du château de Ham-sous-Varsberg">}}
 

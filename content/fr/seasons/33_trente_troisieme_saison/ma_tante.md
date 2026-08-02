@@ -12,7 +12,7 @@ tags:
     - famille
     - philosophie
     - octosyllabe
-location: []
+locations: []
 info: ""
 description: ""
 pictures: []

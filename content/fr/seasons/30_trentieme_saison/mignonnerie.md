@@ -14,7 +14,7 @@ tags:
     - nature
     - refrain
     - pentasyllabe
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

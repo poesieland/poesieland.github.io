@@ -13,7 +13,7 @@ tags:
     - nature
     - pentasyllabe
     - gare au chat
-location: []
+locations: []
 info: ""
 pictures:
     - Fripouille en juillet 2022, du temps où il ne se faisait pas rétamer par les jeunes matous du quartier comme maintenant

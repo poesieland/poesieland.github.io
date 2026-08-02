@@ -12,7 +12,7 @@ tags:
     - saisons
     - trisyllabe
     - estival
-location: []
+locations: []
 info: ""
 pictures: []
 poemType: ""

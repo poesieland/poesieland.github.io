@@ -13,7 +13,7 @@ tags:
     - lovecat
     - nature
     - pentasyllabe
-location: []
+locations: []
 info: ""
 description: Gare au chat qui, **pote** / Vient dans mon jardin,
 pictures: []
