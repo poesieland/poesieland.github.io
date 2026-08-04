@@ -3,12 +3,20 @@ title = "Canto dell'anima"
 id = "canto_dell_anima_13"
 date = 1999-09-19
 weight = 10
-categories = ["Foi", "Musique et chant"]
-tags = ["philosophie", "attitudes", "1999", "acrostiche", "alexandrin"]
+categories = [ "Foi", "Musique et chant" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "attitudes",
+  "philosophie",
+  "citation"
+]
 info = "\"Chant de l'âme\" en italien."
 acrostiche = "Canto dell'anima"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Ecce horae nostrae"
 +++
 
 Comment viendrai-je enfin pour chanter tes louanges ?
@@ -31,7 +39,7 @@ L'air de cette supplique ! Un parfum monte aux cieux
 Libéré de la peine en ce miserere :
 
  \
-A cela tu réponds : "Ecco hora nostrae"...
+A cela tu réponds : "Ecce horae nostrae"...
 
 Nos pas te suivent, l'âme est prête à pardonner,
 

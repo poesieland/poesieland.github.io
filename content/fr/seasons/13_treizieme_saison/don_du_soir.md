@@ -3,9 +3,15 @@ title = "Don du soir"
 id = "don_du_soir_13"
 date = 1999-11-05
 weight = 30
-categories = ["Foi", "Portraits"]
-tags = ["philosophie", "1999", "acrostiche", "alexandrin"]
-info = "\"Arc-en-ciel prière\" en italien. Inspiré en partie par une chanson, \"Ave Maria no morro\", dans la version des paroles chantées par Andrea Bocelli."
+categories = [ "Foi", "Portraits" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "philosophie",
+  "l'air ou la chanson"
+]
+info = '"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson, "Ave Maria no morro", dans la version des paroles chantées par Andrea Bocelli.'
 acrostiche = "Arcobaleno preghier'"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

@@ -3,11 +3,20 @@ title = "Naître condamné"
 id = "naitre_condamne_13"
 date = 1999-09-11
 weight = 9
-categories = ["Temps"]
-tags = ["philosophie", "1999", "acrostiche", "alexandrin", "la mort"]
+categories = [ "Temps" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "la mort",
+  "philosophie",
+  "citation"
+]
 acrostiche = "Naître condamné"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+info = ""
+description = "Pour qui sonne le glas ?"
 +++
 
 Ne demande jamais : "pour qui sonne le glas ?"

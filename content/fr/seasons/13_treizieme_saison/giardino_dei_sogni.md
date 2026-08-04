@@ -3,9 +3,17 @@ title = "Giardino dei sogni"
 id = "giardino_dei_sogni_13"
 date = 1999-09-04
 weight = 20
-categories = ["Jardin et paysage", "Temps", "Automne"]
-tags = ["nature", "philosophie", "saisons", "1999", "doubleAcrostiche", "décasyllabe"]
-info = "\"Jardin des songes\" en italien."
+categories = [ "Jardin et paysage", "Temps", "Automne" ]
+tags = [
+  "1999",
+  "doubleAcrostiche",
+  "décasyllabe",
+  "nature",
+  "philosophie",
+  "saisons",
+  "l'air ou la chanson"
+]
+info = '"Jardin des songes" en italien.'
 doubleAcrostiche = "giardino | dei sogni"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
