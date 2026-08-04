@@ -12,8 +12,9 @@ tags:
     - "2025"
     - alexandrin
     - philosophie
+    - la nuit faite mer
 locations: []
-info: '{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -36,9 +37,5 @@ Accords déconcertants, synonymes de vivre
 Me rendent tant unique, à celui qui me lit
 
 Reviens pour t'enivrer, sur, virtuel, ce livre.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}
 
 [^1]: Clin d'oeil au titre de cette Saison.

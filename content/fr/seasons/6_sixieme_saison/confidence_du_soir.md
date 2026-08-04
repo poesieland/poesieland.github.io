@@ -3,12 +3,9 @@ title = "Confidence du soir"
 id = "confidence_du_soir_6"
 date = 1998-05-12
 weight = 33
-categories = ["Etre"]
-tags = ["philosophie", "1998", "alexandrin"]
-info = """
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-"""
-
+categories = [ "Etre" ]
+tags = [ "1998", "alexandrin", "philosophie", "la nuit faite mer" ]
+info = ""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -47,7 +44,3 @@ Ton ultime pensée écrira l'océane
 Berceuse chantonnée au sable trop amer
 
 Qu'endormira d'un geste une antique pavane...
-
-{{% notice style="primary" %}}
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}

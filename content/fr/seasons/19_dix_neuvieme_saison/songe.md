@@ -3,11 +3,9 @@ title = "Songe"
 id = "songe_19"
 date = 2024-04-12
 weight = 42
-categories = ["Etre"]
-tags = ["philosophie", "2024", "alexandrin"]
-info = """
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}"""
-
+categories = [ "Etre" ]
+tags = [ "2024", "alexandrin", "philosophie", "la nuit faite mer" ]
+info = ""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -38,6 +36,3 @@ Gloire puis déchéance au suprême animal !
 
 Tu songeais dans le bleu de la nuit qui s'abîme.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}

@@ -3,12 +3,16 @@ title = "Songe"
 id = "songe_22"
 date = 2024-11-09
 weight = 42
-categories = ["Etre", "Nuit", "Ciel"]
-tags = ["philosophie", "ombres et lumières", "nature", "2024", "alexandrin"]
-info = """
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-"""
-
+categories = [ "Etre", "Nuit", "Ciel" ]
+tags = [
+  "2024",
+  "alexandrin",
+  "nature",
+  "ombres et lumières",
+  "philosophie",
+  "la nuit faite mer"
+]
+info = ""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -39,6 +43,3 @@ J'ai rêvé d'une nef immense, un rêve nu
 
 Pour lier dans un souffle une nuit magistrale.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
-{{% /notice %}}

@@ -9,10 +9,11 @@ categories:
     - Ciel
 tags:
     - "2026"
-    - nature
     - hexasyllabe
+    - nature
+    - la nuit faite mer
 locations: []
-info: '{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -48,5 +49,4 @@ Au ciel, tendre faconde.
 
 {{% notice style="primary" %}}
 Reprise de la moitié du premier vers d'un [poème de la septième saison](../7_septieme_saison/le_ciel_n_est_bleu_ni_gris).
-{{% include "../../includes/la_nuit_faite_mer" hidefirstheading %}}
 {{% /notice %}}
