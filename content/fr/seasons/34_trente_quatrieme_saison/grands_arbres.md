@@ -17,7 +17,8 @@ locations:
 info: ""
 description: ""
 wordcloud: ""
-pictures: []
+pictures:
+    - Mont des Cats, 17.07.2026
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -48,3 +49,5 @@ Vous avaient plantés,
 Grands arbres, compères,
 
 Bercés, enchantés.
+
+{{< figure src="/images/grands_arbres_34_0.jpg" title="Mont des Cats, 17.07.2026" >}}

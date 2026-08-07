@@ -16,7 +16,8 @@ locations:
 info: ""
 description: ""
 wordcloud: ""
-pictures: []
+pictures:
+    - Mont des Cats, 25.07.2024
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -47,3 +48,5 @@ Leurs faîtes verts,
 Aux cieux ouverts,
 
 Tous en cadences.
+
+{{< figure src="/images/timidite_des_cimes_34_0.jpg" title="Mont des Cats, 25.07.2024" >}}

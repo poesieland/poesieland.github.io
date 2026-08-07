@@ -2,9 +2,9 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Lundi', value: 226, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
-    { label: 'Mardi', value: 231, color: 'rgba(72, 149, 239, 0.4)' },
-    { label: 'Mercredi', value: 226, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Jeudi', value: 192, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
+    { label: 'Mardi', value: 233, color: 'rgba(72, 149, 239, 0.4)' },
+    { label: 'Mercredi', value: 227, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Jeudi', value: 193, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: 'Vendredi', value: 222, color: 'rgba(72, 149, 239, 0.7)' },
     { label: 'Samedi', value: 271, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 306, color: 'rgba(72, 149, 239, 0.9000000000000001)' },

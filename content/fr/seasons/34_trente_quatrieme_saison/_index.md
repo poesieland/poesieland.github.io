@@ -3,7 +3,11 @@ title = "Trente-quatrième Saison : A mi-chemin du paradis"
 weight = 34
 type = "seasonIndex"
 description = """
-Cette Saison s'ouvre sur [l'émerveillement de la création](./le_peintre_de_la_lumiere).
+Cette Saison s'ouvre sur [l'émerveillement de la création](./le_peintre_de_la_lumiere). 
+
+Toutefois, le changement climatique épouvantable a rendu le titre de cette Saison oxymoriquement prémonitoire : nous sommes à ce moment-là quelque part à mi-chemin de l'enfer...
+
+Sujets du moment : l'été, le temps...
 
 A partir de juillet 2026"""
 +++

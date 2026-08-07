@@ -1,5 +1,5 @@
 +++
-title = "priere"
+title = "Prière"
 id = "priere_21"
 date = 2024-07-25
 weight = 24

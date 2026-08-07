@@ -10,8 +10,7 @@ tags = [
   "décasyllabe",
   "nature",
   "philosophie",
-  "saisons",
-  "l'air ou la chanson"
+  "saisons"
 ]
 info = '"Jardin des songes" en italien.'
 doubleAcrostiche = "giardino | dei sogni"

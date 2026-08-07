@@ -15,7 +15,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Création', value: 119, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 79, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 88, color: 'rgba(179, 51, 233, 1)' },
-    { label: 'Temps', value: 190, color: 'rgba(140, 7, 221, 1)' },
+    { label: 'Temps', value: 192, color: 'rgba(140, 7, 221, 1)' },
     { label: 'Etre', value: 145, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 56, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 44, color: 'rgba(61, 0, 102, 1)' },
@@ -33,7 +33,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Toucher', value: 16, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 17, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 67, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Eté', value: 65, color: 'rgba(0, 86, 27, 1)' },
+    { label: 'Eté', value: 69, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 145, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 81, color: 'rgba(24, 57, 30, 1)' },
   ];

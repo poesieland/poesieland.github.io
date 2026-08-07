@@ -19,7 +19,8 @@ locations:
 info: ""
 description: ""
 wordcloud: ""
-pictures: []
+pictures:
+    - Mont des Cats, 15.07.2026
 poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
@@ -59,3 +60,5 @@ A notre souvenir,
 Nos étés dans la brise,
 
 Ici, pour revenir.
+
+{{< figure src="/images/a_nos_etes_34_0.jpg" title="Mont des Cats, 15.07.2026" >}}
