@@ -1,3 +1,18 @@
+@font-face {
+  font-family: 'Nothing You Could Do';
+   src: url('/fonts/NothingYouCouldDo-Regular.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Caveat';
+   src: url('/fonts/Caveat-VariableFont_wght.woff2') format('woff2');
+}
+
+@font-face {
+  font-family: 'Alex Brush';
+   src: url('/fonts/AlexBrush-Regular.woff2') format('woff2');
+}
+
 /* SideBar Header Logo */
 #logo svg,
 #logo svg * {
@@ -66,6 +81,13 @@ a#logo:hover {
 :root {
     --MENU-M-width: 20rem;
     --MENU-L-width: 25rem;
+    --INTERNAL-MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
+}
+
+#R-body-inner h1,
+.book-title,
+h1 {
+  text-transform: none;
 }
 
 @media screen and (min-width: 60rem) {
