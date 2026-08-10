@@ -243,7 +243,7 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 0, y: 11, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
     { x: 15, y: 24, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
     { x: 8, y: 25, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
-    { x: 29, y: 28, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
+    { x: 29, y: 28, r: 4, color: 'rgba(121, 248, 248, 1)' },
     { x: 5, y: 22, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
     { x: 13, y: 22, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
     { x: 18, y: 22, r: 2.0, color: 'rgba(121, 248, 248, 1)' },
@@ -321,11 +321,11 @@ import { addBubbleChart } from '../add-chart.js'
     { x: 6, y: 14, r: 8.25, color: 'rgba(0, 127, 255, 1)' },
     { x: 7, y: 6, r: 7.5, color: 'rgba(0, 127, 255, 1)' },
     { x: 6, y: 3, r: 9.75, color: 'rgba(0, 127, 255, 1)' },
-    { x: 2, y: 3, r: 9.75, color: 'rgba(0, 127, 255, 1)' },
 ],
 [
     { x: 5, y: 28, r: 10, color: 'rgba(50, 122, 183, 1)' },
     { x: 5, y: 9, r: 7, color: 'rgba(50, 122, 183, 1)' },
+    { x: 2, y: 3, r: 7, color: 'rgba(50, 122, 183, 1)' },
 ]
   ];
   addBubbleChart('associatedCategories', ['Premier quart (taille fois 4)','Deuxième quart (taille fois 2)','Troisième quart (taille fois 1.5)','Quatrième quart'], data, {scales: { x: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Amitié','Amour platonique','Angoisse','Apprentissage','Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Révolte','Romantisme','Temps'][index]; } } }, y: { ticks: { stepSize: 1, autoSkip: false, callback: function(value, index, ticks) { return ['Aube','Automne','Ciel','Climat','Création','Crépuscule','Eau douce','Enfance et adolescence','Espoir','Eté','Etre','Faune','Flore','Foi','Hiver','Jardin et paysage','Lune','Mer','Mouvement','Musique et chant','Neige','Nuit','Passion','Portraits','Printemps','Révolte','Romantisme','Sommeil','Temps','Toucher','Ville'][index]; } } } }});
