@@ -1,5 +1,5 @@
 +++
-title = "Voyage"
+title = "Voyage II"
 id = "voyage_21"
 date = 2024-07-13
 weight = 18

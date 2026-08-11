@@ -6,7 +6,7 @@ Faire varier la métrique permet de renforcer une caractéristique du poème, qu
 
 Si le premier vers est plus long que le deuxième, cela suit une forme de respiration méditative. Si c'est l'inverse, c'est une respiration expressive.
 
-En revanche, vers pairs ou impairs, on trouve de tout même s'il est plus rare de ne trouver que des vers impairs.
+En revanche, vers pairs ou impairs, on trouve de tout même qu'il est plus rare de ne trouver que des vers impairs.
 
 ## Jouer
 J'ai commencé à jouer avec la métrique en mars [1997](../1997) dans [Jeux de nuits](../../seasons/3_troisieme_saison/jeux_de_nuits) qui suit un rythme décroissant mais identique dans chaque quatrain.

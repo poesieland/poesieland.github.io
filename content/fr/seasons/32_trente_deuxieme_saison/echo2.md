@@ -1,6 +1,6 @@
 ---
 weight: 42
-title: Echo
+title: Echo II
 id: echo2_32
 date: 2026-04-20
 verseLength: 6

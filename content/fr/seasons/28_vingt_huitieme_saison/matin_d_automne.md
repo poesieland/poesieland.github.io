@@ -1,6 +1,6 @@
 ---
 weight: 29
-title: Matin d'automne
+title: Matin d'automne II
 id: matin_d_automne_28
 date: 2025-08-19
 verseLength: 5

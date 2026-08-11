@@ -1,6 +1,6 @@
 ---
 weight: 49
-title: Juin
+title: Juin II
 id: juin_26
 date: 2025-06-02
 verseLength: 12
