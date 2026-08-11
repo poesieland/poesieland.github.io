@@ -12,8 +12,9 @@ tags:
     - pentasyllabe
     - philosophie
     - refrain
+    - coupe et je repousse
 locations: []
-info: '{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -55,7 +56,3 @@ Brûle, j'ai lutté,
 Mieux que toi j'emporte
 
 Mon air chuchoté.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}
-{{% /notice %}}

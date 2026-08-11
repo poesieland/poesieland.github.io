@@ -4,10 +4,15 @@ id = "monologue_de_la_nature_20"
 date = 2024-05-01
 weight = 7
 categories = [ "Espoir", "Portraits" ]
-tags = [ "philosophie", "2024", "pentasyllabe" ]
+tags = [
+  "2024",
+  "pentasyllabe",
+  "philosophie",
+  "coupe et je repousse"
+]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = '{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}'
+info = ""
 +++
 
 Coupe et je repousse,
@@ -44,7 +49,3 @@ Tombe le grand soir,
 Je me suis battue,
 
 Il reste un espoir !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}
-{{% /notice %}}

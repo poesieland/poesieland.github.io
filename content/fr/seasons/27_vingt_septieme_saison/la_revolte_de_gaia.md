@@ -12,8 +12,9 @@ tags:
     - pentasyllabe
     - philosophie
     - refrain
+    - coupe et je repousse
 locations: []
-info: '{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -45,7 +46,3 @@ Brûle sans répit !
 Gaïa souffle et cogne,
 
 Ô rage et dépit !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/coupe_et_je_repousse" hidefirstheading %}}
-{{% /notice %}}
