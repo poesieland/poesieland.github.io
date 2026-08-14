@@ -26,7 +26,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '6, 8', value: 1, color: 'rgb(174, 214, 241)' },
     { label: '7, 4', value: 1, color: 'rgb(237, 187, 153)' },
     { label: '7, 9', value: 1, color: 'rgb(162, 217, 206)' },
-    { label: '8, 2', value: 3, color: 'rgb(174, 214, 241)' },
+    { label: '8, 2', value: 4, color: 'rgb(174, 214, 241)' },
     { label: '8, 3', value: 3, color: 'rgb(215, 189, 226)' },
     { label: '8, 4', value: 1, color: 'rgb(174, 214, 241)' },
     { label: '8, 5', value: 1, color: 'rgb(215, 189, 226)' },

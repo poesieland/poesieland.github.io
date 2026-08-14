@@ -7,13 +7,15 @@ verseLength: 5
 divider: ""
 categories:
     - Faune
+    - Portraits
 tags:
     - "2025"
     - gare au chat
+    - la mort
     - lovecat
     - nature
     - pentasyllabe
-    - la mort
+    - philosophie
 locations: []
 info: ""
 pictures:
@@ -22,7 +24,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **saute** / Tout droit dans ton coeur"
+description: Gare au chat qui **saute** / Tout droit dans ton coeur
 ---
 Gare au chat qui saute
 

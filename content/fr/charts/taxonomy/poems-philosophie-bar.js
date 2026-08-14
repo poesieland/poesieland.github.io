@@ -18,7 +18,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'De place en place (15) 2001', value: 31, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Plus loin (16) 2002-04', value: 24, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 24, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Retour aux sources (18) 2023-24', value: 20, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Retour aux sources (18) 2023-24', value: 21, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Destination bonheur (19) 2024', value: 27, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 23, color: 'rgba(220, 147, 246, 0.5)' },
@@ -30,11 +30,11 @@ import { addBarChart } from '../add-chart.js'
     { label: 'D\'un rêve à l\'autre (27) 2025', value: 21, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Les mots sur le chemin (28) 2025', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Kaléidoscopes (29) 2025', value: 18, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Tout fait sens (30) 2025-26', value: 15, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Tout fait sens (30) 2025-26', value: 16, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Emotions mouvantes (31) 2026', value: 19, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Témoin jour après jour (32) 2026', value: 22, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 28, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'A mi-chemin du paradis (34) 2026', value: 15, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'A mi-chemin du paradis (34) 2026', value: 19, color: 'rgba(220, 147, 246, 0.5)' },
   ];
     addBarChart('poems-philosophieBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

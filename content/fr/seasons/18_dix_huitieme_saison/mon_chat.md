@@ -3,9 +3,9 @@ title = "Mon chat"
 id = "mon_chat_18"
 date = 2023-11-03
 weight = 14
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2023", "hexasyllabe"]
-pictures = ["Mon chat, 3 septembre 2022"]
+categories = [ "Faune", "Portraits" ]
+tags = [ "2023", "hexasyllabe", "lovecat", "nature", "philosophie" ]
+pictures = [ "Mon chat, 3 septembre 2022" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -23,18 +23,18 @@ La caresse fusionne
 
 Posée en mon giron
 
-La trève de ma lionne,
+La trêve de ma lionne,
 
 Un paisible ronron.
 
  \
-Quel mal a donc ma chasse
+"Quel mal a donc ma chasse
 
-Si je capture oiseau,
+Si je capture oiseau ?
 
 Mon énergie y passe
 
-Et c'est si bon cadeau.
+Et c'est si bon cadeau."
 
  \
 Quand la température
