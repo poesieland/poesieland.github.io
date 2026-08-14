@@ -81,12 +81,14 @@ a#logo:hover {
 :root {
     --MENU-M-width: 20rem;
     --MENU-L-width: 25rem;
-    --INTERNAL-MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
+    --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
+    --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
 }
 
 #R-body-inner h1,
 .book-title,
-h1 {
+h1,
+#R-sidebar .nav-title {
   text-transform: none;
 }
 
