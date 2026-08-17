@@ -7,7 +7,7 @@ Cette Saison s'ouvre sur [l'émerveillement de la création](./le_peintre_de_la_
 
 Toutefois, le changement climatique épouvantable a rendu le titre de cette Saison prémonitoire à rebours : nous sommes à ce moment-là de l'année 2026 quelque part à mi-chemin de l'enfer...
 
-Sujets du moment : l'été, le temps, le climat, l'angoisse...
+Sujets qui tournent tant et plus : le climat, l'été, le temps, l'angoisse.
 
 A partir de juillet 2026"""
 +++

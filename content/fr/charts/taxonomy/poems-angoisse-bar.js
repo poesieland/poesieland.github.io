@@ -34,7 +34,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Emotions mouvantes (31) 2026', value: 2, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'Témoin jour après jour (32) 2026', value: 1, color: 'rgba(38, 9, 78, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 4, color: 'rgba(38, 9, 78, 0.5)' },
-    { label: 'A mi-chemin du paradis (34) 2026', value: 5, color: 'rgba(38, 9, 78, 0.5)' },
+    { label: 'A mi-chemin du paradis (34) 2026', value: 7, color: 'rgba(38, 9, 78, 0.5)' },
   ];
     addBarChart('poems-angoisseBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

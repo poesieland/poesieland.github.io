@@ -4,12 +4,14 @@ title = "Derniers ajouts"
 
 **Derniers ajouts :**
 
-[Marie-moi, écrit le 02.08.2026](../seasons/34_trente_quatrieme_saison/marie_moi)
+[En veilleuse, écrit le 06.08.2026](../seasons/34_trente_quatrieme_saison/en_veilleuse)
 
-[Bijou, écrit le 02.08.2026](../seasons/34_trente_quatrieme_saison/bijou)
+[S'il pouvait, écrit le 06.08.2026](../seasons/34_trente_quatrieme_saison/s_il_pouvait)
 
-[Voici l'août, écrit le 01.08.2026](../seasons/34_trente_quatrieme_saison/voici_l_aout)
+[Sur le départ, écrit le 05.08.2026](../seasons/34_trente_quatrieme_saison/sur_le_depart)
 
-[Tout meurt, écrit le 31.07.2026](../seasons/34_trente_quatrieme_saison/tout_meurt)
+[Oubli, écrit le 04.08.2026](../seasons/34_trente_quatrieme_saison/oubli)
 
-[Apostasie, écrit le 30.07.2026](../seasons/34_trente_quatrieme_saison/apostasie)
+[Absolu, écrit le 03.08.2026](../seasons/34_trente_quatrieme_saison/absolu)
+
+[Regret, écrit le 03.08.2026](../seasons/34_trente_quatrieme_saison/regret)
