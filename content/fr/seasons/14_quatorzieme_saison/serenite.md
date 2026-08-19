@@ -3,12 +3,13 @@ title = "Sérénité"
 id = "serenite_14"
 date = 2001-03-15
 weight = 9
-categories = ["Jardin et paysage", "Ciel"]
-tags = ["nature", "2001", "acrostiche", "octosyllabe"]
-info = "Les Alpes..."
+categories = [ "Jardin et paysage", "Ciel" ]
+tags = [ "nature", "2001", "acrostiche", "octosyllabe" ]
+info = ""
 acrostiche = "Sérénité"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Alpes" ]
 +++
 
 Silence murmuré, blanc mont
@@ -29,7 +30,5 @@ Tutélaire d'un autre atour,
 En ce silence qui scintille.
 
 {{% notice style="primary" %}}
-Les Alpes...
-
 Acrostiche : Sérénité.
 {{% /notice %}}

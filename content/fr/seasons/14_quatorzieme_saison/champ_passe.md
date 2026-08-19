@@ -1,5 +1,5 @@
 +++
-title = "Champ passé"
+title = "Chant passé"
 id = "champ_passe_14"
 date = 2000-08-06
 weight = 17
