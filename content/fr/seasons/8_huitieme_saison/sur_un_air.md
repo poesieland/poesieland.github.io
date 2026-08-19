@@ -4,10 +4,8 @@ id = "sur_un_air_8"
 date = 1998-07-20
 weight = 1
 categories = ["Musique et chant"]
-tags = ["attitudes", "1998", "acrostiche", "octosyllabe"]
-info = """
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
-
+tags = ["attitudes", "1998", "acrostiche", "octosyllabe", "sur un air"]
+info = ""
 acrostiche = "Sur un air"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -30,7 +28,5 @@ Imprimer sa plainte fugace !
 Ris au contraire comme on passe !
 
 {{% notice style="primary" %}}
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
-
 Acrostiche : Sur un air.
 {{% /notice %}}

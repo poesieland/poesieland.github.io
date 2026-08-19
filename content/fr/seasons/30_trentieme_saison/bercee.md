@@ -1,6 +1,6 @@
 ---
 weight: 23
-title: Bercée
+title: Douceur de Noël
 id: bercee_30
 date: 2025-12-07
 verseLength: 6

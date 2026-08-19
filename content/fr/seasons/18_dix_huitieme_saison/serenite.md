@@ -1,5 +1,5 @@
 +++
-title = "Sérénité"
+title = "Sérénité II"
 id = "serenite_18"
 date = 2023-10-13
 weight = 4

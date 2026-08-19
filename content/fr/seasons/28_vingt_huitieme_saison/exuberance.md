@@ -1,6 +1,6 @@
 ---
 weight: 18
-title: Exubérance
+title: Exubérance II
 id: exuberance_28
 date: 2025-08-11
 verseLength: 4

@@ -9,8 +9,9 @@ categories:
     - Temps
 tags:
     - "2026"
-    - philosophie
     - hexasyllabe
+    - philosophie
+    - les petits vieux
 locations: []
 info: ""
 description: ""
@@ -63,7 +64,3 @@ Ils s'assoient pour attendre
 Rêves satisfaisants,
 
 Petits vieux au coeur tendre.
-
-{{% notice style="primary" %}}
-Reprise inversée des deux premiers vers d'un [poème de la vingt-septième saison](../27_vingt_septieme_saison/les_petits_vieux).
-{{% /notice %}}

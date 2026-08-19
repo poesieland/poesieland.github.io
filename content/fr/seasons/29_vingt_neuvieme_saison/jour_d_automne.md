@@ -1,6 +1,6 @@
 ---
 weight: 30
-title: Jour d'automne
+title: Jour d'automne II
 id: jour_d_automne_29
 date: 2025-10-11
 verseLength: 6

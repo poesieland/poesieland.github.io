@@ -8,3 +8,5 @@ Quand le souffle se poursuit et que le sujet est toujours inspirant.
   *Depuis la sixième saison*
 - [Je te promets](../../thoughts/je_te_promets)  
   *Depuis la dix-neuvième saison*
+- [Les petits vieux](../../tags/les-petits-vieux/)  
+  *Depuis la vingt-septième saison*

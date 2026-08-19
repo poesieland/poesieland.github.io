@@ -1,6 +1,6 @@
 ---
 weight: 26
-title: Fin d'hiver
+title: Fin d'hiver II
 id: fin_d_hiver_31
 date: 2026-02-01
 verseLength: 6

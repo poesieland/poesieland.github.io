@@ -1,5 +1,5 @@
 +++
-title = "Renaissance"
+title = "Renaissance II"
 id = "renaissance_27"
 date = 2025-07-11
 weight = 40

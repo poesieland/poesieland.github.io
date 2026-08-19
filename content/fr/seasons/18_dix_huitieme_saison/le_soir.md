@@ -15,7 +15,7 @@ Quand je rentre en berline,
 
 Au souffle de l'amant
 
-Vers l'amante caline.
+Vers l'amante câline.
 
  \
 L'éclat qui rêve au ciel

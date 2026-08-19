@@ -10,9 +10,10 @@ tags = [
   "octosyllabe",
   "les mois",
   "mai",
-  "juin"
+  "juin",
+  "sur un air"
 ]
-info = '{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}'
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Transfigurés des juins aux mais"
@@ -51,6 +52,3 @@ Le sens du monde à travers l'âge,
 
 Et je ris, je rêve, partage !
 
-{{% notice style="primary" %}}
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
-{{% /notice %}}

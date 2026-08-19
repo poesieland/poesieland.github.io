@@ -1,6 +1,6 @@
 ---
 weight: 32
-title: Hiver lumineux
+title: Hiver lumineux II
 id: hiver_lumineux_30
 date: 2025-12-25
 verseLength: 6

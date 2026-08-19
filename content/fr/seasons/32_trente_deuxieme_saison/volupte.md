@@ -1,6 +1,6 @@
 ---
 weight: 31
-title: Volupté
+title: Volupté II
 id: volupte_32
 date: 2026-04-07
 verseLength: 3

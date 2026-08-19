@@ -1,5 +1,5 @@
 +++
-title = "Soir rose"
+title = "Soir rose II"
 id = "soir_rose_28"
 date = 2025-08-31
 weight = 44

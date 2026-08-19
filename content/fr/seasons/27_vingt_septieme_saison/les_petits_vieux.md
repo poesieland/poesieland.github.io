@@ -11,9 +11,10 @@ categories:
 tags:
     - "2025"
     - hexasyllabe
+    - la mort
     - philosophie
     - refrain
-    - la mort
+    - les petits vieux
 locations: []
 info: ""
 pictures: []

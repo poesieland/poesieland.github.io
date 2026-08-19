@@ -4,9 +4,8 @@ id = "l_air_bleu_22"
 date = 2024-09-15
 weight = 9
 categories = [ "Amitié" ]
-tags = [ "2024", "amour", "famille", "octosyllabe", "refrain" ]
-info = """
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
+tags = [ "2024", "amour", "famille", "octosyllabe", "refrain", "sur un air" ]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,6 +36,3 @@ Un air tout doux, et toi maman
 
 Etait heureuse de m'entendre.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
-{{% /notice %}}

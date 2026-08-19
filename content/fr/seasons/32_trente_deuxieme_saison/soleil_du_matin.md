@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: Soleil du matin
+title: Soleil du matin II
 id: soleil_du_matin_32
 date: 2026-03-04
 verseLength: 4

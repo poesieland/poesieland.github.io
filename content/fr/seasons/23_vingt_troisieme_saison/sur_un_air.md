@@ -1,13 +1,11 @@
 +++
-title = "Sur un air"
+title = "Sur un air II"
 id = "sur_un_air_23"
 date = 2024-12-28
 weight = 39
 categories = ["Musique et chant"]
-tags = ["attitudes", "2024", "octosyllabe"]
-info = """
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}"""
-
+tags = ["attitudes", "2024", "octosyllabe", "sur un air"]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -38,6 +36,3 @@ Las, nulle musique alentour,
 
 C'était un souvenir volage.
 
-{{% notice style="primary" %}}
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}
-{{% /notice %}}

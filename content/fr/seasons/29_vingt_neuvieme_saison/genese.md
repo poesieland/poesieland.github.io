@@ -1,5 +1,5 @@
 +++
-title = "Genèse"
+title = "Genèse II"
 id = "genese_29"
 date = 2025-09-10
 weight = 5

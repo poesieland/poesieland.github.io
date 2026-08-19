@@ -1,7 +1,7 @@
 +++
 title = "Sur un air bleu, sur un air blanc"
 description = "Depuis la huitième saison"
+[params]
+  menuPageRef = '/tags/sur-un-air'
 +++
-Tant de légèreté.
 
-{{% include "../../includes/sur_un_air_bleu" hidefirstheading %}}

@@ -1,5 +1,5 @@
 +++
-title = "Aube"
+title = "Aube reine"
 id = "aube_22"
 date = 2024-10-24
 weight = 33

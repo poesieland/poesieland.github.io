@@ -1,6 +1,6 @@
 ---
 weight: 46
-title: Promesse
+title: Promesses
 id: promesse_27
 date: 2025-07-18
 verseLength: 6

@@ -1,6 +1,6 @@
 ---
 weight: 29
-title: Absolu
+title: Absolu II
 id: absolu_34
 date: 2026-08-03
 verseLength: 6
