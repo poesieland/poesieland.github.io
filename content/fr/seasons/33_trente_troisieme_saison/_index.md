@@ -5,7 +5,7 @@ type = "seasonIndex"
 description = """
 Cette Saison se clôt sur une [supplique](./supplique) très symbolique.
 
-Les inspirations : été, temps, climat, faune, enfance et adolescence, ciel...
+Les inspirations : été, temps, climat, enfance et adolescence, ciel, printemps...
 
 D'avril à juillet 2026."""
 +++
