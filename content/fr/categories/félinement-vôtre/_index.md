@@ -1,14 +1,14 @@
 +++
-title = "Lovecat"
+title = "Félinement vôtre"
 +++
 
 ## Pourquoi ?
 
-"Lovecat" est un clin d'oeil au groupe humoristique de qualité [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr) 😸
-
 Tellement d'amour pour les chats de ma part. Depuis toujours en fait.
 
 Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
+
+Venez ensuite rejoindre le groupe humoristique de qualité [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr) 😸
 
 ## Miaou, on est photogéniques !
 
@@ -22,6 +22,6 @@ Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
 ## Sans oublier une facétie
 
-[Le mini-thème drôle *Gare au(x) chat(s)...*](../gare-au-chat).
+[Le mini-thème drôle *Gare au(x) chat(s)...*](../../tags/gare-au-chat).
 
-{{< chartjs id="poems-lovecatBar" width="90%" jsFile="../../charts/taxonomy/poems-lovecat-bar.js" />}}
+{{< chartjs id="poems-felinement_votreBar" width="90%" jsFile="../../charts/taxonomy/poems-felinement_votre-bar.js" />}}

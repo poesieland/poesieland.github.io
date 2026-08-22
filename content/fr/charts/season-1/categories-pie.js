@@ -5,8 +5,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amour platonique', value: 4, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 1, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 4, color: 'rgba(199, 44, 72, 1)' },
-    { label: 'Lune', value: 1, color: 'rgba(253, 241, 184, 1)' },
-    { label: 'Ville', value: 2, color: 'rgba(152, 151, 88, 1)' },
+    { label: 'Lune', value: 1, color: 'rgba(252, 215, 87, 1)' },
+    { label: 'Ville', value: 2, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Enfance et adolescence', value: 7, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 2, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 4, color: 'rgba(220, 147, 246, 1)' },
@@ -21,9 +21,9 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Jardin et paysage', value: 5, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Ciel', value: 1, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 6, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 2, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
+    { label: 'Félinement vôtre', value: 2, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Automne', value: 2, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season1Pie', [data], { plugins: { title: { display: true, text: 'Premiers élans (1) janvier 1994 à septembre 1996' } } });

@@ -1,27 +1,15 @@
----
-weight: 3
-title: Poils de chat !
-id: poils_de_chat_31
-date: 2026-01-06
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **sème** / Tant de poils d'un coup !"
----
++++
+title = "Poils de chat !"
+id = "poils_de_chat_31"
+date = 2026-01-06
+weight = 3
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
+description = "Gare au chat qui **sème** / Tant de poils d'un coup !"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui sème
 
 Tant de poils d'un coup !

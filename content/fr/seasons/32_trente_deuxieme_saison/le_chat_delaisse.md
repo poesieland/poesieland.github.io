@@ -1,28 +1,15 @@
----
-weight: 15
-title: Le chat délaissé
-id: le_chat_delaisse_32
-date: 2026-03-22
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-    - refrain
-locations: []
-info: ""
-description: "Gare au chat qui **clame** / L'heure de jouer "
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat délaissé"
+id = "le_chat_delaisse_32"
+date = 2026-03-22
+weight = 15
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
+description = "Gare au chat qui **clame** / L'heure de jouer "
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui clame
 
 L'heure de jouer,

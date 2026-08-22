@@ -3,7 +3,7 @@ title = "Trentième Saison : Tout fait sens"
 weight = 30
 type = "seasonIndex"
 description = """
-La saison en vedette : l'hiver. Aussi la faune, les chats occupent mon coeur. Et une petite place pour la neige.
+La saison en vedette : l'hiver. Aussi *félinement vôtre*, les chats occupent mon coeur. Et une petite place pour la neige.
 
 De novembre 2025 à janvier 2026."""
 +++

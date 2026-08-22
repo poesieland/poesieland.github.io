@@ -1,26 +1,14 @@
----
-weight: 33
-title: L'esprit du chat
-id: l_esprit_du_chat_27
-date: 2025-07-06
-verseLength: 6
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - hexasyllabe
-    - lovecat
-    - nature
-    - refrain
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'esprit du chat"
+id = "l_esprit_du_chat_27"
+date = 2025-07-06
+weight = 33
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "refrain", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Danse avec les étoiles,
 
 Petit chat, leur éclat

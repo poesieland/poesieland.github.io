@@ -2,8 +2,8 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Amitié', value: 1, color: 'rgba(254, 231, 240, 1)' },
-    { label: 'Aube', value: 1, color: 'rgba(255, 203, 96, 1)' },
-    { label: 'Lune', value: 1, color: 'rgba(253, 241, 184, 1)' },
+    { label: 'Aube', value: 1, color: 'rgba(255, 163, 0, 1)' },
+    { label: 'Lune', value: 1, color: 'rgba(252, 215, 87, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 1, color: 'rgba(234, 191, 250, 1)' },

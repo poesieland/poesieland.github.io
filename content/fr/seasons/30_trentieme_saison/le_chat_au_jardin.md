@@ -1,26 +1,14 @@
----
-weight: 39
-title: Le chat au jardin
-id: le_chat_au_jardin_30
-date: 2025-12-27
-verseLength: 6
-divider: ""
-categories:
-    - Faune
-    - Jardin et paysage
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - hexasyllabe
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat au jardin"
+id = "le_chat_au_jardin_30"
+date = 2025-12-27
+weight = 39
+categories = ["Jardin et paysage", "Félinement vôtre"]
+tags = ["nature", "attitudes", "2025", "hexasyllabe"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 L'esprit du chat flâneur
 
 Poursuit avec constance

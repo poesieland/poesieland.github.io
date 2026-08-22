@@ -1,28 +1,15 @@
----
-weight: 27
-title: Mignonnerie
-id: mignonnerie_30
-date: 2025-12-14
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - gare au chat
-    - lovecat
-    - nature
-    - refrain
-    - pentasyllabe
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **rêve** / D'un air innocent"
----
++++
+title = "Mignonnerie"
+id = "mignonnerie_30"
+date = 2025-12-14
+weight = 27
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2025", "pentasyllabe"]
+description = "Gare au chat qui **rêve** / D'un air innocent"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui rêve
 
 D'un air innocent,

@@ -1,26 +1,14 @@
----
-weight: 43
-title: Le chat sonore
-id: le_chat_sonore_27
-date: 2025-07-15
-verseLength: 4
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - tétrasyllabe
-    - refrain
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat sonore"
+id = "le_chat_sonore_27"
+date = 2025-07-15
+weight = 43
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "refrain", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le chat sonore
 
 En sa maison

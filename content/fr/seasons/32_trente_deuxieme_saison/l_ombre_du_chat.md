@@ -1,31 +1,24 @@
----
-weight: 19
-title: L'ombre du chat
-id: l_ombre_du_chat_32
-date: 2026-03-27
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - citation
-    - gare au chat
-    - lovecat
-    - nature
-    - refrain
-    - pentasyllabe
-locations: []
-info: ""
-description: |-
-    Gare au chat qui **pire / Qu'ombre dans la nuit**
-    Dans la nuit qui passe / Tous les chats sont gris.
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "L'ombre du chat"
+id = "l_ombre_du_chat_32"
+date = 2026-03-27
+weight = 19
+categories = [ "Félinement vôtre" ]
+tags = [
+  "attitudes",
+  "citation",
+  "gare au chat",
+  "refrain",
+  "2026",
+  "pentasyllabe"
+]
+description = """
+Gare au chat qui **pire / Qu'ombre dans la nuit**
+Dans la nuit qui passe / Tous les chats sont gris."""
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui pire
 
 Qu'ombre dans la nuit

@@ -1,25 +1,14 @@
----
-weight: 33
-title: Regards de chat
-id: regards_de_chat_26
-date: 2025-05-11
-verseLength: 4
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - tétrasyllabe
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Regards de chat"
+id = "regards_de_chat_26"
+date = 2025-05-11
+weight = 33
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Et si d'or mirent
 
 Regards de chat

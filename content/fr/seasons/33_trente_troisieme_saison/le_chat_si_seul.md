@@ -1,29 +1,15 @@
----
-weight: 7
-title: Le chat si seul
-id: le_chat_si_seul_33
-date: 2026-05-06
-verseLength: 12
-divider: ""
-categories:
-    - Angoisse
-    - Faune
-tags:
-    - "2026"
-    - alexandrin
-    - nature
-    - philosophie
-    - refrain
-    - lovecat
-locations: []
-info: Entendez-vous aussi "Stone, le monde est stone..." ?
-description: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat si seul"
+id = "le_chat_si_seul_33"
+date = 2026-05-06
+weight = 7
+categories = ["Angoisse", "Félinement vôtre"]
+tags = ["philosophie", "attitudes", "refrain", "2026", "alexandrin"]
+info = "Entendez-vous aussi \"Stone, le monde est stone...\" ?"
+verseLength = 12
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Un dernier chat s'ennuie, un dernier chat se traîne,
 
 *Seul, le chat si seul* miaule, un air sinistre, hagard,

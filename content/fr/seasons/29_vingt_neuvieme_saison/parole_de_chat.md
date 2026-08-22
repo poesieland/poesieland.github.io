@@ -1,26 +1,14 @@
----
-weight: 35
-title: Parole de chat
-id: parole_de_chat_29
-date: 2025-10-17
-verseLength: 4
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - tétrasyllabe
-    - refrain
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Parole de chat"
+id = "parole_de_chat_29"
+date = 2025-10-17
+weight = 35
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "refrain", "2025", "tétrasyllabe"]
+verseLength = 4
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Le chat déchire
 
 D'un miaulement,

@@ -1,27 +1,15 @@
----
-weight: 31
-title: Petit démon
-id: petit_demon_30
-date: 2025-12-22
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **dort** / Toute la journée"
----
++++
+title = "Petit démon"
+id = "petit_demon_30"
+date = 2025-12-22
+weight = 31
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare au chat qui **dort** / Toute la journée"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui dort
 
 Toute la journée,

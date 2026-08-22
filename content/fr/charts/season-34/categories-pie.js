@@ -14,8 +14,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 4, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 1, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 1, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Faune', value: 1, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 10, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Félinement vôtre', value: 1, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Eté', value: 10, color: 'rgba(0, 86, 27, 1)' },
   ];
   addPieChart('season34Pie', [data], { plugins: { title: { display: true, text: 'A mi-chemin du paradis (34) juillet à août 2026' } } });

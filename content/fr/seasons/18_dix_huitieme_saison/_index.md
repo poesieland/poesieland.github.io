@@ -5,7 +5,7 @@ type = "seasonIndex"
 description = """
 Retravailler en profondeur sur ce site web et relire tous mes écrits a réveillé l'envie.
 
-Toujours tellement à raconter, de façon plus analytique, en se laissant porter par le climat dérangé dont je suis témoin, les saisons du moment, automne, hiver, la gratitude de la création, et l'observation : faune, portraits, paysages.
+Toujours tellement à raconter, de façon plus analytique, en se laissant porter par l'hiver et l'automne, le climat dérangé dont je suis témoin, la gratitude de la création, et des portraits.
 
 D'octobre 2023 à janvier 2024"""
 +++

@@ -10,7 +10,7 @@ title = "Gare au chat"
 +++
 Un chat, ou plusieurs...
 
-Ce mini-thème humoristique est inclus dans [le thème des amoureux des chats](../lovecat).
+Ce mini-thème humoristique est un sous-ensemble de la catégorie [Félinement vôtre](../../categories/félinement-vôtre).
 
 Il évoque un grand nombre d'aspects relatifs aux comportements du chat, accentué par le pentasyllabe "chansonnier".
 

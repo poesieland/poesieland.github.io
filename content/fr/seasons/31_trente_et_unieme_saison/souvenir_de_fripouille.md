@@ -1,28 +1,14 @@
----
-weight: 49
-title: Souvenir de Fripouille
-id: souvenir_de_fripouille_31
-date: 2026-02-28
-verseLength: 8
-divider: ""
-categories:
-    - Faune
-    - Temps
-tags:
-    - "2026"
-    - lovecat
-    - nature
-    - philosophie
-    - octosyllabe
-locations: []
-info: ""
-description: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Souvenir de Fripouille"
+id = "souvenir_de_fripouille_31"
+date = 2026-02-28
+weight = 49
+categories = ["Temps", "Félinement vôtre"]
+tags = ["philosophie", "attitudes", "2026", "octosyllabe"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Je ne sais pas si tu me manques,
 
 Deux mois déjà que parmi nous

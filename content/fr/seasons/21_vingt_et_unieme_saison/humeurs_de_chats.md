@@ -1,26 +1,15 @@
----
-weight: 10
-title: Humeurs de chats
-id: humeurs_de_chats_21
-date: 2024-07-05
-verseLength: 8
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2024"
-    - lovecat
-    - nature
-    - octosyllabe
-locations: []
-info: ""
-pictures:
-    - Chat du quartier, juillet 2024
-type: default
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Humeurs de chats"
+id = "humeurs_de_chats_21"
+date = 2024-07-05
+weight = 10
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2024", "octosyllabe"]
+pictures = ["Chat du quartier, juillet 2024"]
+verseLength = 8
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 On ne verra plus sa binette,
 
 Un chat s'est caché pour mourir

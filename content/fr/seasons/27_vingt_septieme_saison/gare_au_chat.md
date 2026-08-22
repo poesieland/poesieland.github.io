@@ -6,11 +6,10 @@ date: 2025-07-20
 verseLength: 5
 divider: ""
 categories:
-    - Faune
+    - Félinement vôtre
 tags:
     - "2025"
-    - lovecat
-    - nature
+    - attitudes
     - pentasyllabe
     - refrain
     - gare au chat
@@ -57,4 +56,3 @@ Gare au chat flâneur,
 Il vole bonheur
 
 Tout à son image.
-

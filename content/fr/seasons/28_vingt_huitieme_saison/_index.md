@@ -3,7 +3,7 @@ title = "Vingt-huitième Saison : Les mots sur le chemin"
 weight = 28
 type = "seasonIndex"
 description = """
-L'automne en vedette... le temps. Une place pour l'apprentissage, le romantisme, la faune.
+L'automne en vedette... le temps. Une place pour l'apprentissage, le romantisme, l'été.
 
 De juillet à septembre 2025"""
 +++
