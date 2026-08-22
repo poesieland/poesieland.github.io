@@ -37,5 +37,5 @@ Dormir pour oublier l'équilibre cassé,
 Attendra le soleil au printemps qui s'écoule.
 
 {{% notice style="primary" %}}
-Entendez-vous aussi "Stone, le monde est stone..." ?.
+Entendez-vous aussi "Stone, le monde est stone..." ?
 {{% /notice %}}
