@@ -1,27 +1,15 @@
----
-weight: 46
-title: Tyran
-id: tyran_28
-date: 2025-09-01
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - pentasyllabe
-    - gare au chat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **miaule** / De plus en plus fort"
----
++++
+title = "Tyran"
+id = "tyran_28"
+date = 2025-09-01
+weight = 46
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare au chat qui **miaule** / De plus en plus fort"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui miaule
 
 De plus en plus fort,

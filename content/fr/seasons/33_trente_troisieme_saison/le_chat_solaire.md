@@ -1,28 +1,15 @@
----
-weight: 16
-title: Le chat solaire
-id: le_chat_solaire_33
-date: 2026-05-21
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-    - refrain
-locations: []
-info: ""
-description: Gare au chat **bonheur** / Dans l'été qui brille
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat solaire"
+id = "le_chat_solaire_33"
+date = 2026-05-21
+weight = 16
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
+description = "Gare au chat **bonheur** / Dans l'été qui brille"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat bonheur
 
 Dans l'été qui brille,

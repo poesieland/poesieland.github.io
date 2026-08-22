@@ -1,27 +1,15 @@
----
-weight: 36
-title: Le chat qui crie
-id: le_chat_qui_crie_32
-date: 2026-04-15
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-locations: []
-info: ""
-description: Gare au chat **miaulant** / D'un cri qui détonne
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le chat qui crie"
+id = "le_chat_qui_crie_32"
+date = 2026-04-15
+weight = 36
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
+description = "Gare au chat **miaulant** / D'un cri qui détonne"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat miaulant
 
 D'un cri qui détonne,

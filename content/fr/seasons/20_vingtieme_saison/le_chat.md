@@ -3,8 +3,8 @@ title = "Le chat"
 id = "le_chat_20"
 date = 2024-06-19
 weight = 42
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2024", "hexasyllabe"]
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2024", "hexasyllabe"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

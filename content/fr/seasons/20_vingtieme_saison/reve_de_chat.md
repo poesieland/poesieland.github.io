@@ -3,8 +3,8 @@ title = "Rêve de chat"
 id = "reve_de_chat_20"
 date = 2024-04-29
 weight = 4
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2024", "hexasyllabe"]
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2024", "hexasyllabe"]
 info = "Avec le vocabulaire de la [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon=\"fa-brands fa-facebook\" %}}](https://www.facebook.com/groups/lovecat.fr)"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

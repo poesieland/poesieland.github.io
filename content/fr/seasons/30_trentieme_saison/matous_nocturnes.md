@@ -1,27 +1,15 @@
----
-weight: 24
-title: Matous nocturnes
-id: matous_nocturnes_30
-date: 2025-12-07
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - gare au chat
-    - nature
-    - pentasyllabe
-    - lovecat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare aux chats qui **dorment**, / Rêveurs, les aimons !"
----
++++
+title = "Matous nocturnes"
+id = "matous_nocturnes_30"
+date = 2025-12-07
+weight = 24
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare aux chats qui **dorment**, / Rêveurs, les aimons !"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare aux chats qui dorment,
 
 Rêveurs, les aimons !

@@ -1,28 +1,15 @@
----
-weight: 49
-title: Gare au chat
-id: gare_au_chat_27
-date: 2025-07-20
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - pentasyllabe
-    - refrain
-    - gare au chat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **dort** / Car il te surveille"
----
++++
+title = "Gare au chat"
+id = "gare_au_chat_27"
+date = 2025-07-20
+weight = 49
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "refrain", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare au chat qui **dort** / Car il te surveille"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui dort
 
 Car il te surveille,
@@ -57,4 +44,3 @@ Gare au chat flâneur,
 Il vole bonheur
 
 Tout à son image.
-

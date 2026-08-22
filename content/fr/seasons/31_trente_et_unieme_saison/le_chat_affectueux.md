@@ -1,28 +1,15 @@
----
-weight: 14
-title: Le chat affectueux
-id: le_chat_affectueux_31
-date: 2026-01-21
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-    - refrain
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **vibre**, / Fait rire bébé"
----
++++
+title = "Le chat affectueux"
+id = "le_chat_affectueux_31"
+date = 2026-01-21
+weight = 14
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
+description = "Gare au chat qui **vibre**, / Fait rire bébé"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui vibre,
 
 Fait rire bébé,
@@ -48,5 +35,3 @@ Conquiert ton giron,
 Rêveur comme il reste,
 
 Délicat ronron.
-
-

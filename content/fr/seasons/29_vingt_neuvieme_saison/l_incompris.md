@@ -1,27 +1,15 @@
----
-weight: 37
-title: L'incompris
-id: l_incompris_29
-date: 2025-10-22
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - pentasyllabe
-    - gare au chat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **veut** / Quelque chose encore"
----
++++
+title = "L'incompris"
+id = "l_incompris_29"
+date = 2025-10-22
+weight = 37
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare au chat qui **veut** / Quelque chose encore"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui veut
 
 Quelque chose encore,

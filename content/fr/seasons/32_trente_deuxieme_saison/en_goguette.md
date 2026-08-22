@@ -1,28 +1,15 @@
----
-weight: 12
-title: En goguette
-id: en_goguette_32
-date: 2026-03-18
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - refrain
-    - pentasyllabe
-locations: []
-info: ""
-description: Gare au chat qui **sort**, / Qui rentre et qui crie
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "En goguette"
+id = "en_goguette_32"
+date = 2026-03-18
+weight = 12
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
+description = "Gare au chat qui **sort**, / Qui rentre et qui crie"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui sort,
 
 Qui rentre et qui crie,

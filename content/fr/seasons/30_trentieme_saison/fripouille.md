@@ -1,31 +1,16 @@
----
-weight: 41
-title: Fripouille
-id: fripouille_30
-date: 2025-12-28
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-    - Portraits
-tags:
-    - "2025"
-    - gare au chat
-    - la mort
-    - lovecat
-    - nature
-    - pentasyllabe
-    - philosophie
-locations: []
-info: ""
-pictures:
-    - Photo de mars 2018. Il nous a rejoints en juillet 2017. 🪦 26.12.2025.
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: Gare au chat qui **saute** / Tout droit dans ton coeur
----
++++
+title = "Fripouille"
+id = "fripouille_30"
+date = 2025-12-28
+weight = 41
+categories = ["Portraits", "Félinement vôtre"]
+tags = ["philosophie", "attitudes", "gare au chat", "la mort", "2025", "pentasyllabe"]
+description = "Gare au chat qui **saute** / Tout droit dans ton coeur"
+pictures = ["Photo de mars 2018. Il nous a rejoints en juillet 2017. 🪦 26.12.2025."]
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui saute
 
 Tout droit dans ton coeur,

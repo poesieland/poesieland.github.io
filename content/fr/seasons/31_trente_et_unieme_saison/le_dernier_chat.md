@@ -1,28 +1,15 @@
----
-weight: 1
-title: Le dernier chat
-id: le_dernier_chat_31
-date: 2026-01-03
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-    - refrain
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **gueule** / Tristement d'ennui"
----
++++
+title = "Le dernier chat"
+id = "le_dernier_chat_31"
+date = 2026-01-03
+weight = 1
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
+description = "Gare au chat qui **gueule** / Tristement d'ennui"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui gueule
 
 Tristement d'ennui,

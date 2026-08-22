@@ -1,27 +1,15 @@
----
-weight: 40
-title: Le vieux chat
-id: le_vieux_chat_31
-date: 2026-02-18
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - nature
-    - pentasyllabe
-locations: []
-info: ""
-description: Gare au chat **vieilli** / Qui sans crier gare
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Le vieux chat"
+id = "le_vieux_chat_31"
+date = 2026-02-18
+weight = 40
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
+description = "Gare au chat **vieilli** / Qui sans crier gare"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat vieilli
 
 Qui sans crier gare

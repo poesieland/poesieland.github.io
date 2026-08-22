@@ -1,7 +1,7 @@
 +++
 title = "Associations privilégiées"
 +++
-- [Faune](/categories/faune)
+- [Félinement vôtre](/categories/félinement-vôtre)
 - [Temps](/categories/temps)
 - [Musique et chant](/categories/musique-et-chant)
 - [Crépuscule](/categories/crépuscule)

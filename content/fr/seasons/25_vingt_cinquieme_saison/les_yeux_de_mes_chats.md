@@ -3,8 +3,8 @@ title = "Les yeux de mes chats"
 id = "les_yeux_de_mes_chats_25"
 date = 2025-03-15
 weight = 23
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2025", "octosyllabe"]
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2025", "octosyllabe"]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -3,8 +3,8 @@ title = "Les matous"
 id = "les_matous_25"
 date = 2025-03-12
 weight = 20
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2025", "pentasyllabe"]
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2025", "pentasyllabe"]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

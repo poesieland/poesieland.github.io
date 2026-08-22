@@ -3,8 +3,8 @@ title = "Tout sur le chat"
 id = "tout_sur_le_chat_24"
 date = 2025-01-02
 weight = 6
-categories = ["Faune"]
-tags = ["nature", "lovecat", "2025", "métrique variable", "octosyllabe", "tétrasyllabe"]
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "2025", "métrique variable", "octosyllabe", "tétrasyllabe"]
 info = """
 Métrique variable : 8, 4.
 

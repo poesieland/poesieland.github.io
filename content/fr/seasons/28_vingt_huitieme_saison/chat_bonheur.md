@@ -1,27 +1,15 @@
----
-weight: 48
-title: Chat bonheur
-id: chat_bonheur_28
-date: 2025-09-02
-verseLength: 6
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - refrain
-    - hexasyllabe
-locations: []
-info: ""
-pictures:
-    - Mon chat, 3 septembre 2022
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Chat bonheur"
+id = "chat_bonheur_28"
+date = 2025-09-02
+weight = 48
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "refrain", "2025", "hexasyllabe"]
+pictures = ["Mon chat, 3 septembre 2022"]
+verseLength = 6
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Ce n'est pas juste un chat,
 
 Mon bonheur centrifuge

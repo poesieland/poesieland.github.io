@@ -1,27 +1,15 @@
----
-weight: 26
-title: Chat roi
-id: chat_roi_28
-date: 2025-08-17
-verseLength: 5
-divider: ""
-categories:
-    - Faune
-tags:
-    - "2025"
-    - lovecat
-    - nature
-    - pentasyllabe
-    - gare au chat
-locations: []
-info: ""
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: "Gare au chat qui **miaule** / A tort à travers"
----
++++
+title = "Chat roi"
+id = "chat_roi_28"
+date = 2025-08-17
+weight = 26
+categories = ["Félinement vôtre"]
+tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
+description = "Gare au chat qui **miaule** / A tort à travers"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui miaule
 
 A tort à travers,

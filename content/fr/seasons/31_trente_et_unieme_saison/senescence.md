@@ -1,27 +1,15 @@
----
-weight: 44
-title: Sénescence
-id: senescence_31
-date: 2026-02-22
-verseLength: 5
-divider: ""
-categories:
-    - Temps
-tags:
-    - "2026"
-    - gare au chat
-    - lovecat
-    - philosophie
-    - pentasyllabe
-locations: []
-info: ""
-description: Gare au chat qui **perd** / Doucement **souplesse**
-pictures: []
-poemType: ""
-acrostiche: ""
-doubleAcrostiche: ""
-LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
----
++++
+title = "Sénescence"
+id = "senescence_31"
+date = 2026-02-22
+weight = 44
+categories = ["Temps", "Félinement vôtre"]
+tags = ["philosophie", "attitudes", "gare au chat", "2026", "pentasyllabe"]
+description = "Gare au chat qui **perd** / Doucement **souplesse**"
+verseLength = 5
+LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
++++
+
 Gare au chat qui perd
 
 Doucement souplesse

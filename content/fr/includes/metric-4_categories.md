@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Etre](/categories/etre)
 - [Automne](/categories/automne)
 - [Angoisse](/categories/angoisse)
-- [Faune](/categories/faune)
 - [Apprentissage](/categories/apprentissage)
 - [Flore](/categories/flore)
+- [Félinement vôtre](/categories/félinement-vôtre)
