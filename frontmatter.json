@@ -461,6 +461,17 @@
           }
         },
         {
+          "title": "Ensure tag \"attitudes\" is present",
+          "name": "ensureTagAttitudes5",
+          "type": "heading",
+          "when": {
+            "fieldRef": "categories",
+            "operator": "contains",
+            "value": "Félinement vôtre",
+            "caseSensitive": false
+          }
+        },
+        {
           "title": "Ensure tag \"saisons\" is present",
           "name": "ensureTagSaisons",
           "type": "heading",
