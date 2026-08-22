@@ -2,7 +2,7 @@
 title = "Eté"
 +++
 
-La saison qui m'inspire de mai à septembre.
+La saison qui m'inspire surtout de mai à septembre.
 
 {{< chartjs id="poemDay-eteRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-ete-radar.js" />}}
 
