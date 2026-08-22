@@ -5,7 +5,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amour platonique', value: 1, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 3, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 3, color: 'rgba(199, 44, 72, 1)' },
-    { label: 'Lune', value: 1, color: 'rgba(253, 241, 184, 1)' },
+    { label: 'Lune', value: 1, color: 'rgba(252, 215, 87, 1)' },
     { label: 'Enfance et adolescence', value: 1, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 5, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 6, color: 'rgba(220, 147, 246, 1)' },

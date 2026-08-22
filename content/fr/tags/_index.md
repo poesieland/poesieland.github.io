@@ -2,7 +2,7 @@
 title = "Mots-clés"
 +++
 
-A la base, les catégories étaient regroupées sous une méta catégorie, telle que j'avais définie la classification initiale sur deux niveaux. Cela donne 7 mots-clés parents d'à ce jour 35 catégories.
+A la base, les catégories étaient regroupées sous une méta catégorie, telle que j'avais définie la classification initiale sur deux niveaux. Cela donne 7 mots-clés parents d'à ce jour 36 catégories.
 
 Dès que la version moderne de ce site a été créée, de nouveaux usages se sont rapidement imposés pour les mots-clés :
 
@@ -20,7 +20,7 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
 
   - trop spécifique pour en faire une catégorie :
     - la [famille](./famille/)
-    - [lovecat](./lovecat/) et [gare au chat](./gare-au-chat)
+    - [gare au chat](./gare-au-chat)
     - [Noël](./noël/)
     - la [rentrée scolaire](./rentrée-scolaire/)
 
