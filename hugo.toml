@@ -173,7 +173,7 @@ minify = true
             url = '/more/credits'
             weight = 70
         [[Languages.en.menu.shortcuts]]
-            name = '<i class="fa-brands fa-facebook"></i> Facebook'
+            name = '<i class="fa-brands fa-facebook"></i> Follow me on Facebook'
             url = 'https://www.facebook.com/profile.php?id=61584635947640'
             weight = 75
         [[Languages.en.menu.shortcuts]]
@@ -214,7 +214,7 @@ minify = true
             url = '/more/credits'
             weight = 80
         [[Languages.fr.menu.shortcuts]]
-            name = '<i class="fa-brands fa-facebook"></i> Facebook'
+            name = '<i class="fa-brands fa-facebook"></i> Me suivre surFacebook'
             url = 'https://www.facebook.com/profile.php?id=61584635947640'
             weight = 85
         [[Languages.fr.menu.shortcuts]]

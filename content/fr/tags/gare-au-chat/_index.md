@@ -13,5 +13,3 @@ Un chat, ou plusieurs...
 Ce mini-thème humoristique est un sous-ensemble de la catégorie [Félinement vôtre](../../categories/félinement-vôtre).
 
 Il évoque un grand nombre d'aspects relatifs aux comportements du chat, accentué par le pentasyllabe "chansonnier".
-
-Tous les [autres 🐈‍⬛](/search?search-by=chat) qui se promènent dans ma poésie.
