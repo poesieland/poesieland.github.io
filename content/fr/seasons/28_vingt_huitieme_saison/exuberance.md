@@ -11,7 +11,7 @@ tags:
     - philosophie
     - tétrasyllabe
     - citation
-description: A coeur vaillant Rien d'impossible
+description: A coeur vaillant rien d'impossible
 ---
 *A coeur vaillant
 

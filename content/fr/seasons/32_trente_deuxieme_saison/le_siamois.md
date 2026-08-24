@@ -3,11 +3,12 @@ title = "Le siamois"
 id = "le_siamois_32"
 date = 2026-03-12
 weight = 4
-categories = ["Félinement vôtre"]
-tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat qui, **pote** / Vient dans mon jardin,"
+categories = [ "Félinement vôtre" ]
+tags = [ "attitudes", "gare au chat", "2026", "pentasyllabe" ]
+description = "Gare au chat qui, **pote** / Vient dans mon jardin"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+pictures = [ "Mars 2026" ]
 +++
 
 Gare au chat qui, pote
@@ -36,4 +37,4 @@ Printemps sera tendre,
 
 Peut-être fécond.
 
-{{< figure src="/images/le_siamois_32_0.jpg" title="" >}}
+{{< figure src="/images/le_siamois_32_0.jpg" title="Mars 2026" >}}

@@ -14,7 +14,7 @@ tags = [
 ]
 description = """
 Gare au chat qui **pire / Qu'ombre dans la nuit**
-Dans la nuit qui passe / Tous les chats sont gris."""
+la nuit (...) tous les chats sont gris."""
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

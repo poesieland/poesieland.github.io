@@ -4,6 +4,7 @@ title = "Attitudes"
 
 Ce mot-clé regroupe les catégories suivantes :
 
+- [Félinement vôtre](../../categories/félinement-vôtre/)
 - [Musique et chant](../../categories/musique-et-chant)
 - [Mouvement](../../categories/mouvement)
 - [Toucher](../../categories/toucher)

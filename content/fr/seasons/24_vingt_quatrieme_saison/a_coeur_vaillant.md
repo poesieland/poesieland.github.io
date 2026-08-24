@@ -7,7 +7,7 @@ categories = [ "Espoir" ]
 tags = [ "2025", "philosophie", "tétrasyllabe", "citation" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "A coeur vaillant / Rien d'impossible"
+description = "A coeur vaillant rien d'impossible"
 +++
 
 Parle à mon coeur

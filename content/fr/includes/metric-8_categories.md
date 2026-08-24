@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Création](/categories/création)
 - [Enfance et adolescence](/categories/enfance-et-adolescence)
 - [Flore](/categories/flore)
-- [Jardin et paysage](/categories/jardin-et-paysage)
 - [Angoisse](/categories/angoisse)
+- [Jardin et paysage](/categories/jardin-et-paysage)
 - [Passion](/categories/passion)
