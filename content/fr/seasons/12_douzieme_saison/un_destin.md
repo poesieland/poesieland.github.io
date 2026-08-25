@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "alexandrin",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"

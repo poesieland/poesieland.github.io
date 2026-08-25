@@ -12,7 +12,7 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
 - Et puis, ensuite, créer des mini-thèmes, d'après un ressenti...
 
   - transverse :
-    - [l'air ou la chanson](./l'air-ou-la-chanson/)
+    - [l'air ou la chanson](./lair-ou-la-chanson/)
     - [les mois](./les-mois/)
     - [la mort](./la-mort/)
     - [les mots](./les-mots/)

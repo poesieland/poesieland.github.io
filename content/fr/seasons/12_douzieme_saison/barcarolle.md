@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "alexandrin",
   "attitudes",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"

@@ -11,7 +11,7 @@ categories:
 tags:
     - "2026"
     - hexasyllabe
-    - il se pourrait qu'il pleuve
+    - il se pourrait quil pleuve
     - refrain
     - saisons
     - ombres et lumières

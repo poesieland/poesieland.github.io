@@ -8,7 +8,7 @@ tags = [
   "1997",
   "hexasyllabe",
   "ombres et lumières",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

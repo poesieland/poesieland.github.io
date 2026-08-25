@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "amour",
   "ennéasyllabe",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "Déchaîné"
 verseLength = 9

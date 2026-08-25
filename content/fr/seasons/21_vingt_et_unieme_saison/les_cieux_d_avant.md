@@ -9,7 +9,7 @@ tags = [
   "hexasyllabe",
   "nature",
   "philosophie",
-  "il se pourrait qu'il pleuve"
+  "il se pourrait quil pleuve"
 ]
 info = ""
 verseLength = 6

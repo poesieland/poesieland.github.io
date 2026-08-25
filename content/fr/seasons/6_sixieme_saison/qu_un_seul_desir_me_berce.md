@@ -7,7 +7,7 @@ categories = [ "Etre" ]
 tags = [
   "1998",
   "acrostiche",
-  "l'air ou la chanson",
+  "lair ou la chanson",
   "octosyllabe",
   "philosophie",
   "citation"

@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "alexandrin",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = '"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson, "Ave Maria no morro", dans la version des paroles chantées par Andrea Bocelli.'
 acrostiche = "Arcobaleno preghier'"

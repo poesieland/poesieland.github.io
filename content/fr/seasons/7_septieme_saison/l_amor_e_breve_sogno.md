@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "amour",
   "octosyllabe",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"

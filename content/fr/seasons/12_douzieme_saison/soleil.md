@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "alexandrin",
   "nature",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "O sole mio"
 verseLength = 12

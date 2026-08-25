@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "octosyllabe",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = '"Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.'
 acrostiche = "Ave Maria prega per me"

@@ -10,7 +10,7 @@ tags = [
   "alexandrin",
   "amour",
   "attitudes",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
