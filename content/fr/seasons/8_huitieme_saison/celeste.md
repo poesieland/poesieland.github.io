@@ -10,7 +10,7 @@ tags = [
   "attitudes",
   "octosyllabe",
   "ombres et lumières",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "Spente le stelle (titre d'une chanson)"
 verseLength = 8

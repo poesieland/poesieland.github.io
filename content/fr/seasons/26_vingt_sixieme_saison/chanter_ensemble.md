@@ -13,7 +13,7 @@ tags:
     - amour
     - attitudes
     - tétrasyllabe
-    - l'air ou la chanson
+    - lair ou la chanson
 locations: []
 info: En pensant à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson))
 pictures: []

@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "hendécasyllabe",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = "D'après une chanson presque homonyme. En portugais : \"Ave Maria no morro\" signifie \"Ave Maria sur la colline\" tandis qu'en italien \"Ave Maria non morrò\" signifie \"Ave Maria je ne mourrai pas\"."
 acrostiche = "Ave Maria non morro"

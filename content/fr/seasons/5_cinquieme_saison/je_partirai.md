@@ -9,7 +9,7 @@ tags = [
   "amour",
   "octosyllabe",
   "refrain",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

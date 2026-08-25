@@ -9,7 +9,7 @@ tags = [
   "doubleAcrostiche",
   "octosyllabe",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = 'Inspiré par la comédie musicale "Notre-Dame de Paris".'
 doubleAcrostiche = "J'écrirai ce | mot, l'ultime"

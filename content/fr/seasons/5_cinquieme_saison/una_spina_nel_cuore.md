@@ -10,7 +10,7 @@ tags = [
   "amour",
   "heptasyllabe",
   "nature",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "Una spina nel cuore"
 verseLength = 7

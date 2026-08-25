@@ -8,7 +8,7 @@ tags = [
   "1998",
   "acrostiche",
   "attitudes",
-  "l'air ou la chanson",
+  "lair ou la chanson",
   "octosyllabe",
   "philosophie",
   "refrain",

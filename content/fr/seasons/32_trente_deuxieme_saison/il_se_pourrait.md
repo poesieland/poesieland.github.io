@@ -12,7 +12,7 @@ tags:
     - "2026"
     - avril
     - hexasyllabe
-    - il se pourrait qu'il pleuve
+    - il se pourrait quil pleuve
     - nature
     - refrain
     - saisons

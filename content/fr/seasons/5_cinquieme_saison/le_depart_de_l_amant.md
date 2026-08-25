@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "amour",
   "octosyllabe",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 info = """
 Premier poème de mon recueil En six lettres : t'aimer.

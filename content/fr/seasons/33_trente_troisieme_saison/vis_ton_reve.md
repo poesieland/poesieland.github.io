@@ -10,7 +10,7 @@ categories:
 tags:
     - "2026"
     - hexasyllabe
-    - il se pourrait qu'il pleuve
+    - il se pourrait quil pleuve
     - philosophie
     - citation
 locations: []

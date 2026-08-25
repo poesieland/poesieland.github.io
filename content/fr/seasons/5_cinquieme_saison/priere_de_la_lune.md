@@ -10,7 +10,7 @@ tags = [
   "alexandrin",
   "ombres et lumières",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "Hijo de la luna"
 verseLength = 12

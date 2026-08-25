@@ -9,7 +9,7 @@ tags = [
   "acrostiche",
   "hexasyllabe",
   "philosophie",
-  "l'air ou la chanson"
+  "lair ou la chanson"
 ]
 acrostiche = "Va in pace"
 verseLength = 6
