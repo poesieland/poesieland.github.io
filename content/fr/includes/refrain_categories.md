@@ -9,5 +9,5 @@ title = "Associations privilégiées"
 - [Félinement vôtre](/categories/félinement-vôtre)
 - [Espoir](/categories/espoir)
 - [Romantisme](/categories/romantisme)
-- [Automne](/categories/automne)
 - [Climat](/categories/climat)
+- [Automne](/categories/automne)
