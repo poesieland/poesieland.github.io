@@ -4,8 +4,14 @@ id = "l_automne_est_venu_5"
 date = 1997-10-26
 weight = 45
 categories = [ "Automne" ]
-tags = [ "1997", "octosyllabe", "saisons", "refrain" ]
-info = '{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}'
+tags = [
+  "1997",
+  "octosyllabe",
+  "refrain",
+  "saisons",
+  "venu comme un songe"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -35,7 +41,3 @@ Chanter les mots de la saison,
 La brume enserre l'horizon :
 
 Ravir le soir et sa lumière !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-{{% /notice %}}

@@ -12,10 +12,11 @@ tags:
     - "2025"
     - octosyllabe
     - philosophie
-    - saisons
     - refrain
+    - saisons
+    - venu comme un songe
 locations: []
-info: '{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -38,7 +39,3 @@ Incroyable de variété,
 C'est pour l'artiste renaissance
 
 Qui ne regrette pas l'été.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-{{% /notice %}}

@@ -4,8 +4,15 @@ id = "destruction_21"
 date = 2024-07-04
 weight = 8
 categories = [ "Automne", "Eté", "Climat", "Angoisse" ]
-tags = [ "saisons", "nature", "philosophie", "2024", "octosyllabe" ]
-info = '{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}'
+tags = [
+  "2024",
+  "nature",
+  "octosyllabe",
+  "philosophie",
+  "saisons",
+  "venu comme un songe"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -35,7 +42,3 @@ Enfonce un peu plus son poignard,
 L'été se meurt comme un bagnard
 
 Tout lessivé, vert, pathétique.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/l_automne_est_venu" hidefirstheading %}}
-{{% /notice %}}
