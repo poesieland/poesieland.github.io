@@ -34,7 +34,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Emotions mouvantes (31) 2026', value: 1, color: 'rgb(50, 122, 183, 0.5)' },
     { label: 'Témoin jour après jour (32) 2026', value: 1, color: 'rgb(50, 122, 183, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 8, color: 'rgb(50, 122, 183, 0.5)' },
-    { label: 'A mi-chemin du paradis (34) 2026', value: 13, color: 'rgb(50, 122, 183, 0.5)' },
+    { label: 'A mi-chemin du paradis (34) 2026', value: 14, color: 'rgb(50, 122, 183, 0.5)' },
   ];
     addBarChart('poems-climatBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

@@ -17,11 +17,11 @@ Dès que la version moderne de ce site a été créée, de nouveaux usages se so
     - [la mort](./la-mort/)
     - [les mots](./les-mots/)
     - le [refrain](./refrain/)
+    - des [reprises multiples](../reprises/multiples/)... plutôt des phrases-clés dans ce cas
+    - sans oublier les [reprises syntaxiques](../reprises/syntaxiques/).
 
   - trop spécifique pour en faire une catégorie :
     - la [famille](./famille/)
     - [gare au chat](./gare-au-chat)
     - [Noël](./noël/)
     - la [rentrée scolaire](./rentrée-scolaire/)
-
-  Certaines [reprises multiples](../reprises/multiples/) ont également évolué en mots-clés, plutôt des phrases-clés dans ce cas.
