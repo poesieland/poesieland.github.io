@@ -15,3 +15,5 @@ title = "Derniers ajouts"
 [L'éclipse II, écrit le 12.08.2026](../seasons/34_trente_quatrieme_saison/l_eclipse2)
 
 [Tourbillons, écrit le 11.08.2026](../seasons/34_trente_quatrieme_saison/tourbillons)
+
+*N'oubliez pas de me [suivre sur Facebook](https://www.facebook.com/profile.php?id=61584635947640).*

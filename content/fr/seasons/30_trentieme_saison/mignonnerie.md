@@ -5,7 +5,7 @@ date = 2025-12-14
 weight = 27
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2025", "pentasyllabe"]
-description = "Gare au chat qui **rêve** / D'un air innocent"
+description = "Gare au 🐈 qui **rêve** / D'un air innocent"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

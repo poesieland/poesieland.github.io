@@ -5,7 +5,7 @@ date = 2026-02-22
 weight = 44
 categories = ["Temps", "Félinement vôtre"]
 tags = ["philosophie", "attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat qui **perd** / Doucement **souplesse**"
+description = "Gare au 🐈 qui **perd** / Doucement souplesse"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

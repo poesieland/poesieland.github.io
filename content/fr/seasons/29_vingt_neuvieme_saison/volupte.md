@@ -5,7 +5,7 @@ date = 2025-09-15
 weight = 11
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
-description = "Gare aux chats qui **dorment**, / Ces gros patachons"
+description = "Gare aux 🐈🐈 qui **dorment**, / Ces gros patachons"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

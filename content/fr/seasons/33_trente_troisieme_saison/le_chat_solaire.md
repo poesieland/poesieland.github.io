@@ -5,7 +5,7 @@ date = 2026-05-21
 weight = 16
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
-description = "Gare au chat **bonheur** / Dans l'été qui brille"
+description = "Gare au 🐈 **bonheur** / Dans l'été qui brille"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

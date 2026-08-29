@@ -8,4 +8,6 @@ Les catégories où on trouve le plus souvent des refrains :
 
 {{% include "../../includes/refrain_categories.md" hidefirstheading %}}
 
+{{< chartjs id="poemDay-refrainRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-refrain-radar.js" />}}
+
 {{< chartjs id="poems-refrainBar" width="90%" jsFile="../../charts/taxonomy/poems-refrain-bar.js" />}}

@@ -5,7 +5,7 @@ date = 2025-12-07
 weight = 24
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
-description = "Gare aux chats qui **dorment**, / Rêveurs, les aimons !"
+description = "Gare aux 🐈🐈 qui **dorment**, / Rêveurs, les aimons !"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

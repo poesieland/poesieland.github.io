@@ -5,7 +5,7 @@ date = 2026-04-15
 weight = 36
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat **miaulant** / D'un cri qui détonne"
+description = "Gare au 🐈 **miaulant** / D'un cri qui détonne"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

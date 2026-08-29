@@ -13,8 +13,8 @@ tags = [
   "pentasyllabe"
 ]
 description = """
-Gare au chat qui **pire / Qu'ombre dans la nuit**
-la nuit (...) tous les chats sont gris."""
+Gare au 🐈 qui **pire** / Qu'ombre dans la nuit [...] tous les chats sont gris.
+"""
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

@@ -5,7 +5,7 @@ date = 2026-03-22
 weight = 15
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
-description = "Gare au chat qui **clame** / L'heure de jouer "
+description = "Gare au 🐈 qui **clame** / L'heure de jouer"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

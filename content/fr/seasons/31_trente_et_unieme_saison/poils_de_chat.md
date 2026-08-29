@@ -5,7 +5,7 @@ date = 2026-01-06
 weight = 3
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat qui **sème** / Tant de poils d'un coup !"
+description = "Gare au 🐈 qui **sème** / Tant de poils d'un coup !"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

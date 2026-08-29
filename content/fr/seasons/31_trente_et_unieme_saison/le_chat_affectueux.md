@@ -5,7 +5,7 @@ date = 2026-01-21
 weight = 14
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
-description = "Gare au chat qui **vibre**, / Fait rire bébé"
+description = "Gare au 🐈 qui **vibre**, / Fait rire bébé"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

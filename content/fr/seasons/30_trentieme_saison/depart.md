@@ -5,7 +5,7 @@ date = 2025-12-26
 weight = 35
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "la mort", "2025", "pentasyllabe"]
-description = "Gare au chat qui **clame** / Qu'il est éternel"
+description = "Gare au 🐈 qui **clame** / Qu'il est éternel"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

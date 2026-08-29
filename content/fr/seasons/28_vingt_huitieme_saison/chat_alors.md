@@ -5,7 +5,7 @@ date = 2025-08-11
 weight = 17
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
-description = "Gare au chat qui **dort** / Quand tu le caresses"
+description = "Gare au 🐈 qui **dort** / Quand tu le caresses"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

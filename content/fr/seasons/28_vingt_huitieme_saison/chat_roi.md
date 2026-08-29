@@ -5,7 +5,7 @@ date = 2025-08-17
 weight = 26
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
-description = "Gare au chat qui **miaule** / A tort à travers"
+description = "Gare au 🐈 qui **miaule** / A tort à travers"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

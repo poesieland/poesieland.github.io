@@ -5,7 +5,7 @@ date = 2026-01-26
 weight = 20
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat qui **mange** / Plus que de raison"
+description = "Gare au 🐈 qui **mange** / Plus que de raison"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

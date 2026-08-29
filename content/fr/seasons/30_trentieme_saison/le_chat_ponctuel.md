@@ -5,7 +5,7 @@ date = 2025-12-27
 weight = 40
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2025", "pentasyllabe"]
-description = "Gare au chat **soudain** / Comme une sirène"
+description = "Gare au 🐈 **soudain** / Comme une sirène"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

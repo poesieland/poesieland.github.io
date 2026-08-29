@@ -14,7 +14,7 @@ tags:
     - gare au chat
 locations: []
 info: ""
-description: Gare au chat qui **croit** / Que son bol est vide
+description: Gare au 🐈 qui **croit** / Que son bol est vide
 wordcloud: ""
 pictures: []
 poemType: ""

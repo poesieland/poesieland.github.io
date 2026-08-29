@@ -5,7 +5,7 @@ date = 2026-08-02
 weight = 26
 categories = ["Portraits", "Félinement vôtre"]
 tags = ["philosophie", "attitudes", "gare au chat", "2026", "pentasyllabe"]
-description = "Gare au chat qui **passe** / Chaque jour ici"
+description = "Gare au 🐈 qui **passe** / Chaque jour ici"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

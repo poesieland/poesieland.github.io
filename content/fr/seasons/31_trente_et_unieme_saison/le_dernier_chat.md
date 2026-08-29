@@ -5,7 +5,7 @@ date = 2026-01-03
 weight = 1
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "refrain", "2026", "pentasyllabe"]
-description = "Gare au chat qui **gueule** / Tristement d'ennui"
+description = "Gare au 🐈 qui **gueule** / Tristement d'ennui"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

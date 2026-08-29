@@ -5,7 +5,7 @@ date = 2025-10-22
 weight = 37
 categories = ["Félinement vôtre"]
 tags = ["attitudes", "gare au chat", "2025", "pentasyllabe"]
-description = "Gare au chat qui **veut** / Quelque chose encore"
+description = "Gare au 🐈 qui **veut** / Quelque chose encore"
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
