@@ -1,5 +1,11 @@
 +++
 title = "L'air ou la chanson"
+[[cascade]]
+  [cascade.params]
+    [cascade.params.children]
+      breadcrumb = true
+      description = true
+      type = "tree"
 +++
 
 Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par leurs oeuvres.
@@ -19,7 +25,7 @@ Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par
 - Eros Ramazzotti
 - Maurice Ravel
 - [Emma Shapplin](https://musique.rfi.fr/artiste/chanson/emma-shapplin.html)
-- Vivaldi[^3]
+- Vivaldi
 
 *Liste en cours de construction.*
 
@@ -27,4 +33,4 @@ Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par
 
 [^2]: A Thionville il y avait un centre culturel portant son nom, où j'allais voir, petite, de nombreux vernissages avec mes parents. De nos jours, quand j'écris sur l'amour, il m'arrive de sentir sa présence à mon côté pour me glisser qu'il est légitime de crier son amour au monde entier. J'adore.
 
-[^3]: [les Quatre Saisons](../../seasons/3_troisieme_saison/melodie).
+{{< chartjs id="poems-lair_ou_la_chansonBar" width="90%" jsFile="../../charts/taxonomy/poems-lair-ou-la-chanson-bar.js" />}}

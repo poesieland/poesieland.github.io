@@ -15,6 +15,7 @@ acrostiche = "Déchaîné"
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = 'Inspiré par la comédie musicale "Notre-Dame de Paris".'
+description = "D'après la comédie musicale \"Notre-Dame de Paris\""
 +++
 
 Déchaîné, mon cœur s'éprend du tien

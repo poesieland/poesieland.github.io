@@ -22,6 +22,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: D'après la chanson "Encore un soir" (Céline Dion)
 ---
 Encore un soir,
 

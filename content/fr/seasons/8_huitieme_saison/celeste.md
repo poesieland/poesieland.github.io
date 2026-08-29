@@ -15,6 +15,7 @@ tags = [
 acrostiche = "Spente le stelle (titre d'une chanson)"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"Spente le stelle\" (Emma Shapplin)"
 +++
 
 Seul où l'horloge s'abandonne

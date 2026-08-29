@@ -8,6 +8,7 @@ tags = [ "1998", "amour", "octosyllabe", "lair ou la chanson" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "[^1]: Référence à l'opéra Carmen : *la fleur que tu m'avais jetée*..."
+description = "D'après l'opéra \"Carmen\""
 +++
 
 Les fleurs que je t'avais jetées[^1]

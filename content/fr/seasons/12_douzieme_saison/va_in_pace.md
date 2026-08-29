@@ -15,6 +15,7 @@ acrostiche = "Va in pace"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "Inspiré par [la chanson \"Sogno\" d'Andrea Bocelli](https://www.youtube.com/watch?v=4KCxfu9q8_g)"
+description = "D'après la chanson \"Sogno\" (Andrea Bocelli)"
 +++
 
 Va, quand vers le silence

@@ -16,6 +16,7 @@ info = "D'après l'extrait d'air d'opéra homonyme"
 acrostiche = "L'amor ti vieta"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après un passage de l'opéra \"Fedora\""
 +++
 
 Lentement quand l'amour se pare de merveille,

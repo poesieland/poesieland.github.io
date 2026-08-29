@@ -16,6 +16,7 @@ acrostiche = "Una spina nel cuore"
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "Cette expression italienne si imagée, *una spina nel cuore*, que j'ai découverte dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli."
+description = "D'après la chanson \"Romanza\" (Andrea Bocelli)"
 +++
 
 Une épine dans le cœur

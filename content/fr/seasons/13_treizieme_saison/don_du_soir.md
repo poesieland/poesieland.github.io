@@ -15,6 +15,7 @@ info = '"Arc-en-ciel prière" en italien. Inspiré en partie par une chanson, "A
 acrostiche = "Arcobaleno preghier'"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après une version italienne de la chanson \"Ave Maria no morro\" (Andrea Bocelli)"
 +++
 
 Au ciel tout incendié le couchant qui s'emplit

@@ -15,6 +15,7 @@ info = "D'après une chanson presque homonyme. En portugais : \"Ave Maria no mor
 acrostiche = "Ave Maria non morro"
 verseLength = 11
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson portugaise \"Ave Maria no morro\""
 +++
 
 Ave Maria sur la tombe où les roses

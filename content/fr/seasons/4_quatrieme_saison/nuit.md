@@ -12,6 +12,7 @@ tags = [
 ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la musique de Maurice Ravel"
 +++
 
 Quand la nuit s'éternise

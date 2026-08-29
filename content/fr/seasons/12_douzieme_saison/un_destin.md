@@ -15,6 +15,7 @@ info = "En hommage au chanteur Balavoine."
 acrostiche = "A Balavoine"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après des chansons de Daniel Balavoine"
 +++
 
 Au-delà du message ou de la poésie,

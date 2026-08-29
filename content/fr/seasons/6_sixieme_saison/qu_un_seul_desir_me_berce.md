@@ -16,7 +16,7 @@ acrostiche = "Qu'un seul désir me berce"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "\"Qu'un seul désir, un seul espoir...\" (opéra Carmen)."
-description = "\"Qu'un seul désir, un seul espoir...\" (opéra Carmen)."
+description = "D'après l'opéra \"Carmen\""
 +++
 
 Qu'un seul désir me berce encor,

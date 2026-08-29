@@ -18,7 +18,7 @@ info = '"Si la vie suffisait" en italien. Inspiré par plusieurs chansons.'
 acrostiche = "Se bastasse la vita"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "S'il suffisait d'aimer"
+description = "D'après la chanson \"S'il suffisait d'aimer\" (Céline Dion)"
 +++
 
 S'il suffisait d'une chanson,

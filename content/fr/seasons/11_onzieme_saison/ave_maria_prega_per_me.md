@@ -15,6 +15,7 @@ info = '"Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.'
 acrostiche = "Ave Maria prega per me"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson italienne \"Ave Maria prega per me\" (Luciano Pavarotti)"
 +++
 
 Agenouillée une âme prie

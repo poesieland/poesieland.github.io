@@ -15,6 +15,7 @@ info = "Inspiré par l'air homonyme d'Offenbach."
 acrostiche = "Barcarolle"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après l'air homonyme d'Offenbach"
 +++
 
 Bercée en la gondole, une perche, une rame

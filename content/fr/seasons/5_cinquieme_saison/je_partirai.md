@@ -14,6 +14,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "Une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"
+description = "D'après la chanson \"Con te partirò\" (Andrea Bocelli)"
 +++
 
 Je partirai dans une danse

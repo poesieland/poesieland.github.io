@@ -7,6 +7,7 @@ categories = [ "Musique et chant" ]
 tags = [ "1997", "attitudes", "pentasyllabe", "lair ou la chanson" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la musique des Quatre Saisons (Antonio Vivaldi)"
 +++
 
 L'âme s'illumine :

@@ -16,6 +16,7 @@ doubleAcrostiche = "J'écrirai ce | mot, l'ultime"
 verseLength = 8
 locations = [ "Paris" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la comédie musicale \"Notre-Dame de Paris\""
 +++
 
 Je laisserai les mots s'écrire,

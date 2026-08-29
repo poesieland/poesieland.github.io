@@ -4,10 +4,17 @@ id = "dissonance_25"
 date = 2025-03-28
 weight = 39
 categories = [ "Angoisse", "Temps" ]
-tags = [ "2025", "philosophie", "tétrasyllabe", "lair ou la chanson", "la mort" ]
+tags = [
+  "2025",
+  "philosophie",
+  "tétrasyllabe",
+  "lair ou la chanson",
+  "la mort"
+]
 info = 'En pensant à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson))'
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"Encore un soir\" (Céline Dion)"
 +++
 
 Encore un jour,

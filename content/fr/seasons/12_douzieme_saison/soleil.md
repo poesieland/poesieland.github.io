@@ -14,6 +14,7 @@ tags = [
 acrostiche = "O sole mio"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson italienne \"O sole mio\""
 +++
 
 Offre ce que la vie espère sans limite

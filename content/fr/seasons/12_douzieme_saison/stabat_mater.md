@@ -15,6 +15,7 @@ info = '"Vraie foi" en italien.'
 acrostiche = "Vera fede"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après l'oeuvre musicale italienne religieuse baroque \"Stabat Mater\" (Pergolèse)"
 +++
 
 Vraie, en éclats transpercés par la grâce,

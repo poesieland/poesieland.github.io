@@ -8,6 +8,7 @@ tags = [ "1996", "alexandrin", "philosophie", "lair ou la chanson" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "[D'après cette chanson](https://fr.wikipedia.org/wiki/Lili_Marleen)"
+description = "D'après la chanson \"Lili Marleen (Lily Marlene)\""
 +++
 
 Es-tu blonde, es-tu brune ? Oui mais ton nom Marlène,

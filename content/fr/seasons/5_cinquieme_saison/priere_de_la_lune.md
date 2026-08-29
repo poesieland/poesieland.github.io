@@ -16,6 +16,7 @@ acrostiche = "Hijo de la luna"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 info = "Fascination pour cette [superbe chanson interprétée par Mecano](https://www.youtube.com/watch?v=OwGG5fX7bxY)."
+description = "D'après la chanson \"Hijo de la luna\" (Mecano)"
 +++
 
 Humble sur l'océan miroir de sa prière

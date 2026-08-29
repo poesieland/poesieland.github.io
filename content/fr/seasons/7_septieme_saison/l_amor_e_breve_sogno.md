@@ -15,6 +15,7 @@ info = "D'après la chanson d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"Lucifero, quel giorno\" (Emma Shapplin)"
 +++
 
 L'amour est aussi bref qu'un songe,
