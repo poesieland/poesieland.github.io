@@ -12,6 +12,8 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 {{% notice title="Derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "./includes/last_poems.md" true %}}
+
+*N'oubliez pas de me [suivre sur Facebook](https://www.facebook.com/profile.php?id=61584635947640).*
 {{% /notice %}}
 
 ## Humeur du moment

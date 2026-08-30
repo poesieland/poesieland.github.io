@@ -15,7 +15,7 @@ tags = [
 ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = "Ces souvenirs d'enfant, septembre, un univers"
+description = "Ces souvenirs d'enfant, septembre, un univers (...) En attendant décembre et puis un peu de neige"
 wordcloud = """
 Ces souvenirs d'enfant, septembre, un univers
 En attendant décembre et puis un peu de neige"""

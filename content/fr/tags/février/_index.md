@@ -7,4 +7,4 @@ title = "Février"
       description = true
 +++
 
-{{< figure src="../../other-perspectives/les-mois/fevrier/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/février/featured.png" >}}

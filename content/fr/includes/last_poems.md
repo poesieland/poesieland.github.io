@@ -1,19 +1,13 @@
 +++
-title = "Derniers ajouts"
+title = "Derniers poèmes ajoutés"
 +++
 
-**Derniers ajouts :**
+[Suggestion, écrit le 16.08.2026](../seasons/34_trente_quatrieme_saison/suggestion)
 
-[La maison de mon enfance, écrit le 15.08.2026](../seasons/34_trente_quatrieme_saison/la_maison_de_mon_enfance)
+[Le langage des cloches, écrit le 16.08.2026](../seasons/34_trente_quatrieme_saison/le_langage_des_cloches)
 
-[Les petits vieux témoins, écrit le 14.08.2026](../seasons/34_trente_quatrieme_saison/les_petits_vieux_temoins)
+[Contemplations, écrit le 16.08.2026](../seasons/34_trente_quatrieme_saison/contemplations)
 
-[Désolation III, écrit le 14.08.2026](../seasons/34_trente_quatrieme_saison/desolation3)
+[Chant de la résilience, écrit le 15.08.2026](../seasons/34_trente_quatrieme_saison/chant_de_la_resilience)
 
-[Ca n'en finit pas, écrit le 13.08.2026](../seasons/34_trente_quatrieme_saison/ca_n_en_finit_pas)
-
-[L'éclipse II, écrit le 12.08.2026](../seasons/34_trente_quatrieme_saison/l_eclipse2)
-
-[Tourbillons, écrit le 11.08.2026](../seasons/34_trente_quatrieme_saison/tourbillons)
-
-*N'oubliez pas de me [suivre sur Facebook](https://www.facebook.com/profile.php?id=61584635947640).*
+[Danse des papillons, écrit le 15.08.2026](../seasons/34_trente_quatrieme_saison/danse_des_papillons)

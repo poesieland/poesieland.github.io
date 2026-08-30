@@ -19,7 +19,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Plus loin (16) 2002-04', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Destination bonheur (19) 2024', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Destination bonheur (19) 2024', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
@@ -27,14 +27,14 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Les mots respirent (24) 2024-25', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Coeur et âme (25) 2025', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'D\'un rêve à l\'autre (27) 2025', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Les mots sur le chemin (28) 2025', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'D\'un rêve à l\'autre (27) 2025', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Les mots sur le chemin (28) 2025', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Kaléidoscopes (29) 2025', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Tout fait sens (30) 2025-26', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Emotions mouvantes (31) 2026', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Témoin jour après jour (32) 2026', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'A mi-chemin du paradis (34) 2026', value: 0, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'A mi-chemin du paradis (34) 2026', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-lair_ou_la_chansonBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

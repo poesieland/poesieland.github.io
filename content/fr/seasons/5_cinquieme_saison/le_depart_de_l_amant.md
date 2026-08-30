@@ -12,10 +12,8 @@ tags = [
   "lair ou la chanson"
 ]
 info = """
-Premier poème de mon recueil En six lettres : t'aimer.\r\r\r
-\r\r\r
-\r\r\r
-\r\r\r
+Premier poème de mon recueil En six lettres : t'aimer.
+
 Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli, ici spécifiquement sa célèbre chanson [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"""
 acrostiche = "Andrea Andrea"
 verseLength = 8

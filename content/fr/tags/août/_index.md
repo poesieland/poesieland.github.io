@@ -6,4 +6,4 @@ title = "Août"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/aout/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/août/featured.png" >}}

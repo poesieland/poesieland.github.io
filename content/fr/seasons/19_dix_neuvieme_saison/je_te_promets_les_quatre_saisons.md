@@ -4,13 +4,21 @@ id = "je_te_promets_les_quatre_saisons_19"
 date = 2024-02-25
 weight = 13
 categories = [ "Automne", "Eté", "Hiver", "Printemps", "Romantisme" ]
-tags = [ "2024", "alexandrin", "amour", "saisons", "refrain" ]
+tags = [
+  "2024",
+  "alexandrin",
+  "amour",
+  "refrain",
+  "saisons",
+  "lair ou la chanson"
+]
 info = """
 [Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
 
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-)"""
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"Je te promets\" (Johnny Hallyday)"
 +++
 
 Je te promets la vie à la vie à la mort,

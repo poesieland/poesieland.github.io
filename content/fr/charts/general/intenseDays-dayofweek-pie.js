@@ -6,8 +6,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mercredi', value: 19, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Jeudi', value: 16, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: 'Vendredi', value: 20, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: 'Samedi', value: 58, color: 'rgba(72, 149, 239, 0.8)' },
-    { label: 'Dimanche', value: 46, color: 'rgba(72, 149, 239, 0.9000000000000001)' },
+    { label: 'Samedi', value: 61, color: 'rgba(72, 149, 239, 0.8)' },
+    { label: 'Dimanche', value: 49, color: 'rgba(72, 149, 239, 0.9000000000000001)' },
   ];
   addPieChart('intenseDaysDayOfWeekPie', [data], { plugins: { title: { display: true, text: 'Par jour de la semaine' } } });
 })();
