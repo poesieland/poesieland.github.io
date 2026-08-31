@@ -6,8 +6,8 @@ Long de neuf syllabes, l'[ennéasyllabe](https://fr.wikipedia.org/wiki/Enn%C3%A9
 
 Je l'ai étrenné en mars [1997](../1997) dans [Calme du soir](../../seasons/3_troisieme_saison/calme_du_soir).
 
-Les catégories les plus représentées :
-
-{{% include "../../includes/metric-9_categories.md" hidefirstheading %}}
-
 {{< chartjs id="poems-metric9Bar" width="90%" jsFile="../../charts/taxonomy/poems-metric-9-bar.js" />}}
+
+## Catégories représentées
+
+{{< chartjs id="metric9Pie" width="75%" jsFile="../../charts/metric-9/categories-pie.js" />}}
