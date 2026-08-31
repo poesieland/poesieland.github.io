@@ -3,13 +3,12 @@ title = "Le jour"
 id = "le_jour_16"
 date = 2004-10-04
 weight = 48
-categories = ["Aube", "Etre", "Temps"]
-tags = ["ombres et lumières", "philosophie", "2004", "octosyllabe"]
-info = """
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
-
+categories = [ "Aube", "Etre", "Temps" ]
+tags = [ "ombres et lumières", "philosophie", "2004", "octosyllabe" ]
+info = '{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}'
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Bordeaux" ]
 +++
 
 Le jour se lève, aurore dame

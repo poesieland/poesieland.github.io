@@ -3,15 +3,15 @@ title = "Retiens l'amour"
 id = "retiens_l_amour_23"
 date = 2024-12-27
 weight = 36
-categories = ["Passion"]
-tags = ["amour", "2024", "heptasyllabe"]
+categories = [ "Passion" ]
+tags = [ "2024", "amour", "heptasyllabe", "lair ou la chanson" ]
 info = """
 [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
 En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons)"""
-
 verseLength = 7
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"Retiens la nuit\" (Johnny Hallyday)"
 +++
 
 Retiens le jour qui se lève

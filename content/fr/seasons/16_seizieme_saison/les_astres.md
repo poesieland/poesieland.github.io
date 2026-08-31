@@ -3,13 +3,14 @@ title = "Les astres"
 id = "les_astres_16"
 date = 2004-06-08
 weight = 38
-categories = ["Ciel"]
-tags = ["nature", "2004", "ennéasyllabe"]
+categories = [ "Ciel" ]
+tags = [ "2004", "ennéasyllabe", "nature", "citation" ]
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "Grain de beauté sur le soleil..."
 +++
 
-"Grain de beauté sur le soleil"...
+*Grain de beauté sur le soleil...*
 
 Ce jour est-il comme les autres ?
 

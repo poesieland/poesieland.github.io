@@ -11,7 +11,7 @@ tags = [
   "octosyllabe",
   "lair ou la chanson"
 ]
-info = "D'après la chanson d'Emma Shapplin"
+info = "D'après la chanson \"Lucifero, quel giorno\" d'Emma Shapplin"
 acrostiche = "L'amor è breve sogno"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -54,7 +54,7 @@ Né d'immortel souffle qui vibre
 Où ne répondent que douleurs...
 
 {{% notice style="primary" %}}
-D'après la chanson d'Emma Shapplin.
+D'après la chanson "Lucifero, quel giorno" d'Emma Shapplin.
 
 Acrostiche : L'amor è breve sogno.
 {{% /notice %}}

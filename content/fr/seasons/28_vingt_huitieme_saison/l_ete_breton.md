@@ -12,7 +12,8 @@ tags:
     - amour
     - octosyllabe
     - refrain
-locations: []
+locations:
+    - Côte atlantique
 info: '{{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}'
 pictures: []
 poemType: ""

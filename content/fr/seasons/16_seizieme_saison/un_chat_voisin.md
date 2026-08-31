@@ -3,11 +3,12 @@ title = "Un chat voisin"
 id = "un_chat_voisin_16"
 date = 2003-10-05
 weight = 17
-categories = ["Félinement vôtre"]
-tags = ["attitudes", "2003", "acrostiche", "octosyllabe"]
+categories = [ "Félinement vôtre" ]
+tags = [ "attitudes", "2003", "acrostiche", "octosyllabe" ]
 acrostiche = "Un chat voisin"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Paris" ]
 +++
 
 Un chat si beau me rend visite,

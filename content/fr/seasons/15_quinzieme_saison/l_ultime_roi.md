@@ -3,11 +3,12 @@ title = "L'ultime roi"
 id = "l_ultime_roi_15"
 date = 2001-10-21
 weight = 44
-categories = ["Etre"]
-tags = ["philosophie", "2001", "hexasyllabe"]
+categories = [ "Etre" ]
+tags = [ "2001", "hexasyllabe", "philosophie", "lair ou la chanson" ]
 info = "D'après la chanson d'Andrea Bocelli \"L'ultimo re\"."
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après la chanson \"L'ultimo re\" (Andrea Bocelli)"
 +++
 
 Les images, les scènes

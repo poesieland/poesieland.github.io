@@ -3,11 +3,18 @@ title = "Beauté du matin"
 id = "beaute_du_matin_16"
 date = 2004-05-27
 weight = 34
-categories = ["Aube", "Etre"]
-tags = ["ombres et lumières", "philosophie", "2004", "acrostiche", "alexandrin"]
+categories = [ "Aube", "Etre" ]
+tags = [
+  "ombres et lumières",
+  "philosophie",
+  "2004",
+  "acrostiche",
+  "alexandrin"
+]
 acrostiche = "Berceau matin"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Bordeaux" ]
 +++
 
 Beauté d'un monde frêle éclos en ce matin

@@ -3,11 +3,12 @@ title = "Ballet du ciel"
 id = "ballet_du_ciel_15"
 date = 2001-06-20
 weight = 6
-categories = ["Ciel"]
-tags = ["nature", "2001", "acrostiche", "hexasyllabe"]
+categories = [ "Ciel" ]
+tags = [ "nature", "2001", "acrostiche", "hexasyllabe" ]
 acrostiche = "Ballet du ciel"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Où je n'ai pas été" ]
 +++
 
 Boréale l'aurore

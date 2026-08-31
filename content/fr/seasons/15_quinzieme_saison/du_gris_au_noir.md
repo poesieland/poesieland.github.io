@@ -3,11 +3,18 @@ title = "Du gris au noir"
 id = "du_gris_au_noir_15"
 date = 2001-09-21
 weight = 34
-categories = ["Automne", "Ville", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "2001", "acrostiche", "alexandrin"]
+categories = [ "Automne", "Ville", "Crépuscule" ]
+tags = [
+  "saisons",
+  "ombres et lumières",
+  "2001",
+  "acrostiche",
+  "alexandrin"
+]
 acrostiche = "Du gris au noir"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+locations = [ "Paris" ]
 +++
 
 Dans l'automne qui court et berce, flagellé,

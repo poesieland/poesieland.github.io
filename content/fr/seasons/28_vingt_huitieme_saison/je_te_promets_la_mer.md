@@ -22,7 +22,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: D'après la chanson \"Je te promets\" (Johnny Hallyday)
+description: D'après la chanson "Je te promets" (Johnny Hallyday)
 ---
 Je te promets la mer qui lèche le rivage
 

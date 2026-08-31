@@ -16,6 +16,7 @@ info = "Métrique variable : 5, 7, 5"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 poemType = "haïku"
+locations = [ "Bordeaux" ]
 +++
 
 Au bord de l'asphalte
