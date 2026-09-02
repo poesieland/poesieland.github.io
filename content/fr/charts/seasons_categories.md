@@ -90,8 +90,8 @@ Sur cette page qui rassemble les inspirations des Saisons, figurent aussi la dur
 {{< chartjs id="season34Pie" width="21vw" margin="20px" padding="0" jsFile="../season-34/categories-pie.js" inline=true text="Un peu moins d'un mois et demi"/>}}
 </div>
 
-<!-- <div style="display:flex;justify-content:space-around;">
-  <div style="position:relative;width:21vw;padding:0;margin:20px;">
-  </div>
-</div>   -->
+<div style="display:flex;justify-content:space-around;">
+{{< chartjs id="season35Pie" width="21vw" margin="20px" padding="0" jsFile="../season-35/categories-pie.js" inline=true text="En cours"/>}}
+</div>
+
 </div>
