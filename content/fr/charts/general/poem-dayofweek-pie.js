@@ -1,10 +1,10 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Lundi', value: 231, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
+    { label: 'Lundi', value: 232, color: 'rgba(72, 149, 239, 0.30000000000000004)' },
     { label: 'Mardi', value: 236, color: 'rgba(72, 149, 239, 0.4)' },
-    { label: 'Mercredi', value: 230, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Jeudi', value: 198, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
+    { label: 'Mercredi', value: 232, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Jeudi', value: 199, color: 'rgba(72, 149, 239, 0.6000000000000001)' },
     { label: 'Vendredi', value: 228, color: 'rgba(72, 149, 239, 0.7)' },
     { label: 'Samedi', value: 279, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 314, color: 'rgba(72, 149, 239, 0.9000000000000001)' },

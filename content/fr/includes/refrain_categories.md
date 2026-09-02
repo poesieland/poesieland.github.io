@@ -8,6 +8,6 @@ title = "Associations privilégiées"
 - [Eté](/categories/eté)
 - [Félinement vôtre](/categories/félinement-vôtre)
 - [Espoir](/categories/espoir)
-- [Romantisme](/categories/romantisme)
 - [Climat](/categories/climat)
+- [Romantisme](/categories/romantisme)
 - [Automne](/categories/automne)

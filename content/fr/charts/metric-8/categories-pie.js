@@ -24,7 +24,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 30, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 26, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 13, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Ciel', value: 22, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Ciel', value: 23, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 10, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 21, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 14, color: 'rgb(50, 122, 183, 1)' },

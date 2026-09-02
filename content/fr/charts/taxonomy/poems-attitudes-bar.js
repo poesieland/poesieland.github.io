@@ -35,6 +35,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Témoin jour après jour (32) 2026', value: 7, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'La musique des mots (33) 2026', value: 4, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'A mi-chemin du paradis (34) 2026', value: 4, color: 'rgba(250, 152, 70, 0.5)' },
+    { label: 'Un jour à la fois (35) 2026', value: 1, color: 'rgba(250, 152, 70, 0.5)' },
   ];
     addBarChart('poems-attitudesBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();
