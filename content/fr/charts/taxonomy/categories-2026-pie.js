@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 3, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Romantisme', value: 6, color: 'rgba(253, 108, 158, 1)' },
-    { label: 'Passion', value: 2, color: 'rgba(199, 44, 72, 1)' },
+    { label: 'Passion', value: 3, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 7, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Lune', value: 2, color: 'rgba(252, 215, 87, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(139, 91, 41, 1)' },
@@ -32,7 +32,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 20, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 16, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 24, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 3, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categories2026Pie', [data], { plugins: { title: { display: true, text: '2026' } } });

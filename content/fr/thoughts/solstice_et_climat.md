@@ -51,6 +51,8 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 
 - [Vers l'ombre - écrit le 08.08.2025](../seasons/28_vingt_huitieme_saison/vers_l_ombre)  
 *à la vingt-huitième saison*
+- [Laisse venir l'automne - écrit le 22.08.2025](../seasons/35_trente_cinquieme_saison/laisse_venir_l_automne)  
+*à la trente-cinquième saison*
 - [Equinoxes - écrit le 24.08.2025](../seasons/28_vingt_huitieme_saison/equinoxes)  
 *à la vingt-huitième saison*
 - [Langueur d'automne - écrit le 06.09.2024](../seasons/22_vingt_deuxieme_saison/langueur_d_automne)  

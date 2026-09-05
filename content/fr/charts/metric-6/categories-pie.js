@@ -4,7 +4,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Amitié', value: 13, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 7, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 18, color: 'rgba(253, 108, 158, 1)' },
-    { label: 'Passion', value: 17, color: 'rgba(199, 44, 72, 1)' },
+    { label: 'Passion', value: 18, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 15, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Lune', value: 10, color: 'rgba(252, 215, 87, 1)' },
     { label: 'Ville', value: 2, color: 'rgba(139, 91, 41, 1)' },
@@ -35,7 +35,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 7, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 19, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 28, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 39, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 40, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 32, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric6Pie', [data], { plugins: { title: { display: true, text: '' } } });

@@ -6,7 +6,7 @@ summary = "Août 2026"
 
 ### En vogue
 
-L'[été](../categories/eté/) et maintenant l'[automne](../categories/automne/).
+Le retour d'une saison adorée, l'[automne](../categories/automne/).
 
 Mais aussi une nouvelle catégorie, [Félinement vôtre](../categories/félinement-vôtre/).
 

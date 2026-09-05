@@ -1,9 +1,9 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: '2j', value: 130, color: 'rgba(72, 149, 239, 1)' },
+    { label: '2j', value: 129, color: 'rgba(72, 149, 239, 1)' },
     { label: '3j', value: 58, color: 'rgba(72, 149, 239, 1)' },
-    { label: '4j', value: 24, color: 'rgba(72, 149, 239, 1)' },
+    { label: '4j', value: 25, color: 'rgba(72, 149, 239, 1)' },
     { label: '5j', value: 11, color: 'rgba(72, 149, 239, 1)' },
     { label: '6j', value: 11, color: 'rgba(72, 149, 239, 1)' },
     { label: '7j', value: 8, color: 'rgba(72, 149, 239, 1)' },
