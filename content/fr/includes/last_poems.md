@@ -2,6 +2,10 @@
 title = "Derniers poèmes ajoutés"
 +++
 
+[Eclat d'automne II, écrit le 23.08.2026](../seasons/35_trente_cinquieme_saison/eclat_d_automne)
+
+[Ciel doux, écrit le 22.08.2026](../seasons/35_trente_cinquieme_saison/ciel_doux)
+
 [Laisse venir l'automne, écrit le 22.08.2026](../seasons/35_trente_cinquieme_saison/laisse_venir_l_automne)
 
 [Au comptant, écrit le 21.08.2026](../seasons/35_trente_cinquieme_saison/au_comptant)

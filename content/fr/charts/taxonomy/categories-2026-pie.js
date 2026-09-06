@@ -20,10 +20,10 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Révolte', value: 9, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 16, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 7, color: 'rgba(244, 254, 254, 1)' },
-    { label: 'Flore', value: 11, color: 'rgba(84, 114, 174, 1)' },
+    { label: 'Flore', value: 12, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 3, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 10, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Ciel', value: 15, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Ciel', value: 16, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 6, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 25, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 3, color: 'rgba(252, 191, 140, 1)' },
@@ -32,7 +32,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 20, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 16, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 24, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 5, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categories2026Pie', [data], { plugins: { title: { display: true, text: '2026' } } });

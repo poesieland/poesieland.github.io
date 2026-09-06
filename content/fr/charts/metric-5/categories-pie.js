@@ -23,7 +23,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 6, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Jardin et paysage', value: 3, color: 'rgba(121, 248, 248, 1)' },
     { label: 'Eau douce', value: 7, color: 'rgba(0, 127, 255, 1)' },
-    { label: 'Ciel', value: 7, color: 'rgba(119, 181, 254, 1)' },
+    { label: 'Ciel', value: 8, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Faune', value: 2, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 8, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 10, color: 'rgba(252, 191, 140, 1)' },
