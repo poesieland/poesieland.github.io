@@ -2,9 +2,9 @@
 {{- $location := .location }}
 {{- if eq $location "header" }}
   {{- with $page }}
-    {{- $assetBusting := partialCached "assetbusting.gotmpl" . }}
-    {{- with resources.Get "/js/chartjs/chartjs.js" }}
-    <script src="{{ .RelPermalink }}{{ $assetBusting }}" defer></script>
+  <!-- chartjs.js already contains minified code -->
+    {{- with partialCached "asset.gotmpl" (dict "res" "/js/chartjs/chartjs.js" "minify" false) "/js/chartjs/chartjs.js" }}
+    <script src="{{ .RelPermalink }}" defer></script>
     {{- end }}
   {{- end }}
 {{- end }}
