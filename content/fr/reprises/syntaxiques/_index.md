@@ -2,11 +2,13 @@
 title = "Reprises syntaxiques"
 description = "Des mini-thèmes particuliers"
 +++
-Quand le souffle se poursuit et que le sujet est toujours inspirant.
+Quand un petit groupe de mots inspire toujours dans un élan créatif de micro-thème, puis mini-thème...
 
-- [Les mots](../../tags/les-mots/)  
+- [Les mots](../../tags/les-mots/)
+
   *Depuis la sixième saison*
-- [Je te promets](../../thoughts/je_te_promets)  
-  *Depuis la dix-neuvième saison*
-- [Les petits vieux](../../tags/les-petits-vieux/)  
+- [Les petits vieux](../../tags/les-petits-vieux/)
+
   *Depuis la vingt-septième saison*
+
+{{% children description="true" %}}

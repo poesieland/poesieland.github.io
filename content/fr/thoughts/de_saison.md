@@ -2,6 +2,7 @@
 title = "De saison..."
 date = 2026-08-22
 summary = "Août 2026"
+hidden = true
 +++
 
 ### En vogue

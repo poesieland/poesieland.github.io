@@ -2,8 +2,7 @@
 title = "Plus d'une saison"
 date = 2025-05-28
 summary = "Mai 2025"
+[params]
+  menuPageRef = '/tags/saisons/#certains-poèmes-évoquent-plus-dune-saison'
 +++
-
-Un petit inventaire des poèmes qui évoquent plus d'une saison.
-
-[Vers cette liste](../tags/saisons/_index#deux-qui-se-suivent)
+Certains poèmes évoquent plus d’une saison…
