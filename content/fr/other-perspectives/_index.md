@@ -1,6 +1,6 @@
 +++
 title = "Autres perspectives"
-weight = 5
+weight = 3
 type = "chapter"
 date = 2026-02-27
 +++

@@ -1,6 +1,6 @@
 +++
 title = "L'art de la reprise"
-weight = 3
+weight = 4
 type = "chapter"
 +++
 
