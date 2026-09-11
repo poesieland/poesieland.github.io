@@ -23,6 +23,8 @@ Le premier poème à date certaine (de 1992 à 1994 je ne datais pas mes divers 
 
 Ce poème parle d'amour platonique mais démarre sur une image correspondant au CDI.
 
+Et puis, je me rappelle que c'était la fierté d'avoir écrit mon premier [sonnet](../tags/sonnet/).
+
 ## J'avais l'heur de m'asseoir...
 
 {{% include file="../../seasons/1_premiere_saison/j_avais_l_heur_de_m_asseoir" hidefirstheading="true" %}}

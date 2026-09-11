@@ -496,3 +496,6 @@ public/
 themes/hugo-theme-relearn/public/
 
 .hugo_build.lock
+
+# Temp dir
+assets/images/opt/
