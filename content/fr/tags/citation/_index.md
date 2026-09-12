@@ -5,6 +5,6 @@ title = "Citation"
     [cascade.params.children]
       breadcrumb = true
       description = true
-      type = "tree"
+      type = "list"
 +++
 *Liste en cours de construction.*

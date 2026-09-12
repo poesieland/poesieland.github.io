@@ -8,7 +8,7 @@ title = "1999"
 
 L'année de mes 20 ans.
 
-Pour continuer mes études, départ vers la grande ville mythique, Paris.
+Pour continuer mes études, départ vers la grande ville mythique, [Paris](../../locations/paris/).
 
 Toujours accompagnée de [musique et chant](../../categories/musique-et-chant/), mais aussi de [foi](../../categories/foi/) et [temps](../../categories/temps/).
 

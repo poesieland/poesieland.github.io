@@ -16,6 +16,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 1, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Automne', value: 1, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric9Pie', [data], { plugins: { title: { display: true, text: '' } } });

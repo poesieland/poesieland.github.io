@@ -1,11 +1,11 @@
 +++
-title = "Saison incertaine"
+title = "Est-ce un automne..."
 [[cascade]]
   [cascade.params]
     [cascade.params.children]
       breadcrumb = true
       description = true
-      type = "tree"
+      type = "list"
       sort = "date"
 +++
 

@@ -3,7 +3,8 @@ title = "Adolescence : seize ans"
 date = 2026-09-09
 description = "Septembre 2026"
 +++
-1995.
+1995\.
+
 Seize ans.
 
 En France, le lycée ne dure que trois ans : les *bleus* de seconde, ceux de terminale qui ne pensent qu'à réussir leur bac et se voient déjà majeurs, et, au milieu, ceux en première, qui ont quand même l'épreuve anticipée du bac français.

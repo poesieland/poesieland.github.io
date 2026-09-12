@@ -5,7 +5,7 @@ title = "Gare au chat"
     [cascade.params.children]
       breadcrumb = true
       description = true
-      type = "tree"
+      type = "list"
       sort = "date"
 +++
 Un chat, ou plusieurs...

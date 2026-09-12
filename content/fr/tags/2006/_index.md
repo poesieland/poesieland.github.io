@@ -8,7 +8,7 @@ title = "2006"
 
 L'année de mes 27 ans.
 
-Nouvel amour, nouvelle vie.
+Nouvel amour, nouvelle vie. Départ de [Bordeaux](../../locations/bordeaux/).
 
 {{< chartjs id="categories2006Pie" width="90%" jsFile="../../charts/taxonomy/categories-2006-pie.js" />}}
 

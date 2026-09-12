@@ -3,7 +3,8 @@ title = "Adolescence : le club de poésie"
 date = 2026-04-05
 description = "Avril 2026"
 +++
-1992.
+1992\.
+
 Déjà deux ans que j'avais accès à l'immensité de la bibliothèque de la grande école. Et puis, cette affinité pour l'écriture imagée et rythmée de mes émotions, j'ai nommé la poésie.
 
 J'habitais à la campagne, les fameux rurbains, comme on disait à l'époque, et il fallait compter sur mes parents pour aller "en ville". Internet n'était pas encore démocratisé.

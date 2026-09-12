@@ -12,9 +12,9 @@ tags = [
   "lair ou la chanson"
 ]
 info = """
-Premier poème de mon recueil En six lettres : t'aimer.
+Premier poème de mon recueil *En six lettres : t'aimer*.
 
-Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli, ici spécifiquement sa célèbre chanson [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"""
+Si vous êtes sur cette page, découvrez le secret de mon recueil... Pourquoi six lettres ? Aussi bien l'acrostiche *t'aimer* que le prénom Andrea. Tant d'inspiration possible grâce à Andrea Bocelli, ici spécifiquement sa célèbre chanson [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)"""
 acrostiche = "Andrea Andrea"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -48,9 +48,9 @@ Etreins-moi d'un ultime geste,
 Avant de partir, au revoir !
 
 {{% notice style="primary" %}}
-Premier poème de mon recueil En six lettres : t'aimer.
+Premier poème de mon recueil *En six lettres : t'aimer*.
 
-Si vous êtes sur cette page, découvrez le secret de mon recueil... Tant d'inspiration possible grâce à Andrea Bocelli, ici spécifiquement sa célèbre chanson [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ).
+Si vous êtes sur cette page, découvrez le secret de mon recueil... Pourquoi six lettres ? Aussi bien l'acrostiche *t'aimer* que le prénom Andrea. Tant d'inspiration possible grâce à Andrea Bocelli, ici spécifiquement sa célèbre chanson [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ).
 
 Acrostiche : Andrea Andrea.
 {{% /notice %}}

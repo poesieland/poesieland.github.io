@@ -35,7 +35,9 @@ Insinue en nous la gloire de ton rang !
 
 Reine qui confesse un peuple libre et grand,
 
-En notre Cité des deux îles belles !
+En notre Cité des deux îles[^1] belles !
+
+[^1]: L'île de la Cité et l'île Saint-Louis 😊
 
 {{% notice style="primary" %}}
 Acrostiche : A Toi la gloire.

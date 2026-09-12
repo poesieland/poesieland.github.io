@@ -30,7 +30,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 3, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
-    { label: 'Félinement vôtre', value: 32, color: 'rgba(161, 86, 28, 1)' },
+    { label: 'Félinement vôtre', value: 35, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 5, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 3, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 7, color: 'rgba(27, 79, 8, 1)' },

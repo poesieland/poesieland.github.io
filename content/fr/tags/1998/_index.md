@@ -10,7 +10,9 @@ L'année de mes 19 ans.
 
 Fin de fréquentation du club de poésie, arts plastiques et musique de Reims, le Salon Orange.
 
-Et ces six mois intenses qui ont abouti à mon recueil "En six lettres : t'aimer".
+Et ces six mois intenses qui ont abouti à mon recueil *En six lettres : t'aimer*.
+
+Cette année-là est sortie la comédie musicale *Notre-Dame de Paris*, que j'ai adorée et qu'on peut retrouver comme [source d'inspiration](../lair-ou-la-chanson/).
 
 [Création](../../categories/création/), [être](../../categories/etre/), [musique et chant](../../categories/musique-et-chant/) ont guidé mes vers.
 
