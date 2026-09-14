@@ -4,8 +4,8 @@ id = "le_jour_16"
 date = 2004-10-04
 weight = 48
 categories = [ "Aube", "Etre", "Temps" ]
-tags = [ "ombres et lumières", "philosophie", "2004", "octosyllabe" ]
-info = '{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}'
+tags = [ "ombres et lumières", "philosophie", "2004", "octosyllabe", "le jour se lève" ]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 locations = [ "Bordeaux" ]
@@ -36,7 +36,3 @@ Et je m'en vais vers le travail.
 Le souffle m'inspire au ventail
 
 Ta rencontre en sa dérobade.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}

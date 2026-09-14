@@ -4,10 +4,8 @@ id = "le_temps_des_heures_2"
 date = 1996-11-22
 weight = 33
 categories = ["Aube"]
-tags = ["ombres et lumières", "1996", "tétrasyllabe"]
-info = """
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
-
+tags = ["ombres et lumières", "1996", "tétrasyllabe", "le jour se lève"]
+info = ""
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -55,7 +53,3 @@ Au fond du cœur
 Le temps s'arrête
 
 Pour mon bonheur.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}

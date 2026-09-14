@@ -4,10 +4,8 @@ id = "aube_19"
 date = 2024-02-02
 weight = 6
 categories = ["Aube"]
-tags = ["ombres et lumières", "2024", "tétrasyllabe"]
-info = """
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
-
+tags = ["ombres et lumières", "2024", "tétrasyllabe", "le jour se lève"]
+info = ""
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -55,7 +53,3 @@ S'éteint l'éclat,
 Fin du murmure,
 
 Le jour est là.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}

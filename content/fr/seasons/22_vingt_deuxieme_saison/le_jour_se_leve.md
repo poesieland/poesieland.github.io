@@ -4,10 +4,8 @@ id = "le_jour_se_leve_22"
 date = 2024-09-24
 weight = 16
 categories = ["Aube", "Ciel"]
-tags = ["ombres et lumières", "nature", "2024", "tétrasyllabe"]
-info = """
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
-
+tags = ["ombres et lumières", "nature", "2024", "tétrasyllabe", "le jour se lève"]
+info = ""
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +35,3 @@ Voici douceurs
 Où rose et parme
 
 Sont teintes soeurs.
-
-{{% notice style="primary" %}}
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}

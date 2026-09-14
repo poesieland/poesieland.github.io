@@ -7,7 +7,7 @@ Je me suis rendue compte du peu d'occasions que j'ai eues de photographier l'aub
 
 Mais cette fois-ci j'ai une jolie vision à vous proposer, ces quelques semaines de fin d'été sont prolixes en belles lumières matinales.
 
-{{< figure src="/images/aube.jpg" title="27 août 2026" >}}
+{{< figure src="/images/aube_35_0.jpg" title="27 août 2026" >}}
 
 {{< chartjs id="poemDay-aubeRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-aube-radar.js" />}}
 

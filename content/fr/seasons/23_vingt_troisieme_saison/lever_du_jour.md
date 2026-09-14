@@ -4,10 +4,8 @@ id = "lever_du_jour_23"
 date = 2024-12-04
 weight = 9
 categories = ["Ciel", "Aube"]
-tags = ["nature", "ombres et lumières", "2024", "tétrasyllabe"]
-info = """
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}"""
-
+tags = ["nature", "ombres et lumières", "2024", "tétrasyllabe", "le jour se lève"]
+info = ""
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +35,3 @@ Pastel placé,
 Douces patines
 
 Sans se lasser !
-
-{{% notice style="primary" %}}
-{{% include "../../includes/le_jour_se_leve" hidefirstheading %}}
-{{% /notice %}}
