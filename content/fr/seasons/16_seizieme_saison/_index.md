@@ -3,7 +3,7 @@ title = "Seizième Saison : Plus loin"
 weight = 16
 type = "seasonIndex"
 description = """
-Deux ans et demi très autobiographiques, tournés vers le temps, les jardins et paysages, l'automne, l'aube, l'être.
+Deux ans et demi très autobiographiques, tournés vers le temps, les jardins et paysages, l'automne, l'aube, la condition humaine.
 
 Cette Saison tend vers l'abstraction, avec des jeux de mots poussés, dans un duel avec une amie poète.
 

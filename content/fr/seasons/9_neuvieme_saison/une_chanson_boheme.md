@@ -3,7 +3,7 @@ title = "Une chanson bohème"
 id = "une_chanson_boheme_9"
 date = 1998-09-30
 weight = 20
-categories = [ "Etre" ]
+categories = [ "Etre", "Création" ]
 tags = [
   "philosophie",
   "1998",

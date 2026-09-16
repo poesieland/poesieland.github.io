@@ -1,7 +1,7 @@
 +++
 title = "Associations privilégiées"
 +++
-- [Etre](/categories/etre)
+- [Condition humaine](/categories/etre)
 - [Musique et chant](/categories/musique-et-chant)
 - [Angoisse](/categories/angoisse)
 - [Portraits](/categories/portraits)

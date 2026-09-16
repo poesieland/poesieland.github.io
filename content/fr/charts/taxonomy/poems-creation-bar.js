@@ -9,7 +9,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Sur le chemin (6) 1998', value: 6, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Croire (7) 1998', value: 14, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Reflets perdus (8) 1998', value: 8, color: 'rgba(220, 147, 246, 0.5)' },
-    { label: 'Souffles (9) 1998', value: 14, color: 'rgba(220, 147, 246, 0.5)' },
+    { label: 'Souffles (9) 1998', value: 16, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Pensées (10) 1998-99', value: 3, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Perceptible (11) 1999', value: 4, color: 'rgba(220, 147, 246, 0.5)' },
     { label: 'Tempo piano (12) 1999', value: 7, color: 'rgba(220, 147, 246, 0.5)' },

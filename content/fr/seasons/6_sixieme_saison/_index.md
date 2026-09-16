@@ -3,7 +3,7 @@ title = "Sixième Saison : Sur le chemin"
 weight = 6
 type = "seasonIndex"
 description = """
-En cherchant sa voie, la philosophie interroge massivement l'être, la création, dresse des portraits et n'oublie pas l'espoir, tandis que les évocations se partagent entre un amour déçu romantique et passionné, et l'amitié salvatrice.
+En cherchant sa voie, la philosophie interroge la condition humaine, la création, dresse des portraits et n'oublie pas l'espoir, tandis que les évocations se partagent entre un amour déçu romantique et passionné, et l'amitié salvatrice.
 
 De mars à juin 1998"""
 +++

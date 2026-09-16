@@ -3,12 +3,19 @@ title = "Nul ne sait"
 id = "nul_ne_sait_9"
 date = 1998-10-02
 weight = 8
-categories = ["Etre"]
-tags = ["philosophie", "1998", "acrostiche", "hexasyllabe"]
-info = "\"Nul ne le saura\" en italien."
+categories = [ "Etre" ]
+tags = [
+  "1998",
+  "acrostiche",
+  "hexasyllabe",
+  "philosophie",
+  "lair ou la chanson"
+]
+info = '"Nul ne le saura" en italien.'
 acrostiche = "Non lo nessun saprà"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = "D'après un passage de l'opéra \"Turandot\""
 +++
 
 Nul ne sait ce qu'il aime

@@ -10,7 +10,7 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Foi](../../categories/foi)
 - [Portraits](../../categories/portraits)
 - [Temps](../../categories/temps)
-- [Etre](../../categories/etre)
+- [Condition humaine](../../categories/etre)
 - [Apprentissage](../../categories/apprentissage)
 - [Révolte](../../categories/révolte)
 

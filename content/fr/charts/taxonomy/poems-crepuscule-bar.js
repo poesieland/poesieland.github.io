@@ -15,7 +15,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Tempo piano (12) 1999', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Divina (13) 1999', value: 1, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Au long cours (14) 1999-2001', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
-    { label: 'De place en place (15) 2001', value: 4, color: 'rgba(179, 103, 0, 0.5)' },
+    { label: 'De place en place (15) 2001', value: 5, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Plus loin (16) 2002-04', value: 0, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 2, color: 'rgba(179, 103, 0, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 1, color: 'rgba(179, 103, 0, 0.5)' },

@@ -3,8 +3,8 @@ title = "Bonheur"
 id = "bonheur_5"
 date = 1997-09-19
 weight = 24
-categories = ["Etre"]
-tags = ["philosophie", "1997", "hexasyllabe"]
+categories = [ "Amour platonique", "Amitié" ]
+tags = [ "1997", "hexasyllabe", "amour" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

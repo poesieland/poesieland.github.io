@@ -3,13 +3,13 @@ title = "Beauté du matin"
 id = "beaute_du_matin_16"
 date = 2004-05-27
 weight = 34
-categories = [ "Aube", "Etre" ]
+categories = [ "Aube", "Jardin et paysage" ]
 tags = [
-  "ombres et lumières",
-  "philosophie",
   "2004",
   "acrostiche",
-  "alexandrin"
+  "alexandrin",
+  "ombres et lumières",
+  "nature"
 ]
 acrostiche = "Berceau matin"
 verseLength = 12

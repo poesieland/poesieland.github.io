@@ -23,7 +23,7 @@ Je chéris chaque jour et ceux encore à naître
 
 Quand le monde si beau ne m'a rien demandé,
 
-Il verdoie et s'emporte à la saison scandé :
+Il verdoie et s'emporte, à la saison scandé :
 
 Mon coeur et la nature à tout ce bonheur d'être.
 

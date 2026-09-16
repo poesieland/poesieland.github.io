@@ -3,7 +3,7 @@ title = "Neuvième Saison : Souffles"
 weight = 9
 type = "seasonIndex"
 description = """
-A la recherche de nouvelles inspirations, l'amour prenant bien moins de place. Toujours la création, l'être, l'art musical omniprésents mais une apparition de l'espoir.
+A la recherche de nouvelles inspirations, l'amour prenant bien moins de place. Tant de création... Aussi la condition humaine, l'art musical avec une apparition de l'espoir.
 
 De septembre à décembre 1998"""
 +++

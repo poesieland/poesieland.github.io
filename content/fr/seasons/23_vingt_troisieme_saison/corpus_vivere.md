@@ -3,12 +3,13 @@ title = "Corpus, vivere"
 id = "corpus_vivere_23"
 date = 2024-12-26
 weight = 31
-categories = ["Etre"]
-tags = ["philosophie", "2024", "acrostiche", "octosyllabe"]
-info = "\"Corps, vivre\" en latin."
+categories = [ "Etre" ]
+tags = [ "2024", "acrostiche", "octosyllabe", "philosophie" ]
+info = '"Corps, vivre" en latin.'
 acrostiche = "Corpus, vivere"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+description = ""
 +++
 
 Comme lumière s'attise,

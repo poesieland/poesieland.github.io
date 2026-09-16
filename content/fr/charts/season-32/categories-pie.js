@@ -12,7 +12,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Foi', value: 1, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 1, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 11, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Etre', value: 4, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Condition humaine', value: 4, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 1, color: 'rgba(244, 254, 254, 1)' },
     { label: 'Flore', value: 4, color: 'rgba(84, 114, 174, 1)' },

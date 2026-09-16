@@ -19,9 +19,9 @@ Chasser rancoeur
 Et ses délires.
 
  \
-*A coeur vaillant
+*A coeur vaillant*
 
-Rien d'impossible*,
+*Rien d'impossible*,
 
 Vogue, saillant
 

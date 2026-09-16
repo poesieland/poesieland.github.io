@@ -44,7 +44,7 @@ Troublés d'un rire, perdre aussi le
 
 Tempo connu, d'autres décors
 
-Ouvriront lendemains dociles.
+Ouvriront lendemain docile.
 
 {{% notice style="primary" %}}
 "La vie par-dessus tout" en italien.

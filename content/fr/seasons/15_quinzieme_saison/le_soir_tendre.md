@@ -3,8 +3,14 @@ title = "Le soir tendre"
 id = "le_soir_tendre_15"
 date = 2001-08-20
 weight = 22
-categories = ["Etre"]
-tags = ["philosophie", "2001", "acrostiche", "hexasyllabe"]
+categories = [ "Romantisme", "Crépuscule" ]
+tags = [
+  "2001",
+  "acrostiche",
+  "amour",
+  "hexasyllabe",
+  "ombres et lumières"
+]
 acrostiche = "Le soir tendre"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -32,7 +38,7 @@ Noue en perles de verre
 
 Doré monde inconnu.
 
-Rêvons, ton bras m'enserra,
+Rêvons, ton bras m'enserre,
 
 En cœur pour deux, ténu.
 

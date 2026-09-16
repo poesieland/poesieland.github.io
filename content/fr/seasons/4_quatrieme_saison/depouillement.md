@@ -3,8 +3,8 @@ title = "Dépouillement"
 id = "depouillement_4"
 date = 1997-07-22
 weight = 25
-categories = ["Etre"]
-tags = ["philosophie", "1997", "hexasyllabe"]
+categories = [ "Etre", "Apprentissage" ]
+tags = [ "philosophie", "1997", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

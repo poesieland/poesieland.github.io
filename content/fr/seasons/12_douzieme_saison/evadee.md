@@ -3,8 +3,14 @@ title = "Evadée"
 id = "evadee_12"
 date = 1999-06-12
 weight = 44
-categories = ["Nuit", "Etre"]
-tags = ["ombres et lumières", "philosophie", "1999", "acrostiche", "alexandrin"]
+categories = [ "Nuit", "Romantisme" ]
+tags = [
+  "1999",
+  "acrostiche",
+  "alexandrin",
+  "ombres et lumières",
+  "amour"
+]
 acrostiche = "Evadée"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

@@ -1,7 +1,7 @@
 ---
 weight: 14
 title: La conscription
-id: la_conscription_3
+id: la_conscription_30
 date: 2025-11-23
 verseLength: 8
 divider: ""

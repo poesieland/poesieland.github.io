@@ -20,7 +20,7 @@ Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par
 - Johnny Hallyday
 - [Mecano](https://fr.wikipedia.org/wiki/Mecano) (Ana Torroja)
 - Notre-Dame de Paris (comédie musicale)
-- plusieurs opéras célèbres... Carmen, Nessun Dorma, Werther...
+- plusieurs opéras célèbres... Carmen, Fedora, Turandot, Werther...
 - Offenbach
 - Eros Ramazzotti
 - Maurice Ravel

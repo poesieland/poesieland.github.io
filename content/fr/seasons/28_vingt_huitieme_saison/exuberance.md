@@ -13,9 +13,9 @@ tags:
     - citation
 description: A coeur vaillant rien d'impossible
 ---
-*A coeur vaillant
+*A coeur vaillant*
 
-Rien d'impossible*,
+*Rien d'impossible*,
 
 Bonheur saillant,
 

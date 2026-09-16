@@ -2,7 +2,7 @@ import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Amitié', value: 1, color: 'rgba(254, 231, 240, 1)' },
-    { label: 'Amour platonique', value: 2, color: 'rgba(255, 111, 125, 1)' },
+    { label: 'Amour platonique', value: 3, color: 'rgba(255, 111, 125, 1)' },
     { label: 'Romantisme', value: 3, color: 'rgba(253, 108, 158, 1)' },
     { label: 'Passion', value: 1, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Crépuscule', value: 1, color: 'rgba(179, 103, 0, 1)' },
@@ -13,7 +13,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Foi', value: 4, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 1, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 7, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Etre', value: 4, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Condition humaine', value: 3, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 1, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Flore', value: 3, color: 'rgba(84, 114, 174, 1)' },

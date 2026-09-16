@@ -3,7 +3,7 @@ title = "Douzième Saison : Tempo piano"
 weight = 12
 type = "seasonIndex"
 description = """
-La musique et le chant s'expriment toujours en accords vifs, tempérés par la douceur du temps, de l'être, de la création.
+La musique et le chant s'expriment toujours en accords vifs, tempérés par la douceur du temps, de la création, de la condition humaine.
 
 De mai à juillet 1999"""
 +++

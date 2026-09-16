@@ -13,7 +13,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Création', value: 3, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 6, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Temps', value: 1, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Etre', value: 4, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Condition humaine', value: 4, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Révolte', value: 2, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 1, color: 'rgba(38, 9, 78, 1)' },
     { label: 'Neige', value: 4, color: 'rgba(244, 254, 254, 1)' },

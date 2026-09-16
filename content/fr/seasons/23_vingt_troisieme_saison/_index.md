@@ -3,7 +3,7 @@ title = "Vingt-troisième Saison : Jamais trop"
 weight = 23
 type = "seasonIndex"
 description = """
-La foi, exacerbée par la période jusqu'à Noël. L'hiver, le ciel... Aussi l'être et le temps.
+La foi, exacerbée par la période jusqu'à Noël. L'hiver, le ciel... Aussi la condition humaine et le temps.
 
 Novembre et décembre 2024"""
 +++

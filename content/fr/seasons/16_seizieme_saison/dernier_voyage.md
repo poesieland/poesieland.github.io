@@ -3,10 +3,10 @@ title = "Dernier voyage"
 id = "dernier_voyage_16"
 date = 2004-07-02
 weight = 40
-categories = ["Etre"]
-tags = ["philosophie", "2004", "alexandrin"]
+categories = [ "Etre", "Jardin et paysage" ]
+tags = [ "2004", "alexandrin", "philosophie", "nature" ]
 verseLength = 12
-locations = ["Bordeaux"]
+locations = [ "Bordeaux" ]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
@@ -30,7 +30,7 @@ Un vague paradis de troncs tordus et d'affres.
  \
  Je ne reprendrai plus cet étrange chemin
 
- Parsemé d'acacias. Un dernier bus hoquète,
+ Parsemé d'acacias. Un dernier bus hoquette,
 
  Emmène un voyageur ; il ne revient demain.
 

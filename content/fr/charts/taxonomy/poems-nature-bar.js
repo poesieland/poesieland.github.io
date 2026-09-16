@@ -16,7 +16,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Divina (13) 1999', value: 12, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Au long cours (14) 1999-2001', value: 13, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'De place en place (15) 2001', value: 13, color: 'rgba(119, 181, 254, 0.5)' },
-    { label: 'Plus loin (16) 2002-04', value: 17, color: 'rgba(119, 181, 254, 0.5)' },
+    { label: 'Plus loin (16) 2002-04', value: 19, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 11, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 19, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Destination bonheur (19) 2024', value: 17, color: 'rgba(119, 181, 254, 0.5)' },

@@ -6,7 +6,7 @@ La répartition par année permet de mieux voir la fluctuation de mes centres d'
 
 On y distingue certaines années ou périodes :
 - les débuts ([1994](../tags/1994/)) marqués par la [révolte](../categories/révolte/) adolescente
-- [1998](../tags/1998/) orienté [création](../categories/création/), [être](../categories/etre/), [musique et chant](../categories/musique-et-chant/)
+- [1998](../tags/1998/) orienté [création](../categories/création/), [condition humaine](../categories/etre/), [musique et chant](../categories/musique-et-chant/)
 - [1999](../tags/1999/) évoluant vers [musique et chant](../categories/musique-et-chant/), [foi](../categories/foi/) et [temps](../categories/temps/)
 - [2000](../tags/2000/) axé sur le [temps](../categories/temps/)
 - [2002](../tags/2002/) pauvre en poèmes, évoquant [amour](../tags/amour/) et [attitudes](../tags/attitudes/)

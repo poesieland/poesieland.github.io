@@ -3,8 +3,8 @@ title = "Je t'offrirai"
 id = "je_t_offrirai_6"
 date = 1998-05-26
 weight = 39
-categories = [ "Etre" ]
-tags = [ "1998", "hexasyllabe", "philosophie", "refrain" ]
+categories = [ "Passion" ]
+tags = [ "1998", "hexasyllabe", "refrain", "amour" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

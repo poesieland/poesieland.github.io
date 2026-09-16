@@ -4,7 +4,7 @@ title = "Associations privilégiées"
 - [Temps](/categories/temps)
 - [Angoisse](/categories/angoisse)
 - [Portraits](/categories/portraits)
-- [Etre](/categories/etre)
+- [Condition humaine](/categories/etre)
 - [Climat](/categories/climat)
 - [Création](/categories/création)
 - [Révolte](/categories/révolte)

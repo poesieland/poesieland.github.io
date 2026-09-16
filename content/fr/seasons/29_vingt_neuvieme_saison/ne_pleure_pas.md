@@ -7,6 +7,7 @@ verseLength: 6
 divider: ""
 categories:
     - Etre
+    - Espoir
 tags:
     - "2025"
     - philosophie

@@ -7,6 +7,7 @@ verseLength: 6
 divider: ""
 categories:
     - Etre
+    - Espoir
 tags:
     - "2025"
     - hexasyllabe
@@ -32,7 +33,7 @@ Et puis... certains sont morts.
  \
 Un Noël vrai, qui m'aille
 
-Dans ou frou-frou de blanc,
+Dans un frou-frou de blanc,
 
 Et puis... un temps de faille
 
@@ -54,7 +55,7 @@ Présents trop abondants
 
 Et puis... tant de détresses
 
-Aux jours grid des perdants.
+Aux jours gris des perdants.
 
  \
 Un Noël où l'on donne
