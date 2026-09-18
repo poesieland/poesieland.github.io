@@ -1,0 +1,15 @@
+{
+  "$schema": "https://frontmatter.codes/config/taxonomy.customtaxonomies.schema.json",
+  "id": "locationTaxonomy",
+  "options": [
+    "Lorraine",
+    "Reims",
+    "Paris",
+    "Bordeaux",
+    "Charleroi",
+    "Mont des Cats",
+    "Côte atlantique",
+    "Alpes",
+    "Où je n'ai pas été"
+  ]
+}
