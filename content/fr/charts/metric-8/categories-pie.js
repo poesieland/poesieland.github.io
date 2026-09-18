@@ -16,7 +16,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Foi', value: 20, color: 'rgba(203, 93, 241, 1)' },
     { label: 'Portraits', value: 25, color: 'rgba(179, 51, 233, 1)' },
     { label: 'Temps', value: 73, color: 'rgba(140, 7, 221, 1)' },
-    { label: 'Condition humaine', value: 38, color: 'rgba(105, 16, 168, 1)' },
+    { label: 'Condition humaine', value: 39, color: 'rgba(105, 16, 168, 1)' },
     { label: 'Apprentissage', value: 21, color: 'rgba(70, 24, 115, 1)' },
     { label: 'Révolte', value: 16, color: 'rgba(61, 0, 102, 1)' },
     { label: 'Angoisse', value: 27, color: 'rgba(38, 9, 78, 1)' },

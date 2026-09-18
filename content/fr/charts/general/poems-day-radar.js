@@ -240,7 +240,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 11 },
     { label: '', value: 8 },
     { label: '', value: 11 },
-    { label: '', value: 5 },
+    { label: '', value: 7 },
     { label: '', value: 4 },
     { label: '', value: 7 },
     { label: '', value: 4 },
