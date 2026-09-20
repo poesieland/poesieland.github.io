@@ -2,9 +2,9 @@
 title = "Associations privilégiées"
 +++
 - [Temps](/categories/temps)
+- [Félinement vôtre](/categories/félinement-vôtre)
 - [Condition humaine](/categories/etre)
 - [Ciel](/categories/ciel)
-- [Félinement vôtre](/categories/félinement-vôtre)
 - [Hiver](/categories/hiver)
 - [Espoir](/categories/espoir)
 - [Eté](/categories/eté)
