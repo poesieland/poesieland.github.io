@@ -15,7 +15,7 @@ tags = [
 ]
 info = "Métrique variable : 6, 3"
 description = "Novembre à pas compté"
-pictures = [ "Le Ravel le 3 novembre 2023", "Le Ravel le 3 novembre 2023" ]
+pictures = [ "Le Ravel le 3 novembre 2023" ]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 wordcloud = "Novembre à pas compté"
@@ -66,5 +66,3 @@ En balade,
 Généreux par bonté.
 
 {{< figure src="/images/automne_genereux_18_0.jpg" title="Le Ravel le 3 novembre 2023" >}}
-
-{{< figure src="/images/automne_genereux_18_1.jpg" title="Le Ravel le 3 novembre 2023" >}}

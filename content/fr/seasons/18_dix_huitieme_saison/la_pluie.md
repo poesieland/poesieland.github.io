@@ -3,8 +3,8 @@ title = "La pluie"
 id = "la_pluie_18"
 date = 2023-11-13
 weight = 20
-categories = ["Eau douce", "Climat"]
-tags = ["nature", "2023", "hexasyllabe"]
+categories = [ "Eau douce", "Climat" ]
+tags = [ "2023", "hexasyllabe", "nature", "refrain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

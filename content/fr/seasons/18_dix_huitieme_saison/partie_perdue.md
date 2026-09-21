@@ -3,8 +3,8 @@ title = "Partie perdue"
 id = "partie_perdue_18"
 date = 2024-01-13
 weight = 47
-categories = ["Portraits"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+categories = [ "Apprentissage" ]
+tags = [ "philosophie", "2024", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

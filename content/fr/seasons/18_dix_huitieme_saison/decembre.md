@@ -6,11 +6,12 @@ weight = 30
 categories = [ "Hiver" ]
 tags = [
   "2023",
+  "anniversaire",
   "décembre",
   "les mois",
   "octosyllabe",
   "saisons",
-  "anniversaire"
+  "noël"
 ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

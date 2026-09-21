@@ -6,7 +6,7 @@ date: 2023-12-17
 verseLength: 11
 divider: ""
 categories:
-    - Temps
+    - Apprentissage
 tags:
     - "2023"
     - philosophie

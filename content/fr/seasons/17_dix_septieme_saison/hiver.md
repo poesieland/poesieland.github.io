@@ -15,7 +15,7 @@ Ils n'ont pas de sens peut-être
 
 Les verbes mourir et naître.
 
-Bientôt commence l'Avant.
+Bientôt commence l'Avent.
 
  \
 Quelquefois c'est mon refuge :
