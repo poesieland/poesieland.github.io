@@ -1,11 +1,11 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Premiers élans (1) 1994-96', value: 4, color: 'rgba(250, 152, 70, 0.5)' },
+    { label: 'Premiers élans (1) 1994-96', value: 5, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Tableaux (2) 1996', value: 1, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Vivace (3) 1997', value: 2, color: 'rgba(250, 152, 70, 0.5)' },
-    { label: 'Rêves (4) 1997', value: 5, color: 'rgba(250, 152, 70, 0.5)' },
-    { label: 'Espaces de vie (5) 1997-98', value: 3, color: 'rgba(250, 152, 70, 0.5)' },
+    { label: 'Rêves (4) 1997', value: 6, color: 'rgba(250, 152, 70, 0.5)' },
+    { label: 'Espaces de vie (5) 1997-98', value: 4, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Sur le chemin (6) 1998', value: 5, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Croire (7) 1998', value: 6, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Reflets perdus (8) 1998', value: 9, color: 'rgba(250, 152, 70, 0.5)' },
@@ -19,7 +19,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Plus loin (16) 2002-04', value: 5, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Traversées (17) 2004-23', value: 3, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Retour aux sources (18) 2023-24', value: 4, color: 'rgba(250, 152, 70, 0.5)' },
-    { label: 'Destination bonheur (19) 2024', value: 0, color: 'rgba(250, 152, 70, 0.5)' },
+    { label: 'Destination bonheur (19) 2024', value: 1, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Le temps qui nous reste (20) 2024', value: 9, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 2, color: 'rgba(250, 152, 70, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 1, color: 'rgba(250, 152, 70, 0.5)' },

@@ -3,8 +3,8 @@ title = "Mon amour"
 id = "mon_amour_23"
 date = 2024-12-30
 weight = 49
-categories = ["Romantisme", "Toucher"]
-tags = ["amour", "attitudes", "2024", "hexasyllabe"]
+categories = [ "Romantisme", "Au contact" ]
+tags = [ "amour", "attitudes", "2024", "hexasyllabe" ]
 info = "Parce que trottaient dans ma tête [cette chanson de Patrick Bruel et même l'album éponyme](https://www.google.com/search?q=juste+avant+patrick+bruel&oq=juste+avant+patrick+bruel)"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

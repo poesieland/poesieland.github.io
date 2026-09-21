@@ -3,8 +3,8 @@ title = "Le marron"
 id = "le_marron_5"
 date = 1997-09-20
 weight = 37
-categories = ["Flore"]
-tags = ["nature", "1997", "hexasyllabe"]
+categories = [ "Flore", "Au contact" ]
+tags = [ "1997", "hexasyllabe", "nature", "attitudes" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

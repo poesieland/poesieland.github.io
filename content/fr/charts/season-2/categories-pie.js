@@ -23,7 +23,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 1, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 1, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 2, color: 'rgba(4, 139, 154, 1)' },
-    { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Automne', value: 9, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];

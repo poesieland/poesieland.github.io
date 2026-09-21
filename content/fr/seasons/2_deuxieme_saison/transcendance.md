@@ -3,8 +3,8 @@ title = "Transcendance"
 id = "transcendance_2"
 date = 1996-11-13
 weight = 30
-categories = ["Toucher"]
-tags = ["attitudes", "1996", "alexandrin"]
+categories = [ "Au contact" ]
+tags = [ "attitudes", "1996", "alexandrin" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

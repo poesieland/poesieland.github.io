@@ -3,8 +3,8 @@ title = "La pêche"
 id = "la_peche_4"
 date = 1997-08-23
 weight = 47
-categories = ["Flore"]
-tags = ["nature", "1997", "hexasyllabe"]
+categories = [ "Au contact" ]
+tags = [ "1997", "hexasyllabe", "attitudes" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

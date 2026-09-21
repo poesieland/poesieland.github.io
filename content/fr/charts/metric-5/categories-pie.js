@@ -28,7 +28,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Climat', value: 8, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 10, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 3, color: 'rgba(250, 152, 70, 1)' },
-    { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Félinement vôtre', value: 38, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 5, color: 'rgba(130, 196, 108, 1)' },
