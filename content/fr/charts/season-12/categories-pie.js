@@ -20,7 +20,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Eau douce', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 3, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Musique et chant', value: 11, color: 'rgba(252, 191, 140, 1)' },
-    { label: 'Toucher', value: 2, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 2, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];

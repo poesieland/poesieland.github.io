@@ -21,7 +21,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Musique et chant', value: 11, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 4, color: 'rgba(250, 152, 70, 1)' },
-    { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Printemps', value: 2, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },
   ];

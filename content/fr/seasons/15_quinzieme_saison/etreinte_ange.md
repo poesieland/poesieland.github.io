@@ -3,8 +3,14 @@ title = "Etreinte - ange"
 id = "etreinte_ange_15"
 date = 2001-09-11
 weight = 29
-categories = ["Toucher", "Temps"]
-tags = ["attitudes", "philosophie", "2001", "acrostiche", "octosyllabe"]
+categories = [ "Temps", "Au contact" ]
+tags = [
+  "attitudes",
+  "philosophie",
+  "2001",
+  "acrostiche",
+  "octosyllabe"
+]
 acrostiche = "Etreinte - ange"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"

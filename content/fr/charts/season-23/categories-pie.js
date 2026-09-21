@@ -24,7 +24,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Faune', value: 1, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
-    { label: 'Toucher', value: 1, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 9, color: 'rgba(24, 57, 30, 1)' },
   ];

@@ -3,8 +3,8 @@ title = "Le baiser"
 id = "le_baiser_4"
 date = 1997-08-21
 weight = 18
-categories = ["Toucher", "Passion"]
-tags = ["attitudes", "amour", "1997", "octosyllabe"]
+categories = [ "Passion", "Au contact" ]
+tags = [ "attitudes", "amour", "1997", "octosyllabe" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

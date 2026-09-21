@@ -20,7 +20,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 1, color: 'rgba(4, 139, 154, 1)' },
     { label: 'Musique et chant', value: 7, color: 'rgba(252, 191, 140, 1)' },
-    { label: 'Toucher', value: 2, color: 'rgba(244, 114, 5, 1)' },
+    { label: 'Au contact', value: 2, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Automne', value: 2, color: 'rgba(27, 79, 8, 1)' },
   ];

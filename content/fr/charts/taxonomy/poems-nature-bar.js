@@ -1,10 +1,10 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Premiers élans (1) 1994-96', value: 16, color: 'rgba(119, 181, 254, 0.5)' },
+    { label: 'Premiers élans (1) 1994-96', value: 15, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Tableaux (2) 1996', value: 14, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Vivace (3) 1997', value: 11, color: 'rgba(119, 181, 254, 0.5)' },
-    { label: 'Rêves (4) 1997', value: 11, color: 'rgba(119, 181, 254, 0.5)' },
+    { label: 'Rêves (4) 1997', value: 10, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Espaces de vie (5) 1997-98', value: 12, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Sur le chemin (6) 1998', value: 4, color: 'rgba(119, 181, 254, 0.5)' },
     { label: 'Croire (7) 1998', value: 5, color: 'rgba(119, 181, 254, 0.5)' },
