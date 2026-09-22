@@ -20,8 +20,8 @@ Venez ensuite rejoindre le groupe humoristique de qualité [Société secrète d
 
 {{< figure src="/images/le_siamois_32_0.jpg" title="Mars 2026" >}}
 
+{{< chartjs id="poems-felinement_votreBar" width="90%" jsFile="../../charts/taxonomy/poems-felinement_votre-bar.js" />}}
+
 ## Sans oublier une facétie
 
 [Le mini-thème drôle *Gare au(x) chat(s)...*](../../tags/gare-au-chat).
-
-{{< chartjs id="poems-felinement_votreBar" width="90%" jsFile="../../charts/taxonomy/poems-felinement_votre-bar.js" />}}

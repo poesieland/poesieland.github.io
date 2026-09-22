@@ -19,3 +19,5 @@ Avec le temps, des expressions que j'aime utiliser encore et encore :
 *Gare au chat qui clame...*
 
 {{< chartjs id="poemDay-gare_au_chatRadar" width="75%" jsFile="../../charts/taxonomy/poems-day-gare-au-chat-radar.js" />}}
+
+{{< chartjs id="poems-felinement_votreBar" width="90%" jsFile="../../charts/taxonomy/poems-felinement_votre-bar.js" />}}
