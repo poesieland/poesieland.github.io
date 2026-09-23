@@ -1,14 +1,16 @@
 +++
 title = "Poésieland"
 type = "home"
-date = 2025-12-07
+date = 2026-09-23
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
 
+A ce stade, il y aura éventuellement un chiffre romain derrière un titre déjà utilisé.
+
 ## A lire et relire
 
-Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/original_texts?lang=en).
+Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/original_texts?lang=en). 
 
 {{% notice title="Derniers poèmes ajoutés" style="note" color="" icon="" %}}
 {{% include "./includes/last_poems.md" true %}}
@@ -22,13 +24,13 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 ## Pourquoi la poésie ?
 
-Au début de l'année [2024](./tags/2024/), quand s'ouvrait la [dix-neuvième Saison](./seasons/19_dix_neuvieme_saison), je me suis posé quelques questions et ai picoré au hasard de Google : pourquoi la poésie, et que devient-elle de nos jour ?
+Au début de l'année [2024](./tags/2024/) j'ai picoré quelques réponses au hasard de Google à ces questions : pourquoi la poésie, et que devient-elle de nos jour ?
 
-Déjà en 1866, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait des travers, tels que les poètes qui écrivent plus sur leurs émotions en mode nombriliste, alors qu'il y aurait aussi un rôle de transmettre un message plutôt qu'uniquement des émotions. L'époque n'est plus ce qu'elle était, plus personne n'irait écrire de pièce de théâtre versifiée, et j'imagine que l'exercice est à la portée de peu de monde.
+En 1866 déjà, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait les poètes qui écrivent en mode nombriliste, et selon lui négligent le rôle de transmettre un message, en plus des émotions. L'époque n'étant plus ce qu'elle était, plus personne n'irait écrire de pièce de théâtre versifiée, et j'imagine que l'exercice est à la portée de peu de monde.
 
-Mais je pense que si les poètes ont choisi cette forme, c'est parce que pour eux les émotions à exprimer, partager, faire éprouver, sont ce qui est le plus important pour eux dans les possibilités d'expression littéraires.
+Je pense que si les poètes ont choisi cette forme parmi les possibilités d'expression littéraires, c'est parce que, pour eux, le plus important sont les émotions à exprimer, partager, faire éprouver au lecteur.
 
-Je souscris à l'affirmation que la poésie n'est pas vendeuse mais tout un chacun l'apprécie, surtout depuis que les réseaux sociaux ont pris une telle importance centrale dans nos modes de communication [^2]. Il existe d'ailleurs via ceux-ci une très bonne promotion de nos grands auteurs classiques du XIXe siècle (l'âge d'or de la poésie ?) qui ne néglige pas d'exposer le contexte historique.
+Je souscris à l'affirmation que la poésie n'est pas vendeuse mais tout un chacun l'apprécie, surtout depuis que les réseaux sociaux ont pris une importance centrale dans nos modes de communication [^2]. Il existe d'ailleurs via ceux-ci une très bonne promotion de nos grands auteurs classiques du XIXe siècle (l'âge d'or de la poésie ?) qui ne néglige pas d'exposer le contexte historique.
 
 Il est également très intéressant de distinguer l'aspect poétique de la poésie et de la prose [^3].
 

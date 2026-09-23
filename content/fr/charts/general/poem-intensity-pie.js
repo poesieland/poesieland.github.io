@@ -1,7 +1,7 @@
 import { addPieChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: '1 poème', value: 1031, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: '1 poème', value: 1035, color: 'rgba(72, 149, 239, 0.5)' },
     { label: '2 poèmes', value: 245, color: 'rgba(72, 149, 239, 0.6)' },
     { label: '3 poèmes', value: 53, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4 poèmes', value: 10, color: 'rgba(72, 149, 239, 0.8)' },

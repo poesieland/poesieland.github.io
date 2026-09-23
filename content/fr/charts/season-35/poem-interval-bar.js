@@ -2,8 +2,9 @@ import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: 'Moins d\'un jour', value: 13, color: 'rgba(72, 149, 239, 1)' },
-    { label: 'Un jour', value: 15, color: 'rgba(72, 149, 239, 0.9)' },
-    { label: '2j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: 'Un jour', value: 17, color: 'rgba(72, 149, 239, 0.9)' },
+    { label: '2j', value: 2, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: '4j', value: 1, color: 'rgba(72, 149, 239, 0.7)' },
   ];
     addBarChart('season35PoemIntervalBar', ['Fréquence'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

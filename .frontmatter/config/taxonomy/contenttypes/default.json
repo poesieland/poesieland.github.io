@@ -58,6 +58,7 @@
       "name": "categories",
       "type": "choice",
       "multiple": true,
+      "searchable": true,
       "choices": [
         {
           "id": "Angoisse",
