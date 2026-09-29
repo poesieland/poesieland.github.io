@@ -1,9 +1,15 @@
 +++
 title = "Climat"
-date = 2026-07-27
+date = 2026-09-29
 +++
 
-Il y a des jours où le changement climatique est plus visible que d'autres.
+Depuis 2023 je témoigne du changement climatique et je souhaite m'en souvenir.
+
+En 2024, en Belgique, tout s'est emballé, souffrance par excès d'eau.
+
+2026 a été encore plus compliqué, et même effroyable. Tout l'inverse de 2024. Des mois de sécheresse.
+
+J'aime particulièrement ce [poème écrit à l'été, en pensant aux pompiers](../../seasons/33_trente_troisieme_saison/de_bout_en_bout).
 
 En mai 2024 je me faisais la réflexion suivante, avant d'inaugurer cette catégorie trois mois plus tard : 
 
@@ -13,9 +19,7 @@ En mai 2024 je me faisais la réflexion suivante, avant d'inaugurer cette catég
 
 *J'ai été surprise d'avoir déjà ressenti avec acuité une [canicule passée](../seasons/17_dix_septieme_saison/tribut) en 2005.*
 
-La canicule de 2003, je l'ai vécue, mais je n'en ai rien retenu...
-
-Depuis 2024, nous avons vécu plusieurs épisodes particuliers, d'excès (d'eau, de chaleur, d'incendies, à ce sujet je ne pensais pas que l'été 2026 serait si effroyable, j'aime particulièrement ce [poème écrit en pensant aux pompiers](../../seasons/33_trente_troisieme_saison/de_bout_en_bout)), de manque (d'eau). On commence à s'y habituer, mais témoigner est essentiel.
+La canicule de 2003, je l'ai vécue, mais je n'en ai rien retenu...-
 
 Les catégories les plus associées au climat :
 

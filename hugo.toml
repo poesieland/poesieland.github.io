@@ -60,10 +60,6 @@ disableBreadcrumb = false
 disableRootBreadcrumb = true
 # If set to true, hide table of contents menu in the header of all pages
 disableToc = false
-# Specifies the remote location of the MathJax js
-customMathJaxURL = 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js'
-# Initialization parameter for MathJax, see MathJax documentation
-mathJaxInitialize = '{}'
 # If set to true, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
 mermaid.force = false
 # Specifies the remote location of the Mermaid js
