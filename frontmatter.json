@@ -18,5 +18,21 @@
   "frontMatter.file.preserveCasing": true,
   "frontMatter.snippets.wrapper.enabled": false,
   "frontMatter.copilot.enabled": false,
-  "frontMatter.file.slugSeparator": "_"
+  "frontMatter.file.slugSeparator": "_",
+  "frontMatter.taxonomy.customTaxonomy": [
+    {
+      "id": "locationTaxonomy",
+      "options": [
+        "Lorraine",
+        "Reims",
+        "Paris",
+        "Bordeaux",
+        "Charleroi",
+        "Mont des Cats",
+        "Côte atlantique",
+        "Alpes",
+        "Où je n'ai pas été"
+      ]
+    }
+  ]
 }
