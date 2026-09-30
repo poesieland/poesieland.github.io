@@ -7,7 +7,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Passion', value: 20, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 16, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Lune', value: 10, color: 'rgba(252, 215, 87, 1)' },
-    { label: 'Ville', value: 2, color: 'rgba(139, 91, 41, 1)' },
+    { label: 'Ville', value: 3, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Crépuscule', value: 23, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 8, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 15, color: 'rgba(247, 235, 253, 1)' },

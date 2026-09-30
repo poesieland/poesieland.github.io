@@ -149,9 +149,35 @@ main.other-perspectives ul.children li::before {
   margin-right: 0.5rem;
 }
 
-div.caption {
+/* Custom figure captions */
+#R-body div.caption {
     text-align: center;
     font-weight: 500;
+}
+
+/* Figures */
+#R-body figure {
+    width: 900px;
+    max-width: 100%;
+}
+
+/* Images */
+#R-body figure > img {
+    display: block;
+    width: 600px;
+    max-width: 100%;
+}
+
+/* Captions */
+#R-body figure > figcaption {
+    width: 600px;
+    max-width: 100%;
+    margin-inline: auto;
+}
+
+#R-body figure > figcaption > h4 {
+    margin: 0;
+    font-size: 1.25rem;
 }
 
 .gdoc-columns {

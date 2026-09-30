@@ -6,7 +6,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mercredi', value: 237, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Jeudi', value: 205, color: 'rgba(72, 149, 239, 0.6)' },
     { label: 'Vendredi', value: 231, color: 'rgba(72, 149, 239, 0.7)' },
-    { label: 'Samedi', value: 283, color: 'rgba(72, 149, 239, 0.8)' },
+    { label: 'Samedi', value: 285, color: 'rgba(72, 149, 239, 0.8)' },
     { label: 'Dimanche', value: 319, color: 'rgba(72, 149, 239, 0.9)' },
   ];
   addPieChart('poemDayOfWeekPie', [data], { plugins: { title: { display: true, text: 'Par jour de la semaine' } } });

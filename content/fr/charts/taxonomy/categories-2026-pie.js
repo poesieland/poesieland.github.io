@@ -6,7 +6,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Passion', value: 3, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 9, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Lune', value: 3, color: 'rgba(252, 215, 87, 1)' },
-    { label: 'Ville', value: 1, color: 'rgba(139, 91, 41, 1)' },
+    { label: 'Ville', value: 2, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Crépuscule', value: 9, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 1, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 14, color: 'rgba(247, 235, 253, 1)' },
@@ -32,7 +32,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 26, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 16, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 24, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 14, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 15, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('categories2026Pie', [data], { plugins: { title: { display: true, text: '2026' } } });
