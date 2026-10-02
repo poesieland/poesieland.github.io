@@ -55,27 +55,29 @@ Each array item needs the following layout:
 */
 
 (function () {
- let lunrIndex, pagesIndex;
+  let lunrIndex, pagesIndex;
 
   function init() {
+    var contentLangs = JSON.parse(document.querySelector('#R-search-lunr-config').textContent).contentLangs;
+
     function initIndex(index) {
-    if (!window.lunr) {
+      if (!window.lunr) {
         return;
       }
-    pagesIndex = index;
-    // Set up Lunr by declaring the fields we use
-    // Also provide their boost level for the ranking
-    lunrIndex = lunr(function () {
-        this.use(lunr.multiLanguage.apply(null, window.relearn.contentLangs));
+      pagesIndex = index;
+      // Set up Lunr by declaring the fields we use
+      // Also provide their boost level for the ranking
+      lunrIndex = lunr(function () {
+        this.use(lunr.multiLanguage.apply(null, contentLangs));
         this.ref('index');
         this.field('title', {
-            boost: 15
+          boost: 15,
         });
         this.field('tags', {
-            boost: 10
+          boost: 10,
         });
         this.field('content', {
-            boost: 5
+          boost: 5,
         });
 
         this.pipeline.remove(lunr.stemmer);
@@ -83,30 +85,33 @@ Each array item needs the following layout:
 
         // Feed Lunr with each file and let index them
         pagesIndex.forEach(function (page, idx) {
-            page.index = idx;
-            this.add(page);
+          page.index = idx;
+          this.add(page);
         }, this);
-    });
+      });
 
-    window.relearn.isSearchEngineReady = true;
-    window.relearn.executeInitialSearch();
-}
+      window.relearn.isSearchEngineReady = true;
+      window.relearn.executeInitialSearch();
+    }
 
     if (window.relearn.index_js_url) {
-        var js = document.createElement('script');
-        js.src = window.relearn.index_js_url;
-        js.setAttribute('async', '');
-        js.onload = function () {
-            initIndex(relearn_searchindex);
-        };
-        js.onerror = function (e) {
-            console.error('Error getting Hugo index file');
-        };
-        document.head.appendChild(js);
+      var js = document.createElement('script');
+      js.src = window.relearn.index_js_url;
+      if (window.relearn.index_js_integrity) {
+        js.integrity = window.relearn.index_js_integrity;
+      }
+      js.setAttribute('async', '');
+      js.addEventListener('load', function () {
+        initIndex(relearn_searchindex);
+      });
+      js.addEventListener('error', function (e) {
+        console.error('Error getting Hugo index file');
+      });
+      document.head.appendChild(js);
     }
-}
+  }
 
-function search(term) {
+  function search(term) {
 
 /**
  * This is Barbara Post's contribution that better suits my search needs.
@@ -153,10 +158,10 @@ function useExactSearch(searchTerm) {
     return { exactSearch: false, searchTokens: searchTokens }
 }
 
-function searchPatterns(word) {
-    // for short words high amounts of typos doesn't make sense
-    // for long words we allow less typos because this largely increases search time
-    var typos = [
+    function searchPatterns(word) {
+      // for short words high amounts of typos doesn't make sense
+      // for long words we allow less typos because this largely increases search time
+      var typos = [
         { len: -1, typos: 1 },
         { len: 60, typos: 2 },
         { len: 40, typos: 3 },
@@ -165,26 +170,26 @@ function searchPatterns(word) {
         { len: 12, typos: 2 },
         { len: 8, typos: 1 },
         { len: 4, typos: 0 },
-    ];
-    return [
+      ];
+      return [
         word + '^100',
         word + '*^10',
         '*' + word + '^10',
         word +
-        '~' +
-        typos.reduce(function (a, c, i) {
-          return word.length < c.len ? c : a;
-        }).typos +
-        '^1',
-        ];
-}
+          '~' +
+          typos.reduce(function (a, c, i) {
+            return word.length < c.len ? c : a;
+          }).typos +
+          '^1',
+      ];
+    }
 
     // Find the item in our index corresponding to the Lunr one to have more info
     // Remove Lunr special search characters: https://lunrjs.com/guides/searching.html
     if (!window.lunr) {
       return [];
     }
-    // term = term.replace(/[*:^~+-]/g, ' ');
+   // term = term.replace(/[*:^~+-]/g, ' ');
     term = term.replace(/[:^~+]/g, ' '); // Keep hyphen and wildcard signs.
     var useExactSearchAndSearchTokens = useExactSearch(term);
     var searchTerm = '';
@@ -194,8 +199,8 @@ function searchPatterns(word) {
     } else {
         searchTerm = useExactSearchAndSearchTokens.searchTokens.reduce(function (a, token) { return a.concat(searchPatterns(token.str)) }, []).join(' ');
     }
-
-    return !searchTerm || !lunrIndex
+    
+     return !searchTerm || !lunrIndex
       ? []
       : lunrIndex.search(searchTerm).map(function (result) {
           return { index: result.ref, matches: [term, ...Object.keys(result.matchData.metadata)], page: pagesIndex[result.ref] };

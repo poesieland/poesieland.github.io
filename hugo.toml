@@ -1,5 +1,4 @@
 baseURL = 'https://poesieland.github.io/'
-languageCode = 'fr-FR'
 title = 'Poesieland'
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -128,7 +127,8 @@ minify = true
 
 [Languages]
     [Languages.en]
-        languageName = 'English'
+        label = 'English'
+        locale = 'en-US'
         contentDir = 'content/en'
         title = 'Poesieland'
         weight = 2
@@ -161,7 +161,8 @@ minify = true
             weight = 90
 
     [Languages.fr]
-        languageName = 'Français'
+        label = 'Français'
+        locale = 'fr-FR'
         contentDir = 'content/fr'
         title = 'Poésieland'
         weight = 1
