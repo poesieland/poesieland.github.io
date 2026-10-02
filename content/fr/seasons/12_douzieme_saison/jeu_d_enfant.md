@@ -31,6 +31,6 @@ Nous avons perdu l'enfance,
 
 Tu clochette en sa brillance.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Jeu d'enfant.
-{{% /notice %}}
+{{% /callout %}}

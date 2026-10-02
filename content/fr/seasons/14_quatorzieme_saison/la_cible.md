@@ -27,6 +27,6 @@ Etrange œil incandescent
 
 Riant s'abat sur chaque cible.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rinascer' ("renaître" en italien).
-{{% /notice %}}
+{{% /callout %}}

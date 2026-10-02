@@ -37,6 +37,6 @@ Un vent froid s'emporte de mots fourbes
 
 Renvoyés, un amour à tisser.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sais-tu l'amour...
-{{% /notice %}}
+{{% /callout %}}

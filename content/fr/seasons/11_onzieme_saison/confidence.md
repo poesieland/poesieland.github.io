@@ -30,6 +30,6 @@ Cette mesure à la taille du temps
 
 En confidence, une note : printemps.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Confidence.
-{{% /notice %}}
+{{% /callout %}}

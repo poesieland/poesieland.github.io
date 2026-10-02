@@ -42,6 +42,6 @@ Aspiré, s'avalise :
 
 Une chorale, élan !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sauvée à nouveau.
-{{% /notice %}}
+{{% /callout %}}

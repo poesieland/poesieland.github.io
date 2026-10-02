@@ -36,6 +36,6 @@ Vite jeté c'est un bon sort
 
 Vers plus d'amour et d'allégresse !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

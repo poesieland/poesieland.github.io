@@ -22,6 +22,6 @@ Intime l'assassin d'automne, d'un murmure
 
 Ne regrette qu'un cœur, oiseau sans sépulture.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dessin.
-{{% /notice %}}
+{{% /callout %}}

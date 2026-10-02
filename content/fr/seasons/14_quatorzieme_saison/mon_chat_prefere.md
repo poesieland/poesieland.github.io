@@ -40,6 +40,6 @@ Reviens mon chat, mon infidèle !
 
 En ton âme quelle hirondelle ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mon chat préféré.
-{{% /notice %}}
+{{% /callout %}}

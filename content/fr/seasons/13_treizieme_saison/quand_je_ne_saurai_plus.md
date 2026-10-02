@@ -37,6 +37,6 @@ Ou sans plus goût chérir
 
 Erreurs venant de l'incréable.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Quanto tempo è.
-{{% /notice %}}
+{{% /callout %}}

@@ -8,9 +8,9 @@ categories = [ "Hope" ]
 +++
 
 
-{{% notice style="grey" %}}
+{{% callout style="grey" %}}
 The only poem I wrote in Italian
-{{% /notice %}}
+{{% /callout %}}
 
 {{< columns >}}
 

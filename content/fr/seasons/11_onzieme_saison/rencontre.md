@@ -27,6 +27,6 @@ Sombre nœud sur le gypse
 
 Etreint tout l'horizon.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'éclipse.
-{{% /notice %}}
+{{% /callout %}}

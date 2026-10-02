@@ -39,6 +39,6 @@ Pépient et séduisent, sauvages.
 
 Soyeux, des papillons volages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Solos, printemps.
-{{% /notice %}}
+{{% /callout %}}

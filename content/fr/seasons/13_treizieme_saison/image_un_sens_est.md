@@ -41,6 +41,6 @@ Saura briser dans l'âme
 
 Toi l'homme, moi la femme ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Image, un sens est.
-{{% /notice %}}
+{{% /callout %}}

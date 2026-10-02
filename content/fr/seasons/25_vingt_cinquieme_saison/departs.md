@@ -37,6 +37,6 @@ Ont brûlé, calligrammes, arts, temps
 
 Revenu d'un monde qui s'altère.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

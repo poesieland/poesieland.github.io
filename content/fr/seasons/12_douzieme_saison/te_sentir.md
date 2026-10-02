@@ -27,6 +27,6 @@ Invite-moi ! Tu veux que je sois ton étoile,
 
 Ris avec moi, l'amour en nos âmes, nos peaux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Te sentir.
-{{% /notice %}}
+{{% /callout %}}

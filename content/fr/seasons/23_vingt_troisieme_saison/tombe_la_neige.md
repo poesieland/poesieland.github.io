@@ -49,6 +49,6 @@ Tombe la neige autour en ronde,
 
 Riant !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la même saison](../23_vingt_troisieme_saison/chant_de_la_neige).
-{{% /notice %}}
+{{% /callout %}}

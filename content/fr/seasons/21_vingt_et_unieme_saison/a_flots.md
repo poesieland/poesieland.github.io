@@ -22,6 +22,6 @@ Tant de rêve apaisé murmure, dans la brise,
 
 Saltimbanque un matin ne connaît pas la crise.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A flots.
-{{% /notice %}}
+{{% /callout %}}

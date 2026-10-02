@@ -15,7 +15,7 @@ De mars 2002 à octobre 2004"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_16.md" true %}}
 

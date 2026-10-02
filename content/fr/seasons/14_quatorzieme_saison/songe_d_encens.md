@@ -36,6 +36,6 @@ N'est-ce qu'un pays de passage ?
 
 Surprendre un monde à son début.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Songe d'encens.
-{{% /notice %}}
+{{% /callout %}}

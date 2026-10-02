@@ -54,6 +54,6 @@ Pour clore un horizon :
 
 Souvenir s'exacerbe !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
-{{% /notice %}}
+{{% /callout %}}

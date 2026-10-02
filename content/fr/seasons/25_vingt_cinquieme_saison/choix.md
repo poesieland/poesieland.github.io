@@ -36,6 +36,6 @@ Cèdera t-il ? Cela nous mène
 
 A tant de choix, ainsi soit-il !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Vous avez reconnu la référence à [un oiseau voisin, évoqué par mon poète préféré](https://www.google.com/search?q=baudelaire+l%27albatros).
-{{% /notice %}}
+{{% /callout %}}

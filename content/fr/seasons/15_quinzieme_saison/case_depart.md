@@ -41,6 +41,6 @@ Rêve nous charrie en des fauves
 
 Terreurs ; un chat rit d'ombres mauves.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Case départ.
-{{% /notice %}}
+{{% /callout %}}

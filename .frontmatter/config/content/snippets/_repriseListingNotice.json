@@ -1,9 +1,9 @@
 {
   "description": "Displays a primary styled notice for specific listing inclusion",
   "body": [
-    "{{% notice style=\"primary\" %}}",
+    "{{% callout style=\"primary\" %}}",
     "{{% include \"../../includes/[[&specificListing]]\" hidefirstheading %}}",
-    "{{% /notice %}}"
+    "{{% /callout %}}"
   ],
   "fields": [
     {

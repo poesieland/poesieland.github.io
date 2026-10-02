@@ -46,8 +46,8 @@ Nécrose de l'âme au rocher du non-être
 
 Adieu ! Tu ne sais que je ne te revois !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Une page se tourne" en italien.
 
 Acrostiche : Una pagina si torna.
-{{% /notice %}}
+{{% /callout %}}

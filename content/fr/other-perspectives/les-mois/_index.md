@@ -9,4 +9,4 @@ On peut ressentir leur cours au fil des jours et fièrement tourner les pages du
 
 Voici donc les nouvelles vedettes : les mois. Pas tout à fait des vedettes, seule une centaine de poèmes fait référence à un mois ou à un autre, dans toute sa saveur ou son imaginaire.
 
-{{% children description="false" type="card" %}}
+{{% pages description="false" display="cards" %}}

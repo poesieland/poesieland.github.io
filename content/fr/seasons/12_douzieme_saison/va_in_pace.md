@@ -35,8 +35,8 @@ Ce qu'on attend encore
 
 En sacre : souvenir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Va in pace.
 
 Inspiré par [la chanson "Sogno" d'Andrea Bocelli](https://www.youtube.com/watch?v=4KCxfu9q8_g).
-{{% /notice %}}
+{{% /callout %}}

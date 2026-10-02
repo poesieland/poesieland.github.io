@@ -63,8 +63,8 @@ Caresse en paume de ta main
 
 Elle est parole retenue...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Qu'un seul désir, un seul espoir..." (opéra Carmen).
 
 Acrostiche : Qu'un seul désir me berce.
-{{% /notice %}}
+{{% /callout %}}

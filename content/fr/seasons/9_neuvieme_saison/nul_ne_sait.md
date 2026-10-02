@@ -53,8 +53,8 @@ Réécrivent le livre
 
 Aux amours délient cieux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Nul ne le saura" en italien.
 
 Acrostiche : Non lo nessun saprà.
-{{% /notice %}}
+{{% /callout %}}

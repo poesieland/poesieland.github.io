@@ -27,6 +27,6 @@ Et sans bruit disparaît la nuance des teintes,
 
 Sur mon carreau le ciel se fait neige ici-bas.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Quelques flocons...
-{{% /notice %}}
+{{% /callout %}}

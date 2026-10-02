@@ -11,7 +11,7 @@ De mars à juin 1998"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_6.md" true %}}
 

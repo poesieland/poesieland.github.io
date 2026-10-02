@@ -56,6 +56,6 @@ Et sans désir, et sans rancoeur
 
 C'est l'au-delà qui te regarde.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise modifiée des deux premiers vers d'un [poème de la sixième saison](../6_sixieme_saison/le_dernier_rendez_vous).
-{{% /notice %}}
+{{% /callout %}}

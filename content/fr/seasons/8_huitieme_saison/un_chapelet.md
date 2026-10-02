@@ -30,6 +30,6 @@ Et l'autre rive efface chaque pont,
 
 Traces de lune en silence s'en vont.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un chapelet.
-{{% /notice %}}
+{{% /callout %}}

@@ -30,6 +30,6 @@ Ne pourront tout savoir ou croire...
 
 Souviens-toi ; rêves en mémoire.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Même le sens.
-{{% /notice %}}
+{{% /callout %}}

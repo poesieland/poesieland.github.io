@@ -38,6 +38,6 @@ Au-dessus d'incertains avenirs
 
 Du reflet pâli de notre ville.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

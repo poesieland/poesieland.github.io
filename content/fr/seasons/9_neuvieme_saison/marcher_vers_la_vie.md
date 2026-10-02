@@ -45,6 +45,6 @@ Illuminer l'été
 
 En marchant vers le cierge.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Marcher vers la vie.
-{{% /notice %}}
+{{% /callout %}}

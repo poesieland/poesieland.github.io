@@ -30,6 +30,6 @@ Accords ivres d'un désir vif,
 
 Serrés d'un bonheur fugitif !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tu resteras.
-{{% /notice %}}
+{{% /callout %}}

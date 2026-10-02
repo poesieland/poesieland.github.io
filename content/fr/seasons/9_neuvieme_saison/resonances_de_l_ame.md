@@ -45,6 +45,6 @@ Mariage subtil
 
 Entre les cœur de glaces.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Résonances de l'âme.
-{{% /notice %}}
+{{% /callout %}}

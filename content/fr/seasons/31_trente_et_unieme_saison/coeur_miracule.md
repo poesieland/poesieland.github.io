@@ -47,6 +47,6 @@ Ecoute un coeur qui ne s'arrête,
 
 Ecoute un coeur si résilient !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

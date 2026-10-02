@@ -45,6 +45,6 @@ Rends le joyau sublime
 
 En gestes baptismaux !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mais ai-je su le dire ?
-{{% /notice %}}
+{{% /callout %}}

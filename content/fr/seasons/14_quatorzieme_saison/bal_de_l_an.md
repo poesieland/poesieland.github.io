@@ -27,6 +27,6 @@ Annoncent fuite en pas satin,
 
 Né sans baptême, un millénaire.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Bal de l'an.
-{{% /notice %}}
+{{% /callout %}}

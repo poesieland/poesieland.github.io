@@ -50,6 +50,6 @@ Rêvent le vent au-dehors, cimetière.
 
 Sur le sentier sans souffle, une prière.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Jardin, dits vers.
-{{% /notice %}}
+{{% /callout %}}

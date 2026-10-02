@@ -45,6 +45,6 @@ Oublieuse et le reste est un effort
 
 Insensé quand du néant je suis proche.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je me languis de toi.
-{{% /notice %}}
+{{% /callout %}}

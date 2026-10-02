@@ -30,6 +30,6 @@ Illuminé d'une prière
 
 Trop douce, tendre en sa lumière.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lune, la nuit.
-{{% /notice %}}
+{{% /callout %}}

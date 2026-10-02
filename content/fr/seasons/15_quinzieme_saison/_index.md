@@ -13,7 +13,7 @@ D'avril à décembre 2001"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_15.md" true %}}
 

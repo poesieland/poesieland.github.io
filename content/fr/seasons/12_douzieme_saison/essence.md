@@ -46,6 +46,6 @@ Et le rêve entrouvrit son sens, la quille,
 
 Etrave bleue au vent d'un cor.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : A la place / un double.
-{{% /notice %}}
+{{% /callout %}}

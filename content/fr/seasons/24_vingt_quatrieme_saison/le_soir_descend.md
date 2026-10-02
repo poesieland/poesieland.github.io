@@ -27,6 +27,6 @@ Le soir est mûr
 
 En sa prunelle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la vingt-troisième saison](../23_vingt_troisieme_saison/le_temps_du_soir).
-{{% /notice %}}
+{{% /callout %}}

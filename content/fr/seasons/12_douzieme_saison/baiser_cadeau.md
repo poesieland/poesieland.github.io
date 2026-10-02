@@ -36,6 +36,6 @@ Ardent, cet accord,
 
 Unira son chiasme...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Baiser, cadeau.
-{{% /notice %}}
+{{% /callout %}}

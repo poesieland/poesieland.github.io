@@ -33,6 +33,6 @@ Eternité sur le rivage
 
 Unit la silhouette au décor.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : La mer : feu.
-{{% /notice %}}
+{{% /callout %}}

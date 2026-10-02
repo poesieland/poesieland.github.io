@@ -54,6 +54,6 @@ Sans voyance :
 
 Il est là !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

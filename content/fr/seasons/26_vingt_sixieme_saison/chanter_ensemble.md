@@ -49,6 +49,6 @@ L'âme en accord
 
 Chante sans faute.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En pensant à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson)).
-{{% /notice %}}
+{{% /callout %}}

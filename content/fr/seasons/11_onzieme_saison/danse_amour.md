@@ -31,6 +31,6 @@ Ululé, ce chœur vif
 
 Rythme d'amour furtif.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Danse, amour.
-{{% /notice %}}
+{{% /callout %}}

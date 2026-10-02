@@ -46,6 +46,6 @@ Né pour aimer, chante l'image
 
 Et ton souvenir qui s'en vient.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Fils d'automne.
-{{% /notice %}}
+{{% /callout %}}

@@ -30,6 +30,6 @@ Naïf, parti trop loin, il ne faut plus penser ;
 
 Eternité, l'oubli, la mémoire à panser.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : On retourne.
-{{% /notice %}}
+{{% /callout %}}

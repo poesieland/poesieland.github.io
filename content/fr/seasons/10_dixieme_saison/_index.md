@@ -11,7 +11,7 @@ De janvier 1998 à mars 1999"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_10.md" true %}}
 

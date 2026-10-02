@@ -27,6 +27,6 @@ Ta danse dit d'ombres imaginées
 
 Un soir trop tôt, le matin déjà tard...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Oseras-tu ?
-{{% /notice %}}
+{{% /callout %}}

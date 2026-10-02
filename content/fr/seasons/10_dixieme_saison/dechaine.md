@@ -35,8 +35,8 @@ Né par toi, l'ombre de mes douleurs
 
 Et j'oublierai le jour et la nuit somnambule...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Déchaîné.
 
 Inspiré par la comédie musicale "Notre-Dame de Paris".
-{{% /notice %}}
+{{% /callout %}}

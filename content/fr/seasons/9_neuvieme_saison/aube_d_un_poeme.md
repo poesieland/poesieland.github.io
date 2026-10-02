@@ -36,6 +36,6 @@ Mettant les mots à vif sous la bise d'hivers...
 
 Et l'aube d'un poème où les songes accourent...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Aube d'un poème.
-{{% /notice %}}
+{{% /callout %}}

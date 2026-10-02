@@ -36,6 +36,6 @@ Ivresse bercée, un cor
 
 Rythme le chant du pétale.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Infinir, s'unir.
-{{% /notice %}}
+{{% /callout %}}

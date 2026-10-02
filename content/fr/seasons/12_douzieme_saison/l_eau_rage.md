@@ -27,6 +27,6 @@ Gratte notre âme à vif, récite l'oraison
 
 Evanouie en pluie épaissie en sa crainte.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'eau rage.
-{{% /notice %}}
+{{% /callout %}}

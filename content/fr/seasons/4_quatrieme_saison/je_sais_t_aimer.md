@@ -36,6 +36,6 @@ Et ta blancheur m'est chère,
 
 Reviens donc à jamais !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je sais t'aimer.
-{{% /notice %}}
+{{% /callout %}}

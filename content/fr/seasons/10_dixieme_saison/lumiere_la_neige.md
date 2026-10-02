@@ -38,6 +38,6 @@ Gaie en son parfum d'un incolore rêve,
 
 Etoile la neige en sa lumière brève...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lumière, la neige.
-{{% /notice %}}
+{{% /callout %}}

@@ -28,8 +28,8 @@ Retrouver, qui créa
 
 Entre deux fois ma vie...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Oublier" en italien.
 
 Acrostiche : Scordare...
-{{% /notice %}}
+{{% /callout %}}

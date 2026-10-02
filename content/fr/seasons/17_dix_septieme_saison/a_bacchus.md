@@ -84,6 +84,6 @@ Rassemble variété.
 
 A Bacchus obéissent !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise d'un poème-chanson de 1994.
-{{% /notice %}}
+{{% /callout %}}

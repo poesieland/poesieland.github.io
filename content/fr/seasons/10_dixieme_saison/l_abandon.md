@@ -27,6 +27,6 @@ Dessiner sur la voûte une nouvelle nuit ?
 
 N'entends-tu pas ce cœur, ombre à chaque seconde ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'abandon.
-{{% /notice %}}
+{{% /callout %}}

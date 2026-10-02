@@ -13,7 +13,7 @@ D'avril à juillet 2026."""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_33.md" true %}}
 

@@ -28,6 +28,6 @@ Sans un repère, ô désarroi,
 
 Un éclat dur qui roule et danse.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Le ciel bleu roi est un souvenir d'adolescence en visite à [Tataouine](https://www.google.com/search?q=tataouine).
-{{% /notice %}}
+{{% /callout %}}

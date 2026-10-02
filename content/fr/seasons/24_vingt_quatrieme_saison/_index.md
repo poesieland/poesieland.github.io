@@ -11,7 +11,7 @@ De décembre 2024 à février 2025"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_24.md" true %}}
 

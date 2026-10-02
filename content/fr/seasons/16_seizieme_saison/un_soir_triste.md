@@ -36,6 +36,6 @@ Tout ce que je crois voir, en ce monde incroyant :
 
 Entre les bras du jour je verrai ton épure.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un soir triste.
-{{% /notice %}}
+{{% /callout %}}

@@ -45,6 +45,6 @@ Autour de la terre
 
 Roses chassent bleus.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise modifiée du premier vers d'un [poème de la douzième saison](../12_douzieme_saison/va_in_pace) car je repensais à la chanson qui l'avait inspiré.
-{{% /notice %}}
+{{% /callout %}}

@@ -37,8 +37,8 @@ Rêve, l'au-delà, ta couronne,
 
 Aura montré nos pas touchants.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Unique restera" en italien.
 
 Acrostiche : Unico resterà.
-{{% /notice %}}
+{{% /callout %}}

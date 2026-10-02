@@ -55,6 +55,6 @@ Jeunesse n'a plus cours,
 
 Mises-tu trèfle ou pique ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 J'ai atteint l'âge que mon père avait quand j'étais adolescente...
-{{% /notice %}}
+{{% /callout %}}

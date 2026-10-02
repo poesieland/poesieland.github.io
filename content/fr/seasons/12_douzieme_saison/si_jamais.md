@@ -27,6 +27,6 @@ Il reste présente une fleur en mémoire,
 
 Souviens-toi d'un jour, l'aube en ce jardin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Si jamais...
-{{% /notice %}}
+{{% /callout %}}

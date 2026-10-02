@@ -36,6 +36,6 @@ Rêve et partage encore un enfant, un ado,
 
 Et sois en toi vivant d'heureuse gratitude.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Fais ta prière.
-{{% /notice %}}
+{{% /callout %}}

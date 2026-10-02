@@ -36,6 +36,6 @@ Un souvenir soudain t'embrase
 
 Et ton sourire épelle : ... amour !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Qu'as-tu marqué ?
-{{% /notice %}}
+{{% /callout %}}

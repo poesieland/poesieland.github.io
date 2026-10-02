@@ -42,6 +42,6 @@ Intimement confiant, demain, pour découvrir
 
 En toi la volonté des heures indécises.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Don, enfant, vie.
-{{% /notice %}}
+{{% /callout %}}

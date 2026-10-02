@@ -64,6 +64,6 @@ Le prêtre a basculé,
 
 A confesse, livide.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Inspiré par [le film Conclave (2024)](https://www.google.com/search?q=film+conclave+2024)
-{{% /notice %}}
+{{% /callout %}}

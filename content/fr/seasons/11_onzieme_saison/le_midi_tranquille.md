@@ -42,6 +42,6 @@ Livre à l'au-delà
 
 Etreint, son éclat.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le midi tranquille.
-{{% /notice %}}
+{{% /callout %}}

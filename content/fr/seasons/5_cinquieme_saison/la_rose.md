@@ -54,6 +54,6 @@ Rêvent l'amour au coucher
 
 S'il faut loin l'aller chercher.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Manger le coeur d'un Eros.
-{{% /notice %}}
+{{% /callout %}}

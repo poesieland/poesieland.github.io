@@ -36,6 +36,6 @@ Un trait de feu dit l'âme
 
 Entraînée au levant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur une barque.
-{{% /notice %}}
+{{% /callout %}}

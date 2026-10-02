@@ -27,6 +27,6 @@ Etendu sur terre, pareil,
 
 Silence, à sa musique, sève.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Vertiges.
-{{% /notice %}}
+{{% /callout %}}

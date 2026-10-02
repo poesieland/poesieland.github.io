@@ -37,6 +37,6 @@ En les cieux orpailleurs
 
 La terre circonscrite.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ballet du ciel.
-{{% /notice %}}
+{{% /callout %}}

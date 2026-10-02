@@ -56,6 +56,6 @@ Souviens-toi de l'été breton,
 
 Main dans la main, ris sous le chêne !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

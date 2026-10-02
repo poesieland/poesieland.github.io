@@ -27,6 +27,6 @@ Hante ce bateau voleur,
 
 En l'écume y roule et tangue.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ta bouche.
-{{% /notice %}}
+{{% /callout %}}

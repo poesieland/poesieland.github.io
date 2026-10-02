@@ -37,6 +37,6 @@ Souffle léger berce image,
 
 Noie éther, espoir, d'un ton.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : Chênes / destin.
-{{% /notice %}}
+{{% /callout %}}

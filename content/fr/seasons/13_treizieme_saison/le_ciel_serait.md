@@ -36,6 +36,6 @@ Illumine un violon, d'un chœur
 
 Triste lune orchestre le monde.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le ciel serait.
-{{% /notice %}}
+{{% /callout %}}

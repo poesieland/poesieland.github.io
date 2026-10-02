@@ -38,6 +38,6 @@ Alors, vivre, mourir, c'est sans plus importance :
 
 Un ciel en chasse un autre en débris d'existence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mourir c'est beau.
-{{% /notice %}}
+{{% /callout %}}

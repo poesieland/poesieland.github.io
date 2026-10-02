@@ -27,6 +27,6 @@ Liberté, l'horizon
 
 Etreint le bonheur drôle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ensemble.
-{{% /notice %}}
+{{% /callout %}}

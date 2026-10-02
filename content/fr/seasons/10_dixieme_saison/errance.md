@@ -22,6 +22,6 @@ Riant dans l'évanescence
 
 Elle poursuit son errance.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Légère.
-{{% /notice %}}
+{{% /callout %}}

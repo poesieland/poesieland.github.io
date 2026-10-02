@@ -11,7 +11,7 @@ D'avril à juin 2025"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_26.md" true %}}
 

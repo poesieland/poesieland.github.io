@@ -36,6 +36,6 @@ Obélisque je nais, culmine,
 
 Intense à ton accord voleur.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je crois en toi.
-{{% /notice %}}
+{{% /callout %}}

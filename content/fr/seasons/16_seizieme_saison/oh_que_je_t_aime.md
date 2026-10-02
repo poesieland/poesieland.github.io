@@ -36,6 +36,6 @@ Mêlons nos deux esprits pour créer d'une veille
 
 Espérance d'un jour qui survit à demain.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Oh que je t'aime.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Liera l'ambre à cette opale
 
 Eternel à cet amour.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Comme un voile.
-{{% /notice %}}
+{{% /callout %}}

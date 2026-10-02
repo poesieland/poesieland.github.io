@@ -45,6 +45,6 @@ Ravis mon cœur noué, réchauffes-en le bien
 
 Et d'un souffle subtil aide-moi pour renaître.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je n'ai pas su le dire.
-{{% /notice %}}
+{{% /callout %}}

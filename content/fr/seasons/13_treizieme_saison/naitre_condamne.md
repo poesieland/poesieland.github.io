@@ -47,6 +47,6 @@ Monte du cimetière, et la terre murmure :
 
 Et souvent l'oublions : chacun naît condamné".
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Naître condamné.
-{{% /notice %}}
+{{% /callout %}}

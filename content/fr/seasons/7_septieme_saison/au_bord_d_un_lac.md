@@ -36,6 +36,6 @@ Adorer l'onde où se livra
 
 Comme un oubli l'eau de ma prose.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Au bord d'un lac.
-{{% /notice %}}
+{{% /callout %}}

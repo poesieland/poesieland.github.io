@@ -63,6 +63,6 @@ Aux plis de sa peau nue
 
 Mit des reflets subtils.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise en 1995/1996 d'un poème de 1994.
-{{% /notice %}}
+{{% /callout %}}

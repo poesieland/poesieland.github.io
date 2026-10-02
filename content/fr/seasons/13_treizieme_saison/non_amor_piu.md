@@ -31,8 +31,8 @@ Inventoriés n'ont plus richesse :
 
 Un parfum fané sans détresse.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "(Il n'y a) plus d'amour" en italien.
 
 Acrostiche : Non amor più.
-{{% /notice %}}
+{{% /callout %}}

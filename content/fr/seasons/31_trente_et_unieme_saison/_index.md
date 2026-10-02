@@ -13,7 +13,7 @@ Janvier à mars 2026."""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_31.md" true %}}
 

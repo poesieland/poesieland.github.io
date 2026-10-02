@@ -11,7 +11,7 @@ De mai à septembre 1997"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_4.md" true %}}
 

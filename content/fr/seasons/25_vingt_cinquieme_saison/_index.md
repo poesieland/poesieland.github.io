@@ -11,7 +11,7 @@ De février à avril 2025"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_25.md" true %}}
 

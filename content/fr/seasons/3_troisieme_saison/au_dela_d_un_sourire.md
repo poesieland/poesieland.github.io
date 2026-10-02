@@ -46,8 +46,8 @@ Rêvons encor ensemble enfin :
 
 Ebauche d'esquisse infinie.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Premier acrostiche...
 
 Acrostiche : Au-delà d'un sourire.
-{{% /notice %}}
+{{% /callout %}}

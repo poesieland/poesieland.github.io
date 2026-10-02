@@ -43,6 +43,6 @@ Irisant jusqu'à l'âme et jusqu'au jour permien
 
 Nouveau matin retrace un monde beau, sans faille.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Berceau matin.
-{{% /notice %}}
+{{% /callout %}}

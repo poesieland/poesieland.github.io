@@ -64,8 +64,8 @@ Ressent les signes plus discrets
 
 Offerts d'invisible prière.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Quand le jour sera nôtre" en italien.
 
 Acrostiche : Quando il giorno sarà nostro.
-{{% /notice %}}
+{{% /callout %}}

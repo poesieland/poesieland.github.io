@@ -36,6 +36,6 @@ Une note plus longue, une phrase gagnée
 
 Sacrent la symphonie éclose en son élan.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Les mots venus.
-{{% /notice %}}
+{{% /callout %}}

@@ -27,6 +27,6 @@ Encore entière au bord des familiers chemins
 
 Souffle de vie, à toi, pour d'autres cœurs résonne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A d'autres.
-{{% /notice %}}
+{{% /callout %}}

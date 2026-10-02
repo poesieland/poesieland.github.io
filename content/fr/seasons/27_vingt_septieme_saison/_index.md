@@ -11,7 +11,7 @@ Juin et juillet 2025"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_27.md" true %}}
 

@@ -48,6 +48,6 @@ La mort est solitaire,
 
 L'animal est sa part.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Pensée à tous ceux qui ont dû accompagner leur animal...
-{{% /notice %}}
+{{% /callout %}}

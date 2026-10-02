@@ -38,6 +38,6 @@ Rime du jour et du décor
 
 Et je te suis jusqu'à la mort.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je suis ton ombre.
-{{% /notice %}}
+{{% /callout %}}

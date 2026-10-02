@@ -43,8 +43,8 @@ Neige d'un rêve, un corps jeté par les rivages
 
 Où s'éveille l'accent d'un coeur enfin rené.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "La neige du rêve" en italien.
 
 Acrostiche : La neve del sogno.
-{{% /notice %}}
+{{% /callout %}}

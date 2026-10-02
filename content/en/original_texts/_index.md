@@ -18,4 +18,4 @@ For more, read some of the {{% include "/content/common/poem_count.md" %}}  [Fre
 
 ---
 
-{{% children description="false" %}}
+{{% pages description="false" %}}

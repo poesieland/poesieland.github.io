@@ -47,8 +47,8 @@ Reviens, tant de jours clairs t'accueillent,
 
 Ecoute l'arbre, il t'éblouit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ecoute l'arbre.
 
 {{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

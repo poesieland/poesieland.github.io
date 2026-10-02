@@ -38,6 +38,6 @@ Ainsi qu'un rêve qui s'évase
 
 Tombe l'espoir tant désiré.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

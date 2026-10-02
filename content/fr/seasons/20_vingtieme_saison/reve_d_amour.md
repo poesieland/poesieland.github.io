@@ -27,6 +27,6 @@ Rêver à nos amours et puis mon coeur se serre,
 
 Ton départ fut si doux au chant du marinier.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 J'avais ces *[chants des mariniers](https://www.poetica.fr/poeme-698/charles-baudelaire-parfum-exotique/)* en tête...
-{{% /notice %}}
+{{% /callout %}}

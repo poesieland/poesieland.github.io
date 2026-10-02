@@ -36,6 +36,6 @@ Toute saison... déjà s'envole,
 
 Il ne me reste que candeurs.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Trop tôt parti.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Un merle, chante la lumière
 
 En ce jardin vivace, aimé.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Une aube bleue.
-{{% /notice %}}
+{{% /callout %}}

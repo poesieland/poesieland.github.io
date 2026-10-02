@@ -27,6 +27,6 @@ Adroitement défait bâillon :
 
 Nouvelle valse impérieuse !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Valse l'an.
-{{% /notice %}}
+{{% /callout %}}

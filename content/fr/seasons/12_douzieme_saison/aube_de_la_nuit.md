@@ -36,6 +36,6 @@ Il jette un chant lointain lorsque ressurgira
 
 Troublante nuit, sa lame effleure un paysage.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Aube de la nuit.
-{{% /notice %}}
+{{% /callout %}}

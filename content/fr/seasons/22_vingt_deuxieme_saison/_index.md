@@ -11,7 +11,7 @@ De septembre à novembre 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_22.md" true %}}
 

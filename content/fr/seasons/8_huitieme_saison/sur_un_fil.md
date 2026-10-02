@@ -27,6 +27,6 @@ Il n'en restait que la trame,
 
 Lisible verset de nuit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur un fil.
-{{% /notice %}}
+{{% /callout %}}

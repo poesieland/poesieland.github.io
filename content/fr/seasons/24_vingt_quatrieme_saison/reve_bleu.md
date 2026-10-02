@@ -27,6 +27,6 @@ La terre inspirera, pour le moment il gèle,
 
 Un jour où le soleil murmure et se flagelle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rêve bleu.
-{{% /notice %}}
+{{% /callout %}}

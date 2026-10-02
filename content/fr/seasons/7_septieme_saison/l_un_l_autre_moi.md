@@ -36,6 +36,6 @@ Offert s'élance :
 
 Il dit présence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'un, l'autre, moi.
-{{% /notice %}}
+{{% /callout %}}

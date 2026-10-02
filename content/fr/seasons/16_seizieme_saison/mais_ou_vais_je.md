@@ -45,6 +45,6 @@ Juste un instant la pluie éclot dans un fol ut
 
 Et chaque goutte abat son infini tapage.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mais où vais-je ?
-{{% /notice %}}
+{{% /callout %}}

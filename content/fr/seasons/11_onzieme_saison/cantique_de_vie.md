@@ -55,8 +55,8 @@ Ton cœur bat, le mien peut-être
 
 A la fontaine se tut.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Ton cantique donne la vie" en italien.
 
 Acrostiche : Il tuo cantico da la vita.
-{{% /notice %}}
+{{% /callout %}}

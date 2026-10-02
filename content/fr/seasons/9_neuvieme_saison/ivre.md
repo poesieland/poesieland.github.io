@@ -18,6 +18,6 @@ Ravis au suprême bonheur :
 
 Eternelles voix se répondent.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ivre.
-{{% /notice %}}
+{{% /callout %}}

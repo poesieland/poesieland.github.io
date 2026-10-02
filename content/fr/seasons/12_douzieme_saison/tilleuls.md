@@ -27,6 +27,6 @@ Libéré juste quand s'élève
 
 Serti l'ivre matin touchant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tilleuls.
-{{% /notice %}}
+{{% /callout %}}

@@ -23,8 +23,8 @@ Unique, adieu, bel arbre aux cent poèmes
 
 Touchant le ciel, tresses vertes bohèmes.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Ce poème décrit l'adolescence d'une amie.
 
 Acrostiche : Le saut.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Offre-moi le bonheur
 
 Impatient, mystique !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'ai rêvé de toi.
-{{% /notice %}}
+{{% /callout %}}

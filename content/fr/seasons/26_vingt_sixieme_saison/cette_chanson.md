@@ -11,6 +11,7 @@ tags:
     - "2025"
     - attitudes
     - octosyllabe
+    - lair ou la chanson
 locations: []
 info: "[Paris s'éveille, Jacques Dutronc, 1968](https://www.google.com/search?q=paris+s%27%C3%A9veille+jacques+dutronc)"
 pictures: []
@@ -18,6 +19,7 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+description: D'après la chanson "Paris s'éveille" (Jacques Dutronc)
 ---
 J'ai cette chanson dans la tête,
 
@@ -45,6 +47,6 @@ Mais lorsque s'envole la flûte
 
 C'est toujours mon plus grand plaisir !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [Paris s'éveille, Jacques Dutronc, 1968](https://www.google.com/search?q=paris+s%27%C3%A9veille+jacques+dutronc)
-{{% /notice %}}
+{{% /callout %}}

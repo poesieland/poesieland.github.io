@@ -11,7 +11,7 @@ Novembre et décembre 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_23.md" true %}}
 

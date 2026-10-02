@@ -45,6 +45,6 @@ Et de ton corps meurtri tire
 
 Silencieux le cœur... tu dois !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Chant des possédés.
-{{% /notice %}}
+{{% /callout %}}

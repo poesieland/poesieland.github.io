@@ -36,6 +36,6 @@ Automnal par essence
 
 Images, brisé vert...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je t'oublierai.
-{{% /notice %}}
+{{% /callout %}}

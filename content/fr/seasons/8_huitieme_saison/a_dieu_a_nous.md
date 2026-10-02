@@ -30,6 +30,6 @@ Uniques ne seront que lorsque l'on enfante,
 
 Serre-moi d'un regard, ô songe qui m'enchante !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A Dieu, à nous.
-{{% /notice %}}
+{{% /callout %}}

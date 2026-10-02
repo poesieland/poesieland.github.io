@@ -23,8 +23,8 @@ Boira le sang versé par cœur
 
 En sens cible : opère acteur.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Ô Amour" en allemand.
 
 Acrostiche : O Liebe.
-{{% /notice %}}
+{{% /callout %}}

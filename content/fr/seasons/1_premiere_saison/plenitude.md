@@ -45,6 +45,6 @@ Un son presque divin, jailli de la lumière
 
 S'étale et fait rêver, lisse présent des Dieux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise en 1995/1996 d'un poème de 1994.
-{{% /notice %}}
+{{% /callout %}}

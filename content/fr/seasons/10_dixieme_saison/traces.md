@@ -26,6 +26,6 @@ Alors sous un ciel gris comme un faux désert
 
 Sans bruit mes pas vont se perdre dans la mer...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je n'ai pas.
-{{% /notice %}}
+{{% /callout %}}

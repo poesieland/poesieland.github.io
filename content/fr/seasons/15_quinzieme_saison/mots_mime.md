@@ -27,6 +27,6 @@ Marions la vie en rose
 
 En l'arpège, cœurs et corps.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mots : mime.
-{{% /notice %}}
+{{% /callout %}}

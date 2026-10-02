@@ -30,6 +30,6 @@ Lèvera son drap d'étoiles
 
 Et d'un pinceau gris ses voiles.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Crépuscule.
-{{% /notice %}}
+{{% /callout %}}

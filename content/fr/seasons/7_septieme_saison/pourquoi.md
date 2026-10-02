@@ -27,6 +27,6 @@ Unique reflet d'un souci ?
 
 Il reste à lui dire : merci.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Pourquoi ?
-{{% /notice %}}
+{{% /callout %}}

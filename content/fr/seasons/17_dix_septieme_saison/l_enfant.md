@@ -36,6 +36,6 @@ C'est toi le natif,
 
 C'est moi l'étrangère.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Quand j'étais enceinte de mon fils aîné.
-{{% /notice %}}
+{{% /callout %}}

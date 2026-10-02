@@ -43,6 +43,6 @@ Immensité du cœur, au-delà sans égard :
 
 Voici bien venu l'an, voilà nombre des sages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Composé pour une amie.
-{{% /notice %}}
+{{% /callout %}}

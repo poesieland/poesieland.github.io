@@ -36,6 +36,6 @@ Transcendant chaque mot de notre ritournelle
 
 A nous d'un glorieux lendemain résolu.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'amor ti vieta.
-{{% /notice %}}
+{{% /callout %}}

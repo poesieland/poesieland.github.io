@@ -22,6 +22,6 @@ Inanimés les mots se meurent
 
 Sur le grand livre de nos heures.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tu sais.
-{{% /notice %}}
+{{% /callout %}}

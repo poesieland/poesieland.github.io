@@ -67,6 +67,6 @@ Jeter fleurs, parole banale,
 
 Au dernier rang un jour de deuil.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Inspiré par [une vidéo de la série "Issue fatale" de MrDoudRocks](https://www.youtube.com/playlist?list=PL_-Y9MUW6-58yd1JvwEVs2DD8d-zGtY1j).
-{{% /notice %}}
+{{% /callout %}}

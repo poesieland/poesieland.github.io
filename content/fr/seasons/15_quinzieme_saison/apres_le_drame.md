@@ -36,6 +36,6 @@ En silence supersonique
 
 L'esprit plane à chaque cercueil.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En mémoire des 113 victimes du crash du Concorde du 25.07.2000.
-{{% /notice %}}
+{{% /callout %}}

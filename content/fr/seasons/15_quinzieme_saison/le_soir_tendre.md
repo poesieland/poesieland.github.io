@@ -42,6 +42,6 @@ Rêvons, ton bras m'enserre,
 
 En cœur pour deux, ténu.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le soir tendre.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ C'est inexorable :
 
 Chaque jour grisant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

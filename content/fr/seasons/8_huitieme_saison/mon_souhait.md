@@ -30,6 +30,6 @@ Illumine couleur, essence,
 
 Trouble de joie une existence !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mon souhait.
-{{% /notice %}}
+{{% /callout %}}

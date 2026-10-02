@@ -37,8 +37,8 @@ Trouve l'éclat, jardin rosé,
 
 Offert en musique fragile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En mémoire de Joaquin Rodrigo, pianiste espagnol (1901-1999).
 
 Acrostiche : Adios artisto.
-{{% /notice %}}
+{{% /callout %}}

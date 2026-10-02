@@ -28,8 +28,8 @@ Trace d'un parfum, l'ibis
 
 Unique cueille l'essence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "L'amour et toi" en portugais, reprise du titre d'une chanson.
 
 Acrostiche : L'amor e tu.
-{{% /notice %}}
+{{% /callout %}}

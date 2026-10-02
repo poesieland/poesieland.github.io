@@ -31,8 +31,8 @@ La liberté du vent quand l'espace s'allume,
 
 Ivre, à toi, souverain, multicolore écume.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Sublimation religieuse de la vocation du chanteur Andrea Bocelli.
 
 Acrostiche : San Bocelli.
-{{% /notice %}}
+{{% /callout %}}

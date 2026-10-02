@@ -63,8 +63,8 @@ Ecrirons-nous sur cette terre
 
 Egalité, notre printemps ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Inspiré par la comédie musicale "Notre-Dame de Paris".
 
 Acrostiche double (lignes paires et impaires) : J'écrirai ce / mot, l'ultime.
-{{% /notice %}}
+{{% /callout %}}

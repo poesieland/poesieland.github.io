@@ -37,6 +37,6 @@ Intronise-moi, ciel, je veux
 
 Rêver, souveraine fantasque.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Cueillir.
-{{% /notice %}}
+{{% /callout %}}

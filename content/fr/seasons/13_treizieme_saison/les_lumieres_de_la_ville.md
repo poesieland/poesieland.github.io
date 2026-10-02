@@ -55,6 +55,6 @@ Laisse le vice en sa cage
 
 Encre du jour retenu...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Les lumières de la ville.
-{{% /notice %}}
+{{% /callout %}}

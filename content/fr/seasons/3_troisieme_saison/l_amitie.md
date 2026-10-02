@@ -23,6 +23,6 @@ Intimité morale
 
 En complice lustrale !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Amitié.
-{{% /notice %}}
+{{% /callout %}}

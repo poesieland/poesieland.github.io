@@ -39,6 +39,6 @@ Infiniment le soir en inlassable amant.
 
 {{< figure src="/images/un_soir_infini_22_0.jpg" title="Le 11.09.2024 vers 18h" >}}
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un soir infini.
-{{% /notice %}}
+{{% /callout %}}

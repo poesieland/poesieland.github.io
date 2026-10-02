@@ -11,7 +11,7 @@ De novembre 1999 à mars 2001"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_14.md" true %}}
 

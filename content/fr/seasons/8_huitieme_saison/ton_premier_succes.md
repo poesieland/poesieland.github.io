@@ -45,6 +45,6 @@ Emmène ce passé dormir
 
 Soufflé des pages du grand livre.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ton premier succès.
-{{% /notice %}}
+{{% /callout %}}

@@ -18,6 +18,6 @@ Et le souffle de l'arbre arbore autres pyrées,
 
 La découpe d'un ciel à ses dentelles sombres.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ciel.
-{{% /notice %}}
+{{% /callout %}}

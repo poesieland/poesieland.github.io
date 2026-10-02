@@ -13,7 +13,7 @@ Mars à avril 2026."""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_32.md" true %}}
 

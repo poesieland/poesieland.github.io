@@ -36,6 +36,6 @@ Où je me vois chaque matin,
 
 Impossible hideur en ma transe.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A la dérive, moi.
-{{% /notice %}}
+{{% /callout %}}

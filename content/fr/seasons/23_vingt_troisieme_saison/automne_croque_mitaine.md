@@ -36,6 +36,6 @@ Puis quand la couleur a déteint
 
 Sourit saison croque-mitaine.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Automne, temps.
-{{% /notice %}}
+{{% /callout %}}

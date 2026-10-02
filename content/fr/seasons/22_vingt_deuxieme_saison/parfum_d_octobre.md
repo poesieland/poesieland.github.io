@@ -40,6 +40,6 @@ Comme un chant monte grave, entonne
 
 L'oraison d'un temps rejeté.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxieme_saison/passage).
-{{% /notice %}}
+{{% /callout %}}

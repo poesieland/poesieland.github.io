@@ -27,6 +27,6 @@ Alors, humain, ne laisse enfermer ta conscience,
 
 Ne fais pas comme moi, cendre morte en ses grains.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le volcan.
-{{% /notice %}}
+{{% /callout %}}

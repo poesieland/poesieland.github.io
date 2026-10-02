@@ -45,6 +45,6 @@ Unis hier à toujours,
 
 Remplis nos coupes vides !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je vous salue, amour.
-{{% /notice %}}
+{{% /callout %}}

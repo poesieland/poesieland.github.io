@@ -28,6 +28,6 @@ Tendre reflet, je sais qu'un jour je serai celle
 
 Emue, à l'aventure, et bonheur mon mari.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Soir d'été.
-{{% /notice %}}
+{{% /callout %}}

@@ -37,8 +37,8 @@ Renaît, miroitement pastel
 
 En moi la mer toujours danseuse...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Là-bas la mer" en italien.
 
 Acrostiche : Laggiù il mare.
-{{% /notice %}}
+{{% /callout %}}

@@ -43,6 +43,6 @@ Tous les sourires d'un échange,
 
 Souviens-toi : bribes alentour.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dans tes nuits.
-{{% /notice %}}
+{{% /callout %}}

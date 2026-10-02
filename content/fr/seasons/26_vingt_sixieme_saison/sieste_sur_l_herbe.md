@@ -49,6 +49,6 @@ Présent superbe,
 
 Jeune, ai-je été ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise modifiée des deux premiers vers d'un [poème de la première saison](../1_premiere_saison/impression).
-{{% /notice %}}
+{{% /callout %}}

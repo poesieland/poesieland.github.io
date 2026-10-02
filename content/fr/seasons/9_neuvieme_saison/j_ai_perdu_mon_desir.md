@@ -45,6 +45,6 @@ Insensée, ou s'enfuit
 
 Rejoindre l'autre rive.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'ai perdu mon désir.
-{{% /notice %}}
+{{% /callout %}}

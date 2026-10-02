@@ -46,6 +46,6 @@ Ronde sans lune et sans étoile,
 
 Et tout s'éteint, le soir se voile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Il pleut sur ta figure...
-{{% /notice %}}
+{{% /callout %}}

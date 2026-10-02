@@ -36,6 +36,6 @@ Ivres, peintes une par une,
 
 Rieuses étoiles : soir pur !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le ciel du soir.
-{{% /notice %}}
+{{% /callout %}}

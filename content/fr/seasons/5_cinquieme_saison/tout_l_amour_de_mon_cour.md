@@ -50,6 +50,6 @@ Un destin dérobé...
 
 Risette d'un bébé !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tout l'amour de mon cœur.
-{{% /notice %}}
+{{% /callout %}}

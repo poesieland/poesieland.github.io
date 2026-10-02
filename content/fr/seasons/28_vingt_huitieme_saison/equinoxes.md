@@ -43,8 +43,8 @@ Se pose sur le coeur, la saison pleine arrive ;
 
 Les voici revenus, équinoxes troublants.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise d'une partie du premier vers d'un [poème de la deuxième saison](../2_deuxieme_saison/septembre).
-{{% /notice %}}
+{{% /callout %}}
 
 [^1]: Clin d'oeil au titre de la [trentième](../30_trentieme_saison/) Saison.

@@ -39,6 +39,6 @@ Roule en son tonnerre
 
 Entre les nuages, la Terre.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lune, ton sourire.
-{{% /notice %}}
+{{% /callout %}}

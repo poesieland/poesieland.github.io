@@ -36,6 +36,6 @@ Taillée à cœur de l'arbre nuit et jour ?
 
 Inoublié le seul nom de l'amour !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Gravé pour toi.
-{{% /notice %}}
+{{% /callout %}}

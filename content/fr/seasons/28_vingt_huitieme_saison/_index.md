@@ -11,7 +11,7 @@ De juillet à septembre 2025"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_28.md" true %}}
 

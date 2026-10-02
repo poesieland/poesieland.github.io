@@ -11,7 +11,7 @@ De janvier à avril 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_19.md" true %}}
 

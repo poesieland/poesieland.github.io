@@ -11,7 +11,7 @@ De novembre 2025 à janvier 2026."""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_30.md" true %}}
 

@@ -22,7 +22,7 @@ Pour des remarques statistiques détaillées, c'est [par ici](../../charts/poems
 
 Il est très intéressant de découvrir qu'en isométrie chaque métrique a ses associations préférées : sérieux, burlesque, chansonnier... Et ma poésie entre dans ce cadre sans que je m'en sois rendue compte avant de faire ces recherches.
 
-{{% children description="false" %}}
+{{% pages description="false" %}}
 
 Sans oublier les [poèmes qui combinent plusieurs métriques](../../tags/métrique-variable/).
 

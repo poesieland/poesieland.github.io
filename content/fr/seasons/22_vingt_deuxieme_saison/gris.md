@@ -35,6 +35,6 @@ Le ciel est gris, si morne,
 
 D'un hiver imminent.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

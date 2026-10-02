@@ -32,6 +32,6 @@ Là ! J'ai trouvé ! Pour moi chance et bonheur !
 
 Exquis, tout vert, prairie a son meneur !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Trèfle.
-{{% /notice %}}
+{{% /callout %}}

@@ -37,6 +37,6 @@ Rêves des arbres roux à ce cœur battant, saint
 
 Etreint d'un voile doux, comme un chant pur résonne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'octobre.
-{{% /notice %}}
+{{% /callout %}}

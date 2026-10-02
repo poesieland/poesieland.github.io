@@ -36,6 +36,6 @@ Misérable, immobile au ciel qui cherchera
 
 Envolés clair pétale, étamine, pétiole.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Toi qu'on nomme...
-{{% /notice %}}
+{{% /callout %}}

@@ -32,6 +32,6 @@ Il grandit sans tuteur vers les faîtes habiles,
 
 Noceur, et puis s'en va quand se projette, entier.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Juin.
-{{% /notice %}}
+{{% /callout %}}

@@ -37,8 +37,8 @@ Un rire... Entends-tu cristallin
 
 Rêve d'amour venu sans arme.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}
 
 Acrostiche : Mon coeur.
-{{% /notice %}}
+{{% /callout %}}

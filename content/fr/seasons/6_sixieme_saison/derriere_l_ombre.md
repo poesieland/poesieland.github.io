@@ -38,6 +38,6 @@ Rêves en majuscule,
 
 Endort ce crépuscule.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Derrière l'ombre.
-{{% /notice %}}
+{{% /callout %}}

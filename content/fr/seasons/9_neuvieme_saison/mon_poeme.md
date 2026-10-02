@@ -27,6 +27,6 @@ Mes poèmes sont des crimes
 
 En leur rythme de Malouin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mon poème.
-{{% /notice %}}
+{{% /callout %}}

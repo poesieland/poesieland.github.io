@@ -48,6 +48,6 @@ Chaque souvenir s'encartonne
 
 D'inimaginable trépas.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

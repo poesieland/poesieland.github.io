@@ -43,7 +43,7 @@ Dans leur musique je me plonge
 
 Car avec toi je partirai !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Une autre référence à [Con te partirò](https://www.youtube.com/watch?v=TdWEhMOrRpQ)
-{{% /notice %}}
+{{% /callout %}}
  

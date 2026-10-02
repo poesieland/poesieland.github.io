@@ -36,6 +36,6 @@ Ivre d'aimer en chaque chose
 
 Emporté, le sable disert.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le sable, la vie.
-{{% /notice %}}
+{{% /callout %}}

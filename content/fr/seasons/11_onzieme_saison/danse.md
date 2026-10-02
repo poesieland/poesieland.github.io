@@ -27,6 +27,6 @@ Libère le geste qui n'ose
 
 Ivre, effleurer le lendemain...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Jour joli.
-{{% /notice %}}
+{{% /callout %}}

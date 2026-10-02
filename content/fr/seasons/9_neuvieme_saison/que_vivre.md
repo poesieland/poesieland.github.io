@@ -27,6 +27,6 @@ Rêve pétale où le monde se fane...
 
 Exister c'est fragile, immense, beau !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Que vivre.
-{{% /notice %}}
+{{% /callout %}}

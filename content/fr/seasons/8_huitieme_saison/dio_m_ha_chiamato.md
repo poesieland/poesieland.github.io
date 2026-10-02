@@ -39,8 +39,8 @@ Terre et cieux lorsque s'élance
 
 Oratorio d'existence !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Dieu m'a appelée" en italien.
 
 Acrostiche : Dio m'ha chiamato.
-{{% /notice %}}
+{{% /callout %}}

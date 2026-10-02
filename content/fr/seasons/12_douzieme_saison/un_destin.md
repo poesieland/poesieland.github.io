@@ -38,8 +38,8 @@ Né pour être un chanteur, pas héros, pas idole,
 
 Et laisser sur la terre une jeunesse folle...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En hommage au chanteur Balavoine.
 
 Acrostiche : A Balavoine.
-{{% /notice %}}
+{{% /callout %}}

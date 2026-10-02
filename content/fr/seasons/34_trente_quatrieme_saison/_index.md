@@ -15,7 +15,7 @@ De juillet à août 2026"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_34.md" true %}}
 

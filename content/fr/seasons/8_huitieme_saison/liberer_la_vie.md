@@ -36,6 +36,6 @@ Irréels, troublés ou semblent
 
 Epinglés de fols bonheurs.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Libérer la vie.
-{{% /notice %}}
+{{% /callout %}}

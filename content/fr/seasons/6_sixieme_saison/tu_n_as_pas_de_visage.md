@@ -45,6 +45,6 @@ Grandit au plus profond de la sombre prunelle
 
 Et même sans couleur ta figure vibrait.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tu n'as pas de visage.
-{{% /notice %}}
+{{% /callout %}}

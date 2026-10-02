@@ -55,6 +55,6 @@ Et la route t'attend
 
 Répond l'histoire.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Laisse les mots chanter.
-{{% /notice %}}
+{{% /callout %}}

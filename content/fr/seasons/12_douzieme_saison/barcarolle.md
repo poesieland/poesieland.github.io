@@ -38,8 +38,8 @@ La rive : l'ombre nue effleure et ravit brise,
 
 Etreinte d'or, paillette au ventre de Venise...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Inspiré par l'air homonyme d'Offenbach.
 
 Acrostiche : Barcarolle.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ T'aurait formé douce chanson,
 
 Intime, belle, à l'unisson.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Adressée à toi.
-{{% /notice %}}
+{{% /callout %}}

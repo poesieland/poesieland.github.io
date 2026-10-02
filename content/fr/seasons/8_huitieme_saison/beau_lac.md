@@ -45,6 +45,6 @@ Inscrit la bénédiction
 
 Sur ton eau calme, brise, aurore...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Beau lac, miroir, dis...
-{{% /notice %}}
+{{% /callout %}}

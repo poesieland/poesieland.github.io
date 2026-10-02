@@ -37,6 +37,6 @@ Et je fredonne en m'en allant :
 
 Tenez, pour vous mon bouquet chaste !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le muguet
-{{% /notice %}}
+{{% /callout %}}

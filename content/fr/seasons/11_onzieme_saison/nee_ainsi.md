@@ -27,6 +27,6 @@ Senteurs et gazouillis, pré rit
 
 Illuminé de soleil, flores.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Née ainsi.
-{{% /notice %}}
+{{% /callout %}}

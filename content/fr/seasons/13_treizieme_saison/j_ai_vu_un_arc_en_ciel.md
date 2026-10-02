@@ -45,6 +45,6 @@ Emanent, perles d'eau,
 
 Le soleil : mariages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'ai vu un arc-en-ciel.
-{{% /notice %}}
+{{% /callout %}}

@@ -50,10 +50,10 @@ Nouveau dans mon coeur baladin,
 
 Sourire de mère attendrie.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Cette fois-ci le message s'adresse à mon fils et plus mon neveu...
 
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain nous serons.
-{{% /notice %}}
+{{% /callout %}}

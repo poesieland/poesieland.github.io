@@ -46,8 +46,8 @@ Ressac qui murmure "reviens"
 
 Et c'est cela qui sut nous plaire !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/mon_coeur_est_libre" hidefirstheading %}}
 
 Acrostiche : Mon cœur est libre.
-{{% /notice %}}
+{{% /callout %}}

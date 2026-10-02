@@ -46,6 +46,6 @@ Un peu plus vite avec la pelle !
 
 Et s'il neigeait juste un peu trop ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la quinzième saison](../15_quinzieme_saison/et_s_il_neigeait_sur).
-{{% /notice %}}
+{{% /callout %}}

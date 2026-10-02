@@ -36,6 +36,6 @@ Arabesques tes mains, mes reins
 
 Sur cette danse printanière.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Entre tes bras.
-{{% /notice %}}
+{{% /callout %}}

@@ -54,6 +54,6 @@ Gratitude de ma naissance
 
 File au sablier merveilleux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/si_j_ai_du_sable).
-{{% /notice %}}
+{{% /callout %}}

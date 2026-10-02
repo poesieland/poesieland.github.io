@@ -45,6 +45,6 @@ Déchire sa finesse aux insectes qui font
 
 Eperdus un radeau d'une brindille douce !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : Promenade / la pluie.
-{{% /notice %}}
+{{% /callout %}}

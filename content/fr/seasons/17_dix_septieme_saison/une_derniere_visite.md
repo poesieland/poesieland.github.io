@@ -51,6 +51,6 @@ Toutes réalités se frayent un passage.
 
 {{< figure src="/images/une_derniere_visite_17_3.jpg" title="Le carrelage de la zone de bal extérieur du château de Ham-sous-Varsberg" >}}
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Souvenirs de Ham-sous-Varsberg.
-{{% /notice %}}
+{{% /callout %}}

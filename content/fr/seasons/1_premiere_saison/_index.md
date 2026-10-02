@@ -13,7 +13,7 @@ De 1994 à septembre 1996"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_1.md" true %}}
 

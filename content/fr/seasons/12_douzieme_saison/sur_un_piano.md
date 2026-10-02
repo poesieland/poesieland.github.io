@@ -30,6 +30,6 @@ Nouveau, le chant, sculpture,
 
 Ouvre l'âme plus pure...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur un piano.
-{{% /notice %}}
+{{% /callout %}}

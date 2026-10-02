@@ -51,6 +51,6 @@ Une fausse douceur,
 
 Novembre au coeur torpille.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En pensant à la rose à la boutonnière de [ce poème de la vingt-deuxième saison](../22_vingt_deuxieme_saison/parfum_d_octobre).
-{{% /notice %}}
+{{% /callout %}}

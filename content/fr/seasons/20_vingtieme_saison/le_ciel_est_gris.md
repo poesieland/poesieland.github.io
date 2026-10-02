@@ -40,6 +40,6 @@ Perdra t-on le fruit et l'épi ?
 
 Et danse la limace !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

@@ -42,8 +42,8 @@ Ombre d'un temps ancien
 
 Retrouve, autre, le sien...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Comme un premier amour" en italien.
 
 Acrostiche : Come un prim'amor.
-{{% /notice %}}
+{{% /callout %}}

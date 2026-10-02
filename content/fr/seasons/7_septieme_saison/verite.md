@@ -22,6 +22,6 @@ Ta main ne peut toucher ni ton nez la sentir,
 
 Et l'âme seule y goûte un nouvel élixir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Vérité.
-{{% /notice %}}
+{{% /callout %}}

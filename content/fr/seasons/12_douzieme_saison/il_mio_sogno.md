@@ -32,6 +32,6 @@ Né souriant, sans saison vraie
 
 Où le temps germe comme ivraie...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Il mio sogno.
-{{% /notice %}}
+{{% /callout %}}

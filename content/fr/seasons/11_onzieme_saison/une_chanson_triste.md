@@ -45,6 +45,6 @@ Tristes comme errances
 
 Etranges miroirs.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Une chanson triste.
-{{% /notice %}}
+{{% /callout %}}

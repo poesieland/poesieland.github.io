@@ -60,6 +60,6 @@ L'ombre ricoche et puis résonne
 
 Dans notre paix jusqu'au grand soir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

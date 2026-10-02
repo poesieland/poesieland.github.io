@@ -27,6 +27,6 @@ Secret : l'oubli regarde
 
 En mémoire... bonheur...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Esquisse.
-{{% /notice %}}
+{{% /callout %}}

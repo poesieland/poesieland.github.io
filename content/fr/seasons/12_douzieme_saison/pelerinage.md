@@ -45,6 +45,6 @@ Nouveau passage. Entre le blé, la vigne,
 
 Suspendu, Christ, présent, tu nous souris.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Bijou sacre unions.
-{{% /notice %}}
+{{% /callout %}}

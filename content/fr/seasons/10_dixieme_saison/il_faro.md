@@ -22,6 +22,6 @@ Reverdira comme une étrave entre rochers et vent,
 
 Ô le temps change ombre en verre et brise un phare au levant...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Il faro.
-{{% /notice %}}
+{{% /callout %}}

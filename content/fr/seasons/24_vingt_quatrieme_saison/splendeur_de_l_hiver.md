@@ -29,6 +29,6 @@ Pastels mélangent leurs attraits,
 
 Un photographe erre, lucide.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

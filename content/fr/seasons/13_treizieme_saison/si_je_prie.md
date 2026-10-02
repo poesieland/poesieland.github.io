@@ -27,6 +27,6 @@ Illuminée, ô Vierge : espoir vainqueur...
 
 En cet instant mon âme est-elle sage ou folle ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Si je prie.
-{{% /notice %}}
+{{% /callout %}}

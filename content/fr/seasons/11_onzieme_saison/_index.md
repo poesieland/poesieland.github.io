@@ -11,7 +11,7 @@ De mars à mai 1999"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_11.md" true %}}
 

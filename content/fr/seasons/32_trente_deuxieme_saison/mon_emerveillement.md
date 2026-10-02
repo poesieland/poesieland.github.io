@@ -57,6 +57,6 @@ Mon émerveillement,
 
 C'est un art nécessaire.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise détournée de l'idée [Pour déployer mes ailes](../5_cinquieme_saison/pour_deployer_mes_ailes)
-{{% /notice %}}
+{{% /callout %}}

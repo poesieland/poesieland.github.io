@@ -28,6 +28,6 @@ La reine au sceau sublime,
 
 Ame que tu perdis.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 D'après la chanson d'Andrea Bocelli "L'ultimo re".
-{{% /notice %}}
+{{% /callout %}}

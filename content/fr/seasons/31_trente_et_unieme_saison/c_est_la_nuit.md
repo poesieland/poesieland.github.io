@@ -37,6 +37,6 @@ D'un soupir, présage d'infini,
 
 C'est la nuit, qu'atteindre je ne puisse !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

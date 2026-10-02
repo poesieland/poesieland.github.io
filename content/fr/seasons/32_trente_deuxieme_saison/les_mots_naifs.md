@@ -41,8 +41,8 @@ Naïfs, de coeur en pyrolyse,
 
 Tracés, les mots, sans analyse.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : En relisant.
 
 Reprise du début du premier vers d'un [acrostiche de la onzième saison](../11_onzieme_saison/en_relisant).
-{{% /notice %}}
+{{% /callout %}}

@@ -37,8 +37,8 @@ Trait d'ineffable lumière
 
 En rêve, pas seulement.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Ame, libère-toi" en italien.
 
 Acrostiche : Alma, libera te.
-{{% /notice %}}
+{{% /callout %}}

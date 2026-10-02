@@ -35,8 +35,8 @@ Dit tout le sens, en ce si doux visage...
 
 Ecoute encore, ô, ce chagrin profond !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Vraie foi" en italien.
 
 Acrostiche : Vera fede.
-{{% /notice %}}
+{{% /callout %}}

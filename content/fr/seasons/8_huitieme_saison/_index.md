@@ -11,7 +11,7 @@ De juillet à septembre 1998"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_8.md" true %}}
 

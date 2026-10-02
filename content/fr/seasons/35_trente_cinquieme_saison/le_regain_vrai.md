@@ -50,6 +50,6 @@ Avant que ne s'entrouvre une étrange antichambre
 
 Interdite au banal, à l'espoir mensonger.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le regain vrai.
-{{% /notice %}}
+{{% /callout %}}

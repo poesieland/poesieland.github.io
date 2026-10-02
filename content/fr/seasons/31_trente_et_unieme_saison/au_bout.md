@@ -49,6 +49,6 @@ Le souvenir que l'on inhume
 
 Pur, s'évapore sans pitié.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

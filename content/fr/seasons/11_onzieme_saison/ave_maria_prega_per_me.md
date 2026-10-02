@@ -58,8 +58,8 @@ Mirages nuptiaux, l'âme élève
 
 Ensuite ce calme sans trêve...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Ave Maria prie pour moi", chanson homonyme de Luciano Pavarotti.
 
 Acrostiche : Ave Maria prega per me.
-{{% /notice %}}
+{{% /callout %}}

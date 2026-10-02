@@ -37,6 +37,6 @@ Mon coeur expire,
 
 Nu, dans l'éther.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [Werther (opéra)](https://fr.wikipedia.org/wiki/Werther_(op%C3%A9ra)).
-{{% /notice %}}
+{{% /callout %}}

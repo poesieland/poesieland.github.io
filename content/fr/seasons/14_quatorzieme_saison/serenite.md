@@ -29,6 +29,6 @@ Tutélaire d'un autre atour,
 
 En ce silence qui scintille.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sérénité.
-{{% /notice %}}
+{{% /callout %}}

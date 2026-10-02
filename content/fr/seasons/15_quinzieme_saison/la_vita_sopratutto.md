@@ -46,8 +46,8 @@ Tempo connu, d'autres décors
 
 Ouvriront lendemain docile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "La vie par-dessus tout" en italien.
 
 Acrostiche : La vita sopratutto.
-{{% /notice %}}
+{{% /callout %}}

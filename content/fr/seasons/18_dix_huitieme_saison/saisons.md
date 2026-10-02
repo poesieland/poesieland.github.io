@@ -54,6 +54,6 @@ Intenses phases du climat,
 
 Ainsi m'attache et me délivre.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
-{{% /notice %}}
+{{% /callout %}}

@@ -47,6 +47,6 @@ Dans la nuit faite mer,
 
 Au ciel, tendre faconde.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise de la moitié du premier vers d'un [poème de la septième saison](../7_septieme_saison/le_ciel_n_est_bleu_ni_gris).
-{{% /notice %}}
+{{% /callout %}}

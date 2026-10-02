@@ -30,6 +30,6 @@ Inachevé ne dit son geste ;
 
 Tourné vers l'ouest le cœur n'y reste.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le ciel sait.
-{{% /notice %}}
+{{% /callout %}}

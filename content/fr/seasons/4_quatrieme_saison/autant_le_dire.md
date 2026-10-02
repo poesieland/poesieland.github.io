@@ -36,6 +36,6 @@ Rompue, amarre se délie
 
 Et je te quitte quand tu dors.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Autant le dire.
-{{% /notice %}}
+{{% /callout %}}

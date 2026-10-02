@@ -33,8 +33,8 @@ Au ciel s'endort le monde
 
 Illuminé sur l'onde !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Lune que tu donnes" en italien.
 
 Acrostiche : Luna che dai.
-{{% /notice %}}
+{{% /callout %}}

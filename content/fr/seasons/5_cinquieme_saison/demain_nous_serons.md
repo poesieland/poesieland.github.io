@@ -49,10 +49,10 @@ Noircis de ton crayon les pages de l'enfance,
 
 Sois donc d'abord toi-même et saisis les bonheurs !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Dédié à mon neveu Louis.
 
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain nous serons.
-{{% /notice %}}
+{{% /callout %}}

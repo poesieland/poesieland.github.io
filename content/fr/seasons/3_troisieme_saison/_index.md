@@ -11,7 +11,7 @@ De janvier à mai 1997"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_3.md" true %}}
 

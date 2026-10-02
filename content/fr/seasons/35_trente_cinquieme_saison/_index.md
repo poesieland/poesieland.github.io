@@ -13,7 +13,7 @@ A partir d'août 2026"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_35.md" true %}}
 

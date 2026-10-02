@@ -11,7 +11,7 @@ D'avril à juin 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_20.md" true %}}
 

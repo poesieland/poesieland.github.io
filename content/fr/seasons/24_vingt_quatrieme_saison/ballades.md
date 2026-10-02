@@ -27,6 +27,6 @@ Et notre vie en promenade
 
 Sait le long cours du lendemain.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ballades.
-{{% /notice %}}
+{{% /callout %}}

@@ -22,6 +22,6 @@ Unit dans le bleu l'hirondelle
 
 Rieuse à la chanson nouvelle...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A fleur.
-{{% /notice %}}
+{{% /callout %}}

@@ -43,6 +43,6 @@ Est-ce un automne au coeur qui chante et se révèle ?
 
 Novembre, mois ombreux où la bascule échoit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Le premier vers reprend un vers assez à la fin d'un [poème de la première saison](../1_premiere_saison/fin_d_ete) tandis qu'il y a à l'avant-dernier vers un clin d'oeil au mini-thème [saison incertaine](../../tags/saison-incertaine).
-{{% /notice %}}
+{{% /callout %}}

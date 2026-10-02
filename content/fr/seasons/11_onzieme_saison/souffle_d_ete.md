@@ -45,6 +45,6 @@ En l'accord frémissant
 
 Ravi, puis le soir plonge...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ne rien faire, rêver
-{{% /notice %}}
+{{% /callout %}}

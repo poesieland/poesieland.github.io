@@ -45,6 +45,6 @@ Le temps pousse à renier
 
 L'absence qui malmène.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [Petite vidéo choc](https://www.facebook.com/reel/9321371104596399) qui m'a inspiré ce poème.
-{{% /notice %}}
+{{% /callout %}}

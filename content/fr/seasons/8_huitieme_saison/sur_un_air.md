@@ -27,6 +27,6 @@ Imprimer sa plainte fugace !
 
 Ris au contraire comme on passe !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur un air.
-{{% /notice %}}
+{{% /callout %}}

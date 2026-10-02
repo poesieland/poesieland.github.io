@@ -46,6 +46,6 @@ C'est à l'huche
 
 Tôt l'été.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

@@ -49,8 +49,8 @@ Message plus fidèle à l'étoile, lumière...
 
 Anima dans l'éclat élevé de prière.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Chant de l'âme" en italien.
 
 Acrostiche : Canto dell'anima.
-{{% /notice %}}
+{{% /callout %}}

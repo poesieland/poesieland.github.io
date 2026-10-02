@@ -40,6 +40,6 @@ Plus rien ne s'oppose
 
 A sortir du lit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Avec la même sensation de douceur que dans [ce poème de la onzième saison](../11_onzieme_saison/le_midi_tranquille).
-{{% /notice %}}
+{{% /callout %}}

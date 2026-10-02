@@ -55,6 +55,6 @@ L'averse ravive
 
 Et tombe sans frein !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de de la vingtième saison](../20_vingtieme_saison/encore_une_averse).
-{{% /notice %}}
+{{% /callout %}}

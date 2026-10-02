@@ -27,6 +27,6 @@ Nous danserons, prophète à naître
 
 Sur les sentiers des cœurs flâneurs.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tes mains.
-{{% /notice %}}
+{{% /callout %}}

@@ -57,6 +57,6 @@ Mon coeur donne l'obole
 
 Au soir tout de satin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

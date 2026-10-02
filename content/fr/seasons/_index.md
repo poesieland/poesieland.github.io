@@ -15,4 +15,4 @@ Un recueil auto-édité en 1999 regroupant des poèmes centrés sur un amour pla
 {{< figure src="/images/ensixlettres.jpg" title="En six lettres t'aimer" >}}
 
 ---
-{{% children description="true" type="list" %}}
+{{% pages description="true" display="headings" %}}

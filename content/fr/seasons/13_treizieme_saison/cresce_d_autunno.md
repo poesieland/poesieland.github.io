@@ -40,8 +40,8 @@ Nu, quand l'oiseau de mer hurle au vent dominant :
 
 Ô marins, sans prier ! Que le salut vous touche !".
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Croix d'automne" en italien. Le premier paragraphe dont l'acrostiche est "croix" décrit l'automne et inversement.
 
 Acrostiche : Cresce d'autunno.
-{{% /notice %}}
+{{% /callout %}}

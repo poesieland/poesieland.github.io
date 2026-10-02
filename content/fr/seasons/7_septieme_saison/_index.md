@@ -11,7 +11,7 @@ Juin et juillet 1998"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_7.md" true %}}
 

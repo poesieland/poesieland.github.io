@@ -36,6 +36,6 @@ Et chaque mot comme enchanteur
 
 Sera le plus doux des voyages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Adieu : voyages.
-{{% /notice %}}
+{{% /callout %}}

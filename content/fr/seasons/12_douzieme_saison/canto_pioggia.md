@@ -37,8 +37,8 @@ Immense, ouvre la voie : un nuage décore
 
 Au diamant ravivé le sourire en ses rais.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Chant, pluie" en italien.
 
 Acrostiche : Canto, pioggia.
-{{% /notice %}}
+{{% /callout %}}

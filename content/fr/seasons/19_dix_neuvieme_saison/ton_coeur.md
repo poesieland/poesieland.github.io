@@ -36,6 +36,6 @@ J'écoute un coeur qui bat si fort,
 
 Ton coeur joyeux tout feu tout flamme.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

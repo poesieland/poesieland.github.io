@@ -38,6 +38,6 @@ Discours faux qui ment comme respire :
 
 Je m'envole à l'orbe du matin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

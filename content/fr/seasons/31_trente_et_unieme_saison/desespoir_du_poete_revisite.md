@@ -65,6 +65,6 @@ Et l'esprit reposé
 
 Trouvera l'écriture !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers, mais en deux vers, d'un [poème de la première saison](../1_premiere_saison/remede). Tout en réécrivant de façon plus drôle l'autre poème proche du premier temporellement, qui fait référence à ce fameux [désespoir du poète](../1_premiere_saison/desespoir_du_poete). Trente ans depuis ces poèmes, vraiment ?
-{{% /notice %}}
+{{% /callout %}}

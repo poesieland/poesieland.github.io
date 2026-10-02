@@ -49,8 +49,8 @@ A crié que son âme on saccage
 
 Un jour clair d'effroi sous les sureaux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Il fallait que je raconte l'histoire associée au sureau évoqué dans [ce poème de la troisième saison](../3_troisieme_saison/sous_le_sureau).
 
 Acrostiche : Sous le sureau.
-{{% /notice %}}
+{{% /callout %}}

@@ -27,6 +27,6 @@ Née en mon cœur d'ombre pour fuir
 
 Sans plus retour l'âme troublée...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je me sens.
-{{% /notice %}}
+{{% /callout %}}

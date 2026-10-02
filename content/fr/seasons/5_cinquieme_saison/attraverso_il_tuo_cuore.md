@@ -54,6 +54,6 @@ Rêver encor quelques instants
 
 Et découvrir le sens de vivre !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Attraverso il tuo cuore.
-{{% /notice %}}
+{{% /callout %}}

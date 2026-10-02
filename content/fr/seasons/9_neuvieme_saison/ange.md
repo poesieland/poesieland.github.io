@@ -18,6 +18,6 @@ Germer les musiques prochaines
 
 En ta splendeur, ange charmant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ange.
-{{% /notice %}}
+{{% /callout %}}

@@ -45,6 +45,6 @@ Imagine-les se touchant
 
 Troublés dans d'étranges caresses...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Quand le destin dit...
-{{% /notice %}}
+{{% /callout %}}

@@ -37,8 +37,8 @@ Lancées au vent, les cheveux gris...
 
 Ombre, le ciel, tu me souris.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Tu es beau" en italien.
 
 Acrostiche : Tu sei bello.
-{{% /notice %}}
+{{% /callout %}}

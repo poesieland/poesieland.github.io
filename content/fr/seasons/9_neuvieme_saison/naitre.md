@@ -22,6 +22,6 @@ Routes et rivages...
 
 En notes-mirages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Naître.
-{{% /notice %}}
+{{% /callout %}}

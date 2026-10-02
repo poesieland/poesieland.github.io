@@ -45,6 +45,6 @@ Vivace où le temps qui perdure
 
 En ta lumière s'en allait.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Comme un autre rêve.
-{{% /notice %}}
+{{% /callout %}}

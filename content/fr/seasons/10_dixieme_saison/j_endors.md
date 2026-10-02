@@ -36,6 +36,6 @@ Une page vierge, si belle
 
 S'écrie en sa chanson d'amour...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'endors, Vénus.
-{{% /notice %}}
+{{% /callout %}}

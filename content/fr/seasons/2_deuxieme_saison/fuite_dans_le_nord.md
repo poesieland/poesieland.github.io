@@ -37,6 +37,6 @@ Où l'abîme défunt
 
 Tourbillonne sans âge.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Inspiré du [film](https://fr.wikipedia.org/wiki/Flucht_in_den_Norden) homonyme basé sur le roman de Klaus Mann.
-{{% /notice %}}
+{{% /callout %}}

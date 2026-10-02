@@ -27,6 +27,6 @@ Inutile un monde à son reflet transi...
 
 Rien n'a plus de sens, mais cet oubli se presse...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Souvenir.
-{{% /notice %}}
+{{% /callout %}}

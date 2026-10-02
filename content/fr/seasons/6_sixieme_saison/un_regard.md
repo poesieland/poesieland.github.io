@@ -36,6 +36,6 @@ Reprend son vol en son espoir entier,
 
 Donne ses mains et le sens de ce rêve.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un regard.
-{{% /notice %}}
+{{% /callout %}}

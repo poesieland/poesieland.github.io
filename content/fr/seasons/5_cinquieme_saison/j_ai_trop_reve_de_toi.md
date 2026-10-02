@@ -45,6 +45,6 @@ Touchants pour bercer ton murmure,
 
 Irradiés de cette aventure !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'ai trop rêvé de toi.
-{{% /notice %}}
+{{% /callout %}}

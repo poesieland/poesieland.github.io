@@ -45,8 +45,8 @@ Nuée absente aussi dans l'âme infortunée
 
 Alors que continue une guerre ici-bas...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Fascination pour cette [superbe chanson interprétée par Mecano](https://www.youtube.com/watch?v=OwGG5fX7bxY).
 
 Acrostiche : Hijo de la luna.
-{{% /notice %}}
+{{% /callout %}}

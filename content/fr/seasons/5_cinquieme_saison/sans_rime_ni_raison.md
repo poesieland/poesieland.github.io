@@ -45,6 +45,6 @@ Offrir un lendemain
 
 Nu pour l'âme fragile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sans rime ni raison.
-{{% /notice %}}
+{{% /callout %}}

@@ -46,6 +46,6 @@ Au-delà de l'herbe, du vent...
 
 Saurez-vous espérer vraiment ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Elle est partie là-bas.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Invécu encore, aura plus de chaleur, temps radieux,
 
 Exquis, debout sous un autre arbre ; en nous, un cœur résonne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dire à l'oublié.
-{{% /notice %}}
+{{% /callout %}}

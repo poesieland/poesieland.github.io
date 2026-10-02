@@ -45,6 +45,6 @@ Feras-tu tienne
 
 Note sans frein ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de de la vingt-cinquième saison](../25_vingt_cinquieme_saison/l_appel).
-{{% /notice %}}
+{{% /callout %}}

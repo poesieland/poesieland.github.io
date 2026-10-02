@@ -56,8 +56,8 @@ Terrestre à qui le temps disait
 
 Au gré de l'art l'aube future...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Si la vie suffisait" en italien. Inspiré par plusieurs chansons.
 
 Acrostiche : Se bastasse la vita.
-{{% /notice %}}
+{{% /callout %}}

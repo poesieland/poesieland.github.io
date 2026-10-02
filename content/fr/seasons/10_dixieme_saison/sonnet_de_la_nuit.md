@@ -42,6 +42,6 @@ Illuminé mon cœur rira
 
 Triste où le soleil revivra...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sonnet de la nuit.
-{{% /notice %}}
+{{% /callout %}}

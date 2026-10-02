@@ -32,6 +32,6 @@ Libère un chant de bohémienne
 
 Et cette nuit se fera tienne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur la ville.
-{{% /notice %}}
+{{% /callout %}}

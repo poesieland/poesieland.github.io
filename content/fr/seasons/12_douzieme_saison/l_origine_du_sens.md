@@ -42,6 +42,6 @@ Noue un baiser au souffle et transperce silence,
 
 Sous l'ombre le vent pâle effleure ce bonheur.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'origine du sens.
-{{% /notice %}}
+{{% /callout %}}

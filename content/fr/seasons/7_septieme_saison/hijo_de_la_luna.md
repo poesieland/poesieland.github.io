@@ -36,6 +36,6 @@ Nous emmène à pas géants
 
 A la barque en nos délires !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Hijo de la luna.
-{{% /notice %}}
+{{% /callout %}}

@@ -46,8 +46,8 @@ Revoici farandole, année où l'indécis
 
 Embrasse d'au-delà les saisonnières rimes !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : D'une saison l'autre.
 
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
-{{% /notice %}}
+{{% /callout %}}

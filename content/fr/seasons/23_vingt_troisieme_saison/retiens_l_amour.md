@@ -40,8 +40,8 @@ Retiens l'amour, cette chape,
 
 Retiens ton souffle et sois fort.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [Retiens la nuit](https://www.google.com/search?q=retiens+la+nuit&oq=retiens+la+nuit), cette chanson de Johnny Hallyday.
 
 En écho à [cet autre poème de la dix-neuvième saison](../19_dix_neuvieme_saison/je_te_promets_les_quatre_saisons).
-{{% /notice %}}
+{{% /callout %}}

@@ -56,8 +56,8 @@ Mon éternel amour fera briller tes yeux :
 
 Je te promets l'espoir, demain n'a pas de terme.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [Cette chanson de Johnny Hallyday](https://www.google.com/search?q=je+te+promets+johnny+hallyday) dans ma tête ce matin... Deux grands artistes qui me sont chers.
 
 Vers [les poèmes qui évoquent les quatre saisons](../../tags/saisons/_index#les-quatre-saisons-).
-{{% /notice %}}
+{{% /callout %}}

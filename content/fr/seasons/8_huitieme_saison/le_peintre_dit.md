@@ -36,6 +36,6 @@ Irradie, offre aux horizons
 
 Triste palette déicide.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le peintre dit...
-{{% /notice %}}
+{{% /callout %}}

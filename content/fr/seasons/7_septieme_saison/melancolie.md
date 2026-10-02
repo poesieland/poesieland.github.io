@@ -30,6 +30,6 @@ Imagine un autre remords
 
 Et l'âme sépare du corps...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mélancolie.
-{{% /notice %}}
+{{% /callout %}}

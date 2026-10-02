@@ -30,6 +30,6 @@ Sillon glissé d'un duo, d'un parfum,
 
 Ensemble ils sont patins valseurs sans fin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Elans, valse.
-{{% /notice %}}
+{{% /callout %}}

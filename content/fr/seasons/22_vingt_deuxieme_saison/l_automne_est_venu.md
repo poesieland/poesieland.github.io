@@ -47,6 +47,6 @@ Neuf aux vestiges qui se fanent,
 
 Un pâle doigt traçant destin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : l'automne venu.
-{{% /notice %}}
+{{% /callout %}}

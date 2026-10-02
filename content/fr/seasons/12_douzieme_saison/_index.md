@@ -11,7 +11,7 @@ De mai à juillet 1999"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_12.md" true %}}
 

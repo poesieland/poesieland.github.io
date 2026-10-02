@@ -46,8 +46,8 @@ Colore quand tombe le jour
 
 Eternité vive, féconde !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Quand la vie dit" en italien.
 
 Acrostiche : Quando la vita dice.
-{{% /notice %}}
+{{% /callout %}}

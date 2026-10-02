@@ -37,8 +37,8 @@ Extraits de la poussière en squelettes chantants
 
 Ne croyant plus au conte insensé de merveilles.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Un jeu de mot suggère "memoriam éveil".
 
 Acrostiche : Je ne sais rien.
-{{% /notice %}}
+{{% /callout %}}

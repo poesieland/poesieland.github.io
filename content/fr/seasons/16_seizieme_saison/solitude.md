@@ -27,6 +27,6 @@ Des étoiles : plaintive escouade,
 
 Etrange espoir, sonne bourdon.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Solitude.
-{{% /notice %}}
+{{% /callout %}}

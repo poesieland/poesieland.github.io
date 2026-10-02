@@ -30,6 +30,6 @@ Onde fluide, intime écrit
 
 Impossible silence, cri.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Viens en moi.
-{{% /notice %}}
+{{% /callout %}}

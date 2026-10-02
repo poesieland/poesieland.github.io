@@ -46,6 +46,6 @@ Jusqu'à la source, un jour, envie,
 
 Rivière, d'aller t'éprouver.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Le ru de Kuntzig coulait près de ma maison d'enfance.
-{{% /notice %}}
+{{% /callout %}}

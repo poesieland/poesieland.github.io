@@ -36,6 +36,6 @@ En moi la joie a mis l'aile d'un souvenir,
 
 Sur les mots consolés, un baiser d'hirondelle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tu me consoles.
-{{% /notice %}}
+{{% /callout %}}

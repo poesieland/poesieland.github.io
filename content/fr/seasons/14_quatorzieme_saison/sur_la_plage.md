@@ -31,8 +31,8 @@ Grisé du vent vif sur la grève,
 
 Etreinte avant de partir, brève.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 D'après un rêve.
 
 Acrostiche : Sur la plage.
-{{% /notice %}}
+{{% /callout %}}

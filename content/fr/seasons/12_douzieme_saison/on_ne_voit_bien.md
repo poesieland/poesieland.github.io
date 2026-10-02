@@ -43,6 +43,6 @@ Entre nos mondes germinaux
 
 Nouvelle paix, chante et pavoise...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : On ne voit bien...
-{{% /notice %}}
+{{% /callout %}}

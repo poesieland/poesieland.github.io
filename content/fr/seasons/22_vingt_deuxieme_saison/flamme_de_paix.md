@@ -54,6 +54,6 @@ Boulevard ou venelle,
 
 Tout luira sans compter !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Comme [l'an dernier](../18_dix_huitieme_saison/armistice), l'armistice...
-{{% /notice %}}
+{{% /callout %}}

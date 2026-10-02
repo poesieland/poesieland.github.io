@@ -45,6 +45,6 @@ Mystère de ton cœur, secrète Vérité,
 
 Irradie en amour, en subtile bonté !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Marie, prie pour moi.
-{{% /notice %}}
+{{% /callout %}}

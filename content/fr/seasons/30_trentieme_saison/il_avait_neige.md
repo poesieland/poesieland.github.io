@@ -47,6 +47,6 @@ Ecoute, tu connais cet air,
 
 Il avait neigé l'innocence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la deuxième saison](../2_deuxieme_saison/neige).
-{{% /notice %}}
+{{% /callout %}}

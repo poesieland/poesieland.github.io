@@ -39,6 +39,6 @@ Un automne pour raconter
 
 Chanson de feuille jaune et rousse !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

@@ -30,6 +30,6 @@ Raviras-tu folle promesse
 
 En moi que ta lèvre caresse ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : D'un sourire.
-{{% /notice %}}
+{{% /callout %}}

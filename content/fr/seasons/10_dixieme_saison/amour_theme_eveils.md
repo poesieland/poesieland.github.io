@@ -44,6 +44,6 @@ L'amour dit son thème au vent,
 
 Souffles nés d'un jour d'avant...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Amour, thème : éveils.
-{{% /notice %}}
+{{% /callout %}}

@@ -57,6 +57,6 @@ Un souvenir quelques instants
 
 Comme le ciel te fait paraître.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 A mon papa.
-{{% /notice %}}
+{{% /callout %}}

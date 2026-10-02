@@ -27,6 +27,6 @@ Etreinte au soleil qui mit là
 
 Une merveille inachevée.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rêve bleu.
-{{% /notice %}}
+{{% /callout %}}

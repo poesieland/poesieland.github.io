@@ -29,6 +29,6 @@ Coup d'éclat, soleil dans la nue, âge
 
 Apaisé, revoici le beau temps !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

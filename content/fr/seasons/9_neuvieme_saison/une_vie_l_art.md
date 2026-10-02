@@ -31,6 +31,6 @@ Rien n'arrête le temps, et l'on croise au départ
 
 Tournés vers l'Incréé l'absolu, l'âme, l'art.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Une vie : l'art.
-{{% /notice %}}
+{{% /callout %}}

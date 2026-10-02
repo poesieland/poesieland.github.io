@@ -45,6 +45,6 @@ Existe au nouvel oeil, globe d'un sens qui trace,
 
 Souffle qui dit le ciel, la mer, tout se sachant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ombres et lumières.
-{{% /notice %}}
+{{% /callout %}}

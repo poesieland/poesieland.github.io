@@ -41,8 +41,8 @@ Triste et beau des cœurs humains,
 
 Exister, les lendemains...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Vivre dans l'art" en italien.
 
 Acrostiche : Vivere nell'arte.
-{{% /notice %}}
+{{% /callout %}}

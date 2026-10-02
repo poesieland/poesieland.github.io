@@ -41,6 +41,6 @@ Unit le pétale au présent
 
 Sincère joie, un jour plaisant !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un an de plus.
-{{% /notice %}}
+{{% /callout %}}

@@ -45,6 +45,6 @@ Unira l'hiver, à raison,
 
 Riches souffles, amants et rêve.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Et s'il neigeait sur...
-{{% /notice %}}
+{{% /callout %}}

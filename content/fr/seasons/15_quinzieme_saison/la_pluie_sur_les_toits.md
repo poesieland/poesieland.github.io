@@ -51,6 +51,6 @@ Tu ne sourirais qu'au poète,
 
 Seule est la ville, onde prophète.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : La pluie sur les toits.
-{{% /notice %}}
+{{% /callout %}}

@@ -27,6 +27,6 @@ Echanger sur le monde et nous réjouir de Pâques,
 
 Il suffit de s'asseoir et de nous régaler !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Agnus dei.
-{{% /notice %}}
+{{% /callout %}}

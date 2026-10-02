@@ -46,8 +46,8 @@ Rassemble l'avenir, et pour te remercier,
 
 Elue à ton bras tendre, un baiser, un voyage...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Le chevalier d'amour" en italien.
 
 Acrostiche : Il cavalier' d'amore.
-{{% /notice %}}
+{{% /callout %}}

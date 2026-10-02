@@ -22,6 +22,6 @@ Ne répondra qu'à l'aube où l'insomniaque cœur
 
 Echafaude d'un geste une ombre : le bonheur.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A peine.
-{{% /notice %}}
+{{% /callout %}}

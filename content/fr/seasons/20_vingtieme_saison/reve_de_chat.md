@@ -36,6 +36,6 @@ L'humain m'est asservi,
 
 Jour, nuit, chaque seconde !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Avec le vocabulaire de la [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr).
-{{% /notice %}}
+{{% /callout %}}

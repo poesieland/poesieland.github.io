@@ -27,6 +27,6 @@ Nais en moi quand devient tienne
 
 Trace des cœurs surannés.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mon amant.
-{{% /notice %}}
+{{% /callout %}}

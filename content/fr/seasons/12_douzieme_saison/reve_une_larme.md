@@ -36,6 +36,6 @@ Mes jours perdent leur cœur
 
 Etranger, brisé, veule.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rêve, une larme.
-{{% /notice %}}
+{{% /callout %}}

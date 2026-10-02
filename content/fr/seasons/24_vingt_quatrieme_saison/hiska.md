@@ -49,7 +49,7 @@ Dans mon coeur tu veilles au seuil.
 
 {{< figure src="/images/hiska_24_2.jpg" title="Le 28.08.2022. Tes cils étaient blanchis par le temps. Ton dernier été." >}}
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 🚼 12.03.2012 - 🪦 03.10.2022.
 Un autre poème qui l'évoque légèrement : [Présent simple](../18_dix_huitieme_saison/present_simple).
-{{% /notice %}}
+{{% /callout %}}

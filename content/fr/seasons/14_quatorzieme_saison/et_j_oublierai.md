@@ -36,6 +36,6 @@ A l'onde andante blême
 
 Irons-nous, orpailleurs ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Et j'oublierai.
-{{% /notice %}}
+{{% /callout %}}

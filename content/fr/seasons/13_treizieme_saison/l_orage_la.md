@@ -27,6 +27,6 @@ Laisse une odeur sans nom, de plumes et de becs,
 
 Auréole plus forte en céleste mystère.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'orage, là.
-{{% /notice %}}
+{{% /callout %}}

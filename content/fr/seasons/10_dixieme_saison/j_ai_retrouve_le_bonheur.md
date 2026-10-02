@@ -54,6 +54,6 @@ Viens, car c'est toi que j'aimais,
 
 Envoûtant, qui me confondes !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : J'ai retrouvé / le bonheur.
-{{% /notice %}}
+{{% /callout %}}

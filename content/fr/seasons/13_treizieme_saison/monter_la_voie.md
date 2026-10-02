@@ -36,6 +36,6 @@ Intact, son flux, la rive
 
 Eclate à cette mer...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Monter la voie.
-{{% /notice %}}
+{{% /callout %}}

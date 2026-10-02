@@ -48,8 +48,8 @@ Intime se redresse,
 
 Tendre note s'écrit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise de *Cueillir la nuit violine* d'un [poème de la cinquième saison](../5_cinquieme_saison/sept_couleurs).
 
 Acrostiche : Cueillir, nuit.
-{{% /notice %}}
+{{% /callout %}}

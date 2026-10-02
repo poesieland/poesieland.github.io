@@ -49,8 +49,8 @@ Nuée ou vague qui s'enlace,
 
 Instants ; l'onde perlée aux cils.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Eau vive entre les mains" en italien.
 
 Acrostiche : Acqua viva fra le mani.
-{{% /notice %}}
+{{% /callout %}}

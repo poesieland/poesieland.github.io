@@ -45,6 +45,6 @@ Tache qui s'auréole et perce le papier :
 
 Image imaginaire à l'ombre d'amitié.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Nostalgique de toi.
-{{% /notice %}}
+{{% /callout %}}

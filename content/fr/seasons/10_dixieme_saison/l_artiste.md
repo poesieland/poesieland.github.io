@@ -27,6 +27,6 @@ Trace en vertige : ses mains, fleurs,
 
 Etreignent : le geste s'envoûte.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : L'artiste.
-{{% /notice %}}
+{{% /callout %}}

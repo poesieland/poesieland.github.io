@@ -36,6 +36,6 @@ Intense, le coeur sage
 
 Rit, plus vrai devenu !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Encore un soir.
-{{% /notice %}}
+{{% /callout %}}

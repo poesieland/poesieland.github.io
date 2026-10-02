@@ -29,6 +29,6 @@ Heureuse une naissance
 
 Ouvre son fol sillon.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Echo
-{{% /notice %}}
+{{% /callout %}}

@@ -22,6 +22,6 @@ Tragiques sans repère ou sans reflet, sans corps,
 
 Sans âme, sans destin, sans rêve, sans accords...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Eclats.
-{{% /notice %}}
+{{% /callout %}}

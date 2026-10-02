@@ -42,6 +42,6 @@ En passion céleste
 
 Voici jour libéré.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la cinquième saison](../5_cinquieme_saison/matin_celeste).
-{{% /notice %}}
+{{% /callout %}}

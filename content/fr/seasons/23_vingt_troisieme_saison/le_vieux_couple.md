@@ -39,8 +39,8 @@ Noces, une montagne à gravir, un effort,
 
 Tout notre amour demain n'est pas juste un miracle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain vivant.
-{{% /notice %}}
+{{% /callout %}}

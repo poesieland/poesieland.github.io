@@ -39,6 +39,6 @@ Gouffre de l'être, heure futile,
 
 Et je disparais dans l'utile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Matin privilège.
-{{% /notice %}}
+{{% /callout %}}

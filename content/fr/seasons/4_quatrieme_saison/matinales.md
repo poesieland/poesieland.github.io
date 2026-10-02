@@ -46,6 +46,6 @@ C'est la divine phrase
 
 Qui terre et ciel relit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

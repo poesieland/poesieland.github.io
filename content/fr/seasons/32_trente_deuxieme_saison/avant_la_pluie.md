@@ -47,6 +47,6 @@ Insistante une goutte
 
 Et puis cent s'en venant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Avant la pluie
-{{% /notice %}}
+{{% /callout %}}

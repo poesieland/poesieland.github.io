@@ -38,6 +38,6 @@ Universel, que par bonheur...
 
 Reste avec moi, tendre Sauveur !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dieu, mon Sauveur !
-{{% /notice %}}
+{{% /callout %}}

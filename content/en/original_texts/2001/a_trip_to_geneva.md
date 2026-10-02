@@ -29,6 +29,6 @@ Wraps around me, making my heart
 
 Feeling world-open in this Christmas morning.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Memories of Geneva, travel from 12/25/2000
-{{% /notice %}}
+{{% /callout %}}

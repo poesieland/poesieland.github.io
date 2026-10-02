@@ -36,6 +36,6 @@ S'ils s'envolent au coeur des brumes
 
 C'est pour rêver un peu plus fort.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise des deux premiers vers d'un [poème de de la deuxième saison](../2_deuxieme_saison/les_oiseaux).
-{{% /notice %}}
+{{% /callout %}}

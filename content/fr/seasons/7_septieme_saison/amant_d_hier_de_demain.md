@@ -46,6 +46,6 @@ Ivresse d'un roman courtois,
 
 Nouvelle aubade en ce seul choix.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Amant d'hier, de demain.
-{{% /notice %}}
+{{% /callout %}}

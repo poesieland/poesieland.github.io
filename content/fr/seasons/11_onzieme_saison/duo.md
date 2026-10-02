@@ -36,6 +36,6 @@ Gracieux, qu'un nom qui semble
 
 Emaner de nos corps.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rien n'a changé.
-{{% /notice %}}
+{{% /callout %}}

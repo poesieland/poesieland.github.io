@@ -36,6 +36,6 @@ Illuminé de brève
 
 Floraison : souffle vif.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le souffle vif.
-{{% /notice %}}
+{{% /callout %}}

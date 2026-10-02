@@ -45,6 +45,6 @@ Lu d'une plume belle
 
 Envolée en ton cœur !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : La colombe s'envole.
-{{% /notice %}}
+{{% /callout %}}

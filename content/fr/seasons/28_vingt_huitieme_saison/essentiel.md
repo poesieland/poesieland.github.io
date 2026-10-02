@@ -38,6 +38,6 @@ Il dit qu'aux yeux est invisible
 
 Ce que le coeur voit : l'essentiel.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Pour faire suite à [On ne voit bien qu'avec le coeur](../24_vingt_quatrieme_saison/l_amour_parfait), la suite de la citation : *l'essentiel est invisible pour les yeux*.
-{{% /notice %}}
+{{% /callout %}}

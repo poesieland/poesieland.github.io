@@ -37,8 +37,8 @@ Rimes et cœurs de cendre... où seras-tu ? Sur place
 
 En cet écran brouillé du miroir, tout est vrai.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En mémoire des attentats du 11.09.2001.
 
 Acrostiche : Miroir d'ombre.
-{{% /notice %}}
+{{% /callout %}}

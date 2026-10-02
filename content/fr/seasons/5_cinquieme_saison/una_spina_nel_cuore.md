@@ -54,8 +54,8 @@ Retenir l'amour versé
 
 Et cette douleur intime...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Cette expression italienne si imagée, *una spina nel cuore*, que j'ai découverte dans la chanson [Romanza](https://www.youtube.com/watch?v=fIdKD6JkIpU) d'Andrea Bocelli.
 
 Acrostiche : Una spina nel cuore.
-{{% /notice %}}
+{{% /callout %}}

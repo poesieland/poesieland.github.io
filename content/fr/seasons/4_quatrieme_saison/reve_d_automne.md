@@ -36,6 +36,6 @@ Use et sublime les couleurs :
 
 Xylophone de l'innocence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Les rêves doux.
-{{% /notice %}}
+{{% /callout %}}

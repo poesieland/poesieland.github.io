@@ -54,6 +54,6 @@ Guide l'espoir, son mystère
 
 En manège-souvenir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : La vie est comme un manège.
-{{% /notice %}}
+{{% /callout %}}

@@ -28,8 +28,8 @@ Tellement fort je revivrai
 
 En l'éternité cantatrice !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Juste toi" en italien.
 
 Acrostiche : Giusto te.
-{{% /notice %}}
+{{% /callout %}}

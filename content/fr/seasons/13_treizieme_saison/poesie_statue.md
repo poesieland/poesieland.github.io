@@ -36,6 +36,6 @@ Et rêve sans dormir, embrasse
 
 En ton cœur, statue, ô, ce vol...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : Poésie / Statue.
-{{% /notice %}}
+{{% /callout %}}

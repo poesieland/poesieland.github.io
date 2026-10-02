@@ -22,6 +22,6 @@ Etreint l'étoile qui ne brille
 
 Sur le monde qu'au cœur-brindille.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Douces.
-{{% /notice %}}
+{{% /callout %}}

@@ -46,6 +46,6 @@ Fait vibrer toute l'âme en sa plainte vivace
 
 Lorsque le disque tourne et tourne sans faillir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 [D'après cette chanson](https://fr.wikipedia.org/wiki/Lili_Marleen)
-{{% /notice %}}
+{{% /callout %}}

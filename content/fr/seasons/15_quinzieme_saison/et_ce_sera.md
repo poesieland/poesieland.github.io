@@ -27,6 +27,6 @@ Rêver de nuées écriées,
 
 Ambre dégradé sur un tronc.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Et ce sera...
-{{% /notice %}}
+{{% /callout %}}

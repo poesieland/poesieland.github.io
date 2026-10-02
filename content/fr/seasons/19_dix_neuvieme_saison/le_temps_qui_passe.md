@@ -45,6 +45,6 @@ La meilleure saveur :
 
 Celle du temps qui passe.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Moins mélancolique qu'un [poème de la troisième saison](../3_troisieme_saison/saisons_terrestres) qui reprend le proverbe *ogni età ha il suo frutto* (*chaque âge a son fruit*).
-{{% /notice %}}
+{{% /callout %}}

@@ -30,6 +30,6 @@ La pierre comme un suaire
 
 Entend l'écho de prière...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Cathédrale.
-{{% /notice %}}
+{{% /callout %}}

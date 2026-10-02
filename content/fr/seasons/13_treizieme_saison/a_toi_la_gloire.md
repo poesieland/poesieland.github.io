@@ -39,6 +39,6 @@ En notre Cité des deux îles[^1] belles !
 
 [^1]: L'île de la Cité et l'île Saint-Louis 😊
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A Toi la gloire.
-{{% /notice %}}
+{{% /callout %}}

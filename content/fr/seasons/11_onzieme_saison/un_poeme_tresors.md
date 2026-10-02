@@ -39,6 +39,6 @@ Ravis poèmes, élans
 
 Sur les troncs aux chœurs troublants.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un poème : trésors.
-{{% /notice %}}
+{{% /callout %}}

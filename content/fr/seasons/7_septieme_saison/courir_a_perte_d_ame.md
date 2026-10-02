@@ -28,8 +28,8 @@ Apprise d'un chemin menant loin du bercail :
 
 Perdre l'âme à courir, étonner l'existence.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Cet acrostiche très particulier, par jeu, se veut croisé, sur la première lettre du poème puis celle de la césure... Courir à p - erte d'âme...
 
 Acrostiche : Courir à perte d'âme.
-{{% /notice %}}
+{{% /callout %}}

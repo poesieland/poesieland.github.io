@@ -45,6 +45,6 @@ Et ses parfums pâles
 
 Sont l'amour vainqueur !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Offre-moi des roses.
-{{% /notice %}}
+{{% /callout %}}

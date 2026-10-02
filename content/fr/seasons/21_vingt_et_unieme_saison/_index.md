@@ -11,7 +11,7 @@ De juin à septembre 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_21.md" true %}}
 

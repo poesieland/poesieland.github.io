@@ -27,6 +27,6 @@ Azur, vert et blanc, coquet ;
 
 Tressé de l'été, prunelle.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Jeu - éclat.
-{{% /notice %}}
+{{% /callout %}}

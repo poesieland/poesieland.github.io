@@ -50,6 +50,6 @@ Et loin des yeux
 
 Nos coeurs si proches.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 En pensant encore à [la chanson "Encore un soir"](https://fr.wikipedia.org/wiki/Encore_un_soir_(chanson)).
-{{% /notice %}}
+{{% /callout %}}

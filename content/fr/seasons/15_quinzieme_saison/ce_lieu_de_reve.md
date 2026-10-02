@@ -36,6 +36,6 @@ Versants des promeneurs, devisent arbres mages,
 
 Essence rare, et sève, à nos vies versera.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ce lieu de rêve.
-{{% /notice %}}
+{{% /callout %}}

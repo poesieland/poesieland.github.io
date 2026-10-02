@@ -28,8 +28,8 @@ Nouer l'essence au ciel et l'arbre au paysage...
 
 Oraison blême, un chant du soleil dévoré.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "L'automne" en italien.
 
 Acrostiche : L'autunno.
-{{% /notice %}}
+{{% /callout %}}

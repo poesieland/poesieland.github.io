@@ -53,8 +53,8 @@ Ne sent son corps au-delà de son tronc.
 
 Imitent verts, et bleu, rose, marron.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Jardin des songes" en italien.
 
 Acrostiche double (lignes paires et impaires) : giardino / dei sogni.
-{{% /notice %}}
+{{% /callout %}}

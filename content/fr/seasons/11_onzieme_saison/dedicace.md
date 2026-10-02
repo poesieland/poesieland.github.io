@@ -27,6 +27,6 @@ Caché. En un parfum troublée
 
 Eclats, dédicace solo.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dédicace.
-{{% /notice %}}
+{{% /callout %}}

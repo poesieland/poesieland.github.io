@@ -36,6 +36,6 @@ Rouges, verts, jaunes qui détonnent !
 
 Sept couleurs... pour ton souvenir.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sept couleurs.
-{{% /notice %}}
+{{% /callout %}}

@@ -45,6 +45,6 @@ Ultime des raisons et des noms de l'histoire...
 
 Rieuse quand de l'âme un oiseau blanc surgit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A l'âge où le bonheur...
-{{% /notice %}}
+{{% /callout %}}

@@ -38,8 +38,8 @@ Il n'est assez de frais parfums, terre, où l'herbe a tes cils.
 
 Emerveillé, le Printemps dort, renaquit, se dévoile.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 D'après le parc de Choisy, Paris.
 
 Acrostiche : L'air : rapsodie.
-{{% /notice %}}
+{{% /callout %}}

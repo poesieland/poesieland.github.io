@@ -36,6 +36,6 @@ Onirique, repasse
 
 Notre espoir, entrelac.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Résurrection.
-{{% /notice %}}
+{{% /callout %}}

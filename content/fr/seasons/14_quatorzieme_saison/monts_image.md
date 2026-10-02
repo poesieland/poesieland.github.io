@@ -30,6 +30,6 @@ Gloire  du temps, mon cœur défait
 
 En ces rides d'un air parfait.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Monts : image.
-{{% /notice %}}
+{{% /callout %}}

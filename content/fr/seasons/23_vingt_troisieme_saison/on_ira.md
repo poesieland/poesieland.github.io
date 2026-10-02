@@ -43,6 +43,6 @@ Et l'âme aussi toute apaisée,
 
 On ira tous, je te le dis.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Référence évidente à [cette chanson de Polnareff](https://www.google.com/search?q=on+ira+tous+au+paradis).
-{{% /notice %}}
+{{% /callout %}}

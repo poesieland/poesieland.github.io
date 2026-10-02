@@ -11,4 +11,4 @@ Quand un petit groupe de mots inspire toujours dans un élan créatif de micro-t
 
   *Depuis la vingt-septième saison*
 
-{{% children description="true" %}}
+{{% pages description="true" %}}

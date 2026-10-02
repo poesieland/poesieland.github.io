@@ -36,6 +36,6 @@ Au calendrier qui s'agace :
 
 Jours anonymes envolés.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la quatrième saison](../4_quatrieme_saison/saison_fugace).
-{{% /notice %}}
+{{% /callout %}}

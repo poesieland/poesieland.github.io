@@ -30,6 +30,6 @@ Oubli du silence impavide :
 
 Illusion, coquille vide.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Eclora toi.
-{{% /notice %}}
+{{% /callout %}}

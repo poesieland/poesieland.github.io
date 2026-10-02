@@ -54,6 +54,6 @@ Rire débile, en blanc sur encre :
 
 Ton départ, j'en ai jeté l'ancre.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Jeter l'ancre de ton départ...
-{{% /notice %}}
+{{% /callout %}}

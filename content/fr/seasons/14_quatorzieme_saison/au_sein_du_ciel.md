@@ -38,8 +38,8 @@ Et sans nom, brise, arceau,
 
 Le ciel touche à son terme.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Souvenir d'une fin d'après-midi en haute montagne, dans les Alpes à 3000 m.
 
 Acrostiche : Au sein du ciel.
-{{% /notice %}}
+{{% /callout %}}

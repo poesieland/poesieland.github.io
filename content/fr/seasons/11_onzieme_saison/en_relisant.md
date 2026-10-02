@@ -30,6 +30,6 @@ Nouveau théâtre, mon cœur tendre
 
 Tes battements se font entendre.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : En relisant...
-{{% /notice %}}
+{{% /callout %}}

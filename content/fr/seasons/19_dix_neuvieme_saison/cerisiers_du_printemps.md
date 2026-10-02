@@ -40,8 +40,8 @@ Et ma promenade voit si
 
 Virginal ce printemps frissonne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise détournée du premier vers du [premier poème de mon recueil de 1998](../5_cinquieme_saison/le_depart_de_l_amant).
 
 Mes quelques poèmes sur les [cerisiers](/search?search-by=cerisiers).
-{{% /notice %}}
+{{% /callout %}}

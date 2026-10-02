@@ -11,7 +11,7 @@ De septembre à novembre 2025."""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_29.md" true %}}
 

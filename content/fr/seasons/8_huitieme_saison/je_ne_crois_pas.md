@@ -36,6 +36,6 @@ Ami, berceau des lendemains
 
 Sauront-ils qu'on ne s'y résigne ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je ne crois pas...
-{{% /notice %}}
+{{% /callout %}}

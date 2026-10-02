@@ -36,6 +36,6 @@ Unis au temps l'accent volage
 
 Rythme profond de ce désir !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Esprit majeur.
-{{% /notice %}}
+{{% /callout %}}

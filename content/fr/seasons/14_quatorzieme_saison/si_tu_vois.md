@@ -27,6 +27,6 @@ Incertain l'humble cœur venu sacrer l'obole,
 
 Serment, pour allier la flèche au vieux parvis.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Si tu vois.
-{{% /notice %}}
+{{% /callout %}}

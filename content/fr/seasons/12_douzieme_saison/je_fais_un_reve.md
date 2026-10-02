@@ -36,6 +36,6 @@ Vers l'éveil ; cet instant lent
 
 En ce songe se disperse.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je fais un rêve.
-{{% /notice %}}
+{{% /callout %}}

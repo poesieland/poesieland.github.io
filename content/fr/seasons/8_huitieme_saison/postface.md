@@ -42,10 +42,10 @@ Eteins-toi doux, sans amertume,
 
 A l'ombre où l'ombre se défait.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Dernier poème de mon recueil *En six lettres : t'aimer*.
 
 [Lire le première poème du recueil](../5_cinquieme_saison/le_depart_de_l_amant).
 
 Acrostiche : Andrea Andrea.
-{{% /notice %}}
+{{% /callout %}}

@@ -11,7 +11,7 @@ De septembre à décembre 1996"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_2.md" true %}}
 

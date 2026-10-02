@@ -39,6 +39,6 @@ Offert ce jour royal comme l'été
 
 Inspire un monde en nos âmes éprises.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Marie-moi.
-{{% /notice %}}
+{{% /callout %}}

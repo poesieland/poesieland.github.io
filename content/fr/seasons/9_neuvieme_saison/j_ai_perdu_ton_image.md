@@ -45,6 +45,6 @@ Givre de chaque strophe
 
 Eclate à l'infini.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : J'ai perdu ton image.
-{{% /notice %}}
+{{% /callout %}}

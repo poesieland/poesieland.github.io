@@ -56,6 +56,6 @@ Et chantonne
 
 Son départ.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

@@ -28,6 +28,6 @@ Vérité comprise tard fait
 
 A l'infini briller la flamme.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise de la citation qui commence également presque mot pour mot le [poème de la douzième saison](../12_douzieme_saison/on_ne_voit_bien) et qui est de la même catégorie... Juste un point de vue un peu différent vingt-cinq ans et demi plus tard 😉.
-{{% /notice %}}
+{{% /callout %}}

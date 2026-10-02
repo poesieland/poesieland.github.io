@@ -56,6 +56,6 @@ Le temps n'est pas aigri,
 
 Un bonheur doux crayonne.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise détournée du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/a_l_age_ou_le_bonheur).
-{{% /notice %}}
+{{% /callout %}}

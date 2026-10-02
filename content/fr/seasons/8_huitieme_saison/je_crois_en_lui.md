@@ -36,6 +36,6 @@ Un océan ne peut réduire,
 
 Il se traverse sans renier.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je crois en lui.
-{{% /notice %}}
+{{% /callout %}}

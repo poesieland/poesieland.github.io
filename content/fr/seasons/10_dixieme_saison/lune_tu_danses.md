@@ -36,6 +36,6 @@ En ta nuit l'émoi
 
 Sur ton disque pâle...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lune, tu danses.
-{{% /notice %}}
+{{% /callout %}}

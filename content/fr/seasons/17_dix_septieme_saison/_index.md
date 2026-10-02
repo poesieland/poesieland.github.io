@@ -11,7 +11,7 @@ D'octobre 2004 à octobre 2023"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_17.md" true %}}
 

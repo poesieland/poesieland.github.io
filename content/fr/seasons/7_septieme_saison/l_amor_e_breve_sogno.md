@@ -53,8 +53,8 @@ Né d'immortel souffle qui vibre
 
 Où ne répondent que douleurs...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 D'après la chanson "Lucifero, quel giorno" d'Emma Shapplin.
 
 Acrostiche : L'amor è breve sogno.
-{{% /notice %}}
+{{% /callout %}}

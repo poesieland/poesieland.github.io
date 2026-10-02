@@ -36,6 +36,6 @@ Un songe nous enlace, un mystère que j'aime
 
 Rejoindra le flot vert strié de reflets bruns.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lever d'un jour.
-{{% /notice %}}
+{{% /callout %}}

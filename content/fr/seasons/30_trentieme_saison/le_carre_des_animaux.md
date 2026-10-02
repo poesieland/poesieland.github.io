@@ -47,6 +47,6 @@ Un de parti, mon coeur refoule
 
 L'habitude de certains mots.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

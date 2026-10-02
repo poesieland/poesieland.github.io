@@ -22,6 +22,6 @@ Contrôle l'âme, intimité
 
 A la musique en majesté.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Musica.
-{{% /notice %}}
+{{% /callout %}}

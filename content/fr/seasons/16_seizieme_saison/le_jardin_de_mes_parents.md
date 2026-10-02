@@ -37,6 +37,6 @@ Imaginer retour, un murmure, "j'arrive !"...
 
 Nos mains rencontreront ton souffle plus mutin...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dans le jardin.
-{{% /notice %}}
+{{% /callout %}}

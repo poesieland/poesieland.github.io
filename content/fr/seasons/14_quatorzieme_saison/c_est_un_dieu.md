@@ -30,6 +30,6 @@ Enchanter dans ce monde
 
 Une âme plus féconde !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : C'est un Dieu...
-{{% /notice %}}
+{{% /callout %}}

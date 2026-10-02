@@ -52,6 +52,6 @@ Notre présence sur la terre
 
 Et sans regret fermons les yeux.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/au_dernier_rang_du_cimetiere" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

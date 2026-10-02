@@ -40,6 +40,6 @@ Notre berceau, guide nos rêves !
 
 Terre, Soleil, le temps s'élèvent !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Songe d'un levant.
-{{% /notice %}}
+{{% /callout %}}

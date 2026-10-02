@@ -34,6 +34,6 @@ Imagine une étreinte emportée en tes pas :
 
 Et Marie au clair voile, à la vie, au trépas !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Prière à Marie.
-{{% /notice %}}
+{{% /callout %}}

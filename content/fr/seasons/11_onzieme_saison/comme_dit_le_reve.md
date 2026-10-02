@@ -41,6 +41,6 @@ Vers l'essence de l'âme, une plume mystique
 
 Ecrivait sur la nuit son orbe fantastique.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Comme dit le rêve.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Et l'automne aux voyants appas
 
 Berce sereins tous ses visages.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise en temps que premier vers d'un vers d'un [poème de la cinquième saison](../5_cinquieme_saison/myriades).
-{{% /notice %}}
+{{% /callout %}}

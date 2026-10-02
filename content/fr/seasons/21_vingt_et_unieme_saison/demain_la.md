@@ -30,8 +30,8 @@ Le temps passe et le monde a changé de partout,
 
 Amour, notre chemin continue, indicible.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/demain_etre" hidefirstheading %}}
 
 Acrostiche : Demain, là.
-{{% /notice %}}
+{{% /callout %}}

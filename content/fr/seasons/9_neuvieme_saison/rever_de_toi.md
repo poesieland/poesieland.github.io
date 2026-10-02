@@ -30,6 +30,6 @@ Offerts en libertés semblables.
 
 Illusion brise les Tables.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Rêver de toi.
-{{% /notice %}}
+{{% /callout %}}

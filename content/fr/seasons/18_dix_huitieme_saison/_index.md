@@ -13,7 +13,7 @@ D'octobre 2023 à janvier 2024"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_18.md" true %}}
 

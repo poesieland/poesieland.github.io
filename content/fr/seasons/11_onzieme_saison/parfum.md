@@ -41,6 +41,6 @@ Initiée au violon
 
 Rêveur le soir se fond...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le parfum du soir.
-{{% /notice %}}
+{{% /callout %}}

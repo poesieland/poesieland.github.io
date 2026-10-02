@@ -36,6 +36,6 @@ La lumière sans se presser
 
 Embrasse hiver en ses volutes !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 La neige d'un [poème de la deuxième saison](../2_deuxieme_saison/neige) remplacée par le givre ce jour pour une même impression d'absolu.
-{{% /notice %}}
+{{% /callout %}}

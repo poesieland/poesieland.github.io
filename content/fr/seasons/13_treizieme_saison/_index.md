@@ -11,7 +11,7 @@ De juillet à novembre 1999"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_13.md" true %}}
 

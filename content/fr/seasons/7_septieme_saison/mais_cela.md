@@ -27,6 +27,6 @@ Le voile de l'oubli par l'ombre découpée
 
 Arrivera-t-il pâle à dire... oui, mais cela...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Mais cela...
-{{% /notice %}}
+{{% /callout %}}

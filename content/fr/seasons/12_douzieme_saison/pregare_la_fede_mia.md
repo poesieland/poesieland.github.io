@@ -46,8 +46,8 @@ Irradie, éclairé, l'une puis l'autre roche,
 
 Eclate le chant pur, symphonique saveur...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Prier, ma foi" en italien.
 
 Acrostiche : Pregare, la fede mia.
-{{% /notice %}}
+{{% /callout %}}

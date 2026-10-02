@@ -36,6 +36,6 @@ Oratorio quand je me mire,
 
 Instants de toi me berceront.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Miroirs de toi.
-{{% /notice %}}
+{{% /callout %}}

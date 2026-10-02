@@ -45,6 +45,6 @@ Et même si d'un fol adieu
 
 Riront larmes au temps vaincues.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur le stade d'aimer.
-{{% /notice %}}
+{{% /callout %}}

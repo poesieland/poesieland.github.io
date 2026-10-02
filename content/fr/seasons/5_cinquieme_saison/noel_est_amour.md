@@ -36,6 +36,6 @@ Un homme a prié dans son cœur,
 
 Rendons de lumière le nôtre !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Noël est amour.
-{{% /notice %}}
+{{% /callout %}}

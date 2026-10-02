@@ -37,8 +37,8 @@ Etoile guide, ciel s'imprègne...
 
 Serein, le monde s'assagit.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante).
 
 Acrostiche : Noël : lumières.
-{{% /notice %}}
+{{% /callout %}}

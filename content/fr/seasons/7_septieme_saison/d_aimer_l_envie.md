@@ -36,6 +36,6 @@ Inutile d'un jour compté
 
 En débit d'immédiat présage.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : D'aimer l'envie.
-{{% /notice %}}
+{{% /callout %}}

@@ -11,7 +11,7 @@ De septembre à décembre 1998"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_9.md" true %}}
 

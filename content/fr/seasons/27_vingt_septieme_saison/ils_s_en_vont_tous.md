@@ -56,7 +56,7 @@ Ils s'en vont tous t'interrogeant ;
 
 Ils sont partis, pleure sans geindre !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 A relire aussi : [On ira](../23_vingt_troisieme_saison/on_ira).
-{{% /notice %}}
+{{% /callout %}}
 

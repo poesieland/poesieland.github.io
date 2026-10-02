@@ -36,6 +36,6 @@ Un flux d'éternité mêle matière, et rien,
 
 Sacré, n'effacera ces images sereines.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Quando Corpus.
-{{% /notice %}}
+{{% /callout %}}

@@ -54,6 +54,6 @@ Mes bras aux tiens bercent frisson,
 
 Irradiés en nuit d'ivresse !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Etreins d'un sourire, ami.
-{{% /notice %}}
+{{% /callout %}}

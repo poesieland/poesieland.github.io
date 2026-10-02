@@ -39,8 +39,8 @@ Insensible et léger, charmant... Mais tu m'aimes
 
 Ordinairement par les jours et les nuits mêmes.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Quand le souffle" en italien.
 
 Acrostiche : Quando il soffio.
-{{% /notice %}}
+{{% /callout %}}

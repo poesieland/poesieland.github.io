@@ -54,6 +54,6 @@ Roule nos cœurs jumeaux,
 
 Mystère...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Métrique variable : 6, 2.
-{{% /notice %}}
+{{% /callout %}}

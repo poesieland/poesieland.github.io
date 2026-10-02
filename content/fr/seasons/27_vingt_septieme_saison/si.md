@@ -45,6 +45,6 @@ Si tu te brûles à ta braise
 
 C'est d'un éclat nouveau, plaisant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Reprise modifiée de la jolie image *je me brûle à ma braise* d'un [poème de la deuxième saison](../2_deuxieme_saison/passion).
-{{% /notice %}}
+{{% /callout %}}

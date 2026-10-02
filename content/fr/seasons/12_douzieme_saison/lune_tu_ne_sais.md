@@ -36,6 +36,6 @@ Irréels, les frissons se brûlent,
 
 Sublimant l'écho transalpin.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Lune, tu ne sais.
-{{% /notice %}}
+{{% /callout %}}

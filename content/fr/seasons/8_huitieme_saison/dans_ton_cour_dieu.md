@@ -36,6 +36,6 @@ Un cœur d'homme dit là qu'il croit
 
 Relier le ciel à la terre !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dans ton cœur, Dieu.
-{{% /notice %}}
+{{% /callout %}}

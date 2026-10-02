@@ -45,6 +45,6 @@ Et sans aucun andantino
 
 Reliait souvenir en gerbe !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je ne sais t'oublier.
-{{% /notice %}}
+{{% /callout %}}

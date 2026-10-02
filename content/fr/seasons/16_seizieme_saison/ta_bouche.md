@@ -27,6 +27,6 @@ Heureuse de nos sens, un rêve qui s'allège
 
 Et s'envole, soleil, dans les bras de l'amant.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ta bouche.
-{{% /notice %}}
+{{% /callout %}}

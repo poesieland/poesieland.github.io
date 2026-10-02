@@ -29,6 +29,6 @@ Des troncs d'acajous et de marbres,
 
 Vois avec moi rêve natal.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/l_orgue_des_arbres" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Trouver le sens d'écrire
 
 Ensemble l'existé !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche double (lignes paires et impaires) : Passé / présent.
-{{% /notice %}}
+{{% /callout %}}

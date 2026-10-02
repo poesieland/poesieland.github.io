@@ -34,6 +34,6 @@ Ivre le chant fécond se presse vers ta lame,
 
 Originel berceau d'un nuage en esquif !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : O sole mio.
-{{% /notice %}}
+{{% /callout %}}

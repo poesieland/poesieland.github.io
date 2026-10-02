@@ -28,8 +28,8 @@ Vers ce sable, cette flore ;
 
 Ô terra incognita !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Soleil nouveau" en italien.
 
 Acrostiche : Sol' nuovo.
-{{% /notice %}}
+{{% /callout %}}

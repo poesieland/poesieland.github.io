@@ -22,6 +22,6 @@ Naîtra le songe au ciel charmé,
 
 Secret : musique au cœur aimé.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Tu sens...
-{{% /notice %}}
+{{% /callout %}}

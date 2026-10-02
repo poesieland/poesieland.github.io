@@ -31,8 +31,8 @@ Touchons nos coeurs aux océans,
 
 Etreignons nos rêves céans.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Devant toi" en italien.
 
 Acrostiche : Davanti a te.
-{{% /notice %}}
+{{% /callout %}}

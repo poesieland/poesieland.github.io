@@ -36,6 +36,6 @@ Et si les arbres enlacés
 
 Rêvent, pleurent, c'est leur histoire.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Sur le sentier.
-{{% /notice %}}
+{{% /callout %}}

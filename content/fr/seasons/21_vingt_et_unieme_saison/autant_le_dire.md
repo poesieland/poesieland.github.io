@@ -37,8 +37,8 @@ Reine éternité désormais
 
 Etreint mon temps de son temps sage.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Ce dernier poème de la 21e Saison annonce le titre de la 22e...
 
 Acrostiche : Autant le dire.
-{{% /notice %}}
+{{% /callout %}}

@@ -36,6 +36,6 @@ Mon amour, rien ne presse
 
 A nos jours enjôleurs.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Parce que trottaient dans ma tête [cette chanson de Patrick Bruel et même l'album éponyme](https://www.google.com/search?q=juste+avant+patrick+bruel&oq=juste+avant+patrick+bruel).
-{{% /notice %}}
+{{% /callout %}}

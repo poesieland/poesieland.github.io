@@ -38,8 +38,8 @@ Remercier le rêve en partance,
 
 Etre, autant que faire se peut.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Corps, vivre" en latin.
 
 Acrostiche : Corpus, vivere.
-{{% /notice %}}
+{{% /callout %}}

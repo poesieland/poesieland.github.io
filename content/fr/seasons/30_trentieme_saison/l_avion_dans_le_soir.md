@@ -48,6 +48,6 @@ Ivre le soir s'élance
 
 Percé de part en part.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /notice %}}
+{{% /callout %}}

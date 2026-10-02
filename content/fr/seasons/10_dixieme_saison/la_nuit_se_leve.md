@@ -34,6 +34,6 @@ Vers l'absolu, temps merveilleux,
 
 Et la nuit ferme alors les yeux...
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : La nuit se lève.
-{{% /notice %}}
+{{% /callout %}}

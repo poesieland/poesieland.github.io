@@ -37,6 +37,6 @@ Installé, doux, il pousse :
 
 Etreinte à l'univers.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Arbre, vie.
-{{% /notice %}}
+{{% /callout %}}

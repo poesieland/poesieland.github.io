@@ -41,6 +41,6 @@ Visage disparu, déchiré d'un marin,
 
 Entre les galets gris un murmure s'éteint.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Dans un rêve.
-{{% /notice %}}
+{{% /callout %}}

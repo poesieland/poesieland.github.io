@@ -37,6 +37,6 @@ Voici l'homme au coeur pur, est-ce un nouvel élan ?
 
 Eglise qui s'étiole, en auras-tu la chape ?
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Conclave
-{{% /notice %}}
+{{% /callout %}}

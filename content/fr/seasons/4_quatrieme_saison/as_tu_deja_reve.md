@@ -36,6 +36,6 @@ Viens ! Sans la vie il n'est que vide :
 
 Ecrire aux pointes des cactus.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : As-tu déjà rêvé ?
-{{% /notice %}}
+{{% /callout %}}

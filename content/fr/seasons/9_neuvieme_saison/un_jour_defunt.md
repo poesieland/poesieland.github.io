@@ -45,6 +45,6 @@ Riche en sa plainte qui résonne :
 
 Tombé l'arbre n'est qu'un défunt.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Un jour né déjà mort.
-{{% /notice %}}
+{{% /callout %}}

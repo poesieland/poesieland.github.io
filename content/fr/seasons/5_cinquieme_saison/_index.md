@@ -11,7 +11,7 @@ De septembre 1997 à mars 1998"""
 {{% param "description" %}}
 
 ---
-{{% children  %}}
+{{% pages %}}
 
 {{% include "./includes/season_5.md" true %}}
 

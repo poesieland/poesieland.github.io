@@ -54,6 +54,6 @@ Il est des jours où l'âme a dû taire parole
 
 Serrée en sa promesse et naissant sentiment.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Le ciel n'est bleu ni gris...
-{{% /notice %}}
+{{% /callout %}}

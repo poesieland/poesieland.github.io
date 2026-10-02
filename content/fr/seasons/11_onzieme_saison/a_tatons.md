@@ -36,6 +36,6 @@ Invite lorsque s'emporte
 
 Rêve de nos paradis !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : A tâtons.
-{{% /notice %}}
+{{% /callout %}}

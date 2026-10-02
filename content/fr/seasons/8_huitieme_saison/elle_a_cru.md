@@ -27,6 +27,6 @@ Ronde sa joue à la couleur
 
 Unie au parfum qui l'arrose.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Elle a cru.
-{{% /notice %}}
+{{% /callout %}}

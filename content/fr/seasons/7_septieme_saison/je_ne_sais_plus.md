@@ -36,6 +36,6 @@ Un refuge où le souvenir
 
 Se bercera d'un sacrilège.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Je ne sais plus.
-{{% /notice %}}
+{{% /callout %}}

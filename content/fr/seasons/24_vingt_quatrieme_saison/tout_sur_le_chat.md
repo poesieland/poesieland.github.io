@@ -40,6 +40,6 @@ Heureux l'esclave qui survit
 
 Soumis au maître !
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Aussi publié sur [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr).
-{{% /notice %}}
+{{% /callout %}}

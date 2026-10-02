@@ -30,6 +30,6 @@ Ardents ton souffle et les mots écrivains ;
 
 Surtout ne dis l'âme que tu retiens.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 Acrostiche : Ne me dis pas.
-{{% /notice %}}
+{{% /callout %}}

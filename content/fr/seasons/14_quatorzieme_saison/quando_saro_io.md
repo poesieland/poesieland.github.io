@@ -37,8 +37,8 @@ Intime, l'art vrai ne ment au souvenir,
 
 Or le temps venu dit ce dernier poème.
 
-{{% notice style="primary" %}}
+{{% callout style="primary" %}}
 "Quand je serai (moi)" en italien.
 
 Acrostiche : Quando sarò io.
-{{% /notice %}}
+{{% /callout %}}
