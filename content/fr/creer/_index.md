@@ -28,7 +28,7 @@ Mon amie suisse Christine exprime elle aussi son désaccord d'une bien jolie fa�
 
 ## Contraintes
 
-Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidement est venue la notion de cadrage. Découvrir les nombreuses contraintes de la versification classique m'a fait clairement pencher vers la versification néo-classique. Ce qui m'a fait investir dans un dictionaire des rimes, toujours intéressant.
+Quand j'ai fréquenté un salon de poésie dans mon adolescence, assez rapidement est venue la notion de cadrage. Découvrir les nombreuses contraintes de la versification classique m'a fait clairement pencher vers la versification néo-classique. Ce qui m'a fait investir dans un dictionnaire des rimes, toujours intéressant. J'en utilise toujours un, plutôt en ligne...
 
 Je suis tombée sur un site [très détaillé et agréable à lire sur la versification dans sa richesse](https://www.etudes-litteraires.com/versification/groupements-vers-et-formes-fixes). Et me suis alors rendue compte que j'avais à l'époque écrit un poème [en sizains sur trois rimes](../seasons/15_quinzieme_saison/acqua_viva_fra_le_mani).
 

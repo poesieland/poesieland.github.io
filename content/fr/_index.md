@@ -1,12 +1,10 @@
 +++
 title = "Poésieland"
 type = "home"
-date = 2026-09-23
+date = 2026-10-02
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
-
-A ce stade, il y aura éventuellement un chiffre romain derrière un titre déjà utilisé.
 
 ## A lire et relire
 
@@ -24,41 +22,39 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 ## Pourquoi la poésie ?
 
-Au début de l'année [2024](./tags/2024/) j'ai picoré quelques réponses au hasard de Google à ces questions : pourquoi la poésie, et que devient-elle de nos jour ?
+Au début de l'année [2024](./tags/2024/) j'ai picoré au hasard quelques réponses trouvées sur Google à ces questions : pourquoi la poésie, et que devient-elle de nos jours ?
 
-En 1866 déjà, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait les poètes qui écrivent en mode nombriliste, et selon lui négligent le rôle de transmettre un message, en plus des émotions. L'époque n'étant plus ce qu'elle était, plus personne n'irait écrire de pièce de théâtre versifiée, et j'imagine que l'exercice est à la portée de peu de monde.
+En 1866 déjà, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait les poètes qui écrivent en mode nombriliste, et qui, selon lui, négligent le rôle de transmettre un message, en plus des émotions. Honnêtement, plus personne n'irait écrire de pièce de théâtre versifiée : j'imagine que l'exercice est à la portée de peu de monde et j'avoue avoir réfléchi au sujet, découvert à l'école, pour en mesurer l'effort.
 
-Je pense que si les poètes ont choisi cette forme parmi les possibilités d'expression littéraires, c'est parce que, pour eux, le plus important sont les émotions à exprimer, partager, faire éprouver au lecteur.
+Je pense que si les poètes ont choisi cette forme parmi les différents styles d'expression littéraire, c'est parce que, pour eux, le plus important, ce sont les émotions à exprimer, partager, faire éprouver au lecteur.
 
-Je souscris à l'affirmation que la poésie n'est pas vendeuse mais tout un chacun l'apprécie, surtout depuis que les réseaux sociaux ont pris une importance centrale dans nos modes de communication [^2]. Il existe d'ailleurs via ceux-ci une très bonne promotion de nos grands auteurs classiques du XIXe siècle (l'âge d'or de la poésie ?) qui ne néglige pas d'exposer le contexte historique.
+Je souscris à l'affirmation que la poésie n'est pas vendeuse mais tout un chacun l'apprécie, surtout depuis que les réseaux sociaux ont pris une importance centrale dans nos modes de communication [^2]. Il existe d'ailleurs, via ceux-ci, une très bonne promotion de nos grands auteurs classiques du XIXe siècle (l'âge d'or de la poésie ?) qui ne néglige pas d'exposer le contexte historique.
 
-Il est également très intéressant de distinguer l'aspect poétique de la poésie et de la prose [^3].
-
-Enfin, je me suis retrouvée dans cet article, décrivant *un être doué de sensibilité, vecteur d'une vision profonde et au plus proche de la vérité du monde qu'il observe.* [^4]
+Enfin, je me suis retrouvée dans cet article, décrivant *un être doué de sensibilité, vecteur d'une vision profonde et au plus proche de la vérité du monde qu'il observe.* [^3]
 
 [^1]: Article publié en 1866, [La Poésie d'aujourd'hui](https://fr.m.wikisource.org/wiki/La_Po%C3%A9sie_d%E2%80%99aujourd%E2%80%99hui), de Constant Martha.
 
 [^2]: Podcast de 2016 menée par des journalistes littéraires, [Où est passée la poésie ?](https://www.radiofrance.fr/franceculture/podcasts/le-petit-salon/ou-est-passee-la-poesie-9246382).
 
-[^3]: Tribune de 2013 de Martin Rueff, philosophe, [La non-poésie des non-poètes](https://www.liberation.fr/livres/2013/05/19/la-non-poesie-des-non-poetes_904066/). Je trouve que ce texte embrouille par moment tellement il joue avec les mots.
-
-[^4]: Article de 2015, [Quelle est la mission du poète : hier, aujourd'hui et demain](https://www.monbestseller.com/actualites-litteraire/4112-quelle-est-la-mission-du-poete-hier-aujourdhui-et-demain).
+[^3]: Article de 2015, [Quelle est la mission du poète : hier, aujourd'hui et demain](https://www.monbestseller.com/actualites-litteraire/4112-quelle-est-la-mission-du-poete-hier-aujourdhui-et-demain).
 
 ## Ecrire et partager
 
-Depuis des années, les sensations précédant la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par un stimuli d'au moins un sens, et l'impression que quelque chose d'unique et précieux  est en germe, que je dois l'écrire pour le partager.
+Depuis des années, les sensations qui précèdent la naissance d'un poème ont rarement changé. Une intense émotion sous-tendue par une atmosphère diffuse, provoquée par la stimulation d'au moins un sens, avec l'impression que quelque chose d'unique et précieux est en germe et que je dois impérativement l'écrire pour le partager.
 
-Dans ma jeunesse, s'il ne naissait pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtrait probablement jamais. La vie quotidienne fort occupée était alors quelque part l'ennemie de la fulgurance poétique.
+Dans ma jeunesse, s'il ne naissait pas "dans les temps", généralement quelques minutes avant que les sensations ne s'estompent, le poème ne naîtrait probablement jamais. La vie quotidienne non interruptible était alors quelque part l'ennemie de la fulgurance poétique.
 
-J'ai observé que j'arrivais à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je note un vers ou deux directement, mais pas plus !
+J'ai ensuite observé que j'arrivais à "rattraper" l'idée initiale au prix d'un effort de mémorisation de la sensation inspiratrice de départ, par nature indescriptible. Paradoxal ? Mais possible, cependant plus facile si je notais un vers, deux, un quatrain, pas plus !
 
-Vingt ans après, ma démarche est plus analytique, j'arrive à désormais mémoriser le contexte de l'inspiration, composé des cinq sens et de la voix intérieure. Ecrire le poème prendra peut-être un peu plus de temps parce que je porte plus d'attention au choix des mots mais sera fidèle à l'inspiration initiale.
+Vingt ans après, ma démarche est plus analytique, j'arrive désormais à mémoriser le contexte de l'inspiration, composé des cinq sens et de la voix intérieure. Ecrire le poème prendra peut-être un peu plus de temps parce que je porte plus d'attention au choix des mots mais sera fidèle à l'inspiration initiale.
 
-C'est aussi de retravailler sur ce site web après quinze ans sans y toucher qui m'a fait redécouvrir les magnifiques poèmes pas encore numériques, et a ravivé la créativité. Une belle pensée circule sous énormément de formes et affirme : la créativité, c'est comme un muscle, ça se cultive !
+Justement, en ce qui concerne ce choix des mots, il m'arrive de présélectionner des rimes tout en laissant venir l'idée d'un poème, y compris sa chute, puis, une fois prête, l'écrire...
+
+Le fait de retravailler sur ce site web après quinze ans sans y toucher m'a clairement fait redécouvrir des magnifiques poèmes pas encore numériques, et a ravivé la créativité. Une belle pensée circule sous énormément de formes et affirme : *la créativité, c'est comme un muscle, ça se cultive !*
 
 De plus, le moteur de recherche intégré au site me permet de voir quel sujet je n'ai pas encore abordé.
 
-De temps à autres le processus de maturation prend plusieurs jours, ou plusieurs mois, et le résultat n'est pas prévisible, en terme de "beauté brute". C'est dans ce cas plus une méditation qu'un "éclat".
+De temps à autre le processus de maturation prend plusieurs jours, ou plusieurs mois, et le résultat n'est pas prévisible, en terme de "beauté brute". Aussi, les mots finaux sont souvent différents de ceux pressentis... C'est dans ce cas plus une méditation qu'un "éclat".
 
 Il m'est arrivé que la composition donne lieu à une concentration tellement intense que j'ai eu l'impression, en finissant le poème, de l'avoir composé en apnée.
 
@@ -80,13 +76,13 @@ Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
 
 ### Fixer ses souvenirs
 
-Comme la mémoire humaine est sélective, il peut sembler indispensable à certaines personnes de fixer des souvenirs de façon différente d'une représentation textuelle prosaïque et objective, ou d'une photographie, ou d'une représentation mentale. Cette dernière est la plus susceptible d'être altérée avec le temps. Il y a un côté paradoxal à subjectiver ainsi les souvenirs sélectionnés, afin d'être sûr de ne pas les oublier.
+Comme la mémoire humaine est sélective, il peut sembler indispensable de fixer les souvenirs qu'on ne veut absolument pas perdre. Pour cela, ce peuvent être une représentation textuelle prosaïque et objective, une photographie, ou une représentation mentale. Cette dernière est la plus susceptible d'être altérée avec le temps. Il y a un côté paradoxal à subjectiver ainsi les souvenirs sélectionnés qui seront ensuite retranscrits dans le moule d'un poème.
 
-Maintenant, ce site est aussi devenu un lieu où je peux exposer mon autobiographie, au fil des notes en bas des poèmes ou des pages dédiées spécialement à l'analyse de contenu.
+Maintenant, ce site est aussi devenu un lieu où je peux exposer mon autobiographie, mais vous devrez reconstituer le puzzle, tout en ayant un petit coup de main de ma part, la catégorie [Enfance et adolescence](./categories/enfance-et-adolescence/), les [lieux](./locations/), et des [humeurs du moment](./thoughts/), en plus de notes ici et là.
 
 ### Aider ses réflexions à aboutir
 
-L'écriture permet également de conclure une réflexion au travers de la forme plus ou moins libre du poème, mais qui demande un travail différent de la prose de roman. C'est plus subtil à travers les métaphores d'un poème. Le poème permet de "grandir" tout en n'exprimant pas aux autres de façon intelligible le fond de sa pensée. N'être à nu que pour soi-même. C'était surtout vrai dans ma jeunesse, quand les émotions amoureuses étaient si fortes.
+L'écriture permet de conclure une réflexion au travers de la forme plus ou moins libre du poème, mais qui demande un travail différent de la prose de roman. C'est plus subtil à travers les métaphores d'un poème. Le poème permet de "grandir" tout en n'exprimant pas aux autres de façon intelligible le fond de sa pensée. N'être à nu que pour soi-même. C'était surtout vrai dans ma jeunesse, quand les émotions amoureuses étaient si fortes.
 
 ### Etre reconnu
 
@@ -105,6 +101,8 @@ L'espace limité d'une langue est un grand terrain de jeu, entre les jeux de mot
 [Les reprises](./reprises) sont également très amusantes.
 
 Bon voyage.
+
+Remarque : Si vous vous posez la question, vous trouverez un chiffre romain derrière un titre déjà utilisé car au bout de plus de 1600 textes je ne me casse plus la tête à chercher un titre original si le titre retenu est déjà le plus explicite par rapport au message que le poème veut transmettre.
 
 Pour toute remarque ou suggestion : [Page Facebook](https://www.facebook.com/profile.php?id=61584635947640) ou [LinkedIn](https://www.linkedin.com/in/barbara-post-1b323714).
 
