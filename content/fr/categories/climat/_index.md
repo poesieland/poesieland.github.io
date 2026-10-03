@@ -19,7 +19,7 @@ En mai 2024 je me faisais la réflexion suivante, avant d'inaugurer cette catég
 
 *J'ai été surprise d'avoir déjà ressenti avec acuité une [canicule passée](../seasons/17_dix_septieme_saison/tribut) en 2005.*
 
-La canicule de 2003, je l'ai vécue, mais je n'en ai rien retenu...-
+La canicule de 2003, je l'ai vécue, mais je n'en ai rien retenu...
 
 Les catégories les plus associées au climat :
 

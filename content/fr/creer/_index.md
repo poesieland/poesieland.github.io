@@ -6,6 +6,8 @@ date = 2025-11-01
 type = "chapter"
 +++
 
+Créer, en poésie, ce n'est pas uniquement avoir quelque chose à dire, c'est choisir une forme d'expression particulière.
+
 ## Réflexion sur prose et vers
 
 >Pour écrire en prose, il faut absolument avoir quelque chose à dire; pour écrire en vers, ce n'est pas indispensable.

@@ -1,7 +1,7 @@
 +++
 title = "Poésieland"
 type = "home"
-date = 2026-10-02
+date = 2026-10-03
 +++
 
 Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
@@ -20,9 +20,9 @@ Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans
 
 {{% include "./includes/last_thought.md" %}}
 
-## Pourquoi la poésie ?
+## Pourquoi j'écris
 
-Au début de l'année [2024](./tags/2024/) j'ai picoré au hasard quelques réponses trouvées sur Google à ces questions : pourquoi la poésie, et que devient-elle de nos jours ?
+Au début de l'année [2024](./tags/2024/) j'ai picoré au hasard quelques réponses trouvées sur Google à ces questions : pourquoi écrire spécifiquement de la poésie ? Que devient-elle de nos jours ?
 
 En 1866 déjà, dans *La Poésie d'aujourd'hui* [^1], Constant Martha, moraliste français féru de morale antique, dénonçait les poètes qui écrivent en mode nombriliste, et qui, selon lui, négligent le rôle de transmettre un message, en plus des émotions. Honnêtement, plus personne n'irait écrire de pièce de théâtre versifiée : j'imagine que l'exercice est à la portée de peu de monde et j'avoue avoir réfléchi au sujet, découvert à l'école, pour en mesurer l'effort.
 
@@ -62,15 +62,17 @@ Ecrire de la poésie, c'est une façon de cadrer les sensations en mots, les ém
 
 J'aime l'art, et la poésie, si modeste soit-elle, représente une infinité, dans le cycle du monde et des hommes. J'ai choisi le jeu des mots, parce que c'est ce qui me convient le mieux. J'aime également transmettre des émotions par la photographie.
 
-Pour en savoir plus sur ma [relation avec la création](./creer).
-
 Et côté photographie :
 
 [Photos et vidéos entre ciel et terre {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/declics)
 
 [Les plus belles photos de la région de Charleroi... paraît-il {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/annie.ggoffaux)
 
-## Quels rôles pour la poésie ?
+## Et comment naissent les poèmes ?
+
+[Découvrir ma démarche](./creer/).
+
+## Ce que la poésie permet
 
 Je pense que les rôles essentiels de la poésie sont avant tout psychologiques.
 
