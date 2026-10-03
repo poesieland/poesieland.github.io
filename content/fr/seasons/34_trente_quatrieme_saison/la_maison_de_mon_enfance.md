@@ -67,7 +67,7 @@ Pourquoi faut-il d'ailleurs grandir,
 
 Laisser l'enfant, là, minuscule ?[^4]
 
-{{< figure src="/images/ce_temps_la_19_1.jpg" title="Ma maison verte" >}}
+{{< figure src="/images/ce_temps_la_19_1.jpg" caption="Ma maison verte" >}}
 
 [^1]: Voir [ce poème de la vingt-sixième Saison](../26_vingt_sixieme_saison/la_guepe_du_sureau).
 

@@ -64,9 +64,9 @@ Le jour est bleu, rien ne presse,
 
 Ce temps-là à l'unisson.
 
-{{< figure src="/images/ce_temps_la_19_0.jpg" title="Ma première découverte des tulipes" >}}
+{{< figure src="/images/ce_temps_la_19_0.jpg" caption="Ma première découverte des tulipes" >}}
 
-{{< figure src="/images/ce_temps_la_19_1.jpg" title="Ma maison verte" >}}
+{{< figure src="/images/ce_temps_la_19_1.jpg" caption="Ma maison verte" >}}
 
 {{% callout style="primary" %}}
 Reprise du premier vers d'un [poème de de la sixième saison](../6_sixieme_saison/poussieres).

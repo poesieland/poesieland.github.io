@@ -68,6 +68,6 @@ On célébra deux mille
 
 De rires et de chants.
 
-{{< figure src="/images/traversee_de_paris_35_0.jpg" title="Vue vers le nord depuis la place d'Italie, le 14.03.2004. Au centre gauche, l'immense Panthéon. Sur la droite, si loin... la basilique du Sacré-Coeur (Montmartre). Cette vue est remarquable car elle couvre un grand nombre d'édifices religieux majeurs : à gauche du Panthéon : Saint-Sulpice, Saint-Germain-des-Prés, et à sa droite : Notre-Dame de Paris." >}}
+{{< figure src="/images/traversee_de_paris_35_0.jpg" caption="Vue vers le nord depuis la place d'Italie, le 14.03.2004. Au centre gauche, l'immense Panthéon. Sur la droite, si loin... la basilique du Sacré-Coeur (Montmartre). Cette vue est remarquable car elle couvre un grand nombre d'édifices religieux majeurs : à gauche du Panthéon : Saint-Sulpice, Saint-Germain-des-Prés, et à sa droite : Notre-Dame de Paris." >}}
 
-{{< figure src="/images/traversee_de_paris_35_1.jpg" title="Vue vers l'est depuis la place d'Italie, le 14.03.2004. Une vue à couper le souffle depuis l'appartement de ma voisine. De gauche à droite : la tour Montparnasse avec juste devant le dôme de l'Observatoire, la tour CIT, la tour Eiffel, la Défense (au fond), et le dôme doré de l'hôtel des Invalides." >}}
+{{< figure src="/images/traversee_de_paris_35_1.jpg" caption="Vue vers l'est depuis la place d'Italie, le 14.03.2004. Une vue à couper le souffle depuis l'appartement de ma voisine. De gauche à droite : la tour Montparnasse avec juste devant le dôme de l'Observatoire, la tour CIT, la tour Eiffel, la Défense (au fond), et le dôme doré de l'hôtel des Invalides." >}}

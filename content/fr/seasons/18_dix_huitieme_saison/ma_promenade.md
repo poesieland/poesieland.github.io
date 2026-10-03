@@ -37,4 +37,4 @@ Comme dentelle au jour brun-gris,
 
 Se répondent et fiers cancanent.
 
-{{< figure src="/images/ma_promenade_18_0.jpg" title="Le Ravel, le 27.12.2023" >}}
+{{< figure src="/images/ma_promenade_18_0.jpg" caption="Le Ravel, le 27.12.2023" >}}

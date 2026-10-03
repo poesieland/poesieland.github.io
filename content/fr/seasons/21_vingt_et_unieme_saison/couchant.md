@@ -37,4 +37,4 @@ Moment qui dépasse,
 
 Attachant.
 
-{{< figure src="/images/couchant_21_0.jpg" title="Le 01.09.2024" >}}
+{{< figure src="/images/couchant_21_0.jpg" caption="Le 01.09.2024" >}}

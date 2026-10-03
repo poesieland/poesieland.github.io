@@ -37,6 +37,6 @@ Le présent simple sans fouillis automnal,
 
 Je fus et je suis, mes souvenirs s'effacent.
 
-{{< figure src="/images/present_simple_18_0.jpg" title="17 décembre 2023" >}}
+{{< figure src="/images/present_simple_18_0.jpg" caption="17 décembre 2023" >}}
 
-{{< figure src="/images/present_simple_18_1.jpg" title="Avec mon chien le 5 juillet 2022" >}}
+{{< figure src="/images/present_simple_18_1.jpg" caption="Avec mon chien le 5 juillet 2022" >}}

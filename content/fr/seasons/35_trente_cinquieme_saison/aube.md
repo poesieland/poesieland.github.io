@@ -49,4 +49,4 @@ Ciel réceptacle
 
 De tant d'émoi.
 
-{{< figure src="/images/aube_35_0.jpg" title="Le 27.08.2026" >}}
+{{< figure src="/images/aube_35_0.jpg" caption="Le 27.08.2026" >}}

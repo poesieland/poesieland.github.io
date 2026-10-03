@@ -50,4 +50,4 @@ De piété
 
 Lieu sensible.
 
-{{< figure src="/images/au_mont_des_cats_34_0.jpg" title="Mont des Cats, 21.07.2026" >}}
+{{< figure src="/images/au_mont_des_cats_34_0.jpg" caption="Mont des Cats, 21.07.2026" >}}

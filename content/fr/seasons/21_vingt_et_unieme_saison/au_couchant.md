@@ -36,4 +36,4 @@ Quand ces moments veilleurs
 
 S'enivrent de leurs braises.
 
-{{< figure src="/images/au_couchant_21_0.jpg" title="Mont des Cats - 29.07.2024" >}}
+{{< figure src="/images/au_couchant_21_0.jpg" caption="Mont des Cats - 29.07.2024" >}}

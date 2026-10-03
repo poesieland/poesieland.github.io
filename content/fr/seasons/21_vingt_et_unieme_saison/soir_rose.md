@@ -37,4 +37,4 @@ Mauve, souffleront brises brèves
 
 Sur les terriers et sur les nids.
 
-{{< figure src="/images/soir_rose_21_0.jpg" title="Mont des Cats - 31.07.2024" >}}
+{{< figure src="/images/soir_rose_21_0.jpg" caption="Mont des Cats - 31.07.2024" >}}

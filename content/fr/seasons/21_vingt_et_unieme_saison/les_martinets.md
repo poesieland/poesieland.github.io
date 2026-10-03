@@ -27,4 +27,4 @@ Noirs fuseaux volages champêtres
 
 En un instant éparpillés.
 
-{{< figure src="/images/les_martinets_21_0.jpg" title="08.07.2024" >}}
+{{< figure src="/images/les_martinets_21_0.jpg" caption="08.07.2024" >}}

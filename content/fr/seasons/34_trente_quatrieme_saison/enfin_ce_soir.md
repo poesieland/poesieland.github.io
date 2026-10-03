@@ -51,4 +51,4 @@ Qui dodeline.
 
 [^1]: Honnêtement, sur ce séjour de deux semaines, je n'ai eu droit qu'à deux beaux couchers de soleil colorés. Le premier et le dernier jour !
 
-{{< figure src="/images/enfin_ce_soir_34_0.jpg" title="Mont des Cats - 24.07.2026" >}}
+{{< figure src="/images/enfin_ce_soir_34_0.jpg" caption="Mont des Cats - 24.07.2026" >}}

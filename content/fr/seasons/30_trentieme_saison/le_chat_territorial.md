@@ -37,4 +37,4 @@ Quel stress et quel drame,
 
 Et le chat poursuit !
 
-{{< figure src="/images/le_chat_territorial_30_0.jpg" title="Fripouille en juillet 2022, du temps où il ne se faisait pas rétamer par les jeunes matous du quartier comme maintenant" >}}
+{{< figure src="/images/le_chat_territorial_30_0.jpg" caption="Fripouille en juillet 2022, du temps où il ne se faisait pas rétamer par les jeunes matous du quartier comme maintenant" >}}

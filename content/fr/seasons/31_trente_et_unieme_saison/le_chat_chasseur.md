@@ -46,4 +46,4 @@ Qui d'un coup de griffe
 
 Trucide, malheur !
 
-{{< figure src="/images/le_chat_chasseur_31_0.jpg" title="Près du métro, janvier 2026" >}}
+{{< figure src="/images/le_chat_chasseur_31_0.jpg" caption="Près du métro, janvier 2026" >}}

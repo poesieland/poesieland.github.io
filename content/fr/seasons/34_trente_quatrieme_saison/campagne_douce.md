@@ -51,4 +51,4 @@ Le jour, le soir... puis une rixe :
 
 Soleil et vent s'en vont plonger.
 
-{{< figure src="/images/campagne_douce_34_0.jpg" title="Mont des Cats, 18.07.2026" >}}
+{{< figure src="/images/campagne_douce_34_0.jpg" caption="Mont des Cats, 18.07.2026" >}}

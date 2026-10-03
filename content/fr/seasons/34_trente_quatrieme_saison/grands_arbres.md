@@ -50,4 +50,4 @@ Grands arbres, compères,
 
 Bercés, enchantés.
 
-{{< figure src="/images/grands_arbres_34_0.jpg" title="Mont des Cats, 17.07.2026" >}}
+{{< figure src="/images/grands_arbres_34_0.jpg" caption="Mont des Cats, 17.07.2026" >}}

@@ -49,4 +49,4 @@ Caresse sans ardeur,
 
 Plus rien n'est à parfaire.
 
-{{< figure src="/images/soir_parfait_21_0.jpg" title="Mont des Cats - 30.07.2024" >}}
+{{< figure src="/images/soir_parfait_21_0.jpg" caption="Mont des Cats - 30.07.2024" >}}

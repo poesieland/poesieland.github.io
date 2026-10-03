@@ -49,4 +49,4 @@ N'est plus de visu !
 [^1]: Il s'appelait Grisouille mais ne voulait plus retourner chez ses anciens humains, quelques maisons plus loin.
 [^2]: Gourmand, choyé dans tout le voisinage, un grand gabarit et presque 7kg.
 
-{{< figure src="/images/fripouille_30_0.jpg" title="Photo de mars 2018. Il nous a rejoints en juillet 2017. 🪦 26.12.2025." >}}
+{{< figure src="/images/fripouille_30_0.jpg" caption="Photo de mars 2018. Il nous a rejoints en juillet 2017. 🪦 26.12.2025." >}}

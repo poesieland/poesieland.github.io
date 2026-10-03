@@ -4,7 +4,7 @@ weight = 10
 date = 2025-12-07
 +++
 
-{{< figure src="/images/barbara_post_2026.jpg" title="The author, 2026" >}}
+{{< figure src="/images/barbara_post_2026.jpg" caption="The author, 2026" >}}
 
 ## License
 

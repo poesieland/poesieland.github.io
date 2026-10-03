@@ -27,4 +27,4 @@ Chaque bande à sa soeur en arpège fondant
 
 Dit qu'elle est la plus belle et se mire en sa glace.
 
-{{< figure src="/images/apparition_19_0.jpg" title="Arc-en-ciel en mai 2001" >}}
+{{< figure src="/images/apparition_19_0.jpg" caption="Arc-en-ciel en mai 2001" >}}

@@ -75,4 +75,4 @@ En solitaire
 
 Astre flâneur.
 
-{{< figure src="/images/lune_nouvelle_32_0.jpg" title="Ce soir-là... peu après 19h" >}}
+{{< figure src="/images/lune_nouvelle_32_0.jpg" caption="Ce soir-là... peu après 19h" >}}

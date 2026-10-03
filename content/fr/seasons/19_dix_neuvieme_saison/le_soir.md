@@ -54,6 +54,6 @@ Rêves d'un monde
 
 Tout apaisé.
 
-{{< figure src="/images/le_soir_19_0.jpg" title="Le 05.03.2024 à 18h23" >}}
+{{< figure src="/images/le_soir_19_0.jpg" caption="Le 05.03.2024 à 18h23" >}}
 
-{{< figure src="/images/le_soir_19_1.jpg" title="Le 05.03.2024 à 18h26" >}}
+{{< figure src="/images/le_soir_19_1.jpg" caption="Le 05.03.2024 à 18h26" >}}

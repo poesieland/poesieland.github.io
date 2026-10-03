@@ -36,4 +36,4 @@ Quand l'été vrai revient
 
 M'enchanter l'âme reine.
 
-{{< figure src="/images/ete_champetre_20_0.jpg" title="Le 8 juin 2024" >}}
+{{< figure src="/images/ete_champetre_20_0.jpg" caption="Le 8 juin 2024" >}}

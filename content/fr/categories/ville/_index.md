@@ -2,7 +2,7 @@
 title = "Ville"
 +++
 
-{{< figure src="/images/ville.jpg" title="Avril 2004" >}}
+{{< figure src="/images/ville.jpg" caption="Avril 2004" >}}
 
 {{< chartjs id="poemDay-villeRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-ville-radar.js" />}}
 

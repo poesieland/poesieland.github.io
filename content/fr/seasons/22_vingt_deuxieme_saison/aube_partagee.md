@@ -46,6 +46,6 @@ Exprime envies,
 
 Tout notre amour.
 
-{{< figure src="/images/aube_partagee_22_0.jpg" title="Annecy ce matin-là" >}}
+{{< figure src="/images/aube_partagee_22_0.jpg" caption="Annecy ce matin-là" >}}
 
-{{< figure src="/images/aube_partagee_22_1.jpg" title="Charleroi au même moment" >}}
+{{< figure src="/images/aube_partagee_22_1.jpg" caption="Charleroi au même moment" >}}

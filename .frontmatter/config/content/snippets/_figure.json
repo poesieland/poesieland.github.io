@@ -1,7 +1,7 @@
 {
   "description": "Insert a figure (picture) with caption",
   "body": [
-    "{{< figure src=\"/images/[[&imageName]]\" title=\"[[&imageCaption]]\" >}}"
+    "{{< figure src=\"/images/[[&imageName]]\" caption=\"[[&imageCaption]]\" >}}"
   ],
   "fields": [
     {

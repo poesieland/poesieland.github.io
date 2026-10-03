@@ -46,4 +46,4 @@ Le soir au parfum
 
 Très doux tend son voile.
 
-{{< figure src="/images/le_soleil_s_endort_21_0.jpg" title="Mont des Cats - 02.08.2024" >}}
+{{< figure src="/images/le_soleil_s_endort_21_0.jpg" caption="Mont des Cats - 02.08.2024" >}}

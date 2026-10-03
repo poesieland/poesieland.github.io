@@ -49,4 +49,4 @@ L'été transperce
 
 A vol d'oiseau.
 
-{{< figure src="/images/l_ete_parfait_34_0.jpg" title="Moulin de Boeschepe, 22.07.2026" >}}
+{{< figure src="/images/l_ete_parfait_34_0.jpg" caption="Moulin de Boeschepe, 22.07.2026" >}}

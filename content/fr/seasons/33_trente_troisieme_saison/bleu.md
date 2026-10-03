@@ -44,4 +44,4 @@ Infini, le bleu croque
 Rires des étés secs.
 
 
-{{< figure src="/images/bleu_33_0.jpg" title="Le 04.07.2026" >}}
+{{< figure src="/images/bleu_33_0.jpg" caption="Le 04.07.2026" >}}

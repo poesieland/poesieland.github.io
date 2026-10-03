@@ -56,4 +56,4 @@ Un chat pressé :
 
 Voici septembre.
 
-{{< figure src="/images/vie_de_chat_21_0.jpg" title="Août 2024" >}}
+{{< figure src="/images/vie_de_chat_21_0.jpg" caption="Août 2024" >}}

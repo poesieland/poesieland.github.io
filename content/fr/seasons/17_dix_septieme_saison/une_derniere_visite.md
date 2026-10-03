@@ -43,13 +43,13 @@ Je vois ce qui n'est plus, de souvenirs péris ;
 
 Toutes réalités se frayent un passage.
 
-{{< figure src="/images/une_derniere_visite_17_0.jpg" title="Le puits du château de Ham-sous-Varsberg" >}}
+{{< figure src="/images/une_derniere_visite_17_0.jpg" caption="Le puits du château de Ham-sous-Varsberg" >}}
 
-{{< figure src="/images/une_derniere_visite_17_1.jpg" title="Le puits du château de Ham-sous-Varsberg" >}}
+{{< figure src="/images/une_derniere_visite_17_1.jpg" caption="Le puits du château de Ham-sous-Varsberg" >}}
 
-{{< figure src="/images/une_derniere_visite_17_2.jpg" title="La chapelle du château de Ham-sous-Varsberg en cours de restauration en 2005" >}}
+{{< figure src="/images/une_derniere_visite_17_2.jpg" caption="La chapelle du château de Ham-sous-Varsberg en cours de restauration en 2005" >}}
 
-{{< figure src="/images/une_derniere_visite_17_3.jpg" title="Le carrelage de la zone de bal extérieur du château de Ham-sous-Varsberg" >}}
+{{< figure src="/images/une_derniere_visite_17_3.jpg" caption="Le carrelage de la zone de bal extérieur du château de Ham-sous-Varsberg" >}}
 
 {{% callout style="primary" %}}
 Souvenirs de Ham-sous-Varsberg.

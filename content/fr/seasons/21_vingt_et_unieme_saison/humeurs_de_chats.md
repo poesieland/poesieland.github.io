@@ -54,4 +54,4 @@ Libres comme vent dans les voiles
 
 Et nous partagent leurs humeurs.
 
-{{< figure src="/images/humeurs_de_chats_21_0.jpg" title="Caïd du coin, octobre 2023" >}}
+{{< figure src="/images/humeurs_de_chats_21_0.jpg" caption="Caïd du coin, octobre 2023" >}}

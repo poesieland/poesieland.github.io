@@ -47,4 +47,4 @@ Et comme une ode rose
 
 Soleil vient se coucher.
 
-{{< figure src="/images/orage_du_soir_29_0.jpg" title="Après l'orage ce 13.09.2025" >}}
+{{< figure src="/images/orage_du_soir_29_0.jpg" caption="Après l'orage ce 13.09.2025" >}}

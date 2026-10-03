@@ -61,4 +61,4 @@ Nos étés dans la brise,
 
 Ici, pour revenir.
 
-{{< figure src="/images/a_nos_etes_34_0.jpg" title="Mont des Cats, 15.07.2026" >}}
+{{< figure src="/images/a_nos_etes_34_0.jpg" caption="Mont des Cats, 15.07.2026" >}}

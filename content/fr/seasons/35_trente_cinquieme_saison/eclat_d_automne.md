@@ -59,4 +59,4 @@ Solitaire,
 
 Discret, là.
 
-{{< figure src="/images/eclat_d_automne_35_0.jpg" title="Lavatère annuelle, 23.08.2026" >}}
+{{< figure src="/images/eclat_d_automne_35_0.jpg" caption="Lavatère annuelle, 23.08.2026" >}}

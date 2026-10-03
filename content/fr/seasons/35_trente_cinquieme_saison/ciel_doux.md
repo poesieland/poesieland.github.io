@@ -48,4 +48,4 @@ Doux, le ciel sans trêve,
 
 Doux, ciel automnal.
 
-{{< figure src="/images/ciel_doux_35_0.jpg" title="Le 22.08.2026" >}}
+{{< figure src="/images/ciel_doux_35_0.jpg" caption="Le 22.08.2026" >}}

@@ -49,4 +49,4 @@ Aux cieux ouverts,
 
 Tous en cadences.
 
-{{< figure src="/images/timidite_des_cimes_34_0.jpg" title="Mont des Cats, 25.07.2024" >}}
+{{< figure src="/images/timidite_des_cimes_34_0.jpg" caption="Mont des Cats, 25.07.2024" >}}

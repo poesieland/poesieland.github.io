@@ -5,7 +5,7 @@ Ce moment magique où le jour se change en nuit.
 
 Contrairement à l'[aube](../aube/), les occasions photographiques sont nombreuses.
 
-{{< figure src="/images/crepuscule.jpg" title="Août 2022" >}}
+{{< figure src="/images/crepuscule.jpg" caption="Août 2022" >}}
 
 {{< chartjs id="poemDay-crepusculeRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-crepuscule-radar.js" />}}
 

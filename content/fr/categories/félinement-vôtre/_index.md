@@ -12,13 +12,13 @@ Venez ensuite rejoindre le groupe humoristique de qualité [Société secrète d
 
 ## Miaou, on est photogéniques !
 
-{{< figure src="/images/paire_de_chats.jpg" title="Repos synchronisé ! juillet 2018" >}}
+{{< figure src="/images/paire_de_chats.jpg" caption="Repos synchronisé ! juillet 2018" >}}
 
-{{< figure src="/images/humeurs_de_chats_21_0.jpg" title="Un caïd du coin, octobre 2023" >}}
+{{< figure src="/images/humeurs_de_chats_21_0.jpg" caption="Un caïd du coin, octobre 2023" >}}
 
-{{< figure src="/images/le_chat_chasseur_31_0.jpg" title="Près du métro, janvier 2026" >}}
+{{< figure src="/images/le_chat_chasseur_31_0.jpg" caption="Près du métro, janvier 2026" >}}
 
-{{< figure src="/images/le_siamois_32_0.jpg" title="Mars 2026" >}}
+{{< figure src="/images/le_siamois_32_0.jpg" caption="Mars 2026" >}}
 
 {{< chartjs id="poemDay-felinement_votreRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-felinement_votre-radar.js" />}}
 

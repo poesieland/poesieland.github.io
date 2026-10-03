@@ -55,4 +55,4 @@ S'asseoir
 
 S'impose.
 
-{{< figure src="/images/l_ange_dans_le_ciel_21_0.jpg" title="Mont des Cats - 01.08.2024" >}}
+{{< figure src="/images/l_ange_dans_le_ciel_21_0.jpg" caption="Mont des Cats - 01.08.2024" >}}

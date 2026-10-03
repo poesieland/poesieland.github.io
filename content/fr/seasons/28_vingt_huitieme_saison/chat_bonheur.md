@@ -63,4 +63,4 @@ D'un bond quand il accourt
 
 Et pour mon chat je chante !
 
-{{< figure src="/images/mon_chat_18_0.jpg" title="Mon chat, 3 septembre 2022" >}}
+{{< figure src="/images/mon_chat_18_0.jpg" caption="Mon chat, 3 septembre 2022" >}}

@@ -49,4 +49,4 @@ Un vieil arbre sans lendemain
 
 Forme une clairière carrée.
 
-{{< figure src="/images/destin_de_vieil_arbre_33_0.jpg" title="Crédit photo Angèle Post - 04.07.2026, France" >}}
+{{< figure src="/images/destin_de_vieil_arbre_33_0.jpg" caption="Crédit photo Angèle Post - 04.07.2026, France" >}}

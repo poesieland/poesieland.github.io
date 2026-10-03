@@ -27,4 +27,4 @@ Trace aquarelle jolie, ah !
 
 Demain tant de tendresse fane !
 
-{{< figure src="/images/eveil_19_0.jpg" title="Dans mon quartier ce jour" >}}
+{{< figure src="/images/eveil_19_0.jpg" caption="Dans mon quartier ce jour" >}}

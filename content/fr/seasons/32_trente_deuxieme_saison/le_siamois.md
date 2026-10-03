@@ -37,4 +37,4 @@ Printemps sera tendre,
 
 Peut-être fécond.
 
-{{< figure src="/images/le_siamois_32_0.jpg" title="Mars 2026" >}}
+{{< figure src="/images/le_siamois_32_0.jpg" caption="Mars 2026" >}}

@@ -8,7 +8,7 @@ Où l'on peut trouver le [soleil](/search?search-by=soleil) mais aussi les [écl
 
 [La lune](../lune), quant à elle, dispose de sa propre catégorie.
 
-{{< figure src="/images/ciel.jpg" title="Août 2025" >}}
+{{< figure src="/images/ciel.jpg" caption="Août 2025" >}}
 
 {{< chartjs id="poemDay-cielRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-ciel-radar.js" />}}
 

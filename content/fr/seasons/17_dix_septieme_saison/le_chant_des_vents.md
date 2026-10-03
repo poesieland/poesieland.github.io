@@ -46,4 +46,4 @@ Je pense à toi : le chant des vents aimables
 
 Déconcertant dans mon jardin mêlé.
 
-{{< figure src="/images/le_chant_des_vents_17_0.jpg" title="Photo du 29.08.2004" >}}
+{{< figure src="/images/le_chant_des_vents_17_0.jpg" caption="Photo du 29.08.2004" >}}

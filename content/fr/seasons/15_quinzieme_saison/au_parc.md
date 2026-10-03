@@ -37,4 +37,4 @@ A demain, parc d'été, je serai vive encor
 
 A petits pas flâneurs, je suis l'âme à l'ombrelle.
 
-{{< figure src="/images/au_parc_15_0.jpg" title="Le parc de Choisy à Paris 13e" >}}
+{{< figure src="/images/au_parc_15_0.jpg" caption="Le parc de Choisy à Paris 13e" >}}
