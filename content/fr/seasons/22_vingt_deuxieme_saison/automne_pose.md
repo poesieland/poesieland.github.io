@@ -5,9 +5,7 @@ date = 2024-10-27
 weight = 34
 categories = [ "Automne" ]
 tags = [ "2024", "octosyllabe", "saisons", "le ciel est" ]
-info = """
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-"""
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Les cieux sont **gris, débilitants**"
@@ -39,6 +37,3 @@ Un automne pour raconter
 
 Chanson de feuille jaune et rousse !
 
-{{% callout style="primary" %}}
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /callout %}}

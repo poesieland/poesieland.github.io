@@ -5,10 +5,7 @@ date = 2024-05-28
 weight = 21
 categories = ["Ciel", "Eau douce", "Climat", "Révolte"]
 tags = ["nature", "philosophie", "le ciel est", "2024", "métrique variable", "octosyllabe", "hexasyllabe"]
-info = """
-Métrique variable : 8, 6.
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}"""
-
+info = "Métrique variable : 8, 6."
 description = "Le ciel est **gris débilitant**"
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -39,7 +36,3 @@ L'escargot part en chasse,
 Perdra t-on le fruit et l'épi ?
 
 Et danse la limace !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /callout %}}

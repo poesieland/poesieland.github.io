@@ -12,7 +12,7 @@ tags = [
   "saisons",
   "le ciel est"
 ]
-info = '{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}'
+info = ""
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Le ciel est **gris plombé**"
@@ -43,7 +43,3 @@ Livide, sans spectacle,
 Le ciel est gris, voleur,
 
 L'hiver pour réceptacle.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /callout %}}

@@ -12,7 +12,7 @@ tags = [
   "saisons",
   "le ciel est"
 ]
-info = '{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}'
+info = ""
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Le ciel est **gris, livide**"
@@ -35,6 +35,3 @@ Le ciel est gris, si morne,
 
 D'un hiver imminent.
 
-{{% callout style="primary" %}}
-{{% include "../../includes/le_ciel_est_gris" hidefirstheading %}}
-{{% /callout %}}

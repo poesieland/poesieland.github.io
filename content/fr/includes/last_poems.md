@@ -2,6 +2,8 @@
 title = "Derniers poèmes ajoutés"
 +++
 
+[Ciel gris d'automne, écrit le 13.09.2026](../seasons/35_trente_cinquieme_saison/ciel_gris_d_automne)
+
 [Traversée de Paris, écrit le 12.09.2026](../seasons/35_trente_cinquieme_saison/traversee_de_paris)
 
 [Le coeur doux de l'automne, écrit le 12.09.2026](../seasons/35_trente_cinquieme_saison/le_coeur_doux_de_l_automne)
