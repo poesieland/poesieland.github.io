@@ -2,7 +2,7 @@
 title = "Les mots"
 [[cascade]]
   [cascade.params]
-    [cascade.params.children]
+    [cascade.params.pages]
       type = "list"
       sort = "date"
 +++

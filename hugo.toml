@@ -61,10 +61,6 @@ disableRootBreadcrumb = true
 disableToc = false
 # If set to true, load the Mermaid module on every page regardless if a Mermaid shortcode or Mermaid codefence is present
 mermaid.force = false
-# Specifies the remote location of the Mermaid js
-customMermaidURL = 'https://unpkg.com/mermaid/dist/mermaid.min.js'
-# Initialization parameter for Mermaid, see Mermaid documentation
-mermaidInitialize = '{ "theme": "default" }'
 # If set to true, load the OpenAPI module on every page regardless if a Swagger shortcode is present
 openapi.force = false
 # Hide Next and Previous page buttons normally displayed full height beside content

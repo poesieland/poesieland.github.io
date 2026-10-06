@@ -2,7 +2,7 @@
 title = "1997"
 [[cascade]]
   [cascade.params]
-    [cascade.params.children]
+    [cascade.params.pages]
       breadcrumb = false
 +++
 

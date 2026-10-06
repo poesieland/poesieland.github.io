@@ -2,7 +2,7 @@
 title = "2000"
 [[cascade]]
   [cascade.params]
-    [cascade.params.children]
+    [cascade.params.pages]
       breadcrumb = false
 +++
 

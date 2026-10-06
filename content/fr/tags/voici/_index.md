@@ -2,7 +2,7 @@
 title = "Voici"
 [[cascade]]
   [cascade.params]
-    [cascade.params.children]
+    [cascade.params.pages]
       breadcrumb = true
       description = true
 +++
