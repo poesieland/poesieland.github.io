@@ -5,7 +5,9 @@ title = "Est-ce un automne..."
     [cascade.params.pages]
       breadcrumb = true
       description = true
-      display="headings"
+      display = "headings"
+      columns = 1
+      groupby = " "
       orderby = "date asc"
 +++
 
