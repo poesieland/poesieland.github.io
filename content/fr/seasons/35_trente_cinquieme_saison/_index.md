@@ -5,7 +5,7 @@ type = "seasonIndex"
 description = """
 Tout en écrivant les poèmes de la trente-quatrième Saison, je ressentais une urgence de vivre chaque jour, sans penser au lendemain.
 
-Inspirants : l'automne, et félinement vôtre.
+Inspirants : l'automne, félinement vôtre. Egalement le ciel.
 
 A partir d'août 2026"""
 +++

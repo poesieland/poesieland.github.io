@@ -2,16 +2,8 @@
 title = "Derniers poèmes ajoutés"
 +++
 
-[Ciel gris d'automne, écrit le 13.09.2026](../seasons/35_trente_cinquieme_saison/ciel_gris_d_automne)
+[Mémoire d'automne, écrit le 15.09.2026](../seasons/35_trente_cinquieme_saison/memoire_d_automne)
 
-[Traversée de Paris, écrit le 12.09.2026](../seasons/35_trente_cinquieme_saison/traversee_de_paris)
+[Chanson d'automne, écrit le 14.09.2026](../seasons/35_trente_cinquieme_saison/chanson_d_automne)
 
-[Le coeur doux de l'automne, écrit le 12.09.2026](../seasons/35_trente_cinquieme_saison/le_coeur_doux_de_l_automne)
-
-[C'est bien l'automne, écrit le 11.09.2026](../seasons/35_trente_cinquieme_saison/c_est_bien_l_automne)
-
-[Seize ans, écrit le 10.09.2026](../seasons/35_trente_cinquieme_saison/seize_ans)
-
-[Premier matin d'automne, écrit le 09.09.2026](../seasons/35_trente_cinquieme_saison/premier_matin_d_automne)
-
-[Feuilles d'automne II, écrit le 05.09.2026](../seasons/35_trente_cinquieme_saison/feuilles_d_automne_II)
+[Le chat pluvieux, écrit le 14.09.2026](../seasons/35_trente_cinquieme_saison/le_chat_pluvieux)
