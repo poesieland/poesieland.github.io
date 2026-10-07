@@ -5,8 +5,8 @@ title = "Est-ce un automne..."
     [cascade.params.pages]
       breadcrumb = true
       description = true
-      type = "list"
-      sort = "date"
+      display="headings"
+      orderby = "date asc"
 +++
 
 _Est-ce un automne, (est-ce un printemps)_

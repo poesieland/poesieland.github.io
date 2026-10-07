@@ -3,8 +3,8 @@ title = "Les mots"
 [[cascade]]
   [cascade.params]
     [cascade.params.pages]
-      type = "list"
-      sort = "date"
+      display="headings"
+      orderby = "date asc"
 +++
 Tous les qualificatifs possibles, égrenés, une sorte d'incantation.
 

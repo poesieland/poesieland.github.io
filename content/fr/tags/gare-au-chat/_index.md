@@ -5,8 +5,8 @@ title = "Gare au chat"
     [cascade.params.pages]
       breadcrumb = true
       description = true
-      type = "list"
-      sort = "date"
+      display = "headings"
+      orderby = "date asc"
 +++
 Un chat, ou plusieurs...
 
