@@ -10,7 +10,7 @@ title = "Gare au chat"
 +++
 Un chat, ou plusieurs...
 
-Ce mini-thème humoristique est un sous-ensemble de la catégorie [Félinement vôtre](../../categories/félinement-vôtre).
+Ce mini-thème enjoué, humoristique, est au départ un sous-ensemble de la catégorie [Félinement vôtre](../../categories/félinement-vôtre), puis il a fini par en constituer son mode d'expression principale.
 
 Il évoque un grand nombre d'aspects relatifs aux comportements du chat, accentué par le pentasyllabe "chansonnier".
 

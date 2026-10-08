@@ -6,6 +6,8 @@ title = "Félinement vôtre"
 
 Tellement d'amour pour les chats de ma part. Depuis toujours en fait.
 
+Au fil du temps, le mini-thème enjoué [Gare au chat](../../tags/gare-au-chat) a pris une place principale dans cette catégorie.
+
 Après les photos, des poèmes consacrés à nos chers petits maîtres 😽
 
 Venez ensuite rejoindre le groupe humoristique de qualité [Société secrète des chats conspirateurs pour l'asservissement de l'humanité {{% icon icon="fa-brands fa-facebook" %}}](https://www.facebook.com/groups/lovecat.fr) 😸
@@ -23,7 +25,3 @@ Venez ensuite rejoindre le groupe humoristique de qualité [Société secrète d
 {{< chartjs id="poemDay-felinement_votreRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-felinement_votre-radar.js" />}}
 
 {{< chartjs id="poems-felinement_votreBar" width="90%" jsFile="../../charts/taxonomy/poems-felinement_votre-bar.js" />}}
-
-## Sans oublier une facétie
-
-[Le mini-thème drôle *Gare au(x) chat(s)...*](../../tags/gare-au-chat).
