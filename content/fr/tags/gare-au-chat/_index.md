@@ -6,8 +6,6 @@ title = "Gare au chat"
       breadcrumb = true
       description = true
       display = "headings"
-      groupby = " "
-      columns = 1
       orderby = "date asc"
 +++
 Un chat, ou plusieurs...

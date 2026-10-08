@@ -5,7 +5,7 @@ title = "L'air ou la chanson"
     [cascade.params.pages]
       breadcrumb = true
       description = true
-      display = "tree"
+      orderby = "date asc"
 +++
 
 Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par leurs oeuvres.

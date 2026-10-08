@@ -17,7 +17,7 @@ tags:
     - pentasyllabe
 locations: []
 info: ""
-description: Gare au chat **pluvieux** / Saupoudré de perles
+description: Gare au 🐈 **pluvieux** / Saupoudré de perles
 wordcloud: ""
 pictures: []
 poemType: ""

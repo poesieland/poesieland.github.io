@@ -6,8 +6,6 @@ title = "Est-ce un automne..."
       breadcrumb = true
       description = true
       display = "headings"
-      columns = 1
-      groupby = " "
       orderby = "date asc"
 +++
 
