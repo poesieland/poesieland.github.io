@@ -3,6 +3,9 @@ title = "Les mois"
 [[cascade]]
   [cascade.params]
     [cascade.params.pages]
+      display="tree"
+      columns = 3
+      groupby = "linktitle | left 1 | upper"
       breadcrumb = true
       description = true
 +++

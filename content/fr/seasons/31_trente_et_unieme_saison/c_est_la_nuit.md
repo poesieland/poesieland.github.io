@@ -12,8 +12,9 @@ tags:
     - ennéasyllabe
     - ombres et lumières
     - refrain
+    - dans mon coeur les oiseaux font leur nid
 locations: []
-info: '{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -36,7 +37,3 @@ Dans mon coeur les oiseaux font leur nid,
 D'un soupir, présage d'infini,
 
 C'est la nuit, qu'atteindre je ne puisse !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /callout %}}

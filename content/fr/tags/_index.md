@@ -6,22 +6,15 @@ A la base, les catégories étaient regroupées sous une méta catégorie, telle
 
 Dès que la version moderne de ce site a été créée, de nouveaux usages se sont rapidement imposés pour les mots-clés :
 
-- mettre en avant l'année
+- mettre en avant l'[année](../other-perspectives/au-fil-des-années/).
 - regrouper par caractéristique de forme, telle que [sonnet](./sonnet/), [acrostiche](./acrostiche/), [pantoun](./pantoun/), [haïku](./haïku/).
-- ou par valeur(s) de [métrique](../thoughts/tout_est_rythme)
-- Et puis, ensuite, créer des mini-thèmes, d'après un ressenti...
-
-  - transverse :
+- ou par valeur(s) de [métrique](../other-perspectives/metric/).
+- Et puis, ensuite, créer des mini-thèmes, d'après un ressenti transverse :
     - [l'air ou la chanson](./lair-ou-la-chanson/)
-    - [les mois](./les-mois/)
+    - [les mois](../other-perspectives/les-mois/)
     - [la mort](./la-mort/)
-    - [les mots](./les-mots/)
     - le [refrain](./refrain/)
     - des [reprises multiples](../reprises/multiples/)... plutôt des phrases-clés dans ce cas
     - sans oublier les [reprises syntaxiques](../reprises/syntaxiques/).
 
-  - trop spécifique pour en faire une catégorie :
-    - la [famille](./famille/)
-    - [gare au chat](./gare-au-chat)
-    - [Noël](./noël/)
-    - la [rentrée scolaire](./rentrée-scolaire/)
+  ou trop spécifique pour en faire une catégorie... Bonne découverte !

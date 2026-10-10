@@ -22,6 +22,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 6, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Climat', value: 5, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 1, color: 'rgba(252, 191, 140, 1)' },
+    { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Félinement vôtre', value: 2, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 1, color: 'rgba(0, 86, 27, 1)' },

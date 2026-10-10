@@ -3,11 +3,14 @@ title = "Calme du soir"
 id = "calme_du_soir_3"
 date = 1997-03-05
 weight = 2
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "1997", "ennéasyllabe"]
-info = """
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
-
+categories = [ "Crépuscule" ]
+tags = [
+  "1997",
+  "ennéasyllabe",
+  "ombres et lumières",
+  "dans mon coeur les oiseaux font leur nid"
+]
+info = ""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +40,3 @@ Par magie offre ses souvenirs
 Au-dessus d'incertains avenirs
 
 Du reflet pâli de notre ville.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /callout %}}

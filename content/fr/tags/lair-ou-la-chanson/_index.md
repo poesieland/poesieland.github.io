@@ -5,6 +5,8 @@ title = "L'air ou la chanson"
     [cascade.params.pages]
       breadcrumb = true
       description = true
+      display="tree"
+      columns = 2
       orderby = "date asc"
 +++
 

@@ -3,7 +3,7 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Amitié', value: 1, color: 'rgba(254, 231, 240, 1)' },
     { label: 'Amour platonique', value: 1, color: 'rgba(255, 111, 125, 1)' },
-    { label: 'Aube', value: 1, color: 'rgba(255, 163, 0, 1)' },
+    { label: 'Aube', value: 2, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Ville', value: 1, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Crépuscule', value: 5, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Enfance et adolescence', value: 2, color: 'rgba(247, 235, 253, 1)' },
@@ -28,7 +28,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(209, 98, 4, 1)' },
     { label: 'Printemps', value: 3, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 8, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 12, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 13, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric3Pie', [data], { plugins: { title: { display: true, text: '' } } });

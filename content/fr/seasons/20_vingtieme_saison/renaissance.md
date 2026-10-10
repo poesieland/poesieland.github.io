@@ -3,11 +3,14 @@ title = "Renaissance"
 id = "renaissance_20"
 date = 2024-06-13
 weight = 35
-categories = ["Aube"]
-tags = ["ombres et lumières", "2024", "ennéasyllabe"]
-info = """
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}"""
-
+categories = [ "Aube" ]
+tags = [
+  "2024",
+  "ennéasyllabe",
+  "ombres et lumières",
+  "dans mon coeur les oiseaux font leur nid"
+]
+info = ""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -37,7 +40,3 @@ Je m'en vais pour briser l'incertain
 Discours faux qui ment comme respire :
 
 Je m'envole à l'orbe du matin.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/dans_mon_coeur_les_oiseaux_font_leur_nid" hidefirstheading %}}
-{{% /callout %}}

@@ -5,6 +5,7 @@ title = "Citation"
     [cascade.params.pages]
       breadcrumb = true
       description = true
-      display="list"
+      display="tree"
+      columns = 2
 +++
 *Liste en cours de construction.*
