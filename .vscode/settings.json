@@ -26,5 +26,6 @@
     ],
     "cSpell.words": [
         "coeur"
-    ]
+    ],
+    "scm.alwaysShowRepositories": true
 }
