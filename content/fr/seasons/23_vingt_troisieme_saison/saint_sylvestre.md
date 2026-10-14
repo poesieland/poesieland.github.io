@@ -4,7 +4,7 @@ id = "saint_sylvestre_23"
 date = 2024-12-30
 weight = 48
 categories = ["Temps"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+tags = ["philosophie", "2024", "hexasyllabe", "demain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

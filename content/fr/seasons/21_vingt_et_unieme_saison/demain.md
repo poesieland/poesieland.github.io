@@ -4,12 +4,8 @@ id = "demain_21"
 date = 2024-08-14
 weight = 34
 categories = ["Enfance et adolescence", "Temps"]
-tags = ["philosophie", "famille", "2024", "acrostiche", "octosyllabe"]
-info = """
-Cette fois-ci le message s'adresse à mon fils et plus mon neveu...
-
-{{% include "../../includes/demain_etre" hidefirstheading %}}"""
-
+tags = ["philosophie", "famille", "2024", "acrostiche", "octosyllabe", "demain"]
+info = "Cette fois-ci le message s'adresse à mon fils et plus mon neveu..."
 acrostiche = "Demain nous serons"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -52,8 +48,5 @@ Sourire de mère attendrie.
 
 {{% callout style="primary" %}}
 Cette fois-ci le message s'adresse à mon fils et plus mon neveu...
-
-{{% include "../../includes/demain_etre" hidefirstheading %}}
-
 Acrostiche : Demain nous serons.
 {{% /callout %}}

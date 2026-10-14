@@ -4,10 +4,8 @@ id = "demain_la_21"
 date = 2024-08-24
 weight = 41
 categories = ["Romantisme", "Temps"]
-tags = ["amour", "philosophie", "2024", "acrostiche", "alexandrin"]
-info = """
-{{% include "../../includes/demain_etre" hidefirstheading %}}"""
-
+tags = ["amour", "philosophie", "2024", "acrostiche", "alexandrin", "demain"]
+info = ""
 acrostiche = "Demain, là"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -31,7 +29,5 @@ Le temps passe et le monde a changé de partout,
 Amour, notre chemin continue, indicible.
 
 {{% callout style="primary" %}}
-{{% include "../../includes/demain_etre" hidefirstheading %}}
-
 Acrostiche : Demain, là.
 {{% /callout %}}

@@ -4,7 +4,7 @@ id = "solstice_23"
 date = 2024-12-20
 weight = 18
 categories = ["Ciel", "Angoisse"]
-tags = ["nature", "philosophie", "2024", "hexasyllabe"]
+tags = ["nature", "philosophie", "2024", "hexasyllabe", "demain"]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

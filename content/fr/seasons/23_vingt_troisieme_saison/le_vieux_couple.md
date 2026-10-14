@@ -4,10 +4,8 @@ id = "le_vieux_couple_23"
 date = 2024-12-28
 weight = 40
 categories = ["Romantisme"]
-tags = ["amour", "2024", "acrostiche", "alexandrin"]
-info = """
-{{% include "../../includes/demain_etre" hidefirstheading %}}"""
-
+tags = ["amour", "2024", "acrostiche", "alexandrin", "demain"]
+info = ""
 acrostiche = "Demain vivant"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -40,7 +38,5 @@ Noces, une montagne à gravir, un effort,
 Tout notre amour demain n'est pas juste un miracle.
 
 {{% callout style="primary" %}}
-{{% include "../../includes/demain_etre" hidefirstheading %}}
-
 Acrostiche : Demain vivant.
 {{% /callout %}}

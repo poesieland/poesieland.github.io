@@ -4,11 +4,8 @@ id = "demain_nous_serons_5"
 date = 1997-11-21
 weight = 23
 categories = [ "Temps", "Apprentissage" ]
-tags = [ "1997", "acrostiche", "alexandrin", "philosophie", "famille" ]
-info = """
-Dédié à mon neveu Louis.
-
-{{% include "../../includes/demain_etre" hidefirstheading %}}"""
+tags = [ "1997", "acrostiche", "alexandrin", "philosophie", "famille", "demain" ]
+info = "Dédié à mon neveu Louis."
 acrostiche = "Demain nous serons"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
@@ -51,8 +48,5 @@ Sois donc d'abord toi-même et saisis les bonheurs !
 
 {{% callout style="primary" %}}
 Dédié à mon neveu Louis.
-
-{{% include "../../includes/demain_etre" hidefirstheading %}}
-
 Acrostiche : Demain nous serons.
 {{% /callout %}}
