@@ -268,7 +268,7 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 4 },
     { label: '', value: 0 },
     { label: 'Automne', value: 3 },
-    { label: '', value: 5 },
+    { label: '', value: 6 },
     { label: '', value: 1 },
     { label: '', value: 0 },
     { label: '', value: 1 },

@@ -61,6 +61,8 @@ Pour ces quatre moments-clés de l'année, le décalage entre la clémence relat
 *à la vingt-neuvième saison*
 - [C'est bien l'automne - écrit le 11.09.2026](../seasons/35_trente_cinquieme_saison/c_est_bien_l_automne)  
 *à la trente-cinquième saison*
+- [Frère automne - écrit le 19.09.2026](../seasons/35_trente_cinquieme_saison/frere_automne)  
+*à la trente-cinquième saison*
 - [Demain l'automne - écrit le 22.09.1998](../seasons/9_neuvieme_saison/demain_l_automne)  
 *à la neuvième saison*
 - [Voici l'automne - écrit le 22.09.2024](../seasons/22_vingt_deuxieme_saison/voici_l_automne)  
