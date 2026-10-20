@@ -1,16 +1,6 @@
 @font-face {
-  font-family: 'Nothing You Could Do';
-   src: url('/fonts/NothingYouCouldDo-Regular.woff2') format('woff2');
-}
-
-@font-face {
   font-family: 'Caveat';
    src: url('/fonts/Caveat-VariableFont_wght.woff2') format('woff2');
-}
-
-@font-face {
-  font-family: 'Alex Brush';
-   src: url('/fonts/AlexBrush-Regular.woff2') format('woff2');
 }
 
 /* SideBar Header Logo */
@@ -79,18 +69,12 @@ a#logo:hover {
 }
 
 :root {
-    --MENU-M-width: 20rem;
-    --MENU-L-width: 25rem;
+    /* --MENU-M-width: 20rem;
+    --MENU-L-width: 25rem; */
     --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
     --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
 }
 
-#R-body-inner h1,
-.book-title,
-h1,
-#R-sidebar .nav-title {
-  text-transform: none;
-}
 
 @media screen and (min-width: 60rem) {
     div.flex-block-wrapper {
@@ -102,12 +86,12 @@ h1,
     background-color: white;
 }
 
-div.flex-block-wrapper {
+/* div.flex-block-wrapper {
     padding: 0 25px 10px 25px;
     margin: 45px 0 0 0;
     border-radius: 50px 0px 50px 0px;
     border: 1px solid #c3c2b8;
-}
+} */
 
 /* custom image */
 h1#cinquième-saison--espaces-de-vie~ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
@@ -133,6 +117,7 @@ h1#huitième-saison--reflets-perdus~ul.children>li:nth-child(n + 1):nth-child(-n
     padding-left: 5px;
 }
 
+/* CSS Numbered list */
 main.other-perspectives ul.children {
   list-style: none;
   counter-reset: item;
@@ -147,73 +132,6 @@ main.other-perspectives ul.children li {
 main.other-perspectives ul.children li::before {
   content: counter(item) ". ";
   margin-right: 0.5rem;
-}
-
-.gdoc-columns {
-    margin: 1rem 0
-}
-
-/* Columns short code */
-.gdoc-columns--regular>:first-child {
-    flex: 1
-}
-
-.gdoc-columns--small>:first-child {
-    flex: .35;
-    min-width: 7rem
-}
-
-.gdoc-columns--large>:first-child {
-    flex: 1.65;
-    min-width: 33rem
-}
-
-.gdoc-columns__content {
-    flex: 1 1;
-    min-width: 13.2rem;
-    padding: 0
-}
-
-.gdoc-columns .gdoc-post__anchor {
-    display: none
-}
-
-.flex-mobile-column.gdoc-columns {
-    margin: 2rem 0
-}
-
-.flex-mobile-column .gdoc-columns__content {
-    min-width: auto;
-    margin: 0
-}
-
-.flex-gap {
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.flex {
-    display: flex;
-}
-
-/* alertbox shortcode */
-.alert-box {
-    text-align: center;
-    margin-bottom: 10px;
-    padding: 20px;
-    background-image: linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(rgba(32, 147, 196, 0.2), rgba(32, 147, 196, 0.2));
-    background-repeat: no-repeat;
-    background-size: 4px 30px, 30px 4px, 4px 30px, 30px 4px, calc(100% - 8px) calc(100% - 8px);
-    background-position: left top, left top, right bottom, right bottom, 4px 4px;
-}
-
-.alert-box-red {
-    background-image: linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(rgb(192 14 31 / 20%), rgb(199 14 31 / 20%));
-}
-
-.alert-box p {
-    margin: 0;
-    line-height: 1.3;
 }
 
 /* =============================================

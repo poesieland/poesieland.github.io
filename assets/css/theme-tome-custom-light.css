@@ -1,0 +1,11 @@
+@import 'theme-tome-light.css';
+
+:root {
+  /* from relearn-light */
+  --PRIMARY-color: rgba( 125, 201, 3, 1 ); /* brand primary color */
+  --PRIMARY-HOVER-color: rgba( 99, 159, 2, 1 ); /* brand primary hover color */
+  --SECONDARY-color: rgba( 72, 106, 201, 1 ); /* brand secondary color */
+  --SECONDARY-HOVER-color: rgba( 32, 40, 145, 1 ); /* brand secondary hover color */
+  --MAIN-TEXT-color: rgba( 0, 0, 0, 1 ); /* text color of content and titles */
+  --MENU-SEARCH-color: rgba( 50, 50, 50, 1 ); /* text and icon color of search box */
+}

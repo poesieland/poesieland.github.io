@@ -79,12 +79,20 @@ additionalContentLanguage = [ 'en' ]
 disableExplicitIndexURLs = false
 # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
 externalLinkTarget = '_blank'
-themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
+themeVariantAuto = [ 'tome-custom-light', 'tome-dark','relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+  [[params.themeVariant]]
+    identifier = 'tome-auto'
+    name = 'Tome Light/Dark'
+    auto = []
+  [[params.themeVariant]]
+    identifier = 'tome-custom-light'
+  [[params.themeVariant]]
+    identifier = 'tome-dark'
   [[params.themeVariant]]
     identifier = 'relearn-auto'
     name = 'Relearn Light/Dark'

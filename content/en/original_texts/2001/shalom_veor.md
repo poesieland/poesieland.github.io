@@ -12,8 +12,8 @@ categories = [ "Hope" ]
 The only poem I wrote in Italian
 {{% /callout %}}
 
-{{< columns >}}
-
+<div style="display:flex;justify-content:left;gap:150px;">
+<div>
 Oltre il mare
 
 Si vede la fede
@@ -63,9 +63,9 @@ Mai più, uomo, donna,
  \
 La vita non lo vuole.
 
-<--->
+</div>
 
-<--->
+<div>
 Beyond the sea
 
 One sees faith,
@@ -114,4 +114,5 @@ Do never more war, you, man or woman.
 
  \
 Life does not wish it.
-{{< /columns >}}
+</div>
+</div>
