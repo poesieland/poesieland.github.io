@@ -14,8 +14,8 @@
 }
 
 :root {
-    /* --MENU-M-width: 20rem;
-    --MENU-L-width: 25rem; */
+    --MENU-M-width: 20rem;
+    --MENU-L-width: 25rem;
     --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
     --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
 }
