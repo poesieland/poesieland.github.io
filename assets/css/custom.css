@@ -63,18 +63,18 @@ h1#huitième-saison--reflets-perdus~ul.children>li:nth-child(n + 1):nth-child(-n
 }
 
 /* CSS Numbered list */
-main.other-perspectives ul.children {
+main.other-perspectives ul.pages-tree {
   list-style: none;
   counter-reset: item;
   padding-left: 2rem;
 }
 
-main.other-perspectives ul.children li {
+main.other-perspectives ul.pages-tree li {
   counter-increment: item;
   margin-bottom: 0.5rem;
 }
 
-main.other-perspectives ul.children li::before {
+main.other-perspectives ul.pages-tree li::before {
   content: counter(item) ". ";
   margin-right: 0.5rem;
 }
