@@ -79,7 +79,7 @@ additionalContentLanguage = [ 'en' ]
 disableExplicitIndexURLs = false
 # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
 externalLinkTarget = '_blank'
-themeVariantAuto = [ 'tome-custom-light', 'tome-dark','relearn-custom-light', 'relearn-dark' ]
+themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 # sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
@@ -88,19 +88,12 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   [[params.themeVariant]]
-    identifier = 'tome-auto'
-    name = 'Tome Light/Dark'
-    auto = []
-  [[params.themeVariant]]
-    identifier = 'tome-custom-light'
-  [[params.themeVariant]]
-    identifier = 'tome-dark'
-  [[params.themeVariant]]
     identifier = 'relearn-auto'
     name = 'Relearn Light/Dark'
-    auto = []
+    auto = [ 'relearn-custom-light', 'relearn-dark' ]
   [[params.themeVariant]]
     identifier = 'relearn-custom-light'
+    name = 'Relearn Light (customized)'
   [[params.themeVariant]]
     identifier = 'relearn-dark'
   [[params.themeVariant]]
@@ -109,10 +102,19 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     auto = [ 'zen-custom-light', 'zen-dark' ]
   [[params.themeVariant]]
     identifier = 'zen-custom-light'
+    name = 'Zen Light (customized)'
   [[params.themeVariant]]
     identifier = 'zen-dark'
   [[params.themeVariant]]
     identifier = 'neon'
+  [[params.themeVariant]]
+    identifier = 'tome-auto'
+    name = 'Tome Light/Dark'
+    auto = [ 'tome-light', 'tome-dark' ]
+  [[params.themeVariant]]
+    identifier = 'tome-light'
+  [[params.themeVariant]]
+    identifier = 'tome-dark'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]

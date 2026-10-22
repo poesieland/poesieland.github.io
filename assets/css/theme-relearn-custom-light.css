@@ -10,3 +10,7 @@ div.flex-block-wrapper {
     border-radius: 50px 0px 50px 0px;
     border: 1px solid #c3c2b8;
 }
+
+:root {
+  --BOX-ORANGE-color: rgba( 237, 153, 9, 1 ); /* background color of orange boxes */
+}

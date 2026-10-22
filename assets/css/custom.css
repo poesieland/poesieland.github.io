@@ -13,11 +13,12 @@
     font-size: 1.8em;
 }
 
+/* Menu width, H1 and H2 custom fonts */
 :root {
     --MENU-M-width: 20rem;
     --MENU-L-width: 25rem;
-    --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
-    --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
+    --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-serif;
+    --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-serif;
 }
 
 
@@ -27,11 +28,12 @@
     }
 }
 
+/* chart.js wrapper */
 .chartjs-wrapper {
     background-color: white;
 }
 
-/* custom image */
+/* custom image at end of some text */
 h1#cinquième-saison--espaces-de-vie~ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
 h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(41)>a:after,
 h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(n + 45):nth-child(-n + 47)>a:after,
