@@ -27,7 +27,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 40, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Mer', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Faune', value: 13, color: 'rgba(4, 139, 154, 1)' },
-    { label: 'Climat', value: 24, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Climat', value: 25, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Musique et chant', value: 19, color: 'rgba(252, 191, 140, 1)' },
     { label: 'Mouvement', value: 6, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Au contact', value: 5, color: 'rgba(244, 114, 5, 1)' },
@@ -35,7 +35,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 7, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 19, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 28, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 45, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 46, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 32, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric6Pie', [data], { plugins: { title: { display: true, text: '' } } });

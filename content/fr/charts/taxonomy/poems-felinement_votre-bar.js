@@ -37,6 +37,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'La musique des mots (33) 2026', value: 1, color: 'rgba(161, 86, 28, 0.5)' },
     { label: 'A mi-chemin du paradis (34) 2026', value: 0, color: 'rgba(161, 86, 28, 0.5)' },
     { label: 'Un jour à la fois (35) 2026', value: 0, color: 'rgba(161, 86, 28, 0.5)' },
+    { label: 'N\'attends pas (36) 2026', value: 0, color: 'rgba(161, 86, 28, 0.5)' },
 ],
 [
     { label: 'gare au chat', value: 0, color: 'rgba(161, 86, 28, 0.3)' },
@@ -74,6 +75,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'gare au chat', value: 2, color: 'rgba(161, 86, 28, 0.3)' },
     { label: 'gare au chat', value: 2, color: 'rgba(161, 86, 28, 0.3)' },
     { label: 'gare au chat', value: 9, color: 'rgba(161, 86, 28, 0.3)' },
+    { label: 'gare au chat', value: 0, color: 'rgba(161, 86, 28, 0.3)' },
 ]
   ];
     addBarChart('poems-felinement_votreBar', ['Félinement vôtre','Gare au chat'], data, {scales: { y: { ticks: { stepSize: 1 } } }});
