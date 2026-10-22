@@ -82,15 +82,18 @@ externalLinkTarget = '_blank'
 themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
+# sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
+logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   [[params.themeVariant]]
     identifier = 'relearn-auto'
     name = 'Relearn Light/Dark'
-    auto = []
+    auto = [ 'relearn-custom-light', 'relearn-dark' ]
   [[params.themeVariant]]
     identifier = 'relearn-custom-light'
+    name = 'Relearn Light (customized)'
   [[params.themeVariant]]
     identifier = 'relearn-dark'
   [[params.themeVariant]]
@@ -99,10 +102,19 @@ minify = true
     auto = [ 'zen-custom-light', 'zen-dark' ]
   [[params.themeVariant]]
     identifier = 'zen-custom-light'
+    name = 'Zen Light (customized)'
   [[params.themeVariant]]
     identifier = 'zen-dark'
   [[params.themeVariant]]
     identifier = 'neon'
+  [[params.themeVariant]]
+    identifier = 'tome-auto'
+    name = 'Tome Light/Dark'
+    auto = [ 'tome-light', 'tome-dark' ]
+  [[params.themeVariant]]
+    identifier = 'tome-light'
+  [[params.themeVariant]]
+    identifier = 'tome-dark'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]

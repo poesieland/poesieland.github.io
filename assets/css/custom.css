@@ -1,96 +1,26 @@
 @font-face {
-  font-family: 'Nothing You Could Do';
-   src: url('/fonts/NothingYouCouldDo-Regular.woff2') format('woff2');
-}
-
-@font-face {
   font-family: 'Caveat';
    src: url('/fonts/Caveat-VariableFont_wght.woff2') format('woff2');
 }
 
-@font-face {
-  font-family: 'Alex Brush';
-   src: url('/fonts/AlexBrush-Regular.woff2') format('woff2');
-}
-
 /* SideBar Header Logo */
-#logo svg,
-#logo svg * {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
-    fill: #282828 !important;
-    fill: var(--MENU-SECTIONS-BG-color) !important;
-    opacity: .945;
-}
-
-a#logo {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
+#R-logo.R-default {
     font-family: 'Work Sans', 'Helvetica', 'Tahoma', 'Geneva', 'Arial', sans-serif;
-    font-size: 1.875rem;
     font-weight: 300;
-    margin-top: -.8125rem;
-    max-width: 60%;
     text-transform: uppercase;
-    width: 14.125rem;
-    white-space: nowrap;
+}
+.menu-s-width #R-logo.R-default .logo-title {
+    font-size: 1.8em;
 }
 
-a#logo:hover {
-    color: #282828;
-    color: var(--MENU-SECTIONS-BG-color);
-}
-
-#logo svg {
-    margin-bottom: -1.25rem;
-    margin-inline-start: -3.47rem;
-    width: 40.5%;
-}
-
-@media only all and (max-width: 60rem) {
-    a#logo {
-        font-size: 1.5625rem;
-        margin-top: -.1875rem;
-    }
-
-    #logo svg {
-        margin-bottom: -.75rem;
-        margin-inline-start: -3.47rem;
-    }
-}
-
-@media all and (-ms-high-contrast:none) {
-
-    /* IE11s understanding of positioning is weird at best */
-    a#logo {
-        margin-top: -3.625rem;
-    }
-
-    #logo svg {
-        margin-bottom: -3.875rem;
-        margin-left: -1.47rem;
-    }
-}
-
-@media only all and (-ms-high-contrast:none) and (max-width: 60rem) {
-    #logo svg {
-        margin-left: -1.47rem;
-    }
-}
-
+/* Menu width, H1 and H2 custom fonts */
 :root {
     --MENU-M-width: 20rem;
     --MENU-L-width: 25rem;
-    --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
-    --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-sherif;
+    --MAIN-TITLES-H1-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-serif;
+    --MAIN-TITLES-H2-font: 'Caveat', 'Roboto Flex', Helvetica, Tahoma, Geneva, Arial, sans-serif;
 }
 
-#R-body-inner h1,
-.book-title,
-h1,
-#R-sidebar .nav-title {
-  text-transform: none;
-}
 
 @media screen and (min-width: 60rem) {
     div.flex-block-wrapper {
@@ -98,18 +28,12 @@ h1,
     }
 }
 
+/* chart.js wrapper */
 .chartjs-wrapper {
     background-color: white;
 }
 
-div.flex-block-wrapper {
-    padding: 0 25px 10px 25px;
-    margin: 45px 0 0 0;
-    border-radius: 50px 0px 50px 0px;
-    border: 1px solid #c3c2b8;
-}
-
-/* custom image */
+/* custom image at end of some text */
 h1#cinquième-saison--espaces-de-vie~ul.children>li:nth-child(n + 3):nth-child(-n + 10)>a:after,
 h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(41)>a:after,
 h1#sixième-saison--sur-le-chemin~ul.children>li:nth-child(n + 45):nth-child(-n + 47)>a:after,
@@ -133,87 +57,21 @@ h1#huitième-saison--reflets-perdus~ul.children>li:nth-child(n + 1):nth-child(-n
     padding-left: 5px;
 }
 
-main.other-perspectives ul.children {
+/* CSS Numbered list */
+main.other-perspectives ul.pages-tree {
   list-style: none;
   counter-reset: item;
   padding-left: 2rem;
 }
 
-main.other-perspectives ul.children li {
+main.other-perspectives ul.pages-tree li {
   counter-increment: item;
   margin-bottom: 0.5rem;
 }
 
-main.other-perspectives ul.children li::before {
+main.other-perspectives ul.pages-tree li::before {
   content: counter(item) ". ";
   margin-right: 0.5rem;
-}
-
-.gdoc-columns {
-    margin: 1rem 0
-}
-
-/* Columns short code */
-.gdoc-columns--regular>:first-child {
-    flex: 1
-}
-
-.gdoc-columns--small>:first-child {
-    flex: .35;
-    min-width: 7rem
-}
-
-.gdoc-columns--large>:first-child {
-    flex: 1.65;
-    min-width: 33rem
-}
-
-.gdoc-columns__content {
-    flex: 1 1;
-    min-width: 13.2rem;
-    padding: 0
-}
-
-.gdoc-columns .gdoc-post__anchor {
-    display: none
-}
-
-.flex-mobile-column.gdoc-columns {
-    margin: 2rem 0
-}
-
-.flex-mobile-column .gdoc-columns__content {
-    min-width: auto;
-    margin: 0
-}
-
-.flex-gap {
-    flex-wrap: wrap;
-    gap: 1rem;
-}
-
-.flex {
-    display: flex;
-}
-
-/* alertbox shortcode */
-.alert-box {
-    text-align: center;
-    margin-bottom: 10px;
-    padding: 20px;
-    background-image: linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(#003056, #003056), linear-gradient(rgba(32, 147, 196, 0.2), rgba(32, 147, 196, 0.2));
-    background-repeat: no-repeat;
-    background-size: 4px 30px, 30px 4px, 4px 30px, 30px 4px, calc(100% - 8px) calc(100% - 8px);
-    background-position: left top, left top, right bottom, right bottom, 4px 4px;
-}
-
-.alert-box-red {
-    background-image: linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(#e90057, #e90057), linear-gradient(rgb(192 14 31 / 20%), rgb(199 14 31 / 20%));
-}
-
-.alert-box p {
-    margin: 0;
-    line-height: 1.3;
 }
 
 /* =============================================
