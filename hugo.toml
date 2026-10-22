@@ -88,6 +88,9 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
   [[params.themeVariant]]
+    name = 'Relearn'
+    type = 'divider'
+  [[params.themeVariant]]
     identifier = 'relearn-auto'
     name = 'Relearn Light/Dark'
     auto = [ 'relearn-custom-light', 'relearn-dark' ]
@@ -96,6 +99,9 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     name = 'Relearn Light (customized)'
   [[params.themeVariant]]
     identifier = 'relearn-dark'
+  [[params.themeVariant]]
+    name = 'Zen'
+    type = 'divider'
   [[params.themeVariant]]
     identifier = 'zen-auto'
     name = 'Zen Light/Dark'
@@ -106,7 +112,13 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
   [[params.themeVariant]]
     identifier = 'zen-dark'
   [[params.themeVariant]]
+    name = 'Neon'
+    type = 'divider'
+  [[params.themeVariant]]
     identifier = 'neon'
+  [[params.themeVariant]]
+    name = 'Tome'
+    type = 'divider'
   [[params.themeVariant]]
     identifier = 'tome-auto'
     name = 'Tome Light/Dark'

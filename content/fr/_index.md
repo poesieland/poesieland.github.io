@@ -10,7 +10,7 @@ Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne r
 
 Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/original_texts?lang=en). 
 
-{{% callout title="Derniers poèmes ajoutés" style="note" color="" icon="" %}}
+{{% callout title="Derniers poèmes ajoutés" style="note" color="orange" %}}
 {{% include "./includes/last_poems.md" true %}}
 
 *N'oubliez pas de me [suivre sur Facebook](https://www.facebook.com/profile.php?id=61584635947640).*
