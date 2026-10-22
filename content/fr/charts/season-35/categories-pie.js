@@ -16,10 +16,11 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Flore', value: 2, color: 'rgba(84, 114, 174, 1)' },
     { label: 'Eau douce', value: 2, color: 'rgba(0, 127, 255, 1)' },
     { label: 'Ciel', value: 6, color: 'rgba(119, 181, 254, 1)' },
-    { label: 'Climat', value: 1, color: 'rgb(50, 122, 183, 1)' },
+    { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Félinement vôtre', value: 9, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Automne', value: 20, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season35Pie', [data], { plugins: { title: { display: true, text: 'Un jour à la fois (35) août à septembre 2026' } } });
 })();

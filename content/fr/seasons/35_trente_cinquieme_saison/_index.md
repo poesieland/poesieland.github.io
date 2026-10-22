@@ -7,7 +7,7 @@ Tout en écrivant les poèmes de la trente-quatrième Saison, je ressentais une 
 
 Inspirants : l'automne, félinement vôtre. Egalement le ciel, l'apprentissage.
 
-A partir d'août 2026"""
+Août-septembre 2026"""
 +++
 
 {{% param "description" %}}

@@ -92,7 +92,8 @@ Sur cette page qui rassemble les inspirations des Saisons, figurent aussi la dur
 </div>
 
 <div style="display:flex;justify-content:center;gap:20px;">
-{{< chartjs id="season35Pie" width="50%" jsFile="../season-35/categories-pie.js" inline=true text="En cours"/>}}
+{{< chartjs id="season35Pie" width="50%" jsFile="../season-35/categories-pie.js" inline=true text="Un peu moins d'un mois et demi"/>}}
+{{< chartjs id="season36Pie" width="50%" jsFile="../season-36/categories-pie.js" inline=true text="En cours"/>}}
 </div>
 
 </div>
