@@ -2,7 +2,7 @@ import { addLineChart } from '../add-chart.js'
 (async function () {
   const data = [
     { label: '1 syllabe', data: [0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0], borderColor: 'rgb(247, 249, 249)', backgroundColor: 'rgb(247, 249, 249)', fill: true },
-    { label: '2 syllabes', data: [0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,2,2,2,4,4,4,3,2,1,1,0,1,3,1,16.7], borderColor: 'rgb(230, 176, 170)', backgroundColor: 'rgb(230, 176, 170)', fill: true },
+    { label: '2 syllabes', data: [0,0,2,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,2,2,1,2,2,2,4,4,4,3,2,1,1,0,1,3,1,8.3], borderColor: 'rgb(230, 176, 170)', backgroundColor: 'rgb(230, 176, 170)', fill: true },
     { label: '3 syllabes', data: [0,0,2,1,0,0,0,0,0,0,0,0,0,0,0,0,1,2,0,1,1,4,2,5,4,4,9,5,5,3,2,3,0,3,2,0], borderColor: 'rgb(245, 183, 177)', backgroundColor: 'rgb(245, 183, 177)', fill: true },
     { label: '4 syllabes', data: [0,5,2,2,0,1,2,1,0,1,2,0,0,0,0,0,1,2,5,2,5,11,7,14,10,10,11,11,8,6,15,8,5,12,4,0], borderColor: 'rgb(215, 189, 226)', backgroundColor: 'rgb(215, 189, 226)', fill: true },
     { label: '5 syllabes', data: [0,0,3,1,0,1,0,1,2,3,5,1,1,0,0,3,4,3,5,9,4,1,1,3,6,4,5,5,7,16,10,8,8,8,14,0], borderColor: 'rgb(169, 204, 227)', backgroundColor: 'rgb(169, 204, 227)', fill: true },

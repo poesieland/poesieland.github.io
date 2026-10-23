@@ -36,7 +36,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'La musique des mots (33) 2026', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'A mi-chemin du paradis (34) 2026', value: 14, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Un jour à la fois (35) 2026', value: 19, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'N\'attends pas (36) 2026', value: 1, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'N\'attends pas (36) 2026', value: 2, color: 'rgba(72, 149, 239, 0.5)' },
   ];
     addBarChart('poems-refrainBar', ['Poèmes au fil des saisons'], [data], {scales: { y: { ticks: { stepSize: 1 } } }});
 })();

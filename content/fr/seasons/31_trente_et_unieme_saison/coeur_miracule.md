@@ -12,8 +12,9 @@ tags:
     - octosyllabe
     - philosophie
     - refrain
+    - écoute un coeur qui bat tout bas
 locations: []
-info: '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -46,7 +47,3 @@ Galopent les projets en tête,
 Ecoute un coeur qui ne s'arrête,
 
 Ecoute un coeur si résilient !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /callout %}}

@@ -9,11 +9,12 @@ categories:
     - Flore
 tags:
     - "2026"
+    - acrostiche
     - nature
     - octosyllabe
-    - acrostiche
+    - écoute un coeur qui bat tout bas
 locations: []
-info: '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -49,6 +50,4 @@ Ecoute l'arbre, il t'éblouit.
 
 {{% callout style="primary" %}}
 Acrostiche : Ecoute l'arbre.
-
-{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
 {{% /callout %}}

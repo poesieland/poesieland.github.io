@@ -4,8 +4,14 @@ id = "vers_plus_d_amour_22"
 date = 2024-10-20
 weight = 31
 categories = [ "Foi" ]
-tags = [ "philosophie", "2024", "octosyllabe", "refrain" ]
-info = '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
+tags = [
+  "2024",
+  "octosyllabe",
+  "philosophie",
+  "refrain",
+  "écoute un coeur qui bat tout bas"
+]
+info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -35,7 +41,3 @@ Trouvé pour que le mal régresse,
 Vite jeté c'est un bon sort
 
 Vers plus d'amour et d'allégresse !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /callout %}}

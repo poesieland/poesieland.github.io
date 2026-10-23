@@ -4,10 +4,16 @@ id = "ton_coeur_19"
 date = 2024-01-24
 weight = 4
 categories = [ "Passion" ]
-tags = [ "2024", "octosyllabe", "refrain", "amour" ]
+tags = [
+  "2024",
+  "amour",
+  "octosyllabe",
+  "refrain",
+  "écoute un coeur qui bat tout bas"
+]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = '{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}'
+info = ""
 +++
 
 J'écoute un coeur qui bat tout bas,
@@ -35,7 +41,3 @@ Et c'est ta vie et c'est mon âme,
 J'écoute un coeur qui bat si fort,
 
 Ton coeur joyeux tout feu tout flamme.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/ecoute_un_coeur" hidefirstheading %}}
-{{% /callout %}}

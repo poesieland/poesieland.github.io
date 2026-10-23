@@ -7,10 +7,10 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Passion', value: 20, color: 'rgba(199, 44, 72, 1)' },
     { label: 'Aube', value: 17, color: 'rgba(255, 163, 0, 1)' },
     { label: 'Lune', value: 10, color: 'rgba(252, 215, 87, 1)' },
-    { label: 'Ville', value: 3, color: 'rgba(139, 91, 41, 1)' },
+    { label: 'Ville', value: 4, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Crépuscule', value: 24, color: 'rgba(179, 103, 0, 1)' },
     { label: 'Nuit', value: 8, color: 'rgba(47, 27, 12, 1)' },
-    { label: 'Enfance et adolescence', value: 15, color: 'rgba(247, 235, 253, 1)' },
+    { label: 'Enfance et adolescence', value: 16, color: 'rgba(247, 235, 253, 1)' },
     { label: 'Espoir', value: 30, color: 'rgba(234, 191, 250, 1)' },
     { label: 'Création', value: 29, color: 'rgba(220, 147, 246, 1)' },
     { label: 'Foi', value: 21, color: 'rgba(203, 93, 241, 1)' },
@@ -36,7 +36,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Printemps', value: 19, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 28, color: 'rgba(0, 86, 27, 1)' },
     { label: 'Automne', value: 46, color: 'rgba(27, 79, 8, 1)' },
-    { label: 'Hiver', value: 32, color: 'rgba(24, 57, 30, 1)' },
+    { label: 'Hiver', value: 33, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric6Pie', [data], { plugins: { title: { display: true, text: '' } } });
 })();
