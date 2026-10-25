@@ -75,7 +75,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'gare au chat', value: 2, color: 'rgba(161, 86, 28, 0.3)' },
     { label: 'gare au chat', value: 2, color: 'rgba(161, 86, 28, 0.3)' },
     { label: 'gare au chat', value: 9, color: 'rgba(161, 86, 28, 0.3)' },
-    { label: 'gare au chat', value: 0, color: 'rgba(161, 86, 28, 0.3)' },
+    { label: 'gare au chat', value: 1, color: 'rgba(161, 86, 28, 0.3)' },
 ]
   ];
     addBarChart('poems-felinement_votreBar', ['Félinement vôtre','Gare au chat'], data, {scales: { y: { ticks: { stepSize: 1 } } }});

@@ -28,10 +28,12 @@ Le chat dort, mais chut,
 Ses rêves me toisent.
 
  \
-Quatuor de chatons,
+Quatuor de chatons[^1],
 
 Grand jour de naissance ;
 
 Misés les jetons :
 
 Voici sénescence.
+
+[^1]: Souvenir de la naissance d'Athéna décrite ici, et de ses trois frères, en 2012...

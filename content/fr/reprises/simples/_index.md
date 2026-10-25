@@ -90,3 +90,7 @@ description = "Une seule reprise pour le moment"
 **A la trente-troisième saison**
 - ["Le ciel n'est bleu ni gris"](../../seasons/33_trente_troisieme_saison/les_bleus_du_ciel)  
 *Depuis la septième saison*
+
+**A la trente-sixième saison**
+- ["Ne demande jamais pour qui sonne le glas"](../../seasons/36_trente_sixieme_saison/douleur)  
+*Depuis la treizième saison*
