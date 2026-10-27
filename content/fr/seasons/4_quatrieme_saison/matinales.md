@@ -4,11 +4,16 @@ id = "matinales_4"
 date = 1997-08-25
 weight = 40
 categories = [ "Aube", "Etre" ]
-tags = [ "ombres et lumières", "philosophie", "1997", "hexasyllabe" ]
+tags = [
+  "1997",
+  "hexasyllabe",
+  "ombres et lumières",
+  "philosophie",
+  "quand un avion trace"
+]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-info = """
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}"""
+info = ""
 +++
 
 Quand un avion trace
@@ -45,7 +50,3 @@ Quand l'horizon s'embrase
 C'est la divine phrase
 
 Qui terre et ciel relit.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /callout %}}

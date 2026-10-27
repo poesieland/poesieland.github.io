@@ -11,8 +11,9 @@ tags:
     - "2025"
     - saisons
     - trisyllabe
+    - virevolte
 locations: []
-info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -53,7 +54,3 @@ Tant d'éclat,
 Sans voyance :
 
 Il est là !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /callout %}}

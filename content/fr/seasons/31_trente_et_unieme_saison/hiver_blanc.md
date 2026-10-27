@@ -11,8 +11,9 @@ tags:
     - "2026"
     - nature
     - trisyllabe
+    - virevolte
 locations: []
-info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -53,7 +54,3 @@ Au couchant,
 Hiver, charme
 
 Blanc, touchant.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /callout %}}

@@ -11,11 +11,11 @@ categories:
 tags:
     - "2025"
     - hexasyllabe
-    - ombres et lumières
     - nature
+    - ombres et lumières
+    - quand un avion trace
 locations: []
-info: |-
-    {{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -56,7 +56,3 @@ Disparaît au lointain
 Mon coeur donne l'obole
 
 Au soir tout de satin.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /callout %}}

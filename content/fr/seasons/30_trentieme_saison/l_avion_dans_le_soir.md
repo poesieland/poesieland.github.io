@@ -10,12 +10,13 @@ categories:
     - Ciel
 tags:
     - "2025"
+    - hexasyllabe
     - nature
     - ombres et lumières
     - refrain
-    - hexasyllabe
+    - quand un avion trace
 locations: []
-info: '{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -47,7 +48,3 @@ Question du départ,
 Ivre le soir s'élance
 
 Percé de part en part.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /callout %}}

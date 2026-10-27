@@ -11,8 +11,9 @@ tags:
     - "2026"
     - saisons
     - trisyllabe
+    - virevolte
 locations: []
-info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
+info: ""
 description: ""
 pictures: []
 poemType: ""
@@ -45,7 +46,3 @@ Volupté,
 C'est à l'huche
 
 Tôt l'été.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /callout %}}

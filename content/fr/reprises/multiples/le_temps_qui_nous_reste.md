@@ -1,6 +1,6 @@
 +++
 title = "Le temps qui nous reste"
 description = "Depuis la dix-neuvième saison"
+[params]
+  menuPageRef = '/tags/le-temps-qui-nous-reste'
 +++
-
-{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}

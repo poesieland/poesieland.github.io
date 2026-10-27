@@ -3,10 +3,14 @@ title = "Départs"
 id = "departs_25"
 date = 2025-03-07
 weight = 13
-categories = ["Angoisse", "Temps"]
-tags = ["philosophie", "2025", "ennéasyllabe"]
-info = """
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}"""
+categories = [ "Angoisse", "Temps" ]
+tags = [
+  "2025",
+  "ennéasyllabe",
+  "philosophie",
+  "quand un avion trace"
+]
+info = ""
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -36,7 +40,3 @@ Les mots doux des adieux aux partants
 Ont brûlé, calligrammes, arts, temps
 
 Revenu d'un monde qui s'altère.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/quand_un_avion_trace" hidefirstheading %}}
-{{% /callout %}}

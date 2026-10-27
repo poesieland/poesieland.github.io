@@ -11,10 +11,11 @@ categories:
 tags:
     - "2025"
     - nature
-    - trisyllabe
     - saisons
+    - trisyllabe
+    - virevolte
 locations: []
-info: '{{% include "../../includes/virevolte" hidefirstheading %}}'
+info: ""
 pictures: []
 poemType: ""
 acrostiche: ""
@@ -55,7 +56,3 @@ Il repart
 Et chantonne
 
 Son départ.
-
-{{% callout style="primary" %}}
-{{% include "../../includes/virevolte" hidefirstheading %}}
-{{% /callout %}}

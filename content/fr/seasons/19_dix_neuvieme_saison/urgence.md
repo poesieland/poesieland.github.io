@@ -3,13 +3,17 @@ title = "Urgence"
 id = "urgence_19"
 date = 2024-03-23
 weight = 25
-categories = ["Angoisse", "Temps", "Climat"]
-tags = ["philosophie", "nature", "2024", "métrique variable", "pentasyllabe", "dissyllabe"]
-info = """
-Métrique variable : 5, 2.
-
-{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}"""
-
+categories = [ "Angoisse", "Temps", "Climat" ]
+tags = [
+  "2024",
+  "dissyllabe",
+  "métrique variable",
+  "nature",
+  "pentasyllabe",
+  "philosophie",
+  "le temps qui nous reste"
+]
+info = "Métrique variable : 5, 2."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
@@ -48,7 +52,3 @@ Sans fard,
 L'espoir reste en banque,
 
 Trop tard !
-
-{{% callout style="primary" %}}
-{{% include "../../includes/le_temps_qui_nous_reste" hidefirstheading %}}
-{{% /callout %}}
