@@ -23,8 +23,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Septembre est comme mars, il ouvre une charnière
 wordcloud: |-
-    Septembre est comme mars, il ouvre une charnière
-    Septembre qui s'amène emporte faux-semblants
+    Septembre mars ouvre charnière
+    Septembre amène emporte faux-semblants
 ---
 Septembre est comme mars, il ouvre une charnière
 

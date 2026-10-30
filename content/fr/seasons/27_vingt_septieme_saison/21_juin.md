@@ -24,8 +24,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
-description: Si ce jour
-wordcloud: Si ce jour
+description: Si ce jour se termine
+wordcloud: termine musique solstice lumière tangible
 ---
 Si ce jour se termine
 

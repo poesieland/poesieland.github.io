@@ -18,7 +18,7 @@ acrostiche = "Case départ"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Comme l'octobre lit novembre"
-wordcloud = "Comme l'octobre lit novembre"
+wordcloud = "octobre lit novembre"
 +++
 
 Comme l'octobre lit novembre,

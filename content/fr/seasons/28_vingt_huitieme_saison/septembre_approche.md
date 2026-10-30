@@ -23,8 +23,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Septembre approche et son éclat
 wordcloud: |-
-    Septembre approche et son éclat
-    Septembre est gai, tout chamarré
+    Septembre approche éclat
+    Septembre gai chamarré
 ---
 Septembre approche et son éclat
 

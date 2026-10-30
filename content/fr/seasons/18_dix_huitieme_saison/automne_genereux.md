@@ -18,7 +18,7 @@ description = "Novembre à pas compté"
 pictures = [ "Le Ravel le 3 novembre 2023" ]
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-wordcloud = "Novembre à pas compté"
+wordcloud = "Novembre pas compté"
 +++
 
 Respire à pleins poumons !

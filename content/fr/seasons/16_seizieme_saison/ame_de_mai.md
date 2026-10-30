@@ -8,9 +8,7 @@ tags = [ "nature", "saisons", "2004", "alexandrin", "les mois", "mai" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Inspirée, au jardin, l'âme de mai fleurit"
-wordcloud = """
-Inspirée, au jardin, l'âme de mai fleurit
-Et mai qui se déploie annonce rêve aux champs"""
+wordcloud = "Inspirée jardin âme mai fleurit mai déploie annonce rêve champs"
 +++
 
 Sur les verts et les bleus construire un éther, nue

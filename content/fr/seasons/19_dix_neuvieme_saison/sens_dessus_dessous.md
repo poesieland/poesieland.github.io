@@ -18,7 +18,7 @@ tags = [
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Le ciel est **tombé sur la tête** / Cet avril fait fi de leur cas"
-wordcloud = "Cet avril fait fi de leur cas"
+wordcloud = "avril fi cas"
 +++
 
 Le ciel est tombé sur la tête :

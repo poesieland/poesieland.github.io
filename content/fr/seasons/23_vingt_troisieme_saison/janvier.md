@@ -15,10 +15,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Janvier, calme vestige"
-wordcloud = """
-Janvier, calme vestige
-Janvier qui sans parole
-Janvier, mois triste et drôle"""
+wordcloud = "Janvier calme vestige Janvier sans parole Janvier mois triste drôle"
 +++
 
 Doucement rallongés

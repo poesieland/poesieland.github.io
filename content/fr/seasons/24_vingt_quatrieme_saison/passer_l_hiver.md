@@ -19,10 +19,7 @@ description = """
 Laisse janvier gémir
 Février, désarroi"""
 info = ""
-wordcloud = """
-Laisse janvier gémir
-Laisse janvier passer
-Février, désarroi"""
+wordcloud = "Laisse janvier gémir Laisse janvier passer Février désarroi"
 +++
 
 Laisse janvier gémir

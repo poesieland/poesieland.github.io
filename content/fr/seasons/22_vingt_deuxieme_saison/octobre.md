@@ -18,9 +18,7 @@ LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = """
 A l'octobre servile
 Halloween puis novembre"""
-wordcloud = """
-A l'octobre servile
-Halloween puis novembre"""
+wordcloud = "octobre servile Halloween novembre"
 +++
 
 Comme on entre au couvent

@@ -15,10 +15,7 @@ tags = [
 verseLength = 3
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "C'est un jour / De novembre / Sans ajour"
-wordcloud = """
-C'est un jour
-De novembre
-Sans ajour"""
+wordcloud = "jour novembre Sans ajour"
 +++
 
 Il fait nuit

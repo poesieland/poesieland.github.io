@@ -17,7 +17,7 @@ info = ""
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Transfigurés des juins aux mais"
-wordcloud = "Transfigurés des juins aux mais"
+wordcloud = "Transfigurés juins mais"
 +++
 
 Sur un air bleu, sur un air blanc

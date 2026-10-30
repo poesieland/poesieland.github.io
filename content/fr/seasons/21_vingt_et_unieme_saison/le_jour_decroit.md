@@ -15,7 +15,7 @@ tags = [
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Août est prologue"
-wordcloud = "Août est prologue"
+wordcloud = "Août prologue"
 +++
 
 Le jour décroît,

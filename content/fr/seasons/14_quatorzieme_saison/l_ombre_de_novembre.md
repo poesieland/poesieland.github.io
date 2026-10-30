@@ -17,9 +17,7 @@ doubleAcrostiche = "L'ombre de | novembre"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Novembre a mangé les couleurs"
-wordcloud = """
-Novembre a mangé les couleurs
-Et novembre en ombres mêlables"""
+wordcloud = "Novembre mangé couleurs novembre ombres mêlables"
 +++
 
 Le ciel rosit le soir si pâle :

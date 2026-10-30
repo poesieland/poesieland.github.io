@@ -16,7 +16,7 @@ acrostiche = "On reparle : automne"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Et le creux d'août, troublé, sans tain"
-wordcloud = "Et le creux d'août, troublé, sans tain"
+wordcloud = "creux août troublé sans tain"
 +++
 
 On reparle de lui bientôt,

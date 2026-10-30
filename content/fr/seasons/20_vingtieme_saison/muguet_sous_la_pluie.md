@@ -8,9 +8,7 @@ tags = [ "nature", "2024", "hexasyllabe", "les mois", "avril", "mai" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Les avrils et les mais / Beaux comme jeunes pâtres"
-wordcloud = """
-Les avrils et les mais
-Beaux comme jeunes pâtres"""
+wordcloud = "avrils mais Beaux jeunes pâtres"
 +++
 
 Il pleut sur mon muguet,

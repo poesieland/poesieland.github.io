@@ -26,7 +26,7 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Voici septembre et ses alliés
 wordcloud: |-
-    Voici septembre et ses alliés
+    Voici septembre alliés
     Septembre concrétise rêves
 ---
 Voici le mois des écoliers,

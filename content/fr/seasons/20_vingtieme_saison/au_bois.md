@@ -9,7 +9,7 @@ info = "Reprise modifiée du premier vers d'un [poème de la première saison](.
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Un drôle jour de mai je songeais à l'automne"
-wordcloud = "Un drôle jour de mai je songeais à l'automne"
+wordcloud = "drôle jour mai songeais automne"
 +++
 
 Un drôle jour de mai je songeais à l'automne

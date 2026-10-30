@@ -16,7 +16,7 @@ acrostiche = "Dans un rêve"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Dans un verger tremblant sous la neige de mai"
-wordcloud = "Dans un verger tremblant sous la neige de mai"
+wordcloud = "verger tremblant sous neige mai"
 +++
 
 Dans un verger tremblant sous la neige de mai,

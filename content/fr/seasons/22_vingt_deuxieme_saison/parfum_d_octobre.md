@@ -11,7 +11,7 @@ Reprise des deux premiers vers d'un [poème de la deuxième saison](../2_deuxiem
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "C'est octobre qui prend la pose"
-wordcloud = "C'est octobre qui prend la pose"
+wordcloud = "octobre prend pose"
 +++
 
 Funèbre parfum d'une rose
