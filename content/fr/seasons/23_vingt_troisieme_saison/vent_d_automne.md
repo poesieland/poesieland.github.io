@@ -3,8 +3,8 @@ title = "Vent d'automne"
 id = "vent_d_automne_23"
 date = 2024-11-19
 weight = 1
-categories = ["Climat", "Automne"]
-tags = ["nature", "saisons", "2024", "tétrasyllabe"]
+categories = [ "Climat", "Automne" ]
+tags = [ "2024", "nature", "saisons", "tétrasyllabe", "refrain" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++

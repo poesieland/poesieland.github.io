@@ -2,7 +2,7 @@
 title = "Virevolte"
 description = "Depuis la vingt-huitième saison"
 +++
+_Virevolte..._
+_Virevoltent..._
 
-Virevolte... Virevoltent...
-
-Encore un trisyllabe.
+La musicalité d'un trisyllabe.

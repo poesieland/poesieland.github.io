@@ -12,4 +12,4 @@ _Demain nous serons..._
 Ou tout simplement _Demain_.
 
  \
-Un thème centré sur l'autre et le temps, qui glisse doucement vers la vieillesse.
+Un thème centré sur l'autre et le temps... la tendresse qui glisse doucement vers la vieillesse.

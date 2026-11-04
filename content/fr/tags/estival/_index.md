@@ -1,7 +1,9 @@
 +++
 title = "Estival"
 +++
-Un trisyllabe...
+_Estival_
+
+La musicalité d'un trisyllabe...
 
 Et souvent une seconde rime en -ège.
 

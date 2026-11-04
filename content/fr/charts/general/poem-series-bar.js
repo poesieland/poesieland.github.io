@@ -4,7 +4,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '2j', value: 130, color: 'rgba(72, 149, 239, 1)' },
     { label: '3j', value: 60, color: 'rgba(72, 149, 239, 1)' },
     { label: '4j', value: 24, color: 'rgba(72, 149, 239, 1)' },
-    { label: '5j', value: 11, color: 'rgba(72, 149, 239, 1)' },
+    { label: '5j', value: 12, color: 'rgba(72, 149, 239, 1)' },
     { label: '6j', value: 11, color: 'rgba(72, 149, 239, 1)' },
     { label: '7j', value: 8, color: 'rgba(72, 149, 239, 1)' },
     { label: '8j', value: 3, color: 'rgba(72, 149, 239, 1)' },
