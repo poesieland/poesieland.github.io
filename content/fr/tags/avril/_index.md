@@ -8,6 +8,6 @@ title = "Avril"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/avril/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/avril/featured.webp" >}}
 
 {{< chartjs id="poemDay-avrilRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-avril-radar.js" />}}

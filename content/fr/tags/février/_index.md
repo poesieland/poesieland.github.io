@@ -9,6 +9,6 @@ title = "Février"
       description = true
 +++
 
-{{< figure src="../../other-perspectives/les-mois/février/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/février/featured.webp" >}}
 
 {{< chartjs id="poemDay-fevrierRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-fevrier-radar.js" />}}

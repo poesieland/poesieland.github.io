@@ -17,7 +17,7 @@ acrostiche = "Jardin, dits vers"
 verseLength = 10
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Décembre est pâle, en ayant trop mangé"
-wordcloud = "Décembre pâle trop mangé"
+wordcloud = "Décembre pâle mangé"
 +++
 
 Jetées sur les chemins sans ombre, ternes,

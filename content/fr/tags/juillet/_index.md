@@ -8,6 +8,6 @@ title = "Juillet"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/juillet/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/juillet/featured.webp" >}}
 
 {{< chartjs id="poemDay-juilletRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-juillet-radar.js" />}}

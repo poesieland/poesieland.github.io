@@ -8,6 +8,6 @@ title = "Octobre"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/octobre/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/octobre/featured.webp" >}}
 
 {{< chartjs id="poemDay-octobreRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-octobre-radar.js" />}}

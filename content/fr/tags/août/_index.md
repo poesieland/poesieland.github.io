@@ -8,6 +8,6 @@ title = "Août"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/août/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/août/featured.webp" >}}
 
 {{< chartjs id="poemDay-aoutRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-aout-radar.js" />}}

@@ -8,6 +8,6 @@ title = "Décembre"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/décembre/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/décembre/featured.webp" >}}
 
 {{< chartjs id="poemDay-decembreRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-decembre-radar.js" />}}

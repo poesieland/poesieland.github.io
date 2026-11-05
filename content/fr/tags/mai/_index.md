@@ -8,6 +8,6 @@ title = "Mai"
       breadcrumb = true
       description = true
 +++
-{{< figure src="../../other-perspectives/les-mois/mai/featured.png" >}}
+{{< figure src="../../other-perspectives/les-mois/mai/featured.webp" >}}
 
 {{< chartjs id="poemDay-maiRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-mai-radar.js" />}}
