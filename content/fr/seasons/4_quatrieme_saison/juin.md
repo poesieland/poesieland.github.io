@@ -9,8 +9,8 @@ verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Trou de mémoire / Ce mois de juin"
 wordcloud = """
-Trou de mémoire
-Ce mois de juin"""
+Trou mémoire
+mois juin"""
 +++
 
 Le cœur s'emballe,

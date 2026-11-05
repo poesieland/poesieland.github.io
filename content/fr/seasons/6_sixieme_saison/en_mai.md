@@ -9,8 +9,8 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "En mai dis-moi toujours le rêve et l'amitié"
 wordcloud = """
-En mai dis-moi toujours le rêve et l'amitié
-Dis-moi les fleurs de mai, leur parfum d'espérance"""
+mai dis-moi toujours rêve amitié
+Dis-moi fleurs mai parfum espérance"""
 +++
 
 En mai dis-moi toujours le rêve et l'amitié,

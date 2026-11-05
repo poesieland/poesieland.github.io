@@ -19,8 +19,8 @@ description = """
 S'envole au beau novembre
 Renaître un cœur de mai"""
 wordcloud = """
-S'envole au beau novembre
-Renaître un cœur de mai"""
+envole beau novembre
+Renaître cœur mai"""
 +++
 
 Pour que cette Toussaint

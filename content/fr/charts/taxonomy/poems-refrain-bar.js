@@ -23,7 +23,7 @@ import { addBarChart } from '../add-chart.js'
     { label: 'Le temps qui nous reste (20) 2024', value: 3, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'C\'est vivre qui compte (21) 2024', value: 7, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Au temps le dire (22) 2024', value: 13, color: 'rgba(72, 149, 239, 0.5)' },
-    { label: 'Jamais trop (23) 2024', value: 8, color: 'rgba(72, 149, 239, 0.5)' },
+    { label: 'Jamais trop (23) 2024', value: 9, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Les mots respirent (24) 2024-25', value: 7, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Coeur et âme (25) 2025', value: 5, color: 'rgba(72, 149, 239, 0.5)' },
     { label: 'Chemins non balisés (26) 2025', value: 8, color: 'rgba(72, 149, 239, 0.5)' },
