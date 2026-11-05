@@ -24,8 +24,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Octobre est précieux
 wordcloud: |-
-    Octobre est précieux
-    Si l'octobre danse
+    Octobre précieux
+    octobre danse
 ---
 Un dernier trimestre
 

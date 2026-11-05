@@ -23,8 +23,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Octobre est un manant [...] Et puis voici novembre
 wordcloud: |-
-    Octobre est un manant
-    Et puis voici novembre
+    Octobre manant
+    voici novembre
 ---
 La tempête en point d'orgue
 

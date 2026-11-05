@@ -22,10 +22,10 @@ description: |-
     Voici le mois vibrant
     Voici l'août qui se rend
 wordcloud: |-
-    Voici l'août qui se rend
-    Voici l'août qui s'effeuille
-    Voici l'août qui s'annonce
-    Août va tout dévorer
+    Voici août rend
+    Voici août effeuille
+    Voici août annonce
+    Août dévorer
 pictures: []
 poemType: ""
 acrostiche: ""

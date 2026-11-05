@@ -19,7 +19,7 @@ tags:
 locations: []
 info: ""
 description: pécheur septembre ; août était monotone
-wordcloud: pécheur septembre ; août était monotone
+wordcloud: pécheur septembre août monotone
 pictures: []
 poemType: ""
 acrostiche: ""

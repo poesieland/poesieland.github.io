@@ -16,7 +16,7 @@ tags:
 locations: []
 info: ""
 description: Demain c'est février
-wordcloud: Demain c'est février
+wordcloud: Demain février
 pictures: []
 poemType: ""
 acrostiche: ""

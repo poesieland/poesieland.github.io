@@ -26,8 +26,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Scelle lèvres d'octobre [...] Novembre sans remords
 wordcloud: |-
-    Scelle lèvres d'octobre
-    Novembre sans remords
+    Scelle lèvres octobre
+    Novembre remords
 ---
 Demain tout pourrira
 

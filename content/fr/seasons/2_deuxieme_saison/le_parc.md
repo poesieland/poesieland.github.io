@@ -9,7 +9,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 locations = [ "Reims" ]
 description = "Ce mois de juin brûlant voleur"
-wordcloud = "Ce mois de juin brûlant voleur"
+wordcloud = "mois juin brûlant voleur"
 +++
 
 Nous nous aimâmes en silence

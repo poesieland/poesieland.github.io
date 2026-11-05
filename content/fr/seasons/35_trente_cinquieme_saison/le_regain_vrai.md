@@ -17,7 +17,7 @@ tags:
 locations: []
 info: ""
 description: Voici le mois qui court, oui c'est bien lui, septembre
-wordcloud: Voici mois court oui bien lui septembre
+wordcloud: Voici mois court septembre
 pictures: []
 poemType: ""
 acrostiche: Le regain vrai

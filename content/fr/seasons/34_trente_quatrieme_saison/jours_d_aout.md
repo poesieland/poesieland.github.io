@@ -19,9 +19,9 @@ locations: []
 info: ""
 description: Les jours d'août virevoltent
 wordcloud: |-
-    Août aux tomates mûres,
-    Août, fier, tord ses entraves
-    Les jours d'août virevoltent
+    Août tomates mûres
+    Août fier tord entraves
+    jours août virevoltent
 pictures: []
 poemType: ""
 acrostiche: ""

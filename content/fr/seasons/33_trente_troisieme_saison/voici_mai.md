@@ -25,12 +25,12 @@ acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 wordcloud: |-
-    Amour, dis-moi qu'en mai
-    Voici mai, renouveaux,
-    Voici mai qui commence,
-    Voici mai, c'est mon mois,
-    Voici mai, le plus tendre,
-    Voici mai, sans attendre !
+    Amour dis moi mai
+    Voici mai renouveaux
+    Voici mai commence
+    Voici mai mois
+    Voici mai tendre
+    Voici mai attendre
 ---
 Si le soir embaumait
 

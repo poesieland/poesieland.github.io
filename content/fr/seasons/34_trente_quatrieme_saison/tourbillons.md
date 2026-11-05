@@ -20,8 +20,8 @@ locations: []
 info: ""
 description: Août d'une balafre plonge
 wordcloud: |-
-    Août d'une balafre plonge
-    Août emporte ses chaleurs
+    Août balafre plonge
+    Août emporte chaleurs
 pictures: []
 poemType: ""
 acrostiche: ""

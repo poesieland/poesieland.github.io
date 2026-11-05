@@ -16,7 +16,7 @@ tags:
 locations: []
 info: ""
 description: Retiens s'il vaut le coup septembre
-wordcloud: Retiens vaut coup septembre
+wordcloud: Retiens coup septembre
 pictures: []
 poemType: ""
 acrostiche: ""

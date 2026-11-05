@@ -18,8 +18,8 @@ verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Novembre en son élan connaît des gloires reines"
 wordcloud = """
-Novembre en son élan connaît des gloires reines
-Novembre en son esprit m'emporte en folle danse"""
+Novembre élan connaît gloires reines
+Novembre esprit emporte folle danse"""
 +++
 
 Lumière inestimable, ô ma saison d'amour,

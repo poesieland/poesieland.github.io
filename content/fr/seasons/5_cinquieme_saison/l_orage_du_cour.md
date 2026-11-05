@@ -8,7 +8,7 @@ tags = [ "1998", "alexandrin", "amour", "les mois", "janvier" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Du soleil de janvier tu connaîtras la flamme"
-wordcloud = "Du soleil de janvier tu connaîtras la flamme"
+wordcloud = "soleil janvier connaîtras flamme"
 +++
 
 Mais ce que j'attendais, c'est l'orage du cœur
