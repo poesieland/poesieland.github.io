@@ -2,7 +2,7 @@
 title = "Trente-sixième Saison : N'attends pas"
 weight = 36
 type = "seasonIndex"
-description = "Une injonction... A partir de septembre 2026"
+description = "Une injonction... Peut-être celle de contempler l'automne et de s'amuser... _félinement vôtre_. A partir de septembre 2026"
 +++
 
 {{% param "description" %}}
