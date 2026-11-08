@@ -15,8 +15,8 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Ciel', value: 2, color: 'rgba(119, 181, 254, 1)' },
     { label: 'Climat', value: 2, color: 'rgb(50, 122, 183, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
-    { label: 'Félinement vôtre', value: 5, color: 'rgba(161, 86, 28, 1)' },
-    { label: 'Automne', value: 5, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Félinement vôtre', value: 6, color: 'rgba(161, 86, 28, 1)' },
+    { label: 'Automne', value: 9, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 1, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('season36Pie', [data], { plugins: { title: { display: true, text: 'N\'attends pas (36) septembre à octobre 2026' } } });

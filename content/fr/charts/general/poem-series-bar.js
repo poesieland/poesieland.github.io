@@ -1,10 +1,10 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: '2 poèmes (en 1 jours, 2 jours)', value: 138, color: 'rgba(72, 149, 239, 1)' },
-    { label: '3 poèmes (en 1 jours, 2 jours, 3 jours)', value: 57, color: 'rgba(72, 149, 239, 1)' },
+    { label: '2 poèmes (en 1 jours, 2 jours)', value: 139, color: 'rgba(72, 149, 239, 1)' },
+    { label: '3 poèmes (en 1 jours, 2 jours, 3 jours)', value: 56, color: 'rgba(72, 149, 239, 1)' },
     { label: '4 poèmes (en 1 jours, 2 jours, 3 jours, 4 jours)', value: 44, color: 'rgba(72, 149, 239, 1)' },
-    { label: '5 poèmes (en 1 jours, 3 jours, 4 jours, 5 jours)', value: 19, color: 'rgba(72, 149, 239, 1)' },
+    { label: '5 poèmes (en 1 jours, 3 jours, 4 jours, 5 jours)', value: 20, color: 'rgba(72, 149, 239, 1)' },
     { label: '6 poèmes (en 2 jours, 3 jours, 4 jours, 5 jours, 6 jours)', value: 13, color: 'rgba(72, 149, 239, 1)' },
     { label: '7 poèmes (en 3 jours, 4 jours, 5 jours, 6 jours, 7 jours)', value: 8, color: 'rgba(72, 149, 239, 1)' },
     { label: '8 poèmes (en 3 jours, 5 jours, 6 jours, 7 jours, 8 jours)', value: 11, color: 'rgba(72, 149, 239, 1)' },

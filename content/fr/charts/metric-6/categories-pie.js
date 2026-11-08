@@ -35,7 +35,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 7, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 19, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Eté', value: 28, color: 'rgba(0, 86, 27, 1)' },
-    { label: 'Automne', value: 47, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 49, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 33, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric6Pie', [data], { plugins: { title: { display: true, text: '' } } });

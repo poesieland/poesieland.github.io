@@ -25,7 +25,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(250, 152, 70, 1)' },
     { label: 'Au contact', value: 1, color: 'rgba(244, 114, 5, 1)' },
     { label: 'Printemps', value: 1, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 3, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Automne', value: 4, color: 'rgba(27, 79, 8, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(24, 57, 30, 1)' },
   ];
   addPieChart('metric10Pie', [data], { plugins: { title: { display: true, text: '' } } });

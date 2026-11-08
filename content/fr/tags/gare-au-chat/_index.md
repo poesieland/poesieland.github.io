@@ -7,6 +7,8 @@ title = "Gare au chat"
       description = true
       display="tree"
       columns = 2
+      groupby = "date | format '2006-01'"
+      grouplabel = "date | format 'January 2006'"
       orderby = "date asc"
 +++
 Un chat, ou plusieurs...
