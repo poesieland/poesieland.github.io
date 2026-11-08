@@ -15,9 +15,7 @@ tags = [
 ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
-S'envole au beau novembre
-Renaître un cœur de mai"""
+description = "S'envole au beau novembre [...] Renaître un cœur de mai"
 wordcloud = """
 envole beau novembre
 Renaître cœur mai"""

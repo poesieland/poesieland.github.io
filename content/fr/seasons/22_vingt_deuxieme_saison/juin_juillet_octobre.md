@@ -16,9 +16,7 @@ tags = [
 ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-description = """
-Souvenir de l'été quand se pointe l'octobre,
-Tout souriant c'est juin, insouciant juillet"""
+description = "Souvenir de l'été quand se pointe l'octobre, / Tout souriant c'est juin, insouciant juillet"
 wordcloud = "Souvenir été pointe octobre souriant juin insouciant juillet Juin épanouissait jardin affaire juillet bleu oisif reposait étudiant Mille feuilles Octobre automne obédient"
 +++
 

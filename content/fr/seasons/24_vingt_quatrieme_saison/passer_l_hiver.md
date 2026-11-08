@@ -16,8 +16,7 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = """
-Laisse janvier gémir
-Février, désarroi"""
+Laisse janvier gémir [...] Février, désarroi"""
 info = ""
 wordcloud = "Laisse janvier gémir Laisse janvier passer Février désarroi"
 +++

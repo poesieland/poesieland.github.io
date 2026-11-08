@@ -4,12 +4,14 @@ title = "Les mois"
   [cascade.params]
     [cascade.params.pages]
       display="tree"
-      columns = 3
-      groupby = "linktitle | left 1 | upper"
+      columns = 2
+      groupby = "date | format 'January'"
       breadcrumb = true
       description = true
 +++
 Douze mois... Chacun associé à des sentiments particuliers.
+
+Les poèmes sont ici regroupés par mois d'écriture, qui correspond en général au mois évoqué, ou en est proche... A découvrir.
 
 Et si vous préférez un mois en particulier...
 

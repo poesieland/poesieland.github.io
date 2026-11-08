@@ -18,9 +18,7 @@ tags:
     - hexasyllabe
 locations: []
 info: ""
-description: |-
-    Voici le mois vibrant
-    Voici l'août qui se rend
+description: "Voici l'août qui se rend / Comme mère venue"
 wordcloud: |-
     Voici août rend
     Voici août effeuille
