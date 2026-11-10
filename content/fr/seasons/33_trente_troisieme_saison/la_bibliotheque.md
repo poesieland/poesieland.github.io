@@ -1,6 +1,6 @@
 ---
 weight: 14
-title: La bibliotheque
+title: La bibliothèque
 id: la_bibliotheque_33
 date: 2026-05-15
 verseLength: 12
