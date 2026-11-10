@@ -6,7 +6,7 @@ weight = 32
 categories = ["Portraits", "Flore"]
 tags = ["philosophie", "nature", "1997", "hexasyllabe"]
 verseLength = 6
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

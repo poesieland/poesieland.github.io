@@ -7,7 +7,7 @@ categories = ["Eau douce"]
 tags = ["nature", "2000", "acrostiche", "alexandrin"]
 acrostiche = "Baïkal"
 verseLength = 12
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

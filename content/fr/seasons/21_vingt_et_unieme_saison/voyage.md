@@ -7,7 +7,7 @@ categories = [ "Etre" ]
 tags = [ "philosophie", "2024", "alexandrin" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
+locations = [ "Où je nai pas été" ]
 +++
 
 Plus au sud c'est l'hiver : débridée, éternelle

@@ -8,7 +8,7 @@ tags = [ "1999", "acrostiche", "hexasyllabe", "philosophie" ]
 acrostiche = "J'irai par ce chemin"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
+locations = [ "Où je nai pas été" ]
 +++
 
 J'ai ressenti l'appel

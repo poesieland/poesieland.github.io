@@ -8,7 +8,7 @@ tags = [ "nature", "2001", "acrostiche", "hexasyllabe" ]
 acrostiche = "Ballet du ciel"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
-locations = [ "Où je n'ai pas été" ]
+locations = [ "Où je nai pas été" ]
 +++
 
 Boréale l'aurore

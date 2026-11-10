@@ -7,7 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1994", "alexandrin"]
 info = "Reprise en 1995/1996 d'un poème de 1994"
 verseLength = 12
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

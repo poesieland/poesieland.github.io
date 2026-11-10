@@ -7,7 +7,7 @@ categories = ["Jardin et paysage"]
 tags = ["nature", "2001", "acrostiche", "alexandrin"]
 acrostiche = "Toscana - Sogno"
 verseLength = 12
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

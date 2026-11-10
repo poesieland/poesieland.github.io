@@ -6,7 +6,7 @@ weight = 49
 categories = ["Jardin et paysage"]
 tags = ["nature", "1996", "octosyllabe"]
 verseLength = 8
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

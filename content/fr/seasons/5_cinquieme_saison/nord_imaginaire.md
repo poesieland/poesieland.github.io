@@ -6,7 +6,7 @@ weight = 50
 categories = ["Hiver", "Enfance et adolescence"]
 tags = ["saisons", "philosophie", "1997", "octosyllabe"]
 verseLength = 8
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

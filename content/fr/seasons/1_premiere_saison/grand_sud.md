@@ -6,7 +6,7 @@ weight = 31
 categories = ["Jardin et paysage"]
 tags = ["nature", "1996", "alexandrin"]
 verseLength = 12
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 

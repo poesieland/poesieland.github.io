@@ -7,7 +7,7 @@ categories = ["Révolte"]
 tags = ["philosophie", "1996", "sonnet", "alexandrin"]
 poemType = "sonnet"
 verseLength = 12
-locations = ["Où je n'ai pas été"]
+locations = ["Où je nai pas été"]
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 +++
 
