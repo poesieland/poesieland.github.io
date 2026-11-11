@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-revolteRadar', ['Mois les plus représentés : juillet, juin, octobre, mai'], [data], { backgroundColor: 'rgba(61, 0, 102, 0.5)', borderColor: 'rgba(61, 0, 102, 1)', pointBackgroundColor: 'rgba(61, 0, 102, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-revolteRadar', ['Mois les plus représentés : juillet, juin, octobre, mai'], [data], { backgroundColor: 'rgba(138, 36, 95, 0.5)', borderColor: 'rgba(138, 36, 95, 1)', pointBackgroundColor: 'rgba(138, 36, 95, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-merRadar', ['Mois les plus représentés : juillet, janvier, septembre, février'], [data], { backgroundColor: 'rgba(0, 127, 255, 0.5)', borderColor: 'rgba(0, 127, 255, 1)', pointBackgroundColor: 'rgba(0, 127, 255, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-merRadar', ['Mois les plus représentés : juillet, janvier, septembre, février'], [data], { backgroundColor: 'rgba(21, 94, 150, 0.5)', borderColor: 'rgba(21, 94, 150, 1)', pointBackgroundColor: 'rgba(21, 94, 150, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();
