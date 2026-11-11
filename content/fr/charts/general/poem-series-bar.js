@@ -7,7 +7,7 @@ import { addBarChart } from '../add-chart.js'
     { label: '5 poèmes (en 1 jours, 3 jours, 4 jours, 5 jours)', value: 20, color: 'rgba(72, 149, 239, 1)' },
     { label: '6 poèmes (en 2 jours, 3 jours, 4 jours, 5 jours, 6 jours)', value: 13, color: 'rgba(72, 149, 239, 1)' },
     { label: '7 poèmes (en 3 jours, 4 jours, 5 jours, 6 jours, 7 jours)', value: 8, color: 'rgba(72, 149, 239, 1)' },
-    { label: '8 poèmes (en 3 jours, 5 jours, 6 jours, 7 jours, 8 jours)', value: 11, color: 'rgba(72, 149, 239, 1)' },
+    { label: '8 poèmes (en 3 jours, 5 jours, 6 jours, 7 jours, 8 jours)', value: 12, color: 'rgba(72, 149, 239, 1)' },
     { label: '9 poèmes (en 4 jours, 5 jours, 6 jours, 7 jours)', value: 7, color: 'rgba(72, 149, 239, 1)' },
     { label: '10 poèmes (en 5 jours, 6 jours, 7 jours, 8 jours, 9 jours)', value: 5, color: 'rgba(72, 149, 239, 1)' },
     { label: '11 poèmes (en 6 jours, 7 jours)', value: 2, color: 'rgba(72, 149, 239, 1)' },

@@ -8,7 +8,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Aube', value: 17, color: 'rgba(245, 193, 106, 1)' },
     { label: 'Lune', value: 10, color: 'rgba(229, 163, 60, 1)' },
     { label: 'Ville', value: 4, color: 'rgba(185, 121, 43, 1)' },
-    { label: 'Crépuscule', value: 24, color: 'rgba(139, 91, 41, 1)' },
+    { label: 'Crépuscule', value: 25, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Nuit', value: 8, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 16, color: 'rgba(215, 182, 237, 1)' },
     { label: 'Espoir', value: 30, color: 'rgba(196, 154, 223, 1)' },

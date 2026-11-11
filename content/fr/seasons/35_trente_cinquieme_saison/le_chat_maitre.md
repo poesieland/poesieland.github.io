@@ -12,6 +12,7 @@ tags:
     - attitudes
     - pentasyllabe
     - gare au chat
+    - refrain
 locations: []
 info: ""
 description: Gare au 🐈 qui **veut** ! / Toi qui l'as vu naître

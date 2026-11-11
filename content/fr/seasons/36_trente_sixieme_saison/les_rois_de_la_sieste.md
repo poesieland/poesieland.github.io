@@ -12,7 +12,6 @@ tags:
     - attitudes
     - gare au chat
     - pentasyllabe
-    - refrain
 locations: []
 info: ""
 description: Gare aux 🐈🐈 qui **dorment** / Sur la couette, en long
