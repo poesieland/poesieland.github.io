@@ -8,7 +8,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Aube', value: 17, color: 'rgba(245, 193, 106, 1)' },
     { label: 'Lune', value: 10, color: 'rgba(229, 163, 60, 1)' },
     { label: 'Ville', value: 4, color: 'rgba(185, 121, 43, 1)' },
-    { label: 'Crépuscule', value: 25, color: 'rgba(139, 91, 41, 1)' },
+    { label: 'Crépuscule', value: 26, color: 'rgba(139, 91, 41, 1)' },
     { label: 'Nuit', value: 8, color: 'rgba(47, 27, 12, 1)' },
     { label: 'Enfance et adolescence', value: 16, color: 'rgba(215, 182, 237, 1)' },
     { label: 'Espoir', value: 30, color: 'rgba(196, 154, 223, 1)' },
@@ -16,7 +16,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Foi', value: 21, color: 'rgba(152, 92, 192, 1)' },
     { label: 'Portraits', value: 26, color: 'rgba(133, 70, 175, 1)' },
     { label: 'Temps', value: 58, color: 'rgba(113, 55, 154, 1)' },
-    { label: 'Condition humaine', value: 34, color: 'rgba(94, 43, 131, 1)' },
+    { label: 'Condition humaine', value: 36, color: 'rgba(94, 43, 131, 1)' },
     { label: 'Apprentissage', value: 20, color: 'rgba(98, 58, 155, 1)' },
     { label: 'Révolte', value: 14, color: 'rgba(138, 36, 95, 1)' },
     { label: 'Angoisse', value: 27, color: 'rgba(41, 35, 79, 1)' },
@@ -35,7 +35,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 7, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 19, color: 'rgba(180, 217, 166, 1)' },
     { label: 'Eté', value: 28, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 49, color: 'rgba(77, 150, 61, 1)' },
+    { label: 'Automne', value: 50, color: 'rgba(77, 150, 61, 1)' },
     { label: 'Hiver', value: 33, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('metric6Pie', [data], { plugins: { title: { display: true, text: '' } } });

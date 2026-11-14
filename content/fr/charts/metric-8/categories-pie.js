@@ -15,7 +15,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Création', value: 33, color: 'rgba(174, 122, 207, 1)' },
     { label: 'Foi', value: 20, color: 'rgba(152, 92, 192, 1)' },
     { label: 'Portraits', value: 26, color: 'rgba(133, 70, 175, 1)' },
-    { label: 'Temps', value: 74, color: 'rgba(113, 55, 154, 1)' },
+    { label: 'Temps', value: 75, color: 'rgba(113, 55, 154, 1)' },
     { label: 'Condition humaine', value: 39, color: 'rgba(94, 43, 131, 1)' },
     { label: 'Apprentissage', value: 24, color: 'rgba(98, 58, 155, 1)' },
     { label: 'Révolte', value: 16, color: 'rgba(138, 36, 95, 1)' },
@@ -35,7 +35,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Félinement vôtre', value: 7, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 21, color: 'rgba(180, 217, 166, 1)' },
     { label: 'Eté', value: 16, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 55, color: 'rgba(77, 150, 61, 1)' },
+    { label: 'Automne', value: 56, color: 'rgba(77, 150, 61, 1)' },
     { label: 'Hiver', value: 18, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('metric8Pie', [data], { plugins: { title: { display: true, text: '' } } });

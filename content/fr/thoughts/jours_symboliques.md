@@ -7,7 +7,7 @@ Certains jour sont marqués d'une "pierre blanche" au calendrier.
 
 *Page en cours de construction.*
 
-#### 31 octobre : Halloween !
+#### 31 octobre : Halloween ! Samain...
 
 Toujours bon de frissonner et effrayer l'enfant en soi.
 
@@ -17,6 +17,10 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 *à la vingt-deuxième saison*
 - [D'octobre à novembre](../seasons/29_vingt_neuvieme_saison/d_octobre_a_novembre)  
 *à la vingt-neuvième saison*
+- [Chanson d'automne II](../seasons/36_trente_sixieme_saison/chanson_d_automne_II)  
+*à la trente-sixième saison*
+- [Samain](../seasons/36_trente_sixieme_saison/samain)  
+*à la trente-sixième saison*
 
 #### 1er novembre : la Toussaint
 - [Toussaint](../seasons/4_quatrieme_saison/toussaint)  
@@ -25,6 +29,8 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 *à la dix-huitième saison*
 - [Temps saint](../seasons/22_vingt_deuxieme_saison/temps_saint)  
 *à la vingt-deuxième saison*
+- [Chanson d'automne II](../seasons/36_trente_sixieme_saison/chanson_d_automne_II)  
+*à la trente-sixième saison*
 
 #### 2 novembre : le jour des morts
 - [Biais](../seasons/22_vingt_deuxieme_saison/biais)  
@@ -33,6 +39,8 @@ Toujours bon de frissonner et effrayer l'enfant en soi.
 *à la vingt-deuxième saison*
 - [Dévotion](../seasons/29_vingt_neuvieme_saison/devotion)  
 *à la vingt-neuvième saison*
+- [Chanson d'automne II](../seasons/36_trente_sixieme_saison/chanson_d_automne_II)  
+*à la trente-sixième saison*
 
 #### 11 novembre : l'armistice de la Grande Guerre
 - [Armistice](../seasons/18_dix_huitieme_saison/armistice)  

@@ -4,7 +4,7 @@ type = "home"
 date = 2026-10-03
 +++
 
-Bienvenue au coeur de mon "royaume poétique", mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
+Bienvenue au coeur de mon royaume poétique : mes oeuvres complètes en ligne regroupées en [Saisons](./seasons).
 
 ## A lire et relire
 

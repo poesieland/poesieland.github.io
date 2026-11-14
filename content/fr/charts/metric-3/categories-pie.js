@@ -23,12 +23,12 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mer', value: 2, color: 'rgba(21, 94, 150, 1)' },
     { label: 'Faune', value: 2, color: 'rgba(16, 74, 122, 1)' },
     { label: 'Climat', value: 4, color: 'rgb(10, 53, 91, 1)' },
-    { label: 'Musique et chant', value: 1, color: 'rgba(246, 194, 160, 1)' },
+    { label: 'Musique et chant', value: 2, color: 'rgba(246, 194, 160, 1)' },
     { label: 'Mouvement', value: 1, color: 'rgba(240, 164, 119, 1)' },
     { label: 'Sommeil', value: 1, color: 'rgba(213, 104, 49, 1)' },
     { label: 'Printemps', value: 3, color: 'rgba(180, 217, 166, 1)' },
     { label: 'Eté', value: 8, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 15, color: 'rgba(77, 150, 61, 1)' },
+    { label: 'Automne', value: 16, color: 'rgba(77, 150, 61, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('metric3Pie', [data], { plugins: { title: { display: true, text: '' } } });

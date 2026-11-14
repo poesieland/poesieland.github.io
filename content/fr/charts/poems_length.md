@@ -68,6 +68,8 @@ Certaines fois une mini-nouvelle.
 *à la trente-et-unième saison*
 - [Les mots chassés](../seasons/31_trente_et_unieme_saison/les_mots_chasses)  
 *à la trente-et-unième saison*
+- [Automne musicien](../seasons/36_trente_sixieme_saison/automne_musicien)  
+*à la trente-sixième saison*
 
 ## Et même huit
 

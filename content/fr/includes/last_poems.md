@@ -2,16 +2,12 @@
 title = "Derniers poèmes ajoutés"
 +++
 
-[Tableau d'automne, écrit le 27.10.2026](../seasons/36_trente_sixieme_saison/tableau_d_automne)
+[Samain, écrit le 31.10.2026](../seasons/36_trente_sixieme_saison/samain)
 
-[Soupir d'automne, écrit le 26.10.2026](../seasons/36_trente_sixieme_saison/soupir_d_automne)
+[Automne musicien, écrit le 31.10.2026](../seasons/36_trente_sixieme_saison/automne_musicien)
 
-[A l'heure d'hiver, écrit le 25.10.2026](../seasons/36_trente_sixieme_saison/a_l_heure_d_hiver)
+[Chanson d'automne II, écrit le 30.10.2026](../seasons/36_trente_sixieme_saison/chanson_d_automne_II)
 
-[Le vieux chat III, écrit le 25.10.2026](../seasons/36_trente_sixieme_saison/le_vieux_chat_III)
+[Après le travail, écrit le 29.10.2026](../seasons/36_trente_sixieme_saison/apres_le_travail)
 
-[Le bal musette, écrit le 25.10.2026](../seasons/36_trente_sixieme_saison/le_bal_musette)
-
-[Sur la Moselle, écrit le 25.10.2026](../seasons/36_trente_sixieme_saison/sur_la_moselle)
-
-[La maison d'en face, écrit le 24.10.2026](../seasons/36_trente_sixieme_saison/la_maison_d_en_face)
+[Petit Poucet des mots, écrit le 27.10.2026](../seasons/36_trente_sixieme_saison/petit_poucet_des_mots)

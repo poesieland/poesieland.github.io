@@ -1,5 +1,5 @@
 +++
-title = "Trente-septième Saison : Les mots libèrent"
+title = "Trente-septième Saison : Pansensorielle"
 weight = 37
 type = "seasonIndex"
 description = "Plus tard"
