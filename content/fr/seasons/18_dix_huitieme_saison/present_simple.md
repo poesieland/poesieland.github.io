@@ -19,6 +19,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "21 décembre : Solstice d'hiver"
 ---
 Je fus et je suis lorsque l'ombre s'en vient,
 

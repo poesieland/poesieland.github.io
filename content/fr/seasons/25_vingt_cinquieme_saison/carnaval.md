@@ -3,10 +3,11 @@ title = "Carnaval"
 id = "carnaval_25"
 date = 2025-03-02
 weight = 8
-categories = ["Hiver", "Printemps", "Mouvement"]
-tags = ["saisons", "attitudes", "2025", "pentasyllabe"]
+categories = [ "Hiver", "Printemps", "Mouvement" ]
+tags = [ "saisons", "attitudes", "2025", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "En février, variable : Carnaval, Mardi gras" ]
 +++
 
 Pour chasser l'hiver

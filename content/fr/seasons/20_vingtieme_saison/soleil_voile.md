@@ -3,10 +3,11 @@ title = "Soleil voilé"
 id = "soleil_voile_20"
 date = 2024-06-13
 weight = 34
-categories = ["Crépuscule"]
-tags = ["ombres et lumières", "2024", "pentasyllabe"]
+categories = [ "Crépuscule" ]
+tags = [ "ombres et lumières", "2024", "pentasyllabe" ]
 verseLength = 5
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "21 juin : Solstice d'été et fête de la musique" ]
 +++
 
 Un soleil voilé

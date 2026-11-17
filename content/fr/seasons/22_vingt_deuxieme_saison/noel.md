@@ -3,10 +3,14 @@ title = "Noël"
 id = "noel_22"
 date = 2024-11-16
 weight = 49
-categories = ["Hiver", "Portraits", "Foi"]
-tags = ["saisons", "philosophie", "2024", "alexandrin", "noël"]
+categories = [ "Hiver", "Portraits", "Foi" ]
+tags = [ "saisons", "philosophie", "2024", "alexandrin", "noël" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [
+  "6 décembre : Saint-Nicolas",
+  "24 et 25 décembre : (Réveillon de) Noël"
+]
 +++
 
 Enivre-moi, Noël, de tes rouges et verts,

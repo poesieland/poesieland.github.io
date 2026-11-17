@@ -3,11 +3,12 @@ title = "Douceur"
 id = "douceur_10"
 date = 1999-03-03
 weight = 33
-categories = ["Musique et chant"]
-tags = ["attitudes", "1999", "acrostiche", "octosyllabe"]
+categories = [ "Musique et chant" ]
+tags = [ "attitudes", "1999", "acrostiche", "octosyllabe" ]
 acrostiche = "Douces"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "En avril, variable : Pâques" ]
 +++
 
 Douces, les musique s'élèvent

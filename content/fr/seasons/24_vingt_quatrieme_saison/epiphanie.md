@@ -3,11 +3,18 @@ title = "Epiphanie"
 id = "epiphanie_24"
 date = 2025-01-05
 weight = 9
-categories = ["Foi"]
-tags = ["philosophie", "2025", "métrique variable", "heptasyllabe", "tétrasyllabe"]
+categories = [ "Foi" ]
+tags = [
+  "philosophie",
+  "2025",
+  "métrique variable",
+  "heptasyllabe",
+  "tétrasyllabe"
+]
 info = "Métrique variable : 7, 4."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "6 janvier : Épiphanie" ]
 +++
 
 Les rois mages sont passés

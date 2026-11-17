@@ -9,6 +9,7 @@ verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Voici janvier d'un coup plaintif"
 wordcloud = "Voici janvier coup plaintif"
+symbolicDays = [ "6 janvier : Épiphanie" ]
 +++
 
 C'est pas demain qu'on s'ra moins gros,

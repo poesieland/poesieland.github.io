@@ -33,6 +33,31 @@
         "Alpes",
         "Où je nai pas été"
       ]
+    },
+    {
+      "id": "symbolicDayTaxonomy",
+      "options": [
+        "1er janvier : Jour de l'An",
+        "6 janvier : Épiphanie",
+        "2 février : Chandeleur",
+        "14 février : Saint-Valentin",
+        "En février, variable : Carnaval, Mardi gras",
+        "Vers le 21 mars : Équinoxe de printemps",
+        "En avril, variable : Pâques",
+        "1er mai : Fête du Travail",
+        "En mai, variable: Pentecôte",
+        "21 juin : Solstice d'été et fête de la musique",
+        "15 août : Assomption",
+        "Vers le 22 septembre : Équinoxe d'automne",
+        "31 octobre : Halloween / Samain",
+        "1er novembre : Toussaint",
+        "2 novembre : Jour des morts",
+        "11 novembre : Armistice de la Première Guerre mondiale",
+        "6 décembre : Saint-Nicolas",
+        "21 décembre : Solstice d'hiver",
+        "24 et 25 décembre : (Réveillon de) Noël",
+        "31 décembre : Saint-Sylvestre"
+      ]
     }
   ]
 }

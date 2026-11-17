@@ -3,10 +3,11 @@ title = "L'amour heureux"
 id = "l_amour_heureux_24"
 date = 2025-02-14
 weight = 44
-categories = ["Romantisme"]
-tags = ["amour", "2025", "hexasyllabe"]
+categories = [ "Romantisme" ]
+tags = [ "amour", "2025", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "14 février : Saint-Valentin" ]
 +++
 
 Partage au temps qui passe

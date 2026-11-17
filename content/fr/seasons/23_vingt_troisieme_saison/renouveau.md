@@ -3,10 +3,11 @@ title = "Renouveau"
 id = "renouveau_23"
 date = 2024-12-22
 weight = 22
-categories = ["Ciel", "Climat"]
-tags = ["nature", "2024", "hexasyllabe"]
+categories = [ "Ciel", "Climat" ]
+tags = [ "nature", "2024", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "21 décembre : Solstice d'hiver" ]
 +++
 
 En ouvrant mon volet

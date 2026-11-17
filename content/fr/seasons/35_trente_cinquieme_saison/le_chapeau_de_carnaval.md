@@ -20,8 +20,10 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "En février, variable : Carnaval, Mardi gras"
 ---
-Quatres bandes à mon chapeau...
+Quatre bandes à mon chapeau...
 
 Que sont les couleurs de l'enfance ?
 

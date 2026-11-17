@@ -3,10 +3,11 @@ title = "Solstice d'hiver"
 id = "solstice_d_hiver_17"
 date = 2004-12-20
 weight = 8
-categories = ["Hiver", "Crépuscule"]
-tags = ["saisons", "ombres et lumières", "2004", "alexandrin"]
+categories = [ "Hiver", "Crépuscule" ]
+tags = [ "saisons", "ombres et lumières", "2004", "alexandrin" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "21 décembre : Solstice d'hiver" ]
 +++
 
 Sur l'asphalte noir-bleu chine une nuit de laque,

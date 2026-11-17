@@ -20,6 +20,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "1er mai : Fête du Travail"
 ---
 Offre-moi du muguet
 

@@ -18,6 +18,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "21 décembre : Solstice d'hiver"
 ---
 Souris, dès demain
 

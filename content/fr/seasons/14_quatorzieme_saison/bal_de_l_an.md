@@ -3,11 +3,12 @@ title = "Bal de l'an"
 id = "bal_de_l_an_14"
 date = 2000-12-28
 weight = 7
-categories = ["Temps"]
-tags = ["philosophie", "2000", "acrostiche", "octosyllabe"]
+categories = [ "Temps" ]
+tags = [ "philosophie", "2000", "acrostiche", "octosyllabe" ]
 acrostiche = "Bal de l'an"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "31 décembre : Saint-Sylvestre" ]
 +++
 
 Blessant la nuit, ces douze coups

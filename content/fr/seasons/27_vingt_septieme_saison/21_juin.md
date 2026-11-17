@@ -26,6 +26,8 @@ doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 description: Si ce jour se termine
 wordcloud: termine musique solstice lumière tangible
+symbolicDays:
+    - "21 juin : Solstice d'été et fête de la musique"
 ---
 Si ce jour se termine
 

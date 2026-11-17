@@ -31,6 +31,8 @@ wordcloud: |-
     Voici mai mois
     Voici mai tendre
     Voici mai attendre
+symbolicDays:
+    - "1er mai : Fête du Travail"
 ---
 Si le soir embaumait
 

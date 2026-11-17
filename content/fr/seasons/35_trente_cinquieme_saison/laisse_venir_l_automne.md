@@ -24,6 +24,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "Vers le 22 septembre : Équinoxe d'automne"
 ---
 Laisse venir l'automne
 

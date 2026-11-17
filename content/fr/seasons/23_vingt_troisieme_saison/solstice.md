@@ -3,10 +3,11 @@ title = "Solstice"
 id = "solstice_23"
 date = 2024-12-20
 weight = 18
-categories = ["Ciel", "Angoisse"]
-tags = ["nature", "philosophie", "2024", "hexasyllabe", "demain"]
+categories = [ "Ciel", "Angoisse" ]
+tags = [ "nature", "philosophie", "2024", "hexasyllabe", "demain" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "21 décembre : Solstice d'hiver" ]
 +++
 
 Demain plus court sera

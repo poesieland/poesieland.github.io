@@ -3,11 +3,12 @@ title = "Noël est amour"
 id = "noel_est_amour_5"
 date = 1997-12-11
 weight = 21
-categories = ["Foi"]
-tags = ["philosophie", "1997", "acrostiche", "octosyllabe", "noël"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "1997", "acrostiche", "octosyllabe", "noël" ]
 acrostiche = "Noël est amour"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "24 et 25 décembre : (Réveillon de) Noël" ]
 +++
 
 Nativité, l'espoir du monde

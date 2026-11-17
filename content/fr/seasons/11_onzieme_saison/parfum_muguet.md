@@ -3,11 +3,12 @@ title = "Parfum muguet"
 id = "parfum_muguet_11"
 date = 1999-05-01
 weight = 46
-categories = ["Flore"]
-tags = ["nature", "1999", "acrostiche", "hexasyllabe"]
+categories = [ "Flore" ]
+tags = [ "nature", "1999", "acrostiche", "hexasyllabe" ]
 acrostiche = "Parfum muguet"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "1er mai : Fête du Travail" ]
 +++
 
 Parfum berceau de blanc

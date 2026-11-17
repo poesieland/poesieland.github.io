@@ -9,6 +9,7 @@ verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Les avrils et les mais / Beaux comme jeunes pâtres"
 wordcloud = "avrils mais beaux jeunes pâtres"
+symbolicDays = [ "1er mai : Fête du Travail" ]
 +++
 
 Il pleut sur mon muguet,

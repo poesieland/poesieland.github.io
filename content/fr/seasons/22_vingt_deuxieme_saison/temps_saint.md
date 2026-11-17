@@ -3,11 +3,12 @@ title = "Temps saint"
 id = "temps_saint_22"
 date = 2024-11-01
 weight = 36
-categories = ["Foi"]
-tags = ["philosophie", "2024", "acrostiche", "alexandrin"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "2024", "acrostiche", "alexandrin" ]
 acrostiche = "Temps saint"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "1er novembre : Toussaint" ]
 +++
 
 Trouvés plus bons que nous le commun des mortels,

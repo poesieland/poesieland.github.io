@@ -3,10 +3,11 @@ title = "Langueur d'automne"
 id = "langueur_d_automne_22"
 date = 2024-09-06
 weight = 2
-categories = ["Automne"]
-tags = ["saisons", "2024", "octosyllabe"]
+categories = [ "Automne" ]
+tags = [ "saisons", "2024", "octosyllabe" ]
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "Vers le 22 septembre : Équinoxe d'automne" ]
 +++
 
 Il se rapproche, l'équinoxe,

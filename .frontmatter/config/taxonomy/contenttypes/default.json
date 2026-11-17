@@ -629,6 +629,16 @@
       "name": "divider",
       "type": "divider"
     },
+        {
+      "title": "Symbolic days",
+      "name": "symbolicDays",
+      "type": "taxonomy",
+      "taxonomyId": "symbolicDayTaxonomy"
+    },
+    {
+      "name": "divider",
+      "type": "divider"
+    },
     {
       "title": "Information",
       "name": "info",

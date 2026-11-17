@@ -3,11 +3,12 @@ title = "Ami qui passe"
 id = "ami_qui_passe_26"
 date = 2025-04-20
 weight = 5
-categories = ["Amitié"]
-tags = ["amour", "2025", "acrostiche", "alexandrin"]
+categories = [ "Amitié" ]
+tags = [ "amour", "2025", "acrostiche", "alexandrin" ]
 acrostiche = "Agnus dei"
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "En avril, variable : Pâques" ]
 +++
 
 Ami qui passe là, sur mon chemin, partage,

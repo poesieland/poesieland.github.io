@@ -234,3 +234,4 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
         category = 'categories'
         tag = 'tags'
         location = 'locations'
+        symbolicDay = 'symbolicDays'

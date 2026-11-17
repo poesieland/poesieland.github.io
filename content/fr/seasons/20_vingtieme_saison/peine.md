@@ -3,10 +3,11 @@ title = "Peine"
 id = "peine_20"
 date = 2024-06-20
 weight = 43
-categories = ["Eté"]
-tags = ["saisons", "2024", "tétrasyllabe"]
+categories = [ "Eté" ]
+tags = [ "saisons", "2024", "tétrasyllabe" ]
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "21 juin : Solstice d'été et fête de la musique" ]
 +++
 
 Un ciel laiteux

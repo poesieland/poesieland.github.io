@@ -3,10 +3,11 @@ title = "Equinoxe de printemps"
 id = "equinoxe_de_printemps_25"
 date = 2025-03-15
 weight = 22
-categories = ["Temps"]
-tags = ["philosophie", "2025", "ennéasyllabe"]
+categories = [ "Temps" ]
+tags = [ "philosophie", "2025", "ennéasyllabe" ]
 verseLength = 9
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "Vers le 21 mars : Équinoxe de printemps" ]
 +++
 
 Voici proche, un jalon, l'équinoxe,

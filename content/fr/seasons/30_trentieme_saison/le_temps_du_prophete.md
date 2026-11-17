@@ -19,6 +19,9 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "6 janvier : Épiphanie"
+    - "24 et 25 décembre : (Réveillon de) Noël"
 ---
 En ce temps de crise
 

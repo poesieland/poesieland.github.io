@@ -21,6 +21,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "En mai, variable: Pentecôte"
 ---
 Coupe et je repousse,
 
