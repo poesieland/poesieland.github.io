@@ -2,12 +2,16 @@
 title = "Derniers poèmes ajoutés"
 +++
 
-[Samain, écrit le 31.10.2026](../seasons/36_trente_sixieme_saison/samain)
+[Les mots libèrent, écrit le 07.11.2026](../seasons/36_trente_sixieme_saison/les_mots_liberent)
 
-[Automne musicien, écrit le 31.10.2026](../seasons/36_trente_sixieme_saison/automne_musicien)
+[Le soir d'un coup, écrit le 06.11.2026](../seasons/36_trente_sixieme_saison/le_soir_d_un_coup)
 
-[Chanson d'automne II, écrit le 30.10.2026](../seasons/36_trente_sixieme_saison/chanson_d_automne_II)
+[L'air d'automne, écrit le 05.11.2026](../seasons/36_trente_sixieme_saison/l_air_d_automne)
 
-[Après le travail, écrit le 29.10.2026](../seasons/36_trente_sixieme_saison/apres_le_travail)
+[De passage, écrit le 04.11.2026](../seasons/36_trente_sixieme_saison/de_passage)
 
-[Petit Poucet des mots, écrit le 27.10.2026](../seasons/36_trente_sixieme_saison/petit_poucet_des_mots)
+[Allégorie II, écrit le 02.11.2026](../seasons/36_trente_sixieme_saison/allegorie)
+
+[Ritournelle, écrit le 01.11.2026](../seasons/36_trente_sixieme_saison/ritournelle)
+
+[Le vieux chat IV, écrit le 01.11.2026](../seasons/36_trente_sixieme_saison/le_vieux_chat_iv)

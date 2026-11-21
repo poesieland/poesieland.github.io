@@ -368,5 +368,5 @@ import { addRadarChart } from '../add-chart.js'
     { label: '', value: 0 },
     { label: '', value: 0 },
   ];
-  addRadarChart('poemDay-espoirRadar', ['Mois les plus représentés : décembre, janvier, mai, juillet'], [data], { backgroundColor: 'rgba(196, 154, 223, 0.5)', borderColor: 'rgba(196, 154, 223, 1)', pointBackgroundColor: 'rgba(196, 154, 223, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
+  addRadarChart('poemDay-espoirRadar', ['Mois les plus représentés : décembre, janvier, mai, juillet'], [data], { backgroundColor: 'rgba(203, 163, 232, 0.5)', borderColor: 'rgba(203, 163, 232, 1)', pointBackgroundColor: 'rgba(203, 163, 232, 1)', pointBorderColor: '#fff', pointHoverBackgroundColor: '#fff', pointHoverBorderColor: 'rgb(54, 162, 235)', elements: { line: { borderWidth: 1  } }, scales: { r: { ticks: { stepSize: 1 } } } });
 })();

@@ -1,7 +1,7 @@
 ---
 weight: 35
 title: Chanson d'automne II
-id: chanson_d_automne_II_36
+id: chanson_d_automne_ii_36
 date: 2026-10-30
 verseLength: 8
 divider: ""

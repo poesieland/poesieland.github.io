@@ -94,3 +94,5 @@ description = "Une seule reprise pour le moment"
 **A la trente-sixième saison**
 - ["Ne demande jamais pour qui sonne le glas"](../../seasons/36_trente_sixieme_saison/douleur)  
 *Depuis la treizième saison*
+- ["Il est si tard à ton horloge"](../../seasons/36_trente_sixieme_saison/allegorie)  
+*Depuis la trente-troisième saison*

@@ -1,7 +1,7 @@
 ---
 weight: 43
 title: Bijou III
-id: bijou_III_35
+id: bijou_iii_35
 date: 2026-09-16
 verseLength: 5
 divider: ""

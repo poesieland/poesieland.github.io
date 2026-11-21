@@ -1,9 +1,9 @@
 import { addBarChart } from '../add-chart.js'
 (async function () {
   const data = [
-    { label: 'Moins d\'un jour', value: 421, color: 'rgba(72, 149, 239, 1)' },
-    { label: 'Un jour', value: 688, color: 'rgba(72, 149, 239, 0.9)' },
-    { label: '2j', value: 245, color: 'rgba(72, 149, 239, 0.7)' },
+    { label: 'Moins d\'un jour', value: 422, color: 'rgba(72, 149, 239, 1)' },
+    { label: 'Un jour', value: 693, color: 'rgba(72, 149, 239, 0.9)' },
+    { label: '2j', value: 246, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '3j', value: 136, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '4j', value: 88, color: 'rgba(72, 149, 239, 0.7)' },
     { label: '5j', value: 58, color: 'rgba(72, 149, 239, 0.7)' },

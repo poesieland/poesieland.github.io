@@ -3,8 +3,8 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: 'Romantisme', value: 1, color: 'rgba(232, 93, 125, 1)' },
     { label: 'Passion', value: 4, color: 'rgba(199, 44, 72, 1)' },
-    { label: 'Espoir', value: 1, color: 'rgba(196, 154, 223, 1)' },
-    { label: 'Apprentissage', value: 1, color: 'rgba(98, 58, 155, 1)' },
+    { label: 'Espoir', value: 1, color: 'rgba(203, 163, 232, 1)' },
+    { label: 'Apprentissage', value: 1, color: 'rgba(113, 59, 145, 1)' },
     { label: 'Au contact', value: 1, color: 'rgba(232, 132, 77, 1)' },
     { label: 'Sommeil', value: 2, color: 'rgba(213, 104, 49, 1)' },
   ];

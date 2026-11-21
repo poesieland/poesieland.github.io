@@ -7,7 +7,7 @@ title = "Associations privilégiées"
 - [Condition humaine](/categories/etre)
 - [Climat](/categories/climat)
 - [Flore](/categories/flore)
+- [Automne](/categories/automne)
 - [Création](/categories/création)
 - [Révolte](/categories/révolte)
-- [Automne](/categories/automne)
 - [Apprentissage](/categories/apprentissage)
