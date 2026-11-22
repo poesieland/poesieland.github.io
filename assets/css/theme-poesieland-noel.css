@@ -1,9 +1,7 @@
-/* Poésieland • Noël & Fêtes — Variante native Hugo Relearn
-   Version 2, réalisation SVG fidèle à la maquette approuvée.
+/* Poésieland • Noël — Variante native Hugo Relearn
    Fichier : assets/css/theme-poesieland-noel.css
    Hérite de la variante claire personnalisée existante de Poésieland.
-   Le CSS n'est chargé par Relearn que lorsque "poesieland-noel" est choisi.
-   Aucun script ou modification de custom.css/custom.js/logo.svg requis. */
+   Le CSS n'est chargé par Relearn que lorsque "poesieland-noel" est choisi. */
 @import 'theme-relearn-custom-light.css';
 
 :root {
