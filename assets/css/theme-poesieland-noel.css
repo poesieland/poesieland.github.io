@@ -86,6 +86,7 @@ div.flex-block-wrapper {
   /* Les quatre couches de décor sont de vrais SVG transparents.
      Le cadre central opaque garde le texte parfaitement lisible. */
   #R-body {
+    position: relative;
     background-color: #fff8f2;
     background-image:
       url('/poesieland-noel/img/neige-poudree.svg'),
@@ -97,18 +98,34 @@ div.flex-block-wrapper {
     background-position: center top, right bottom, center bottom, center;
     background-attachment: fixed, fixed, fixed, fixed;
   }
-  /* Guirlande avec vraies ampoules lumineuses vectorielles. */
+  /* Guirlande à 19 ampoules, raccord parfait et marge haute contre la coupure. */
   #R-body::before {
     content: '';
-    position: fixed;
+    position: absolute;
     z-index: 12;
     top: 0;
-    left: var(--MENU-M-width, 20rem);
+    left: 0;
     right: 0;
-    height: 83px;
+    height: 112px;
     pointer-events: none;
-    background: url('/poesieland-noel/img/guirlande-lumineuse.svg') left top / 1460px 85px repeat-x;
+    background-image: url('/poesieland-noel/img/guirlande-lumineuse.svg');
+    background-position: left top;
+    background-repeat: repeat-x;
+    background-size: 1463px 112px;
   }
+  /* Lueur douce du plafond, indépendante de la guirlande. */
+  #R-body::after {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 128px;
+    pointer-events: none;
+    background: linear-gradient(180deg, rgba(255,214,136,.24), rgba(255,226,173,.09) 42%, transparent 84%);
+  }
+
   /* Décor lumineux dans l'espace vide sous la navigation du menu. Masqué
      si l'écran est trop petit afin de ne jamais gêner les contrôles. */
   #R-sidebar {
@@ -128,13 +145,6 @@ div.flex-block-wrapper {
   /* Garder les menus et le footer au-dessus d'une éventuelle décoration. */
   /* Laisser Relearn gérer les positions de ses menus et de son pied de page. */
 
-  /* Ne pas dessiner un second cadre : reprendre le papier de Barbara. */
-  #R-body-inner div.flex-block-wrapper {
-    position: relative;
-    background-color: #faf6e9;
-    border-color: #dfcfb4;
-    box-shadow: 0 17px 38px rgba(103,74,54,.085);
-  }
   #R-body-inner div.flex-block-wrapper::before {
     content: '';
     position: absolute;
