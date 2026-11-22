@@ -109,19 +109,6 @@ div.flex-block-wrapper {
     pointer-events: none;
     background: url('/poesieland-noel/img/guirlande-lumineuse.svg') left top / 1460px 85px repeat-x;
   }
-  /* Lueur douce du plafond, indépendante de la guirlande. */
-  #R-body::after {
-    content: '';
-    position: fixed;
-    z-index: 1;
-    top: 0;
-    left: var(--MENU-M-width, 20rem);
-    right: 0;
-    height: 120px;
-    pointer-events: none;
-    background: linear-gradient(180deg, rgba(248,199,132,.18), transparent 80%);
-  }
-
   /* Décor lumineux dans l'espace vide sous la navigation du menu. Masqué
      si l'écran est trop petit afin de ne jamais gêner les contrôles. */
   #R-sidebar {
