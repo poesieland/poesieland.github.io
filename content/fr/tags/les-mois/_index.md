@@ -1,13 +1,11 @@
 +++
 title = "Les mois"
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      display="tree"
-      columns = 2
-      groupby = "date | format 'January'"
-      breadcrumb = true
-      description = true
+[params.pages]
+  display="tree"
+  columns = 2
+  groupby = "date | format 'January'"
+  breadcrumb = true
+  description = true
 +++
 Douze mois... Chacun associé à des sentiments particuliers.
 

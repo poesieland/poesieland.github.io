@@ -1,12 +1,10 @@
 +++
 title = "Le ciel est..."
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      display="tree"
-      columns = 2
-      breadcrumb = true
-      description = true
+[params.pages]
+  display="tree"
+  columns = 2
+  breadcrumb = true
+  description = true
 +++
 
 Quand le premier vers le met en valeur...

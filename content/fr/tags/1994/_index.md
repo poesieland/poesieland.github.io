@@ -1,9 +1,7 @@
 +++
 title = "1994"
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      breadcrumb = false
+[params.pages]
+  breadcrumb = false
 +++
 
 L'année de mes 15 ans. Marquée par la [révolte](../../categories/révolte/) adolescente.

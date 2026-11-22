@@ -1,9 +1,7 @@
 +++
 title = "2001"
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      breadcrumb = false
+[params.pages]
+  breadcrumb = false
 +++
 
 L'année de mes 22 ans.

@@ -1,13 +1,11 @@
 +++
 title = "Est-ce un automne..."
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      breadcrumb = true
-      description = true
-      display="tree"
-      columns = 2
-      orderby = "date asc"
+[params.pages]
+  breadcrumb = true
+  description = true
+  display="tree"
+  columns = 2
+  orderby = "date asc"
 +++
 
 _Est-ce un automne, (est-ce un printemps)_

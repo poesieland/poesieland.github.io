@@ -1,12 +1,10 @@
 +++
 title = "Avril"
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      display="tree"
-      columns = 2
-      breadcrumb = true
-      description = true
+[params.pages]
+  display="tree"
+  columns = 2
+  breadcrumb = true
+  description = true
 +++
 {{< figure src="../../other-perspectives/les-mois/avril/featured.webp" >}}
 

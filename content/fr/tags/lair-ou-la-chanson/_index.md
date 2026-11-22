@@ -1,13 +1,11 @@
 +++
 title = "L'air ou la chanson"
-[[cascade]]
-  [cascade.params]
-    [cascade.params.pages]
-      breadcrumb = true
-      description = true
-      display="tree"
-      columns = 2
-      orderby = "date asc"
+[params.pages]
+  breadcrumb = true
+  description = true
+  display="tree"
+  columns = 2
+  orderby = "date asc"
 +++
 
 Liste alphabétique par nom propre, de tous les artistes qui m'ont inspirée par leurs oeuvres.
