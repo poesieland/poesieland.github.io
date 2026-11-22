@@ -1,150 +1,189 @@
-/* Poésieland - variante de couleur native « Noël & Fêtes » pour Hugo Relearn
- * A déposer dans assets/css/theme-poesieland-noel.css
- * Chargée EXCLUSIVEMENT quand la variante `poesieland-noel` est sélectionnée.
- * N'écrase ni le thème d'origine, ni custom.css, ni logo.svg.
- * Sans JavaScript saisonnier. Les décorations sont statiques.
- * Hérite volontairement du cadre papier ivoire et des arrondis de Barbara.
- * Important : Relearn attend les variables sur :root (pas sur html).
- */
+/* Poésieland • Noël & Fêtes — Variante native Hugo Relearn
+   Version 2, réalisation SVG fidèle à la maquette approuvée.
+   Fichier : assets/css/theme-poesieland-noel.css
+   Hérite de la variante claire personnalisée existante de Poésieland.
+   Le CSS n'est chargé par Relearn que lorsque "poesieland-noel" est choisi.
+   Aucun script ou modification de custom.css/custom.js/logo.svg requis. */
 @import 'theme-relearn-custom-light.css';
 
 :root {
-  /* Palette native de Relearn */
-  --PRIMARY-color: #416f2a;             /* badges et couleur de marque */
+  /* Variables officielles Relearn : navigation, étiquettes, textes. */
+  --PRIMARY-color: #416f2a;
   --PRIMARY-HOVER-color: #315923;
-  --SECONDARY-color: #8b3040;           /* liens textuels : bordeaux */
+  --SECONDARY-color: #8b3040;
   --SECONDARY-HOVER-color: #346548;
-  --ACCENT-color: #c9a65b;              /* or doux */
+  --ACCENT-color: #c9a65b;
   --ACCENT-HOVER-color: #b28d3b;
 
-  --MENU-HEADER-BG-color: #235039;      /* bandeau logo vert sapin */
-  --MENU-HEADER-color: #f2d69a;
-  --MENU-HEADER-BORDER-color: #1d422f;
-  --MENU-SECTIONS-BG-color: #252628;
-  --MENU-SECTIONS-LINK-color: #bbbbbb;
-  --MENU-SECTIONS-LINK-HOVER-color: #fff0d2;
-  --MENU-SECTIONS-ACTIVE-BG-color: #30352e;
-  --MENU-HOME-LINK-color: #d3d0c8;
-  --MENU-HOME-LINK-HOVER-color: #f3d59d;
-  --MENU-SEARCH-BG-color: #313536;
+  --MENU-HEADER-BG-color: #1d4935;
+  --MENU-HEADER-BORDER-color: #143627;
+  --MENU-HEADER-color: #f3d59a;
+  --MENU-SECTIONS-BG-color: #252729;
+  --MENU-SECTIONS-LINK-color: #c1c2bf;
+  --MENU-SECTIONS-LINK-HOVER-color: #fff0d7;
+  --MENU-SECTIONS-ACTIVE-BG-color: #343b33;
+  --MENU-HOME-LINK-color: #d8d6cd;
+  --MENU-HOME-LINK-HOVER-color: #f4dfa7;
+  --MENU-SEARCH-BG-color: #303637;
   --MENU-SEARCH-color: #f3ebdb;
+  --MENU-SEARCH-BORDER-color: #b8bbad;
 
-  --LOGO-LINK-color: #f3d69d;
-  --LOGO-LINK-HOVER-color: #fff0ce;
-  --LOGO-IMAGE-color: #d6b465;          /* plume SVG inline colorable */
+  --LOGO-LINK-color: #e8c77d;
+  --LOGO-LINK-HOVER-color: #f9e4b1;
+  --LOGO-IMAGE-color: #d6b465;
   --LOGO-IMAGE-HOVER-color: #f0d18b;
 
   --MAIN-BG-color: #fffaf5;
-  --MAIN-TEXT-color: #36342f;
+  --MAIN-TEXT-color: #35322f;
   --MAIN-LINK-color: #8b3040;
   --MAIN-LINK-HOVER-color: #346548;
   --MAIN-TITLES-TEXT-color: #24201c;
   --TAG-BG-color: #416f2a;
   --TOPBAR-LINK-color: #8b3040;
   --TOPBAR-LINK-HOVER-color: #346548;
-
-  --BOX-NOTE-color: #9f3441;
-  --BOX-NOTE-TEXT-color: #ffffff;
 }
 
-/* Habillage décoratif : les sélecteurs n'affectent que la variante activée.
-   Aucune décoration ne couvre les mots ou les contrôles. */
+div.flex-block-wrapper {
+    background-color: var(--MAIN-BG-color);
+}
+
 @media screen {
-  :root:not([data-r-output-format='print']) #R-header-wrapper {
+  /* Bandeau et plume originelle, recolorée sans écraser le fichier logo.svg. */
+  #R-header-wrapper {
     position: relative;
-    background: linear-gradient(115deg, #1a422f, #295a41);
+    background: radial-gradient(ellipse at 81% 10%, rgba(255,245,199,.07), transparent 60%),
+                linear-gradient(110deg, #123b2a, #28563d 70%, #1b4330);
+    border-bottom: 1px solid rgba(243,213,154,.18);
   }
-  :root:not([data-r-output-format='print']) #R-header-wrapper::before {
+  #R-header-wrapper::before {
     content: '';
     position: absolute;
-    z-index: 3;
-    pointer-events: none;
     top: -12px;
-    left: -12px;
-    width: 112px;
-    height: 92px;
-    background: url('/poesieland-noel/img/branche-logo.svg') left top / contain no-repeat;
+    left: -11px;
+    z-index: 3;
+    width: 102px;
+    height: 90px;
+    pointer-events: none;
+    background: url('/poesieland-noel/img/branche-logo-noel.svg') top left / contain no-repeat;
   }
-  /* Le logo SVG original n'est jamais changé sur disque.
-     Complément visuel utile si sa géométrie a des fill explicites. */
-  :root:not([data-r-output-format='print']) #R-logo svg {
-    filter: brightness(0) saturate(100%) invert(83%) sepia(25%) saturate(701%) hue-rotate(351deg) brightness(93%) contrast(86%);
+  /* SVG Relearn déjà affiché par « ?inlinecontent » dans hugo.toml. */
+  #R-logo svg,
+  #R-logo img[src*="logo.svg"] {
+    filter: brightness(0) saturate(100%) invert(79%) sepia(26%) saturate(754%) hue-rotate(351deg) brightness(94%) contrast(86%);
   }
-  :root:not([data-r-output-format='print']) #R-body {
+  /* Des fragments de lumière hors du texte, dans le bandeau uniquement. */
+  #R-header-wrapper::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    right: 0;
+    height: 13px;
+    pointer-events: none;
+    background: linear-gradient(90deg, transparent, rgba(249,205,122,.12), transparent);
+  }
+
+  /* Les quatre couches de décor sont de vrais SVG transparents.
+     Le cadre central opaque garde le texte parfaitement lisible. */
+  #R-body {
+    background-color: #fff8f2;
     background-image:
-      url('/poesieland-noel/img/flocon.svg'),
-      url('/poesieland-noel/img/flocon.svg'),
-      url('/poesieland-noel/img/flocon.svg'),
-      radial-gradient(ellipse at 48% 25%, #fffefd, #fff9f2);
-    background-position: 7% 24%, 94% 39%, 13% 76%, center;
-    background-size: 46px 46px, 35px 35px, 26px 26px, cover;
-    background-repeat: no-repeat;
-    background-attachment: local;
+      url('/poesieland-noel/img/neige-poudree.svg'),
+      url('/poesieland-noel/img/sapins-enneiges.svg'),
+      url('/poesieland-noel/img/congeres-douces.svg'),
+      radial-gradient(ellipse 64% 72% at 53% 44%, #fffdfa 3%, #fbf1e9 74%, #f9eee6 100%);
+    background-repeat: no-repeat, no-repeat, no-repeat, no-repeat;
+    background-size: cover, min(29vw, 420px) auto, 100% clamp(120px, 22vh, 240px), cover;
+    background-position: center top, right bottom, center bottom, center;
+    background-attachment: fixed, fixed, fixed, fixed;
   }
-  :root:not([data-r-output-format='print']) #R-body::before {
-  content: '';
-  position: fixed;
-  z-index: 2;
-  pointer-events: none;
-  left: 0;
-  right: 0;
-  top: 45px;
-  height: 45px;
-  background: url('/poesieland-noel/img/guirlande.svg') 0 0 / 1100px auto repeat-x;
+  /* Guirlande avec vraies ampoules lumineuses vectorielles. */
+  #R-body::before {
+    content: '';
+    position: fixed;
+    z-index: 12;
+    top: 0;
+    left: var(--MENU-M-width, 20rem);
+    right: 0;
+    height: 83px;
+    pointer-events: none;
+    background: url('/poesieland-noel/img/guirlande-lumineuse.svg') left top / 1460px 85px repeat-x;
   }
-  :root:not([data-r-output-format='print']) #R-body::after {
+  /* Lueur douce du plafond, indépendante de la guirlande. */
+  #R-body::after {
     content: '';
     position: fixed;
     z-index: 1;
-    pointer-events: none;
-    bottom: 0;
+    top: 0;
+    left: var(--MENU-M-width, 20rem);
     right: 0;
-    width: min(26vw, 295px);
-    height: 160px;
-    opacity: .62;
-    background: url('/poesieland-noel/img/neige-sapins.svg') right bottom / contain no-repeat;
+    height: 120px;
+    pointer-events: none;
+    background: linear-gradient(180deg, rgba(248,199,132,.18), transparent 80%);
   }
-  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before {
+
+  /* Décor lumineux dans l'espace vide sous la navigation du menu. Masqué
+     si l'écran est trop petit afin de ne jamais gêner les contrôles. */
+  #R-sidebar {
+    isolation: isolate;
+  }
+  #R-sidebar::after {
     content: '';
     position: absolute;
-    z-index: 1;
+    z-index: 0;
+    left: 4px;
+    right: 4px;
+    bottom: 165px;
+    height: 172px;
     pointer-events: none;
-    top: -28px;
-    right: -22px;
-    width: 175px;
-    height: 132px;
-    background: url('/poesieland-noel/img/branche-angle.svg') top right / contain no-repeat;
+    background: url('/poesieland-noel/img/lanterne-chaleureuse.svg') center bottom / min(100%, 235px) auto no-repeat;
+  }
+  /* Garder les menus et le footer au-dessus d'une éventuelle décoration. */
+  /* Laisser Relearn gérer les positions de ses menus et de son pied de page. */
+
+  /* Ne pas dessiner un second cadre : reprendre le papier de Barbara. */
+  #R-body-inner div.flex-block-wrapper {
+    position: relative;
+    background-color: #faf6e9;
+    border-color: #dfcfb4;
+    box-shadow: 0 17px 38px rgba(103,74,54,.085);
+  }
+  #R-body-inner div.flex-block-wrapper::before {
+    content: '';
+    position: absolute;
+    z-index: 4;
+    pointer-events: none;
+    width: clamp(155px, 15vw, 240px);
+    aspect-ratio: 305/203;
+    top: -33px;
+    right: -34px;
+    background: url('/poesieland-noel/img/branche-noel-etoile.svg') right top / contain no-repeat;
   }
 }
 
-@media screen and (max-width: 1100px) {
-  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before {
-    width: 120px;
-    height: 95px;
-    right: -9px;
-    top: -14px;
-  }
-  :root:not([data-r-output-format='print']) #R-body::after { opacity: .28; }
+@media screen and (max-height: 810px) {
+  #R-sidebar::after { display: none; }
+}
+@media screen and (max-width: 1150px) {
+  #R-body { background-size: cover, 265px auto, 100% 170px, cover; }
+  #R-body-inner div.flex-block-wrapper::before { right: -12px; top: -16px; width: 155px; }
 }
 @media screen and (max-width: 760px) {
-  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before,
-  :root:not([data-r-output-format='print']) #R-body::after { display: none; }
-  :root:not([data-r-output-format='print']) #R-body::before {
-    height: 38px;
-    background-size: 770px auto;
+  #R-header-wrapper::before { width: 70px; height: 65px; top: -9px; left: -7px; }
+  #R-sidebar::after { display: none; }
+  #R-body {
+    background-size: cover, 190px auto, 100% 140px, cover;
+    background-attachment: scroll, scroll, scroll, scroll;
   }
-  :root:not([data-r-output-format='print']) #R-body {
-    background-image: radial-gradient(ellipse at center, #fffefd, #fff9f2);
-  }
-  :root:not([data-r-output-format='print']) #R-header-wrapper::before {
-    width: 70px; height: 55px; top: -8px; left: -8px;
-  }
+  /* Sur téléphone, les lumières ne passent pas devant le logo ni la recherche. */
+  #R-body::before { display: none; }
+  #R-body::after { display: none; }
+  #R-body-inner div.flex-block-wrapper::before { width: 100px; top: -15px; right: -7px; opacity: .7; }
 }
 @media print {
-  /* En impression, Relearn utilise sa variante print. Pas de décor. */
-  #R-header-wrapper::before,
-  #R-body::before,
-  #R-body::after,
-  #R-body-inner div.flex-block-wrapper::before { content: none !important; }
+  #R-header-wrapper::before, #R-header-wrapper::after,
+  #R-sidebar::after, #R-body::before, #R-body::after,
+  #R-body-inner div.flex-block-wrapper::before { display: none !important; content: none !important; }
+  #R-body { background: #fff !important; }
+  #R-body-inner div.flex-block-wrapper { box-shadow: none !important; }
 }
-
