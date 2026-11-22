@@ -1,6 +1,3 @@
-+++
-title = "Romantisme"
-+++
 
 Plus partagé que l'[amour platonique](../amour-platonique) et moins violent que la [passion](../passion), le romantisme.
 

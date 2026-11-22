@@ -1,7 +1,3 @@
-+++
-title = "Dissyllabe"
-+++
-
 Long de deux syllabes, le [dissyllabe](https://fr.wikipedia.org/wiki/Dissyllabe) représente un exercice de style un peu moins ardu que le [monosyllabe](../monosyllabe).
 
 Je l'ai enfin étrenné en février [1997](../1997) dans [Bohème](../../seasons/3_troisieme_saison/boheme).

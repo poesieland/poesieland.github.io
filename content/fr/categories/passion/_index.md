@@ -1,6 +1,3 @@
-+++
-title = "Passion"
-+++
 
 Plus forte que le [romantisme](../romantisme), la passion. Aussi bien exaltation charnelle que souffrance causée par l'amour.
 

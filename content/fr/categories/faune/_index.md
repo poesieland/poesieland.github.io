@@ -1,6 +1,3 @@
-+++
-title = "Faune"
-+++
 
 Un joyeux bestiaire de créatures fascinantes, surtout des [chats](/search?search-by=chat). Cependant, ils ont fini par posséder leur propre catégorie : [Félinement vôtre](../félinement-vôtre). 😸
 

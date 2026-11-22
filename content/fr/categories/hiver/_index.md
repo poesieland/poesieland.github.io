@@ -1,6 +1,3 @@
-+++
-title = "Hiver"
-+++
 
 La saison qui m'inspire de fin octobre à début mars.
 

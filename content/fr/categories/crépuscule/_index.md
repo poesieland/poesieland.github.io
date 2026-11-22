@@ -1,6 +1,3 @@
-+++
-title = "Crépuscule"
-+++
 Ce moment magique où le jour se change en nuit.
 
 Contrairement à l'[aube](../aube/), les occasions photographiques sont nombreuses.

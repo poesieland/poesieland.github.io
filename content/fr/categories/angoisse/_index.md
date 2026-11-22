@@ -1,5 +1,4 @@
 +++
-title = "Angoisse"
 +++
 
 {{< chartjs id="poemDay-angoisseRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-angoisse-radar.js" />}}

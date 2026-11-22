@@ -1,6 +1,6 @@
 +++
-title = "Mer"
 +++
+
 {{< figure src="/images/mer.jpg" caption="Juillet 2025" >}}
 
 {{< chartjs id="poemDay-merRadar" width="90%" jsFile="../../charts/taxonomy/poems-day-mer-radar.js" />}}

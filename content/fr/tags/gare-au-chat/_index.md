@@ -1,5 +1,4 @@
 +++
-title = "Gare au chat"
 [params.pages]
   breadcrumb = true
   description = true

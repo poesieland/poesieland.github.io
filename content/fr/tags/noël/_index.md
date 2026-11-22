@@ -1,5 +1,4 @@
 +++
-title = "Noël"
 date = 2024-11-17
 +++
 ### 🎄🎀 Plongée vers Noël 🎀🎄

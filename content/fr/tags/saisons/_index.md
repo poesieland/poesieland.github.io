@@ -1,7 +1,3 @@
-+++
-title = "Saisons"
-+++
-
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Printemps](../../categories/printemps)

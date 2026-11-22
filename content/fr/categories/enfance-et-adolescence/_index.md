@@ -1,6 +1,3 @@
-+++
-title = "Enfance et adolescence"
-+++
 Les miennes, et celles des autres.
 
 Les miennes, pour raconter tant que le souvenir subsiste encore.

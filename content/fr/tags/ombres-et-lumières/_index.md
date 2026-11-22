@@ -1,7 +1,3 @@
-+++
-title = "Ombres et lumières"
-+++
-
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Aube](../../categories/aube)

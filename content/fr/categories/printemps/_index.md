@@ -1,6 +1,3 @@
-+++
-title = "Printemps"
-+++
 
 La saison de ma naissance.
 

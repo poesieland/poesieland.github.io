@@ -1,6 +1,3 @@
-+++
-title = "Métrique variable"
-+++
 ## Respirer
 Faire varier la métrique permet de renforcer une caractéristique du poème, qu'il soit affirmatif, mélancolique...
 

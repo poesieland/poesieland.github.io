@@ -1,6 +1,3 @@
-+++
-title = "Au contact"
-+++
 Le toucher et le goût, nos sens de contact, rarement évoqués seul.
 Les autre sens sont des sens à distance... souvent joyeusement mélangés, vue, ouïe et odorat.
 

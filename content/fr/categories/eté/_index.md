@@ -1,6 +1,3 @@
-+++
-title = "Eté"
-+++
 
 La saison qui m'inspire surtout de mai à septembre.
 

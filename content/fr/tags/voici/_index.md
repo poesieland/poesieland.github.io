@@ -1,5 +1,4 @@
 +++
-title = "Voici"
 [params.pages]
   display="tree"
   columns = 2

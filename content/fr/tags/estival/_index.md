@@ -1,6 +1,3 @@
-+++
-title = "Estival"
-+++
 _Estival_
 
 La musicalité d'un trisyllabe...

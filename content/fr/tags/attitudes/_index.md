@@ -1,7 +1,3 @@
-+++
-title = "Attitudes"
-+++
-
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Au contact](../../categories/au_contact)

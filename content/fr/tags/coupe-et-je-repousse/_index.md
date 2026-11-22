@@ -1,5 +1,4 @@
 +++
-title = "Coupe et je repousse"
 description = "Depuis la vingtième saison"
 +++
 

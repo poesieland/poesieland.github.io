@@ -1,5 +1,4 @@
 +++
-title = "Quand un avion trace"
 description = "Depuis la quatrième saison"
 +++
 _Quand un avion trace_

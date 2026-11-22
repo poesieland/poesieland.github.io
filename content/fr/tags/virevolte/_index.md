@@ -1,5 +1,4 @@
 +++
-title = "Virevolte"
 description = "Depuis la vingt-huitième saison"
 +++
 _Virevolte..._

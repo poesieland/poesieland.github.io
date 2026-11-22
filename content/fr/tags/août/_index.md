@@ -1,5 +1,4 @@
 +++
-title = "Août"
 [params.pages]
   display="tree"
   columns = 2

@@ -1,5 +1,4 @@
 +++
-title = "Les mots"
 [params.pages]
   display="tree"
   columns = 2

@@ -1,7 +1,3 @@
-+++
-title = "La mort"
-+++
-
 ### Introduction
 Depuis un moment, je me demandais quelles catégories pouvaient être ajoutées. Plusieurs idées, dont celle-ci : la mort. Mais quelque chose de tabou m'empêche de le faire. Ce sera donc un tag permettant de se promener au milieu de poèmes "respectables".
 

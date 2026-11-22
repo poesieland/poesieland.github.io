@@ -1,6 +1,3 @@
-+++
-title = "Ciel"
-+++
 
 ## Espace fascinant...
 

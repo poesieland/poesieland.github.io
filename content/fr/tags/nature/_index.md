@@ -1,7 +1,3 @@
-+++
-title = "Nature"
-+++
-
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Neige](../../categories/neige)

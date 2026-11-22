@@ -1,7 +1,3 @@
-+++
-title = "Philosophie"
-+++
-
 Ce mot-clé regroupe les catégories suivantes :
 
 - [Enfance et adolescence](../../categories/enfance-et-adolescence)

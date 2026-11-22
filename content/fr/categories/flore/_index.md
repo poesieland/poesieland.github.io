@@ -1,5 +1,4 @@
 +++
-title = "Flore"
 +++
 
 {{< figure src="/images/flore/20240225_cerisiers.jpg" caption="Presque le printemps, février 2024" >}}

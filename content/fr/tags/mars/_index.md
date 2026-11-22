@@ -1,5 +1,4 @@
 +++
-title = "Mars"
 [params.pages]
   display="tree"
   columns = 2

@@ -1,7 +1,3 @@
-+++
-title = "Pantoun"
-+++
-
 les [règles du pantoun](https://fr.wikipedia.org/wiki/Pantoum) sont complexes et tellement de poètes ont pris des libertés avec elles.
 
 La contrainte la plus restrictive c'est d'avoir deux idées à exprimer, une plutôt descriptive/extravertie, l'autre plutôt sentimentale/introvertie, et d'avoir assez de souffle pour remplir six quatrains. Cela rend l'écriture du pantoun très ludique.

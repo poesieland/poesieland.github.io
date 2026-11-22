@@ -1,5 +1,4 @@
 +++
-title = "Citation"
 [params.pages]
   breadcrumb = true
   description = true

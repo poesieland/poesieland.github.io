@@ -1,6 +1,3 @@
-+++
-title = "Condition humaine"
-+++
 Quand l'existence et la conscience (en général les miennes) sont au centre, mais sans évolution temporelle comme la catégorie [apprentissage](../apprentissage/), ni l'affectivité de la [passion](../passion/).
 
 Une catégorie en contrepoint : [espoir](../espoir/).

@@ -1,5 +1,4 @@
 +++
-title = "Au dernier rang du cimetière"
 description = "Depuis la sixième saison"
 +++
 
