@@ -85,15 +85,15 @@
     background-attachment: local;
   }
   :root:not([data-r-output-format='print']) #R-body::before {
-    content: '';
-    position: fixed;
-    z-index: 1;
-    pointer-events: none;
-    left: 0;
-    right: 0;
-    top: -5px;
-    height: 55px;
-    background: url('/poesieland-noel/img/guirlande.svg') 0 0 / 950px auto repeat-x;
+  content: '';
+  position: fixed;
+  z-index: 2;
+  pointer-events: none;
+  left: 0;
+  right: 0;
+  top: 45px;
+  height: 45px;
+  background: url('/poesieland-noel/img/guirlande.svg') 0 0 / 1100px auto repeat-x;
   }
   :root:not([data-r-output-format='print']) #R-body::after {
     content: '';
@@ -180,3 +180,4 @@
   #R-body::after,
   #R-body-inner div.flex-block-wrapper::before { content: none !important; }
 }
+
