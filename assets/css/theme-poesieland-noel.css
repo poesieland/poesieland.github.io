@@ -1,0 +1,182 @@
+/* Poésieland - variante de couleur native « Noël & Fêtes » pour Hugo Relearn
+ * A déposer dans assets/css/theme-poesieland-noel.css
+ * Chargée EXCLUSIVEMENT quand la variante `poesieland-noel` est sélectionnée.
+ * N'écrase ni le thème d'origine, ni custom.css, ni logo.svg.
+ * Sans JavaScript saisonnier. Les décorations sont statiques.
+ * Hérite volontairement du cadre papier ivoire et des arrondis de Barbara.
+ * Important : Relearn attend les variables sur :root (pas sur html).
+ */
+@import 'theme-relearn-custom-light.css';
+
+:root {
+  /* Palette native de Relearn */
+  --PRIMARY-color: #416f2a;             /* badges et couleur de marque */
+  --PRIMARY-HOVER-color: #315923;
+  --SECONDARY-color: #8b3040;           /* liens textuels : bordeaux */
+  --SECONDARY-HOVER-color: #346548;
+  --ACCENT-color: #c9a65b;              /* or doux */
+  --ACCENT-HOVER-color: #b28d3b;
+
+  --MENU-HEADER-BG-color: #235039;      /* bandeau logo vert sapin */
+  --MENU-HEADER-color: #f2d69a;
+  --MENU-HEADER-BORDER-color: #1d422f;
+  --MENU-SECTIONS-BG-color: #252628;
+  --MENU-SECTIONS-LINK-color: #bbbbbb;
+  --MENU-SECTIONS-LINK-HOVER-color: #fff0d2;
+  --MENU-SECTIONS-ACTIVE-BG-color: #30352e;
+  --MENU-HOME-LINK-color: #d3d0c8;
+  --MENU-HOME-LINK-HOVER-color: #f3d59d;
+  --MENU-SEARCH-BG-color: #313536;
+  --MENU-SEARCH-color: #f3ebdb;
+
+  --LOGO-LINK-color: #f3d69d;
+  --LOGO-LINK-HOVER-color: #fff0ce;
+  --LOGO-IMAGE-color: #d6b465;          /* plume SVG inline colorable */
+  --LOGO-IMAGE-HOVER-color: #f0d18b;
+
+  --MAIN-BG-color: #fffaf5;
+  --MAIN-TEXT-color: #36342f;
+  --MAIN-LINK-color: #8b3040;
+  --MAIN-LINK-HOVER-color: #346548;
+  --MAIN-TITLES-TEXT-color: #24201c;
+  --TAG-BG-color: #416f2a;
+  --TOPBAR-LINK-color: #8b3040;
+  --TOPBAR-LINK-HOVER-color: #346548;
+
+  /* Le type de note orange de l'accueil devient bordeaux saisonnier. */
+  --BOX-ORANGE-color: #9f3441;
+  --BOX-NOTE-color: #9f3441;
+  --BOX-ORANGE-TEXT-color: #ffffff;
+  --BOX-NOTE-TEXT-color: #ffffff;
+}
+
+/* Habillage décoratif : les sélecteurs n'affectent que la variante activée.
+   Aucune décoration ne couvre les mots ou les contrôles. */
+@media screen {
+  :root:not([data-r-output-format='print']) #R-header-wrapper {
+    position: relative;
+    background: linear-gradient(115deg, #1a422f, #295a41);
+  }
+  :root:not([data-r-output-format='print']) #R-header-wrapper::before {
+    content: '';
+    position: absolute;
+    z-index: 3;
+    pointer-events: none;
+    top: -12px;
+    left: -12px;
+    width: 112px;
+    height: 92px;
+    background: url('/poesieland-noel/img/branche-logo.svg') left top / contain no-repeat;
+  }
+  /* Le logo SVG original n'est jamais changé sur disque.
+     Complément visuel utile si sa géométrie a des fill explicites. */
+  :root:not([data-r-output-format='print']) #R-logo svg {
+    filter: brightness(0) saturate(100%) invert(83%) sepia(25%) saturate(701%) hue-rotate(351deg) brightness(93%) contrast(86%);
+  }
+  :root:not([data-r-output-format='print']) #R-body {
+    background-image:
+      url('/poesieland-noel/img/flocon.svg'),
+      url('/poesieland-noel/img/flocon.svg'),
+      url('/poesieland-noel/img/flocon.svg'),
+      radial-gradient(ellipse at 48% 25%, #fffefd, #fff9f2);
+    background-position: 7% 24%, 94% 39%, 13% 76%, center;
+    background-size: 46px 46px, 35px 35px, 26px 26px, cover;
+    background-repeat: no-repeat;
+    background-attachment: local;
+  }
+  :root:not([data-r-output-format='print']) #R-body::before {
+    content: '';
+    position: fixed;
+    z-index: 1;
+    pointer-events: none;
+    left: 0;
+    right: 0;
+    top: -5px;
+    height: 55px;
+    background: url('/poesieland-noel/img/guirlande.svg') 0 0 / 950px auto repeat-x;
+  }
+  :root:not([data-r-output-format='print']) #R-body::after {
+    content: '';
+    position: fixed;
+    z-index: 1;
+    pointer-events: none;
+    bottom: 0;
+    right: 0;
+    width: min(26vw, 295px);
+    height: 160px;
+    opacity: .62;
+    background: url('/poesieland-noel/img/neige-sapins.svg') right bottom / contain no-repeat;
+  }
+  /* Ne crée pas un nouveau cadre : utilise le .flex-block-wrapper existant. */
+  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper {
+    position: relative;
+    box-shadow: 0 13px 34px rgba(79, 57, 32, .07);
+  }
+  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before {
+    content: '';
+    position: absolute;
+    z-index: 1;
+    pointer-events: none;
+    top: -28px;
+    right: -22px;
+    width: 175px;
+    height: 132px;
+    background: url('/poesieland-noel/img/branche-angle.svg') top right / contain no-repeat;
+  }
+  /* Relearn hérite déjà de PRIMARY/TAG-BG pour les badges.
+     Ces quelques règles garantissent une police blanche sans toucher à leur forme. */
+  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href],
+  :root:not([data-r-output-format='print']) #R-body a.tag,
+  :root:not([data-r-output-format='print']) #R-body a.badge {
+    color: #fff;
+    background-color: #416f2a;
+  }
+  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href]:is(:hover, :focus-visible),
+  :root:not([data-r-output-format='print']) #R-body a:is(.tag, .badge):is(:hover, :focus-visible) {
+    color: #fff;
+    background-color: #315923;
+  }
+  /* Liens ordinaires bordeaux ; sans modifier menus, boutons ou badges. */
+  :root:not([data-r-output-format='print']) #R-body a[href]:not(.tag):not(.badge):not(.button):not(.btn):not(.tags a):not(.term-list a) {
+    color: var(--MAIN-LINK-color);
+  }
+  :root:not([data-r-output-format='print']) #R-body a[href]:not(.tag):not(.badge):not(.button):not(.btn):not(.tags a):not(.term-list a):is(:hover, :focus-visible) {
+    color: var(--MAIN-LINK-HOVER-color);
+    text-decoration: underline;
+    text-underline-offset: .14em;
+  }
+  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href] {
+    color: #ffffff;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before {
+    width: 120px;
+    height: 95px;
+    right: -9px;
+    top: -14px;
+  }
+  :root:not([data-r-output-format='print']) #R-body::after { opacity: .28; }
+}
+@media screen and (max-width: 760px) {
+  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before,
+  :root:not([data-r-output-format='print']) #R-body::after { display: none; }
+  :root:not([data-r-output-format='print']) #R-body::before {
+    height: 38px;
+    background-size: 770px auto;
+  }
+  :root:not([data-r-output-format='print']) #R-body {
+    background-image: radial-gradient(ellipse at center, #fffefd, #fff9f2);
+  }
+  :root:not([data-r-output-format='print']) #R-header-wrapper::before {
+    width: 70px; height: 55px; top: -8px; left: -8px;
+  }
+}
+@media print {
+  /* En impression, Relearn utilise sa variante print. Pas de décor. */
+  #R-header-wrapper::before,
+  #R-body::before,
+  #R-body::after,
+  #R-body-inner div.flex-block-wrapper::before { content: none !important; }
+}

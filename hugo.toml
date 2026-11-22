@@ -127,6 +127,12 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     identifier = 'tome-light'
   [[params.themeVariant]]
     identifier = 'tome-dark'
+  [[params.themeVariant]]
+    name = 'De saison'
+    type = 'divider'
+  [[params.themeVariant]]
+    identifier = 'poesieland-noel'
+    name = 'Noël'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
@@ -140,7 +146,6 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 [outputs]
   home = ['html']
   page = ['html']
-  # rss = ['rss']
   section = ['html']
   taxonomy = ['html']
   term = ['html']

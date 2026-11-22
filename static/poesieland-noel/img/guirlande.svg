@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 76" aria-hidden="true">
+<defs><radialGradient id="glow"><stop stop-color="#fff0b1" stop-opacity=".95"/><stop offset=".22" stop-color="#f5c865" stop-opacity=".65"/><stop offset="1" stop-color="#f6c462" stop-opacity="0"/></radialGradient></defs>
+<path d="M-20 6Q160 54 300 8Q485 50 600 10Q810 53 900 8Q1060 46 1220 8" fill="none" stroke="#50422d" stroke-width="2.5" opacity=".83"/>
+<g fill="url(#glow)"><circle cx="36" cy="17" r="25"/><circle cx="125" cy="31" r="25"/><circle cx="225" cy="24" r="25"/><circle cx="317" cy="11" r="25"/><circle cx="419" cy="28" r="25"/><circle cx="514" cy="31" r="25"/><circle cx="611" cy="13" r="25"/><circle cx="713" cy="29" r="25"/><circle cx="808" cy="30" r="25"/><circle cx="907" cy="9" r="25"/><circle cx="1010" cy="25" r="25"/><circle cx="1110" cy="24" r="25"/></g>
+<g fill="#f4cd70" stroke="#fdf2c7" stroke-width=".7"><circle cx="36" cy="17" r="4.5"/><circle cx="125" cy="31" r="4.5"/><circle cx="225" cy="24" r="4.5"/><circle cx="317" cy="11" r="4.5"/><circle cx="419" cy="28" r="4.5"/><circle cx="514" cy="31" r="4.5"/><circle cx="611" cy="13" r="4.5"/><circle cx="713" cy="29" r="4.5"/><circle cx="808" cy="30" r="4.5"/><circle cx="907" cy="9" r="4.5"/><circle cx="1010" cy="25" r="4.5"/><circle cx="1110" cy="24" r="4.5"/></g>
+</svg>
