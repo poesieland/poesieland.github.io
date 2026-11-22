@@ -43,10 +43,7 @@
   --TOPBAR-LINK-color: #8b3040;
   --TOPBAR-LINK-HOVER-color: #346548;
 
-  /* Le type de note orange de l'accueil devient bordeaux saisonnier. */
-  --BOX-ORANGE-color: #9f3441;
   --BOX-NOTE-color: #9f3441;
-  --BOX-ORANGE-TEXT-color: #ffffff;
   --BOX-NOTE-TEXT-color: #ffffff;
 }
 
@@ -107,11 +104,6 @@
     opacity: .62;
     background: url('/poesieland-noel/img/neige-sapins.svg') right bottom / contain no-repeat;
   }
-  /* Ne crée pas un nouveau cadre : utilise le .flex-block-wrapper existant. */
-  :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper {
-    position: relative;
-    box-shadow: 0 13px 34px rgba(79, 57, 32, .07);
-  }
   :root:not([data-r-output-format='print']) #R-body-inner div.flex-block-wrapper::before {
     content: '';
     position: absolute;
@@ -122,31 +114,6 @@
     width: 175px;
     height: 132px;
     background: url('/poesieland-noel/img/branche-angle.svg') top right / contain no-repeat;
-  }
-  /* Relearn hérite déjà de PRIMARY/TAG-BG pour les badges.
-     Ces quelques règles garantissent une police blanche sans toucher à leur forme. */
-  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href],
-  :root:not([data-r-output-format='print']) #R-body a.tag,
-  :root:not([data-r-output-format='print']) #R-body a.badge {
-    color: #fff;
-    background-color: #416f2a;
-  }
-  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href]:is(:hover, :focus-visible),
-  :root:not([data-r-output-format='print']) #R-body a:is(.tag, .badge):is(:hover, :focus-visible) {
-    color: #fff;
-    background-color: #315923;
-  }
-  /* Liens ordinaires bordeaux ; sans modifier menus, boutons ou badges. */
-  :root:not([data-r-output-format='print']) #R-body a[href]:not(.tag):not(.badge):not(.button):not(.btn):not(.tags a):not(.term-list a) {
-    color: var(--MAIN-LINK-color);
-  }
-  :root:not([data-r-output-format='print']) #R-body a[href]:not(.tag):not(.badge):not(.button):not(.btn):not(.tags a):not(.term-list a):is(:hover, :focus-visible) {
-    color: var(--MAIN-LINK-HOVER-color);
-    text-decoration: underline;
-    text-underline-offset: .14em;
-  }
-  :root:not([data-r-output-format='print']) #R-body :is(.tags, .term-list.tags) a[href] {
-    color: #ffffff;
   }
 }
 

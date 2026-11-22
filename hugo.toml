@@ -79,7 +79,8 @@ additionalContentLanguage = [ 'en' ]
 disableExplicitIndexURLs = false
 # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
 externalLinkTarget = '_blank'
-themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
+# themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
+themeVariantAuto = [ 'poesieland-noel' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 # sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
