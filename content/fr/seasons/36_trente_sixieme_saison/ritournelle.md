@@ -1,6 +1,6 @@
 ---
 weight: 39
-title: Ritournelle
+title: Solitude automnale
 id: ritournelle_36
 date: 2026-11-01
 verseLength: 8
