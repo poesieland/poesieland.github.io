@@ -12,6 +12,6 @@ title = "Derniers poèmes ajoutés"
 
 [Allégorie II, écrit le 02.11.2026](../seasons/36_trente_sixieme_saison/allegorie)
 
-[Ritournelle, écrit le 01.11.2026](../seasons/36_trente_sixieme_saison/ritournelle)
+[Solitude automnale, écrit le 01.11.2026](../seasons/36_trente_sixieme_saison/ritournelle)
 
 [Le vieux chat IV, écrit le 01.11.2026](../seasons/36_trente_sixieme_saison/le_vieux_chat_iv)
