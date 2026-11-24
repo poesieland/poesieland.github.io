@@ -2,7 +2,7 @@
 title = "Autres perspectives"
 weight = 3
 type = "chapter"
-date = 2026-02-27
+date = 2026-11-24
 +++
 
 Maintenant que vous avez découvert mes [Saisons](../seasons/), pourquoi pas d'autres perspectives ?

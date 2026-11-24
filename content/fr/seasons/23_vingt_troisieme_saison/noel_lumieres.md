@@ -3,12 +3,20 @@ title = "Noël : lumières"
 id = "noel_lumieres_23"
 date = 2024-12-07
 weight = 11
-categories = ["Hiver", "Foi"]
-tags = ["saisons", "philosophie", "2024", "acrostiche", "octosyllabe", "noël"]
+categories = [ "Hiver", "Foi" ]
+tags = [
+  "saisons",
+  "philosophie",
+  "2024",
+  "acrostiche",
+  "octosyllabe",
+  "noël"
+]
 info = "Reprise du premier vers d'un [poème de la neuvième saison](../9_neuvieme_saison/noel_enchante)"
 acrostiche = "Noël : lumières"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "24 et 25 décembre : (Réveillon de) Noël" ]
 +++
 
 Noël a chanté sur le toit,

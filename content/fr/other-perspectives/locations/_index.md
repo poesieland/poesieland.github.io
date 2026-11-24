@@ -1,6 +1,6 @@
 +++
 title = "Lieux"
-weight = 6
+weight = 4
 [params]
   menuPageRef = '../../locations'
 +++

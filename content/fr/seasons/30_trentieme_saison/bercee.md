@@ -19,6 +19,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "24 et 25 décembre : (Réveillon de) Noël"
 ---
 Se bercer de brillance
 

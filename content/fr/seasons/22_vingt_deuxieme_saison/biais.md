@@ -7,6 +7,7 @@ categories = [ "Automne", "Angoisse" ]
 tags = [ "2024", "hexasyllabe", "philosophie", "saisons", "la mort" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "2 novembre : Jour des morts" ]
 +++
 
 Pourquoi l'automne fauche

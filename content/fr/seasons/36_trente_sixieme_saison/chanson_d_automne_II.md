@@ -23,6 +23,10 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "1er novembre : Toussaint"
+    - "31 octobre : Halloween / Samain"
+    - "2 novembre : Jour des morts"
 ---
 Elle est douce sans amertume
 

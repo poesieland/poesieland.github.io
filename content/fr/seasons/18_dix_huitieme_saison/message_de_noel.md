@@ -3,10 +3,11 @@ title = "Message de Noël"
 id = "message_de_noel_18"
 date = 2023-12-23
 weight = 38
-categories = ["Espoir", "Foi"]
-tags = ["philosophie", "2023", "alexandrin", "noël"]
+categories = [ "Espoir", "Foi" ]
+tags = [ "philosophie", "2023", "alexandrin", "noël" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "24 et 25 décembre : (Réveillon de) Noël" ]
 +++
 
 Dans deux jours c'est Noël, un esprit tête nue

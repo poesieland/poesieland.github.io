@@ -23,6 +23,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "31 octobre : Halloween / Samain"
 ---
 Il est si tôt, grand-père,
 

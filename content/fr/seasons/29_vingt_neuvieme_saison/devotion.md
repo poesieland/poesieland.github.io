@@ -3,11 +3,19 @@ title = "Dévotion"
 id = "devotion_29"
 date = 2025-11-02
 weight = 45
-categories = ["Foi"]
-tags = ["philosophie", "la mort", "2025", "métrique variable", "tétrasyllabe", "trisyllabe"]
+categories = [ "Foi" ]
+tags = [
+  "philosophie",
+  "la mort",
+  "2025",
+  "métrique variable",
+  "tétrasyllabe",
+  "trisyllabe"
+]
 info = "Métrique variable : 4, 3."
 verseLength = -1
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "2 novembre : Jour des morts" ]
 +++
 
 Au jour des morts

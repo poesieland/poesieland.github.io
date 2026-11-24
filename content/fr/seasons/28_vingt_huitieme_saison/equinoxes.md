@@ -25,6 +25,9 @@ description: Septembre est comme mars, il ouvre une charnière
 wordcloud: |-
     Septembre mars ouvre charnière
     Septembre amène emporte faux-semblants
+symbolicDays:
+    - "Vers le 21 mars : Équinoxe de printemps"
+    - "Vers le 22 septembre : Équinoxe d'automne"
 ---
 Septembre est comme mars, il ouvre une charnière
 

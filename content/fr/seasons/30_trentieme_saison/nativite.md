@@ -21,6 +21,8 @@ poemType: ""
 acrostiche: Douce nuit, vie.
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "24 et 25 décembre : (Réveillon de) Noël"
 ---
 D'un souffle tiède un animal
 

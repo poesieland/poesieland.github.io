@@ -3,11 +3,12 @@ title = "Flamme de paix"
 id = "flamme_de_paix_22"
 date = 2024-11-11
 weight = 45
-categories = ["Espoir", "Portraits"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+categories = [ "Espoir", "Portraits" ]
+tags = [ "philosophie", "2024", "hexasyllabe" ]
 info = "Comme [l'an dernier](../18_dix_huitieme_saison/armistice), l'armistice..."
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "11 novembre : Armistice de la Première Guerre mondiale" ]
 +++
 
 Une flamme vacille

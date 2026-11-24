@@ -8,6 +8,7 @@ tags = [ "2024", "alexandrin", "nature", "saisons", "le ciel est" ]
 verseLength = 12
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "Le ciel est **triste et las**"
+symbolicDays = [ "21 décembre : Solstice d'hiver" ]
 +++
 
 Le ciel est triste et las de n'imaginer qu'ombres,

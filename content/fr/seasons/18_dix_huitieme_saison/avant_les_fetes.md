@@ -58,6 +58,6 @@ Je veux que vite passe
 
 Période aux rythmes lents
 
-Si grise et qui trainasse,
+Si grise et qui traînasse,
 
 Hiver aux bras ballants.

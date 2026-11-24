@@ -17,8 +17,9 @@ verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "S'envole au beau novembre [...] Renaître un cœur de mai"
 wordcloud = """
-envole beau novembre
+envole beau novembre\r
 Renaître cœur mai"""
+symbolicDays = [ "1er novembre : Toussaint" ]
 +++
 
 Pour que cette Toussaint

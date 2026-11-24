@@ -3,11 +3,12 @@ title = "Légende"
 id = "legende_22"
 date = 2024-11-02
 weight = 37
-categories = ["Angoisse", "Portraits"]
-tags = ["philosophie", "2024", "tétrasyllabe", "la mort"]
+categories = [ "Angoisse", "Portraits" ]
+tags = [ "philosophie", "2024", "tétrasyllabe", "la mort" ]
 info = "[Les cavaliers de l'Apocalypse](https://fr.wikipedia.org/wiki/Cavaliers_de_l%27Apocalypse)"
 verseLength = 4
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "2 novembre : Jour des morts" ]
 +++
 
 Un jour de ruine

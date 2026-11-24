@@ -3,10 +3,11 @@ title = "Souhaits II"
 id = "souhaits_23"
 date = 2024-12-27
 weight = 33
-categories = ["Espoir"]
-tags = ["philosophie", "2024", "hexasyllabe"]
+categories = [ "Espoir" ]
+tags = [ "philosophie", "2024", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "1er janvier : Jour de l'An" ]
 +++
 
 Le bonheur à ta porte

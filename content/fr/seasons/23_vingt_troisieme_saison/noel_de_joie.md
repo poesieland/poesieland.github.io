@@ -3,10 +3,11 @@ title = "Noël de joie"
 id = "noel_de_joie_23"
 date = 2024-12-24
 weight = 26
-categories = ["Foi"]
-tags = ["philosophie", "2024", "hexasyllabe", "noël"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "2024", "hexasyllabe", "noël" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "24 et 25 décembre : (Réveillon de) Noël" ]
 +++
 
 De joie et d'espérance

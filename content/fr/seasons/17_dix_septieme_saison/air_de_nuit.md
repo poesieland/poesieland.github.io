@@ -3,10 +3,11 @@ title = "Air de nuit"
 id = "air_de_nuit_17"
 date = 2004-11-02
 weight = 4
-categories = ["Apprentissage", "Nuit", "Crépuscule"]
-tags = ["philosophie", "ombres et lumières", "2004", "hexasyllabe"]
+categories = [ "Apprentissage", "Nuit", "Crépuscule" ]
+tags = [ "philosophie", "ombres et lumières", "2004", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "11 novembre : Armistice de la Première Guerre mondiale" ]
 +++
 
 Là-bas vers l'ouest les mânes

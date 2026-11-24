@@ -3,11 +3,18 @@ title = "Valse l'an"
 id = "valse_l_an_24"
 date = 2025-01-01
 weight = 3
-categories = ["Temps", "Mouvement"]
-tags = ["philosophie", "attitudes", "2025", "acrostiche", "octosyllabe"]
+categories = [ "Temps", "Mouvement" ]
+tags = [
+  "philosophie",
+  "attitudes",
+  "2025",
+  "acrostiche",
+  "octosyllabe"
+]
 acrostiche = "Valse l'an"
 verseLength = 8
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "1er janvier : Jour de l'An" ]
 +++
 
 Valsent les jours, valsent les ans

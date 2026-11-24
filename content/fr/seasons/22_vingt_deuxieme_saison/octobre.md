@@ -16,9 +16,10 @@ tags = [
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = """
-A l'octobre servile
+A l'octobre servile\r
 Halloween puis novembre"""
 wordcloud = "octobre servile Halloween novembre"
+symbolicDays = [ "31 octobre : Halloween / Samain" ]
 +++
 
 Comme on entre au couvent

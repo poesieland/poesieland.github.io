@@ -9,6 +9,7 @@ verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
 description = "De novembre la trève"
 wordcloud = "novembre trève"
+symbolicDays = [ "11 novembre : Armistice de la Première Guerre mondiale" ]
 +++
 
 Un clairon solennel

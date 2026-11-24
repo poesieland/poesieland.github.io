@@ -10,5 +10,8 @@ other = "Lieux"
 [symbolicDay]
 other = "Jour symbolique"
 
+[symbolicday]
+other = "Jour symbolique"
+
 [symbolicDays]
 other = "Jours symboliques"

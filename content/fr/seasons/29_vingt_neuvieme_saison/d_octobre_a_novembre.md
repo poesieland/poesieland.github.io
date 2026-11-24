@@ -28,6 +28,8 @@ description: Scelle lèvres d'octobre [...] Novembre sans remords
 wordcloud: |-
     Scelle lèvres octobre
     Novembre remords
+symbolicDays:
+    - "31 octobre : Halloween / Samain"
 ---
 Demain tout pourrira
 

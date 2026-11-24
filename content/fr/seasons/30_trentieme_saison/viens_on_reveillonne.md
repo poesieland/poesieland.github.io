@@ -19,6 +19,8 @@ poemType: ""
 acrostiche: ""
 doubleAcrostiche: ""
 LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
+symbolicDays:
+    - "31 décembre : Saint-Sylvestre"
 ---
 Viens, on réveillonne,
 

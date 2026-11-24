@@ -3,11 +3,12 @@ title = "Jésus revenu"
 id = "jesus_revenu_23"
 date = 2024-12-24
 weight = 25
-categories = ["Foi"]
-tags = ["philosophie", "2024", "acrostiche", "hexasyllabe", "noël"]
+categories = [ "Foi" ]
+tags = [ "philosophie", "2024", "acrostiche", "hexasyllabe", "noël" ]
 acrostiche = "Encore un soir"
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "24 et 25 décembre : (Réveillon de) Noël" ]
 +++
 
 Encore un soir plus tendre,

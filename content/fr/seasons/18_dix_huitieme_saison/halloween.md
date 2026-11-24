@@ -3,10 +3,11 @@ title = "Halloween"
 id = "halloween_18"
 date = 2023-10-31
 weight = 10
-categories = ["Portraits", "Angoisse"]
-tags = ["philosophie", "2023", "hexasyllabe"]
+categories = [ "Portraits", "Angoisse" ]
+tags = [ "philosophie", "2023", "hexasyllabe" ]
 verseLength = 6
 LastModifierDisplayName = "Barbara Post - Licence CC BY-NC-ND 4.0"
+symbolicDays = [ "31 octobre : Halloween / Samain" ]
 +++
 
 Maman, j'ai peur du noir !
