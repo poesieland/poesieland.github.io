@@ -34,9 +34,9 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 17, color: 'rgba(213, 104, 49, 1)' },
     { label: 'Félinement vôtre', value: 72, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Printemps', value: 67, color: 'rgba(180, 217, 166, 1)' },
-    { label: 'Eté', value: 74, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 183, color: 'rgba(77, 150, 61, 1)' },
-    { label: 'Hiver', value: 84, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Eté', value: 75, color: 'rgba(130, 196, 108, 1)' },
+    { label: 'Automne', value: 186, color: 'rgba(77, 150, 61, 1)' },
+    { label: 'Hiver', value: 85, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });
 })();

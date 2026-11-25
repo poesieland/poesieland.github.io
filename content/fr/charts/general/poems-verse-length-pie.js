@@ -3,10 +3,10 @@ import { addPieChart } from '../add-chart.js'
   const data = [
     { label: '1 syllabe', value: 4, color: 'rgb(247, 249, 249)' },
     { label: '2 syllabes', value: 43, color: 'rgb(230, 176, 170)' },
-    { label: '3 syllabes', value: 63, color: 'rgb(245, 183, 177)' },
-    { label: '4 syllabes', value: 168, color: 'rgb(215, 189, 226)' },
+    { label: '3 syllabes', value: 64, color: 'rgb(245, 183, 177)' },
+    { label: '4 syllabes', value: 169, color: 'rgb(215, 189, 226)' },
     { label: '5 syllabes', value: 156, color: 'rgb(169, 204, 227)' },
-    { label: '6 syllabes', value: 480, color: 'rgb(174, 214, 241)' },
+    { label: '6 syllabes', value: 481, color: 'rgb(174, 214, 241)' },
     { label: '7 syllabes', value: 87, color: 'rgb(163, 228, 215)' },
     { label: '8 syllabes', value: 550, color: 'rgb(162, 217, 206)' },
     { label: '9 syllabes', value: 18, color: 'rgb(171, 235, 198)' },

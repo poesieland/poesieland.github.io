@@ -28,7 +28,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Sommeil', value: 1, color: 'rgba(213, 104, 49, 1)' },
     { label: 'Printemps', value: 3, color: 'rgba(180, 217, 166, 1)' },
     { label: 'Eté', value: 8, color: 'rgba(130, 196, 108, 1)' },
-    { label: 'Automne', value: 16, color: 'rgba(77, 150, 61, 1)' },
+    { label: 'Automne', value: 17, color: 'rgba(77, 150, 61, 1)' },
     { label: 'Hiver', value: 3, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('metric3Pie', [data], { plugins: { title: { display: true, text: '' } } });

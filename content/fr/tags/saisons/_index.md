@@ -64,6 +64,10 @@ Ce mot-clé regroupe les catégories suivantes :
 - [Impression d'automne](../../seasons/29_vingt_neuvieme_saison/impression_d_automne)  
 *à la vingt-neuvième saison*
 
+### Trois saisons (été, automne, hiver)...
+- [Fin d'automne II](../../seasons/36_trente_sixieme_saison/fin_d_automne_ii)  
+*à la trente-sixième saison*
+
 ### Les quatre saisons !
 - [A la course aux saisons](../../seasons/14_quatorzieme_saison/a_la_course_aux_saisons)  
 *à la quatorzième saison*
