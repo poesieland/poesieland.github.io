@@ -1,0 +1,10 @@
+{{- $taxonomy := .Get 0 -}}
+{{- $count := 0 -}}
+
+{{- range .Page.Site.RegularPages -}}
+  {{- with index .Params $taxonomy -}}
+    {{- $count = add $count 1 -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $count -}}

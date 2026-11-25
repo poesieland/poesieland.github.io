@@ -5,6 +5,8 @@ title = "Jours symboliques"
 +++
 Un certain nombre de jours sont à marquer d'une "pierre blanche", pour ne pas laisser la page blanche...
 
+{{< taxonomy-count "symbolicDays" >}} poèmes les évoquent.
+
 Parmi tous ces moments symboliques qui reviennent chaque année, les solstices et les équinoxes.
 
 ### Equinoxe de printemps

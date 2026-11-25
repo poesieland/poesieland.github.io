@@ -1,7 +1,0 @@
-{{ $_hugo_config := `{ "version": 1 }` }}
-{{- partial "shortcodes/alertbox.html" (dict
-  "context" .
-  "content" .Inner
-  "style"   (.Get "style")
-  "title"   (.Get "title")
-) }}
