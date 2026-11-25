@@ -4,7 +4,14 @@ This is the personal [poetry website](https://poesieland.github.io/) of Barbara 
 
 ## License
 
-Poesieland © 2023-2025 by Barbara Post is licensed under CC BY-NC-ND 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+Poesieland © 2023-2026 by Barbara Post is licensed under CC BY-NC-ND 4.0 regarding any textual or visual content: poems and personal texts or pictures.
+
+To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+However, any theme variant work (css and svg)  is licensed under CC BY 4.0. 
+
+To view a copy of this second license, visit 
+[https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/).
 
 ## Technical dependencies
 
