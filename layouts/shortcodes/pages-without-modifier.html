@@ -1,0 +1,22 @@
+{{- range hugo.Sites -}}
+  {{- $site := . -}}
+  {{- $missing := slice -}}
+
+  {{- range $site.RegularPages -}}
+    {{- if not (isset .Params "lastmodifierdisplayname") -}}
+      {{- $missing = $missing | append . -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- if gt (len $missing) 0 -}}
+    <h3>{{ $site.Language.Name }} ({{ len $missing }})</h3>
+    <ul>
+      {{- range $missing }}
+        <li>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+          <small> — {{ .File.Path }}</small>
+        </li>
+      {{- end }}
+    </ul>
+  {{- end -}}
+{{- end -}}

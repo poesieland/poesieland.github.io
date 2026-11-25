@@ -12,6 +12,7 @@ tags:
     - tétrasyllabe
     - citation
 description: A coeur vaillant rien d'impossible
+LastModifierDisplayName: Barbara Post - Licence CC BY-NC-ND 4.0
 ---
 *A coeur vaillant*
 

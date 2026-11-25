@@ -8,7 +8,7 @@ Bienvenue au coeur de mon royaume poétique : mes oeuvres complètes en ligne re
 
 ## A lire et relire
 
-Il y a actuellement {{% include "/content/common/poem_count.md" %}} poèmes dans ma langue maternelle plus {{% include "/content/common/poem_count_en.md" %}} [poèmes en anglais](/original_texts?lang=en). 
+Il y a actuellement {{< poem-pages-count "fr" >}} poèmes dans ma langue maternelle plus  {{< poem-pages-count "en" >}} [poèmes en anglais](/original_texts?lang=en). 
 
 {{% callout title="Derniers poèmes ajoutés" style="note" %}}
 {{% include "./includes/last_poems.md" true %}}

@@ -29,7 +29,7 @@ Au-delà de l'alexandrin, les poèmes en [vers de 14 syllabes](../tags/quatorze-
 
 De plus en plus de poèmes utilisent plusieurs métriques car cela donne un effet particulier.
 
-[Vers ces {{% include "/content/common/variable_metric_poem_count.md" %}} poèmes](../tags/métrique-variable)
+[Vers ces {{< poem-pages-count "fr" "métrique variable" >}} poèmes](../tags/métrique-variable)
 
 ## Au fil du temps
 

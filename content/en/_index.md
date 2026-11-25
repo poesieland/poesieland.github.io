@@ -8,7 +8,7 @@ date = 2025-12-07
 
 Welcome to my "poetic kingdom", my online complete works.
 
-There are currently {{% include "/content/common/poem_count.md" %}} [poems in French mother tongue](/?lang=fr) and {{% include "/content/common/poem_count_en.md" %}} [poems written in English](/original_texts).
+There are currently {{< poem-pages-count "fr" >}} [poems in French mother tongue](/?lang=fr) and {{< poem-pages-count "en" >}} [poems written in English](/original_texts).
 
 I started expressing playing with words in French mother tongue around 1992, aged 13, then learned neoclassical versification in 1995.
 

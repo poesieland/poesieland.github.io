@@ -1,0 +1,24 @@
+{{- $lang := .Get 0 -}}
+{{- $tag := .Get 1 | default "" | urlize -}}
+{{- $count := 0 -}}
+
+{{- range hugo.Sites -}}
+  {{- if eq .Language.Name $lang -}}
+    {{- range .RegularPages -}}
+      {{- if isset .Params "lastmodifierdisplayname" -}}
+        {{- if not $tag -}}
+          {{- $count = add $count 1 -}}
+        {{- else -}}
+          {{- range .Params.tags -}}
+            {{- if eq (urlize .) $tag -}}
+              {{- $count = add $count 1 -}}
+              {{- break -}}
+            {{- end -}}
+          {{- end -}}
+        {{- end -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- $count -}}
