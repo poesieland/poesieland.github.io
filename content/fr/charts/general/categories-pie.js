@@ -36,7 +36,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Printemps', value: 67, color: 'rgba(180, 217, 166, 1)' },
     { label: 'Eté', value: 74, color: 'rgba(130, 196, 108, 1)' },
     { label: 'Automne', value: 183, color: 'rgba(77, 150, 61, 1)' },
-    { label: 'Hiver', value: 83, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 84, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('categoriesPie', [data], { plugins: { title: { display: true, text: '' } } });
 })();

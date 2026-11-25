@@ -19,7 +19,7 @@ import { addPieChart } from '../add-chart.js'
     { label: 'Mouvement', value: 1, color: 'rgba(240, 164, 119, 1)' },
     { label: 'Félinement vôtre', value: 8, color: 'rgba(161, 86, 28, 1)' },
     { label: 'Automne', value: 17, color: 'rgba(77, 150, 61, 1)' },
-    { label: 'Hiver', value: 1, color: 'rgba(27, 79, 8, 1)' },
+    { label: 'Hiver', value: 2, color: 'rgba(27, 79, 8, 1)' },
   ];
   addPieChart('season36Pie', [data], { plugins: { title: { display: true, text: 'N\'attends pas (36) septembre à novembre 2026' } } });
 })();
