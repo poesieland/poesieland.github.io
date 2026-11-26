@@ -1,0 +1,60 @@
+@import 'theme-relearn-custom-light.css';
+@import 'effect-season-winter.css';
+@import 'effect-backdrop-faded.css';
+
+:root {
+  /* Variables officielles Relearn : navigation, étiquettes, textes. */
+  --PRIMARY-color: #416f2a;
+  --PRIMARY-HOVER-color: #315923;
+  --SECONDARY-color: #8b3040;
+  --SECONDARY-HOVER-color: #346548;
+  --ACCENT-color: #c9a65b;
+  --ACCENT-HOVER-color: #b28d3b;
+
+  --MENU-HEADER-BG-color: #1d4935;
+  --MENU-HEADER-BORDER-color: #143627;
+  --MENU-HEADER-color: #f3d59a;
+  --MENU-SECTIONS-BG-color: #252729;
+  --MENU-SECTIONS-LINK-color: #c1c2bf;
+  --MENU-SECTIONS-LINK-HOVER-color: #fff0d7;
+  --MENU-SECTIONS-ACTIVE-BG-color: #343b33;
+  --MENU-HOME-LINK-color: #d8d6cd;
+  --MENU-HOME-LINK-HOVER-color: #f4dfa7;
+  --MENU-SEARCH-BG-color: #303637;
+  --MENU-SEARCH-color: #f3ebdb;
+  --MENU-SEARCH-BORDER-color: #b8bbad;
+
+  --LOGO-LINK-color: #e8c77d;
+  --LOGO-LINK-HOVER-color: #f9e4b1;
+  --LOGO-IMAGE-color: #d6b465;
+  --LOGO-IMAGE-HOVER-color: #f0d18b;
+
+  --MAIN-BG-color: #fffaf5;
+  --MAIN-TEXT-color: #35322f;
+  --MAIN-LINK-color: #8b3040;
+  --MAIN-LINK-HOVER-color: #346548;
+  --MAIN-TITLES-TEXT-color: #24201c;
+  --TAG-BG-color: #416f2a;
+  --TOPBAR-LINK-color: #8b3040;
+  --TOPBAR-LINK-HOVER-color: #346548;
+}
+
+div.flex-block-wrapper {
+    background-color: var(--MAIN-BG-color);
+}
+
+@media screen {
+  /* Bandeau et plume originelle, recolorée sans écraser le fichier logo.svg. */
+  #R-header-wrapper {
+    position: relative;
+    background: radial-gradient(ellipse at 81% 10%, rgba(255,245,199,.07), transparent 60%),
+                linear-gradient(110deg, #123b2a, #28563d 70%, #1b4330);
+    border-bottom: 1px solid rgba(243,213,154,.18);
+  }
+ 
+  /* SVG Relearn déjà affiché par « ?inlinecontent » dans hugo.toml. */
+  #R-logo svg,
+  #R-logo img[src*="logo.svg"] {
+    filter: brightness(0) saturate(100%) invert(79%) sepia(26%) saturate(754%) hue-rotate(351deg) brightness(94%) contrast(86%);
+  }
+}

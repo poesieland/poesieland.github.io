@@ -84,7 +84,7 @@ externalLinkTarget = '_blank'
 
 forceDefaultThemeVariant = true
 # themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
-themeVariantAuto = [ 'relearn-custom-light-winter', 'relearn-dark-winter' ]
+themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 # sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
@@ -95,19 +95,11 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 
   # Seasonally at top
   [[params.themeVariant]]
-    identifier = 'relearn-winter'
-    name = 'Relearn Winter'
+    name = 'De saison'
     type = 'divider'
   [[params.themeVariant]]
-    identifier = 'relearn-winter-auto'
-    name = 'Relearn Winter light/dark'
-    auto = [ 'relearn-custom-light-winter', 'relearn-dark-winter' ]
-  [[params.themeVariant]]
-    identifier = 'relearn-custom-light-winter'
-    name = 'Relearn Winter light (custom)'
-  [[params.themeVariant]]
-    identifier = 'relearn-dark-winter'
-    name = 'Relearn Winter dark'
+    identifier = 'true-christmas'
+    name = 'Noël'
   # end seasonally at top
   [[params.themeVariant]]
     name = 'Relearn'
@@ -149,19 +141,6 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     identifier = 'tome-light'
   [[params.themeVariant]]
     identifier = 'tome-dark'
-  [[params.themeVariant]]
-    name = 'Tome Winter'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'tome-winter-auto'
-    name = 'Tome Winter light/dark'
-    auto = [ 'tome-light-winter', 'tome-dark-winter' ]
-  [[params.themeVariant]]
-    identifier = 'tome-light-winter'
-    name = 'Tome Winter light'
-  [[params.themeVariant]]
-    identifier = 'tome-dark-winter'
-    name = 'Tome Winter dark'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
