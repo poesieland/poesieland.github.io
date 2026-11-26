@@ -39,10 +39,6 @@
   --TOPBAR-LINK-HOVER-color: #346548;
 }
 
-div.flex-block-wrapper {
-    background-color: var(--MAIN-BG-color);
-}
-
 @media screen {
   /* Bandeau et plume originelle, recolorée sans écraser le fichier logo.svg. */
   #R-header-wrapper {
