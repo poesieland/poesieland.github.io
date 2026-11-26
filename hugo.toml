@@ -6,13 +6,15 @@ theme = 'hugo-theme-relearn'
 defaultContentLanguage = 'fr'
 enableEmoji = true
 removePathAccents = false
-cleanDestinationDir = true
+
 enableMissingTranslationPlaceholders = false
 titleCaseStyle = 'firstupper'
 
 [build]
   [build.buildStats]
     enable = false
+  [build.cleanDestinationDir]
+    enable = true
 
 [params]
 # This controls whether submenus will be expanded (true), or collapsed (false) in the
@@ -79,8 +81,10 @@ additionalContentLanguage = [ 'en' ]
 disableExplicitIndexURLs = false
 # For external links you can define how they are opened in your browser; this setting will only be applied to the content area but not the shortcut menu
 externalLinkTarget = '_blank'
+
+forceDefaultThemeVariant = true
 # themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
-themeVariantAuto = [ 'poesieland-noel' ]
+themeVariantAuto = [ 'relearn-custom-light-winter', 'relearn-dark-winter' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 # sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
@@ -88,16 +92,33 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
+
+  # Seasonally at top
+  [[params.themeVariant]]
+    identifier = 'relearn-winter'
+    name = 'Relearn Winter'
+    type = 'divider'
+  [[params.themeVariant]]
+    identifier = 'relearn-winter-auto'
+    name = 'Relearn Winter light/dark'
+    auto = [ 'relearn-custom-light-winter', 'relearn-dark-winter' ]
+  [[params.themeVariant]]
+    identifier = 'relearn-custom-light-winter'
+    name = 'Relearn Winter light (custom)'
+  [[params.themeVariant]]
+    identifier = 'relearn-dark-winter'
+    name = 'Relearn Winter dark'
+  # end seasonally at top
   [[params.themeVariant]]
     name = 'Relearn'
     type = 'divider'
   [[params.themeVariant]]
     identifier = 'relearn-auto'
-    name = 'Relearn Light/Dark'
+    name = 'Relearn light/dark'
     auto = [ 'relearn-custom-light', 'relearn-dark' ]
   [[params.themeVariant]]
     identifier = 'relearn-custom-light'
-    name = 'Relearn Light (customized)'
+    name = 'Relearn light (custom)'
   [[params.themeVariant]]
     identifier = 'relearn-dark'
   [[params.themeVariant]]
@@ -105,11 +126,11 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     type = 'divider'
   [[params.themeVariant]]
     identifier = 'zen-auto'
-    name = 'Zen Light/Dark'
+    name = 'Zen light/dark'
     auto = [ 'zen-custom-light', 'zen-dark' ]
   [[params.themeVariant]]
     identifier = 'zen-custom-light'
-    name = 'Zen Light (customized)'
+    name = 'Zen light (custom)'
   [[params.themeVariant]]
     identifier = 'zen-dark'
   [[params.themeVariant]]
@@ -122,18 +143,25 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
     type = 'divider'
   [[params.themeVariant]]
     identifier = 'tome-auto'
-    name = 'Tome Light/Dark'
+    name = 'Tome light/dark'
     auto = [ 'tome-light', 'tome-dark' ]
   [[params.themeVariant]]
     identifier = 'tome-light'
   [[params.themeVariant]]
     identifier = 'tome-dark'
   [[params.themeVariant]]
-    name = 'De saison'
+    name = 'Tome Winter'
     type = 'divider'
   [[params.themeVariant]]
-    identifier = 'poesieland-noel'
-    name = 'Noël'
+    identifier = 'tome-winter-auto'
+    name = 'Tome Winter light/dark'
+    auto = [ 'tome-light-winter', 'tome-dark-winter' ]
+  [[params.themeVariant]]
+    identifier = 'tome-light-winter'
+    name = 'Tome Winter light'
+  [[params.themeVariant]]
+    identifier = 'tome-dark-winter'
+    name = 'Tome Winter dark'
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
