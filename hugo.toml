@@ -84,7 +84,6 @@ externalLinkTarget = '_blank'
 
 forceDefaultThemeVariant = true
 # themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
-themeVariantAuto = [ 'relearn-custom-light', 'relearn-dark' ]
 #  If minify=true, further theme assets will be minified during build. If no value is set, the theme will avoid minification if you have started with hugo server and otherwise will minify.
 minify = true
 # sets the layout if logo and tiltle is present, inlineontent makes the svg colorable with css
@@ -93,54 +92,157 @@ logo = { src = '/images/logo.svg?inlinecontent', layout = 'sidebar-row' }
 # Change default color scheme with a variant one. Eg. can be "auto", "red", "blue", "green" or an array like [ "blue", "green" ].
 # themeVariant = [ "auto", "relearn-bright", "relearn-light", "relearn-dark", "learn", "neon", "blue", "green", "red" ]
 
-  # Seasonally at top
-  [[params.themeVariant]]
-    name = 'De saison'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'true-christmas'
-    name = 'Noël'
-  # end seasonally at top
-  [[params.themeVariant]]
-    name = 'Relearn'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'relearn-auto'
-    name = 'Relearn light/dark'
-    auto = [ 'relearn-custom-light', 'relearn-dark' ]
-  [[params.themeVariant]]
-    identifier = 'relearn-custom-light'
-    name = 'Relearn light (custom)'
-  [[params.themeVariant]]
-    identifier = 'relearn-dark'
-  [[params.themeVariant]]
-    name = 'Zen'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'zen-auto'
-    name = 'Zen light/dark'
-    auto = [ 'zen-custom-light', 'zen-dark' ]
-  [[params.themeVariant]]
-    identifier = 'zen-custom-light'
-    name = 'Zen light (custom)'
-  [[params.themeVariant]]
-    identifier = 'zen-dark'
-  [[params.themeVariant]]
-    name = 'Neon'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'neon'
-  [[params.themeVariant]]
-    name = 'Tome'
-    type = 'divider'
-  [[params.themeVariant]]
-    identifier = 'tome-auto'
-    name = 'Tome light/dark'
-    auto = [ 'tome-light', 'tome-dark' ]
-  [[params.themeVariant]]
-    identifier = 'tome-light'
-  [[params.themeVariant]]
-    identifier = 'tome-dark'
+
+# Automatic variant by occasion
+[[params.themeVariant]]
+  identifier = 'my-occasion'
+  name = 'Au fil du temps'
+  script = 'themeVariantByOccasion'
+
+  [params.themeVariant.params]
+
+    # Christmas season
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = ['11-16', '12-31']
+      variant = 'true-christmas'
+
+    # Easter
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = 'easter'
+      variant = 'poesie-easter'
+
+    # Spring
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = ['03-01', '03-31']
+      variant = 'poesie-spring'
+
+    # Midsummer
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = '06-21'
+      variant = 'poesie-midsummer'
+
+    # Summer
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = ['07-01', '08-31']
+      variant = 'poesie-summer'
+
+    # Halloween
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = 'halloween'
+      variant = 'poesie-halloween'
+
+    # Autumn
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = ['09-01', '11-15']
+      variant = 'poesie-autumn'
+    
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      occasion = ['01-01', '02-28']
+      variant = 'poesie-winter'
+
+    # Default
+    [[params.themeVariant.params.themeVariantByOccasionMappings]]
+      variant = 'relearn-auto'
+
+# Relearn
+[[params.themeVariant]]
+  name = 'Relearn'
+  type = 'divider'
+
+[[params.themeVariant]]
+  identifier = 'relearn-auto'
+  name = 'Relearn light/dark'
+  auto = ['relearn-custom-light', 'relearn-dark']
+
+[[params.themeVariant]]
+  identifier = 'relearn-custom-light'
+  name = 'Relearn light'
+
+[[params.themeVariant]]
+  identifier = 'relearn-dark'
+  name = 'Relearn dark'
+
+# Zen
+[[params.themeVariant]]
+  name = 'Zen'
+  type = 'divider'
+
+[[params.themeVariant]]
+  identifier = 'zen-auto'
+  name = 'Zen light/dark'
+  auto = ['zen-custom-light', 'zen-dark']
+
+[[params.themeVariant]]
+  identifier = 'zen-custom-light'
+  name = 'Zen light'
+
+[[params.themeVariant]]
+  identifier = 'zen-dark'
+  name = 'Zen dark'
+
+# Neon
+[[params.themeVariant]]
+  name = 'Neon'
+  type = 'divider'
+
+[[params.themeVariant]]
+  identifier = 'neon'
+
+# Tome
+[[params.themeVariant]]
+  name = 'Tome'
+  type = 'divider'
+
+[[params.themeVariant]]
+  identifier = 'tome-auto'
+  name = 'Tome light/dark'
+  auto = ['tome-light', 'tome-dark']
+
+[[params.themeVariant]]
+  identifier = 'tome-light'
+  name = 'Tome light'
+
+[[params.themeVariant]]
+  identifier = 'tome-dark'
+  name = 'Tome dark'
+
+# Poesie
+[[params.themeVariant]]
+  name = 'Poesie'
+  type = 'divider'
+
+[[params.themeVariant]]
+  identifier = 'poesie-spring'
+  name = 'Printemps'
+
+[[params.themeVariant]]
+  identifier = 'poesie-easter'
+  name = 'Pâques'
+
+[[params.themeVariant]]
+  identifier = 'poesie-midsummer'
+  name = 'Saint-Jean'
+
+[[params.themeVariant]]
+  identifier = 'poesie-summer'
+  name = 'Été'
+
+[[params.themeVariant]]
+  identifier = 'poesie-autumn'
+  name = 'Automne'
+
+[[params.themeVariant]]
+  identifier = 'poesie-halloween'
+  name = 'Halloween'
+
+[[params.themeVariant]]
+  identifier = 'poesie-winter'
+  name = 'Hiver'
+
+[[params.themeVariant]]
+  identifier = 'poesie-christmas'
+  name = 'Noël'
+
 
 [params.relearn.dependencies]
   [params.relearn.dependencies.chartjs]
